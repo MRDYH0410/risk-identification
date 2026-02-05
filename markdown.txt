@@ -1,5 +1,7 @@
 这个文件是全部流程主文件，尤其是很多结果图表和爬虫原始数据都没有上传，所以需要按照这个文件的说明来运行代码
 
+
+
 grasp_data是爬虫
 
 RQ1先运行wordbag，这是词袋构建，其中先合并词袋并build_risk_lexicons.py，然后计算风险距离calculate_distance.py，
