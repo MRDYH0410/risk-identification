@@ -1,0 +1,81 @@
+Participants
+CORPORATE PARTICIPANTS
+Babak Pedram — Investor Relations, Virtus Advisory Group, Inc.
+Alvaro Pombo — Founder, Chief Executive Officer & Director, ProntoForms Corp.
+David Croucher — Chief Financial Officer, ProntoForms Corp.
+
+Management Discussion Section
+
+Question And Answer Section
+
+Good morning my name is Joanna and I will be your conference operator today. At this time, I would like to welcome everyone to the ProntoForms' Fourth Quarter 2018 Conference Call. All lines are placed on mute to prevent any background noise. After the speakers' remarks, there will be a question-and-answer session. [Operator Instructions] Thank you.
+
+I will now turn the call over to Head of Investor Relations, Babak Pedram. Please go ahead.
+
+Thanks very much. Good morning, everyone.
+
+Before we begin, I will read our cautionary note regarding forward-looking information. Certain information to be discussed during this call contains forward-looking statements within the meaning of applicable securities laws, including, among others, statements concerning the company's 2018 and 2019 objectives, the company's strategy to achieve those objectives, as well as statements with respect to management's beliefs, plans, estimates and intentions, and similar statements concerning anticipated future events, results, circumstances, performance or expectations that are not historical facts.
+
+Such forward-looking statements reflect management's current beliefs and are based on information currently available to management and is subject to a number of significant risks and uncertainties that could cause actual results to differ materially from those anticipated.
+
+Also, our commentary today will include adjusted financial measures, which are non-GAAP measures. These should be considered as a supplement to and not as a substitute for GAAP financial measures. Reconciliations between the two can be found in our Management Discussion and Analysis, which is available on sedar.com and our website. And finally, note that because we now report in U.S. dollars, all amounts discussed today are in U.S. dollars, unless otherwise indicated.
+
+With that, I will hand over the call to Mr. Alvaro Pombo, the CEO of ProntoForms.
+
+Good morning. Thank you, Babak. Thank you, Joanna.
+
+Good morning everybody, and welcome to our company's conference call. Before I hand the call over to our CFO, David Croucher, to discuss this quarter's financials, I'd like to take some time to discuss the ProntoForms' business in terms of its strategy, our 2018 execution, and where we see the business heading over the next 24 months.
+
+The engine of this company continues to be recurring revenue and our main focus is to keep refining our business model to create more of it. Q4 was a good quarter for us, as growth in recurring revenue increase 6% over Q3, 2018, to $3 million, and our ARR base accelerated to 27% annual growth, compared to 12% in 2017. That is now five consecutive quarters, over 5% growth. Adding to our growth strategy, we saw higher professional services revenue and margins from enterprise deployments and steady progress in reducing our operating loss.
+
+SaaS revenue growth, and particularly, enterprise SaaS growth, is made of layers. Marketing puts the message out directly and through partners, and that generates what we call Tier 1 leads of people that approach us with a well-defined need. They want to solve their problem and they buy a limited quantity. Then customers are on-boarded, and as they reach milestones and prove their business cases, they see results and they usually add more subscribers.
+
+Then people utilize the product for a while and they share their success internally with IT and other line of business. Each of these stages presents layers of growth with their own dynamics and the only way to accelerate them is through product lifecycle and customer-centric activities. There is no shortcut to enterprise sales. It is these combined sets of motions that result in growth.
+
+We are executing much better in all of this and evidence of it is that customers with more than $100,000 of ARR each, represents 26% of that base, up from 18% at the end of last year. Over the last weeks, we have announced a few of these stories of global enterprises that have hundreds of workflows for inspections, warranty management, compliance and many other – many others to support their operations in the field. The key focus of those ops is simplicity, flexibility and the ability to iterate and improve them easily. With our platform, the cost of making those hubs and maintaining them and improving them are worries of the past with our platform [ph] seasoned (00:05:07) developers are empowered by their managers and with their endorsement of IT, to pursue their objectives of continuing their digital transformation of their field operations.
+
+Another important element of the equation of getting closer to large customers is our product. We help evolve our product management organization to adjust to the demands of large customers and we continue to evolve with them in mind. In 2018, we built many features for enterprises. For example, we achieved our SOC 2 Type 2 certification, which is a tangible output from the investment and focus on the enterprise-readiness of the product.
+
+To wrap up, the complexity of field workflows is growing every day. More sensors, more digital twinning, more machine learning, more data ingestion requirements. Some analysts forecast that by 2022, more than 50% of enterprise-generated data will be created and processed outside the data center or the cloud. This is all increasing the need to more prescriptive and efficient on what people do in the field with their workers and how they optimize their work.
+
+Our field-centric local platform deals with complexities in a very elegant way. It handles data intelligently, is rooted in [ph] openness (00:06:30) and the cloud, and all of these scales very well and benefits from enabling technologies like IoT, AI, wearables and others. We don't see – we see no end in sight to the problems that we solve. More intelligent workflows are needed in the field and the old way of dealing with them through building custom apps is not sustainable, particularly for enterprise operations. The growth of this need is showing in our numbers.
+
+With that, I will hand it over to – will hand over the call to Dave, to discuss our financial performance for the quarter. Dave.
+
+Thank you, Alvaro, and good morning, everyone.
+
+I'll go through the financial highlights, but I would refer to the MD&A for more detail, and of course, would be happy to answer more questions at the end.
+
+Total revenue in the fourth quarter was $3.3 million, representing an increase of 4% over Q3 and a 25% increase over Q4, 2017. Total revenue for the 2018 year was $12.1 million, compared to $9.9 million in 2017, an increase of 23%. Of our total revenue for 2018, 89% of that was recurring. Recurring revenue in the fourth quarter was $3.0 million, representing an increase of 6% over Q3 and an increase of 24% over Q4, 2017. Recurring revenue for the 2018 year totaled $10.9 million, compared to $9.0 million in 2017, an increase of 21%. Recurring revenue from our non-operator channels was $2.3 million for Q4, up 8% for Q3 – from Q3 and up 37% from Q4, 2017. Recurring revenue from our operator channel in Q4 was $700,000, effectively flat from Q3 and down 4% from Q4, 2017.
+
+We have been reporting operator revenues separately because in the past we saw high churn in certain segments within that channel. This base has normalized now so that the high-churn segments are either gone or have minimal impact on our results. For these reasons we will discontinue reporting on the breakdown of operator versus non-operator revenue going forward. In terms of revenue bookings, our ARR base at December 31st was $12.4 million, representing a 7.7% increase over Q3, and a 27.3% increase over the base a year ago. As Alvaro mentioned, our ARR base is shifting to a higher proportion of larger customers. Customers with greater than $100,000 annual equivalent of recurring revenue now comprise 26% of our base, versus 18% a year ago, and 9% two years ago.
+
+Revenue from professional and other services was $350,000 for the fourth quarter of 2018, compared to $397,000 for Q3 and $272,000 for Q4, 2017. Total professional and other services revenue for the fiscal 2018 year was $1.3 million compared to just over $850,000 for 2017. The increase in annual professional services related mostly to a deal to build enterprise features out for a medical devices company. That work had the biggest impact on Q3, contributing over $220,000 in that quarter and approximately $450,000 for the year, and provided a higher margin in the PS work that we do on smaller deployment packages. Also of note, this customer came through a key ISP partner in the field services industry, proving that our targeted partner strategy is working.
+
+Gross margin on total revenue for the fourth quarter was 83%, up from 81% in the third quarter. Gross margin on total revenue for the 2018 year was 82%, which was consistent with the 2017 gross margin. Gross margin on recurring revenue in Q4, 2018 was 89%, consistent with the 88% gross margin in Q3, and gross margin for the 2018 year was 89%, compared to 90% in 2017.
+
+Operating expenses for the fourth quarter were $3.2 million, up 3.9% over Q3 OpEx. G&A increased approximately $106,000 in Q4, due to our stock-based compensation annual cycle and additional security infrastructure costs.
+
+While sales and marketing and research and development expenses ended up effectively flat from Q3, we did increase investment slightly in these areas, but the strengthening U.S. dollar had the effect of reducing the expense reported.
+
+Total operating expenses for the year ended December 31st, 2018 totaled $12.4 million, compared to $11.3 million in 2017, an increase of 10% year over year. Operating expenses, as a percent of revenue decreased from 115% in 2017, to 102% in 2018, reflecting our commitment to show a steady progress and reducing our operating loss, while growing our revenue.
+
+Loss from operations for Q4 was $467,000, down approximately $43,000 from the third quarter.
+
+Loss from operations for the 2018 fiscal year was $2.4 million, compared to $3.3 million in the same period of 2017. Net loss for Q4 was $410,000, down from approximately $642,000 in the third quarter of 2018. Net loss for the full year was $2.5 million, compared to $3.9 million in 2017.
+
+We are pleased that we showed steady progress over the course of 2018 in reducing our non-GAAP Op loss from $630,000 in Q1, down to $330,000 in the fourth quarter. Our cash balance at the end of the year was $3.3 million, compared to $5.1 million at December 31, 2017.
+
+In summary, we are pleased with the trends that we established in 2018. Number one, we showed better than 5% growth in recurring revenue in each quarter while steadily reducing our losses; number two, we benefited from enterprise professional services that contributed to our gross margin and our bottom line; our enterprise base grew in proportion to our total base, mostly through expansion of existing customers; and number four, prepaid contracts from these customers contributed to our cash flow to mitigate our already reducing operating losses.
+
+As usual, we caution that we may see quarterly fluctuations on our operating margins as we grow our business, but we continue to expect that our profitability measures will improve over time as our recurring revenue grows at a faster rate than our total operating expenses.
+
+That concludes the financial highlights. With that, I will ask Joanna to open up the line for questions. Thank you.
+
+Thank you. [Operator Instructions] At this time we appear to have no questions.
+
+All right. Well, we appreciate everyone's time.
+
+Yeah. Thank you, everybody, for joining, and any or all your questions, please call us. Happy to answer.
+
+Ladies and gentlemen, this concludes your conference call for today. We thank you for participating and we ask that you please disconnect your lines.

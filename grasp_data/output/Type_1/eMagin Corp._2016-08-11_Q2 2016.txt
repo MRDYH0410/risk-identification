@@ -1,0 +1,221 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+Jeffrey P. Lucas — Chief Financial Officer & IR Contact, eMagin Corp.
+Andrew George Sculley — President, Chief Executive Officer & Director, eMagin Corp.
+Andrew Uerkwitz — Analyst, Oppenheimer & Co., Inc.
+Aaron Martin — Analyst, AIGH Investment Partners LLC
+
+Management Discussion Section
+
+Question And Answer Section
+
+Good day and welcome to the eMagin Second Quarter 2016 Earnings Conference Call. [Operator Instructions] After today's presentation, there will be an opportunity to ask questions. [Operator Instructions] Please also note that today's event is being recorded.
+
+At this time, I'd now like to turn the conference over to Mr. Jeffrey Lucas, Chief Financial Officer. Sir, please go ahead.
+
+Thank you. Good morning, everyone. We're very glad to have you join us today for our second quarter 2016 earnings conference call. As always, before we begin, please note that we will be referring to the numbers that are part of our quarterly Form 10-Q for the quarter ended June 30, 2016.
+
+During today's call, we may make forward-looking statements as defined in the Private Securities Litigation Reform Act of 1995. These forward-looking statements are based on the company's current expectations, projections and beliefs, and are subject to a number of risks and uncertainties.
+
+Such statements include references to projections of future revenues, plans for product development and production, the company's ability to ramp up production, future contracts, product benefits, operations, liquidity and capital resources as well as statements containing words like believe, expect, plan, target, et cetera.
+
+Our risk factors are included in the company's Form 10-K for 2015 on file with the Securities and Exchange Commission. Except where required by federal securities laws, we undertake no obligation to publicly update or revise any forward-looking statement for any reason.
+
+With that, I'd like to turn the call over to eMagin's Chief Executive Officer, Andrew Sculley. Andrew?
+
+Thanks, Jeff. My prepared comments today will be different than those I have made during recent conference calls. In the past, I focused my discussion on our technology development. Today, I'll speak to you about the significant progress we're making on the business front with our technology. While not reflected in the quarterly P&L performance, we are excited by the significant progress we're making during quarter two in expanding our business beyond what has been our traditional markets. With tangible results already beginning to emerge, we're encouraged by what could be a significant expansion of our addressable market as we move much more aggressively into the greater commercial and consumer sectors.
+
+I'll return to a more detailed discussion of some of our exciting new business development, product development, and redirected sales efforts, but first, I'd like to comment on our quarterly sales results. As we previously noted, our domestic military business is experiencing softness due to lower volume run rates on maturing contracts in advance of the expected ramp-up from new military and aviation contracts, including the ENVG III and Family of Weapon Sights.
+
+While sales to U.S. Government are currently experiencing softness, we are encouraged by growth in our international military business, which comprised approximately 50% of Q2 product revenues and underscore our belief that we bring the very best in OLED microdisplay technology to global military markets. As new U.S. Government contracts like Enhanced Night Vision Goggle III program and Family of Weapon Sights begin to ramp, we expect to see a rebound in our U.S. Government sales. Jeff will also provide more commentary on Q2 in his remarks.
+
+Now, I'd like to bring you up-to-date on exciting new events, which are unfolding for eMagin across several strategic and business development fronts, which we feel will result in significantly expanded market opportunities with attractive gross margins.
+
+First, our hard work in raising awareness of our industry-leading technology is beginning to pay off in the very large and growing market for our consumer virtual reality headsets. At the May Society of Information Display Conference, we demonstrated our ultra-high brightness display. We are the only company that has produced direct patterned microdisplays at these small pixel pitches. This plus our proposal to potential HMD companies to design a new display has resulted in a few Tier-1 companies working on the display details with us.
+
+eMagin's full-color, ultra-high brightness OLED technology display design capability and the need for high-resolution OLED microdisplays in both VR and AR have led to this increased interest. We are now holding regularly scheduled development meetings with several of these Tier-1s and have already submitted proposals to develop displays for their particular requirements.
+
+Last week at the GamesBeat Gaming Industry Summit in Rancho Palos Verdes, California, Roy Taylor, Corporate Vice President for Alliances at AMD or Advanced Micro Devices, openly discussed his view that our 2k x 2k resolution OLED microdisplays provide a clearly superior VR experience compared to products from some of the current market leaders. He is convinced that high-resolution technology is the future of advanced virtual reality systems. You can find Roy's interview and his discussion of eMagin's most advanced virtual reality microdisplay solutions on YouTube just before the 3:30 minute mark.
+
+We have been working hard on product design and business development to generate this significantly increased interest in our products among potential Tier-1 strategic partners. These efforts are well-timed, coming simultaneous to the heightened interest by these Tier-1s to bring the very best, high-performance virtual and augmented reality technology to their next generation of products. We look forward to updating you on our exciting efforts here.
+
+Over the last several quarters, we also began more active direct sales and marketing efforts into commercial markets where our advanced technology microdisplays will power new generations of products. In Q2, these efforts began to pay off. We signed an $825,000 deal with a leading medical device company, the largest single sale into this vertical market in our company's history. We believe the medical device industry is an attractive market for us. It is large and growing. Additionally, our sales efforts outside of the government vertical resulted in an overall 11% increase to our total active customers in the quarter, which now stands at 108.
+
+Finally, we are very excited by what we expect will be a Q4 product launch of two high-performance consumer devices, one wearable and one handheld. We believe these products can be a significant opportunity for us. This product launch should generate revenue for eMagin in Q4 and will drive higher volumes from our existing manufacturing base, resulting in lower unit costs and better product margins.
+
+We are still highly focused on maintaining our strong military market share for soldiers and avionics devices. During the quarter, we delivered samples for over 20 new military and avionics applications and received our first production order for display upgrades to an army training system, which will result in further follow-on orders in the future. Overall, we're more excited now by our future prospects than we had been over the last year.
+
+While not reflected in our Q2 results, a lot of hard work behind the scenes on R&D systems integration, sales, marketing, and business development are starting to bear fruit for us. And we feel a lot of this hard work is coming together at the same time that the advanced technology we have been providing to high-performance military market is seeing better adoption in very large commercial and consumer markets. While we have a lot of work ahead of us, we feel we are focused in the right direction and the right strategy.
+
+With that, I'll hand it over to Jeff for a more detailed look at our quarterly financials.
+
+Thank you, Andrew. Looking at our financial performance, I will start with the second quarter income statement. Revenue for the quarter was $5.5 million, down 21% from the same quarter last year. The decline was due primarily to two factors. First, as Andrew mentioned, we experienced lower volumes in a few of our military contract as certain programs are winding down prior to new or successive programs ramping up.
+
+Second, last year's R&D contract revenue was one of the highest quarters on record for the company, making for difficult comparison. Also affecting our performance for the quarter, the more so on profitability than revenues was the impact of unanticipated downtime in one of our manufacturing tool.
+
+Product revenue was $4.8 million in the quarter, down 11.9% compared to last year. The decline in product sales reflects the winding down in military programs during the quarter. While we expect this lower U.S. military volume to continue into the third quarter, we anticipate a gradual ramp-up in the fourth quarter as volumes begin to pick up for two major programs: the Enhanced Night Vision Goggle III program, referred to as ENVG III by Andrew, midway into the fourth quarter; and later in the quarter, the Family of Weapon Sights Individual program or FWSI.
+
+Offsetting the lower level of U.S. military activity is the growth we are seeing in foreign military sales in sales to new industrial and commercial segments in which we have not yet had a strong presence. This is further evidenced in the record medical device company contract that Andrew mentioned previously.
+
+Contract revenues were about $752,000, 53% lower than the prior-year quarter but up 7% sequentially from the first quarter of this year. The lower R&D contract revenues in comparison to the prior year reflects a substantial contract work performed in the second quarter of last year particularly on our Mantech contract in our enhanced ultra-high brightness project. As we have noted in the past, our R&D contract work is solid and a reliable source of revenue, and there can be variations from quarter to quarter based on the timing of the work to be performed.
+
+Gross margin for the second quarter was 24% from gross profit of $1.3 million compared to 37% from gross profit of $2.6 million in Q2 of last year. Our profit margin was largely impacted by low production volumes due to unanticipated downtime on a major piece of equipment. As is typical of the cost structure of semiconductor companies, a substantial portion of our production cost is fixed. Because of the equipment downtime, there were fewer units produced over which to spread or allocate our fixed production cost [ph] type (11:57), resulting in a higher manufacturing cost per unit and lower gross margin. As a result, product gross margin was 20% and compares to the 35% in the prior year.
+
+The tool that experienced downtime has been repaired toward the end of June and the issue has been resolved. The replacement of this machine was anticipated as part of our manufacturing upgrade plan to improve yield and extend capacity. The replacement was ordered in the first quarter with delivery expected in the fourth quarter. It's also important to note that the capital outlay for the new tool was incorporated into our annual budget in the beginning of the year and contemplated in our December 2015 fund-raising. Contract revenue gross margin was 48% in comparison to 44% in the prior year, reflecting the higher profitability projects we performed during the quarter and favorable adjustments for lower total estimated cost over the life of these projects.
+
+Turning to expenses, total operating expenses for the second quarter increased to $3.5 million from $2.7 million a year ago with R&D expenses comprising the majority of this increase. R&D expenses were about $1.5 million, an increase of approximately $500,000 from the second quarter of 2015. This increase is primarily due to investment in the development of our new HMD product for the consumer market that Andrew mentioned. It also reflects lower allocation of our R&D expense to contract-specific R&D projects during the quarter.
+
+Selling, general and administrative expenses or SG&A for the second quarter were $2 million as compared to $1.6 million in the second quarter of last year. The higher expenses this quarter are primarily attributable to marketing and infrastructure cost for the HMD group in connection with the new product releases and the cost associated with the consolidation of finance and procurement from Bellevue, Washington to the company's facility in Hopewell Junction, New York. Neither of these costs were incurred in last year's second quarter.
+
+Regarding finance procurement, we anticipate the transition being largely completed by the end of the third quarter. We feel that this move was important not only to lower our cost structure with one less remote location but to have these two essential support functions joined at the hip with operations, R&D, and sales and marketing.
+
+Operating loss for the quarter was $2.2 million in comparison to an operating loss of $66,000 (sic) [$60,000] in the quarter ended June 30, 2015. Net loss in the quarter was $2.2 million or $0.07 per diluted share in comparison to a net loss of $66,000 in the prior year's quarter.
+
+Looking at the balance sheet, on June 30, 2016 we had cash and cash equivalents of $6.1 million compared to $9.3 million at December 31, 2015. During the quarter, we invested in production equipment, built inventory ahead of our Q4 consumer product launch, and remained focused on R&D and commercial sales and marketing efforts for the broader commercial, industrial, and consumer sector.
+
+Regarding our thoughts for the remainder of 2016, we expect that our military business will begin to improve in the fourth quarter. We believe that our leading-edge OLED technology will continue to play an important role in the next generation of military programs as evidenced by our inclusion in the ENVG III and Family of Weapon Sights program. We anticipate these new contracts beginning to ramp up in the fourth quarter.
+
+On the commercial side of our business, as Andrew discussed, we are very encouraged by the significantly higher tempo of discussions in which we are engaged with a number of Tier-1 companies. While it is difficult to predict timing on these ongoing discussions, we are encouraged by what we believe to be the significantly increased interest and urgency in adopting our technology versus just a few quarters ago. As well, we have reconfigured our sales and marketing efforts to focus more attention on higher growth industrial, commercial, and medical device market. We are having some early success and certainly expect to have more to report in the coming months.
+
+And finally, we are very excited about our planned introduction of affordable, high-performance, wearable and handheld products to the broader consumer market in the fourth quarter. We expect to give you more details in our next call.
+
+So with that, I will turn it back over to Andrew for final comments before we take your question. Andrew?
+
+Thank you, Jeff. Before we open the call up to questions, I would like to underscore our strong focus on achieving material and measurable milestones that can drive shareholder value for eMagin. We feel that what we reported today is just the beginning of what we can accomplish in the commercial and consumer markets.
+
+We now finally have growing momentum on our side in these very large markets where we think we can achieve attractive gross margins. We also continue to see our U.S. Government business as a solid foundation for our overall business with a healthy number of existing and future contract vehicles which help fund advanced technology development to power the next generation of high-performance display technologies. These are exciting times at eMagin, and we look forward to updating you on our progress next quarter. Thanks for your interest.
+
+We will now begin the question-and-answer session. [Operator Instructions] And our first question comes from Andrew Uerkwitz of Oppenheimer & Co. Please go ahead.
+
+Hey. Thanks, gentlemen. A couple of questions; one on the military side. As this third program kind of ramps up, could you remind us approximately how long these contracts typically are? And from a size perspective, how do you see it versus the prior contract that is replaced?
+
+Well, this is Enhanced Night Vision Goggle III program. We are on Enhanced Night Vision Goggle II program. They usually last a number of years and it should be – actually, the Government budget says it's going to be significantly larger than the other program. So we're feeling very good about it.
+
+Great. I appreciate that color. And then switching to the consumer opportunity, a couple of questions here, a couple of quick one. First is do you have the head count to support all this early interest? And then secondly, is there any technology that you think the potential customers could want that you don't have? And I asked that – and it seems like the competitive landscape, some offer all-in-one solution, some offer just best of breed, trying to figure out, trying to gauge where your potential customers are thinking as they move into gen II, gen III products?
+
+Sure. Thank you, Andrew. In this case, I'm going to talk about displays, and the displays they want are high-pixel density. We certainly do that. We can get above 3,000 pixels per inch. They also want very high brightness. We can certainly do that. We demonstrated 4,500 nits. So, that's why they're talking to us. And OLED microdisplays are very important because they want the speed that OLED can deliver. So, we are the company to come to for these displays.
+
+Now, we had put 2,000 by 2,000 display in a headset, and our goal here, as I mentioned before, was to show it to a number of companies and get them excited about our displays. And one of them, as we mentioned before, did get excited enough to buy IP. And we have a contract for 2,000 by 2,000 displays that we'll have to re-spin, and that will done by the end of this year. So, that one is moving forward.
+
+And the other companies talking to us are interested in a new design display. As you may know, the companies want a little bigger display and they want higher resolution. And we put together proposals and showed it to a number of companies, and they are interested. They asked, do we have any issues with people, et cetera. Well, we do have a design team that will be working very hard. We can also add to that design team or outsource. We've done that before when we needed more work, so we're not worried about that at this point.
+
+And the other thing you may ask about is manufacturing. We have talked to these companies as well about manufacturing equipment and taking the next step in that, though we still have those potential foundry partners that we're working with who are waiting for this to happen. So, this is exciting. This is what we have waited all this time for. And all the number of companies that are talking to us is very exciting as well.
+
+Great. Thanks. I appreciate it, guys. And I look forward to further announcements. It just seems pretty exciting. Thank you.
+
+Thank you, Andrew.
+
+Take care, Andrew.
+
+[Operator Instructions] Our next question comes from [indiscernible] (22:08). Please go ahead.
+
+Hi. It's Aaron Martin at AIGH. Good morning, guys. Certainly an exciting time. Can you elaborate a little more on the consumer devices that you said will generate revenue in Q4? Are those one of your partners? Are those one of your devices? I'm trying to understand what's going on there.
+
+Yeah, they're actually devices that – it's the idea came from eMagin, our headset group, getting them put together. Obviously, our displays are being used as well. And we have partners that put together some of the assembly, et cetera. So, it comes out of us entirely with design, et cetera with manufacturing partners.
+
+But just to be clear, this is entirely our effort and our initiative.
+
+Okay. Yeah, so you're manufacturing partners. In terms of who's going to be selling the devices, is it eMagin or is that a partner who's going to be selling it?
+
+Well, we have a unique situation here, which we don't want to announce until the launch, so I apologize for that. But it's very exciting, and it will deliver a lot of buzz.
+
+To be clear, we are the ones who are selling it direct.
+
+Okay. So, it's not a white box situation, white label.
+
+Right.
+
+That's not what's going on here.
+
+No. It will be labeled eMagin, absolutely.
+
+Okay. You have [indiscernible] (23:39) some plan, I perceive, in terms of the distribution.
+
+Yes.
+
+Is that the way I should understand it?
+
+Yes.
+
+That's correct. That's part of our efforts, and we've actually sort of built an ecosystem to handle the whole channeling, distribution, and all those elements of it.
+
+Okay. Would we expect – I guess, it generates revenue in Q4. It will be more of an inventory build in Q3 leading up to that?
+
+That is correct.
+
+Okay. Going back to your more strategic discussion, is there a way you could help quantify what's been going on there? And obviously, there's been a huge change in tone in the whole industry, on the consumer side of things with Pokémon GO. And help us quantify the difference before and after. Is there anything you can do here to help us quantify all that?
+
+Well, I think the best thing I can do in terms of quantifying what display sales would be would be to take a look at some of the information out there on what these markets will deliver over the next number of years. And it can be significant. And I like to say that even if they're half right, I'm very excited about this. And even if part of the market goes to cellphone size, I think that will continue. The part that goes to microdisplays is a significant market for us.
+
+Okay. But in terms of the number of partners or potential partners that you're talking to now [ph] and giving note (25:20) and sending prototypes or different displays to, can you quantify that?
+
+Well, I could but I don't want to give – I mean, several is the number we gave, and we're going to stick with that. We have one company. Obviously, one is displays at the end of the year, the 2k x 2k, and that we're working towards, and then the others, we're designing new displays. Those are the proposals on the table right now.
+
+But there are more than two that we're talking to...
+
+Yes.
+
+...about a few more, just to be clear.
+
+Yeah, my comment is one wants a display, and the other several are interested in a new display design. And we [ph] treat this off (26:06) by our ultra-high brightness and giving proposals to companies for different display. We know a different display is needed.
+
+Thank you. [Operator Instructions] Our next question comes from [ph] Tom McGuire (26:30), private investor. Please go ahead.
+
+Hi, [ph] Tom (26:32).
+
+Hey. Good morning. And I have to get used to this morning call versus the late afternoon call. Anyway, hey, congrats on all the progress you've made this quarter. It is really exciting. The question I have is on the medical product contract that you announced, how big is that business for you currently? And was this contract with an existing customer or a new customer? And what can this contract do for you in terms of increasing your presence in the medical field?
+
+In terms of our existing customer base for this medical market, it's small for us right now. So this is a big step forward. As I believe Jeff said, it's $825,000 or I said it's the largest single order we have in this space. So this is one that is very small for us, and it's a big deal. And we think our microdisplay technology is a good fit for this.
+
+Okay. And was this an existing customer or a new customer?
+
+No, a new customer.
+
+New customer. I'm sorry. Go ahead, Andrew.
+
+Yeah. There was some very small things in the past. So I mean, this is just a big step-up.
+
+So let me just expand upon that a little bit to answer your question, [ph] Tom (28:02). We're making actually pretty extensive inroads into the medical device space. We've reached out to our few existing small order customers we've had in the past and spending time with them, sharing with them our technology, and how it fits into their product development. And actually, this is one of the earlier wins in that effort. We have a lot of other initiatives with the medical device industry in place right now, and those might take a little bit of time to yield fruit. So we're definitely sort of sowing the field, so to speak, to a lot of further opportunities.
+
+Okay. Good. Thank you very much.
+
+Our next question comes from [ph] Tom Rath of Boulder Valley Asset Management (28:40). Please go ahead.
+
+Good morning, Andrew and Jeff. I have a couple of quick questions. So when you speak of several customers and you're developing the larger high-resolution display for those or displays, how long should we contemplate that that development work will take [indiscernible] (29:11)?
+
+Looking at a normal display development, it depends on whether it's a tweak of a past display or something very new. These are very new. So, display development – whether it's a cellphone or microdisplay, any display at all, take nine months to a year to actually finish. But what you should wait for is signed contracts and being significant of size so that we have to talk about them.
+
+Okay. So, you would anticipate press releasing those contracts, [indiscernible] (29:48)?
+
+Well, unless there's something stopping us, we anticipate talking about them.
+
+Yeah. The biggest challenge we have here in doing that is so often we find that our customers want to maintain a level of disclosure on this. And that sort of can preclude our ability to issue press releases. But to the extent that we can, we most certainly will.
+
+And you recall one that we announced in the past. We said undisclosed company. So, that's the sort of thing that if we're able to do it, we will do.
+
+Okay. And then my other question is, do you anticipate any delivery of business in the 3Q that you were not able to deliver in the 2Q due to the downtime on the machine?
+
+By the way, just so everybody knows, we talked about this machine downtime. We had – again plan to replace it because it's very old and it's the first step in our process, so it's not an OLED machine. And it will give us much better uptime. And every time we have an issue with this machine, the yield goes down. So, we're also doing much better on the yield because we've been working hard to keep it going.
+
+So, the product that it will replace, actually, we were putting together inventory for the launch of the new devices in the consumer market. So, that is what we're going to have to make up, so a small uptick as well from any missed revenue in Q2.
+
+Okay. And then the new machine, so are you saying – so this is not an OLED deposition machine? It's not old.
+
+No, it is not. It is not. There are a number of processes and I won't go into detail but I'd very happy to do it for anyone. So, it's way in the front of the process, this tool.
+
+Okay. So, I guess, just to cut to the chase, how long will it take to ramp up the new machine once it's delivered?
+
+In this case, that's not a big problem. It's not like ramping up a new OLED deposition machine, and we're not going to shoot the old tool. In fact, the old tool will be a backup. It's very nice to have multiple tools. So, this is a very good thing for us and we appreciate being able to do this.
+
+Okay. Great. Thanks. Those are my questions. I appreciate it.
+
+Okay. Thank you, [ph] Tom (32:13).
+
+[Operator Instructions] It seems we have no further questions at this time. This concludes our question-and-answer session. I would like to turn the conference back over to Andrew Sculley for any closing remarks.
+
+Yeah. Thank you very much, everyone, for being on the call. Well, this is an exciting time dealing with several companies, taking about the new display design that we actually put together a proposal and they're excited about it. This is the display that's needed in this new VR and AR headsets, absolutely. Our OLED display with very high brightness, no one else can build them at this point, and we're well ahead of anybody you can think of who might be our competition. It is exciting. So, again, I thank you very much, and I just want to thank the eMagin team as well for making this significant progress. Thank you all for the conference call.
+
+So, stay closer [indiscernible] (33:33). A lot more to happen
+
+The conference has now concluded. Thank you for attending today's presentation. You may now disconnect.

@@ -1,0 +1,243 @@
+Participants
+CORPORATE PARTICIPANTS
+R. Dwayne Kushniruk — Chief Executive Officer & Director, OneSoft Solutions, Inc.
+Paul Douglas Johnston — Chief Financial Officer, OneSoft Solutions, Inc.
+Marcel Valentin — Vice President & Partner, Sophic Capital
+
+Management Discussion Section
+
+Question And Answer Section
+
+Good morning and thank you for joining us for OneSoft Solutions' Financial Conference Call to discuss its Financial Results for the First Fiscal Quarter of 2024 ended March 31, 2024. On the call today, we have OneSoft CEO, Dwayne Kushniruk; and CFO, Paul Johnston. This call is being recorded.
+
+Before management discusses the results, I would like to remind everyone that certain statements in this call may be forward-looking in nature. These include statements involving known and unknown risks, uncertainties, and other factors that could cause actual results to differ materially from those expressed or implied in our forward-looking statements.
+
+For caveats about forward-looking statements and risk factors, please see OneSoft's MD&A for the year ended December 31, 2023 and Q1 ended March 31, 2024, which can be accessed on the company's profile at SEDAR+ and on the company's website.
+
+I will not pass the call over to OneSoft's CEO, Dwayne Kushniruk. Please go ahead.
+
+Good morning and welcome to everyone on the call. I first want to note that Brandon Taylor, our President and COO, who joins us to present this call, is traveling internationally and unable to make this particular call. I have just a few remarks before Paul Johnston reviews financial information. Then we'll wrap up by addressing investor questions.
+
+This is the fourth financial results conference call, and we are assuming that most attendees of today's meeting are familiar with the company. However, for those of you who want more detail regarding our history and progress to date, please log on to our website. If you want a quick summary of our company's history and progress, you can view our first conference call for the Q2 2023 report. The link for which is accessible are shown here, so just click on Investor heading, then AGM and Financial Info, then Q2 Earnings Call.
+
+For those joining us for the first time, I want to provide some key points about our company and Cognitive Integrity Management or CIM Data Platform. OneSoft develops end market CIM as a SaaS or Software-as-a-Service data platform that ingests, normalizes, aligns, and analyzes big data using machine learning, data science, and cloud computing. CIM typically competes with legacy processes that use on-premise computing systems and typically with a lot of reliance on Excel Spreadsheets. CIM provides our customers with advantages that legacy systems cannot replicate, including increased operational efficiencies and safety, more capability to manage and maintain regulatory compliance in operating their businesses, and capability to maintain audit readiness at all times, as required by regulators. Also better capability to reduce oil and gas pipeline failures through better data management and analysis.
+
+OneSoft has first-mover advantage and a significant competitive moat regarding our technology and solutions in that we are the first company worldwide to develop and commercialize a born in the cloud solution that uses machine learning and data science to analyze big data, which assists oil and gas pipeline operators to achieve their objectives of zero pipeline failures.
+
+We have now compiled what we believe may be the largest aggregation of pipeline integrity data. This includes information associated with about 150,000 miles of pipelines, operated by 15 major customers and 20 pipeline operators. So this aggregation of big data is essential for application of machine learning and AI technologies, and OneSoft has first-mover advantage in commercializing these new technologies for the oil and gas pipeline industry.
+
+CIM has undergone extensive validation efforts by many of the most progressive pipeline companies, including two of the industry's five super majors. We have customers in the US, Canada and Australia, and are pursuing sales opportunities in several other regions, including South America, India and Asia.
+
+I want to point out some Q1 2024 highlights. Revenue was CAD 2.9 million, a 32% increase over Q1 2023. Our cash and cash equivalents increased to CAD 8 million at quarter end, which is up CAD 2.4 million from the comparative quarter last year and up CAD 3.2 million from December 2023, the prior quarter. We continue to evolve our business development efforts in Q1 to investigate collaboration with third parties who have capability to become CIM reseller partners, and initiatives that will help us sell to customers in new markets, including Central/South America and EMEA.
+
+Just to note, subsequent to the quarter-end, in early April we announced establishment of sales operations in EMEA. Sales projects continue to progress and our sales pipeline continues to increase. Product development continued during the quarter, including for external corrosion management, crack management, probabilistic risk management and geohazard strain modules.
+
+I will now pass the call to Paul Johnston, CFO, to review the company's financial information. Paul?
+
+Thank you, Dwayne. I will present the financial results for the first quarter of 2024.
+
+All figures reported today are in Canadian dollars. We continue to be proud of continued revenue growth this company has produced. I wish to highlight the progress OneSoft has made in growing revenues over the past seven and three-quarter years. This chart illustrates revenue increasing sequentially quarter-over-quarter. We're extremely proud that our CIM solution and IM Operations have produced a compound annual growth rate of 43.1% over the last seven and three-quarter year or by 13.8% per quarter over the last 31 quarters.
+
+Some discerning observers may note the revenue bar for March 2024 is slightly less than that for December 2023. In US dollars, revenue in Q1 2024 increased marginally over December 2023. However, the average exchange rate fell, causing the Canadian dollar value revenue to decrease by 27,200 and that's a bar of slightly less. In Q4 2023, a number of HCA and similar risk projects were completed for customers. In Q1 2024, that same work has not yet been done. However, other revenue more than offset the absence of that revenue.
+
+The majority of our revenue is annual recurring revenue or ARR. In Q1 2024, ARR comprised 83% of revenue and with 85% of revenue in Q1 2023. The high ARR is due to the nature of our software products. Our customers continually use the software again and again to analyze new data sets generated by their pipeline integrity operations.
+
+In Q1 2024, revenue increased by CAD 698,000 or 31% over Q1 2023. The addition of new CIM customers and by existing customers expanding their use of CIM drove CAD 720,000 of the increased. Revenue decreased with other customers and reduced foreign exchange rate reduced that increase to CAD 698,000, as stated in the table on the screen.
+
+Gross profit increased by CAD 618,000 or 40%. The increase was due to the higher sales volume, which generated CAD 492,000 of additional gross profit. And a moderation in direct costs contributed a further CAD 126,000 of gross profit, and allowed the gross margin increase to 75% from 70%.
+
+Operating expenses net of cost capitalization increased by CAD 601,000. The main drivers of the increase are salaries and employee benefits, increasing by CAD 169,000 as the company has increased the number of staff since December 2023 and wage increases have been selectively granted.
+
+General and administrative costs increased by CAD 340,000 due to the incurrence of legal, accounting, and taxation expenses to investigate potential M&A scenarios.
+
+In the quarter, capitalized software development costs increased to CAD 98,000, as the company continued to develop its risk management pipeline corrosion and geohazard and pipeline strain measuring products.
+
+Other expenses increased by CAD 93,000 quarter-over-quarter. Included in this is an additional CAD 251,000 in stock compensation expense arising from the grant of 2.7 million restricted share units in September 2023. Partially offsetting this cost increase was a foreign exchange gain of CAD 115,000, generated by changing foreign exchange rate.
+
+While revenue and gross profit rose, the increase in expenses more than offset that, and the net income declined by CAD 77,000. The incurrence of the unusual expenses related to investigating M&A scenarios was a significant contributor to the net loss not decreasing in quarter one 2024.
+
+On this slide, we're showing our adjusted EBITDA or earnings before interest, tax, depreciation, amortization, and stock compensation expense. Many people like to use adjusted EBITDA as a proxy for a company's ability to generate cash. In Q1 2024, adjusted EBITDA was negative CAD 244,000, which was an improvement of CAD 135,000 over quarter one 2023.
+
+Looking at our statement of financial position. Cash increased by CAD 3,160,000 due to customers renewing their CIM contracts and paying your subscription fees upfront for the year. Trade accounts receivable increased, and invoices for contract renewals were collected after the quarter closed. The company's only debt was the acquisition price of CAD 243,000. This will be paid in two equal installments on June 2024 and June 2025. Working capital on March 31, 2024 was CAD 1,109,000 versus CAD 1,522,000 on December 31, 2023. The company believes its cash balances and expected future cash receipts will be sufficient to finance company operations for the year. And there will be no need to incur additional financing unless a special situation such as an acquisition or merger opportunity were to arise.
+
+With reference to cash flow, we first point out the company continues to incur large amounts of non-cash expense being CAD 544,000 in Q1 2024. In the current quarter, the company generated CAD 3.5 million cash from its operating assets and liabilities. Components of this figure were the company increasing its investment in accounts receivable by CAD 602,000. Offsetting this were increases in accounts payable of CAD 518,000 and deferred revenue balances by CAD 3.8 million, the latter of which was due to customers prepaying their subscriptions through 2024 in advance. In total, operating activities generated CAD 3.9 million cash, which was CAD 2.5 million greater than that generated in the period last year. Investing activities in Q1 2024 consumed CAD 104,000 cash, which represented costs invested into new software development. In total, the company generated cash flow of CAD 3.2 million in Q1 2024, an improvement in cash generation over that in Q1 2023 by CAD 2.4 million.
+
+We wish to make a few remarks on the guidance for 2024 we published in February of this year. Revenue in Q1 2024 was below expectations, as we did not find and receive revenue from the prospective customers as we had expected. There were administrative delays at several prospective customers, which we believe will be overcome and allow revenue to be earned in 2024 to make up the gap. The net loss was greater than expectations due to the occurrence of the CAD 344,000 spent investigating M&A scenarios. Lastly, we expect cash and deferred revenue more aligned to guidance estimates as the year progresses.
+
+In summation, we are not changing our guidance estimates at this time, but will revisit these figures at the conclusion of Q2 2024. Please refer to our Q1 2024 Financial Statements and Management Discussion and Analysis published on SEDAR+ for more information.
+
+This concludes my overview of the financial results. I will now turn the call back to the operator to start the question-and-answer session.
+
+Thank you. I would now like to hand the floor back over to Marcel Valentin who will moderate the Q&A session.
+
+Thank you, Kelly; and thank you, everyone for submitting your questions throughout the call and since we published our results yesterday. We'll try to get to all of them, but if we don't have sufficient time, we'll get back to you via email.
+
+So our first question is, what gives you the confidence to maintain your annual guidance?
+
+I would answer that by saying that our business is pretty much proceeding in accordance with expectations. We see what our sales pipeline is. We know what the activity is with our sales efforts. So we're expecting that situation to continue.
+
+I think the only thing that has not proceeded in accordance with our expectation is that we've had some deals that have been delayed through – the customers have various reasons for delaying closing or signing of agreements, but we believe those are going to happen. So we're confident that our business is going to proceed this year as expected.
+
+Okay. And related to that, if you're not changing the revenue guidance where Q1 revenue was below expectations due to the late signing of new customers. Does that mean you expect to overcome the gap with more than previously expected revenue from existing customers this year?
+
+Yes. We expect that that revenue is going to come in 2024.
+
+And what sort of delays caused the delays to customer signings in Q1?
+
+There are all sorts of reasons. Deployment of our solution involves a change in process. Change management in large companies is always challenging. That's one of the issues. But the procurement process by different companies, enterprise level companies, that's challenging to navigate. There are a lot of moving parts that have to coordinate on the customer's end for this to occur.
+
+Paul, do you have anything to add? You're more involved with the signing of contracts.
+
+No, I would echo those comments, Dwayne. In particular, one prospective customer, there's just multiple layers of bureaucracy. And we've been promised several times, here's the signed contract. And that should be coming forward shortly. The revenue earning process on that one is much more at the front end of the contract and then it settles down into a regular pattern. And because there's revenue to be earned, a lot greater amount at the start of the contract, it's one of the ways in which we expect we will catch up.
+
+And then with regards to administrative delays, doing very accurate in that there's multiple departments that have to be aligned in order that they all agree to the signing of the contract. And those are just processes one has to work through.
+
+Next question. Are you still pursuing reseller partners? And what type of activity that you have in the first quarter? And what type of deals would you be looking for?
+
+Yes, we are. We're trying to find reseller partners. We would sooner have fewer, more effective, more efficient partners, and that's what we're looking for. So we're looking for companies who have customer – or reseller partner companies who have good relationships with their customers. What we're able to do by working collaboratively with these reseller partners is really increase their efficiencies as they provide services to their customers, and that's what becomes a win-win for the customer for our reseller partner and for OneSoft.
+
+So we're looking at several at this point. We think that's an important aspect in growing our international business, particularly in areas where there are language differences, time zone differences. It's important to have feet on the street in those areas. So we're looking to expand that, and we're in discussions with several of them at this point.
+
+Moving on to your module development. Do you expect any revenue from risk module and the crack management module this year? And if so, what type of metrics or expectations do you have around those?
+
+Well, I'll start off, and then I'll let Paul come in and provide his input from a financial perspective. But these are new modules. Typically, what happens is they start out slow, and customers are careful when they first take on these new modules to replace whatever existing processes or systems they have. So it's going to take some time for this to – the use of these additional modules to gear up. And we also recognize that any time we put out, we publish a new module, it's going to take some time to sort of perfect the initial functionality that customers want. So we generally have – we have to go back and add functionality and enhance areas of that solution. So all of that is important. It's required to roll these new modules out. And I guess the bottom line is it takes time for them to become revenue-generating in a consistent pattern such as our CIM Platform is today, our CIM solution.
+
+So, Paul, do you have anything to add about the revenue?
+
+With regards to the crack module, that has embraced some functionality that we previously had. And so that's input into that module. It was generating revenue before. That revenue has continued and has magnified somewhat. And there are other customers now interested in that module, given it's been brought forward.
+
+And with regards to risk management, we noted in our MD&A that we've hired a product manager dedicated to risk management. Before, risk management was assigned to a product manager who had more than one product assigned to them. And we think that by the hiring of a dedicated product manager, we'll be able to bring that product along more quickly than we would otherwise.
+
+Related to that question, after you reach your 2024 objective of completing modules in development, what will be your R&D focus in 2025 and how should we model R&D costs in 2025? Do you anticipate it will go down or stay level or go up?
+
+We have a technology development road map that looks forward several years. There's a lot of white space opportunity that we see in the industry and with our customers, so we're addressing that through our technology road map. In a software company, I think it's just not realistic to assume that you're going to be done with development at some point. There's always more to do. There are always enhancements to underlying technology that occur, which means we have to modify our systems. So it's an ongoing thing.
+
+In terms of the financial aspect, Paul, what would you say other than I expect these development expenses are going to continue and continue to increase, as they have over the last seven or eight years? Paul?
+
+Yeah. Dwayne, I would echo those comments. I think that our pattern of expenditure will reflect past year's expenditures. Dwayne has mentioned that we've got a product development road map which stretches into the future, and we'll continue to develop products. And we are always getting request from customers for greater functionality for both existing modules and functionality that we don't have at the present time and to be developed. So, therefore, that's why I would think that our expenditure levels will remain pretty consistent with past years.
+
+And a few questions on the M&A that you're pursuing. Can you give us some color on what type of opportunities you're looking at as a consulting software services or IP? What were you looking at during the quarter?
+
+Ideally, we would like to acquire other companies that are similar to the IM Group we acquired in 2022. So, specifically, we're looking for SME or subject matter expertise from people who are highly trained in specific areas, as our IM people were. We're looking for companies who have relationships with customers. What might make sense is to consider M&A in other jurisdictions, where language and time zone are different from what we face here in North America. We're looking at all of those possibilities. And what we will do, obviously, is we will report on anything that occurs at the time that it happens.
+
+And if you were to make an acquisition, how would you structure it? Would it be debt, equity, cash, combination?
+
+It would depend on the transaction. The last one we did, we agreed the structure with some cash the structure with some cash and issuance of shares. So that's probably a good model. No, it may not work in all cases. At this point, it would just depend on what the transaction looks like.
+
+Okay. And will this be an ongoing cost going forward? [indiscernible] (28:02).
+
+The question probably refers to the CAD 340,000 that we identified as expense in the quarter. So the way I would answer that is a portion of that is likely not to reoccur; but a portion, as we continue, on will reoccur in future periods. So there's always a sort of a base of work that needs to get done. And once that's done, that will allow us to go ahead without having to repeat certain tasks. We've had to understand the tax implications, all sorts of things. And all of that is costly to do because we're hiring lawyers and accountants to provide us advice. So, once we have that, those kinds of expenses will not reoccur.
+
+Paul, do you have anything to add there?
+
+I would echo that comment. I think our expectation would be, though, that it would be to a much lesser degree than what we incurred in Q1 2024. But, again, it's situational. It depends on what deal we might look at and how that deal's being structured and if we need advice or not.
+
+Okay. And a clarification question concerning the guidance. Is that all organic growth, or does that also include any potential M&A activity?
+
+That is all organic growth at this point. So any M&A, if that occurs, would be in addition.
+
+Okay. Can you discuss a little bit more about your international initiatives, the ones you have ongoing in Europe, EMEA, and I think you said the Americas as well?
+
+We have a salesperson who is based in Panama City. Is that correct, Paul?
+
+Correct.
+
+Who is Spanish-speaking, and he is approaching potential customers in Central and South America. In April, just after the quarter end, we hired another individual who came from the industry who actually worked for one of our competitors who provides legacy systems. So he has a long history with potential customers in Europe, Middle East, Africa. So we brought him on board, I think, the first part of April. So he will be pursuing companies that he has relationships with there.
+
+We also have some activity that's always ongoing with Microsoft. Microsoft considers OneBridge to be its vendor of record for this industry. So Microsoft will often call us in into sales situations. Microsoft is looking to sell and deploy their Azure platform. And for our industry, OneBridge really has the SaaS solution that can work on that Azure platform so. So we respond to efforts that Microsoft has ongoing. So it's a combination of things.
+
+Okay. With regard to the deals that were pushed out, is there anything in common with them that you can identify ? Can we see some of them close in Q2 or do you anticipate that will be later in the year or is it hard to time?
+
+I would say that we would make no comment. When they are closed, we will announce the significant deals. I will also point out that we have other customers coming on board because of the M&A that's going on in the pipeline industry space. So some of our customers are electing to deploy CIM in some of their other regions. That's always ongoing. So it's not necessarily just the addition of a brand new customer that's driving revenue growth. That's one of the factors. The other is that our existing customer base, we expect that's going to continue to increase revenue for us. [indiscernible]
+
+(33:20)
+
+Yeah. You did. Thank you, Dwayne.
+
+Yeah. The next question is, what's your renewal rate with existing customers? Have you lost any over the past year?
+
+I don't think we've lost any in the past year. I think in the almost eight years of business, I think we've lost a couple, maybe two customers, because they were acquired by other companies who, post acquisition, elected to deploy their own internal systems and processes. So these customers that we used to have, we're taken off CIM and put on to the common integrity management systems that the acquirers were using. So amongst our customers who are not acquired, I believe we're still at 100% retention.
+
+Paul, do I have that correct?
+
+I would agree with what you said.
+
+Okay. Moving on to the competitive front. Have you seen any other companies, public or private, doing machine learning, predictive analytics the way you are for the pipeline [indiscernible] (34:42) energy pipeline industry?
+
+I'm quite sure that there's a lot of activity going on globally around this. But I think what differentiates us is the fact that when we started this company back in 2015, we started it with the idea of developing a SaaS platform. And I think most other software companies tend to develop functionality for a specific purpose, as opposed to building a platform first that can then underpin all sorts of different modules. So I would consider that's one of the most important differentiators that we have. And in fact, in the sales competitions that we get into with prospective customers, we still don't see anything out there that really can compete with our platform.
+
+And so related to that, who are your most common competitors when you meet with potential customers, prospects? And what's your win rate?
+
+Our most common competitors would be the use of Microsoft Excel. And for the larger companies, we're generally competing with in-house development teams who are trying to build what we have. The disadvantage that they have is they are not software developers per se. They're mostly engineers trying to figure out software solutions. But the bigger disadvantage is these big companies, even though they're large, will only ever have their own data. And that can't compete with the road map that we envision when we have got data that spans, I think, now, 15 customers and 20 pipeline operators. So we have all of this data, and that's what's really important to advance ML and AI as we go forward. So our competitors are in-house if the company is big enough or existing legacy systems.
+
+And can you discuss your pricing power?
+
+I think that – we have a lot of feedbacks from investors who are concerned that we might not be charging enough for the services we have. But our view is that, at this juncture of the company's development, the key objective continues to be the addition of new logos, new customers, as this will assist in retaining the competitive moat that we have. Once we get a customer, unless they're acquired by someone else, we believe they're likely to stay as a customer. And it's going to be very difficult, very challenging, for a competitor to come in and take this customer away from us.
+
+So we're making concessions in terms of pricing from the perspective of we're providing the best service that we can, where we don't have the history or the reputation of charging our customers the way our consulting firm would for everything that's done. It's more important for us to get these customers in, on board, using our solutions. And then we believe this is what's really going to create the value in the long term.
+
+We believe that our pricing is just where it should be. I think we've pivoted on pricing five or six times in the last seven years. So it's getting closer to – it's probably as perfect as it's going to be at this point. And it's something that the customers accept, and it's acceptable to us, and it works with our strategy and our growth plans.
+
+Paul, do you have anything to add?
+
+I don't think so, Dwayne. Contemplating our pricing methods, I think you've stated the case there. When a customer takes us on, it tends to be a big budget item. The total bill for the contract can be quite large and has to be approved by several departments. So therefore customers are sensitive to the size of the contract and the amount of approvals they have to get. And we are increasingly conscious of the amount of service we provide to go with the software and whether we're fairly pricing that, and that's something that's catching our attention a little more these days. I think other than that, Dwayne, you've stated the case for the company.
+
+Yeah. I would add one more point, and that is our customers do not look at this. If you look at legacy software solutions for the industry, a competitor might have a product that they sell for CAD 60,000 or CAD 100,000. And then what they'll do is provide, over the next few years, multiple times that software price, and they'll provide it in terms of time and material billings for services that are associated. And so our customers, they'll look at software costs and say, okay, that's only CAD 100,000. They can expense that to a particular maintenance project.
+
+When customers look at adopting CIM, they take a different view. They take a long-term view and they'll look at the cost of running CIM, let's say, over the next five years, which is going to amount to millions of dollars, not CAD 100,000. So I think that's part of the reason that it takes longer to get these companies ready to sign the agreement. They have to ensure that they're making the right decision. They have to look at all the benefits, the cost savings across multiple departments. There's a lot of analysis that goes into the decision. And while the decision takes more time in our case, it's certainly more sticky over the long term.
+
+Have you ever had an instance of a customer reducing their usage of CIM?
+
+Paul, do you want to take that?
+
+Sorry, what was your question again, Marcel? I didn't quite catch it.
+
+Yeah. Have any customers reduced their usage of your solutions?
+
+I'm not aware of any reductions of usage. Customers get into a pattern of using the software and they tend to continue it. What we have noticed with certain customers is that they do get into that pattern, and we think they could make much greater use of the software; in which case, we then deploy our account executive to communicate with the customer and point out to them the additional things they could be doing and how they should adopt it. And we're occasionally successful with that, and occasionally we're not successful with that and the customer will stay in their pattern. But I'm not aware of any customers that have rescinded certain functionality, cut back, et cetera. Yeah, we don't really have any customer where we show a declining revenue over the years. If anything, stays steady or continues to increase.
+
+Okay. And how active are customers in your development road map? How do you vet ideas and approve ideas internally?
+
+I'm sorry. Say that again, Marcel. How do we?
+
+Yeah. So the question is around how much feedback do you get from your existing customers or prospects on the development road map.
+
+We depend on our customers and, in some cases, on prospective customers heavily because they're the ones who are ultimately going to make decisions to purchase what we produce. Last October, we had our first customer conference. It was a couple of day conference that took place in Houston at the Microsoft Executive Briefing Center. We were sold out. We packed the room, and we had representatives from, I believe, all of our customers who attended this two-day or two-and-a-half day session.
+
+And what we actually did was put together a steering committee of integrity management and VP level people. We wanted to ensure that we have people on this committee who have control of budgets. And we were able – we've put this committee together. This committee meets regularly. And it helps us to figure out our technology road map, figure out priorities on what needs to be developed. We also, in our software, have mechanisms for people, users to provide input on a very regular basis, that all goes into the queue and gets prioritized and worked on.
+
+Okay. A question here about your adjustable international TAM. I would just have the investor look to the 2023 fiscal year MD&A on sedarplus.com. It's on – let me just see here – page 10. There's a whole table about TAM, both domestically in the United States as well as the rest of the world. So you can work there.
+
+Next question is, how big is your pipeline today versus the last year's core Q1 2023? How much did it grow?
+
+We don't provide those metrics. We don't talk about them. But I can say that it's ever increasing. And it's bigger. The pipeline gives us more optimism today than it did a year ago.
+
+Okay. A few questions on your sales cycle. What's the average time? Is it – do larger customers or larger prospects take more time than smaller customers? How long does it take to deploy your product onboard a client, and when do you begin to recognize revenue?
+
+Paul, do you want to take that?
+
+Yeah. Our sales cycle, if we were to look across all our customers, I would suggest it's somewhere in the nine months to one year phase because, as Dwayne had mentioned earlier in the Q&A, bringing in our software bring big change in processes at our customers. And so all the various departments have to align and agree to adopt that in order to make the software effective. And so, while they're agreeing and aligning and all that type of thing, time ticks by. And again, it tends to be a bigger budget item and therefore multiple departments generally have to agree to the incurrence of the expenditure.
+
+With regards to our revenue recognition, it tends to be that once we make the software available, we start to recognize the revenue. And with regards to how quickly we can bring on a customer and get them fully implemented on the software, it depends a lot on the customer and the amount of time they will devote to it. We just brought on a very large customer. There was a great focus in getting all their data into the system, getting them alive, and we did that within six months. And they had a great deal of data to bring in from different systems, a couple of which we had not seen before with other customers. So we had to make changes to adopt it, but we were very successful with the implementation and brought them on, again, within the six-month period. So I trust that answers the question.
+
+Yeah, that's good. Thank you, Paul. Next question is, is there anything on the regulatory front either in the United States or internationally that could drive adoption of your solutions?
+
+I can't speak to the specifics of that. But generally, what we're seeing is that the requirements from regulators are increasing in terms of demands not decreasing at this point. And for example, the Mega Rule in the US, we believe, is going to motivate customers to adopt at least components of our geohazard management, the geohazard strain, a module that we're working on because there will be new requirements to report and monitor movement of pipe [ph] in the years (49:44) and so on. So, again, I don't see this going the other way. I think that the opportunities are going to continue to increase, and part of that will be driven by new regulatory requirements.
+
+Okay. Can you explain why your customers – well, first of all, do you own the data? That's one question that your customers give you. And why are they so willing to turn it over to you?
+
+We do not own the data, but we do own the learnings from the data that gets baked into our IP, and that's really where the value is. The data without the analytics is simply data that really doesn't have value by itself. I think the reason the customers are willing to share that data with us or allow us to use it to advance our algorithms and so on is because we're able to turn around and create efficiencies for them, do analytics that they wouldn't otherwise do. And one of the very important aspects from our customers perspectives is the fact that because we're compiling all of these data, that tends to increase the shared learning. So situations or scenarios that pipeline operator A has to understand those is of value to operators B, C, D, and so on. So our customers are very – they're very happy to participate in the shared learning.
+
+I think the other thing, the reason they have confidence in providing this data to us is because we're agnostic. Customers will not share their data with other PIG vendors for example. They have no trouble sharing it with us. And the reason is because we're agnostic. We'll work on any data set. It's not dependent on the customer continuing to use a particular PIG vendor for example. So it's for all these reasons, customers, we've just not had any issue at all with data. I think the only challenge we face with respect to access to data is in certain situations, particularly in the Middle East for example, where companies will not allow their data to exit the country. And if Microsoft does not have an Azure center in that country, that locks us out from doing business in that country. So that's really the only issue we have with customers' data.
+
+Dwayne, if I could just add to that. Data confidentiality is a huge item with our customers And several of our customers specify that we would put our data into your system, but it must be doable only by people in the United States for instance. And so, therefore, we've gone to lengths to ensure that the access to our internal developers where there is a data situation, their data needs to be reviewed, et cetera, that that only happens within the United States.
+
+And to that end, we also went and got SOC 2 Type 2 certified two years ago. And what SOC 2 does, it's an audit by an independent CPA firm who's well-versed in those statement controls as published by the American Institute of Chartered Professional Accountants. There are very strict requirements there, and we get audited once a year as to our adherence to those controls. And part of those controls ensures data confidentiality. And so that also boosts the confidence in them putting the data into our systems.
+
+Okay. Time for one last question here. How much does management own the company? What's the insider ownership?
+
+The insider ownership right now, I believe, is 25.5%.
+
+Okay. And with that, we thank everyone for their questions. We didn't get to all of them. We'll get back to you on that. So thank you again for tuning into the call. And I'll turn it back to Kelly, the operator. Thank you, Kelly.
+
+Thank you, everyone. This does conclude OneSoft Solutions Q2 2023 conference call. We thank you for joining us. You may disconnect your phone lines at this time.

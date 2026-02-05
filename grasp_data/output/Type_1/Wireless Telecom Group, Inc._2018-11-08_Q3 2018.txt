@@ -1,0 +1,239 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+Michael Kandell — Chief Financial Officer & Secretary, Wireless Telecom Group, Inc.
+Timothy Whelan — Chief Executive Officer & Director, Wireless Telecom Group, Inc.
+Fernando Martinez Perez Canto — Chairman, Agrícola Nacional SACEI
+John S. Sturges — Director-Investments, Oppenheimer & Co. Inc.
+
+Management Discussion Section
+
+Question And Answer Section
+
+Good morning, ladies and gentlemen, and welcome to the Wireless Telecom Group's Q3 Earnings Call. At this time, all participants have been placed on a listen-only mode and we will open the floor for your questions and comments after the presentation.
+
+It is now my pleasure to turn the floor over to your host, Mike Kandell, Chief Financial Officer. Sir, the floor is yours.
+
+Thank you, Kate. Good morning, everyone, and thank you for joining us for our third quarter 2018 earnings call. Before we begin, I would like to remind everyone on the call that our remarks today could include forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995.
+
+These statements can be identified by the fact that they do not relate strictly to historical or current facts. The company's forward-looking statements are based on management's current expectations and assumptions regarding the company's business and performance, the economy and other future conditions and forecasts of future events, circumstances and results.
+
+Forward-looking statements are not guarantees of future performance and involve a number of risks and uncertainties that could materially affect actual results. Important factors that could cause the company's actual results to differ materially from those in its forward-looking statements include those risk factors set forth in the company's Annual Report on Form 10-K filed with the SEC. The company does not undertake any obligation to update or revise any forward-looking information to reflect changes and assumptions, the occurrence of unanticipated events or otherwise.
+
+Also, we want to point out that in addition to GAAP information, we will provide information relating to certain non-GAAP measures. We believe that presenting these non-GAAP or adjusted measures provides additional meaningful information to investors which reflect how management views the business. Detailed reconciliations of non-GAAP measures to GAAP measures are set forth in a reconciliation table in our press release issued earlier today and furnished with the Form 8-K filed today with the SEC.
+
+I will now turn the call over to Tim Whelan, our Chief Executive Officer.
+
+Thank you, Mike. Good morning, everyone. Thank you for joining us. After some prepared remarks, Mike will review the financials, then we'll open the line for some Q&A. To start, we are very pleased with our Q3 revenues of $14 million which is above the high end of our guidance and reflects 12% consolidated organic growth compared to the same quarter last year.
+
+Our financial results reflect another quarter of both sequential and year-over-year consolidated revenue increases and were driven by higher demand for our signal processing hardware cards. We're also pleased to report the higher revenues drove higher gross profit at $6.5 million, higher operating income of $919,000 and net income of $558,000 resulting in earnings per share of $0.03 for the quarter.
+
+In Q3 we also delivered $1.8 million of non-GAAP adjusted EBITDA, resulting in a consolidated non-GAAP adjusted EBITDA of approximately $4.4 million for the first nine months of 2018. Mike will dive into the numbers in greater detail, but we believe the last 10 quarters of results reflect the successful execution of organic and acquisition-related growth initiatives, improvements to our go-to-market strategy, implementation of lean initiatives and improved profitability metrics and improved operating cash flow generation.
+
+Across our segments we are pleased with the continued solid results and progress on our long-term objectives. In our Network Solutions segment, we have realized performance on par with the prior year and as I said last quarter, we are pleased with these consistent results given some unpredictability of carrier spend and pricing.
+
+We see continued focus by the carriers, power companies and neutral host providers on solutions which enable 4G densification, large venue build out, deployment of new spectrum and multi-carrier deployments. Within the segment, we are continuing to innovate with our customers on unique RF conditioning designs and our point of interface solutions, which enable spectrum combinations for small cell deployments with exceptional quality and favorable total cost of ownership price points. These design-in consultations typically involve these large venues and accordingly larger sized purchase orders.
+
+We are pleased with the current rate of order flow as well as the funnel of sales opportunities we are working on. The large opportunities typically require long-term design and quoting and like most funnel opportunities, there is uncertainty of funding approval, win rates and timing.
+
+As a result, these types of awards can lead to a fluctuation in order flow and project completion and contribute to periodic increases and decreases to bookings and backlog. Going forward in Network Solutions, we expect to continue our investments in the expansion of our product capability to address 5G readiness, public safety and emerging 5G standards.
+
+In our Test & Measurement segment, we are very pleased with the 7% year-to-date growth compared to the same period in 2017. We are seeing increasing demand in our noise comp solutions and believe we are in the early stages of a higher spend environment in the government and military customer base which should benefit our Test & Measurement segment. As we noted last quarter, we continue to invest in other product enhancements to address emerging test requirements in higher frequencies and 5G designs in this segment and we recently announced our new Millimeter Wave Noise Sources for over-the-air testing of 5G devices.
+
+We are encouraged and excited about our Test & Measurement order flow. However, we will occasionally see large customer order flow fluctuate which will contribute to consolidated quarterly fluctuations to bookings and backlog. And thinking longer term, we are excited with our multiple new [ph] products (06:26) we have announced over the previous six months including our Noisecom noise sources for 5G and over-the-air testing, next-generation 4500C peak power unit and connected power sensors to name a few.
+
+Our new product launches coupled with our view of a higher spend environment cause us to be optimistic for this segment. Going forward in Test & Measurement, we expect to continue evaluating emerging needs in satellite communications, autonomous vehicles and embedded systems, which can be addressed by our Boonton and Noisecom solutions.
+
+And finally and our Embedded Solutions segment, we have realized increased demand for our signal processing network cards which I mentioned earlier was the key driver to growth in this segment in the quarter. The Embedded Solutions hardware cards enable the testing of base stations and test systems and replicate complex network performance of multiple users, multiple cells and different access technologies. The higher demand is aligned to our view of continued overall demand for network testing due to continued 4G base build and densification and 5G readiness.
+
+Embedded Solutions has success won and delivered large million dollar plus orders which demonstrate our ability to bid on and win significant contracts with large global enterprises for private network software and hardware expertise. These large orders also require a longer term pursuit and design activities and can contribute to fluctuations in quarterly bookings and backlog.
+
+We continue to be exceptionally pleased with the performance of the CommAgility business unit and we are very excited by the funnel of opportunities and the designs and bidding we are currently involved in which include some large opportunities in areas of our differentiated expertise.
+
+Going forward in Embedded Solutions, we expect to continue to invest in our LTE software releases and software customization projects for private network deployments as well as digital signal processing embedded technology and we are excited about this avenue of potential growth.
+
+Netting it out our Q3 results demonstrate continued revenue growth as well as our best quarter of GAAP operating income and non-GAAP adjusted EBITDA. The results also reflect the strength of our diversification across segments, products and customers. We consider the periodic increases and decreases to order flow and backlog a natural quarterly rhythm and we are focused on improving the fundamental long-term drivers to the business.
+
+As we note in our release, we expect to operate the business with objective, seeking to meaningfully grow the business over the next several years and improving both our revenue scale and profitability metrics, just as we've realized over the last 10 quarters. We intend to accomplish this through agile investments in new products and markets, aggressive go-to-market and sales strategies that expand our customer base, a disciplined merger and acquisition process and continuous lean improvements to drive operating leverage. Collectively, we are continuing to execute on our strategy investing in and strengthening our three segments to address the demands and growth of wireless connectivity.
+
+Our segments are benefiting from long-term trends of continued investment in network densification, increased military spending, investment in private network deployment, 5G deployment, and the growth of industrial IoT. These long-term trends and larger market opportunities are aligned to our core expertise across the lifecycle in developing, testing and deploying highly customized, high performance wireless communication solutions.
+
+With that I'm going to turn the call over to Mike to walk us through the financials.
+
+Thank you, Tim. Good morning again everyone. As Tim mentioned we were pleased with our Q3 results which were above our expectations. Consolidated revenues for the quarter of $14 million represented growth of $1.5 million or 11.6% from the year-ago period. The increases in the quarter were primarily driven by the Embedded Solutions segment where we realized higher demand for our digital signal processing hardware used in network test systems.
+
+Our consolidated gross profit for the quarter was $6.5 million or 46% of revenue which is comparable to 6.1 million or 49% of revenue for the same period last year. Consolidated gross profit dollars increased on higher volumes at the Embedded Solutions segment, while our consolidated gross profit margin declined due to product mix at our Test & Measurement segment and lower volumes at our Network Solutions segment resulting in lower absorption of fixed costs and overhead.
+
+On a segment level for the quarter ending September 30, 2018 as compared with the same quarter last year, Network Solutions revenues decreased slightly by $394,000 driven by lower first-half bookings driven primarily by the timing of large projects. Test & Measurement revenue slightly decreased by $218,000 also driven by the timing of some large projects in 2018 as compared to 2017 and in Embedded Solutions, we realized $2.2 million of higher revenue which reflects the higher demand for our digital signal processing hardware.
+
+On a regional basis, the Americas, which we define as Canada, the U.S., and South America continues to account for the majority of our revenue. For the quarter ending, September 30, 2018, Americas, EMEA, and APAC revenues accounted for approximately 64%, 30% and 6% of consolidated revenues respectively. In the same quarter last year, Americas, EMEA, and APAC accounted for 80%, 16% and 4% of consolidated revenues respectively.
+
+The increase in EMEA revenue and decline in the Americas revenue reflect the higher Embedded Solutions hardware sales in the UK. Across all our regions, we see our businesses and channels performing well and we are focused on continuing to drive more growth from regions outside of North America.
+
+Our Q3 2018 bookings were approximately $11.3 million which compares to $15.4 million in the prior year period. With $14 million in revenue our book-to-bill ratio is approximately 0.81 for Q3 2018. We are exiting the third quarter with a backlog of orders of $6.1 million compared to $10.2 million in the year-ago period.
+
+As we exit what is typically our highest revenue quarter, we are seeing some lumpiness in the backlog driven by the timing of placing orders for large projects by some of our biggest customers. We continue to be encouraged by the funnel of opportunities, our quote activity and the interaction with our customer base specifically with respect to design consultation on large projects.
+
+Our consolidated operating expenses were $5.5 million in Q3 2018 compared to $5.3 million in the same period a year ago. Some highlights on the operating expenses. R&D expenses were slightly higher on 5G investments, particularly in our Embedded Solutions segment. Sales and marketing expense decreased due to the timing of bookings and resulting impact on commission-related expenses. And G&A expenses increased slightly due to lower intangible amortization in last year's quarter caused by adjustments related to purchase accounting valuations.
+
+Netting it all out, we have realized GAAP operating income of $919,000 or 6.6% of revenue for the third quarter compared to operating income of $804,000 or 6.4% of revenue in the same quarter in 2017. GAAP net income for the quarter was $558,000, which is slightly lower than the prior year net income of $653,000. EPS for the third quarter was $0.03 per basic and diluted share which is consistent with the prior-year period.
+
+In taking a look at our non-GAAP adjusted EBITDA, we delivered $1.8 million in Q3 2018 compared to non-GAAP adjusted EBITDA of $1.5 million in the same period a year ago. This improvement to non-GAAP adjusted EBITDA was largely driven by the revenue growth in 2018.
+
+With regard to cash flow, we generated $1.4 million of cash flow from operations for the nine months ended September 30, 2018 compared to $452,000 in the same period in 2017. This includes working capital increases of approximately $2 million, which reflects higher accounts receivable driven by higher sales to our larger customers with longer payment terms and higher inventory driven by our funnel of opportunities for which timely delivery is critical to win rates. We remain optimistic about our ability to generate cash flow from operations during 2018.
+
+We paid approximately $33,000 in cash taxes in the nine-month period ended September 30, 2018, which represents local taxes in one of our foreign jurisdictions. Our low cash tax rate is the result of Federal and state NOLs which expire in 2029.
+
+At this time, I'd like to turn it over back to Tim for some closing remarks.
+
+Thank you, Mike. In summary, we continue to remain on track and expect a strong year of top-line growth and profitability. As noted in our release, we expect the fourth quarter ending December 31, 2018 to see seasonally lower sequential revenue compared to third quarter, which is consistent with the prior year.
+
+With that, we expect to finish the year with over $52 million of revenue, representing 13% revenue growth year-over-year and a second year of double-digit revenue growth including the CommAgility acquisition. Just as important, we have realized improvements to profitability including $1.5 million of GAAP operating income and positive GAAP net income for the nine months ending September 30, and $4.4 million of non-GAAP adjusted EBITDA for just the nine months of 2018.
+
+In summary, Wireless Telecom Group has a deep level of expertise in RF wireless communication. We have known and well-recognized brand names with long tenured history, and we have a large installed base of products and customers. We are an approved and trusted vendor with carriers, the military and government agencies.
+
+We expect to take advantage of the anticipated long-term growth trends in wireless communication, while at the same time, we are also diversified across solution sets, diversified across the stages of the wireless technology lifecycle, and diversified across customer segment addressability.
+
+Together, Wireless Telecom Group and our three segments represent an investment in the continued growth and evolution of wireless communication and a company collectively centered and focused on a unified mission across three lifecycle areas enabling the development, testing and deployment of wireless communications technology.
+
+Thank you and Kate if you could please open the lines for questions now.
+
+Thank you. Ladies and gentlemen the floor is now open for questions. [Operator Instructions] Please hold a moment while we poll for questions. And our first question today is coming from [ph] Bryce Thomas (18:22), please announce your affiliation, and then pose your question.
+
+Good morning. [ph] Bryce Thomas with North Grove Asset Management (18:28). There's been a lot of discussion of 5G recently. Could you help us understand what you're seeing in the rollout of 5G and where we are in the cycle in your opinion?
+
+Yeah, thank you [ph] Bryce (18:42). Overall we believe we're in the very early stages of 5G cycle and a couple of points here. The 5G standards are not expected to be fully defined until 2020 according to 3GPP. It's largely believed the 5G handsets won't hit the market until 2019. And what will follow are the monetization use cases for 5G that will emerge over many years as well that investment, so that I think is the big picture.
+
+More specifically a few points on the segments, within Network Solutions what we're seeing is 4G densification of previously purchased spectrum and this is leading to a growth in small cell projects which translates to product applications for us in the lower power and smaller size solutions. Within Test & Measurement, I think I mentioned earlier, we're seeing that focus on millimeter wave testing ahead of the 5G deployment as well as the over-the-air testing demands which is driven by that expectation of large volumes of smaller devices expected to be deployed on 5G.
+
+And then, I guess, a couple of points finally on Embedded Solutions. We're seeing the demand for the designs around private network solutions, which have fairly unique requirements and customization. There's currently approximately 300,000 pages which define what 5G standards are and so, most companies have to pick their spots to compete. And so, we're still in that very early R&D stage of applications and technology. Our focus will be on the high performance applications and transportation, military, emergency communications and satcom just to name a few. So again, overall, we believe we're still in very early stages.
+
+Got it. Thank you.
+
+Thank you. Our next question today is coming from [ph] Robert Marston (20:42). Please announce your affiliation, then pose your question.
+
+[ph] Robert Marston, Penn Capital (20:47). Congratulations gentlemen on another good quarter. I know, it's going to be early to ask this question, but as you tee-up 2019, do you think you have enough irons in the fire to generate a third consecutive year of double-digit organic revenue growth? And if so which products, sort of, by division would lead you to that? I know it's a challenging telecom equipment market. Many of the companies that I follow in this space are producing flat to down revenue numbers. So, your double-digit revenue growth is exceptional on its own. I assume that's the skill of the new management team taking over a formerly undermanaged asset. So, congratulations there, but what do we have lined up for 2019 to repeat the same feat?
+
+Yeah, thank you [ph] Robert (21:52) appreciate that.
+
+Thank you.
+
+Yes it is early to point specifically to any of the growth drivers or growth within the segments for 2019 and we're still preparing for that. And I think the fourth quarter, some of the pursuits that will emerge and our success in those pursuits will help us define what that year looks like.
+
+Obviously we're working hard to generate another quarter, I'm sorry another year of growth. It's hard to say or put a number on that at this time but, but we're very optimistic with where we placed our investments over the last year and even two years. We think the markets are very favorable in terms of the overall big picture trends.
+
+We have to find our spots within some very large markets. We've invested in products, we've announced some of that; we've invested in some partnerships, I think we've announced some of that. We've announced some of the large customer orders which we have received as well as the new venues.
+
+So, that will be a continued pattern as we look into next year. More strategic deals, a greater expansion and a more aggressive strategy as we think about the customer base to continue to diversify ourselves. And so yes, I would underscore one key point you made is as we're diversified across multiple customer segments with multiple product offerings and a greater geographical reach, we're fairly optimistic about next year. But it's hard for us to give you anything with greater precision at this time.
+
+All right next year only starts in seven weeks. So, I hope you guys have more in the planning stages than you're willing to share with us. On another topic, what about that bolt-on transactions? You've clearly succeeded with your last acquisition. It's very late in the economic cycle and I don't think many shareholders want you taking on a boat load of debt because that would pose a risk to the balance sheet and then obviously the income statement as well.
+
+So, with where the balance sheet looks today from a cash position, and in my opinion the inability to use equity at these probably low valuations, where do we stand with the ability to find accretive deals and pay for them without jeopardizing the balance sheet?
+
+Yeah. So, we remain committed to growth through the use of mergers and acquisitions as part of our strategy, we've stated that publicly multiple times. We remain committed as a management team and spend a significant amount of time looking at those strategic options and we do that in a very disciplined fashion.
+
+We are not short of targets out there as it relates to smaller sized private companies where there is a generational change at the company and a need to seek some form of succession planning. Our ability to find the right companies in a disciplined manner as well as have a disciplined approach to purchase price points are key ingredients to that, but again we spend a significant amount of time as a management team and remain committed to that as a growth path.
+
+As we think about our capital structure, we very carefully look at the use of debt, the use of equity, the use of cash, the free cash flow generation, and then ultimately a structure which also places a great responsibility upon the sellers to remain with the business and generate the kind of results that they're putting forth to us.
+
+And I think the architecture of the CommAgility deal is evident in the sense that there's claw back mechanisms, there's earn-out mechanisms, there's deferred payment mechanisms. So, those are all structures which help us think about the financing, but you know I would agree that we're not about to go into an M&A market without looking very carefully at the use of equity, the dilution effect, as well as the debt on the balance sheet.
+
+We're quite pleased with the net debt position we have now. We're quite pleased with the available borrowings that we have and quite pleased with the financing capability that we continue to see on our balance sheet. So, it's we're committed to that growth path and I understand the point you're making and I think we're going to do this in a continued responsible fashion, the way we did in terms of executing on the CommAgility transaction.
+
+All right. It would be nice to see some of that working capital converted to cash, and then the cash put to work and then bolt-on smaller transactions at this point of the cycle in our opinion, the shareholders. Thank you.
+
+Agreed and we're very focused on that. Thank you.
+
+Thank you.
+
+Thank you. [Operator Instructions] Our next question today is coming from [ph] Jen Wulfhorst (27:04). Please announce your affiliation and then pose your question.
+
+Hi, good morning. It's [ph] Jen Wulfhorst from ComStock Partners (27:09). I had a question regarding the Embedded Solutions segment. Clearly it's a growing portion of sales or it was in the quarter and I'm just wondering how we should think about that going forward in terms of revenue composition?
+
+Sure. Clearly this was a terrific quarter for Embedded Solutions. We don't give guidance on the segments and we're hopeful this success continues, but we also take the conservative view in terms of planning and expenses and how we think about that. So, we're working closely with the customer and planning conservatively for the future.
+
+With regard to the revenue composition of all three segments, I think you'll see the segments results have had some fluctuations quarter-to-quarter which we see is very much a natural rhythm to our bookings and backlog. Over a longer term, we would expect the revenue composition to be fairly consistent with what you would see if you look at the past five quarters or six quarters, we think that's probably a good way to think about the business in terms of how we think about the revenue composition of segments going forward.
+
+All right. Thank you. That's helpful. And then just a little follow-on on that, regarding the pipeline and the customer orders, can you give a little color just around what the longer term pipeline is looking like and what the composition is?
+
+Sure. We don't provide the metrics or guidance on funnel, just given that fluidity and uncertainty, but we are today very happy with the flow of quotes. And more importantly that design collaboration we're finding with our customers.
+
+On a segment basis, network is seeing this continued trend of small cell deployments and large venue build outs as well as the emergence now of neutral host providers for the enterprise space, so we're very excited and encouraged about that in terms of potentially new dollars of spend that we can capture. We are seeing less active [indiscernible] (29:19) solutions in the funnel and more CRAM and DRAM solutions which actually favor the passive RF solutions we have in the Microlab Brand.
+
+In Test & Measurement, I think the color on the sales funnel is that higher demand for the noise sources and solutions, which are driven primarily by the defense and the military. And as we understand it, this is for optical research and weapons applications and understandably in this space, we're not always told what the final solution is, but we know it is being driven by defense and military. And we're also seeing now more of a deliberate spend approach now that we have defense budget in place, which has increased significantly the contacts, and customers are more confident that those funds will be in place with these increased budgets.
+
+And then last within Embedded Solutions, I think the color on the pipeline are these long-term projects which include both 5G advancement along with the evaluation of future proofing to the 5G standards. And so that's where we see we're in the – we're just at the front end of the stage of 5G. They want 4G LTE, but they want to future proof the 5G. And so this typically requires additional customization of the LTE standards for software and hardware, and it's also for – it's not for the super high volume solutions, which larger chip companies will pursue, these are for smaller sized customization.
+
+So, as we think about the market, our pipeline, our color this market of opportunity would be to find and think in the terms of fleets of ships, trains, aircrafts, industrial vehicles and industrial park. This is where the units and customization is measured in dozens and hundreds of units rather than in millions. And think of solutions which are unique to an industrialize IoT solution on a common 5G communication platform. So, we're very excited about this niche and the opportunities emerging, but these are longer term in nature. So, I hope that helps.
+
+All right. Thank you. That – it's very helpful.
+
+Great.
+
+Thank you. Our next question today is coming from Fernando Canto. Please announce your affiliation, then pose your question.
+
+Good morning, Mike and Tim. Congratulations on a very good quarter. I have seen that for the last three quarters, you've been beating the guidance by about $0.5 million to $750,000. Would that tend to indicate that you guys are very conservative on your guidance or that you're getting additional revenue during the quarter?
+
+Thank you, Fernando. Yeah. I think it's potentially a little bit of both. I don't have a measurement for you. We are careful in terms of how we compile our metrics. Over the last few years, the company has done a wonderful job of re-organizing and re-energizing a data-based approach to KPI management and that translates into how we predict and forecast the business.
+
+There will always be an uncertainty of the timing of the larger sized deals both in terms of timing of capture and timing of delivery. And so that kind of uncertainty, we would like to be careful about. But there's also a run rate portion of the business that shows up in the third month of every quarter and we're modeling that carefully as well. So, I don't think it's entirely one or the other I think it's a little bit of balance.
+
+Okay. And the fourth quarter is always your weakest quarter, right?
+
+It is typically and seasonally yes, a decline from the third quarter.
+
+Okay. Well, thank you very much and congratulations again.
+
+Thank you.
+
+Thank you.
+
+Thank you. Our next question today is coming from John Sturges. Please announce your affiliation, then post your question.
+
+Yes. John Sturges from Oppenheimer & Company. Nice execution. I'm curious about capital allocation decisions one versus the need for greater capacity. So, I'm curious, whether you have enough capacity to meet your expected demand versus allocating capital to acquisitions. Could you just provide some general color on that question?
+
+Sure. So on the first question capacity, I think you'll note, if you look at the financials, that we have increased our capital expenditures over the last 18 months to 24 months. We also announced and spoke about lean initiatives. And so those two in particular were designed to improve the level of automation and robotics in the firm, that will increase and improve not just our capacity, but improves the quality metrics and standards and allowed us to accomplish the different ISO certifications that we also have announced in terms of those audits and certifications.
+
+So, we have built capacity into the system to create operating leverage. I don't have a number for you at that time, but that is the direction we're headed, and that is what those investments are expected and have been able to allow us [indiscernible] (34:50) ROI. In terms of capital allocation for acquisitions, we look at the balance sheet in terms of the availability of the credit facility we have, the available borrowing base, the cash generation and expected cash generation.
+
+We look at the cash generation of the targets, in that our acquisition strategy is intended to target accretive businesses, and not ones that are requiring a turnaround situation. And we look at acquisitions using a balance of cash, debt, seller financing and equity as well as earn out mechanisms that allow us to think about that financing over a period of time.
+
+So, we don't have any more finite measurements about how much we have allocated for M&A; other than again we're very committed. We think there's some good opportunity, but we're also very careful, we conduct very careful due diligence and we're working hard to make sure we find the right target for the company.
+
+Understood. Thank you for covering that territory for me.
+
+Great. Thank you, John.
+
+Thank you. Our next question today is a follow-up from [ph] Robert Marston (36:05). Your line is live.
+
+Thanks for the follow-up guys. Are you guys happy with the productivity of your R&D. I know you revamped it with some new people and some new efforts and you don't really [indiscernible] (36:23) with new product announcements. So, I'm wondering if the shareholders should be happy with the 10% of revenue we spent on R&D in the business and whether we're getting the productivity out of it that you guys would like us to get.
+
+Yeah. To answer your question, quickly, I am very pleased with the productivity we had announcements just through the nine months ending. In February, we announced our new platform cards, CommAgility, which support ENodeBs and LTE-advanced functionality. Following that we named the new 4500 Boonton peak power measurement in April.
+
+In August, we announced new products for public safety networks and in September, we announced this new modular point of interface solution which I spoke about in the call. And so, just those four alone as well as, there are others that are unannounced but you can imagine the announcement the full traction of the new product is not necessarily embedded in the current year financial statements.
+
+But this is the type of collaboration, these products are typically born out of the collaboration with customers and a customer's unique needs that we feel that we can – if we capture that in the appropriate design we can bring to market and replicate that success beyond just the customer that we work with on that design.
+
+So yes, we're very pleased with the productivity, we measure returns on each new product. We will not bat a thousand on every product, I can't guarantee 100% success in every business case, but we do look at the products and drive towards the success on every one of them and we're very pleased with what we've announced so far as well as what we have in the works.
+
+Do you try to measure the – some companies measure percentage of sales from new products on a rolling basis, every few years would be the time period, launched in that few-year period. Do you guys try to measure at all how the effects of the new product introductions are contributing to revenue versus historical levels and making sure that that number is rising?
+
+Yeah. So we're measuring that internally, we have not announced it publicly, but we are measuring it internally. I think one of the elements of Measurement is ensuring that we measure a product modification versus a new product introduction. And so the products that we have today in the passive RF conditioning space are very much different than what was done two years ago and the reason for that is that there are different power and different spectrum and they have different connection points.
+
+And that's just continued, kind of, design flow, necessary to be successful in that space. So, some would say it's not necessarily new product, but it is very much changes to a product that if we had not made, we wouldn't have captured the current order flow because the small cell design is much different than what was happening in building two years ago.
+
+And so we had to change how we invest in terms of how agile we are and how quickly we bring things to market. So, we're pleased with both the new product introduction as well as the product modification to continue the importance and relevance of our product set and this new dynamic in 4G densification.
+
+Okay. Telecom customers are sort of cheap these days, always have been. So, the only way to get paid is through innovation and we need to keep up the innovation.
+
+That's right and innovation and design and custom designs. There's typically an improved margin.
+
+All right. Thank you.
+
+Thank you.
+
+Thank you. We have no further questions in the queue.
+
+Okay. Thank you everyone for joining us today. We're looking forward to speaking with you after year end again. Have a great day.
+
+Thank you. Ladies and gentlemen, this does conclude today's conference call. You may disconnect your phone lines at this time and have a wonderful day. Thank you for your participation.

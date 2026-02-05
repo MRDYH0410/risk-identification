@@ -1,0 +1,120 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+Michael Kandell — Chief Financial Officer, Wireless Telecom Group, Inc.
+Timothy Whelan — Chief Executive Officer & Director, Wireless Telecom Group, Inc.
+Aman Gulani — Analyst, B. Riley Financial
+
+Management Discussion Section
+
+Question And Answer Section
+
+Good morning, and welcome to Wireless Telecom Group's First Quarter 2017 Earnings Call. At this time, all participants have been placed on a listen-only mode and we will open the floor for your questions and comments after the presentation. [Operator Instructions]
+
+Joining us today on the call will be Tim Whelan, Wireless Telecom's Chief Executive Officer and Mike Kandell, Wireless Telecom Group's Chief Financial Officer. It is now my pleasure to turn the floor over to your host Mike Kandell. Sir, the floor is yours.
+
+Good morning, everyone, and thank you for joining us for our first quarter 2017 earnings call. Before we begin, I would like to remind everyone on the call that our remarks today could include forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. These statements can be identified by the fact, they do not relate strictly to historical or current facts.
+
+The company's forward-looking statements are based on management's current expectations and assumptions regarding the company's business and performance, the economy, and other future conditions and forecast of future events, circumstances, and results. Forward-looking statements are not guarantees of future performance and involve a number of risks and uncertainties that could materially affect actual results. Important factors that could cause the company's actual results to differ materially from those in its forward-looking statements include those risk factors set forth in the company's Annual Report on Form 10-K filed with the SEC.
+
+The company does not undertake any obligation to update or revise any forward-looking information to reflect changes in assumptions, the occurrence of unanticipated events, or otherwise. Also, we want to point out that in addition to GAAP information, we will provide information relating to certain non-GAAP measures. We believe that presenting these non-GAAP or adjusted measures provides additional meaningful information to investors which reflect how management views the business. Detailed reconciliations of non-GAAP measures to GAAP measures are set forth in a reconciliation table in our press release issued yesterday and furnished with the Form 8-K filed yesterday with the SEC.
+
+I will now turn the call over to Tim Whelan, our Chief Executive Officer.
+
+Thank you, Mike. Good morning, everyone. Thank you for joining us. Our agenda today includes some prepared remarks, then Mike will walk us through the financials and then we'll be able to open the line for some Q&A.
+
+I'll start today with an introduction on who we are. Wireless Telecom Group is a business involved in the development, testing and deployment of wireless communication and RF instruments. We go to market with three segments under four brands.
+
+Our three segments include Network Solutions, which operates under the trade name Microlab and Network Solutions is involved into design, manufacturing and quality assurance of radio frequency conditioning. This includes RF signal combiners, attenuation, splitters and filters to name just a few product families, as well as our new active product lines, including our global positioning satellite repeater or GPS repeater and our public safety monitor solution. Growth drivers in Network Solutions include continued network capacity growth, carrier network densification and additional spectrum band deployments, including 5G rollouts to name a few.
+
+The second segment is Test & Measurement, which operates under the Boonton and Noisecom trade names. These brands provide noise generation devices for military and communications applications, as well as power meters and sensors for radar, wireless communications and medical device testing. Growth drivers here include military, aerospace applications for electronic warfare and countermeasures, satellite and cube satellite growth, commercial applications for 5G and Internet of Things applications and connected autonomous vehicle wireless demands.
+
+Embedded Solutions is our third segment and this was formed with our acquisition of CommAgility on February 17, 2017. This segment is involved in signal processing and technology for network validation systems, supporting LTE and emerging 5G networks and providing LTE software and customization for private network applications.
+
+Growth drivers include the proliferation of the LTE standard, increasing use of private networks and the rollout of 5G. Collectively, these segments all serve the wireless communications and RF instrumentation industries. Our business has a deep level of expertise in RF wireless communication. We have known and well-recognized brand names in Microlab, Boonton and Noisecom which each have 30 to 40 years of history.
+
+We have a large installed base of products and customers and we are an approved and trusted vendor with carriers to military and government agencies. We compete and win against larger competitors because of the strength of our brand names, our reputation for deep specific expertise and for guaranteeing the highest levels of signal quality and measurement precision.
+
+We also remain strategically more agile and take on project-specific configuration requirements where our competition may not have the same interest and appetite for solution customization. Collectively, Wireless Telecom Group and our three segments represent an investment in the continued growth and proliferation of the wireless communication and a company involved in three life cycle areas; the development, testing and deployment of wireless communication.
+
+The company is indexed across three segments and three solution sets from desktop and lab testing equipment to RF conditioning components, to LTE software and embedded signaling technology. We are also indexed across multiple diverse customer bases from carriers and system integrators to defense contractors, the governments and the military. There is some strategic overlap amongst our segments and we believe there is good future synergy opportunity.
+
+So, in summary, we are collectively centered and focused on a unified mission to develop, test and deploy wireless communications technology and we expect to take advantage of the long-term growth trends in wireless communication. At the same time, we are also diversified across solution sets across the stages of the wireless technology life cycle and customer segment addressability.
+
+Now some additional background and a reflection on 2016 and entering 2017. As we look back entering 2016, the company faced a number of challenges, which included driving investments into the product road map from proved solution agility, improving go-to-market execution to drive top-line results, improving sales channel execution and coverage, and operating at a scale where it was challenging to create operating leverage.
+
+During 2016, we invested in positioning the company and our product solution set towards longer-term growth trends and larger market opportunities, and these included small cell architecture and other network densification projects requiring RF conditioning, additional spectrum band deployment, requiring RF conditioning, LTE 5G build-out initiatives, and creating solutions in our Test & Measurement segment, which had greater, more flexible form factors and more dynamic product solutions. These 2016 investments began to pivot the company to growth opportunity and strengthened our top-line capability to drive revenue. And in late 2016 and in the first quarter of 2017, we launched and disclosed results of these investments with a number of product and go-to-market milestone accomplishments.
+
+In January 2017, we launched new active network products to move beyond just passive conditioning and into higher-value active RF signaling. Our active public safety monitor solution satisfies the requirements for public safety frequencies to be monitored in indoor areas critical to first responders.
+
+Our GPS repeater was also released in January 2017, and this patent-pending digital solution is critical for in-building signal synchronization. During 2016, we also responded to customer demands for enhancements and development to our current products. And those initiatives and investments resulted in our new salt/fog product line announced in January 2017 and new USB power sensors announced in September 2016.
+
+We also invested and improved our operational go-to-market tools and made it easier and more efficient for our customers to do business with us, from run rate orders to large projects, and we invested and launched a new customer portal we call iControl in September 2016. And we grew the size of the company to create greater operational leverage and diversify our solution set to the larger and longer-term trends impacting our customers, namely 5G and the LTE evolution. And we did this through the acquisition of CommAgility in the first quarter of 2017.
+
+And along the way, we also built out our executive team and our board, adding two new board members in Q4 of 2016 and in this first quarter a new CFO, Mike Kandell who joined us in January 2017 and is sitting with me here today. We have already realized signs of progress and positive results from what we started in 2016. And I'm pleased to note that carried through now to the first quarter.
+
+The higher second half 2016 customer order flow, which increased our backlog at year-end continued, and we realized strong order flow in the first quarter of 2017 of $8.7 million in Network Solutions and Test & Measurement bookings. This compares to $6 million of order flow for these same two segments in the first quarter of 2016, which is a 45% improvement quarter-over-quarter.
+
+And Q1 revenue results in our existing businesses, Network Solutions and Test & Measurement, also significantly improved in the quarter, increasing by 31% and 41%, respectively, from a year ago. And Mike will discuss these again later in the financial results. And most importantly in Q1, we closed on our acquisition on February 17 of CommAgility, an award winning specialist LTE technology company.
+
+Our investment thesis for CommAgility was one of a complementary business involved in wireless communication, development and testing. We did not build this business case or the acquisition on cost synergies. We have included their results of operations in our financials for the period since the closing date, so they are included in Q1 2017 for approximately half of the first quarter. Strategically, the CommAgility acquisition accomplishes five important strategic objectives for us.
+
+It enhances our value proposition with higher-value LTE software and embedded digital signal processing hardware solutions. It indexes us more strongly to the expected long-term expansion and growth of 5G deployment. It enhances our scale and profitability and expands our addressable market. It adds a deep layer of expertise and 40 more software and embedded hardware design engineers to our bench, which will positively impact our product road map over the longer term. And last, it adds an immediate accretion to earnings with an improved margin and cash flow profile.
+
+We are currently integrating the business at a corporate level and we expect to leverage technical and engineering expertise over the longer term for product road map development and top-line growth opportunities. We also see an overlapping base of certain customers and sales channels, but expect those benefits also to take time.
+
+Mike will speak more about our first quarter results and the impact of including Embedded Solutions segment for half of the quarter, but at a high level we are pleased with the contributions of gross margin and the cash flow profile of the segment. And these numbers met our expectations for this stub period.
+
+And so in closing on Q1, we are seeing the impact of the investments made in 2016 across our product lines and go-to-market executions and our booking in revenue numbers. We are pleased with the results of the Embedded Solutions segment with the stub period included in Q1, and we expect our Q2 results to show similar positive momentum.
+
+With that, I'm going to turn the call back over to Mike to walk us through the financials.
+
+Thank you, Tim. Good morning, again, everyone. As Tim noted, we included the stub period results of CommAgility from the date of acquisition on February 17, 2017, which will affect all of the quarter-to-quarter comparisons from our income statement, to balance sheet, to the cash flow statement.
+
+In our press release and in our 10-Q, we have broken out this impact and I will highlight some of that here as well. Overall, we are pleased with the results of Q1 and they are consistent with our expectations coming out of 2016. Comparing the three months ended March 31, 2017 to the same period of 2016, our revenues increased by $3.1 million to $9.5 million, representing a 50% increase from Q1 2016. This reflects increases across both our Network Solutions and our Test & Measurement segments, as well as the inclusion of the Embedded Solutions segment for half of the quarter.
+
+Network Solutions revenue increased $1.3 million or 31% quarter-over-quarter. Test & Measurement revenue increased $882,000 or 41% quarter-over-quarter, and Embedded Solutions contributed $997,000 of revenue from the consolidation of the revenues for half of the quarter.
+
+Our gross margin increased by $1.6 million to $4.3 million, representing a 59% increase from Q1 2016 and representing an improved gross profit margin of 45% versus 43% a year ago. The consolidated gross margin reflected improvements in the Network Solutions segment and consistent margins in our Test & Measurement segments, as well as the inclusion of a higher gross margin profile from the Embedded Solutions segment.
+
+Network Solutions gross margins were $2.5 million or 44.6%, which was an increase from last year's Q1 gross margin profile of 42.3%. Test & Measurement gross margins were $1.3 million or 43.9%, which was consistent with last year's Q1 gross margin profile of 43.5%. And Embedded Solutions gross margin was $538,000, reflecting a 54% gross margin profile.
+
+Our operating expenses were $6.1 million in Q1 2017, compared to $3.6 million of operating expenses in Q1 of 2016. The increase of $2.5 million included $1.3 million of corporate expenses directly associated with the CommAgility acquisition, $770,000 of Embedded Solutions operating expenses, and $200,000 of higher stock compensation expense. The Embedded Solutions operating expenses include $220,000 of depreciation expense and amortization of acquired intangibles, and $156,000 of acquisition-related expenses.
+
+Our non-GAAP adjusted EBITDA for the first quarter of 2017 was $447,000, compared to a loss of $604,000 for the first quarter of 2016. This $1 million improvement to non-GAAP adjusted EBITDA was driven by higher revenues and the inclusion of the positive adjusted EBITDA results for Embedded Solutions.
+
+Our GAAP net loss for the quarter was $1.3 million versus a loss of $576,000 for the year ago period. But keep in mind that Q1 2017 included $1.3 million of expenses related to the CommAgility acquisition, which were primarily legal and professional fees.
+
+With respect to the CommAgility acquisition, as a reminder, we acquired the company for approximately $24 million. The components of the purchase price included $11.3 million of cash at close, approximately $6 million of equity issued at close, $1.4 million completion cash payment which was primarily related to excess working capital, $2.5 million of deferred purchase price payable in 2017 and 2018 of which approximately $2.1 million is reflected as a liability on our balance sheet as of March 31, 2017, and $2.7 million of contingent consideration which reflects the estimated additional purchase consideration to be paid under the earn-out provisions in the stock purchase agreement.
+
+We also entered into a new credit facility just ahead of the CommAgility acquisition, which provided for a term loan of approximately $800,000 and revolver availability of up to $9 million, subject to a borrowing base availability. We have approximately $2.7 million of outstanding debt as of March 31, of which $2.1 million is short term and $600,000 is long term.
+
+We incurred approximately $18,000 in interest related to our credit facility for the stub period ended March 31, 2017. The other components of interest expense for the quarter ended March 31, 2017 are approximately $10,000 in debt issuance cost amortization and $22,000 in accretion related to the contingent consideration liability we recorded in connection with the acquisition. The contingent consideration liability is recorded at fair value in accordance with U.S. GAAP acquisition accounting standards.
+
+On our balance sheet, much of the fluctuations from December were driven by the inclusion of the Embedded Solutions segment. Some quick highlights of the impact of this new segment. Cash includes $2.1 million of cash from Embedded Solutions. The overall reduction in cash from December reflects the use of cash on our balance sheet to close the acquisition. Accounts receivable includes $2.2 million of Embedded Solutions receivables, inventory includes $1.4 million of Embedded Solutions inventory and current liabilities includes $2.1 million of short-term liabilities and the short-term component of the deferred purchase price.
+
+At this time, I'd like to turn the call back over to Tim for some closing remarks.
+
+Thanks, Mike. So, overall we are very pleased with the much improved Q1 and looking beyond Q1 into Q2, at this time, we expect Q2 revenues in the $11 million to $11.5 million range. We expect slightly higher margins in Q2 versus Q1 at 47% to 48%. We expect non-GAAP operating expenses to be between $4.6 million and $4.8 million and these results will include a full quarter of operations from the Embedded Solutions segment versus about half quarter in Q1. As we look into the second half of the year, we expect customer demand for continued product innovation and product agility to remain consistent and strong in all of our segments.
+
+We intend to continue investing in our research and development within our product road map for emerging solutions and opportunity at the same pace. We expect to continue to invest in our IT infrastructure and in our go-to-market capabilities to ensure customers find it easy to do business with us and every efficiency can be gained in what we do. And we also expect to continue to evaluate strategic opportunities for growth. And last, all of these investments will be evaluated with a careful eye on cash flow generation to ensure balanced goal setting and shareholder returns.
+
+Thank you. And, operator, if you could please open the lines for questions.
+
+Thank you, ladies and gentlemen. The floor is now open for questions. [Operator Instructions] And the first question is coming Aman Gulani. Aman, your line is live, please announce your affiliation and pose your question.
+
+Hey, guys, calling here from B. Riley. Congratulations on a great quarter and your acquisition. Just wanted to get a bit more color on the CommAgility acquisition, how it's going to contribute to revenue for the rest of the year? And do you expect to also maintain margins over 50% for the in-build solutions channel?
+
+Yeah. Thank you, Aman. So, the margin contribution expectation is comprised of both of revenue and a hardware segment within the Embedded Solutions segment. So, there is a mix issue. Right now we do believe that that mix is fairly consistent, but there could be some lumpiness as some bigger projects come to closure that includes higher-level software.
+
+In terms of the revenue contribution, we're very pleased with this performance. This was a stub period. This was also a conversion to our U.S. GAAP reporting, so we've tried to be very careful and conservative on how we look at this business. We did buy a business that has been growing and we expect it to perform in the same way. And so our disclosures and the investor deck in 8-K, I think, are a good indication of where that business is at and, again, we're excited about the opportunities presenting itself and we have an expectation for growth.
+
+Okay. That's all the questions I have. I'll get back in the queue.
+
+Great. Thank you, Aman.
+
+Thank you. And there are actually no more questions in the queue.
+
+Very good. Thank you everyone for taking the time to join us today. Have a great day and we'll talk to you soon.
+
+Thank you, ladies and gentlemen. This does conclude today's conference call. You may disconnect your phone lines at this time and have a wonderful day. Thank you for your participation.

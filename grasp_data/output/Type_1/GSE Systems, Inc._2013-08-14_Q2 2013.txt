@@ -1,0 +1,123 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+Thomas Mei — Associate, The Equity Group, Inc.
+James A. Eberle — Chief Executive Officer & Director, GSE Systems, Inc.
+Jeffery G. Hough — CFO, Secretary, Treasurer & Senior VP, GSE Systems, Inc.
+Mark W. Schappel — Analyst, The Benchmark Co. LLC
+
+Management Discussion Section
+
+Question And Answer Section
+
+Greetings and welcome to the GSE Systems Reports Second Quarter 2013 Financial Results. At this time, all participants are in a listen-only mode. A brief question-and-answer session will follow the formal presentation. [Operator Instructions] As a reminder, this conference is being recorded.
+
+It is now my pleasure to introduce your host, Thomas Mei, Senior Associate of The Equity Group. Thank you, Mr. Mei. You may begin.
+
+Thank you, Roya, and good afternoon, everyone. Thank you for joining us today. Before we begin, I would like to remind everyone that statements made during the course of this call may be considered forward-looking statements within the meaning of Section 27-A of the Securities Act of 1933 as amended, and Section 21-E of the Securities Act of 1934. These statements reflect current expectations concerning future events and results.
+
+Words such as expect, intend, believe, may, will, should, could, anticipate and similar expressions are words that are used to identify forward-looking statements but their absence does not mean a statement is not forward-looking. These statements are not guarantees of future performance and are subject to risks and uncertainties and other important factors that could cause actual performance or achievements to be materially different from those projected.
+
+For a full discussion of these risks, uncertainties and factors, you're encouraged to read GSE's documents on file with the Securities and Exchange Commission including those set forth in periodic reports filed under the forward-looking statements in the Risk Factors section. GSE does not intend to update or revise any forward-looking statements whether as a result of new information, future events or otherwise.
+
+I'd now like to turn the call over to Mr. Jim Eberle, Chief Executive Officer of GSE Systems. Please go ahead, Jim.
+
+Thank you, Thomas. Good afternoon. I'd like to welcome everyone to GSE Systems 2013 second quarter conference call. Also on today's call is our CFO, Jeff Hough and Larry Gordon, our Senior Vice President, General Counsel.
+
+Earlier this afternoon, we issued a press release covering our quarterly financial results, a copy of which can be found on our website at www.gses.com under the Investor Relations section.
+
+Our results for the second quarter were in line with expectations operationally. However, the loss was magnified by the reporting of separate one-time charges totaling $6.6 million related to the write-down of capitalized software and goodwill impairment. I want to stress that these changes are non-cash and therefore did not negatively impact our balance sheet which remains quite strong. In fact, these charges will serve to clean up the balance sheet to some extent.
+
+In the post-Fukushima nuclear world, we have experienced an indefinite pause of the nuclear renaissance in the United States, the Japanese and German markets are severely diminished at least for near-term. The delay in new build decisions in other countries such as China, Russia and others, the nuclear agencies rightfully took time to determine new regulations resulting in no immediate spending to address Fukushima-like issues, which altogether has led to a situation with less overall business driving more competitiveness thus significant pressure on margins.
+
+In short-term response to all this, we as GSE management have undertaken steps to adjust to the conditions on the ground. U.S. operators loan estimate $3.6 billion in post-Fukushima spending. This will include upgrading the simulators for plant changes and adding severe accident models. GSE's strategy to address this was the development and sale of PSA-HD, EPDesign (sic) [DesignEP] (3:38) and others severe accident modeling products.
+
+Additionally, our R&D team undertook the reconfiguration of our simulator software structure from a model-centric design to a data-centric design, which we call ISIS, which stands for Intelligent Simulation and Information System. The net effect of this restructuring of our software architecture will reduce the time and cost of creating simulators in the future, as well as using and maintaining simulators by our customers. And our company continues to spend development money on adding new features to these products.
+
+Our longer-term actions and opportunities include the following. We remain Westinghouse's preferred vendor and the only company who has built simulators for the AP1000. We are also working with Westinghouse to provide other valuable services, which we have developed.
+
+We are continuing to position ourselves, take advantage of the markets where new builds are expected to continue and to align with nuclear power plant builders. For example, in China where, according to the World Nuclear Association, 28 plants are under construction, 53 are planned and 118 are proposed, we are building relationships with nuclear utilities as well as construction companies. We intend to increase our workforce in China as we grow globally to reduce our average labor rates.
+
+In South Korea, we're working with KEPCO where five plants are under construction and five more planned. In Russia, where GSE has a long history supporting the nuclear industry for forming key partnerships to address the 10 plants under construction, as well as 24 planned and 20 proposed. Key to each of these countries is that they're all expected to be major global exporters as well. We continue to work with all of the key small modular reactor suppliers and we're engaging with startups and engineering firms targeting new plant designs. The Boston market in the U.S. is very geographically dependent.
+
+In the U.S. environmental issues driven by the Clean Air Interstate Rule Phase II puts a cap in place for nitrogen oxide and sulfur dioxide by 2015, as well as the Clear Air Mercury Rule. Cheap natural gas prices are driving higher production and more combined cycle gas turbine plants. As a result, we have seen a significant uptick in RFPs in the last six months. Those provide us with the opportunity to provide simulators for new air pollution equipment as well as combined cycle gas turbine new builds.
+
+In Europe and Asia, they're continuing to build co-power plants and we're actively working to expand our relationships with additional DCS vendors. We continue to invest in our training business and market to which we were decidedly early with the development and introduction of our immersive 3D gaming technology with physics-correct simulation models. Although our Activ3Di business has grown over the last several years, industry appreciation of the profound impact of this next-generation technology will have in training with the workforces faster and better, is now only developing.
+
+We remain confident that this business line will grow and achieve profitability in 2013. Our engineering services leverage technology mitigates risk and save both time and money. Our customers can view design scenarios virtually allowing them to identify and correct problems before construction avoiding very costly delays and risk.
+
+In the current contract, we were selected to perform implosion studies for a brand new type of power plant. We were told that we were the highest bidder, but they wanted to make sure they got it right, because an accident with the new technology like this could end its future.
+
+It's been a difficult first half of 2013 to be sure, however, our resolve remains unshaken. We continue to believe that GS future lies at the intersection of growing global energy demand and the shortage of qualified energy workers. New technologies, new regulations and an aging workforce demand that companies like GSE provide innovative engineering and training solutions.
+
+We remain committed to the mission and to enhancing the long-term value of GSE for our shareholders. To that end, we have instituted cost saving measures that will produce approximately $1 million in annual savings. These include labor and expense reductions. We're also focused on turning bids outstanding into contracts.
+
+As we mentioned in the press release, over 17 million of orders we forecasted to close in the first half of the year were pushed to the right and are still active, on top of the orders, we originally forecasted for the second half of the year.
+
+We also remain focused on mergers and acquisitions. We're reviewing a number of possible acquisition opportunities in the U.S. and abroad. In fact we negotiated a few term sheets, only one of which appears not to be viable at this time, and we continue talking to interesting potential targets. The side benefit is that even with companies that we don't move forward with the acquisition, there are opportunities for us to partner.
+
+In last quarter's conference call, I mentioned a few game changing opportunities. Just today, we achieved a milestone on one of those opportunities. It in no way gives us the clarity to provide the size or the schedule of that, but it was an important milestone none the same and it was necessary to move forward.
+
+Other game changing opportunities still remain active. We continue also to focus on our EnVision product. Anyone who knows our company knows that the EnVision product line has the opportunity to provide significant margin.
+
+We have won significant contracts with Shell as well as BP and we're pursuing the next Shell and BP type contracts.
+
+I'll now turn the call over to Jeff for a review of second quarter results. Jeff?
+
+Thanks Jim, and thanks to each of you for joining us today. The second quarter 2013 revenue declined 16.3% to $11 million from $13.2 million in the second quarter of 2012. Higher revenue from our $36 million Slovakia simulator project in Q2 2013, which totaled $2.5 million compared to $0.5 million in the second quarter of 2012. However, the increase in the revenue on this project was offset by a $2 million decline in revenue from nuclear simulation projects in Japan and Germany. The Slovakia simulator project is expected to be substantially completed by the first quarter of 2014.
+
+In addition, in the second quarter of 2012, the company had completed two significant nuclear simulation projects, one for a full scope AGR replacement simulator with a British utility, and the other was for a significant upgrade to a Ukrainian simulator. These projects had generated revenue of about $1.6 million in the second quarter of 2012.
+
+Our gross profit in the second quarter of 2013 was $0.6 million or about 6% of revenue as compared to $4.5 million or 33.9% of revenue in the second quarter 2012. Gross profit for the second quarter of 2013 reflects a $2.2 million one-time non-cash charge or the write-down of certain capitalized software development costs. Excluding this charge, gross profit in the second quarter of 2013 was $2.8 million or about 25.6% of revenue.
+
+The decline in gross profit was largely driven by the higher percentage of the revenue associated with the Slovakian project in the second quarter of 2013, which approximated 22% of our total revenue as compared to the second quarter of 2012 when the revenue from that project approximated 4% of total revenues. The revenue from the Slovakian project has a substantially lower gross profit margin than our normal gross profit margins due to an inordinate amount of hardware being supplied on the project.
+
+Operating expenses in the second quarter of 2013 totaled $8.6 million, which included a one-time non-cash goodwill impairment charge of $4.5 million. Excluding this impairment charge, operating expenses totaled about $4.1 million, a $0.2 million increase from the second quarter of 2012. This increase is related mainly to operating expenses for our new Oracle financial system, currency exchange losses, and higher facility costs related to our new UK office.
+
+Accordingly, operating loss for the second quarter of 2013 was $8 million compared to operating income of $560,000 in the second quarter of 2012. Again, excluding the $6.6 million charges for the goodwill impairment and write-down of capitalized software costs, the operating loss for the second quarter of 2013 was $1.3 million, again primarily resulting from our lower revenue and the revenue mix.
+
+The company incurred net loss in the second quarter of 2013 of $8.2 million or $0.45 per basic and diluted share compared to net income of $158,000 or $0.01 per share per basic and diluted share in the same period last year. Excluding the one-time non-cash charges, the net loss for the second quarter of 2013 would have been $1.6 million or $0.09 per diluted share.
+
+EBITDA, which is our earnings before interest, taxes, depreciation and amortization, plus these other one-time non-cash charges for the second quarter 2013 was a loss of $1.4 million compared to EBITDA of $0.5 million in the second quarter of 2012. As of June 30, 2013, our backlog was at $39 million, as compared to $51.9 million at the end of December 2012. Our cash position at June 30, 2013 was $21.1 million, which excludes another $2.2 million of restricted cash.
+
+Okay. At this time, I'll turn it back to you, Jim.
+
+Thanks, Jeff. We appreciate your time today. Now, we would be happy to take your questions. Operator, please go ahead.
+
+Thank you. We'll now be conducting a question-and-answer session. [Operator Instructions] Thank you. Our first question comes from the line of Mark Schappel with Benchmark. Please proceed with your question.
+
+Hi. Good evening.
+
+Hi, Mark.
+
+Jim, in your prepared remarks, you stated that you expect to return to profitability, I believe, by Q4.
+
+Yes.
+
+I was wondering if as part of this return to profitability, that includes less low margin hardware from the Slovakian simulator project.
+
+Actually Mark, in the fourth quarter, we do still have some hardware. What we have is a significantly lower amount of revenue. It's on the order of, I believe, $2.2 million in the fourth quarter. So what you really see on our fourth quarter and the reason we can project this breakthrough is we see more revenue coming from the orders that we've been talking about that have been pushed to the right. We see those coming in and that revenue is what I'll call our normal better margins and it's offsetting the lower margin revenue that we've experienced throughout this year with the Slovakian project.
+
+Okay. Great. And then, I was wondering if you can just go into a little bit more detail on what you're doing on the cost containment front to take the $1 million in annualized savings out of the business?
+
+Sure. We eliminated certain positions in overhead positions, business development, and right-sized some of the direct labor staff in accordance with where we saw orders. In the last call, we talked about the internal improvement initiatives. And what we did was we made the decision to suspend those until the business came back around to profitability. So we will still receive some benefit from the things that we implement. Obviously, Oracle that largely is complete. There are some nice to haves that we would have normally continued with, but we're going to postpone that, like I said, until the business comes around. And in some of the areas, we're trimming back what we do. We expect to improve Q3 over Q2; and as we mentioned in the press release return to profitability in Q4 and beyond.
+
+Okay. Great. And then, as part of the $17 million in delayed orders, were there any – it appears that most of those were nuclear, but was there any non-nuclear deals in there?
+
+Yeah, honestly I would say it's all of the above. It was one of the things that – I've been with the company now three years and I've talked with significant veterans of the company and nobody recalls anything like this happening before where it was that widespread. I've had a lot of good questions from investors over the quarters about do you see it geographically, do you see it in a particular vertical, and the answer is no. It was broad based. It was global. And so the good news is also out of the $17 million that we see, it's still broad based and global. Obviously, as you well know, the nuclear jobs are bigger in magnitude. So, getting a nuclear job has a much bigger effect on backlog, but then they take longer to digest.
+
+And what was the nuclear and non-nuclear mix in the quarter?
+
+Jeff, do you have that one?
+
+Yeah. As far as orders are concerned, the nuclear was about 23% of the orders. As far as revenue, we're still around 63% revenue from nuclear.
+
+Thank you. That's all from me.
+
+Thanks, Mark.
+
+Thank you. [Operator Instructions] Thank you. We have no further questions at this time. I would like to turn the floor back over to management for closing remarks.
+
+I'd just like to thank everyone again for your time and continuing interest in GSE Systems. And as always, we would like to thank the hard working talented women and men at GSE for everything they do.
+
+Thank you. This concludes today's teleconference. You may disconnect your lines at this time. Thank you for your participation and have a wonderful day.

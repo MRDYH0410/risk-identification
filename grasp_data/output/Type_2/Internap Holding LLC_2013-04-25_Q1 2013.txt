@@ -1,0 +1,244 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+Michael Nelson — Investor Relations, Internap Network Services Corp.
+Eric Cooney — President, Chief Executive Officer & Director, Internap Network Services Corp.
+Kevin M. Dotts — Chief Financial Officer, Internap Network Services Corp.
+Chris M. Larsen — Analyst, Piper Jaffray, Inc.
+Gray W. Powell — Analyst, Wells Fargo Securities LLC
+George F. Sutton — Analyst, Craig-Hallum Capital Group LLC
+Colby A. Synesael — Analyst, Cowen & Co. LLC
+Mark Daniel Kelleher — Analyst, Dougherty & Co. LLC
+Dan L. Kurnos — Analyst, The Benchmark Co. LLC
+
+Management Discussion Section
+
+Question And Answer Section
+
+Good day, ladies and gentlemen, and welcome to the Internap First Quarter 2013 Earnings Conference Call. At this time, all participants are in a listen-only mode. Later, we will conduct a question-and-answer session and instructions will follow at that time. [Operator Instructions] As a reminder, this conference call is being recorded.
+
+I would now like to turn the call over to Michael Nelson, Director of Investor Relations. Please begin.
+
+Thank you. Good afternoon, and thank you for joining us today. I'm joined by Eric Cooney, our Chief Executive Officer; and Kevin Dotts, our Chief Financial Officer.
+
+Following prepared remarks, we will open up the call for your questions. The slides we reference in the call are available on our website, in the presentations section on the Investor Relations page. Non-GAAP reconciliations and our supplemental data sheet, which includes additional, operational and financial metrics, are available under the Financial Information, Quarterly Results section of our Investor Relations page.
+
+Today's call contains forward-looking statements, including expectations regarding future performance and the drivers for long-term profitable growth, belief in our business strategy, including the benefits from investing in company-controlled colocation, hosting and cloud services, timing for rollout of enhanced features of our customer portal and bringing new data centers and expansions online, expectations regarding margins, cash flow, returns on invested capital, levels of capital expenditures and our capital deployment strategy because these statements are not guarantees of future performance and involve risks and uncertainties, there are important factors that could cause our actual results to differ materially from those in the forward-looking statements. We discuss these factors in our filings with the Securities and Exchange Commission. We undertake no obligation to amend, update or clarify these statements. In addition to reviewing the first quarter 2013 results, we'll also discuss recent developments.
+
+Now, let me the turn call over to Eric Cooney.
+
+Thank you, Michael, and good afternoon, everyone. We're pleased you could join us for our first quarter 2013 earnings presentation. I will start the discussion with a summary of our results and then turn the call over to Kevin Dotts, our Chief Financial Officer, to take you through our detailed financial results. From there, I will briefly wrap up our prepared remarks before we open up the call to take your questions.
+
+Beginning on slide three, you will see we delivered total revenue in the first quarter of 2013 of $69.7 million, representing an increase of 4% year-over-year and unchanged quarter-over-quarter. Consistent with our strategic plan, we continued to deliver growth from our core data center services business including company-controlled colocation, hosting and cloud services. The flat sequential performance was the result of continued decline in the IP services revenue. Despite flat sequential revenue, segment profit and segment margin increased due to the favorable product mix shift.
+
+Segment profit totaled $36.8 million, an increase of 3% year-over-year and 2% quarter-over-quarter. Total segment margin was 52.8%, a decrease of 70 basis points year-over-year and an increase of 100 basis points sequentially. The primarily driver for this sequential increase in segment profit and segment margin was the solid growth in the data center services revenue and a larger proportion of higher margin company-controlled colocation, hosting and cloud services. Lower IP revenue drove the year-over-year decline in segment margin.
+
+On slide four, we showed the sources of change in revenue from the fourth quarter of 2012 to the first quarter of 2013. Our core data center services remain the engine for top-line company growth and contributed $0.7 million of incremental revenue. We would also note that within the data center services segment, we experienced significant revenue churn during the quarter from a few larger customers located in our partner data center facilities. The partner data center revenue represented about 30% of total data center revenue for the quarter. The growth in data center services revenue was also offset by the continued decline in IP services revenue of $0.7 million.
+
+On slide five, I'll cover segment results. Data center services revenue totaled $44.4 million in the quarter, an increase of 11% year-over-year and 2% quarter-over-quarter. The revenue mix shift associated with the move away from partner data centers and into company-controlled data centers as well as hosting and cloud services also helped deliver strong profitability growth. Data center segment profit increased 15% year-over-year and 7% quarter-over-quarter. Data center segment margin expanded 150 basis points year-over-year and 260 basis points sequentially to a company record level of 49%.
+
+In our IP services segment, revenue decreased year-over-year and sequentially to $25.3 million. IP segment margin decreased 140 basis points sequentially to 59.6% due to lower IP transit revenue and in particular due to the loss of a large legacy contract during the fourth quarter of 2012. Given that our IP costs are largely fixed in the short term, we saw the impact of this customer churn affecting IP segment margin in the quarter. We would expect this margin impact to mitigate as we both replace this lost customer traffic and also renegotiate our transit supplier contracts going forward.
+
+Despite the revenue headwinds created by the declining IP services revenue, the segment continues to deliver solid segment profitability and cash flow, which we leveraged to invest in the more capital intensive data center services segment. This allows us to maintain low financial leverage relative to many of our peers while also providing a key element of competitive differentiation for our data center services business.
+
+In the first quarter, churn in our data center segment increased 20 basis points year-over-year and 60 basis points sequentially to 1.6%. As I mentioned, this higher data center churn was largely driven by customer downsizing or consolidating their footprint within our partner data center business. Churn in our IP segment decreased 10 basis points year-over-year and 90 basis points sequentially to 1.4%. Total company churn remained flat year-over-year and sequentially at 1.5%.
+
+On slide six, you can see we delivered a solid quarter of adjusted EBITDA and adjusted EBITDA margin. First quarter adjusted EBITDA was $14.1 million, an increase of 16% year-over-year and a decline of 5% quarter-over-quarter. Adjusted EBITDA margin increased 200 basis points over the first quarter of 2012, and declined 120 basis points quarter-over-quarter.
+
+The year-over-year improvement in adjusted EBITDA and the associated margin expansion was predominantly the result of revenue and segment profit growth in data center services, and positive operating leverage in our business model. Cash operating expenses increased $1.5 million sequentially due to seasonally higher employee related costs.
+
+On slide seven, we are providing some insight into the positive trends we are experiencing within our data center services segment. We are increasing customer wallet share and driving a product mix shift as we sell more hosting and cloud services. These hosting and cloud services typically generate significantly higher revenue per square foot when compared with traditional colocation services.
+
+To put this into perspective, managed hosting services can generate 10 times and cloud services can generate 100 times the revenue per square foot of traditional colocation services. This dynamic is reflected in revenue per square foot as we drive occupancy in our company-controlled facilities from a combination of these colocation hosting and cloud services. As you see in this chart, our revenue per company-controlled occupied square foot has steadily increased 14% from the first quarter of 2011 to the first quarter of 2013.
+
+Moving onto slide eight, we are providing an update on Internap's next stage of compelling competitive differentiation for our suite of IT infrastructure services. We recently announced a Cloudy Colo service offering that enables on-demand hybridization of cloud and colocation services and also delivers cloud-like remote visibility and management benefits to our colocation customers. These cloudy colo features are provided through a new customer portal which is currently in testing for select Internap Labs customers and will be generally available at the end of second quarter in the company's Los Angeles, Santa Clara and Dallas data centers.
+
+The ability for a colocation customer to access their customer portal and deploy on-demand cloud compute, bare metal compute, or storage assets in an integrated networked environment is a powerful new level of flexibility. This offering also provides our colocation customers with numerous benefits typically associated with cloud services, such as real-time monitoring, self-service equipment reboot and inventory management. This unique Cloudy Colo service will be offered as a standard component of Internap's colocation services. Cloudy Colo is a great example of the types of services that we envision for Internap's hybridized platform of high performance IT infrastructure services. Our significant capital investments over the past several years have been made with this vision of a hybridized platform of IT infrastructure services in mind.
+
+Moving onto slide nine, we provide an example of how Internap is providing solutions in the healthcare segment, which represent an industry of significant growth potential for us. New York eHealth Collaborative is the non-profit organization entrusted with the development of the state-wide health information network of New York. New York eHealth has deployed a health information exchange system to facilitate patients' electronic health records being maintained and passed between healthcare providers in support of improved healthcare for all New Yorkers.
+
+As you would expect, New York eHealth's requirements around privacy, security and reliability were paramount in their selection of an IT infrastructure provider to support their mission. Internap's ability to provide a hybrid solution leveraging our full platform of services including colocation, custom hosting, bare-metal cloud and IP transit to deliver a secure and multi-site environment has helped us tap into the expanding market for healthcare IT services.
+
+Now I will pass the call over to Kevin Dotts, our Chief Financial Officer, who will give us a more detailed review of our financial results. Kevin?
+
+Thanks Eric. I'll start my comments on slide 10, which covers our income statement comparisons. First quarter 2013 revenue totaled $69.7 million, a $2.7 million increase compared to the same period last year representing 4% year-over-year growth. Compared to the fourth quarter of 2012, total revenue was unchanged. The year-over-year increase was a result of higher core data center services revenue while the flat sequential performance was a result of lower IP services revenue.
+
+Total segment profit totaled $36.8 million, an increase of 3% year-over-year and 2% quarter-over-quarter. Total segment margin contracted 70 basis points year-over-year and expanded 100 basis points sequentially to 52.8%. Total segment profit and segment margin were positively affected by solid growth in the data center services revenue and a larger mix of higher margin company controlled collocation, hosting and cloud services. Lower IP transit revenue drove the year-over-year decline in segment margin.
+
+Total cash operating expense of $22.7 million declined 4% year-over-year and increased 7% quarter-over-quarter. The year-over-year decrease was the result of benefits from several internal programs implemented to increase efficiency and improve our cost structure. This sequential increase was largely driven by seasonally higher employee benefits cost.
+
+Adjusted EBITDA totaled $14.1 million, an increase of 16% year-over-year and a decrease of 5% quarter-over-quarter. Adjusted EBITDA margin was 20.3%, an expansion of 200 basis points year-over-year and a decline of 120 basis points sequentially. The solid year-over-year performance was driven by favorable mix shift of higher margin core data center services and the positive operating leverage we are building into the business. Seasonally higher operating expenses impacted sequential comparisons.
+
+GAAP net loss in the first quarter of 2013 was $1.6 million or $0.03 per share, an increase year-over-year and sequentially primarily as a result of higher interest expense and depreciation and amortization expense attributable to our capital investments. Normalized net income, which excludes the impact of stock-based compensation and certain items management considers non-recurring, totaled $0.2 million or $0.00 per share.
+
+Cash flow and balance sheet summaries are shown on slide 11. Adjusted EBITDA exceeded capital expenditures in the first quarter of 2013 by $6.7 million. We expect our capital expenditures to ramp the next couple of quarters, as we build out our new data center in the New York Metro market as well as expand an additional phase in our existing data centers in Santa Clara and Boston. We continue to expect to spend between $60 million to $65 million of CapEx in 2013.
+
+At the end of the first quarter, cash and cash equivalents totaled $34.6 million. Funded debt totaled $104.6 million, an increase of $9.2 million from December 31, 2012, as we tapped into our revolving credit facility to support our data center expansions. As of March 31, 2013, our long-term debt consisted of $64.1 million borrowed under our term loan, and $40.5 million borrowed under our revolving credit facility.
+
+Capital leases increased $8.5 million from the previous quarter to $57.1 million. With net debt of $127.1 million, our net debt to last quarter annualized adjusted EBITDA was 2.2 times comfortably below the average for our data center peers. Our announced data center expansions are fully funded with our current debt facilities, cash generation and cash-on-hand. Day sales outstanding remained steady at 25 days in the first quarter, reflecting continued solid discipline in our collection procedures and pre-screening credit policies.
+
+On slide 12, we highlight our capital flexibility. We maintain substantial cash generation capability as evidenced by our discretionary cash flow defined as adjusted EBITDA less maintenance CapEx. Annualizing our first quarter adjusted EBITDA and subtracting our full-year 2013 maintenance CapEx guidance implies an annualized discretionary cash flow of roughly $42 million.
+
+Approximately 75% of our 2013 capital plan is either capital deployed for future growth or success-based capital tied to customer installation request. This provides us with substantial flexibility to adapt to potential changes in macro and industry trends. We have a very disciplined approach to capital allocation and believe we have significant opportunity to invest in the business and generate returns well in excess of our cost of capital.
+
+Now, let me turn the call back to Eric for his closing remarks before we take your questions.
+
+Thanks, Kevin. Now I'll briefly summarize on slide 13. We are pleased with the solid start to 2013 as reflected in our first quarter results. We continue to balance the favorable growth we are experiencing in our core data center services with a decline in our IP services business while remaining confident in the strategic importance of the high performance networking contribution to our IP value proposition.
+
+On a year-over-year basis, the data center services segment delivered solid results with segment profit up 15% and segment margin up 150 basis points. Over the same period, adjusted EBITDA increased 16% and adjusted EBITDA margin increased 200 basis points highlighting the successful execution of our data center services strategy, tight cost controls and the solid operating leverage we are building into our business model.
+
+Looking forward, our focus remains the execution of the strategy we put in place. We will continue to leverage our company-controlled data center capacity and look to fill this capacity with our full portfolio of hybridized IT infrastructure services including colocation, hosting and cloud offerings. We remain on track to expand our footprint later in 2013 in the New York Metro market as well as in Santa Clara and Boston markets in response to customer demand.
+
+Further, we expect to leverage our investments in expanded routes to market including the inside sales team and e-commerce channel and a reinvigorated partner channel. We remain confident in our strategy and ability to deliver long-term profitable growth for our shareholders.
+
+Now, we'd like to open up the call for your questions. Operator?
+
+Thank you. [Operator Instructions] The first question is from Chris Larsen of Piper Jaffray. Your line is open.
+
+Hi. Thanks. I guess I'll start with the obligatory pricing environment question and maybe if you could just talk little bit about what you are seeing in terms of pricing trends both on the – if there is any on the hosting side and on the data center side as well as space side?
+
+And then, Eric, it looked like the – you didn't really have a change in your utilization, but obviously you grew your revenues. Is that a function of a mix shift or customers that are leaving being replaced by customers that are paying you a bit more or how should we think about that?
+
+Sure. Thanks, Chris. So pricing environment as you point out its best to breakdown our data center services into really two buckets: the colocation product offering and the hosting and cloud services offerings. On the colocation side, I would say our pricing trends remain as we've previously spoken about. In other words, colocation both power and space tends to increase on a year-over-year basis and that's what we're seeing in terms of market level pricing and reflecting in our pricing to our customers. Modest year-over-year price increases in the colocation segment.
+
+On the hosting and cloud, there's been a lot of let's say much published pricing reductions from some of the larger players in the space. And certainly Internap responds to that and has to maintain competitive market level pricing for our products as well. What I would suggest though in terms of investor focus is really investor focus on both revenue growth, but also contemplate as we do the returns on capital for those hosting and cloud services.
+
+In that context you really have to keep in mind that our cost continued to drop fairly significantly for the compute and storage products that we're purchasing. This is again really benefiting on the cost side from Moore's law in procuring that equipment that we're ultimately turning around and leasing or renting in those hosting and cloud models. So yes we see pricing declines on the per unit price for hosting and cloud products but we're also seeing significant cost reductions, which have enabled us to continue to maintain very healthy returns on capital.
+
+To your question about occupancy and revenue, it's a good point. What is going on underneath the covers is exactly as you mentioned. We're seeing a product mix shift in our data center services segment. And if I just speak about our core data center services for a moment, in other words excluding the partner data center services, we're seeing different growth rates for colocation, hosting and cloud services and we also see different revenue per occupied square foot from each of those products with hosting better than colocation and cloud better than hosting as I mentioned in my prepared remarks.
+
+So, the bottom line is, it's reasonable to expect a slower rate of occupied square footage growth to deliver the same sequential revenue growth rates if you follow my point. In other words, as that mix shifts, as we sell a higher proportion of hosting and cloud services generate a higher revenue per square foot, we wouldn't need to increase the occupied square footage as much to deliver the same level of revenue growth.
+
+And Eric that makes perfect sense. Is that something that you're actively trying to do or the market is just sort of pulling you in that direction?
+
+Both actually. The market is pulling us in that direction in that the market growth rates for cloud and hosting services are significantly above the market growth rates for colocation. For Internap's part, we are making disproportionate investments internally to build our, let's say, more nascent hosting and cloud services.
+
+So, the investments we're making in everything from recruiting people to training, to product development, you saw our Cloudy Colo launch that's really an evolution of a hosting cloud product that we're bringing to the colocation customer. So, we are benefiting both from the market dynamics but also making disproportionately larger investments in our cloud and hosting, at least from an OpEx standpoint. Certainly if you look at CapEx spend on an annual basis, we spend a lot of money building data center capacity over the past several years, and obviously we're looking to sell into that as we go forward.
+
+Thank you. That's very helpful.
+
+Sure.
+
+Thank you. The next question is from Gray Powell of Wells Fargo. Your line is open.
+
+Thanks for taking the questions. Just had a couple. Maybe just starting off with a bigger picture question, a lot of investors have expressed concerns on cloud computing taking share from traditional data center business lines such as managed service and collocation. Obviously you guys sell all three services. So, just really, curious in terms of what you're seeing, and what kinds of applications do you see in cloud environments versus colocation?
+
+Sure. Thanks, Gray. In terms of hosting or cloud taking share, if you will, from a colocation, I think you can say that's true if you look at macro market growth rates. In other words, for that IT decision maker, that's making decisions about his outsourced IT services today, as compared to that same decision five years ago, is based on nothing more than the technological capabilities that now provide that IT decision maker the option to deploy his application workloads into a hosting or a cloud infrastructure, whereas he might not have had that option several years ago.
+
+So, the capabilities, the options for that IT decision maker are broader today than they were in relatively recent history. And so, yes, that's in part driving a disproportionate share of IT infrastructure to hosting and cloud as compared to colocation. And of course you see that manifested in the market growth rates, right, again hosting and cloud market growth rates significantly above colocation. Having said that, I think it's important to appreciate all of these markets are large and growing markets. So, it would be incorrect to assume that cannibalization of colocation can be expected to drive a near-term decline in the total colocation addressable market. That's clearly not the case or clearly not what we at Internap are expecting.
+
+Got it. That's helpful. And then – and again given that you guys are sort of a one stop shop. To what extent does your colocation business, by your ability to sell cloud, and then maybe vice versa does cloud benefit from having colocation customers?
+
+Clearly, our strategy is heavily underpinned by a belief that the ability to offer the platform of colocation hosting and cloud services is now and will increasingly be a relevant basis for competitive differentiation. And a common example I provide is, when we're talking to customers today, particularly let's say colocation customers, the near-term buying decision they're making is on deployment of five racks of colocation into a data center.
+
+While the product they're clearly investigating is collocation, I think it's fair to say that almost without exception the conversation with that colocation customer includes a discussion of Internap answering the question. Talk to me about your hosting and cloud services, Internap. Talk to me about the hybridization capability for my colo racks with cloud or with hosting products. So, even if many, if not most, of the actual buying decisions today are for one siloed product or another, I would say the decision in terms of which supplier that IT decision maker selects is increasingly influenced by the supplier's capability to provide that platform of hybridized services.
+
+Got it. That makes a lot of sense. Thank you very much.
+
+Sure. Thanks Gray.
+
+Thank you. The next question is from George Sutton of Craig-Hallum. Your line is open.
+
+Given that you don't provide guidance, if you could just give us a sense from the pipeline side what you're seeing today from a pure demand perspective? And I wondered if you could give us a little sense on some of your vertical focus areas as well, you know, the online gaming, big data, media and entertainment areas?
+
+Sure. I guess first of all pipeline, of course, more is always better. But to be a little more specific for us, we really break it down into, if you will two buckets. Think of it as our core data center services, meaning colo-hosting and cloud, and the more legacy services, partner colo et cetera. And from our standpoint, the demand for core data center services remains quite strong, robust, large markets with large long-term growth potential. So feel very comfortable about the size and long-term growth potential of the core data center services and product portfolio. What was your second question?
+
+Well I was specifically wondering about some of the vertical focus areas...
+
+Industry verticals, I'm sorry. So, Internap's success tends to be, as you might imagine, with customers for whom our value proposition resonates. And again our value proposition is one of high performance IT infrastructure and a platform of high performance IT infrastructure services. So the industry verticals where that resonates, you mentioned a couple, big data, really not an industry segment, but more accurately think of mobile applications or online advertising, those tend to be the big data type customer requirements.
+
+We also tend to do fairly well, as I mentioned in my prepared remarks, in the healthcare industry. We tend to do fairly well in the financial services industry and we also tend to do fairly well in the gaming and maybe I'll even expand that to just say media and entertainment industries in general. The common theme for all of those industry segments is mission critical IT infrastructure that requires – expects high performance, high reliability IT infrastructure service.
+
+You mentioned earlier in your remarks, you specifically mentioned inside sales team, reinvigorated partner channel and e-commerce. Can you just give us a little bit more of a picture around what those focuses are?
+
+Sure. Historically, Internap has been virtually entirely a direct sales enterprise sales route to market and today, we are still predominantly a direct sales route to market in terms of the source for the majority of our bookings. That being said, we both see opportunity and customer demand for other routes to markets leverage – e-commerce is the most obvious example. Particularly post our Voxel acquisition, with the addition of our Agile Hosting platform, those products lend themselves very well to online customer purchase of IT infrastructure. So we've made some non-trivial investments over the past year and continue to make those investments really building out an e-commerce route to market.
+
+Similarly on inside sales organization, really a, if you will the step between the entirely customer independent, go to a website and make a purchase as compared to a direct sales model. We have the inside sales folks who will provide phone support and answer configuration questions, provide chat support et cetera.
+
+And then finally Internap has made some also non-trivial investments over the past 12 months I would say, really reinvigorating our channel partner program, just an opportunity for us to take a step back and focus on channel partners. That's just another way to accelerate our enterprise sales organization.
+
+Thanks for the information.
+
+Thank you. And the next question is from Colby Synesael of Cowen & Company. Your line is open.
+
+Yeah. I have a few I guess finical questions. The first one is just a housekeeping item, just want to make sure there's no one-time items in the first quarter whether it's in revenue or in cost, that we should be aware, that we should be backing out or adding back in as we move into the second quarter.
+
+Also you talked about some cost reduction efforts that had been helping margins. I was wondering if you could be a little bit more specific and then also kind of talk about what else there might be available to do?
+
+And then just a last question, again sticking with financials, I was wondering if you could kind of start to break out where the revenue growth is actually coming from on the hosting side, is it actually coming from current customers, is it coming predominantly from new customers, just trying to get a sense of where you're seeing the biggest opportunities come from within the hosting space?
+
+Sure. Thanks, Colby. I guess, I'll take the first and third questions for one-time and the growth and maybe Kevin, can take a stab at the cost reduction question. So, in terms of one-time items in the first quarter, particularly on the revenue side in the IP segment, we've made a comment in the prepared remarks that we experienced some, let's say one-time IP revenue. To elaborate on that a little more fully, really what we saw is some bursting revenue, as well as some FCP revenue that isn't by definition necessarily recurring. And I think, I would characterize that as really the only one-time effect here in the first quarter.
+
+From a revenue growth perspective, where are we seeing revenue growth coming from. I'd say today, the majority of our bookings and revenue growth does come from existing customers, customers that are – we've secured and are in some of those market segment side, I described such as gaming, media and entertainment, healthcare, financial services. And those customers experiencing their own rapid market growth and of course expanding their IT infrastructure services as part of that growth. That being said, the investments we're making across, really all of our route to market, direct sales, channel sales, e-commerce and inside sales, are of course geared to position Internap to capture more and incremental new customers. That's clearly important for us in terms of long-term strategic execution.
+
+And, Eric, if I could just add to that, you've been talking about the majority coming from existing customers, you've obviously expanded the product set quite a bit over the last few years and I'm sure you've kind of sat down with everybody and figured out whose own – who already is out purchasing what services. How far long are you in kind of just combing through the customer base and making sure that everybody knows exactly what Internap is selling today and that they're at least been given the opportunity to potentially purchase other services from you?
+
+It's an excellent question and I wish I could say that every one of our 3,700 customers was intimately familiar with our product portfolio and we were capturing every incremental sales opportunity that there possibly was, but I won't tell you that. Clearly, we are aware of existing customers and the incremental opportunity and that's – as I said initially that's where we're seeing the majority of our growth. But, I still think that there's a fair bit of work we can do in terms of awareness amongst those customers, the nature and the extent of our platform expansion.
+
+We still have customer meetings today with existing customers, perhaps legacy colocation customers that are surprised that – oh, Internap, I didn't know you offered a public cloud service, or, gee, Internap, you have an extensive custom hosting offering, that's interesting, let's talk about that. So, I guess, it's a good news, bad news story. But, the good news is there's still significant opportunity for us to leverage that installed base of customers with our current platform of services.
+
+Colby, this is Kevin. With regard to the productivity programs, I mean, clearly we, as Eric had already alluded to, as we see our pricing challenges on the IP side, we work very diligently on managing the telco relationships to be able to manage our overall IP margin rate into that roughly 60% range. So, there's continuing programs ongoing, where we continue to renegotiate those contracts and take cost structure down.
+
+On the data center side, there is certainly pretty diligent efforts as we look at our power cost to manage those, to make investments in productivity type programs, where we can take those cost structures down and continue to maximize the profitability coming off of the infrastructure.
+
+And then from an OpEx perspective, I think you'll see, we're just slightly down, year-over-year, the total head count. About 50% of our operating costs are head count driven roughly. So, with a little bit lower head count, we get a little bit benefit there and then as far as the other part of the operating expenditures, there are still opportunities and programs we look at, when it comes to things like property taxes, real estate taxes and areas where we can continue to find ways to be more efficient, we tend to work those.
+
+So, I kind of look that on a go-forward basis, to latter part of your question on productivity, that there's – we still see opportunities there, and we continue to work through and drive productivity across all the different parts of the operating cost structure.
+
+Great. Thank you guys.
+
+Thank you. The next question is from Mark Kelleher of Dougherty & Company. Your line is open.
+
+Great. Thanks for taking the questions. Just to quickly go back to the comment you made on the IP services having some one-time things in there. You mentioned bursting, was that referred to your CDN, you have a good CDN result in the quarter?
+
+I was actually referring to both. But yes certainly CDN is part of our IP business unit revenues. So, yes, bursting from both.
+
+And is there a way to size what all of those were, percentage or...?
+
+I guess the best way to look at it is perhaps to take a look at consensus revenue expectations for IP for the first quarter and essentially that was a pretty good estimate of our Q1 normal run rate IP revenue. So, the $25.3 million we delivered was $600,000, $700,000 above consensus estimate for first quarter.
+
+Okay, that's helpful. The customer support line bumped up just a little bit over $7 million, is that – any one-time in that or is that a level that we should kind of assume going forward?
+
+No, I think from a cash OpEx perspective, our Q1 number was, let's say, a pretty good number from go forward run rate perspective.
+
+Okay. And my last question is CapEx. You've got $60 million to $65 million that you're going to spend this year. You spent I think it was $7.5 million in the quarter, which means the bulk of it is still coming up. Is that how should we think of the timing? Is that evenly split? Is there a bulk of that? Is there some breaking ground in New Jersey that has to be done early or later? How should we think of the CapEx playing out this year?
+
+I think, it's going to lag a little bit into the second half of the year at this point, as we get closer to, as we've said earlier that the New York facility was going to open up in the fourth quarter, and I think that's where you're going to wait. We have some activities happening in Boston and Santa Clara. We've talked about that and those will be happening kind of here in the second quarter, lagging into the third quarter but, really, your New York activity which is going to drive the larger part of that will really come online closer to the fourth quarter.
+
+And you're still expecting that facility to come online, New Jersey in Q4?
+
+Yes, yes.
+
+Great, great. Thanks.
+
+Thank you. The next question is from Dan Kurnos of Benchmark Company. Your line is open.
+
+Yeah thanks and good evening. Just first, just a point of clarification. Is it fair to characterize the more modest sequential expansion occupied controlled space is due to the churn and consolidation issues that you mentioned in your prepared remarks?
+
+And then to follow-up on that, we did see some high churn at the other major player in the colo space, so I'm just curious about your thoughts, any changes to the industry dynamics going forward and how should we think that for the bulk of the year?
+
+So to be clear, the data center churn that we were referring to in the quarter was primarily in our partner data centers. So, I guess you tell me if that answered your question but yes we're talking about partner data centers here.
+
+Okay. So then maybe, maybe the better way to ask it is, was there any – within the occupied, was there any consolidation in that space? I mean we only saw modest sequential improvement and then I was just curious again to get your thoughts on churn in the space overall as we did see that at the other major player and how that might play out over the bulk of the year?
+
+So, if your question in reference to our company controlled occupied and the roughly a 1,000 net sellable square feet that we added in Q1, was a smaller add, than the net sellable or excuse me, the occupied square foot we added in fourth quarter. I really refer to my comments from a few minutes ago that related to the mix shift and the fact that as we sell an increasing proportion of hosting and cloud services, it would be reasonable to expect a slower rate of fill on that occupied company controlled square footage.
+
+With regard to the industry churn rates, the references we made or the churn that we experienced in the quarter in partner facilities was from a handful of customers, fairly large in relative terms churn events. And in all cases, well I guess they were two types. There was either a consolidation of data center footprint, not necessarily reflective of business downturn amongst those customers, in some cases, just rationalization of a sprawling data center footprint. But we did have a couple of customers that were experiencing business downturns, and therefore downsizing their data center footprint. So, a bit of a mixed bag.
+
+Got it, great, thanks. That's helpful. And then just maybe could you quantify a little bit the investment to support the new Cloudy Colo rollout and sort of maybe give us a sense of what else you have plans, what other areas you're trying to target in terms of product or initiative rollouts over the rest of the year?
+
+So, the investment for Cloudy Colo is in dollar terms relatively modest or phrased differently, the investments were largely investments building the data centers and acquiring Voxel and building out our Agile hosting platform. But relatively incremental investments to update our customer portal to enable those features and to deploy primarily some networking connectivity infrastructure in the data centers to enable the Layer 2, Layer 3 connectivity between colocation and the hosting and cloud infrastructure.
+
+So, I think good news there we can, with this platform, and relatively marginal incremental investments deploy some pretty compelling customer facing benefits and we expect to continue to do that. You'll see a number of new products and new features from Internap as we move into the second half of 2013. I don't really want to announce our product roadmap on this call, but again suffice it to say the large investments have been made. We have the platform of assets that we need. At this point, it's more about incremental software development and updates to our customer portal to enable those features and functionality.
+
+Great. Thanks for the color.
+
+Sure.
+
+Thank you. There are no further questions at this time. I'd like to turn the call back over to Michael Nelson for closing remarks.
+
+All right. Thank you very much everyone for your interest. And please feel free to follow-up with any additional questions. We'll speak to you next quarter. Thank you.
+
+Thank you, all. Thanks operator.
+
+You're welcome. Ladies and gentlemen this concludes today's program, you may now disconnect. Good day.

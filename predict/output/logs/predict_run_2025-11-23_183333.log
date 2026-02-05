@@ -1,0 +1,5 @@
+nohup: ignoring input
+Traceback (most recent call last):
+  File "/home/ubuntu/project/predict/risk_predictor.py", line 251, in <module>
+    def estimate_fijz(pool_df: pd.DataFrame, alpha: float = 1.0, min_sent: int = 5) -> pdDataFrame:
+NameError: name 'pdDataFrame' is not defined

@@ -1,0 +1,253 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+Jim Byers — Senior Vice President, MKR Group, Inc.
+Joe Bergera — President, Chief Executive Officer & Director, Iteris, Inc.
+Douglas L. Groves — Chief Financial Officer & Senior Vice President, Iteris, Inc.
+Jeff Van Sinderen — Analyst, B. Riley FBR, Inc.
+Michael Latimore — Analyst, Northland Securities, Inc.
+Michael Shlisky — Analyst, Colliers International
+Ryan Sigdahl — Analyst, Craig-Hallum Capital Group LLC
+Joseph Osha — Analyst, JMP Securities LLC
+
+Management Discussion Section
+
+Question And Answer Section
+
+Good day, and welcome to the Iteris Fiscal Fourth Quarter and Full Year 2020 Financial Results Conference Call. Today's conference is being recorded.
+
+At this time, I would like to turn the conference over to Jim Byers, MKR Investor Relations. Please go ahead, sir.
+
+Thank you, operator. Good afternoon, everyone, and thank you for participating in today's conference call to discuss Iteris's financial results for its 2020 fiscal fourth quarter and full year ended March 31, 2020. Joining us today are Iteris's President and CEO, Mr. Joe Bergera; and I'm the company's CFO, Mr. Doug Groves. Following their remarks, we'll open the call for your questions.
+
+Before we continue, we would like to remind all participants that during the course of this call, we may make forward-looking statements regarding future events or the future performance of the company, and such statements are based on current information, are subject to change, and are not guarantees of future performance. Iteris is not undertaking an obligation to provide updates to these forward-looking statements in the future. Actual results may differ substantially from what is discussed today, and no one should assume that at a later date the company's comments from today will still be valid.
+
+Iteris refers you to the documents that the company files from time to time with the SEC, specifically the company's most recent forms 10-K, 10-Q, and 8-K, which contain and identify important risk factors that could cause actual results to differ materially from those that are contained in any of the forward-looking statements. I would like to remind everyone that you will find a supplementary report of Q4 and full year financial metrics as well as a webcast replay of today's call on the investor section of the company's website at www.iteris.com.
+
+So, with that said, I'd like to turn the call over to Iteris's President and CEO, Joe Bergera.
+
+Great. Thank you, Jim, and good afternoon, everyone. I appreciate you joining us today. As you saw at the close of the market, we issued a press release announcing the financial results for our fiscal fourth quarter and full year ended March 31, 2020. Our fourth quarter of fiscal 2020 results reflect a significant financial inflection point for Iteris and also demonstrate the unique agility of our company.
+
+Recognizing the potential disruptions from COVID-19, we moved early and fast to remote operations, some of which was only feasible because of our software-enabled delivery model. This minimized any disruption to our fourth quarter operations and even enabled us to accelerate certain commercial activities. As a result, Iteris is reporting record fourth quarter total revenue of $30.9 million and record full year total revenue of $114.1 million, which represents an 18% and 15% year-over-year increase, respectively.
+
+We secured record fourth quarter total net bookings of $28.7 million, representing a 19% increase year-over-year and record full year total net bookings of $121.9 million, representing a 14% increase year-over-year. The strong bookings growth resulted in a total ending backlog on March 31 of $67.2 million, which represents a year-over-year increase of 21%. The company's record total revenue, total net bookings, and total ending backlog results reflect strong performance across all reporting segments. I'll take a few minutes to summarize the commercial and operational performance of each segment, after which Doug will discuss our fourth quarter financial results in more detail.
+
+Our Transportation Systems segment recognized record fourth quarter revenue of $16.3 million, representing a 26% year-over-year increase and recognized record full year revenue of $58 million, representing a 17% year-over-year increase. On a full year basis, the revenue performance reflects particularly strong growth in the segment software and managed services lines of business, as well as the benefit from Albeck Gerken, Incorporated, which was acquired on July 2, 2019.
+
+The Transportation Systems segment recorded fourth quarter net bookings of $13.6 million, representing an 11% increase from the same prior-year period and full year net bookings of $62.9 million, also representing an 11% increase from the same prior-year period. The segment's solid net bookings growth resulted in ending backlog on March 31 of $53.4 million. The segment's fourth quarter and full year net bookings performance reflects continued demand for all lines of business; consulting, software and managed services, as well as an increase in market penetration in Texas and Florida, two strategic geographies.
+
+Almost 50% of the segment's fourth quarter net bookings will be recognized as annual recurring revenue. Some notable fourth quarter bookings include: $4.4 million in combined task orders to provide traffic operations related managed services to four different agencies; $1.3 million in combined software-as-a-service contracts for ClearGuide, our mobility intelligence application with several customers including two international entities; a $900,000 task order with Los Angeles County to evaluate the addition of high occupancy toll express lanes across the I-405 Sepulveda Corridor; $800,000 in combined software contracts for commercial vehicle operations reporting and compliance; $650,000 in task orders released under a recent $3 million contract with the Texas Department of Transportation; and $500,000 in combined task orders to lead two public/private partnership funded connected vehicle pilots, one of which is being funded by Cisco Systems.
+
+Now let's discuss our Roadway Sensors segment. The Roadway Sensors segment reported fourth quarter revenue of $12.6 million, representing a 10% year-over-year increase and record full year revenue of $49.4 million, representing a 14% year-over-year increase. These results reflect particularly strong performance in four geographic territories: Texas, Southern California, the Southwest, and the Pacific Northwest. Additionally, we experienced positive customer response following three major product releases: first, the introduction of a standard VantageLive! API that now enables third-party applications to ingest vehicle count data from VantageLive!; second, the introduction of Iteris Video Viewer who streams real-time video and data to new mobile and Web applications from any intersection equipped with Iteris detection products; and third, the second generation of our radar detection product which is branded as VantageLive!.
+
+The Agriculture and Weather Analytics segment reported fourth quarter revenue of $2 million, representing a 15% year-over-year increase and full year revenue of $6.7 million, also representing a 15% year-over-year increase. The segment secured fourth quarter net bookings of $500,000 and full year net bookings of $7.2 million, which represents a year-over-year increase of 152% and 15%, respectively. The segment net bookings growth resulted in ending backlog on March 31 of $5.2 million. As a reminder, we completed the sale of our Agriculture and Weather Analytics segment to DTN, LLC on May 5, 2020.
+
+Now I'd like to turn the call over to Doug.
+
+Thank you, Joe, and good afternoon, everyone. As a reminder, please see the company's 10-K filing, press release, and supplemental financial metrics document posted on our website for a further description of the matters under discussion today during the call.
+
+Consistent with our third quarter results, we've seen the performance of the business in Q4 continuing to improve with favorable year-over-year trends in certain key metrics including top line growth, increasing backlog, and margin expansion. Now I'll move to the details of the fourth quarter results. As Joe mentioned, total revenue for the fiscal 2020 fourth quarter increased 18% to $30.9 million, compared to $26.1 million in the same quarter a year ago and was a new record for the company.
+
+Our gross margins in the fourth quarter were 45.4%, compared to 37.8% from the same quarter last year. The improvement in margins was driven by increased volume as we get more scale with our AGI acquisition, increasing demand in our software and managed service offerings and improved product mix across the portfolio.
+
+Operating expenses in the fourth quarter were $13.9 million, compared to $12.3 million in the same prior quarter and were down $200,000 sequentially over the third quarter of 2020. The increase over the prior-year quarter was primarily due to cash retention bonuses related to the AGI acquisition and retention costs for certain Agriculture and Weather Analytics segment employees which were both non-recurring in nature.
+
+As we mentioned last quarter, we are improving our profitability and expect this trend to continue. As Joe noted, we completed the sale of the Agriculture and Weather segment on May 5, 2020 which will significantly improve the profitability of the company going forward since that segment lost nearly $3.9 million in fiscal year 2020.
+
+We reported GAAP operating income in the fourth quarter of $100,000 compared with the GAAP operating loss of $2.5 million in the same quarter a year ago. The GAAP net income in the fourth quarter was $200,000 or $0.01 a share compared with the $2.4 million loss and $0.07 per share loss last year. Non-GAAP net income for the fourth quarter increased $3.1 million or $0.08 per diluted share to $1.8 million or $0.04 per diluted share. This compares to a $1.3 million loss or $0.04 a share loss on a non-GAAP basis a year ago.
+
+Now let me turn to our segment results. Our Transportation Systems revenue for the fourth quarter was $16.3 million, compared to $12.9 million in the prior-year quarter, an increase of 26%. Albeck Gerken contributed $2.5 million of this growth. And segment level operating income for the fourth quarter was $4.4 million, compared to $1.6 million from the prior-year quarter, and the related operating margins were 27%, compared to 12.6% last year. The margin expansion was primarily driven by increased volume as we get more scale in this segment with our AGI acquisition and increasing order demand within our software managed service offerings.
+
+Our Roadway Sensors revenue for the fourth quarter was $12.6 million, compared to $11.4 million in the prior-year quarter, or an increase of 10%. Segment level operating income was $1.7 million for the quarter compared to $1.5 million last year. And the related operating margins were 13.9% versus 13.6% last year driven by the increased volume.
+
+Our Agriculture and Weather Analytics revenue for the fourth quarter was $2.0 million, compared to $1.7 million in the prior-year quarter, an increase of 15%. Segment level operating loss in the fourth quarter was $865,000 versus a loss of $1.2 million last year. Corporate expenses in the fourth quarter were $4.7 million to $4.4 million in the prior year. The increase was driven primarily by an increase in compensation and benefit costs.
+
+Now, turning to liquidity and capital resources. Total cash and short-term investments were $25.8 million at the end of the fourth quarter and we spent $188,000 in capital expenditures and capital-light software cost in the quarter, which consistently run below 1% of revenue, reflecting our asset light business model. We continue to be focused on improving working capital, and with our expected improvement in profitability, our cash position should start to build going forward.
+
+In summary, we're pleased to report another solid quarter performance and continued progress in improving both the bottom and the top line.
+
+With that, I will turn the call back over to Joe.
+
+Great. Thanks, Doug. I'll now provide some commentary on our broader market strategy. Key product in commercial initiatives for both reporting segments and associated expectations for fiscal year 2021. We believe the convergence of ubiquitous connectivity, cloud computing, and various innovations in mobility is profoundly changing the operation and utilization of transportation infrastructure. For example, we anticipate public sector spending will continue to be reallocated from traditional pick-and-shovel projects to advanced technology initiatives, and at the same time new software-enabled service delivery models will change how transportation agencies at all levels of government fulfill their missions.
+
+These dynamics represent meaningful opportunities to increase our annual recurring revenue in general and our Software-as-a-Service revenue in particular. Iteris's ClearMobility Platform is a key element of our market strategy. It applies cloud computing, artificial intelligence, advanced sensors, advisory services, and managed services to enable cloud-based monitoring and operation of mobility infrastructure. Agencies may continue to purchase, integrate, and use discrete components of the ClearMobility Platform such as our ClearGuide and VantageLive! software products. However, we plan to also deliver these individual components increasingly in the form of new software-enabled managed services to address changing customer preferences.
+
+These new software-enabled managed services will expand upon Intersection as a Service offer we introduced last year. To maximize operating leverage from this managed services model, we plan to introduce the Iteris Cloud in fiscal 2021. Its unified cloud enablement services will support licensing, provisioning, identity management, workflow and other common services and processes for their ClearMobility Platform.
+
+Going forward, the road maps for each of our individual products will be aligned to the Iteris Cloud road map. This alignment should increase the efficiency of our development resources and accelerate the adoption of our ClearMobility Platform.
+
+Now let's discuss the key product in commercial initiatives for both reporting segments. In FY 2021, the Transportation Systems segment will focus on three key initiatives. First, our continued penetration of strategic geographies which principally include Texas and Florida. Second, the customer adoption of several major Software-as-a-Service releases. And third, the further development and commercialization of our growing managed services portfolio.
+
+While bookings growth may fluctuate in any given quarter, especially as we continue to pursue more multimillion-dollar contracts, the sales pipeline for our Transportation Systems segment continues grow and our conversion rate remains favorable. Therefore, we are cautiously optimistic about continued bookings growth through fiscal 2021 despite COVID-19 and the recent political unrest.
+
+Likewise, we've yet to experience any deterioration in revenue despite the broader economic uncertainty and we continue to anticipate the Transportation Systems segment's fiscal 2021 first quarter revenue to increase year-over-year by about 20%. We also expect the segment's fiscal 2021 first quarter gross margin and operating income dollars to increase year-over-year, while the segment operating income dollars to increase year-over-year. So the segment's operating income will decline sequentially due to product mix.
+
+Now let's discuss the Roadway Sensors segment. In FY 2021, the segment will focus on three key product and commercial initiatives: first, improvement in sales enablement and channel development; second, the alignment of our vantage sensors' value offer with our ClearMobility Platform which we expect to drive more cross-sell and upsell revenue; and third, an introduction of new product capabilities to create additional competitive differentiation and further increase customer adoption while also contributing to Iteris Cloud road map.
+
+I want to make a particular note of three upcoming product releases: first, a new detection platform that among other features will include high-definition video; second, the use of artificial intelligence by our edge detection devices for real-time deep level object classification; and third, the ability to provide real-time streaming of intersection data from our detection devices to support adaptive traffic control. Each of these upcoming product releases is expected to create significant customer value measured in economic, safety and sustainability terms, as well as contribute to our Iteris Cloud vision.
+
+Assuming no significant adverse events, the Roadway Sensors segment is expected to report a year-over-year increase in fiscal 2021 first quarter revenue. That said, the segment's first quarter growth rate will be lower than recent quarters. For example, in the low-single digit due to a very unusual prior-year comparable. As a reminder, we experienced a surge in sales in our fiscal 2021 first quarter due to the reinstatement of the Texas SmartBuy contract and the associated release of several months of accumulated orders. Still, based on the expected first quarter of fiscal 2021 volume increase and product mix, we anticipate both sequential and year-over-year improvements in the segment's gross margin and operating income dollars.
+
+In summary, we are aware of some softening in the transportation infrastructure construction segment due to COVID-19. But our primary exposure is to essential infrastructure operations that have been less affected, and our software-enabled delivery model has proved quite resilient to-date. Therefore, as we enter fiscal year 2021, the demand for our products and services remains strong.
+
+And given the current financial expectations for our reporting segments, we anticipate fiscal 2021 first quarter total revenue growth in the low-double digits as well as adjusted EBITDA and non-GAAP net income profitability. So we will incur various GAAP expenses associated with the sale of our Agriculture and Weather Analytics segment and some additional restructuring charges as previously communicated.
+
+For the balance of the year, we remain cautiously optimistic for the reasons noted in today's prepared remarks. However, the current environment certainly poses unusual degrees of uncertainty, and we believe it could actually be misleading to attempt to characterize expectations too far in the future. As a result, we do not plan to provide commentary more than one quarter ahead until the economic environment reestablishes some form of equilibrium.
+
+So with that, we'd be delighted to respond to your questions and comments. Operator?
+
+Thank you. [Operator Instructions] The first question will come from Jeff Van Sinderen with B. Riley. Please go ahead with your question.
+
+Hi, everyone. So, I know you touched on some of this in your prepared comments. But any more color you can give us on what you're experiencing with agencies in terms of new business procurement? Has that changed in recent weeks with the easing of COVID restrictions? Just any other color you can give us there.
+
+Yeah, Jeff. Thanks for the question. So, to be honest, we really didn't see any meaningful impact for the last couple months. And as a result, we haven't really seen any significant change as various geographic areas have kind of come out of the lockdown. And I think it's largely due to the fact that, again, what we're involved in is supporting the delivery of essential infrastructure which was never subject to any of the work-from-home restrictions. It's critical and the activities that we're supporting are provided 24x7x365. So again, we really didn't experience any significant slowdown in activity; and therefore, we haven't really seen any significant resumption either. It's been largely steady state.
+
+Now, that being said, there were a couple instances where there were kind of unusual, in some respects almost a little bit funny, had disruptions. A lot of these agencies, as a matter of practice, require wet signatures for new contracts. And in some cases, some of the executives were not in office, and therefore we weren't able to get wet signatures. And so, we've had to work with agencies to help them start to use DocuSign and other things like that. But those things have started to happen; and again, those kinds of things that – where we did some slowdowns were not significant in terms of contract value perspective.
+
+Now, all that being said, I want to be really clear that if we have a long sustained recession, Iteris is not immune, right? I think every sector is going to be impacted. We would certainly be impacted as well. But again, to-date, we have not seen any slowdown and we've not seen any change either really since some of the restrictions have been lifted.
+
+Okay. That's helpful. And then, I know you touched on new product introductions. Can you speak a little bit more about those, maybe what they include in terms of differentiating features and then maybe timing of revenues around that? Just wondering when revenues might start there. And are most of those incremental products, or are they more sort of new generation replacing current products?
+
+Yeah. Good question. So, in general, all of the – most of everything that I've talked to represents feature enhancements and platform modernization activities. The managed service offerings, however, that we're wrapping around these new capabilities, those represent whole new offers. So again from software and from a technology perspective, we're continuing to push the envelope. We've always set the performance and feature standard and the industry will continue to do that. And so that again is just continuing to move the bar. But with respect to the managed services offers, these are entirely new product concepts. There's really not anything comparable in the market to-date.
+
+On some degree we're creating new categories as we do that. And so just to set expectations, there is some degree of evangelization that's going to have to occur as we introduce particularly the new managed services concept. We would expect to see some tangible financial benefit but it's from the introduction of some of these managed services. But that will probably be limited to the form of bookings given that the evangelization work it needs to happen and then the length of typical contract cycles and then the time that it takes to convert bookings to revenue. I wouldn't expect no material impact on revenue from the introduction of any of these managed services in FY 2021.
+
+Okay. That's helpful. And then just one final one if I could squeeze it in. Just given the COVID and recessionary environment, how are you thinking about opportunistic acquisitions? Do you think that there may be some opportunities that come up that maybe wouldn't have come up otherwise?
+
+Well, so first of all, when the country began to shut down due to COVID-19, like most companies, we – not understanding what the new normal is going to look like. We would have been reticent to undertake an acquisition at that point. But now, fast forward a couple months, we feel like we understand our market and specifically the categories in which we compete. We know some of the acquisition targets are within those particular categories.
+
+And while I wouldn't say that we've reestablished a new norm, we do think we understand the risk environment again within the existing categories in which we currently operate. And so while I don't think that we'd want to go out and do an acquisition in an entirely new category where we don't feel like we understand the current dynamics, if we were able to find an acquisition candidate that participates in categories in which we already participate and we understand well, we would be open to that at this point in time.
+
+And we do believe that the current environment might lead to more possibilities for acquisitions than perhaps we would have seen six or 12 months ago. Now that being said, I don't see like valuation expectations declining dramatically at this point. I think most people that are considering the possibility of a sale are tending to take the position that this is somewhat of a transitory situation and therefore they're still expecting, I think, reasonably strong valuations.
+
+So we'll have to see how things play out over the next couple of months. But to answer your question, yes, we are now open. [indiscernible] (00:29:41) we understand – particularly in the categories in which we participate, we understand the risks and we'd certainly be open to an acquisition where we can find the right target.
+
+Okay. Fair enough. Thanks for taking my questions and best of luck.
+
+Thank you.
+
+Thank you.
+
+Thank you. The next question will come from Mike Latimore with Northland Capital Markets. Please go ahead with your question.
+
+Yes. Thanks. Congratulations on a great year there. The service gross margin was up a fair amount sequentially I guess. But what drove that and is that sustainable?
+
+Doug, do you want to answer that?
+
+Sure. Sure. So, Mike, that is where we report our software revenue is in the service gross margin. So as alluded to in the prepared remarks, we're seeing a nice increase in our SaaS offerings and so that is helping drive an increase in the margins.
+
+Great. And then when you sold your AWA division and you're doing this additional cost reduction, I guess what can you get to in terms of the base operating expense level then given those two dynamics?
+
+Sure. So with the restructuring that we've previously announced, we signaled that there's probably cost savings across the enterprise of a little over $1 million a year. And so that's what we're working towards and it's kind of spread across the company. It's not in any one given segment or strictly isolated to the corporate line. So we would expect through the elimination of that head count we would see about a little over $1 million in annual cost savings coupled on top of obviously the divestiture of the ag and weather business which as I said was about a $4 million – not quite $4 million drag on earnings in fiscal year 2020.
+
+Got it. And then just on a couple of these new products, the real-time streaming, is that something that is going to be sold mainly into sort of new installations or are there some easy upgrades out there as well?
+
+Yeah. So that feature is – so it is only going to be available with the most current release and then the new platform that I referred to going forward. So you're correct, Mike, that there won't be – there'll be some intersections running, some of our older products from which we would not be able to support the streaming capability. I don't know what the adoption rate is of the versions of our products that would support the streaming capability offhand but I could get back to you with that information if you'd like.
+
+Great. And then just last one on the managed service, I know that's more bookings this year. But what would be the maybe most attractive use case do you think you would have there and then what kind of gross margins are you thinking about on the managed service?
+
+Yeah. So I'll talk to the first part and then let Doug talk to the gross margins. So where we're seeing the most interest right now with respect to the new managed services concept is working particularly with small and medium-sized cities to take over certain aspects of arterial road management. And particularly it is monitoring and optimizing not just our own detection equipment but any detection equipment that's deployed at intersections in particular. And so we view that as part of a larger arterial management managed service.
+
+Okay.
+
+And on the gross margins, Mike, it really varies by contract depending upon how much of our software is bundled in and the types of managed service that we're providing. So, generally speaking it's going to be at least at or above what those current service margins run at. So, it depends on the size of the contract and different services that we're going to provide and how much is software versus other professional services.
+
+Got it. Great. Thanks a lot.
+
+Thank you. The next question will come from Mike Shlisky with Colliers Securities. Please go ahead.
+
+Good afternoon, guys. In your comments, Joe, you noted two international entities has some pretty big orders. And I'm curious, is that a big opportunity going forward going to other countries? And has your pipeline of opportunities that you're looking at actively grown outside of the US?
+
+Yeah. Mike, that's a good question. So I mentioned that because we're really excited of how – these were inbound opportunities. We don't have a channel per se to market our software products internationally. We do have some international distributors who sell our Roadway Sensors products, our hardware products but not our software. One of the opportunities was actually with a commercial entity or from a commercial entity that operates in Greece.
+
+And the second one was an expansion on some – worked with previously sold in Canada. So, yeah, we were really excited to see the inbound interest in the software products. We would like to believe that there is an international opportunity. But at this point, we have not yet made the investment in developing a true international distribution channel for our software products. We will, however, as it makes sense, continue to respond to inbound demand. And I would hope we would continue to see that based on the market response that we've had particularly to our ClearGuide product, which is fully internationalized.
+
+Got it. I wanted to turn to your gross margins in the quarter and your gross margin outlook. Can you maybe give us a little more detail? You had mentioned some of the gross margin upside was due to scale and some was due to mix. Can you maybe kind of – just kind of break out for us which was the most prevalent piece of the upside? I'm kind of curious, we have strong growth in fiscal 2021. If most of this just based on scale, there could be some pretty handsome upside here. And just can you give us any kind of a breakdown between just your fixed gross margin and your contract mix?
+
+Sure. So I'll take that, Joe. So if you looked at just in contrast to, say, our Q3 results, as a comp, the revenue was up pretty significantly and we saw a good portion of that really fall through to the bottom line because a lot of our costs are fixed, particularly in our software business.
+
+So, depending upon the mix in any given quarter how much is software versus, say, professional services, consulting business which is a little bit more variable, that will drive what the gross margin is going to be. So, we did have a nice quarter with the volume and we did have actually a really good mix in the quarter, so it will vary quarter-to-quarter. But I think our expectation, as we've been signaling is, that margins will continue to expand as the volume increases.
+
+Okay. Fair enough. And perhaps one more for me. There's been in headlines very recently, some states have already started to act to defund or change their police department operations. I'm curious, does Iteris have any role to play in future business to help cities with traffic enforcement after reporting the things like that to help them at least save costs in their traffic business, so they can maybe deploy what could be a scarce budget elsewhere?
+
+Yeah, that's an interesting question. So, there is a difference in our market between products and services that are designed to operate and manage that transportation infrastructure versus products that are designed really for enforcement. So like red light camera running, for example, some – like certain zones where there'll be variable speed limits and dynamic pricing, those kinds of solutions will have enforcement component to them.
+
+We actually do get – we have been getting involved in the design of those sections of highways and certain arterial corridors. But currently, we do not have any software or hardware products that are part of an enforcement application. And so, therefore, I don't – to answer your specific question, I don't think we have an offer today that would address that particular potential demand. That's not to say that we couldn't get into that market, but we don't currently compete in that category.
+
+All right. Fair enough. I'll pass it along. Thanks very much, guys.
+
+Thank you.
+
+Thank you.
+
+Thank you. The next question will come from Ryan Sigdahl with Craig-Hallum Capital Group. Please go ahead, sir.
+
+Good afternoon, guys. Thanks for taking our questions. Just on Transportation Systems, so the outlook you gave for fiscal Q1 on a year-over-year basis, my back of the envelope math implies that's down something like 10% sequentially quarter-over-quarter. I guess, is that correct? And then can you help elaborate, I guess, when there isn't a lot of seasonality there what's going on?
+
+Doug, do you want to speak to that?
+
+Sure. Yeah. It generally has to do with – yes, seasonality and just the timing of the recognition of revenue on certain of the contracts. I mean, as we said, it will be down sequentially, but up almost 20% year-over-year. So, I think that we're still expecting strong performance in Q1 from Transportation Systems.
+
+And Ryan, when you...
+
+And then...
+
+...comparing those numbers, are you comparing just the two transportation businesses to one another, or are you comparing the entire enterprise results including AWA to the Q1 results; you obviously exclude that.
+
+I was just looking at the Transportation Systems segment.
+
+Okay. Yeah. So, I think your question was – I'm not sure if Doug totally understood. You were saying that typically the seasonality goes the other way for us. And that has historically been true, however we did see some unusual seasonality in the second half of our fiscal 2020. As you might recall, our third quarter was actually unusually strong and there was sort of a typical seasonality. And again we saw particularly robust results in the fourth quarter. So we're not 100% sure what happened there, but again to Doug's point, on a year-over-year basis, we are still expecting very, very strong growth in the first quarter of fiscal 2021.
+
+Got it. And then maybe as a follow-up, if you can break out what Albeck Gerken is included in that assumption because presumably that's a lot of that growth.
+
+Actually Albeck Gerken doesn't – we're not going to be able to break that out going forward. When we acquired Albeck Gerken, we talked about the fact that their primary operations were in Florida. And you might remember that we had made some investments to develop that market ourselves. And so we already had some resources in the Florida market. And Iteris Transportation Systems even pre-Albeck Gerken had some Florida-based revenue.
+
+But in addition to Albeck Gerken's presence in Florida, they also had some activities in the mid-Atlantic and also the Midwest. And so the reason I'm pointing this out is we've now reorganized our Transportation Systems region and created a southeast region which combines what was formerly Albeck Gerken, as well as our Iteris's southeastern operations prior to the acquisition.
+
+And then Albeck Gerken resources that were in the mid-Atlantic and the Midwest have now been absorbed into those respective Transportation Systems regions. So it's really not possible for us any longer to break out Albeck Gerken revenue. But I would say that we've previously estimated that Albeck Gerken revenue like in a typical quarter would be on the order of about $2 million. So you could kind of think about it that way. But again we fully integrated the operations, and we can't really – I don't think it makes sense to think about breaking it out any longer.
+
+Got it. That's it for me, guys. Good luck. Thanks.
+
+Thanks.
+
+Thank you.
+
+Thank you for the question. The next question will come from Joseph Osha with JMP Securities. Please go ahead with your question.
+
+Hi there, guys. A couple of questions. First, back to this managed service question. You spoke earlier in the call about your transportation services bookings being – I believe, Joe, you said half were recurring. I don't recall if that's correct but I'm just wondering...
+
+Yeah. That's right, about half of the Transportation Systems bookings in Q4 were annual recurring revenue.
+
+Okay. So let's imagine that it's the end of fiscal 2021. What percentage of that division's revenues do you imagine might be comprised by recurring revenues at that point?
+
+Yeah. Yeah. So, Joe, we don't have a good view of that right now. I was obviously over the moon with that bookings mix, those fantastic results. I wish I could say that that was planned and that we had a good view of what the split is going to be going forward. Unfortunately, we don't. I would expect there will be some probably large degree of variability from quarter to quarter. But the reason I wanted to highlight it is because I think it demonstrates the potential of shifting the mix of revenue for not only transportation systems but for the entire enterprise.
+
+And I would say, which we've previously talked to, today on a total enterprise basis, this is excluding AWA which is now obviously been sold, about 21% of our total revenue is annual recurring. And we do have an internal objective to try to increase the mix of annual recurring revenue to 30% of the total enterprise revenue over three years.
+
+Okay. And I assume it would be fair to assume that more of that recurring revenue is in transportation services than sensors, yes?
+
+Yeah. Yes, on an absolute basis that's absolutely correct. We do believe that there are opportunities to increase the annual recurring revenue, and our sensors business will continue to work on that, but that's obviously on a much lower base. And so you're correct, on an absolute basis, most of the annual recurring revenue will be in our systems segment.
+
+Okay. Thanks. Next question, you mentioned that you had a trial connected vehicle project, I believe two of them. How long till we might see some of that turn to actual production revenue? That's an interesting area.
+
+Yeah. We think so as well. So one of them is in Minnesota and the other one is in Las Vegas. The one in Minnesota is fixed – is multi-phase pilot and we're currently in the first phase. The second pilot or the second phase of the pilot assumes the release of a mobile application. And so we have better visibility to what the follow-on revenue could look like on that particular project than we do on the Las Vegas project which at this point is a little bit more speculative.
+
+But to your point, Joe, the million dollar question is what – how do you monetize these connected vehicle models that are being experimented with across the country? And the answer right now is it's still unclear. But we do believe that there will be opportunities to monetize it. And of the two, the one in Minnesota has the shortest path or the clearest path to some kind of recurring revenue model and it will be in the form of mobile application.
+
+Okay. Thank you. And then the final question, there's been lots of talk about our revenue growth and gross margin today. There is, I think, some room further down the P&L as well. So understanding you're not guiding revenue for the full year, let's imagine that revenue growth is x. Is operating cost growth going to be flat? Is it going to be x minus 2%? How do you think about your operating model for FY 2021?
+
+Now, Doug, do you want to talk about that?
+
+Yes. So, Joe, as we look at the infrastructure of the company, we have our two reporting segments now moving forward and then our corporate costs. I would expect the corporate costs to remain flat as we go through this year because we've already made significant investments in the past. So there shouldn't be much of an increase at all in those corporate costs. And then as we see the revenue growth in the two reporting segments, we should see some margin expansion there. So a combination of those two things when you roll it up should be expanding operating margins at the company-wide level moving through fiscal year 2021.
+
+Okay. And so to be clear, that's – let me – flat at dollar terms, right, so that would represent a pretty significant reversal from this trend where your overhead has been a growing percentage of revenue for the last several years. You're saying you can hold that number flat in dollar terms while your revenue grows?
+
+That's right. That's the plan.
+
+Okay. Thank you very much.
+
+Thank you. I show no further questions at this time. I'll turn it back to Joe Bergera for closing remarks.
+
+All right. Great. Thank you. We appreciate everybody's support and all the good questions today. We are, as always, look forward to updating you on our continued progress. At this point, we would expect to announce our first quarter FY 2021 results in August and so we hope that we'll be speaking to you at that time. At this point, we'll conclude today's call, and thanks again. We appreciate everyone participating.
+
+Thank you. Ladies and gentlemen, this concludes today's event. You may now disconnect your lines.

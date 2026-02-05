@@ -1,0 +1,11 @@
+{
+  "a_mij_company_count": 192,
+  "sentences_company_count_total": 192,
+  "sentences_company_count_by_z": {
+    "1": 81,
+    "2": 95,
+    "3": 16
+  },
+  "companies_intersection": 192,
+  "companies_union": 192
+}

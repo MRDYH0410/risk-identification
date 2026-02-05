@@ -1,0 +1,87 @@
+Participants
+CORPORATE PARTICIPANTS
+Leslie Phillips — Director, The Blueshirt Group
+Jerry D. Chase — Director, President & Chief Executive Officer, BSQUARE Corp.
+Peter J. Biere — Chief Financial Officer, BSQUARE Corp.
+
+Management Discussion Section
+
+Question And Answer Section
+
+Thank you and good afternoon, everyone. Before we begin, we'd like to remind you that this call is being webcast and that a recording of the call and a text of our prepared remarks will be available on Bsquare's website.
+
+During this call, we will be making forward-looking statements. These statements are based on current expectations and assumptions that are subject to risks and uncertainties that could cause actual results to differ materially. Please refer to the cautionary text regarding forward-looking statements contained in Bsquare's earnings release issued today and in the posted version of these prepared remarks, both of which will apply to the content of this call. All per share amounts discussed today are fully diluted numbers where applicable.
+
+Now, I'd like to turn the call over to Jerry Chase, Bsquare President and CEO. Jerry?
+
+Thank you, Leslie and good afternoon everyone. We continue to be pleased with the performance of DataV, our industrial Internet of Things software offering. Our market positioning, product offering, go-to-market strategy and key partnerships, all point toward increased momentum. In addition to pilots, conversions and renewals, which I will cover shortly, we believe the market for offering such as ours, specifically industrial IoT and applied data analytics is reaching the point of maturity where customers more readily understand the range of possibilities and are eager to move forward more quickly.
+
+We believe we are well-positioned with a product offering that is performing well and highly differentiated to take advantage of this growing market, and we are investing accordingly. From the standpoint of customer traction, we closed four new paid pilots in Q2 and seven additional paid pilots in Q3. We will be working closely with customers to complete those pilots in timely manner.
+
+The newest customers are in the oil and gas, transportation and manufacturing industry, where we believe DataV can yield positive business outcomes. In late 2016, we decided to offer DataV to customers via applications. Customers who make or operate capital-intensive, mission critical equipment easily understand the need for our business applications. This positive move has helped expand the number of customers in our pipeline, as well as the speed through which they're moving. As I've reported in the past, virtually all customer engagements begin with paid pilots that are expected to last several months, although, timing can vary.
+
+A key to success for Bsquare and DataV is to get customers in than out of, strictly defined, narrowly scoped, cleanly delivered pilots as efficiently as possible. These pilots are important not only to show the value of DataV, but also to allow customers to undertake work required on their end, such as data collection and cleansing. We expect that after successful completion of these pilots, the majority of customers will move into production deployment, although timing will depend on each customer's specific goals and budget.
+
+All of our pilots are delivered as cloud-based software-as-a-service, or SaaS, implementations and we expect that the majority of our customer deployments in the future will be SaaS deliveries. This provides a more scalable delivery mechanism, facilitates rapid pilot conversion and we believe, will result in a recurring revenue stream that will provide greater revenue predictability going forward.
+
+I'm pleased to report that one of the earlier pilots commenced during the second quarter has now completed and we expect will move into production in the near future. This customer is a multi-billion dollar global manufacturer that is using DataV Manage to control and monitor remote, difficult to access machinery. The initial SaaS contract involves a single DataV application and a subset of addressable devices. We believe that as DataV continues to prove valuable to the customer, there will be ample opportunity to expand the number of devices and potentially the number of apps.
+
+Also, after the close of the third quarter, we booked our first major contract renewal, Itron, a global developer of smart energy distribution and smart city systems, renewed its DataV subscription for an additional four years. In this case, DataV enables Itron's customers to download apps to individual meter, thereby continuously adding functionality that can drive down costs, improve grid reliability, and add new services. We view this $2.9 million renewal as a strong endorsement of DataV and anticipate customer acceptance and full deployment in early 2018.
+
+DataV continues to perform well at our customer, Paccar, and we continue to explore with them new opportunities for DataV to add business value throughout the company. Further, in the fourth quarter of 2016, we announced a win in the smart vending space with a global provider of candy, food and beverages. This customer has continued to expand into multiple markets across Europe.
+
+Given our strong and growing pipeline and the progress our customers are making through the pilot stage, we are continuing targeted investments in sales, marketing, customer solutions, and research and development. We have been able to successfully attract sales talent from Fortune 50 companies within our market, giving us better competitive visibility while enhancing the strength of our team.
+
+Now let me turn to our traditional revenue drivers.
+
+With regard to our embedded software resale business and in line with our expectations, our Microsoft Windows Embedded business was slightly higher sequentially and is showing signs of stabilization. As we have discussed, this is due to end of 2016 changes in Microsoft's distribution agreements. Gross margins on this business have remained steady.
+
+Our customer solutions organization consists of two parts. Our traditional professional engineering services business remains profitable at lower revenue levels and continues to generate cash. Our DataV services business has leveraged our traditional strength to offer DataV pilot and integration capabilities, as well as DevOps. We view our customer services organization as a competitive differentiator.
+
+Now, I'd like to turn the call over to our CFO, Peter Biere, to address our financial performance in the third quarter.
+
+Thank you, Jerry. First, let's review revenues for the third quarter. Our revenue during the third quarter totaled $19.7 million, in the upper end of the $18.5 million to $20 million that we announced during our last earnings call. Compared to the prior-year quarter, revenue was down 13% from $22.5 million, but up 4% from $18.8 million in this year's Q2. I'll break down the changes by revenue grouping for the quarter. Third-party software revenue totaled $16.2 million, slightly above our expectations. Year-over-year, third-party revenue declined 11%.
+
+Over the past several quarters, we've discussed the expected decline in Microsoft resales. During our last call, I mentioned that we believed our account activity had found its level and our Q3 results bear that out. This doesn't mean we won't experience some continued variability, but we believe we've seen the bulk of any competitive fallout. In fact, we're succeeding to win back some business that was lost earlier in the year and we continue to push for new opportunities.
+
+Professional engineering service revenue totaled $2.2 million this quarter, 32% below the third quarter of 2016 and 23% lower than the sequential quarter. In Q3, a number of traditional service contracts reached their final delivery point, which explains both the year-over-year and sequential declines. A year ago, we began to focus our selling efforts on DataV so that when traditional contracts wind up, we align staff to the going forward requirements.
+
+In Q3, we recognized $1.2 million in proprietary software revenue, 21% above the third quarter of 2016. The majority of this revenue is related to a seasonal purchase of non-DataV legacy software.
+
+As many of you know, we early adopted new revenue recognition accounting rules, or Topic 606, effective January 1, 2017, one year before the mandatory adoption deadline. The new rules clarify methodologies for measuring various contract performance obligations and then determining the periods in which to recognize revenue. The switch to the new rules have little impact on our legacy software and services business, but materially affected our DataV contracts which contain differing license types and multiple performance obligations. During the third quarter, with the majority of our DataV pilots still in progress, we recorded $236,000 in DataV revenue under the new Topic 606 rules.
+
+Next, I'll turn to our gross profit and margins. Gross profit totaled $4.4 million in the third quarter or 22% of revenue, above our expected range of 19% to 21%. Total gross margin was boosted by third-party software and proprietary software margins.
+
+Gross profit was $3.7 million in a year ago quarter and was lower primarily due to an $800,000 severance charge taken to restructure our services business. Gross profit from our third-party software business was lower in the current quarter with the decline of revenues.
+
+While our third-party revenue has declined from prior year, many of the customers we lost were relatively lower-margin accounts. So, our blended rates for continuing customers are higher than historical margins. Gross profit and margins will continue to vary for some time as our mix of higher margin DataV revenue becomes a larger part of overall revenues.
+
+Next, I'll speak to operating expenses and our bottom line results. Total operating expenses were $6.9 million this quarter, up from $4.1 million in quarter three of 2016 and $6.5 million in quarter two of 2017. In line with our expectation, the sequential increase reflects our steady investment in product development, sales, marketing and customer support teams, critical for the success and scaling of DataV.
+
+We recorded a net loss of approximately $2.5 million, or $0.20 per share, for the third quarter of 2017 compared to a net loss of $106,000, or $0.01 per share, in the year ago quarter. The sequential quarter showed a net loss of $2.6 million, or $0.20 per share.
+
+Cash investments totaled $26.8 million as of September 30, 2017 including profits from both of our legacy businesses. We've invested a net amount of about $540,000 in Q3 and $6.4 million in the first three quarters of 2017 to grow our DataV businesses.
+
+Cash used over the first three quarters of 2017 is varied quarter by quarter due to DataV project timing. Our high quality accounts receivable balance totaled $16.6 million at September 30, 2017, about $9.1 million of which is from Honeywell. Net payments due to Microsoft or net of payments due to Microsoft, about $7.7 million of this Honeywell receivable will convert to cash.
+
+I'll next discuss several non-GAAP metrics that we'll continue to provide on a regular basis to help investors better understand our cash flows and DataV business. We use adjusted EBITDAS to find this operating income before depreciation, amortization, and stock-based compensation as a non-GAAP measure to monitor our ability to generate cash from the operations of our business.
+
+We use bookings, backlog, and unbilled deferred revenue as a non-GAAP measure that we believe provide meaningful information related to our new DataV product sales, since revenue will often be recognized in different periods than those in which orders have been received or cash has been collected. Our adjusted EBITDAS was a negative $1.8 million this quarter, compared to approximately breakeven in the year-ago quarter, primarily due to lower engineering services revenue and higher DataV expenses compared to last year.
+
+Several measures we are using to describe DataV include bookings, which is a non-GAAP measure, defined as the contract value of new agreements signed with customers. We recorded $318,000 in DataV bookings during the third quarter of 2017. We collected approximately $2.1 million in cash from DataV contracts in the first nine months of 2017.
+
+Backlog is a non-GAAP measure defined as total DataV bookings less DataV revenue recognized to-date and was approximately $3.5 million at September 30, 2017 compared to $5.7 million at the prior year-end. Of this September 30 balance, $1.5 million is unbilled deferred revenue and $2 million is reflected on our balance sheet as deferred revenue.
+
+I'll now turn the back to Jerry to provide an outlook for the fourth quarter and his closing remarks.
+
+Thank you, Peter. As noted in today's press release, we currently have the following expectations for Q4 2017. Revenue will be in the range of $19 million to $21 million. Blended gross margin is expected to in the range of 18% to 20%. We expect to close additional paid pilots in the quarter. As I mentioned earlier, Itron renewed its license agreement for an additional four years and $2.9 million which we will book in Q4. We currently expect the associated license revenue to be recognized in Q1 of 2018.
+
+Commensurate with the success we are having in the market with DataV, we will be increasing our level of investment in Q4. Though we will incur losses for the near term, we expect cash flow from DataV, our traditional businesses and cash on hand will be sufficient to fund these investments.
+
+Katherine, please open the call for questions.
+
+Thank you. [Operator Instructions] Mr. Chase, it appears that we have no questions in the queue. I'd like to turn the floor back over to you.
+
+Thank you. Before concluding the call, on behalf of the entire Bsquare team, I'd like to thank our investors and our customers for your interest and for your business. We look forward to reporting back to you next quarter. Thank you for joining us.
+
+Thank you. Ladies and gentlemen, once again that does conclude today's conference call. Thank you all again for your participation, you may now disconnect.

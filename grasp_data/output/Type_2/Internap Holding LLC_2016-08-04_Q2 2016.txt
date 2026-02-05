@@ -1,0 +1,164 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+Michael A. Ruffolo — President, Chief Executive Officer & Director, Internap Corp.
+Kevin M. Dotts — Chief Financial Officer, Internap Corp.
+Dan L. Kurnos — Analyst, The Benchmark Co. LLC
+Jason Kreyer — Analyst, Craig-Hallum Capital Group LLC
+Frank Garreth Louthan — Analyst, Raymond James & Associates, Inc.
+
+Management Discussion Section
+
+Question And Answer Section
+
+Good day, ladies and gentlemen and welcome to the Internap Second Quarter 2016 Earnings Conference Call. At this time, all participants are in a listen-only mode. [Operator Instructions] As a reminder, this call is being recorded. I would now like to turn the call over to [ph] Mary Ann Arico (00:28), Head of Investor Relations. You may begin.
+
+Thank you, Michelle. Good afternoon and thank you for joining us today. With me on the call is Mike Ruffolo, our Chief Executive Officer and Kevin Dotts, our Chief Financial Officer. Following prepared remarks, we will open up the call for your questions.
+
+The slides we'll reference in the call are available on our website in the Presentations section on the Investor Relations page. Non-GAAP reconciliation and our supplemental datasheet, which includes additional operational and financial metrics, are available under the Financial Information, Quarterly Results section of our Investor Relations page.
+
+Today's call contains forward-looking statements including expectations for levered free cash flow, monthly reoccurring revenue metrics, churn and margins, belief in our business strategy, including the business unit realignment and its expected results and improved marketing program efficiencies, expectations for revenue, adjusted EBITDA and capital expenditures in the second half of 2016 and full year, including expectations by product lines, belief in our ability to return profitable growth and will drive long-term shareholder value. These statements are not guarantees of future performance. Because these statements are based on certain assumptions and involve risks and uncertainties that are important factors that could cause our actual results to differ materially from those in the forward-looking statements. We discuss these factors in our filings with the SEC. We undertake no obligation to amend, update or clarify these statements. In addition to reviewing the second quarter, we will also discuss recent developments.
+
+Now let me turn the call over to Mike Ruffolo.
+
+Thank you, [ph] Mary Ann (2:21) and good afternoon, everyone. In today's call, I'll start the discussion with a summary of our financial results for Q2. I'll then ask Kevin Dotts, our Chief Financial Officer, to take you through our financial and operational results in more detail. From there, I'll come back and provide an update on the global expansion of our AgileSERVER 2.0 bare-metal cloud offering and I will also update you on the strategic review process. We'll then conclude our prepared remarks, then take your questions.
+
+So, let's go ahead and get started with the financial results. We're very pleased with the improvement in adjusted EBITDA margin, driven by improved operational efficiencies that resulted from the organizational changes we made in the first quarter. As we've previously communicated, churn from a few large customers impacted our revenue performance in the second quarter of 2016. At the same time, we did see revenue begin to stabilize in the second quarter as the major churn events declined and bookings improved. Given our first half 2016 results, we are updating our full year 2016 guidance.
+
+To help all of you in terms of illustrating the change in guidance, we've included a revenue and adjusted EBITDA bridge from the first half of 2016 to the second half of 2016 that will be later in the presentation. As a reminder, in the first quarter of 2016, we began reporting segment results in two integrated business units. The first is called Data Center and Network Services, or DCNS, and the second is called Cloud and Hosting Services. The change in our organizational structure is designed to facilitate more effective and efficient business operations and improve customer and product focus. As mentioned earlier, we are pleased that these changes helped to improve our adjusted EBITDA margin. In terms of the financial summary on slide three, consolidated revenue declined by 8% year-over-year and 2% sequentially.
+
+Normalizing for churn from a few customers who are acquired by large social media companies, year-over-year revenue declined 4% and sequentially declined by 1%. Adjusted EBITDA of $20.2 million was 6% higher for the quarter, resulting in an adjusted EBITDA margin of 27.1%, which is 330 basis points higher than 2Q 2015 and the second-highest adjusted EBITDA margin in the company's history.
+
+Levered free cash flow of negative $2.1 million for the quarter and negative $0.8 million year-to-date were both affected by the timing of capital expenditures at our Secaucus, New Jersey data center. As a result, we want to reaffirm our expectations that levered free cash flow will return to positive in the second half of 2016 and for the full year.
+
+Turning to our operational metrics on slide four. In conjunction with our new reporting segments, we enhanced our disclosures in the first quarter of 2016 to provide additional key operating metrics. We are now providing the following metrics: monthly recurring revenue, or MRR, and profitability per square foot, MRR per kilowatt and, finally, the number of servers.
+
+Starting with MRR per square foot, you will see that for our company-controlled colocation, MRR per square foot has been relatively flat between $68 to $72 despite the churn we experienced. For partner colocation, MRR per square foot has declined slightly quarter-over-quarter, but increased 3% sequentially. For Cloud and Hosting, we saw a decline in MRR per square foot, driven by the churn of a few large customers as we discussed previously. Company-controlled MRR per kilowatt declined again as a result of that same churn.
+
+You will also see that in terms of profitability, in the second quarter of 2016, our Cloud and Hosting segment generated segment profit and segment profit margin per square foot of $178 and 71.8%, respectively, compared to $65 and 51.1%, respectively, for our DCNS segment. This reinforces our belief that Cloud and Hosting provides higher profitability per square foot due to the higher density of the services and the greater return on investment. It is this higher density that [ph] shouldn't (7:23) lead to increased MRR per kilowatt, which is currently $983.
+
+Finally, we are also beginning to provide a server count, which was 27,456 at quarter end, which was an increase of 786 servers versus Q1 of 2016. We recognize that there are some differences in comparing our metrics to peer companies due to our product mix, but with our additional disclosures, our hope is that investors can better track Internap's performance and progress within our various segments. We commit to continuing to improve the visibility into our business and welcome your input on how to best do so.
+
+Now, I'd like to pass the call over to Kevin Dotts, our Chief Financial Officer, to provide some more color and detailed review of our financial results.
+
+Thanks, Mike. Before I go over the numbers, I would like to provide you with a summary of the quarter. While we did not see revenue grow sequentially, we did see revenue begin to stabilize as the major churn events declined and bookings improved. Those items combined with good cost control during the quarter resulted in the company achieving the second highest adjusted EBITDA margin in the company's history. And while we are modestly negative on levered free cash flow year-to-date at $800,000, we do expect levered free cash flow to be positive in the second half and for the year.
+
+Moving to slide five, revenue. DCNS revenues totaled $50.5 million in the second quarter of 2016, a decrease of 6% year-over-year and 1% sequentially. Both decreases were attributable to lower IP connectivity revenue related to the decline in pricing for new and renewing customers, the loss of legacy contracts and a decrease in partner co-location revenue partially offset by an increase in company-controlled colocation revenue. As of fourth quarter 2015, churn from a customer acquired by a large social media company accounted for approximately 30% of the year-over-year decline in revenue.
+
+Our Cloud and Hosting segment revenue totaled $23.9 million, a decrease of 11% year-over-year and 5% sequentially. Churn associated with the acquisition by two large social media companies accounted for the majority of the year-over-year Cloud and Hosting revenue decline. Normalizing for that event, Cloud and Hosting segment revenue would have been down 3% year-over-year and 2% sequentially. We do not see these churn events we signaled last quarter as a fundamental change to our business, but rather a confluence of customer events which created an anticipated headwind to revenue. We expect churn to continue to decline the remainder of 2016.
+
+Turning to slide six, DCNS segment profitability. We recorded DCNS segment profitability of $25.8 million, a decrease of 6% year-over-year and 3% sequentially. While revenue declined by $3.1 million year-over-year for the DCNS segment, profitability was only down $1.6 million due to lower direct cost of sales and services. The lower costs were driven by our focus on driving efficient business operations.
+
+Sequentially, DCNS segment profitability was predominantly affected by the secular decline in the IP service business and higher power costs in the second quarter of 2016, partially offset by the renegotiation at a partner colo vendor contract. Long term, we see opportunities to continuing to further expand DCNS segment margin based on the mix shift towards higher margin services. In addition to the mix shift benefits, we also see the opportunity to expand margins with increased utilization in our data center footprint.
+
+Turning to slide seven, Cloud/Hosting services profitability, we reported Cloud/Hosting segment profit of $17.1 million, a decrease of 15% year-over-year and 7% sequentially. The lower Cloud/Hosting segment profit is directly related to the lower revenue. As I stated earlier, the lower revenue is a result of a few customers that have been acquired by large social media companies and moved their infrastructure in-house. We do not see this churn as fundamental change to our business but rather as a confluence of customer events which created an anticipated headwind to revenue. Our Cloud and Hosting Services continue to generate healthy margins that are accretive to our overall margin profile. As we saw more hosting and cloud services they take up smaller physical footprint but generate significantly higher revenue per square foot and increased returns on invested capital.
+
+On slide eight, adjusted EBITDA, you can see we delivered strong adjusted EBITDA and adjusted EBITDA margin results. Second quarter adjusted EBITDA was $20.2 million an increase of 6% year-over-year and a decrease of 2% sequentially. The resulting adjusted EBITDA margin of 27.1% was 330 basis points higher year-over-year and is the second highest adjusted EBITDA margin in the company's history. The year-over-year increase in adjusted EBITDA and adjusted EBITDA margin was attributable to lower cash operating expense, driven by [ph] the optimizing (12:59) the company's cost structure, consistent with our previously announced reorganization.
+
+On slide nine, levered free cash flow, levered free cash flow of negative $2.1 million for the quarter and negative $0.8 million year-to-date were impacted by the timing of capital expenditures which were first half loaded. Capital expenditures in the first half of the year were $27.1 million and primarily focused on additional power and cooling capacity, primarily driven by data centers where we offer performance colo and hosting products. Capital expenditures are expected to be $13 million to $23 million in the second half of 2016. As a result, we expect levered free cash flow to return to positive in the second half of 2016 and for the full year.
+
+At the end of the second quarter, cash and cash equivalents totaled $13.9 million. Funded debt totaled $320.1 million. As of June 30, 2016, our debt consisted of $284.6 million borrowed under our term loan at a rate of 7% and a $35.5 million borrowed under our revolving credit facility at a rate of 5.96%. We also had $57.7 million in capital leases. As we mentioned in May, we amended the credit agreement earlier in the second quarter.
+
+We do not have any near-term debt maturities with our revolving credit facility maturing in November of 2018 and our term loan maturing in November 2019. Our net debt totaled $363.9 million while our net debt to last quarter annualized adjusted EBITDA was 4.5x. We are below the financial covenants on our credit agreement and our current capital deployment plans are fully funded, with our current debt facilities which include an incremental $10.4 million on borrowing capacity, cash generation and cash on hand.
+
+On slide 10, guidance, we are updating our full year 2016 guidance to reflect the results of the first half of 2016. We now expect to deliver full year 2016 revenue in the range of $300 million to $305 million, adjusted EBITDA in the range of $83 million to $87 million and capital expenditures in the range of $40 million to $50 million. While we expect a reduction to capital as compared to prior years, we do continue to deploy capital as we anticipate capacity needs or realize success fees demand.
+
+On slide 11, guidance revenue bridge. We are providing investors a walk or bridge from the first half revenue performance to the second half revised revenue expectations. Revenue for the first half of 2016 was $150.2 million. We generally expect net growth in the colo products to continue to be partially offset by the net decline in our IP products driven by lower pricing or renewed contracts. In the Cloud/Hosting business, we expect revenues to grow as the effective churn from a few customers who were purchased by large social media companies declines in the second half of the year and as we bring on new business, consistent with the rollout of our Agile 2.0 platform globally, as Mike will discuss in more detail later.
+
+On slide 12, adjusted EBITDA bridge. Adjusted EBITDA in the second half of 2016 is expected to benefit from positive bookings net of churn momentum, anticipated benefits from vendor contract negotiations and the cost structure optimization in the first half of the year plus additional cost structure optimization efforts in the second half of 2016.
+
+Now let me turn the call back to Mike.
+
+Thanks, Kevin. And as promised, I'm pleased to provide an update on the global expansion of our AgileSERVER 2.0 bare-metal cloud offering. And so I want to just say a few words about that. In my job, I get to spend a lot of time with our customers and prospects. And they look to us for innovation. And I'm most inspired personally when we have new products that deliver unique value to those customers and that allow them to compete effectively in their respective industries.
+
+So in this particular case, we've had good success with our next generation of OpenStack-powered AgileCLOUD and AgileSERVER offerings, which essentially provide IT organizations a way to rapidly deploy a flexible public or private cloud environment using open standards and simplified management tools. This latest expansion of our OpenStack cloud footprint into Singapore enables our customers to build-out high performance infrastructure environments for their applications and deploy them on a global scale. So now both our AgileSERVER and our AgileCLOUD offerings are deployed in our New York Metro, Dallas, Santa Clara, Amsterdam and now Singapore data centers, with our next planned location to be Montreal.
+
+In addition to new locations, in the second quarter of 2016 we launched a, quote, upgrade on-demand capability on our AgileSERVER 2.0. This new capability dramatically increases the number of server configuration options. We expanded from nine to 72 options that a customer can chose to ensure that their application has the right-sized infrastructure for maximum performance. Our customers have told us directly that they value this flexibility and that it's a competitive advantage over the, quote, one size fits all approach of our competitors.
+
+As we've done in previous earnings calls, I would just like to update you on the strategic review we began last year. As you know, the board conducted a comprehensive review of strategic alternatives with the assistance of independent advisors, Morgan Stanley and Greenberg Traurig. While no agreement was reached, due in part to the tightening of the credit markets, the board continues to open to all alternatives that would maximize shareholder value. In fact, we've recently seen renewed interest in the company and continue to have discussions with interested parties. However, it would be premature at this point to speculate on the likely outcome of that interest.
+
+So on slide 14, let me summarize. In summary, we believe our second quarter 2016 results provide a solid foundation for our return to profitable growth. Our business unit realignment is complete. It enables us to more efficiently respond to customers and accelerate profitable growth. We expect lower churn, continued optimization of our cost structure and improved marketing program efficiencies that will benefit our results in the second half of 2016. We also expect to return to sequential revenue growth in our Cloud and Hosting Services segment and drive higher adjusted EBITDA margins in the second half of 2016, both of which drive increased shareholder value. Looking forward, we are confident that our strategic realignment and the associated cost savings will further improve our margin profile and position Internap for long-term growth.
+
+Now I'd like to conclude our prepared comments and open up the call for your questions. So I'll turn it back to you, Michelle. [Operator Instructions]
+
+Our first question comes from Dan Kurnos of Benchmark. Your line is open.
+
+Great, thanks. Good afternoon, guys. Mike and/or Kevin, I think probably the first thing to talk about would simply just be the change in revenue expectations. Obviously, you gave us the bridge in terms of how we should think about it but could you just sort of tell us what's kind of changed. I understand you've communicated the churn event but it certainly seems that there was either – lower growth bookings didn't materialize. I'm not sure how I would characterize. So, I'll leave that up to you, if you can start there, please?
+
+Yes. So, Dan, this is Kevin. So, I would say versus what we had in the original plan for the year, I wish we paced our original guidance. What we realized was we had, I would say, modest bookings performance in the first quarter that actually stepped up considerably in the second quarter and in fact later in the second quarter. So we haven't really seen that improvement yet turn to revenue based on install times. So, we would expect to see that again kind of realizing the benefits of that in the second half of the year. I think so that is one of the factors.
+
+The second factor from a churn perspective, while churn will probably be up a little bit higher than what we originally anticipated at January 1, it's still coming down over the year. So, I think we feel pretty good about the churn trend, but it's up a little bit over, let's say, what we originally budgeted over. And I think the other issue that we are continuing to deal with, and we've talked about in the past, is the MIRO Controller products just hasn't realized the benefit that we had originally anticipated with that. So, there is bit of acknowledging, there is bit of a mixed message here is while the first half has been probably a little bit softer, we are beginning to see, call it, the decline in revenue beginning to flatten out if you look at fourth quarter to first quarter to second quarter. And again based on the new updated revenue guidance, what you should see in there is an anticipation that we're kind of going back to a revenue growth, flat revenue growth in the second half of the year.
+
+And Dan, this is Mike. Let me just add to Kevin's comment or underscore a couple of his points. In terms of bookings, we obviously don't talk publicly about bookings at a quantitative level, but I can tell you that Q2 bookings were actually up significantly from Q1 bookings and that of course will translate into revenue in the second half of the year. And in fact, our June bookings I think were the highest we've had in probably 20 months maybe even longer than that. And so we feel pretty good about the bookings trends. But the lower revenue guidance is really driven around the points that Kevin talked about, including the non-recurring business that we would get with revenue in the MIRO Controller. And so that hardware product or that appliance has not driven the kind of revenue, which would have been immediately recognized at the sale of the particular product and that certainly was a contributor to the change in our revenue guidance.
+
+Got it. And so to your commentary about the strength in bookings, Mike, you're previously pretty optimistic about channel partner sales, can we just get an update on that segment?
+
+Yes, that's actually on the same path as when we talked last quarter. It's really a big part of our growth strategy. And these relationships with our channel partners each quarter continue to build momentum. As you know, when you're building a channel program, it takes time to get the trust and confidence, not only of the channel partner, but the sales people that work in that particular channel organization. So, we've got the comp plans aligned well between our company and our channel partners and it's just a function of building pipeline like we would with our direct sales force.
+
+Maybe not a fair question, because it's hindsight's 20/20, right, but just as you think about your footprint, I know you guys are talking about increasing utilization, but obviously the focus in the back half is on cloud, which tends to take up less of a footprint. I know certainly there's discrepancy in occupancy between the different geographies, but just how do you think – obviously you're not planning on any additional build out but would you characterize it as being overbuilt at this point, or do you think that there is a pathway over the next several years to sort of rationalize the current footprint.
+
+Well, I mean, we obviously have capacity to sell. There is no question about that and it does vary from geography to geography. So, it's tough to make a uniform comment about that, but I would say that, as Kevin identified, we're very prudent about our expansion plans and the use of CapEx and quite a bit of it is associated with the success we get in our cloud business. So, I don't expect that you're going to see a lot of aggressive expansion for sure. And then we're going to continue to drive utilization with both our traditional co-location as well as our hosting and cloud.
+
+And then last one for me, I know that it may or may not be imminent, I don't know how much you can disclose, but just if you could update us on your thoughts around non-core asset sales and potential pay-down of debt and when timing of that might occur?
+
+Yes. So, as we told you, I think last quarter, we are very interested and certainly very open to the sale of some of our non-strategic assets and that continues to be the case. We don't have anything to announce at this point, but it is clearly on the radar screen of both the board and the management team. And I believe that 100% of the proceeds from those non-strategic assets will go towards paying down the debt as per our debt covenants.
+
+And I'm assuming that if that would go to pay-down, probably the revolver and then subsequent you guys would look to refi better terms?
+
+Yes. With the right catalyst, we would begin to be thinking about what is a refinancing kind of looking like, but yes, absolutely you would be taking that cash and paying down effectively the debt. I believe it's – I have to go back and check that, Dan, but I believe it's pro rata between the term and the revolver.
+
+Got it. All right. Thanks, guys.
+
+Thanks, Dan.
+
+Our next question comes from George Sutton of Craig-Hallum. Your line is open.
+
+Hey. Thanks, guys. This is Jason on for George. Wanted to ask a little bit more about the strategic review process and perhaps as it pertains to Rackspace, because I know they started their process before you and I think they concluded their process before you. And now it looks like after the close, they'll be sold to a private equity firm. And so I think that suggests that there's continued interest from private equity and from investors in this industry that would perhaps lead to one less asset in the market. I know the debt environment has actually improved from when we talked about it in January. So, does any of this lead to any incremental opportunity for that strategic review?
+
+Yeah, Jason. It's Mike. In my prepared comments, the debt market certainly did not help us earlier in the process back at the beginning of this year at the end of last year. But as you pointed out, the credit markets are much different today, much more open. And so the board continues to be open to all alternatives.
+
+But as I mentioned, in fact, we've actually recently seen renewed interest in the company and we continue to have discussions with interested parties. We don't have anything to announce at this point, but I think your intuition or your assessment of the marketplace about the demand for assets like ours, it seems to be pretty much on target.
+
+Okay. And then wanted to talk just about the EBITDA guidance. Trying to do some math here, it looks like the guidance for the second half implies a little over 29% EBITDA margin, which I believe would be a record EBITDA margin. And so just curious if a lot of that work is already done with the reorganization that you have in place? Or how much additional work you need to do to get to those type of margins?
+
+Yes, sure. Jason, I think if we look at our exit rates from the second quarter and then look at the running those flat out for the second half of the year. And as you'll remember, given the seasonality, we always expect there could be the lower energy cost as well as lower employee costs that usually arrive in the fourth quarter. I would tell you that I feel relatively confident with the second half margin numbers with the caveat, with the idea that we book the appropriate revenue to drop through.
+
+So I feel confident that from a cost structure perspective, we're well in hand. Our story, as we've talked about in the past is really making sure [ph] that B&I (30:49) goes to revenue.
+
+Okay. And last one for me, this piggybacks on Dan's first question. The change in revenue guidance. I think you had mentioned that you'll probably see higher churn than you expected a quarter ago. So just curious if you've seen additional churn events or if maybe you just didn't have the right expectations a quarter ago for the churn events and now you have more clarity.
+
+Yeah, and I think it's a little bit more the latter from the perspective of when we got into the front half of the year, and as Mike has talked about in the past, as we focused on our top 100 customers, it provides us earlier visibility into that and less, call it, surprise type of opportunity.
+
+But obviously a lot of that guidance was set almost not quite but just about six months ago. As we've gone through the year, this second half, there's been probably a few increases in that, but it's not in the, call it, the area of large unique churn events that we've been having to deal with for the past 12 or 15 months. That said, I would say it's a little bit higher than our initial forecast at the beginning of the year. But, again, I don't think we are sitting here today feeling like we're overly concerned with it.
+
+Okay. Thank you.
+
+Sure. Thanks.
+
+Our next question comes from Frank Louthan of Raymond James. Your line is open.
+
+Great. Thank you. Can you give us an update on the sales force? What's the current trend then as far as quota-bearing reps do you have and plans for hiring? And then with the MIRO Controller product, as you're trying to get some more success out of that, is that going to require more marketing or CapEx to get the revenue going on that product?
+
+Okay. Hey, Frank. It's Mike. So right now, our sales force, give or take, is around 45 direct reps. And then, of course, we have the marketing [ph] and SE (32:54) support that you would have associated with the direct sales force. But the idea there is that we've basically I think begun, I would say, really over the last four months or so, we're starting to finally see the turnover of reps go down and the maturity of tenure and the field go up. And so that's a good sign for us as our head of sales kind of managed out some of the lower performers at the end of last year. So our sales force is moving in a very good direction in terms of both their productivity and their tenure.
+
+And the kind of profile people we have tend to be people that will understand how to sell some of the more sophisticated Cloud and Hosting Services in addition to colocation. And we've done some geographic realignment. We have added some additional internal sales people, meaning that are inside sales, if you will, and they're going to be focusing on a lot of our e-commerce activities which is a pretty cost effective way for us to reach customers.
+
+So as we have attrition, we're back filling, but the good news is that it's not – it used to be kind of a big headache for the company. And now I feel like we are in a position where people are feeling a lot more comfortable about their ability to both sell the product and have had enough time in the field to do so.
+
+How many [ph] QCRs (34:21) did you have at the beginning of the year and where do you think you need to be?
+
+I think we were probably closer to 50 at the beginning of the year. And as we've shifted some of the people to inside sales, that's why I'm saying our number bounces one or two around 45, in the upper 40 basically is where we're at and that's where we intend to stay for the rest of the year.
+
+Okay. And any additional OpEx or CapEx on MIRO Controller to make that product move?
+
+Okay. I'm sorry I forgot that question. Yes, so MIRO Controller is very frustrating to me because it's actually a great product and it has it fills the requirement in the marketplace. We don't have – we sell a recurring service business and that's a one-time CapEx type of sale. So we haven't cracked the code both on the marketing and the sales side of how to hit that market.
+
+But we just added some more additional functionality that we announced earlier this quarter. And quite frankly, we're going to continue to plug away at that but we're trying to just manage the expectation. That's one of the reasons why the revenue guidance, as Kevin described, why we took it down is that those are really high impact sales because you recognize 100% of the revenue immediately. But we just don't want to set an expectation that it's going to ramp up as quickly as we originally thought.
+
+Got it. Thank you.
+
+There are no further questions. I'd like to turn the call back over to [ph] Mary Ann Arico (35:46) for any closing remarks.
+
+That concludes our call today. Thank you, Michelle. If anyone has follow-up questions, please feel free to call me at 404-302-9982, or you can e-mail me at marico@internap.com. Thank you. That concludes.
+
+Ladies and gentlemen, thank you for participating in today's conference. This does conclude the program and you may all disconnect. Everyone, have a great day.

@@ -1,0 +1,70 @@
+Participants
+CORPORATE PARTICIPANTS
+Leslie Phillips — Director, The Blueshirt Group LLC
+Andrew Stanley Guy Harries — Executive Chairman, BSQUARE Corp.
+Kevin T. Walsh — Acting Chief Executive Officer, BSQUARE Corp.
+Peter J. Biere — Chief Financial Oficer, BSQUARE Corp.
+
+Management Discussion Section
+
+Question And Answer Section
+
+Good day and welcome to the BSQUARE Corporation Fourth Quarter and Full 2018 Financial Results Call. Today's conference is being recorded.
+
+At this time, I'd like to turn the conference over to Leslie Phillips, Investor Relations for BSQUARE. Please go ahead.
+
+Thank you and good afternoon, everyone. Before we begin, we'd like to remind you that this call is being webcast, and that recording of the call and the text of our prepared remarks will be available on BSQUARE's website.
+
+During this call, we will be making forward-looking statements. These statements are based on current expectations and assumptions that are subject to risks and uncertainties that could cause actual results to differ materially. Please refer to the cautionary text regarding forward-looking statements contained in BSQUARE's earnings release issued today and in the posted version of these prepared remarks on our website at www.bsquare.com under Investors, both of which apply to the content of this call. All per share amounts discussed today are fully diluted numbers where applicable.
+
+Now, I'd like to turn the call over to Andrew Harries, BSQUARE Executive Chairman. Andrew?
+
+Thanks, Leslie, and good afternoon, everyone. Last week, we announced the appointment of a permanent CEO, Ralph Derrickson, who will be joining the company on the March 11. I look forward to Ralph joining the management team and the board, and believe he'll make a significant contribution to renewed profitability and growth for BSQUARE.
+
+Upon Ralph's arrival, I'll revert to my prior role of Board Chairman, and Kevin Walsh will be stepping down as Acting CEO. I'd like to thank Kevin for stepping in on an interim basis.
+
+I'll now ask Kevin and CFO, Peter Biere, to take us through fourth quarter results. Kevin?
+
+Thank you, Andrew. During our last earnings call, we outlined a go-forward plan that included four key components and I'm pleased to report that during the fourth quarter we progressed on each of these. First, we stated we would narrow the focus of our DataV software and services business to meet clear customer demand. Toward that end, during the fourth quarter, we launched an IoT services practice that leverages the valuable IoT experience and capabilities we have accumulated in data science consulting, cloud IoT integration, embedded device engineering and managed hosting. We are now actively selling these services.
+
+Second, we stated that we would make carefully targeted investments in the development of our DataV software. During the fourth quarter, we reached software code complete for the Fortune 100 DataV customer we announced in May 2018. Third, we stated we would apply renewed focus to ensure our traditional third-party software distribution business remains a key cash contributor. This remains an ongoing priority. In support of this goal, we put in place programs intended to broaden the channels through which we can distribute Microsoft Windows Embedded.
+
+And fourth, that we would seek to expand important partnerships already in place with Amazon Web Services and Microsoft. During the fourth quarter, we signed a three-year strategic collaboration agreement with AWS that, among other things, includes funding by AWS in BSQUARE R&D and go-to-market programs that we will jointly undertake. And we began collaborating more closely with Microsoft Azure IoT ecosystem sales and marketing teams.
+
+Before I hand the call over to Peter, I'd like to say that it has been an honor to serve BSQUARE shareholders and employees over the past 10 months as Acting CEO. I look forward to Ralph Derrickson coming on board and helping accelerate our momentum.
+
+With that, I'll turn the call over to our CFO, Peter Biere. Peter?
+
+Thank you, Kevin. First, we'll review our revenue for the fourth quarter. Total revenue was $16.8 million within the $15.5 million to $17.5 million guidance announced in our Q3 2018 earnings call. Compared to the prior year quarter, total revenue was down 14%, but up 1% sequentially.
+
+Reviewing results by revenue grouping, third-party software revenue was $13.9 million lower year-over-year and sequentially. The year-over-year decline was driven primarily by the loss of Honeywell's EMEA business which we announced in Q1 2018 earnings. The sequential decline was due to software buying across the portfolio attributable to normal quarterly variability we've experienced over the past two years.
+
+Proprietary software revenue was $1.1 million, up 248% year-over-year and 36% sequentially. The year-over-year increase was due primarily to DataV software delivery to Itron in 2018, which triggered Q1 2018 and Q4 2018 revenue recognition for the first three years of this five-year agreement. The sequential increase was driven primarily by Itron revenue partly offset by decrease in sales of legacy proprietary software. We had a large one-time software order in Q3 of 2018 which affects this sequential comparison. We expect future revenue from both DataV and our other proprietary software will continue to fluctuate quarterly in both timing and amount.
+
+Professional engineering services revenue which includes services related to DataV contracts totaled $1.9 million and was down 3% year-over-year, but up 14% sequentially. The year-over-year decline was a result of a number of traditional services contracts reaching their final delivery point. The sequential increase was due primarily to several DataV related contracts delivered during the quarter to existing DataV customers. Revenues for DataV which include both proprietary software and services totaled $1.3 million for Q4.
+
+Next I'll discuss gross profit and margins for the quarter. Gross profit totaled $3.7 million during the quarter or 22% of revenue. Fourth quarter gross profit was up year-over-year and sequentially and came in at the upper end of the 18% to 22% guidance announced in our Q3 earnings call. Third-party gross profit was 17% compared to 16% last quarter primarily due to a stronger mix of higher margin products in the current quarter. Engineering services gross profit was 24% compared to 26% in both year-over-year and sequential quarters driven by lower margins on certain services contracts.
+
+Turning to operating expenses and our bottom line results in the fourth quarter. Annually, we evaluate the carrying value of goodwill related to our 2011 acquisition of MPC Data Limited, a UK-based provider of engineering services, our analysis show the carrying value of goodwill to be impaired and accordingly we recorded a noncash charge of $3.7 million during the current quarter to write-off the entire goodwill balance. Total operating expenses for the fourth quarter excluding the goodwill impairment charge were $5.6 million, an improvement of $2.3 million from the prior year quarter and flat sequentially. The majority of the cost reductions we've made over the past three quarters are reflected in our Q4 results.
+
+Without the goodwill impairment charge, we recorded a net loss of approximately $1.8 million or negative $0.14 per share for the fourth quarter of 2018 compared to a net loss of $4.2 million or negative $0.33 per share in the year ago quarter and a net loss of $2.1 million or negative 16% (sic) [$0.16] (00:08:17) per share in the third quarter of 2018. Financial measures excluding the nonrecurring impact of goodwill impairment are non-GAAP measures, including the goodwill charge for fourth quarter of 2018 GAAP net loss of $5.5 million or negative $0.43 per share.
+
+Please refer to the reconciliation of adjusted EBITDAS to the comparable GAAP financial measures, together with the comparable – which are comparable to the GAAP financial measures, excluding the nonrecurring impact of goodwill impairment in our earnings release issued today and posted in our website at bsquare.com under Investors. Speaking to the full year of 2018, total revenue was $73.4 million down 9% from 2017. Gross profit for the year totaled $15.5 million or 21% of revenue compared to $18.1 million or 22% of revenue in 2017.
+
+For the full year of 2018, operating expense excluding goodwill impairment was approximately $25.7 million compared to $27.5 million in 2017. Total GAAP operating expenses for the year were $29.4 million. In the second half of 2018, we were successful in reducing the operating expense excluding the goodwill impairment charge by 26% compared to the second half of 2017. Net loss excluding the goodwill charge was $10 million for the full year of 2018 or a negative $0.79 per share compared to $9.1 million or negative $0.72 per share in 2017. GAAP net loss was $13.7 million or negative $1.08 per share in 2018.
+
+Moving to the balance sheet. Cash, restricted cash and investments totaled $16.9 million as of December 31, 2018. That's down $331,000 from September 30 of 2018. Net cash usage was below our expected range of $0.5 million to $1.5 million for the quarter due mostly to stronger than forecasted cash collections during the quarter. The net cash change in Q4 included approximately $1.3 million in collections stemming from the previously announced loss of Honeywell's EMEA business which amounts are now collected.
+
+Our accounts receivable balance totaled approximately $11.6 million at December 31, 2018, about $2.8 million of which is due from Honeywell. We extend 270 day terms to Honeywell and pay Microsoft for these products in 45 days, so approximately $2.4 million of this receivable will convert to cash. We believe that we have sufficient cash and cash flows from our traditional businesses to execute our plans in 2019.
+
+I will now turn the call back to Kevin to provide an outlook for the first quarter and closing remarks.
+
+Thank you, Peter. As noted in today's press release, we currently have the following expectations for Q1 2019: revenue in the range of $15 million to $17 million; blended gross margin in the 15% to 17% range, due to lower sequential contribution from proprietary software revenue; and a moderate increase from Q4 2018 cash utilization adjusted for approximately $1.3 million of final Honeywell collections.
+
+Moderator, please open the call for questions. [Operator Instructions]
+
+And it appears there are no questions in the queue at this time. I would like to turn the call back to management for any additional remarks.
+
+Thank you. Before concluding the call, on behalf of the entire BSQUARE team, I would like to thank our investors and our customers for your interest and for your business. We look forward to reporting back to you next quarter. Thank you for joining us.
+
+This concludes today's conference. Thank you for your participation. You may now disconnect.

@@ -1,0 +1,244 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+Michael Nelson — Senior Director-Investor Relations, Internap Network Services Corp.
+James Eric Cooney — President, Chief Executive Officer & Director, Internap Network Services Corp.
+Kevin M. Dotts — Chief Financial Officer & Senior Vice President, Internap Network Services Corp.
+Frank G. Louthan — Analyst, Raymond James & Associates, Inc.
+Jason M. Kreyer — Analyst, Craig-Hallum Capital Group LLC
+Colby A. Synesael — Analyst, Cowen & Co. LLC
+Gray W. Powell — Analyst, Wells Fargo Securities LLC
+Mark D. Kelleher — Analyst, D. A. Davidson & Co.
+Dan L. Kurnos — Analyst, The Benchmark Co. LLC
+
+Management Discussion Section
+
+Question And Answer Section
+
+Good day, ladies and gentlemen, and welcome to the Internap First Quarter 2014 Earnings Conference Call. At this time, all participants are in a listen only mode. Later, we'll conduct the question-and-answer session and instructions will be given at that time. [Operator Instructions] As a reminder, this conference call is being recorded. I would now introduce your host for today's conference, Michael Nelson, Director of Investor Relations. You may begin.
+
+Good afternoon and thank you for joining us today. I'm joined by Eric Cooney, our Chief Executive Officer, and Kevin Dotts, our Chief Financial Officer. Following prepared remarks, we'll open up the call for your questions. The slides we reference in the call are available on our website in the Presentations section on the Investor Relations page. Non-GAAP reconciliations and our supplemental data sheet, which includes additional operational and financial metrics, are available under the financial information quarterly results section of our Investor Relations page.
+
+Today's call contains forward-looking statements, including belief in our business strategy, expectations regarding future financial and operational performance and the drivers for long-term profitable growth, ability of new product launches to drive competitive differentiation, and expectations regarding margins, operating leverage, returns on capital and capital expenditures.
+
+Because these statements are not guarantees of future performance and involve risks and uncertainties, there are important factors that could cause our actual results to differ materially from those in the forward-looking statements. We discuss these factors in our filings with the Securities and Exchange Commission. We undertake no obligation to amend, update or clarify these statements. In addition to reviewing the first quarter results, we will also discuss recent developments.
+
+Now, let me turn the call over to Eric Cooney.
+
+Thank you, Michael, and good afternoon, everyone. We're pleased you could join us for our first quarter 2014 earnings presentation. I will start the discussion with a summary of our results, and then turn the call over to Kevin Dotts, our Chief Financial Officer, to take you through our detailed financial results. From there, I will briefly wrap up our prepared remarks before we open up the call to take your questions.
+
+Beginning on slide 3, you will see we delivered total revenue in the first quarter of 2014 of $82 million, representing an increase of 18% year-over-year and 11% quarter-over-quarter. Data center services revenue totaled $58.3 million in the quarter, an increase of 31% year-over-year and 17% quarter-over-quarter. Consistent with our strategic plan, we continued to deliver growth from our core data center services business, including company-controlled co-location, hosting, and cloud services. Both the year-over-year and sequential increase in core data center services revenue more than offset the decline in partner co-location data center services revenue. The strategic mix shift towards data center services is evident with revenue from this segment now accounting for roughly 71% of total revenue compared to 60% two years ago.
+
+In our IP services segment, revenue decreased 6% year-over-year and 3% sequentially to $23.7 million. The lower IP revenue was the result of per unit price declines, which more than offset data traffic growth.
+
+In the first quarter, revenue churn declined sequentially in both of our operating segments, and as a result, for total company as well. The data center segment revenue churn decreased 30 basis points sequentially to 1.8%, while the churn in our IP segment decreased 40 basis points sequentially to 1.2% and total company churn decreased 30 basis points sequentially to 1.6%.
+
+Turning to slide 4, we're showing the positive trends we're experiencing in core data center services. Our core data center services, which we define as company controlled co-location, hosting, and cloud services revenue remain the engine for long term growth in revenue and profitability.
+
+Revenue from these core data center services increased 48% year-over-year and 24% sequentially, driven by solid organic growth and the contribution of iWeb. Core data center services revenue has increased at a 35% three year compound annual growth rate through the first quarter of 2014 and now represents 80% of data center services revenue and 57% of total revenue. Excluding the contribution from iWeb, the first quarter organic core data center services generated annualized sequential revenue growth of 16%.
+
+Moving onto slide 5, we identified the sources of change in revenue from the fourth quarter to the first quarter of 2014. Our core data center services contributed $9 million of incremental revenue, which more than offset the decline in partner co-location revenue of $0.4 million and IP services revenue of $0.7 million. The core data center services sequential growth was driven by solid organic growth as well as the full quarter contribution from iWeb.
+
+On slide 6, I'll cover segment profit and segment margin. Segment profit of $46.2 million increased 25% year-over-year and 14% quarter-over-quarter. Segment margin was 56.4%, an increase of 360 basis points year-over-year and 190 basis points sequentially. The primary driver for the strong year-over-year and sequential improvement in segment profit and segment margin was due to the favorable product mix shift of selling a larger proportion of higher margin company controlled co-location, hosting, cloud services and iWeb.
+
+Turning to slide 7, I'll cover data center services segment profit and segment margin results. Data center segment profit of $32.4 million increased 49% year-over-year and 27% quarter-over-quarter. Data center segment margin expanded 660 basis points year-over-year and 410 basis points sequentially to 55.6%. An increasing proportion of higher margin core data center services and the contribution from iWeb drove data center services segment profit and margin higher.
+
+On slide 8, we show IP services segment profit and segment margin results. IP segment profit of $13.8 million decreased 9% year-over-year and 7% quarter-over-quarter. IP segment margin declined 130 basis points year-over-year and 240 basis points sequentially to 58.3%. We believe the decline in IP segment margin in the quarter is ultimately a timing effect as we experienced churn of some legacy IP contracts which we're billing at higher market rates while we are still in the process of renegotiating certain key IP transit provider contracts.
+
+As a result, we expect the segment margin will improve back to historical norms in the low 60% range later in 2014. Despite the headwinds created by the declining IP services revenue, the segment continues to deliver solid segment profitability and cash flow, which we leveraged to invest in the more capital intensive data center services segment.
+
+Further, the IP business also provides a key element of competitive differentiation for our data center services business as it is central to our competitive differentiation of high performance hybridized IP infrastructure service offerings.
+
+Moving on to slide 9, you can see we delivered a solid quarter of adjusted EBITDA and adjusted EBITDA margin. First quarter adjusted EBITDA was $17.8 million, an increase of 26% year-over-year and 14% quarter-over-quarter. Adjusted EBITDA margin expanded 140 basis points year-over-year and 60 basis points sequentially to 21.7%. The improvement in adjusted EBITDA and the associated margin expansion was predominantly the result of favorable product mix shift toward core data center services and positive operating leverage in our business model.
+
+Moving on to slide 10, we are providing detail on an exciting new product launch which we announced earlier today. Our patented next-generation MIRO or Managed Internet Route Optimizer is designed to deliver on our promise of providing consistent performance without compromise. MIRO optimizes network traffic for applications and content running on our cloud, hosting and co-location services.
+
+Internap was founded on the MIRO technology, which evaluates network performance across the global Internet and routes traffic to the best performing network at any point in time. While the classic version of MIRO outperforms individual carrier networks and has been the gold standard for IP transit, we wanted to make it even better and more scalable to handle the new generation of real time date intensive applications our customers are developing. Over the past 10 years, the global routing table, which refers to the Internet's total number of destination networks, has roughly quadrupled in size. This growth has resulted in a highly complex and congested system of networks that can significantly degrade the performance of Internet applications and services, and the next-generation of MIRO has been completely re-vamped to address today's Internet while scaling to support future growth.
+
+Our tests showed that next-gen MIRO sends traffic over the best performing path over 99% of the time versus only 15% to 20% of the time for other carriers. The net result is that next-gen MIRO consistently delivers traffic over the fastest route and delivers traffic twice as fast with four times less variability. We also enhanced our content delivery network to provide improved performance, scalability, and ease of use for our infrastructure customers. These two product launches are in line with our stated goal for 2014 of accelerating product development velocity in bringing new features to market faster.
+
+Turning to slide 11, we thought it would be helpful to provide some color on Internap's Bare-Metal Cloud, which is one of our most popular and fastest growing products. Bare-Metal refers to the fact that the customer receives fully dedicated physical servers as opposed to virtualized servers on a shared hardware platform. Cloud refers to the capability to purchase, provision, and manage those servers in an on-demand and scalable manner.
+
+So our Bare-Metal Cloud service, we are providing a dedicated server on a public cloud delivery model where our customers pay for what they use for however long they need it. Importantly, Bare-Metal can offer performance, reliability and value advantages over virtual cloud environments, particularly for performance sensitive and data intensive applications.
+
+Research firm Frost & Sullivan recently honored Internap with the 2014 North American Cloud Services Competitive Strategy Innovation and Leadership Award for our Bare-Metal Cloud offering. Bare-Metal provides Internap with a competitive differentiation versus mass market public cloud providers in the ability to offer fully dedicated on-demand resources that eliminate the noisy neighbor problem that can result when other tenants of a virtualized server use a disproportionate amount of the server's computing resources. In third-party benchmarking tests, Internap's Bare-Metal Cloud provides compelling price performance benefits for customers running data intensive applications.
+
+Moving to slide 12, we thought it would be useful to show several use cases where our Bear-Metal solution offers superior price performance. Online gaming is an example where high throughput and dynamically scalable infrastructure is ideal for real-time gaming with variable demand requirements. High-Rez Studios is a customer of Internap that is successfully leveraging our Bare-Metal Cloud service today.
+
+Real-time customer analytics that require local disks with high memory and horizontally scalable web servers to capture real-time Internet data is another use case where Bare-Metal Cloud can provide superior performance.
+
+Onavo is a customer that recently migrated from a leading virtual cloud provider to Internap's Bare-Metal Cloud in order to meet their network and performance goals using dedicated physical servers while also providing the on-demand scalability presence in a traditional cloud offering.
+
+For AppLovin, a mobile advertising company, there is a direct correlation between speed of ad delivery and conversion rate. After running tests in their own environment, AppLovin found that their ad serving front-end application could handle at least three times more traffic and accommodate increased memory capacity when deployed on Internap Bare-Metal servers as compared to their previous virtualized cloud environment. Using fewer servers with less resource sharing resulted in reduced volatility and better performance across all tiers of their infrastructure.
+
+For the online learning company, Teachscape, our Bare-Metal Cloud's capability to offer low latency for on demand content, high memory for read-write intensive databases and scalable storage and network capacity provided a compelling value proposition. Simply stated, Bare-Metal Cloud is compelling in terms of competitive differentiation and we find that customers purchase Bare-Metal Cloud for myriad reasons including performance, security and service.
+
+Moving on to slide 13, we include an example of how Internap's full range of hybrid infrastructure benefits Datalex, an e-commerce and retail software solutions provider for the travel industry. Datalex processes billions of real-time transactions for its international airline customer base. Datalex has selected Internap as its Internet infrastructure partner to provide a full range of high-performance hybrid services to manage massive amounts of customer transactions while ensuring the highest levels of reliability. Datalex is using Internap's managed hosting, private cloud, co-location, object storage and global performance IP connectivity to meet their application needs today and provide the ability to scale to support future growth.
+
+Now, I'll pass the call over to Kevin Dotts, our Chief Financial Officer, who will give us a more detailed review of our financial results. Kevin?
+
+Thanks, Eric. I'll start my comments on slide 14, which covers our income statement comparisons. First quarter 2014 revenue totaled $82 million, a $12.3 million increase compared to the same period last year, representing 18% year-over-year growth. Compared to the fourth quarter of 2013, total revenue increased $7.9 million. Both the year-over-year and sequential increase were the result of higher core data center services revenue and the acquisition of iWeb.
+
+Segment profit totaled $46.2 million, an increase of 25% year-over-year and 14% quarter-over-quarter. Total segment margin expanded 360 basis points year-over-year and 190 basis points sequentially to 56.4%. Total segment profit and segment margin were positively affected by solid growth in the data center services revenue and a larger mix of higher margin company-controlled co-location, hosting and cloud services.
+
+Total cash operating expense excluding acquisition cost was $28.4 million, representing an increase of 25% year-over-year and 15% quarter-over-quarter. Cash operating expense to revenue was 34.7%, an increase of 220 basis points year-over-year and 130 basis points sequentially. Both the year-over-year and sequential increase were driven by the acquisition of iWeb.
+
+Our strategic transition to hosting and cloud services include higher OpEx, including customer support, which is more than offset by lower cost of goods sold resulting in higher adjusted EBITDA margin. We remain focused on cost containment to help drive operational performance.
+
+Adjusted EBITDA totaled $17.8 million, an increase of 26% year-over-year and 14% quarter-over-quarter. Adjusted EBITDA margin was 21.7%, an expansion of 140 basis points year-over-year and 60 basis points sequentially. The solid performance was driven by a favorable shift to higher margin core data center services and the positive operating leverage we're building into the business. As we continue to execute on our strategy to grow core data center services revenues, we believe we will have an opportunity to drive margins up and to the right.
+
+GAAP net loss in the first quarter of 2014 was $10.7 million or $0.21 per share compared to a net loss of $1.6 million or $0.03 per share in the prior year and a net loss of $10.4 million or $0.21 per share in the prior quarter. The larger loss year-over-year was primarily related to higher interest expense and depreciation and amortization expense attributable to our capital investments.
+
+Normalized net loss, which excludes the impact of stock-based compensation, acquisition costs, and certain items management considers non-recurring totaled $7.3 million, or $0.14 per share, compared to $0.2 million normalized net income or $0.00 per share in the prior year and a $4.4 million or $0.09 per share normalized net loss in the prior quarter.
+
+Cash flow and balance sheet summaries are shown on slide 15. Capital expenditures totaled $25.5 million in the quarter, while CapEx plus capital lease payments outpaced adjusted EBITDA by $9.1 million.
+
+We continue to expect to spend between $70 million to $80 million of CapEx in 2014. We have a very disciplined approach to capital allocation, and we believe we have significant opportunity to invest in the business and generate returns well in excess of our cost of capital. At the end of the first quarter, cash and cash equivalents totaled $25.2 million, funded debt totaled $290.2 million, and capital leases were $61.4 million.
+
+With net debt of $326.4 million or net debt to last quarter annualized adjusted EBITDA was 4.6 times. We're comfortably below our financial covenants on our credit agreement.
+
+Now, let me turn the call back to Eric for his closing remarks before we take questions.
+
+Thanks, Kevin. Now, I'll briefly summarize on slide 16. We are pleased with the solid start to 2014 with strong organic bookings, which were up over 40% year-over-year, and solid revenue growth, underpinned organic core data center services and the contribution from iWeb.
+
+We believe our first quarter results reaffirm both the strategic direction we've chosen for the company as well as demonstrate focused execution across the business. Our core data center services revenue has delivered growth at a 35% three year compound annual growth rate and remains the engine for top-line growth and profitability.
+
+On a year-over-year basis, the data center services segment delivered solid results with segment profit up 49% and segment margin up 660 basis points. Over the same period, adjusted EBITDA increased 26% and adjusted EBITDA margin increased 140 basis points, highlighting the successful execution of our data center services strategy and the solid operating leverage we're building into our business model.
+
+We remained focused on accelerating our profitable growth as our momentum continues to build around our key elements of competitive differentiation, high performance and hybridized Internet infrastructure services.
+
+The launch of the next-gen MIRO product is the latest example of our commitment to leverage world-class engineering development expertise to bring performance differentiated service offerings to market. We expect to continue this focus on performance differentiated service offerings further into 2014.
+
+Now we'd like to open up the call for your questions. Operator?
+
+Thank you. [Operator Instructions] Our first question comes from Frank Louthan of Raymond James. Your line is open.
+
+Great. Thank you, can you walk us through some of the pricing trends in the quarter and what you're seeing there from new customers. And then, give us an idea of sort what's been the plan. And I apologize I missed part of the call, but with the iWeb and being able to expand that further into the U.S and where are you are with that and what the customer response has been. Thanks.
+
+Sure. So first question in terms of pricing trends, probably best to look at that on a product line basis. From a co-location standpoint, we tend to see year-over-year price increases, sell price increases to our customers, typically in the 3% range. From a hosting or cloud standpoint, there has been a lot of talk in the press and certainly a lot of visibility around price reductions from some of the larger service providers.
+
+And I think the message at least from Internap's standpoint is we're focused on competitively differentiating our hosting and cloud products, primarily with a performance message. And as such, we're, to a certain extent, isolated from call it commodity public cloud price reductions and really don't find ourselves at least at this point under too much pressure from our customers or from our target customers for our cloud and hosting products. And certainly in return on capital terms for hosting and cloud, we continue to deliver quite healthy returns on capital well above our cost of capital.
+
+From a plan for iWeb perspective, I think the message is first of all, the integration is going quite well, whether from an operational, technical, financial standpoint, we are very happy with the business combination of iWeb and Internap and feel very comfortable in our ability to deliver the long-term benefits of that business combination. We previously mentioned one of the synergies or revenue opportunities associated with the business combination was iWeb selling a broader portfolio of hosting and cloud services, namely expanding iWeb's addressable market to include geographies in North America. We did that earlier in the first quarter of this year. iWeb is successfully selling in several new markets – New York, Dallas, Santa Clara, in particular, and we expect to further expand that later in 2014, both in terms of geographic markets and in terms of product portfolio.
+
+Thank you. And as a follow-up to the first question, to what extent are you seeing customers take your cloud product for more specific applications, but they're also using some of the hyper scale providers on the West Coast for other things. I mean are you seeing a mix of what customers are demanding, just there – a lot of confusion I think with investors think it's sort of all or nothing prospect, and just kind of curious what you're seeing from demand from your customers?
+
+Sure. From our standpoint, our solutions performed very well for specific customer use cases or specific application use cases. And we mentioned several on the call uses cases in the online gaming industry, online advertising; in some cases, financial services, healthcare services. All of those industries for whom performance and reliability are critical to their applications or their workloads, they tend to gravitate towards to Internap and the solutions that we provide. In particular, Bare-Metal Cloud as we spoke about is a quite compelling price, performance, reliability, value proposition for those target customers.
+
+Okay. Great. Thank you.
+
+Sure.
+
+Thank you. Our next question comes from George Sutton of Craig-Hallum. Your line is open.
+
+Hey, guys. Good afternoon. It's Jason Kreyer on for George Sutton.
+
+Hi, Jason.
+
+Wondering if you can just talk maybe a little bit about the next-gen MIRO solution, not sure when this hit the market, if you can talk a little bit more about that. And then, what are your thoughts on the longer term implications of the new solutions as far as driving higher margins or maybe if this should drive revenue a little bit higher in the IP services segment?
+
+So, at this stage, we've obviously completed the product development on the next-generation MIRO offering, and we've begun deployment of MIRO across our IP points of presence globally. We have today 87 IP points of presence, so obviously, there's a bit of a process to deploy that software globally. Nonetheless, we're part way through the deployment and expect that by the end of the second quarter, we'll have completed that deployment of next-generation MIRO globally.
+
+In terms of our expectations and as you can read in the press release remarks, we're really quite excited about the performance benefits that next-generation MIRO offers. Certainly, it provides performance benefits relative to our previous, or the classic version of MIRO, but perhaps more importantly, we're – comparing our next-generation MIRO versus a customer's other alternatives, or other carriers' product offerings, and when we look at performance, when we look at reliability, consistency, our next-generation MIRO offering really provides some quite compelling differentiation versus what a target customer could achieve from another provider.
+
+At this stage, I would say, it's a, let's say too early to tell in terms of setting expectations for revenue growth from that IP services segment. I think we would take a cautious view and suggest that the outside world continue to expect a slow decline of our IP services segment. That being said, where we'd expect to see the near term benefits are likely in the gross margin or segment margin for our IP services business. And as I indicated in my prepared remarks, we do expect that IP segment margin to trend back up into the low 60% range later in 2014.
+
+Okay. So it sounds like this solution will be more used as, will enhance the value proposition for the data center services rather than carrying a higher price tag for your existing IP services. Is that the right way to think about it?
+
+Yes, certainly the company's focus is on leveraging our MIRO as a basis for competitive differentiation of our data center services product offerings. That being said, we do expect it will have an impact on our ability to mitigate normal price erosion in the IP transit core business.
+
+Okay. That's helpful. Thank you. And then just last question for me, can you give an update on your long-term margin expectations in the data center services now that you've begun to integrate iWeb and have a little bit better idea of what margins you could expect in that business?
+
+Sure, I guess, without giving explicit guidance, what I would say is you can obviously see the trajectory of company margin trending steadily up over the past several years. You can see us at this stage trending closer to a 60% segment margin. And as core data center services including iWeb continues to grow in proportion to total company revenue, I think you can continue to expect that total company margin to increase towards the 60% and perhaps above.
+
+Okay, great. Thank you for your time.
+
+Thank you. Our next question comes from Colby Synesael of Cowen & Company. Your line is open.
+
+Okay. Great. First question. I just wanted to get a better sense how the data center migration in New York was going, effectively taking customers from the Manhattan facility to the New Jersey facility, and then I have a follow-up after that.
+
+Sure. So probably the best adjective is slower than previously expected. My point there is the majority of customers have yet to make a migration decision from our current 111 8th Avenue facility. And what we're finding is that the decision is perhaps even more complicated than we expected it would be because customers are taking the opportunity presented to them of a mandatory data center migration to really consider a whole range of options, options including new geographic markets entirely, i.e. outside of the New York metro market, options to consolidate data center footprint with other data centers and also even more complex options such as migrating from a colo footprint to a hosting or cloud or perhaps a hybrid environment.
+
+The net-net is, as I said at the beginning, we're seeing longer evaluation processes than perhaps we originally anticipated and most customers have yet to make a migration decision from our 111 8th Avenue facility.
+
+So, if I kind of use my follow-up for that. So if – I think that you have to have everybody out of the facility by the end of this year, so that's the time period that we're working with?
+
+Yeah.
+
+Can you help size it up for us, what the potential size of revenue that's in that facility is today that – where a decision will have to be made in terms of, I guess, what's that risk potentially? And any sense right now how your thoughts have changed in terms what you thought might have been the risk and now what you might think of the risk today?
+
+Sure. I guess I'll, for others on the call, remind everybody that the starting point for monthly recurring revenue in the 111 8th Avenue facility was a bit over $1 million a month in recurring revenue. So, I guess, in totality that's the amount of risk or revenue that is at risk. What I would say at this stage is I would maintain our position that we expect to be able to retain the majority of that revenue as we go through the migration. The further color that I'd add in this call though is, in part, I'm also buoyed in my confidence based on the traction we're seeing in total company bookings, the 40% year-over-year growth rate I mentioned, and the traction we're seeing in that Secaucus facility in general. As it relates to the 111 8th Avenue migration, my point there is I feel pretty good about our ability to migrate customers and/or sell through any churn that we would experience in the process of migrating those customers.
+
+Okay. And then I guess the follow-up question I had actually, to touch on the bookings number, which was – you mentioned 40% was on an organic basis, which I took to mean legacy Internap, so I just wanted to make sure I understood that right. And I guess the point then is, is that level, while certainly a pretty good number off the legacy business, good enough to sustain the type of growth rate that you want considering now the totality of the company with iWeb? Thanks.
+
+Yes. I'll reconfirm organic growth in bookings 40% year-over-year exclusive of the iWeb business. Your second question, is that enough to sustain the growth rates? Yes, again. In fact, if we continued that 40% year-over-year growth rate we'd actually see an acceleration of core data center services growth beyond what we've seen to date.
+
+Great. Thank you.
+
+Sure. Thanks Colby.
+
+Thank you. Our next question comes from Gray Powell of Wells Fargo. Your line is open.
+
+Hi. Thanks for taking the questions. So, I just had a couple here. Maybe – you said at a higher level, what's your view on retail data center capacity coming to the market this year for – just for the industry. I mean if we look at some of the major U.S. centric players, it looks like new retail capacity being built in 2014 could be down pretty meaningfully from the levels that we saw in 2012 and 2013. So, I guess first question is would you agree with this? And do you think that could help support pricing?
+
+So, from – for Internap's purposes in the markets in which we compete, I guess the best way I can answer that question is to say I've not seen nor do I anticipate a change in the competitive dynamic in the market in which we compete. Point being, I think there are I think there is capacity available in markets in which we compete. I'm not expecting a significant reduction or decline in capacity that would significantly change the competitive landscape or provide, let's say an upside to the sell price of our data center or co-location product. From our standpoint, we expect or have seen a fairly consistent competitive landscape in retail co-location, and I don't see that changing or anticipate that changing later in 2014.
+
+Got it. Understood. And maybe just to follow-up, as you migrate out of 111 8th Avenue and then fill into your Secaucus facility over the next 12 months, how do you see your data center utilization trending, and then longer term, how should we think of like a target rate for the company controlled footprint versus the current utilization rate? I think it's around 56%? Thanks.
+
+Sure. I mean the simple answer is, of course, we expect our utilization rate to trend upwards. We – looking back over the couple of years, we've obviously expanded our company controlled both geographic footprint and in market capacity quite significantly, and at this point, the focus is really predominantly about driving utilization in our existing footprint, both through sale of retail co-location, and also remind all the investors, also driving utilization quite significantly as we grow our hosting and cloud infrastructure in those data centers as well.
+
+Got it. Okay. Thank you very much.
+
+Sure. Thanks, Gray.
+
+Thank you. Our next question comes from Mark Kelleher of D.A. Davidson. Your line is open.
+
+Great. Thanks for taking the questions. First one, just a quick double check on the iWeb, that was the $11.4 million, is that right?
+
+Yes.
+
+Okay. The operating cost took a little bit of a step up for that iWeb acquisition.
+
+Of course.
+
+Is there – are there synergies you can squeeze out of that? Some operating costs on the integration or should we look at those levels as the new levels going forward?
+
+I think you should look at those as, generally speaking, the levels to use on a go forward basis. There is really not much in the way of operating cost synergies associated with the iWeb Internap combination, very complimentary businesses, very complimentary geographies and very complimentary product sets. So, really not much in the way of cost synergies expected.
+
+And just adding to that, obviously though as top line grows and margin at the gross margin level grows, we certainly do expect to get scale.
+
+Okay. And last question, can you just update us on your CapEx expectation, what's that looking like?
+
+Yeah. As I mentioned in my prepared remarks, we are still kind of targeting the $70 million to $80 million that we guided to in our last release. So, I think we're on target for that.
+
+Does that include the new build in Boston?
+
+So, I think what we've done is we've added a little bit. We've added capacity actually in the Santa Clara facility this quarter, and then basically then there's been greater occupancy, but there's not additional capacity being brought on at this point, let's say within Boston.
+
+Okay. Great. Thanks.
+
+Okay.
+
+Thank you. Our next question comes from Dan Kurnos of The Benchmark Company. Your line is open.
+
+Hey. Great. Thanks for taking my questions. Just quickly if I'm doing my math right here. It looks like iWeb was down a little bit sequentially. Is there any – are you still confident in your growth goals for the year there? And core growth if you exclude iWeb was about I think 6%, obviously a tough comp with Q1. How should we think about core growth, were there any particular segments that didn't sort of meet the guidelines that you've given for the, the buckets, colos versus hosting versus cloud this quarter?
+
+Sure. So I'll, guess I'll start by reminding everybody, what we said about expectations for iWeb growth. And what we said at the time of acquisition was -expecting calendar year 2014 iWeb revenue growth of approximately 10% and EBITDA growth in the iWeb business of approximately 25%.
+
+The, to speak about those one at a time, from a revenue standpoint. The only real headwind, I would highlight is really a purchase accounting, deferred revenue treatment headwind associated with the iWeb acquisition that simply put, we're cautiously optimistic we're going to be able to sell through that deferred revenue accounting headwind and achieve our 10% stated revenue growth goals.
+
+Having said that, from an EBITDA perspective, we're very confident even accepting the purchase accounting treatment that we will deliver at or above our 25% year-over-year EBITDA growth rate for iWeb.
+
+From a core organic growth perspective, we spoke about the three year compounded growth rate, if you break that down and look at our core revenue growth on a sequential basis, it was certainly, let's say a bit, or significantly below that. I think really what we're looking at is more timing related issues than anything fundamental and we would certainly stand behind our statement that on a, if you will, full year basis, we are expecting to deliver organic core data center services growth at or above the 15% roughly market growth rate for that business.
+
+Great. That's really helpful. And then just a follow-up on – maybe some of the products, I mean, AgileCLOUD could be a nice addition here, a nice value enhancer and there has been a lot of talk about a shift towards hybrid cloud models in general. Just maybe give us an update and sort of how you think about the product road map and where you're at here?
+
+Feel really good about the product portfolio we're taking to market today. As you say, there's a lot of talk about the hybrid deployments; cloud, Bare-Metal, dedicated, co-location, hybridized. Although I'll state most buying decisions today are influenced by that hybrid conversation, but they're not actually predominantly purchasing hybrid solutions. So in terms of Internap's current results, the most positive impact we're seeing is from our Bare-Metal Cloud, the AgileSERVER product, really compelling and attractive to customers seeking those high performance, high reliability benefits that the AgileSERVERs offer and we're seeing that manifest itself in growth rates for AgileSERVERs well above market growth.
+
+All right. Great. Thanks, Eric.
+
+Sure, Thanks, Dan.
+
+Thank you. I'm not showing any further questions in queue. I would now like to turn the call back over to Michael Nelson for any closing remarks.
+
+Thank you everyone for joining us today and for your interest in Internap. We look forward to providing you an update next quarter. Now I'll pass the call back to the Operator.

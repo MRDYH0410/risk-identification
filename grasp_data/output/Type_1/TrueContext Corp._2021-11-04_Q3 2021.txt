@@ -1,0 +1,164 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+Corey Cohen — Vice President, Virtus Advisory Group, Inc.
+Alvaro Pombo — Founder, Chief Executive Officer & Director, ProntoForms Corp.
+David Croucher — Chief Financial Officer, ProntoForms Corp.
+Gabriel Leung — Analyst, Beacon Securities Ltd.
+Kris Thompson — Analyst, PI Financial Corp.
+
+Management Discussion Section
+
+Question And Answer Section
+
+Good day and welcome to the ProntoForms Corporation Third Quarter 2021 Results Conference Call. Today's conference is being recorded. At this time, I would like to turn the conference over to Associate Director of Investor Relations, Corey Cohen. Please go ahead, sir.
+
+Thank you, Bettina. Good morning, everyone. Before we begin, I will read our cautionary notes regarding forward-looking information. Certain information to be discussed during this call contains forward-looking statements within the meaning of applicable security laws, including, among others, statements concerning the company's 2021 objectives, the company's strategy to achieve those objectives, as well as statements with respect to management's beliefs, plans, estimates and intentions and similar statements concerning anticipated future events, results, circumstances, performance or expectations that are not historical fact. Such forward looking-statements reflect management's current beliefs and are based on information currently available to management, and is subject to a number of significant risks and uncertainties that could cause actual results to differ materially from those anticipated.
+
+Also, our commentary today will include adjusted financial measures, which are non-GAAP measures. These should be considered as a supplement to and not as a substitute for GAAP financial measures. Reconciliations between the two can be found in our Management's Discussion and Analysis, which is available on sedar.com, and our website.
+
+And finally, please note that we now report in US dollars. All amounts discussed today are in US dollars, unless otherwise indicated.
+
+On that note, I will pass the line over to our CEO, Alvaro Pombo. Alvaro, please go ahead.
+
+Hey. Thank you, Corey, and thank you, Bettina. Good morning, everybody, and welcome to our company's conference call. Before I hand the call over to our CFO, Dave Croucher, to discuss the quarter's financials, I would like to take some time to discuss the ProntoForms business. We are pleased to report that our annual recurring revenue, ARR, increased by 3.2% in the 2021 third quarter, following 4.7% and 4.2% in the first and second quarters. Q3 growth in bookings was reduced by 1% – 1.1% churn caused by the discontinuation of our Mexico operator reseller agreement. This discontinuation is similar to what we saw in Q4 2020 with AT&T but at a reduced scale and is almost the end of this legacy channel. This – the discontinuation has the benefits of improving the quality of our base and focusing on the right type of customers.
+
+We continue on the journey of scaling our sales process, primarily around enterprise expansions. The combination of Mike Kramer, our new CRO, who joined us in July, the deployment of more sophisticated playbooks for expansion, better use case description, including tangible evidence of hard ROI, much clearer execution, good NPS and closeness to our base, are telltales of our evolution. The company has a steady growth curve as the enterprise base and has successfully done large expansions. We will accelerate growth to the next level when the above operates at scale. Those who attended EMPOWER'21, our user conference, saw evidence of what I'm describing.
+
+Speaking of customers, I want to reference a few great examples. A Fortune 500 oil and gas company did an initial deployment of ProntoForms in partnership with a leading EHS, environmental, health and safety, provider and quality solution to 700 field technicians to support their asset compliance and leaking inspection workflows. A Fortune 500 energy supplier deployed ProntoForms to their technicians to achieve step-by-step delivery workflows, transparent customer service and report generation capabilities.
+
+Also, a Fortune 500 building materials supplier expanded their commitment to ProntoForms by over 150 subscriptions. They use ProntoForms for quality and safety inspections with data collection that fuels operational analytics. Last, a global leader in fuel storage deployed ProntoForms to support their QA inspections and asset management workflows. ProntoForms is connected to their field service management platform. These are some of the examples of positive business outcomes that companies derived from our product, as well as the diversity and the continuum of solutions that people realize when deploying our product.
+
+I'm very happy with how our product is evolving in support of our strategy. Over the last quarter, we saw the deployment of features that facilitate our integration with Salesforce. We made further investments in that partnership, as well as with ServiceMax. And we are seeing great benefit of both new business and expansions with them. We're also packaging better the use cases we thrive in, as well as improving our ability to tell these stories within and across verticals.
+
+Everyone rightfully so is concerned about people these days. People and culture have been one of the key pillars of our company. We continue to amplify this great asset by investing more in people. We are recruiting for experienced enterprise sellers, so we're raising our sights to attract top talent to work for a great and experienced sales leader. Also, for technical resources, there is an increased demand for them. These people follow good teams with modern development stacks that deliver appreciated innovation, and guess what, we have those in place, too. I believe that environments with clear and segmented employee value propositions, underpinned by genuine trust, transparent culture, shared sense of purpose and growth with equitable pay, will continue to attract and retain good talent.
+
+As CIO – as CEO, I'm proud of what we continue to achieve. We are going to accelerate our pace of capturing this great market. It is an exciting time to be in this industry, but even more exciting to be servicing those field technicians that serve us all the time.
+
+I will now refer to Dave to discuss our financial results. Dave?
+
+Thank you, Alvaro. Good morning and nice to have everyone on the call. I'll go through the financial highlights, but I won't repeat all of the detail included in our MD&A. Total revenue in Q3 2021 was $4.9 million and – a 1% increase from Q2 2021 and an 8% increase from Q3 2020. Recurring revenue in Q3 2021 was $4.7 million, an increase of 2% sequentially and an increase of 15% year-over-year. Our annualized recurring revenue base or ARR as of September 30, 2021 was $19.3 million, representing an increase of 3.2% sequentially and 13.4% from September 30, 2020. The Q3 2021 growth of 3.2% followed 4.2% in Q2 and 4.7% in Q1. The Q3 growth was reduced by 1.1% churn from the discontinuation of our operator reseller in Mexico, as Alvaro already mentioned. After that churn, we're left with – operator reseller used to be the dominant part of our base, but after Mexico, we have 2.8% left of operator revenue in our base and that's spread around four different operators.
+
+Excluding the operator churn, we have seen relatively consistent bookings and retention that is an improvement over 2020 but not all the way back to pre-pandemic levels. Meanwhile, the base has been steadily shifting to more enterprise and more term commitment. Enterprise remains strong as customers with greater than $100,000 of ARR increased to 41%, from 40% last quarter and a year ago. With room to grow within existing enterprise accounts, we believe we are well-positioned to capitalize on this opportunity moving forward.
+
+Revenue from professional services was $229,000 in Q3 2021, down from $291,000 in Q2 and $494,000 in Q3 2020. Gross margin on total revenue for the third quarter was 84%, which is slightly down from 85% last quarter but an increase from 82% for the same period last year. Gross margin on recurring revenue was 89% compared to 90% last quarter and 91% in Q3 2020.
+
+Operating expenses in Q3 2021 were $5.1 million, a decrease of 1% sequentially and up 21% from Q3 2020. The increase in gross bookings in the second half of 2020 and into 2021, mainly in our key verticals, has reinforced or resolved to return to the pattern of investing more in product management and go-to-market activities around our key enterprise verticals.
+
+Loss from operations in Q3 2021 was $1 million versus loss from operations of $1.1 million in the second quarter of 2021 and a loss of $493,000 in Q3 2020. Net loss for Q3 2021 was $1.1 million compared to a net loss of $1.1 million in the second quarter of 2021 and a net loss of $610,000 in Q3 2020. Non-GAAP loss from operations for Q3 was $820,000, down from a loss of $950,000 in Q2 2021 and up from a loss of $344,000 in Q3 2020. Our cash balance at the end of September 30, 2021 was $6.5 million compared to $7.7 million at December 31, 2020.
+
+To conclude, 2021 so far is a contrast to the lower growth and lower EBITDA losses we saw in 2020. We are fortunate in our growing SaaS business so we can toggle the rate of spend faster or slower to match our growth. We're encouraged by the steadiness of our net bookings and by the progress we are making in adding new enterprise logos with strong potential for expansion. We are investing more in product and sales to push our go-to-market activities to take advantage. We want to get back to the compounding nature of growth and reinvestment in sales and marketing to get even more growth. We continue to get the benefit of mitigating our losses with cash flow from prepaid enterprise contracts. And we finished Q3 with strong cash position, and we feel that we have the resources that we need to push for more growth.
+
+That ends the financial section. I'll pass it back to the operator for questions.
+
+Thank you, sir. [Operator Instructions] Our first question today comes from Gabriel Leung of Beacon Securities. Please go ahead.
+
+Hey. Good morning and thanks for taking my questions. Dave, I missed the part in your discussion where you talked about what percentage of revenues are still coming from some of the older operator reseller agreements. And just to confirm, I think you said they're spread across four operators.
+
+That's right. Yeah. So after Mexico, which it's interesting because Mexico was the 1% – 1.1% churn and the customer base within Mexico was 92% SMB. If you look at what's left, it's 2.8% of our base and it's spread amongst four operators, three of them in Canada and one in South America. And if you look within that base, you – it's a different mix. There's some that are more – or less SMB to get more commercial and some enterprise, but I'd say that less than 50% of the remaining – of remaining 2.8% is SMB. So, that's always the highest risk-rated SMB. It's not what we're focused on.
+
+So, it means that less than what percent was SMB?
+
+Less than 50% of the 2.8%.
+
+Okay. Got you. Okay. Perfect. And so, just to confirm then, I guess as we look at the ARR, I guess, on a year-over-year basis, it's still going to be a tough compare with Q4 2020. But I guess as you go into Q1 of next year, the year-over-year comparable should be a lot easier in terms of what the growth rates will look like, right?
+
+Yeah. I think if you're – this quarter, if you're comparing to Q3 last year, we had the Q4 AT&T churn, which basically, we did end up slightly positive but that certainly had an impact on the overall growth. So, the 13.4% reflects flat quarter in there basically, right? So once we report Q4, then that will be gone and the comparatives will – you won't have to worry about that major churn.
+
+Got you. The – and just on the sales rep side, the – yeah, sorry, do you have an update on where the numbers are at right now relative to last quarter? Last quarter, I think it was 20 or so.
+
+Yeah. We're roughly about the same, might be down one or – I think we're just down one. But the sales team – Mike Kramer, our CRO, came on in July, and he's going through everything that he has in that group. And I think the one thing that he's identified is just adding a bit on the enterprise, just at the higher end of the salespeople, so getting some new reps that are more seasoned from an enterprise standpoint. And we realize that it's a competitive market out there and we have to make some compelling offers to get the right people. But all in all, I think the machine is producing at a reasonable pace. But for us, to get to the higher growth levels, we really need to add some talent at that level. So, that's the direction or that's kind of the status and where we're heading with that.
+
+Got you. One last question for me, Alvaro, can you talk a little bit about what you're prioritizing over the – I guess over the course of the remainder of calendar 2021 and into 2022 from a growth perspective, maybe some of the initiatives you plan on undertaking to accelerate growth over the coming year?
+
+Yeah. Yeah. Gabe, thanks for the question. Look, we've – you can see the company for several quarters growing at the pace that we've been reporting, and that comes almost all from the natural sales motions of the company. So how do we get to the next level of growth, I believe, is the enterprise expansion story. We've been investing on it. But the last leg of that investment came with the change in leadership and with attracting this new – I mean, another layer of enterprise sellers, not to replace, I mean, it's to augment and continue and accelerating that – those enterprise motions that they happen today. And – but we need to have enough scale because we have a wonderful base. I mean, it's 160 enterprise customers, large guys that they all are prone to expand in other use cases, et cetera. So, the investments have been consistent throughout the quarters. And the last piece of that is the sales – was the sales leadership and the new sales guys. So, we definitely have – we haven't changed our mind with regards to that.
+
+Another interesting fact is that the relationships with ServiceMax and Salesforce. So the partner side, there is another partner. They're moving. They're delivering leads. They're delivering expansions. They're working for us better than what we've anticipated. So those two components, it will take a little bit of time. None of these things happen overnight, but they're definitely on the right track.
+
+Got you. That's really helpful. And sorry, just had one last question for Dave. Just on the free cash flow side, are you able to provide any sort of guidance on expectations around free cash flow over the coming quarters? I know that they were slightly negative – or they were negative, I guess, over Q2 and Q3. I know a lot is due to timing of prepaids. But what sort of visibility do you have to, I guess, Q4 as it relates to how free cash flow is going to shape out?
+
+It should improve. I think Q2 and Q3 are the tougher quarters just seasonally, because as you said, in Q2, we have more outflow from prepaids on the expense side, and that – sometimes, that falls into Q3 as well. But Q4 tends to be our enterprise renewal period, Q4, Q1, and that always helps the cash just on a seasonality basis.
+
+Got you. That's really helpful. Thanks a lot for your time, guys.
+
+Pleasure. Thank you.
+
+Thank you, Gabe.
+
+We now have a question from Kris Thompson of PI Financial. Mr. Thompson, your line is now open. You may now post your question.
+
+Good morning, guys. Sorry about that. Maybe just to talk a bit more about the indirect sales strategy with Mexico pulling off, can you disclose quantitatively the percentage of your total billings today that are indirect versus, say, a year ago? And what channels you're seeing success, your system integrators or the hardware vendors? And what areas of geography or regional focus are starting to work for you guys?
+
+Sure. Maybe I'll start just with the numbers and I can pass it over to Alvaro. But when you say indirect, I mean, there's many different flavors. And the operator piece is what we were talking about. That used to be, well, probably 60% or 70% of our base at one point but predominantly small business. And over the years, that's melted away while our direct has really come through. And when we say direct, we also include other partners in there that are part of our stack, I guess, our technology stack that we sell along with. So, the operator piece is down to 2.8% and that's spread amongst a few. And some of those actually have that SI flavor to them as well. So it's a different type of customer, different type of sale. So, I feel like the risk is with AT&T going and Mexico now gone, that it's really down to very small.
+
+In terms of other channels, we kind of – we treat them a little differently. We treat them more as part of just lead sources. So, we have really good strong channels like ServiceMax and Salesforce and SIs that work with Microsoft and other SIs that work – that are strong fits in the field service management area that provide leads or even start bringing us deals.
+
+Now, in terms of how much they contribute to our bookings, it'll depend, but it's really all part of that mix between marketing, partners and outbound activity that were – that are fairly new for us as well. So, it's hard to – I'm – Kris, if you're trying to measure the risk, or really, the opportunity, it's two different things. But we kind of consider the opportunity as a whole balanced approach to go-to-market. But I can pass it over to Alvaro if he has any more to add on that.
+
+Yeah. Yeah. Kris, thanks for the question. Look, I mean, Dave described the past very well. And the future, as Dave said, I mean, on our new inbound – on our new opportunities and these lead sources, we have three main ones. I mean, marketing or, call, it inbound, that accounts for about 50% of the new to 60%. And then, the remaining piece is partners in different degrees of relationships. The majority of them, the way I look at them is in our paper or in their paper. And the majorities are sources of leads and things like the OpEx change in Salesforce and Salesforce vendors, et cetera, when we build on our paper and when we build on someone else's paper, which is the case of some of the ServiceMax relationships. So that 40%, I don't know, take 20% and 20%, I'll say. 20% goes in their paper, 20% in our paper or 15% in their paper, if that makes sense. Does that answer the question, you think?
+
+Yeah. Yeah. No, that's really good color. Thanks. And I mean, internally, I mean, how do you – how are you supporting that paper channel? And I guess what I'm asking is what's the revenue share? How do you incentivize those guys to put you guys onto the docket?
+
+Yeah. So look, the approach we take, again it varies, okay? But the majority of them is very much like a price of reselling to them, and then they embed that into their deals in whichever way they want. So, we are not – the advantage of those kind of relationships is that they own the customer. We support the customer, and after he's launched, we're very close to the customer, which is terrific for us. And because of the relationship, our product is a product that expands very well and people continue to iterate with it. However, the billing relationships, in some cases, they mark us up in a huge way, but basically, what we have is the transfer price, we have a clear approach for that, and from then on, we let them do whatever they wanted.
+
+Okay. That's helpful. And I've been following you guys for a number of years now and you've built a really special recurring revenue business. Just thinking a bit longer term, internally, when you're around the table in the boardroom, like what's target range for an EBITDA margin longer term, such that some of your incremental revenue starts to drop to the bottom line and into your cash?
+
+Yeah. Yeah. You started the question in a way that I was going to answer, but I'm glad you finished it in a way that I'm going to let Dave answer it, and then I'll take it back from him. Dave?
+
+Yeah. Thanks, Kris. I mean, as we mentioned earlier in the call, the advantage of having this growing SaaS model is that you can toggle that. And last year, we're able to take a defensive posture, and we actually turned positive for a couple quarters right in the early stages of the pandemic. So, that's -that was nice.
+
+When we look at our model, we always look at a five-year model. And certainly, for the first couple years of that, we want to be aggressive. And we feel that what's going to drive the value is increasing the base to get to the highest base amount and have the highest growth rate on that base amount. That's really what's going to drive the early value.
+
+And then, over time, as you get to those higher levels of base, then you toggle that back. And I think if you're looking at a nice mix of growth and EBITDA margin, we're always looking around that 40 – the Rule of 40. And once you establish that pattern of growth, then it's easier to let that critical mass take over and then get to that where you can toggle that back and have that nice mix of revenue growth and EBITDA margin.
+
+So, I – difficult to pinpoint. I mean, we don't provide guidance, but certainly around that Rule of 40 with a close to half and half split between growth and EBITDA margin. We're probably more weighted on the growth than the EBITDA margin, but certainly, everything is in play.
+
+Yeah. Kris, I'll add my piece. [indiscernible]
+
+(26:53)...
+
+Make sense?
+
+I was going to ask when you're going to hit the Rule 40, but, Alvaro, I'll let you go.
+
+No, I'd let Dave answer. Look, I think, I mean, as Dave has portrayed, we have a control on that lever, okay? And the way I look at the market and we look at the market is that we've gone through kind of three different markets in the existence of the company. And the market that we're in right now and the one – I mean, you heard about the Mexico stuff, the one that we've departed a long time ago, but there is still some of the – some of it that we're clearing. It's a very different market. So this enterprise market, which is the one that we've been focused on for a while, is a market where we see humongous opportunity. The product expands extremely well.
+
+Now, the expansion motions for any of you guys who've seen that, they're not that easy, okay, and not with a product like ours that traverse so many use cases and so many geographies. You really have to orchestrate that motion extremely well to maximize the benefit of it, and that's what we're perfecting. So based on what we see, the demand of it, the use cases that we have, we just want to press the gas pedal as hard as we – as it makes sense to do. We don't want to go bananas at it, et cetera, but we're very confident on what we're seeing and we're very confident on the opportunity.
+
+Now, field service is an interesting market, okay? It's just – it's – I'm not going to call it a weird market, but it's a market that behaves differently that, I don't know, if you're selling to the CMO or something. These are people that have very rigorous operational processes and timings, what they invest, et cetera, et cetera. So that's what we read the tea leaves on basically with that way. We're in a phase right now. Let's go for it.
+
+Okay. I understand. Just the last one for me, if you don't mind, sorry if I missed this, I think your head count was 150 at the last of – end of last Q. What is it now and like where should that – what are you thinking internally towards the end of the year and next year, just so we can get a handle on building your OpEx?
+
+Yeah. I think we're just a little above that right now. There has been some turnover, but we're still adding. And I think next year, probably increasing the head count by around 15% over the course of the year.
+
+And the turnover, was that forced or people just – is it competitive and tough to keep good talent?
+
+Competitive market. And we've put in some measures to help with that, and we feel like we've got a good program, as Alvaro mentioned earlier, on the people and culture side, that there's programs and then there's some turnover. I think a lot of people are seeing it, just people with short tenure that are out there in the market. And these times, when people are working from home, it's just – it's there. And we're putting in programs to really get the right people and keep them – onboard them properly and keep them motivated and interested in their careers here at ProntoForms.
+
+Okay. Yeah. Good to hear... [indiscernible]
+
+(30:27)
+
+Yeah, go ahead. Go ahead, Kris. You were going to say something.
+
+Oh, I was going to say I did participate in your recent user conference and the culture seemed really friendly, so for what it's worth.
+
+Yeah. Look, I mean, we're big on that. It's not me, because if it was me, it wasn't the culture, okay? So, it's we. We have a strong belief on people. And as I said on my note, and that's why I added it there on my – on what I was sharing, these people story – these people stories, you have to look at it segmented like any other market. And yes, there are some fluctuations in people that you onboarded during the pandemic with certain, call it, years of experience in their career. There are – there is a bracket there that has a higher propensity for churn, and I think we've identified and put in the measures in place.
+
+Then the tenured people and the people that have been with us and the new grads, the value proposition for them is very compelling. And I also – but we're not sleeping at the helm here. It's costing more, it requires more investment and the market is changing very quickly. So, we're on it all the time. I'm not saying that we are perfect at it, but I think we're better than average by far in dealing with the issue. But it's costing more, without any question.
+
+Understood. Thanks so much for taking my questions, guys. You have a great day.
+
+No, thank you, Kris. Good talking to you.
+
+Thanks, Kris.
+
+As there are no further questions at this time, I would like to turn the call back over to Alvaro Pombo for closing remarks.
+
+Hey, Bettina, thank you. You've done a great job. And thank you all for the questions and all the listeners.
+
+Here are my closing remarks. We plan to continue investing in our product and go-to-market, specifically in the enterprise. We are excited about what's ahead for the field service management market and how our offering fits in that market. We continue to see a next phase of growth for our customers in their adjacent geographies or in their next use cases and our company.
+
+I want to thank everybody for spending your time with us this morning, and as always, I would like to thank you for your continued support. Thank you, everybody.
+
+This concludes today's call. Thank you for your participation. You may now disconnect.

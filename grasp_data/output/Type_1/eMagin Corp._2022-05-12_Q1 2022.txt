@@ -1,0 +1,248 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+Mark A. Koch — Chief Financial Officer, eMagin Corp.
+Andrew George Sculley — Chief Executive Officer & Director, eMagin Corp.
+Kevin Dede — Analyst, H.C. Wainwright & Co. LLC
+
+Management Discussion Section
+
+Question And Answer Section
+
+Ladies and gentlemen, thank you for standing by, and welcome to the eMagin Q1 2022 Earnings Call. At this time, all participants are in a listen only mode. After the speaker presentation, there will be a question-and-answer session. [Operator Instructions]
+
+I would now like to hand the conference over to your speaker, Mr. Mark Koch, Chief Financial Officer. Please go ahead.
+
+Thank you, and good morning, everyone. Welcome to eMagin's first quarter 2022 earnings conference call.
+
+Before we begin, I would like to remind you that in the following prepared remarks and in our Q&A session, we will make statements about expected future results that may be forward-looking statements for the purposes of federal securities laws. These statements relate to our current expectations, estimates and projections, and are not guarantees of future performance. They involve risks, uncertainty and assumptions that are difficult to predict and may prove not to be accurate, especially in the light of the effects of the current pandemic.
+
+Actual results may vary materially from those expressed or implied by these forward-looking statements, and we undertake no obligation to update these disclosures. These forward-looking statements should be considered only in conjunction with the detailed information contained in our SEC filings, including the risk factors described in our 2021 Annual Report on Form 10-K.
+
+During this call, we will also refer to adjusted EBITDA, a non-GAAP financial measure, to provide additional information to investors. A reconciliation of adjusted EBITDA to net income, which is the most directly comparable GAAP financial measure, is provided in the press release that we issued this morning. Non-GAAP financial measures, such as adjusted EBITDA, are not meant to be considered in isolation or as a substitute for our GAAP financial measures and financial statements.
+
+With that, I will turn the call over to our CEO, Andrew Sculley.
+
+Thank you, Mark. And hello, everyone. Thank you for joining us today. On today's call, I'll provide some key takeaways from our quarterly results and provide color regarding our technological advances and equipment schedule. Mark will then discuss our consolidated results in greater detail.
+
+eMagin had a terrific first quarter, highlighted by display revenues of $7 million that were up 15% year-over-year. At the same time, our quarterly display revenue gross margin improved from 23% a year ago to 32% in the first quarter of this year. The quarter was marked by diversified sales and contract revenue, and we began to realize the contribution of the new engineering talent, as demonstrated by a 27% increase in display production from the first quarter of last year.
+
+The increase in gross margin was driven in part by a favorable sales mix, along with the impact of higher manufacturing volumes. We achieved continued growth in display revenue from our Enhanced Night Vision Goggle or ENVG-B program, with shipments to customers in NATO countries. Overall, as of the end of the first quarter, our backlog of open orders remained strong at $13.6 million, reflecting demand for our displays for use in thermal weapon sights, military night vision goggles and medical applications.
+
+In Q1, we continued our proof-of-concept display work for a tier-one AR/VR customer while designing and refining our production capabilities to satisfy demand for our high-brightness XLE displays and dPd microdisplays. We are in active discussions with several consumer companies, including tier-one OEMs regarding potential applications of our proprietary dPd technology.
+
+As you may know, our dPd technology supports directly patterning primary RGB color OLED emitters on our silicon backplane, which creates ultra-high brightness light output at ultra-high-resolution with brilliant colors. The 10,000 candela meter squared or nits, full-color brightness, high resolution and high contrast that we have achieved is beyond the threshold requirements for immersive AR and VR devices and will help to overcome inefficient optics and alleviate motion artifacts.
+
+Our R&D efforts continue to break new ground. During the quarter, we announced the award of four additional patents related to the creation of high-resolution displays with unique pixel structures and proprietary fabrication methods to further protect our market position as the only microdisplay company with dPd technology. Furthermore, we are designing a tandem architecture that will allow for dramatically higher luminance of our dPd displays and will ultimately leverage the full potential of the equipment we are acquiring under our Defense Production Act Title III and IBAS funding grants.
+
+On the production side of the business, we have completed a preliminary internal audit and expect to obtain AS9100 quality certification in Q4 of this year. We expect our quality control efforts will be additive to the yield and throughput improvements that should come from the new equipment acquired under the Title III and IBAS programs. We have already committed the funds and ordered all the equipment to be purchased under these programs.
+
+As of the end of Q1, we have qualified and added four pieces of equipment to our production line and received three additional pieces of equipment that have been installed and are currently being qualified. Additionally, we have five more major pieces of equipment on order, including an advanced production capable dPd organic deposition tool that is expected to improve yield and throughput of this innovative technology for the benefit of AR/VR customers. Overall, we are on track and on budget with the requirements of these important government grants.
+
+As noted in our earnings release, in April, we welcomed Kevin Trompak to the eMagin team as our new VP of Business Development. Kevin has more than 25 years of industry experience with expertise in advanced displays and the display value chain. He led global sales and business development for Veeco Instruments and was previously VP of Global Sales for H.C. Starck. Before that he was VP of Sales for GT Advanced Technologies.
+
+In closing, looking ahead, the key to displays for AR/VR are high-brightness, high-resolution, high-contrast OLED microdisplays. We're on a path with tandem direct pattern displays to reach about 20,000 candela per meter squared or nits peak luminance. This is about a two-year program. The new dPd OLED tool will be qualified in time to make this in manufacturing at moderate volumes. These displays will have better efficiency and better lifetime when run even at low luminance.
+
+With that, I'll turn the call over to Mark, who will discuss our financials.
+
+Thank you, Andrew. And hello, everyone. Starting with the top line. As Andrew noted, total revenues for Q1 of 2022 increased to $7.4 million compared with $6.8 million reported in the prior year period. Total revenue consists of both product revenue and contract revenue.
+
+Product revenues for Q1 of 2022 were $7.0 million, an increase of $0.9 million from product revenues of $6.1 million reported in the prior year period. The year-over-year increase in display revenue resulted primarily from higher shipments to customers in NATO countries and shipments of displays used for the ENVG-B program.
+
+Contract revenues were $0.3 million compared with $0.7 million reported in the prior year. This reflects the pace of development work associated with the contract of a tier-one consumer company. eMagin is continuing to work on a proof-of-concept and anticipates ongoing contract revenue with this customer.
+
+Total gross margin for the first quarter was 34% on gross profit of $2.5 million compared with gross margin of 25% on gross profit of $1.7 million in the prior year period. The increase in gross margin primarily reflects increased product revenues and the impact of higher average selling prices in the current year period due to price increases and a favorable sales mix combined with the impact of higher manufacturing volumes.
+
+Operating expenses for the first quarter of 2022, including R&D expenses, were $3.7 million, which were comparable to the prior year period. Operating expenses as a percentage of sales were 51% (sic) [50%] (00:10:20) in the first quarter of 2022 compared with 54% in the prior year period. Operating loss for the first quarter of 2022 narrowed to $1.2 million compared with an operating loss of $2.0 million in the prior year period, primarily reflecting the increased gross profit, as mentioned above.
+
+Net loss for the first quarter of 2022 was $0.1 million, or $0.00 per share. After adjusting for the change in the fair value of the warrant liability, net loss for the first quarter of 2022 was $1.3 million, or $0.02 per share on a fully-diluted basis, compared with a loss of $7.4 million, or $0.10 per share in the prior year period. Excluding the impact of the $7.2 million change in the fair value of the warrant liability for the prior year period and the gain on forgiveness of a PPP loan, net loss for the first quarter of 2021 was $2.1 million, or $0.03 per share.
+
+Adjusted EBITDA for the first quarter of 2022 improved to negative $0.2 million compared with the positive $0.8 million in the prior year period. Excluding the $1.9 million gain from the forgiveness of the PPP loan in the year ago period, adjusted EBITDA would have been negative $1.2 million in the first quarter of 2021.
+
+As of March 31, 2022, the company had cash and cash equivalents of $3.9 million and working capital of $11.4 million. During Q1, the company repaid $0.5 million under its asset-based lending facility. Borrowings and availability under the ABL facility were $1.5 million and $2.3 million (sic) [$1.4 million] (00:12:21), respectively, as of March 31, 2022. Also, during the quarter, the company realized $0.5 million in net proceeds from sales of common shares under our ATM program.
+
+With that, we will open the call for questions. Operator, please go ahead.
+
+Thank you. [Operator Instructions] We do have a question from Kevin Dede with H.C. Wainwright. Please go ahead.
+
+Good morning, gentlemen. Thanks for having me.
+
+Good morning, Kevin.
+
+Good morning, Kevin.
+
+I've got a list of questions per usual. If I go too long, just kick me off.
+
+Sure thing, Kevin.
+
+Can we talk about the display shipment? I think you said a 27% increase in year-over-year volume. Is that just the number of displays?
+
+Yeah. Kevin, that was the increase in display production. So, I mean, the actual...
+
+Okay.
+
+...revenues were up 15%, but for us that's a good number. It's an indication that our equipment is functioning. We did not have any equipment malfunctions. So, we were – just hit our stride this quarter in terms of producing displays.
+
+Great. Can we talk a little bit about, granted, levels remain pretty strong after the fourth quarter, and I know you alluded to the ENVG and also demand in Europe, and I'm wondering if you could sort of disaggregate that for us a little bit in terms of what you think may have been instigated by the Russian invasion?
+
+Andrew, do you...
+
+Just let me mention one thing on the shipments to NATO, we mentioned about that, we can't say how much is due to the Russian invasion, if you will. But certainly, the bookings we had, for example, in the last month, April, you would have expected 50% US and 50% outside the US, which isn't all NATO, but we had very large percentage of bookings for NATO. Now, remember, bookings go from now until for one year. So, we expect that NATO countries are going to be ordering more of the displays for the things that we see them put the displays in. And we already have customers there. Mark, you want to add to that, or Amal?
+
+No. Yeah, I think that's accurate. I mean, I think we saw close to $1 million increase in revenue from those customers located in NATO countries. But I guess, to be fair, those orders were placed before, I think, it was the end of February, the invasion, but as Andrew said, we are seeing some encouraging bookings in April. So, we're hopeful this would be a trend that continues.
+
+Do you need to follow up on that, Kevin?
+
+We did lose Kevin. So, now we have a question from [ph] Mike Wells (00:16:21). Please go ahead.
+
+Hi, guys.
+
+Hey, [ph] Michael (00:16:26).
+
+Hi, [ph] Michael (00:16:27).
+
+I just have a few questions here. And Andrew, I would like to start with a question on the 4K design. And...
+
+Yeah.
+
+...if I remember right, at one point, the idea there was that that could be a common display that several consumer companies would use. I'm wondering if that ever gained any traction, do you still expect that maybe more than one consumer company would look at using that same display just the way that it is?
+
+Well, the 4K that we have designed really is a prototype. So, we did that to quickly do the backplane and then put some OLED on it. So, we have a ways to go on that. But the customer, who asked us to design that display actually paid us to design the display, is willing to have it shared by others. Right now, we are tied up with another company in terms of all our efforts are going towards producing their new display. They're not willing to share. So, my point is, on the 4K, we'd have to re-spin that to make it a display that everyone might use before everyone uses it.
+
+Okay. Okay. [ph] More (00:17:55) I was getting at, if you're finding that each one of these companies has their own unique needs or is it – or as far as, like, when you say re-spinning it, that's something that could happen, like, pretty easily?
+
+Well, certainly, re-spinning it is easy. We found that everybody we talked to has a little tweak, if you will, but everybody has the same if – let's do a VR display, because that's easy enough to understand. Everybody wants a wide field of view and they want the number of pixels in every degree of that field of view to be good enough so that you don't have any screen door effect. So, if I take a 100-degree field of view and I want 40 pixels per degree, I need 4,000, and that's where the 4K display came from. They also want it very bright, and they want it very bright because they want the display to have no motion artifacts. And that can only occur if you have the display actually lit for 10% of every frame. And so, when you put all those things together, the display that we made is what many people would like. And re-spin of a display would take a little bit of time because of the design of the wafer.
+
+But the other thing you have to remember is that in order to make it in mass production, it would obviously need a mass production partner. Certainly, we can make the displays when the Title III equipment is in. And that Title III equipment will be sent to us and installed at the end of this year, but then, we need time to qualify it for it. So, think of the second half of next year. And then, we'll be able to make the display, the 4K type displays, with the direct patterning in production at a volume that we do today or at volumes we do today. So, that's why we're very excited. It will be able to be demonstrated and used by many people.
+
+Okay. Maybe turning to the other design that you were talking about, where most of your efforts going into right now. I think you've been at this proof-of-concept work for a while now.
+
+Yes.
+
+I wanted to just kind of check in and see you might be able to give us any idea of how close you might be there with that customer. I would guess that that 10,000 nits was a pretty big milestone to hit, but there must still be some other boxes to check off the list. Is that something that you see happening sometime in the near term here, or is there any...
+
+Well, certainly....
+
+... [ph] further color that you can add (00:20:56)?
+
+The 10,000 nits was important because it was the minimum that they wanted. And by the way, the same is true for the 4K company. So, we just hit that as of the fourth quarter of last year. And that was important. Now, there's – obviously, we can produce the – put the OLED, we design the wafer, we can put the OLED on the wafer, but the customer has some work to do, too, right, at the very least, build the headset and test it. So, that – the next step is in their hands.
+
+Okay.
+
+And I can't tell you what their timing is.
+
+Okay. I was... [indiscernible]
+
+(00:21:43)
+
+And it's more complicated than what I'm telling you. But, I can't give you any more information because the customer, we need to maintain their...
+
+Yeah.
+
+...secrecy.
+
+Okay. I was more trying to get a better idea of when that customer might feel comfortable enough with the proof-of-concept that they would say, let's go for this and let's start talking to this manufacturing partner and getting this going.
+
+Yeah. I certainly can't give you that timing because it would be a conversation between us and them. But...
+
+Okay.
+
+...they are highly interested in this.
+
+Okay. All right. Thank you. And maybe this last question might be for Mark. I know you kind of put some information out there on the ATM and you've been proceeding pretty conservatively with that, which I think, given the market conditions and stuff, from my point of view, it's good to see. I just wanted to see if you could share any thoughts behind that, is that kind of the playbook going forward is just kind of conservative with that, and maybe just any outlook for a cash breakeven in the quarters ahead, if you're comfortable sharing that?
+
+Yeah. Well, [ph] Michael (00:23:17), I think we are – I guess, this quarter we got close, right? We were negative $182,000 of EBITDA. We did have some about $600,000 of non-IBAS Title III CapEx, which we expect to decrease as we go forward. I mean, we're looking toward the second – latter half of the year to get to near cash breakeven. So, I mean, the answer is we're considering – we'll continue to be conservative with the ATM. We want to manage any potential dilution and we're – I guess, the good news for this quarter is we were near breakeven on an EBITDA basis.
+
+Okay. I appreciate that, and congrats on the margin improvement, too. That was really nice to see. So, I think that's everything for me. So, good luck as you move forward there.
+
+Thanks, [ph] Mike (00:24:24).
+
+Thanks, [ph] Michael (00:24:25).
+
+Thank you, [ph] Mike (00:24:26).
+
+And we do have a follow-up question from Kevin Dede with H.C. Wainwright. Please go ahead. [ph]
+
+That's fell (00:24:37) again, gentlemen. Apologies. I fell off the line.
+
+No problem.
+
+Yeah. So – yeah. Can you talk a little bit about the F-35 and the OLED design there? Would you mind offering status update? I think you may have talked a little bit about it year-end call, wondering if anything's changed there that you think is important?
+
+Well, we certainly have supplying the F-35 for – with some of our OLED displays where they are and in which aircraft, et cetera, they're putting it in. They don't share with us. So, that's still moving.
+
+Okay. How about alternate airframes? I know there was some talk you've offered last year, Andrew, about helicopters. I understand that I think the big driver is still ENVG, but just interested in hearing what might else be coming down the defense [ph] pipe (00:25:47)?
+
+Well, there are other aircrafts that have used our displays, notably a couple of helicopters, and those are still going. ENVG is a big thing for us, of course. And if you're interested in more, we are working on additional – we do supply displays for additional programs. Every time there's a request for a program, primes know us well, and we work with the primes to get it in. In fact, we have done that for a quote on a thermal weapon sight to a number of primes.
+
+Okay. Change gears a little bit. Understand the Quest 3 design might be OLED. I was wondering if you've been able to look at it, or what you've heard the technology that's being considered in scale, design of that program?
+
+No, I have not seen the Quest 3.
+
+Okay. You mentioned tandem for 20,000 nits, Andrew. Is that the dual-stack technology? Is that what you're going to – will you need the new equipment that you referenced being coming operational second half of next year in order to get there?
+
+Oh, thank you. Yeah. Tandem is the term that was given by the – long time ago, from that company that it is given credit for inventing OLED. Some other people are calling it dual-stack, but tandem is, if you're doing a tandem architecture, it can be two stacks, three stacks, et cetera. But in this case, we would put two stacks with direct patterning. It's easier to do if you do it for individual colors; red, green and blue. So, direct patterning is easier to do than a common white color tandem. There are problems with the common white color in terms of the white point at luminance, varying luminance that is.
+
+So, it's easier to do for us. And we can do it on our R&D tool. To do it in production, it would be very good to have the new tool in and running. And that's the idea. That tool was designed to be able to do direct patterning and tandem architectures. So, when the tool is in at the end of this year and then qualified in the beginning of next year, then we'll be able to produce tandem displays in manufacturing.
+
+Well, will the new tool also enable an increase in display size, or will you still need to stitch in order to get the – I think, that 4K design?
+
+Okay. So, the stitching problem comes about on two places. One of them is the foundry. The foundry cannot do anything more than 26 x 33, and there's a plus or minus – or minus a little bit on some foundries as well, and those are millimeters, and that's the size of the display that it can be done in one shot. If it's bigger than that, it has to be multiple shots. The 4K is doing 2.1 inch in diagonal. So, yes, it's bigger than that. So, it has to be stitched at the foundry level. And then, when you look at us, we put down the anode and we would have to stitch it, too.
+
+And I'll just point out that the 4K display, no one has said that there's any stitching artifacts that they could see. And we're showing the displays during this week at Display Week. So, we had many companies come in and look at it and no one can see any stitching artifacts. And if you could see the stitching artifact, it would be from on our side, because the foundry, the only issue is trying to fit all the transistors and the capacitance in a smaller space on the subpixel that is along the stitching line. So, we can't correct change in the foundries. So, yes, it'll have to be stitched.
+
+Thank you.
+
+But let me mention one other thing. One of the key things, when we did the 4K display, we did it so that we could get the design quickly. And we're doing another – we've done another design that was recommended by us in order to, still stitch the display, but get the cost down on the foundry side. And so, that's what we have done with this other tier-one. And I think this will be a very good demonstration.
+
+My understanding is that display cost is a pretty big issue and, obviously, addressing the consumer market, could you give us sort of a relative comparison on the costs that you've been able to eliminate and where you think the cost per display has to go in order to address the mass market?
+
+It's a good question, of course. Actually, the mass market side, well, the costs that we've been given are actually from working with individual customers. So, I'm a little bit worried about divulging their opinion. But certainly, some customers have said to us, around $100, less than $100, and what we've done is put together models based on the foundry, who we've worked hand-in-hand with a foundry on this new technology that we have thought of using, and then we've worked with them to give us estimates of the costs. And we've put together a model of a large fab with consumer volume and estimated the cost on that and shared that with the 4K customer, for example. And we got really close to their goal. And I think the tier-one that we're working with now would not be doing this unless the cost is close to their goal. But they haven't shared their goal with us.
+
+Well...
+
+So, I think...
+
+...congratulations on that progress.
+
+Yeah. Thank you. I think it's what we have done and what we have shown in our estimates are very exciting for the consumer companies. And we've had a number of them sit down with us – and we've done it before with many of them – but sit down with us again and talk about next steps, get a chance to look at the 10,000 nit display. Actually, it's over 10,000 nits. And then, there are new customers coming to see that are very excited about working with us.
+
+I was hoping Mark could help me understand a little bit about the deferred income that you're showing on the liability side of the balance sheet. Mark, I know it's – I mean, it's up year-over-year very significantly. Can you just offer a little background on that and the accounting behind it?
+
+Yeah, sure, Kevin. So, that represents the funds we've got from government grants. So, just bear with me for a little example. If we got, say, $5 million in a government grant, we would basically increase our PP&E $5 million and then set up this deferred income for the government award. So, that's step one. Step two, as we depreciate that equipment typically over seven years, we will actually relieve the government grant liability and take that to income over the seven years commensurate with the depreciation.
+
+So, it's a specialized type of accounting when a company receives a grant because – on a macroeconomic basis, we've gotten a grant, which is sort of something for nothing in a way. So, it's a pickup to the company, right, it's an income to the company. So, that reflects the fact that we've continued to make progress payments as we moved through this program. So, we made close to $6 million in progress payments funded by the government. So, therefore, that deferred liability goes up.
+
+Okay. I guess I'm looking at the cost side, as that depreciation goes through your P&L, it's going to look like you're not going to have an offset for it and that will depress earnings. How... [indiscernible]
+
+(00:35:44)
+
+Yeah. So, actually...
+
+Obviously, you've taken the equipment now, you've got the equipment on board now. So, you must be depreciating it. Can you give us a ballpark on how much depreciation is related to that $18 million that you're showing?
+
+Well, actually, it's even a little more nuanced than that. So, most of the equipment at this point is progress payments to vendors, and then we have received four pieces of equipment, which are going through qualification. So, to get into the weeds of the accounting, we don't start depreciating until the equipment is "placed in service," which means that it's actually producing displays. So, at this point, I think it was just $100,000 or $200,000 of depreciation in the current period is from the equipment that came online really later in the fourth quarter. And the rest of the equipment, we're still making progress payments to vendors. It's all been designed. It's specified. So, so far, not a lot of depreciation going through.
+
+But then, the offset to the depreciation, which will show up in our gross profit or margins, is we will amortize this deferred grant to income. So, the net impact on the P&L will be zero, because, as we depreciate it over seven years, we'll realize that deferred liability to income over seven years. The geography on the P&L will be a little different with the – that amort – amortizing the deferred revenue will come through and other income below the line. So...
+
+Okay.
+
+...again, somewhat unusual. It's – so, we'll have no impact on the net loss.
+
+Okay. Including tax effect?
+
+Yeah. Yeah. I mean, right now, we're in an NOL position. So, there is no tax effect.
+
+Okay. Okay. Thank you for entertaining my questions, gentlemen. Really appreciate all the color.
+
+Thank you.
+
+Thank you, Kevin. You should have been at Display Week.
+
+And speakers, I'm showing no further questions in the queue at this time. I will now turn the call back over to CEO, Andrew Sculley, for any further remarks.
+
+Well, thank you very much, everyone. This is an exciting time, and we are performing very well in terms of our display technology. And let me remind you that the IBAS Title III equipment is going in very well and the new tool will be in qualification during the first half of next year, and that we'll be able to produce the tandem direct pattern displays. Thank you very much.
+
+Thank you.
+
+Ladies and gentlemen, this concludes today's conference call. Thank you for your participation. You may now disconnect.

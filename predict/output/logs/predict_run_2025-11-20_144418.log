@@ -1,0 +1,40 @@
+nohup: ignoring input
+[Paths]
+  IN_DIR : /home/ubuntu/project/identification/output
+  OUT_DIR: /home/ubuntu/project/predict/output
+  LOG_DIR: /home/ubuntu/project/predict/output/logs
+  VERIF  : /home/ubuntu/project/predict/output/verification
+  A_MIJ  : /home/ubuntu/project/identification/output/a_mij__sentence_ctx.csv
+  SENT   : /home/ubuntu/project/identification/output/sentences_scored_llm_ctx.csv
+[SELF-CHECK][inputs] {'a_mij_company_count': 192, 'sentences_company_count_total': 192, 'sentences_company_count_by_z': {1: 81, 2: 95, 3: 16}, 'companies_intersection': 192, 'companies_union': 192}
+[WRITE] /home/ubuntu/project/predict/output/logs/a_mij_clean.csv rows=3528
+[WRITE] /home/ubuntu/project/predict/output/logs/s_ijz_pool.csv rows=144
+[WRITE] /home/ubuntu/project/predict/output/logs/s_m_ijz_agg.csv rows=34300
+[WRITE] /home/ubuntu/project/predict/output/logs/labels_y.csv rows=192
+[WRITE] /home/ubuntu/project/predict/output/logs/fijz_logratio.csv rows=144
+[WRITE] /home/ubuntu/project/predict/output/logs/features_X_base.csv rows=192
+[WRITE] /home/ubuntu/project/predict/output/logs/features_prior.csv rows=192
+[WRITE] /home/ubuntu/project/predict/output/logs/features_full.csv rows=192
+[SPLIT] train=154 companies, val=38 companies
+/home/ubuntu/.local/lib/python3.10/site-packages/sklearn/linear_model/_logistic.py:1272: FutureWarning: 'multi_class' was deprecated in version 1.5 and will be removed in 1.8. From then on, it will always use 'multinomial'. Leave it to its default value to avoid this warning.
+  warnings.warn(
+[WRITE] /home/ubuntu/project/predict/output/verification/preds_train.csv rows=154
+[WRITE] /home/ubuntu/project/predict/output/verification/preds_val.csv rows=38
+[WRITE] /home/ubuntu/project/predict/output/preds_multinomial.csv rows=192
+[WRITE] /home/ubuntu/project/predict/output/verification/confusion_matrix_val.csv rows=3
+[WRITE] /home/ubuntu/project/predict/output/logs/coef_multinomial_long.csv rows=177
+[PLOT] /home/ubuntu/project/predict/output/feat_importance_top25.png
+[PLOT] /home/ubuntu/project/predict/output/feat_importance_z1_top15.png
+[PLOT] /home/ubuntu/project/predict/output/feat_importance_z2_top15.png
+[PLOT] /home/ubuntu/project/predict/output/feat_importance_z3_top15.png
+[PLOT] /home/ubuntu/project/predict/output/confusion_matrix_val.png
+
+[Evaluation]
+  train_acc: 0.7532
+  train_f1: 0.7378
+  val_acc: 0.5526
+  val_f1: 0.3987
+[SELF-CHECK][inputs vs preds] {'preds_company_count': 192, 'preds_by_z_star': {1: 92, 2: 90, 3: 10}, 'input_sentences_company_total': 192, 'input_a_mij_company_total': 192}
+
+[Done] ✓ logs→output/logs, verification→output/verification, figures→output/
+         preds_multinomial.csv → output/  (供 attribution.py 使用)

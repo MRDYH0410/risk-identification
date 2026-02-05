@@ -1,0 +1,25 @@
+nohup: ignoring input
+[Paths]
+  IN_DIR : /home/ubuntu/project/identification/output
+  OUT_DIR: /home/ubuntu/project/predict/output
+  A_MIJ  : /home/ubuntu/project/identification/output/a_mij__sentence_ctx.csv
+  SENT   : /home/ubuntu/project/identification/output/sentences_scored_llm_ctx.csv
+[WRITE] /home/ubuntu/project/predict/output/a_mij_clean.csv rows=3528
+[WRITE] /home/ubuntu/project/predict/output/s_ijz_pool.csv rows=144
+[WRITE] /home/ubuntu/project/predict/output/s_m_ijz_agg.csv rows=3528
+[WRITE] /home/ubuntu/project/predict/output/labels_y.csv rows=192
+[WRITE] /home/ubuntu/project/predict/output/fijz_logratio.csv rows=144
+[WRITE] /home/ubuntu/project/predict/output/features_X_base.csv rows=192
+[WRITE] /home/ubuntu/project/predict/output/features_prior.csv rows=192
+[WRITE] /home/ubuntu/project/predict/output/features_full.csv rows=192
+/home/ubuntu/.local/lib/python3.10/site-packages/sklearn/linear_model/_logistic.py:1272: FutureWarning: 'multi_class' was deprecated in version 1.5 and will be removed in 1.8. From then on, it will always use 'multinomial'. Leave it to its default value to avoid this warning.
+  warnings.warn(
+[WRITE] /home/ubuntu/project/predict/output/preds_multinomial.csv rows=192
+[WRITE] /home/ubuntu/project/predict/output/coef_multinomial_long.csv rows=177
+[WRITE] /home/ubuntu/project/predict/output/feat_importance_sumabs.csv rows=59
+
+[Evaluation]
+  accuracy: 0.7188
+  macro_f1: 0.6471
+
+[Done] ✓ All artifacts are in predict/output/

@@ -1,0 +1,282 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+Christopher T. McKee — General Counsel and Executive Vice President, Corporate Development, GTT Communications, Inc.
+Richard D. Calder — President, Chief Executive Officer & Director, GTT Communications, Inc.
+Michael T. Sicoli — Chief Financial Officer, GTT Communications, Inc.
+H. Brian Thompson — Founder & Executive Chairman of the Board, GTT Communications, Inc.
+Scott Goldman — Analyst, Jefferies LLC
+Timothy Horan — Analyst, Oppenheimer & Co., Inc.
+Jonathan Charbonneau — Analyst, Cowen & Co. LLC
+George Frederick Sutton — Analyst, Craig-Hallum Capital Group LLC
+Walter Piecyk — Analyst, BTIG LLC
+Jim D. Breen — Analyst, William Blair & Co. LLC
+Brandon Nispel — Analyst, KeyBanc Capital Markets, Inc.
+
+Management Discussion Section
+
+Question And Answer Section
+
+Good morning, and welcome to the GTT Communications Third Quarter 2017 Financial Results Conference Call. All participants will be in a listen-only mode. [Operator Instructions] After today's presentation, there will be an opportunity to ask questions. [Operator Instructions] Please note this event is being recorded.
+
+I would now like to turn the conference over to Chris McKee, General Counsel and Executive Vice President of Corporate Development. Please go ahead.
+
+Thank you and good morning. I'm joined today by Rick Calder, GTT's President and CEO; Mike Sicoli, GTT's Chief Financial Officer; and Brian Thompson, Executive Chairman of the Board.
+
+Today's discussion is being made available via webcast through the company's website, www.gtt.net. A replay of this call will be available for one month. Dial-in information for the replay, as well as access to a replay of the webcast is also available on our website.
+
+Before we begin, I want to remind you that during today's call, we'll be making forward-looking statements regarding future events and financial performance made under the Safe Harbor Provisions of the U.S. securities laws, including revenue and margin expectations, projections and references to trends in the industry and GTT's business.
+
+We caution you that such statements reflect our best judgment as of today, November 2, based on factors that are currently known to us and that actual future events and results could differ materially due to a number of factors, many of which are beyond our control.
+
+For a more detailed discussion of the risks and uncertainties affecting our future results, we refer you to our SEC filings. GTT disclaims any obligation to update or revise these forward-looking statements to reflect future events or circumstances.
+
+During the call, we'll also discuss non-GAAP financial measures, including certain pro forma information; which were not prepared in accordance with GAAP. A reconciliation of our GAAP and non-GAAP results is provided in today's press release and is posted in the Investor Relations section of our website.
+
+I'll now turn the call over to Rick Calder. Rick?
+
+Thank you, Chris. And good morning, everyone. GTT delivered another good quarter of revenue and adjusted EBITDA growth. Revenue grew 51% and adjusted EBITDA grew 75% compared to last year. In addition, we continued to drive margin expansion as adjusted EBITDA margin increased by nearly 400 basis points from last year. We also made significant progress on our various initiatives to increase rep-driven growth, completed the Hibernia Network integration and closed the Global Capacity acquisition.
+
+Global Capacity, which closed on September 15, grows GTT's client base adding marquee clients in the healthcare, application service provider, retail, and carrier markets with highly complementary recurring revenue streams, augments GTT's software-defined wide area network service with diverse access options, including an extensive on-net Ethernet over Copper infrastructure and expand scale and network reach with last-mile connectivity to nearly 10 million U.S. commercial addresses from 41 points of presence or PoPs and 1,750 central offices.
+
+Our integration of Global Capacity is progressing well, with organizational integration already complete and systems and network integrations well underway. We expect to complete this integration and associated synergy realization within two to three quarters and to achieve a multiple of post-synergy adjusted EBITDA of 5 times or better.
+
+As with some of our past acquisitions, Global Capacity's revenue base has been shrinking, largely driven by a tail of small and medium business accounts. As a part of the larger GTT, we are moving all SMB accounts to a separate division and expect that our entire business, inclusive of Global Capacity, will return to double-digit growth in the second half of 2018 after we complete integration.
+
+On the rep-driven growth front, we are now two quarters into our enterprise, carrier and EMEA division strategy, and we are seeing positive results. We now have approximately 145 quota-bearing reps, with a target of 200 by mid-2018. We have also made significant progress in hiring the quoting, pre- and post-sales support, service delivery, and sales management resources needed to maximize success for our reps and drive industry-leading productivity. Software-defined wide area networking or SD-WAN, has become a big driver of activity in our business. Virtually every opportunity we participate in requires us to demonstrate our SD-WAN capabilities, and we have a number of orders in progress and live trials underway.
+
+GTT is uniquely positioned to succeed with SD-WAN, given our Tier 1 Internet backbone, extensive field service workforce, and deep experience offering diverse, cost-effective access solutions, and providing value-added managed equipment services. We expect SD-WAN to be a highly-disruptive force in our industry in the coming years, and no provider is better positioned than GTT to benefit from this disruption, and take share from the large, inflexible and expensive telco incumbents. With no legacy base to protect, we are completely focused on driving growth with SD-WAN.
+
+GTT also continues to be honored with awards. Earlier this week, we were recognized as a Fortune Future 50 company. Fortune and Boston Consulting Group review 2,300 publicly traded U.S. companies and ranked the Future 50 firms based on a market view of growth potential and assessment of the firm's actual capacity to deliver that growth, based on the firm's strategy, technology and investments, people and structure.
+
+In addition, we've been recognized by the Washington Business Journal for the fourth time as one of the 50 Fastest Growing Companies in the Washington Metro region and recently won multiple Stevie Awards at the 14th Annual International Business Awards. These accolades reflect GTT's rapid growth and increasing leadership in the market and the outstanding contributions of the entire GTT team. We are grateful for this recognition.
+
+In early October, we acquired Transbeam, a provider of managed data and voice services to enterprise clients in the Northeast U.S. This smaller acquisition enhances GTT's position in the biggest market in the U.S., New York. We expect to complete the Transbeam integration and associated synergy realization in the same timeframe as Global Capacity within two to three quarters and to achieve a multiple of post-synergy adjusted EBITDA of 5 times or better.
+
+While our near-term focus is on completing the integrations of Perseus, Global Capacity and Transbeam, our funnel of both large and small acquisition opportunities remains strong. Consistent with our strategy, we expect to pursue additional acquisitions in 2018 using our proven approach of targeting opportunities with a strong strategic fit that could be successfully integrated quickly and that can be purchased at a highly accretive post-synergy price.
+
+The Global Capacity and Transbeam acquisitions have now put us well within reach of our previously announced financial objectives. So, in keeping with our track record of consistently setting and achieving bold growth targets, today, we are establishing our next set of financial objectives of $2 billion in revenue and $550 million in adjusted EBITDA within four years or less.
+
+In summary, we are excited about the momentum in our business right now and look forward to continued strong growth for the remainder of 2017 and 2018.
+
+Now, I'll turn the call over to our CFO, Mike Sicoli, for a view of the numbers. Mike?
+
+Thanks, Rick. Third quarter revenue of $198.9 million, grew 51% year-over-year and 7% sequentially. This includes $6 billion of deferred revenue amortization from prior prepaid capacity sales. Third quarter adjusts EBITDA of $56.2 million grew 75% year-over-year and 5% sequentially. Acquisitions accounted for most of our year-over-year growth, with Hibernia being the largest component.
+
+Global Capacity results were included starting September 15, adding approximately $8 million to revenue and $500,000 to adjusted EBITDA in the quarter. On a pro forma basis including Hibernia and Global Capacity in prior-period results and in constant currency, revenue grew 6% year-over-year and adjusted EBITDA grew 10% year-over-year.
+
+Hibernia and Global Capacity lowered our pro forma growth based on their pre-close trajectories, but as Rick mentioned earlier, we expect to return to double-digit growth in the second half of next year. Adjusted EBITDA margin of 28.3% expanded by 390 basis points compared to last year and contracted by 60 basis points compared to last quarter. Year-over-year margin expansion was driven by higher gross margin, mainly due to Hibernia's on-net model, lower SG&A as a percent of revenue due to scale and operating leverage and synergy realization, all of which more than offset our investments in additional head count to accelerate rep-driven growth.
+
+The sequential margin compression was driven by the inclusion of Global Capacity, which carries lower standalone margins. Excluding Global Capacity, our adjusted EBITDA margin would have risen by approximately 30 basis points sequentially.
+
+Going forward, now that Global Capacity will be fully included in our results, we expect near-term adjusted EBITDA margins to drop into the mid-20% area. We continue to expect that we will grow margins back into the upper-20% area by mid-2018 once we fully realize the synergies associated with all of our recent acquisitions.
+
+We estimate that there's approximately $45 million to $50 million of annualized adjusted EBITDA yet to be realized from our recent acquisitions, including the final installment of Hibernia synergies, now that their network integration is complete, most of the Perseus synergies as we deferred certain integration activities until we close Global Capacity, and substantially all of the post synergy adjusted EBITDA associated with the Global Capacity and Transbeam since they closed in mid-September and early October respectively.
+
+We recognized $3 million of transaction and integration costs related to acquisitions during the quarter, which are included in our reported SG&A but excluded from adjusted EBITDA. For the remainder of the year, we expect to incur an additional $3 million to $4 million of transaction and integration costs primarily related to Global Capacity.
+
+Third quarter net loss was $9.5 million, compared to net income of $5.1 million last year and $600,000 last quarter. The third quarter loss included $17.5 million in non-recurring exit, financing, transaction and integration costs mainly driven by Global Capacity. Capital expenditures in the quarter were $9.1 million or 4.6% of revenue, compared to $5.5 million last year and $9.3 million last quarter. As we noted last quarter, going forward we expect CapEx to be in the range of 5% to 6% of revenue including Global Capacity. Our CapEx light strategy enables us to be agile in providing global solutions for complex client needs and to deliver compelling cash flow margins relative to the CapEx heavy players.
+
+Adjusted EBITDA less CapEx was $47.1 million in the third quarter, nearly 24% of revenue. Third quarter net cash provided by operating activities was $21 million, an $8 million increase from third quarter 2016. This figure is net of several key items not included in adjusted EBITDA such as cash interest, exit transaction and integration costs, prior prepaid capacity sales and changes in working capital.
+
+During the quarter, we closed the Global Capacity acquisition paying $100 million in cash, using the proceeds from the bonds we issued in June and issuing 1.85 million shares of GTT common stock. We also paid $2 million in holdback payments for prior small acquisitions. And at quarter end, we had a balance of $24 million related to future holdback payments of which $18 million is in current liabilities.
+
+Our cash balance was $35 million at quarter end, and our outstanding debt balance was $1.1 billion comprised of our term loan B which had an outstanding balance of $695 million and our senior unsecured notes, which had an outstanding balance of $450 million. During the quarter, we completed a re-pricing of our credit facility, reducing the applicable margin to 325 basis points on our term loan and 300 basis points on our revolver.
+
+Also in October, we increased our revolver capacity to $100 million to increase available liquidity as we continued to grow and scale our business. Our net leverage ratio using third quarter annualized adjusted EBITDA was 4.9 times on an as-reported basis and 4.1 times on a pro forma basis, including the additional post-synergy annualized adjusted EBITDA I highlighted earlier from recent acquisitions that is not yet reflected in our reported results.
+
+As Rick mentioned, in October, we acquired Transbeam for $28 million in cash. We funded this small acquisition with a portion of the proceeds from an add-on issuance of senior secured notes that we also completed in October. We issued $125 million of aggregate principal amount at a price of $1.06 for net proceeds after expenses of approximately $130 million. This add-on will be treated as a single tranche of debt along with the $300 million issued last December and $150 million issued in June.
+
+Beyond the Transbeam acquisition, we intend to use the remaining proceeds from the offering for general corporate purposes, most likely additional small acquisitions as our pipeline remains strong. Similar to prior deals, we would anticipate future small acquisitions to come at a post-synergy price that would enable us to maintain pro forma leverage at approximately 4 times as we put this money to work.
+
+In the unlikely event that we don't end up using these funds for additional M&A, we would most likely use the funds to pay down bank debt to maintain leverage at current levels.
+
+That concludes our prepared remarks, and now we'll open up the call for questions. Operator?
+
+Thank you. We will now begin the question-and-answer session. [Operator Instructions] The first question will come from Scott Goldman with Jefferies. Please go ahead.
+
+Hey, guys. Good morning. I'm going to take the liberty of asking two questions instead of one question and a follow-up if I could. I guess, first, maybe Rick, obviously, Hibernia, Global Capacity, Transbeam, a lot of changes in acquisitions over the past year or so, which has transformed the business. Wondering if you can maybe help us understand whether that's changed the bookings within the business? Is it coming from a different set of customer base, is it focused on a different product, how you're being able to leverage those acquisitions and what that's translating to in bookings?
+
+And then secondly, maybe just elaborate, if you look at, at where your growth is today, you're targeting sort of double-digit growth, I think it was excluding the small medium business next – at a point next year. What's the path to drive that organic growth from where it is today up to that double-digits next year? Thanks.
+
+Great. Thank you, Scott. Appreciate the questions. Probably first to talk about that our strategy, I think the acquisitions are very complementary to our strategy. And to be very clear, that we focus on buying firms, whether Hibernia, Global Capacity, Perseus, Transbeam that complement our strategy to provide cloud networking services to large multinational clients and to work on extending secure connectivity to any location in the world, and we think that each of these complement that. Hibernia gave significant depth and breadth to our core network backbone which we leverage for all of our services. It actually allowed us also to add optical networking capability in select regions in the world, the Atlantic, eastern part of the U.S. and in Western Europe.
+
+Global Capacity, most recently, gave us a excellent set of diverse low-cost access options that reach up to 10 million buildings in the U.S. which we think are a perfect complement to our emerging software-defined wide area networking assets. And we think the combination of the clients are very complementary to our client universe of large multinational, sophisticated businesses very focused in sort of the global five to the global 10,000 client base. So, one of the things we really appreciate in any of the acquisitions is getting an initial wedge with into a client and being able to expand the share of spend that we have with those clients.
+
+So, we think all of these will have helped us contribute to our bookings trend, so we think over the past couple of quarters as we've grown the business, third quarter, second quarter have been record quarters for us in terms of sales performance for our existing quarter-bearing organization. Our ability to continue to grow productivity. It's one of the most interesting things we found is as we've grown the sales force, our productivity trends are actually increasing.
+
+And so to transition a little bit into your second question about growth and then I'll add my comment as well, we generally, we think we – our objective is to grow at a 10% rate inclusive of both rep-driven growth and the small acquisitions we do, 10%-plus. We think over time as we continue to scope and scale our sales force and continue to grow it that the rep-driven component can be a big, if not almost at least all of that the growth, that will take us a little bit of time as we continue to grow the scale of our sales force.
+
+There's really three components to the rep-driven part of our business. The first is churn rate. We feel very comfortable that our churn, as we've continued to grow our business remains in the mid-1% range and that we can build and continue to grow the rep-driven component of our business with those churn rates.
+
+We think, as I mentioned a second ago, the productivity is actually increasing as we actually grow our sales force. I think that is a real reflection of the sort of tremendous value proposition we have in the market and the ability to continue to gain share at the expense of the legacy incumbent telco monopolies.
+
+And lastly, it's really a rep equation. As we said, we're trying to aggressively move to 200 by mid next year. And we think there is significant opportunity to grow beyond 200 once we hit sort of that next milestone as we continue to grow. So we believe now is the time for us to be very aggressive in our growth plan and we continue to look to grow that rep driven part of our engine.
+
+Yeah and I would say really, related to both of your questions is the benefit of just scale and market presence. So as we've gotten dramatically bigger, we're on the radar much more with potential buyers either through our sales efforts or through analysts, PR events, whatever the case may be and that sort of bears out and the size of the deals that we're being asked to bid on. Looked at our funnel today, we have a lot more large initial opportunities than we've ever had before. It really speaks to that credibility and the trust that we've developed in the marketplace. And I think those acquisitions are incredibly helpful in building that foundation.
+
+Great. That's very helpful. Thanks, guys.
+
+The next question will be from Timothy Horan with Oppenheimer. Please go ahead.
+
+Great guys. Can you talk about on a per customer basis kind of what you're seeing in terms of their spending with you guys either per site or overall in general? I guess as they move to the cloud, are they looking to have a more secure, more lower latency networks or more redundancy at the sites? Just at a real high level what the base is growing at?
+
+Sure. I mean, interestingly, we continue to have relatively low market share, Tim, as we grow. So we – our top 100 clients represent about half of our business, the average monthly revenue spend that we have with those are well north of $300,000 a month and monthly recurring revenue. And the top 500 clients represent probably about 80% of our business. And then the multi-recurring revenue component sort of approaching $100,000 a month.
+
+That said, we still believe that we have less than 10% penetration. We see nice increasing revenue trends with our clients from the perspective of continuing to grow the share of wallet that they have with us as we continue to earn more of our business. The trends in our industry actually helps that. We believe that we participate in industry with a growing revenue trend; not significantly growing revenue trend, but if you look – if you exclude traditional time division [ph] mould (22:28) – time division voice and time division data, that the next generation of IP services will – are actually growing on a sort of a low-single digit basis.
+
+More importantly, the bit growth in our market is growing significantly, generally anywhere between 15% and 25% per annum and that's comprised of a couple of things: one, the utilization of the public Internet in corporations, the movement of applications, IT applications into cloud service providers which is increasing the scope and scale of bandwidth demand at any enterprise location itself, and the increasing size and complexity of data and file sizes that have to be – that have to traverse enterprise locations to other enterprise locations and into the public Internet or private cloud service providers.
+
+All of these put tremendous pressure on the connectivity demand of CIOs to connect their people in office locations to the public Internet, cloud services and to their other office locations. So we're seeing increasing pipe size. Whereas if you had 10 megabits at a location – if you had [ph] about 5 (23:39) megabits in the T1, you need 10. If you had 10, you need 50 or 100, and almost all say, I want diverse connectivity. I need multiple access options into my location because people recognize there are failures in last mile services. And so, one of our real strengths is the deep expertise we have in sourcing, diverse last mile both low cost, high capacity, high availability last mile access options and combining them in managed services for our enterprise clients.
+
+And I think if you look at the trend at a client level, historically by them purchasing these services from the large telcos that increase in bit demand and the number of lines and the number of locations would have typically translated into a pretty significant increase in spend. And that also lends itself well to our value proposition because we're typically able to give clients the more they need at at least the same price point that they're paying now for less or in many cases we can actually give them the total package at a lower price than they're paying today for the outdated solutions. And SD-WAN is a big driver of that but it's not the only driver. We've kind of been doing that disruption in the market for many years.
+
+Just a quick follow-up on SD-WAN, do you actually have sales there now or is that kind of that revenue stream still the common. I guess what – I know you're talking very optimistically about it but realistically can that move the needle on overall revenue growth?
+
+Yeah, we do have sales. We do have installations. We have installed locations. We actually have a very, very deep and building pipeline. But to be clear, it's a very early stage market phenomenon but we think it will accelerate over the next few years. So, we think it is our opportunity as Mike just said to be very disruptive. I mean just sort of there are a significant amount of business that is on MPLS based backbones over T1 networks where our clients are saying I need a significantly bigger, both secure and public Internet backbone network over diverse access options with more bandwidth at the same price or less. And we are uniquely positioned to be able to address that need.
+
+Thank you.
+
+The next question will come from Jon Charbonneau with Cowen and Company. Please go ahead.
+
+Great, thanks for taking the questions. How comfortable would you say your ramp salespeople are in selling your entire product set today? And tied to that, can you just give us an update on what inning you believe you're in as it relates to the cross-sell and up-sell opportunities tied to M&A this year? Thank you.
+
+Sure. I think our product portfolio, to be clear, is cloud networking services. So, it is relatively narrow in some respects. We lead with networking. And so when we think about, [indiscernible] (26:44) answer the last question we had about software defined wide area networking, we think that's an evolution from MPLS wide area networks and traditional IP VPNs that are done with IPSec technology. And we think that transition is what we lead with. [indiscernible] (27:00) once we own the wide area network the ability to add high capacity Internet, to add Voice over IP services for very high capacity locations, high capacity Ethernet point-to-point, or high capacity optical wavelength services are natural add-ons.
+
+But our effective lead is the networking solution. The other nice add-on on top would be managed security services to the degree that our clients want to upgrade into unified threat management, intrusion detection and prevention services, there's lots of interesting add-ons on top. So, but we are really focused on training around networking, right? How do we actually take a legacy network and convert it to a software-defined wide area network with significant add-on opportunity. And so one of the – we still look for wedge opportunities to prove ourselves with particular clients.
+
+But as I think Mike said probably a couple of questions ago, we're seeing the real opportunity now to walk in and be very disruptive and replace the core networking solution that clients had. Whereas, historically, that may have not as been a big – as big an opportunity. It's one of the reasons that we're really aggressive now in trying to grow the scope and scale of our sales organization.
+
+Cross-selling, I think we mentioned the last time, I think the – we generally every wedge client we have has tremendous incremental opportunities and we are focused first and foremost on the network, right? Can we actually upgrade the wide area network topology that they have today. And we're seeing more receptivity because of our option to be able to increase bandwidth and either keep costs the same or reduce cost and adding much more diverse connectivity at every one of their locations.
+
+Also based on all the M&A that we do, I would say as a company we're probably never more than early maybe at the most mid innings on any cross-sell/up-sell initiative. It just sort of a period of time after each one of the deals. So Hibernia at this point feels like it was done ages ago and it was just a few short months in many ways. So, but – the Hibernia folks I would say are fully integrated at this point that the sales effort is very consistent across that portfolio. But obviously Global Capacity just got here. So that's probably in pre-game maybe, maybe first inning.
+
+I would also say too that we've talked about it's not just the reps, it's the whole package that supports the rep, right? So, we've invested in presales support, post-sales support. We've also invested in the sales operations and sales management capability to help drive cross-sell and up-sell better. So, we have much more defined account modules and territories to – that includes both a base of accounts as well as some prospects. So, we're a lot sort of better organized to go after that today than we've ever been before as well.
+
+Great. Thank you.
+
+Next question will be from George Sutton of Craig-Hallum. Please go ahead.
+
+Thank you. I appreciate you put out the long-term goals again. And I did want to ask a question about the margin assumptions therein. So, that was suggestive of margins that you're currently seeing, was that the intention?
+
+Well, let me comment first and then I'll let Mike comment on the margin. Just the language we use, I mean, we don't view these as long-term goals, George, we view this as next financial objectives. Obviously, you've followed us for a very long time. This is our fourth. We're a much smaller firm, announced an objective to go to $200 million. When we achieved that, we announced the objective to go to $400 million, and when we achieved that, we announced that our current to grow to $1 billion. With that well within reach at this stage, we've now announced our next financial objective to grow to $2.550 billion.
+
+So, it is not our end goal. It is not that we expect to continue to grow very aggressively as a firm. Interestingly, we were – I think as we discussed in our prepared remarks, we're most recently honored by Fortune for the Fortune Future 50, which has tried to select out of 2,300 public firms, 50 that they believe are positioned for explosive growth over the next multiple years and we think that very well summarizes us as a firm, very much positioned for explosive growth as we continue to execute on our strategy.
+
+In terms of specific margins, let me let Mike comment.
+
+Yeah. I think on a pro forma basis, if Global Capacity had been in for the full quarter, the margins are 24%, 25%. So, that's what you should expect in the near term from us going forward, as I mentioned in the prepared remarks, and it would be getting back up to levels that we're at today.
+
+Okay. I appreciate that. And given your need for sales people and/or desire to expand the sales force, how much sales talent have you been bringing in with the recent acquisitions?
+
+Each one brings great talent. We believe that some of the best – that GTT has over time become a very talented organization by taking some of the best talent in the industry that resides in the firms that we bought. And I would say if we think about our top performers in sales, I would say it is generally the majority of them come from our acquisitions. So, we see significant talent. We saw we have some fantastic folks that have recently joined us from Global Capacity, that joined us prior in the year from Perseus, that joined us from Hibernia, that remains some of our top producers.
+
+That said, as we continue to grow, we need more. Why? We simply don't have – we have the scope and scale to support, as Mike mentioned a second ago, a significantly larger sales organization and we continue to recruit some of the best talent outside of the company as well to join GTT. There has been significant flux and consolidation in our industry and that has actually freed up, in our opinion, some of the best talent in the industry that is very excited to join GTT's banner given the disruptive nature of the play that we have to offer at the company.
+
+Perfect. Thanks, guys.
+
+The next question will come from Walter Piecyk with BTIG. Please go ahead.
+
+Thanks. Hey, Mike. After Hibernia, I think the comment on CapEx was 6% to 7%. I know this year, you said, 5% to 6%, and then obviously, this quarter is even lower than that. When we look at 2018 calendar, what is it, still [ph] 6% to 7% (34:06) as far as the target or are we now within the 5% to 6% or maybe lower range moving forward, now that you've got this thing integrated?
+
+Yeah. I think that the 6% to 7% was us probably being a little conservative out of the gate with Hibernia. As we got integrated and more into the flow, I think we realized our regular 5% to 6% was just fine for the combined business. And we feel the same way inclusive of Global Capacity going forward. So, as you look ahead to 2018, I think 5% to 6% is the right range to be thinking about. And you're right, we haven't actually even done 6% lately. If you look over the past year or so, it's been right around 5%.
+
+So, the plus 1% on top of that 5% is really more around [indiscernible] (34:59) get additional order-driven CapEx that would potentially push that number higher, but 5% is probably the run rate for now.
+
+Got it. And I know this transit business is kind of meaningless for you guys, but just curious on any commentary you could offer regarding the volumes and the pricing environment around that business. Has it slowed, and has pricing been less than in recent years? Price declines, I mean.
+
+Right. Well, we've always really liked the transit business. It builds tremendous scope and scale in our global network backbone, which as I mentioned earlier, we leverage for all of our services. We are a top five ranked Internet backbone in the transit world. We actually probably have less share, so we've actually seen some nice traffic growth in our transit business over time. It's a relatively small percentage of our overall business. Obviously, that networking we were talking about earlier is the lion share of our business, and [ph] rise as (36:03) the absolute top priority in our backbone, most of it in the highly secure corporate wide-area networking services.
+
+That said, the price declines in the market are there. They've always been there. They're probably not as dramatic as they were, I would say maybe two, three years ago. So, whether there is a little bit of moderation in price decline in transit, but it still – it's probably the service in all of our base that declines at the highest rate; 15%, 20% per annum price declines, but we see revenue and traffic growth that are well in excess of that. So, we still see it as a very attractive part of our overall bundle or our overall mix of cloud networking services.
+
+Has your traffic growth picked up in the past two quarters? Because obviously, we've heard from one of your competitors that traffic growth is down and they've been blaming it on, I guess the industry and lack of – some lack of growth from some of the new video guys. Is it possible that you're taking share, and that your growth hasn't abated like theirs?
+
+Well, I mean, I would say, we've generally felt our trends have been about the same. So, internally, and that our traffic has grown, has consistently been growing at relatively consistent rate north of price decline. So, we've actually been growing slightly in that – in this business. And so, while we don't really see anything that would change that over time, we see the Internet business being a good business, [ph] the Internet transit (37:31) being a good business. The Internet to enterprise customers is growing very rapidly. It's one of the things as we think about taking incremental share in the enterprise networking world that one of the things that's driving CIOs to come and explore new networking options is the fact that their pipes are simply too small to connect their people at all their locations, and the Internet is actually one of the key drivers of that.
+
+Okay. Thanks, Rick. And just, if you don't mind, just one last one. On SD-WAN stuff, is there a specific software solution that you're using? And does that matter as far as the customer is concerned? Because I know AT&T and Verizon are trying to pitch – but basically, it's like a pass-through of external party software solutions. Is that something that ultimately what you need to own and is it a differentiating factor based on which one that you use?
+
+Well, we believe that it's a part of the mix to provide software-defined wide area networking that you utilize a third-party software platform to be able to give application visibility and control through a software platform. We have selected VeloCloud and that is the software platform we use.
+
+The proposition of having a managed software-defined wide area network is much more than that software platform, being able to have the diverse set of low-cost access options that we can bundle together, having deep understanding of how to buy and procure and deploy a third-party access, having a very sophisticated field service organization that has deep experience installing and maintaining well over 100,000 managed service devices, having a core Internet backbone that can securely and diversely route traffic to any public Internet destination, any private cloud service provider that is interconnected on our backbone or any to any other corporate location around the world; and at the same time, being able to add highly secure options to clients. So, we've historically used a Fortinet based, either premise-based firewall or network-based firewall. Our network is a PCI compliant for those that are credit card processors. So, we think that compelling bundle of options that we can go to clients with, in addition to the software layer to give them visibility and control, allows us to be very disruptive in this industry.
+
+Yeah. And I would also add...
+
+So, it's Velo 100% of the time, VeloCloud 100% or do you mix and match depending on what the customer requirement is?
+
+Yeah. That's what I was just going to say. Actually, that the – while we...
+
+I'm sorry, Mike.
+
+...as the thing that we include when the customer buys the software piece from us, there are others out there that many clients choose to do it themselves to buy the boxes and that software themselves and just use us for the diverse access in the field service stuff that Rick was talking about before.
+
+I think the Achilles heel or the lowest common denominator, whatever you want to call it in SD-WAN is actually the last-mile access option. That's the hardest piece to deal with and it's the one that large clients want to spend the least amount of time on, because it's difficult. And it's what we do best. So, whether clients are putting their own boxes in or not, they need those last-mile connections, they need them to be diverse and robust and need them to work with any platform that a client might have.
+
+So, just like on the access side, we're agnostic as it relates to what SD-WAN offering a client wants to use. We do think VeloCloud, combined with the GTT network offering, is compelling and a better option than others in the market, but it's the only option and we're flexible.
+
+Great. Thank you so much.
+
+The next question will be from James Breen of William Blair. Please go ahead.
+
+Thanks for taking the question. One, on the target that you set, can you just talk about how you think about that from an M&A perspective, if you assume some sort of organic growth, maybe you have [ph] to buy (41:40) $600 million or $700 million of revenue to reach that in four years. What are your feelings on the M&A market in terms of the sizes of the deals that could let you achieve that? Thanks.
+
+Sure. I'll pass this question to our Head of Corporate Development, Chris McKee, to talk about the scope of our funnel.
+
+Yeah. I think as we publicly discussed before and the size remains the same, there's about 50 to 75 companies in our active funnel now, targets that we're looking at. Those companies are a mixture of companies that are quite small and really as we talked about, sort of an opportunity to add customer bases or wedges into good accounts up to companies that are very large.
+
+And so, I think we feel, at this stage, our funnel is more active, more robust than it's ever been. We're certainly very engaged in sort of looking at all those, so we can select sort of the best mix of small deals. And when the time is right, the larger, more material deals to look at.
+
+But, I think across sort of the board of some of the things we've talked about, these are things that just accelerate our own – M&A has always been just an accelerant of what we're already doing, right? These are additives and sort of depth and density into what we're already doing, and that really remains the case, as we're launching into growing our sales force and making lots of great hires to bring in from the outside to our company. One of the ways that we accelerate is buy small companies that have a couple of key sales people.
+
+And so, whether it's adding through, adding talent through acquisition or adding customers through acquisition or continuing to get more density sort of in the areas of networking being provided to customers with global needs. We're looking at companies ranging from very large down to very small and continue to do that.
+
+And I think to add on to that, Jim, we have and a few to a very proven approach for our M&A strategy for whether it's the smaller acquisitions or the more selective strategic ones that we do. We buy things that fit our strategy, cloud networking services and large multinational clients with diverse networking needs across the world, that we can integrate into our business in two to three quarters. I mean, we really work very quickly across the organization to create one GTT organization, to create integration into our core systems infrastructure, particularly our client management database and to integrate into one core network backbone, and finally, to pay the right price on a post-synergy adjusted EBITDA basis within that two to three quarters. So, we have that very proven approach and we expect to continue to [ph] hue to (44:29) that approach as we look to grow our business to these next financial objectives.
+
+Thanks. And then, just on the sales side, as you move toward 200 reps in middle of next year, are they all coming within telecom industry or are there other industries where you hire from just good sales people that can sell the product?
+
+Yeah. There's definitely other industries to recruit from. Clearly, the software industry in general is a great one. The software-as-a-service industry and in some respects, I think as we continue to drive penetration for software-defined wide area networking, there is a significant software element to it and we've seen some good traction and good uptake on some of the recruits there.
+
+We've also seen in the traditional cloud services business, we've seen some crossover, even though that's not a business we play in ourselves. It's adjacent to ours and we've been able to recruit from that sort of cloud services co-location universe also. So, in addition to the more usual suspects that you would think in this [ph] straight (45:44) communication space. So, we see a pretty broad universe of targets that we can take from as we continue to grow the scope and scale of our force.
+
+Great. Thank you. [Operator Instructions]
+
+The next question comes from Brandon Nispel with KeyBanc Capital Markets. Please go ahead.
+
+Thanks for taking the question. I guess, could you guys provide what your goal is for your existing sales reps in terms of monthly recurring revenue on a quarterly basis? And then, what was that number during the quarter?
+
+And then, Mike, you mentioned that you guys expect to achieve, I think it was $45 million to $50 million in synergies. How would you expect that to flow over the next two to three quarters? And maybe what is the split between network and SG&A synergies? Thanks.
+
+Great. So, I'll take the first one and Mike can take the second one. So, we are – sales reps are quota based on monthly recurring revenue, is the driver of our business. 93%, 94% of our business is recurring revenue in nature. And so, we provide quotas on a monthly basis for recurring revenue, measure monthly, quarterly, annually towards those goals. Those quotas can range from as low for some entry level reps as low as $4,000 and $5,000 per month, to some of our most tenured carrier-based reps of $20,000 and up. But I think generally probably between $7,000 and $10,000 is a good average [ph] for those rate to (47:06) $10,000.
+
+And as I mentioned before, while we don't disclose exactly our productivity number per rep, per month, we've seen very nice improving productivity quarter-over-quarter literally over the last five years and accelerating over the last four or five quarters. So, we see a lot of opportunity to continue to grow the scope and scale of the organization and maintain productivity rates which we think are industry leading in some respects.
+
+In terms of the timing, it will be pretty ratable, I would say, over the next three quarters, Q4, Q1, Q2. The biggest chunk of that is Global Capacity. And so, that's the biggest driver and that is the timeframe of the integration. On the network split versus network and SG&A, I would say about 20% of the synergies are coming from network and 80% are coming from SG&A. And within SG&A, I would say it's probably 80% head count and 20% other SG&A.
+
+Not all of the $45 million to $50 million is synergy, some of that is the standalone EBITDA that came with Global Capacity and Transbeam, but the majority of the $45 million is [ph] real synergy (48:27).
+
+And just to be clear, the $45 million to $50 million, that's an annual number?
+
+Yes.
+
+Great. All right. Thank you.
+
+Ladies and gentlemen, this conclude our question-and-answer session. I would like to turn the conference back over to Rick Calder for any closing remarks.
+
+Great. Thank you, operator. And I'd like to turn the call over to our Chairman, Brian Thompson, for some closing remarks.
+
+Thanks, Rick. I hope everybody can hear me. The one thing I've been thinking about in the last couple of days is, as we go into these calls, we, as the executive team, as well as the board of the company, have the great fortune of being able to look forward where you all have to look at what's happening now and what's been the trends going backwards. And it's against that that I think we were quite comfortable as a board and the executive team in setting our new financial objectives that we believe are not only attainable, but the way this team operates, we think that they're going to do better than they always set as their outside limits.
+
+And the reason that that's the case is that I'm beginning to see was, the last six months to nine months, a big change in the attractiveness of GTT to both the clients and the market, as well as to the people that we're able to recruit. I'm getting phone calls now from some of the folks that are in other companies that I've had the great pleasure of working, are really interested in saying if they can join this force that we're putting in place called GTT.
+
+And I think that's what Rick was kind of alluding to, but I see it from a little different perspective, because I'm hearing from people who I've known in the past who are really aggressive and have established their professional roles in other companies who are saying, gee, I'm getting to the point where now it's obvious to me that I'm going to do better for myself, my family and my estate, if I can rollover into a GTT kind of an operation, because I really trust what they're doing. That's quite interesting. I think it's based on what I call the echo chamber, but includes things like the Fortune choice of us as one of the companies that's very interesting for people to follow.
+
+The other thing I wanted to share is, is that as I start to look back at what we're doing more so than others, is we are really aligned both with our financial community, they're our investors and with our customers in our whole sales strategy connection. A lot of companies find it hard to have a sales force that really understands and is really driven by the strategy. And I believe that the culture that we've established over the past 10 years and more importantly, as we add new people to that group in the last couple of years is creating a real alignment.
+
+We are now in a position, I think as a company, to respond not only to our customers as we have in the past, their needs for network, but we're now in a position to innovate and providing those clients with new and derive technologies that others are not in a position to do. So, we had a crossover take place in GTT that I'm very pleased about, because we're able now with our size, our scope and the folks that we've got in the company, not only to provide today's service, but to really understand the future needs, and to turn those future needs into real opportunities for our customers to excel in what they're doing with our technologies.
+
+In any event, I wanted to pay a special tribute to this team once again, because it's a team that has shown the world how they can not only acquire companies, but integrate them completely into our organization. I would put us up against anybody and we're now starting to get interest from different business schools trying to figure out how we do that sort of thing. And we do it because it is a fundamental part of our strategy. It is a fundamental part of how we manage the business and the people within our organizations truly believe it.
+
+And so, looking forward, I'm even more bullish about the future than I was on our last call and I want to share that with you. Thank you very much. Rick?
+
+Great. Thank you very much, Brian, and thanks to everyone for joining us in the call and we look forward to speaking to you on the fourth quarter call very soon. Take care.
+
+The conference has now concluded. Thank you for attending today's presentation. You may now disconnect.

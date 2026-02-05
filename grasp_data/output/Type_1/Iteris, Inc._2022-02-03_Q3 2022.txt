@@ -1,0 +1,236 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+Todd Kehrli — President & Co-Founder, MKR Group
+Joe Bergera — President, Chief Executive Officer & Director, Iteris, Inc.
+Douglas L. Groves — Senior Vice President & Chief Financial Officer, Iteris, Inc.
+Jeff van Sinderen — Analyst, B. Riley Securities, Inc.
+Ryan Sigdahl — Analyst, Craig-Hallum Capital Group LLC
+
+Management Discussion Section
+
+Question And Answer Section
+
+Good day and welcome to the Iteris Fiscal Third Quarter 2022 Financial Results Conference Call. Today's conference is being recorded. At this time, I would like to turn the conference over to Mr. Todd Kehrli with the MKR Group. Please go ahead, sir.
+
+Thank you, operator. Good afternoon, everyone, and thank you for participating in today's conference call to discuss Iteris' financial results for its 2022 fiscal third quarter ended December 31, 2021. Joining us today are Iteris' President and CEO, Mr. Joe Bergera; and the company's CFO, Mr. Doug Groves. Following their prepared remarks, we'll open the call for questions from the company's covering sell-side analysts.
+
+Before we continue, we'd like to remind all participants that during the course of this call, we may make forward-looking statements regarding future events or the future performance of the company which are statements based on current information, are subject to change, and they're not guarantees of future performance. Iteris is not undertaking an obligation to provide updates to these forward-looking statements in the future. Actual results may differ substantially from what is discussed today and no one should assume that at a later date, the company's comments from today will still be valid. Iteris refers you to the documents that the company files from time to time with the SEC, specifically the company's most recent Forms 10-K, 10-Q, and 8-K which contain and identify important risk factors that could cause actual results to differ materially from those that are contained in any of the forward-looking statements. As always, you'll find a webcast replay of today's call on the Investors section of the company's website at www.iteris.com.
+
+Now, I'd like to turn the call over to Iteris' President and CEO, Mr. Joe Bergera. Joe?
+
+Thank you, Todd, and good afternoon to everyone, and I appreciate all of you joining us today. I want to remind everyone that we completed the sale of our Agriculture and Weather Analytics segment to DTN, LLC on May 5, 2020. As such, we're reporting the results of that segment as discontinued operations for all periods presented in today's earnings announcement. I'll be discussing only our continuing operations for the remainder of this call.
+
+The company reported fiscal 2022 third quarter total revenue of $32 million and fiscal 2022 year-to-date total revenue of $99.3 million, representing a respective 14% and 16% year-over-year increase. At the same time, our third quarter annual recurring revenue of $8.1 million increased 27% year-over-year, while year-to-date annual recurring revenue of $24.9 million increased 43% year-over-year. In other words, our annual recurring revenue growth significantly outpaced total revenue growth, which resulted in the company recording about 25% above third quarter and year-to-date total revenue as annual recurring revenue.
+
+Due to the continued favorable customer response to our ClearMobility Platform, we reported record third quarter total net bookings of $40.9 million, representing a 99% increase compared to the same prior year period. This brings our year-to-date total net bookings to a record $113.6 million, representing a 28% increase year-over-year. Given our sustained record net bookings, we ended the December 31 period with record total ending backlog of $92.3 million, representing a 20% increase year-over-year and an 11% increase on a sequential basis. As always, our reported net bookings and ending backlog figures reflect firm customer orders.
+
+Of our $32 million in third quarter total revenue, 50% was recorded as product revenue and 50% was recorded as service revenue. As a point of comparison, 52% of our $99.3 million in year-to-date revenue was reported as product revenue and 48% as service revenue. The company's product revenue is composed of two components. First, our intersection detection sensors, travel time sensors, and infrastructure-to-vehicle communication devices; and second, third party products that we distribute, deploy, and often integrate with our own products.
+
+Our fiscal 2022 third quarter product revenue was $15.9 million versus $16.4 million in the same prior year period, representing a 3% decrease year-over-year. The decrease was due to a continued divergence in the sales performance of Iteris products which increased 10% year-over-year and third-party products which declined 49% year-over-year due largely to the inability of certain third parties to meet critical delivery deadlines. We saw a similar issue with the performance of third-party products in our second quarter.
+
+With respect to our own products, we too experienced some supply chain issues in the third quarter. These issues prevented us from shipping approximately $1.9 million in Vantage sensor product orders, limiting the revenue growth for our own products to 10% as just noted and precluding us from offsetting the third-party product revenue variance. At the same time, we incurred unplanned costs to source and expedite components from alternative suppliers who are necessary to manufacture our products.
+
+Although we expect these issues to resolve eventually as global supply chains re-normalize, we implemented a 10% price increase on certain products effective January 1, 2022 to help offset these increases in cost of goods sold. Later, I'll discuss our product pricing dynamics in more detail, including the timeline to start to realize the impact from our price increases.
+
+Notwithstanding the recent supply chain issues, Iteris continues to take market share in the intersection detection, travel-time monitoring, and infrastructure-to-vehicle device product categories. Our share gains are due to excellent sales execution and continuous innovation across our product portfolio that enables us to set the performance standards for the product categories in which we compete.
+
+For example, during the third quarter, we launched a first-of-its-kind vehicle-to-everything or V2X-enabled detection solution branded as Vantage Fusion in partnership with Continental AG. Vantage Fusion, which uniquely fuses infrastructure and in-vehicle sensors, enables advanced intersection visualization and real-world V2X applications such as virtual basic safety messages, cooperative perception messaging, near-miss analysis, queue detection, and pedestrian activation. Thus, Vantage Fusion will help transportation agencies and automotive OEMs achieve their objectives of safer, smarter, and more sustainable mobility as well as provide a pathway to Level 3 to Level 5 autonomous driving.
+
+Now, let's discuss our service lines of business. We recognize two forms of services revenue. One is project-based revenue that is associated with our consulting activities and, two, annual recurring revenue from our software-as-a-service solutions and from our managed services activities. Our fiscal 2022 third quarter services revenue was $16.1 million versus $11.8 million in the same prior year period, representing a 37% year-over-year increase. On a year-to-date basis, fiscal 2022 services revenue was $47.7 million versus $38.4 million in the same prior year period, representing a 24% year-over-year increase. As mentioned earlier, our third quarter annual recurring revenue of $8.1 million increased 27% year-over-year and our year-to-date annual recurring revenue of $24.9 million increased 43% year-over-year.
+
+In the third quarter, we recorded $26.2 million in net services bookings, with the following bookings being some of the more notable. A $6.8 million contract for the first phase of a vehicle-to-infrastructure connected bus signal priority system for LA Metro. As you may recall in our recent Investor Day presentation, we noted that transit signal prioritization represents a near-term use case, an important use case for connected vehicle applications. A $4.5 million signal synchronization project and cloud-enabled managed services contract with the Orange County Transportation Authority. A $1.5 million integrated corridor management or ICM contract with the Florida Department of Transportation's District 5, over $1 million in total contracts from several state and regional agencies for advanced traveler information system clear out, and a $1 million traffic signal synchronization program with the San Bernardino County Transportation Authority.
+
+Additionally, we amended the contract with the State of Iowa that we discussed on our last earnings call. As a result, we resumed the development of new commercial vehicle operations software capabilities to enhance our existing compliance inspection software. Under the terms of the contract amendment, we have retired the prior financial risk while preserving our ability to retain the intellectual property rights as well as co-market the solution with the state's support. In summary, customer response to our ClearMobility solutions roadmap continues to exceed our expectations, resulting in record total third quarter and year-to-date net bookings as well as record total ending backlog.
+
+Before I discuss our fiscal 2022 fourth quarter priorities and full year expectations, I'd like to turn the call over to Doug to provide some more color on our third quarter financials.
+
+Thank you, Joe. Good afternoon, everyone. As a reminder, please see the company's 10-Q filing and press release which is posted on our IR website for a further description of matters under discussion during the call today. As Joe mentioned, we faced several supply chain challenges that impacted both the top and bottom line results this quarter. While we had planned for some of this disruption, it turned out to be more severe than we had anticipated. From a revenue standpoint, there were approximately four core components as part of the printed circuit card assemblies within our Vantage sensor product family that were simply not available, driving the revenue miss that Joe referred to.
+
+On the cost of goods sold side, we had multiple components that were not available from our normal suppliers, so we had to access secondary markets where we saw prices on these components increase anywhere from 2 to 50 times their normal cost. These component cost increases coupled with lower overhead absorption due to the lower volumes impacted the product gross margins by about $1.5 million or almost 1,000 basis points. Obviously, we have many ongoing initiatives to manage this situation. However, we do expect there to be continued supply chain pressure for the next few quarters. On the bright side, demand for our products and services continues to be strong as evidenced by our record bookings and backlog in the quarter.
+
+Now, we'll move on to the details of the third quarter results. Total revenue for the fiscal 2022 third quarter increased 14% to $32 million, compared to $28.2 million in the same quarter a year ago. Our gross margins in the third quarter decreased 670 basis points to 34.7% compared to 41.4% from the same quarter last year. As previously mentioned, this was due to higher component costs and some unfavorable overhead absorption due to the lower volume in our hardware business.
+
+Turning to revenue mix, product revenue decreased 3% to $15.9 million, compared to $16.4 million in the same quarter last year. The biggest impact was the approximate $1.9 million in revenue that slipped out of the quarter, as previously discussed. Adjusting for this, product revenue growth would have been 8% year-over-year, and our Vantage sensor product revenue growth would have been 25%. Product gross margins declined 1,410 basis points from a 34.5%, compared to 48.6% from the same quarter last year due to the volume and supply chain issues mentioned previously.
+
+Our service gross margins grew 37% – excuse me – service revenues grew 37% to $16.1 million, compared to $11.8 million in the prior year quarter. As Joe mentioned, in the third quarter, 25% of total revenue was annual recurring revenue, compared to 23% in the same quarter last year. Service gross margins increased 360 basis points to 34.8%, compared to 31.2% from the same quarter last year. This was due to the higher volume and a better mix of more annual recurring revenues.
+
+Operating expenses in the third quarter were $13.1 million compared to $12 million in the same prior year quarter as a result of the TrafficCast acquisition in the third quarter of fiscal year 2021. However, the current quarter, operating expenses were down $400,000 on a sequential basis with the prior quarter, and we continue to focus on keeping our general and administrative expenses flat to get more leverage in the P&L and improve our operating margins, notwithstanding the supply chain issues in the current quarter.
+
+We reported a GAAP operating loss in the third quarter of $2 million, compared with a GAAP operating loss of $309,000 in the same quarter a year ago; this was driven by the supply chain issues, as previously mentioned. The GAAP net loss from continuing operations in the third quarter was $2.4 million, or a loss of $0.06 per share, which compares with a net loss from continuing operations of $261,000 or $0.01 per share in the same quarter a year ago.
+
+Adjusted EBITDA for the third quarter was $100,000 or 0.3% of revenue, which compares to approximately $1.5 million or 5.2% of revenue in the third quarter of last year. Given the supply chain challenges in the current quarter and continued expected supply chain headwinds, we are expecting some continued gross margin pressures for the next few quarters.
+
+Turning to liquidity and capital resources, total cash and short-term investments were $27.5 million at the end of the third quarter. The $700,000 decrease quarter-over-quarter was a result of changes in our working capital. Specifically, we're buying more raw materials as buffer stock to hedge against the ongoing supply chain shortages we're seeing. We spent $64,000 in purchases of property and equipment in the third quarter, reflecting our asset-light business model.
+
+In summary, while we experience supply chain challenges during the quarter, which were very frustrating, we recognize that we're not alone in this situation. Many Fortune 500 companies have also reported similar experiences, given the global shortages on a multitude of products. Some of the examples of steps that we're proactively taking to mitigate the situation include: extending lead times on our purchase orders; buying ahead where we can; and in some cases, re-engineering certain aspects of our products to find replacement components for those that are just unavailable. In the meantime, we're pleased by the continued strong demand for our products and services, and evidenced by our record bookings and backlog in the quarter, and expect to see organic growth rates start to accelerate in the fourth quarter as a result.
+
+With our industry-leading products and services, we believe Iteris is well-positioned to capitalize on the investment that will be made over the next several years to modernize this country's transportation infrastructure.
+
+With that, I will turn the call back over to Joe. Joe?
+
+Great. Thank you, Doug. I appreciate it. Despite the global pandemic and associated economic turbulence, Iteris continues to enhance its position in the large, dynamic, and highly-fragmented smart mobility infrastructure management market, a sector characterized by favorable secular trends, as well as historic new investment flowing from the recently passed Infrastructure Investment and Jobs Act, or IIJA.
+
+Iteris' market access, sizable backlog, and platform-based strategy provide degrees of freedom and optionality that most companies in our sector lack. As a result, we are very optimistic about the opportunity in front of Iteris and believe the current environment actually improves our ClearMobility value proposition and competitive position despite some near-term disruption.
+
+For example, in our fiscal 2022 fourth quarter, we'll launch a new software-as-a-service solution, CLEARASSET, which will help state and local transportation agencies better manage the lifecycles of their intelligent transportation system or ITS assets. Given the increase in federal funding from the IIJA and the simultaneous impact of supply constraints on agency operations, we believe the timing of CLEARASSET's launch is particularly favorable.
+
+As you may recall, we already offer asset management as a cloud-enabled managed service to several agencies, including the Georgia Department of Transportation. We've incorporated our asset management best practices into the CLEARASSET feature set. Additionally, CLEARASSET leverages our ClearMobility Cloud and interoperates with our family of smart mobility infrastructure management software. Therefore, it offers transportation agencies a proactive ability to monitor, manage, and optimize the health of their mobility infrastructure.
+
+Going forward, we'll offer CLEARASSET on a SaaS basis to agencies who want to manage their own ITS assets, as well as use CLEARASSET to deliver our asset management cloud-enabled managed service to agencies looking to virtualize this process. Due to the inherent scalability of CLEARASSET, this new approach will expand our asset management addressable market beyond state departments of transportation to include regional and local agencies who are critically challenged in the supply constrained environment to maintain their ITS assets.
+
+Similarly, we're seeing a significant increase in demand for our congestion management cloud-enabled managed service that we've also referred to as Intersection as a Service. With about 3,000 intersections adopting this model to-date, we have achieved meaningful customer validation and agencies are increasingly interested in this form of process virtualization to mitigate the labor supply shortages they face. As a result, we have a sizeable backlog of intersections pending deployment of our congestion management cloud-enabled managed service.
+
+To accelerate their deployment and associated revenue recognition, we're continuing to expand our customer success function. Additionally, we now have sufficient customer feedback to characterize a significant return on investment and reduction in carbon emissions associated with this cloud-enabled managed service. Next week, we'll begin a multifaceted communication and demand generation program to promote these compelling benefits.
+
+Given our market leadership, superior solution portfolio, and the timeliness of our value proposition, we are well situated to implement certain price increases to offset the increase in our cost of goods sold and better capture the full value of our solutions. For example, as mentioned earlier, we implemented a 10% price increase for our family of Vantage sensors, effective January 1. The impact will be de minimis in our fourth quarter since most of the quotes for the period were generated prior to January 1. Still, these price increases will have an increasingly positive impact as we progress through calendar year 2022.
+
+In addition to certain price increases, we'll continue to take actions in our fourth quarter and beyond demand and supply chain challenges. Doug noted that we're already extending lead times on our purchase orders, buying ahead as feasible, and redesigning aspects of our products to swap components for those that are unavailable.
+
+Moving on to guidance. The company's sales pipeline, which includes both public sector and private sector demand for our ClearMobility Platform, continues to reach new historic levels due to the sustained release of best-in-class technology and solid sales execution. Therefore, we anticipate continued bookings growth in our fourth quarter and beyond, even though results may fluctuate from quarter to quarter, especially as we continue to pursue more multi-million-dollar contracts, including complex agreements with large private sector entities.
+
+Based on our current record backlog and anticipated bookings growth, we anticipate double-digit organic revenue growth in our fiscal 2022 fourth quarter. However, we are lowering our full year total revenue guidance to $134 million to $136 million due to supply constraints and third-party product delays. This new full year revenue guidance represents year-over-year revenue growth of 14% at the low end and 16% at the high end of the range.
+
+Although we continue to anticipate elevated supply chain costs for the next few quarters, this will be better offset by higher sales volume and other mitigations beginning in the fourth quarter, including the price increases that we mentioned. As a result, we anticipate a fourth quarter improvement in gross margin and operating leverage that should yield a low-single digit adjusted EBITDA margin, producing full year adjusted EBITDA margins of 5% to 5.4% of fiscal 2022 full year revenue.
+
+We will provide fiscal 2023 financial guidance when we announced our fiscal 2022 full year results in early June. In the meantime, I want to reiterate that we continue to make solid progress in executing our platform-based business strategy and anticipate sustained above-market demand for our ClearMobility Platform, which is translating to notably improved performance of our service revenue lines.
+
+With regards to our product lines of business, we're taking actions to mitigate the impact of supply constraints and we expect to continue to see strong demand for our industry-leading sensors. Given our industry-leading products and services, Iteris is well-positioned to capitalize on the historic investment that will be made over the next several years to modernize the country's transportation infrastructure, and we are very optimistic about the opportunities in front of us.
+
+With that, we'd be delighted to respond to your questions and comments. So, operator, could you open up the line, please?
+
+Thank you. [Operator Instructions] We'll pause for just a moment to allow everyone an opportunity to signal for questions. And your first question will come from the line of Jeff van Sinderen with B. Riley. Please go ahead.
+
+Hi, everyone. So, Joe, is it fair to say that lowering guidance was really almost all due to supply chain headwinds?
+
+Yeah. Jeff, thanks for the questions. Good to hear your voice. Yeah, it was entirely due to supply chain constraints. And those are supply chain constraints that impact our ability to manufacture and ship our own product, as well as supplier issues, that's the ability of third parties to provide critical equipment, where we're actually operating as a reseller. As you may recall, in our second quarter, we indicated that there was about a $1.5 million slippage in third-party product sales, which we had hoped to make up in the third quarter, that didn't materialize.
+
+This particular quarter, as we'd mentioned, we were unable to ship about $1.9 million in our own product. And we are anticipating that even though we're in – we are forecasting double-digit organic growth in the fourth quarter, we believe we could have done better than that, if not for the supply chain and third-party supplier constraints that we're facing. So, yes, the reduction is entirely due to supply chain issues.
+
+Okay. And I know you mentioned that you're taking a number of steps to mitigate the supply chain pressures but, overall, would you say it's worsening at this point? It appears to be to me. But just, I guess, your overall assessment of supply chain, is it getting worse? And then, where do you see or when do you see light at the end of the tunnel?
+
+Yeah. Doug, do you want to take a crack at that question?
+
+Yeah. Well, we've been talking about supply chain issues since the first quarter. I would say that they're going to continue to be there. I think we're getting a little better at understanding what the impact is going to be, but I don't think it's going away in the next couple of quarters. I mean, if you heard GE or Intuit or any of the big companies said, it's here at least through the middle of 2023, some say the end of 2023. So it's really hard to tell, to be blunt. But just know we're doing everything we can to manage it. And I think we are expecting to see a little better improvement in Q4 in the margins, but there's still going to be a lot of pressure.
+
+Okay. And then, if we can just turn to – I just had a couple of questions on your guidance. What level of organic growth is reflected in the 14% to 16% revenue growth for the fiscal year? What level of organic growth is in that?
+
+Sure. So, if you look at the midpoint, it's about 6.8%. At the low end of the guidance of $134 million, it's 5.9%; at the high point, it's about 7.7%.
+
+Okay. So kind of mid-single organic revenue growth for the year. And then also, you may have mentioned this, but what was the organic revenue growth in the quarter you just reported?
+
+It was about 3.4% in the quarter.
+
+Okay. And then, did you give us – and again, I apologize if I missed this, but did you give us the mix of managed services and SaaS. And also, did SaaS continue to grow faster than managed services?
+
+No, we didn't mention that. I mean, the annual recurring revenue was about half of the service revenue that Joe mentioned; and the mix continues to be about 50/50 because, remember, the SaaS revenue is going to grow but it takes longer to grow just because of the nature of the contracts and that it's amortized usually over a three- to five-year period. So to get a good comp, it takes several quarters to do that.
+
+Okay. And so, if we're thinking about kind of, I guess, getting back to the supply chain and the pressure you guys have there, what level of gross margin do you think is feasible for you to reach in the next – in the fiscal year that's about to begin? What seems feasible? I don't know if you want to give a range or just maybe a sense of what you're thinking?
+
+Well, I would – I think you have to bifurcate our product revenue from our service revenue, right, because those do have different margin profiles. Historically, the product revenues have ran in the 45% to 50% range. They're – obviously, we're way down in the quarter for the reasons we talked about but we would certainly expect, over the next several quarters, that they would get back to that 45% to 50% range where they were. I mean, they were only 34.5% in the current quarter but that – I think that was very, very – maybe an all-time low on – from a product margin standpoint. So, we're expecting them to come back over the next couple of quarters, hopefully, as we continue to work our way out of the supply chain issues, like everybody else.
+
+Okay. And then, so that's product. And what about service, if we're thinking about kind it of modeling the next fiscal year and getting to a consolidated gross margin?
+
+Yes. Well, I mean, those have been running at around 35% and that's where they've kind of settled in. And as I've said, we do expect those to increase as the amount of annual recurring revenue goes up, but we'll be giving more specific guidance when we get to our fourth quarter call.
+
+Okay. Fair enough. And then, I just wanted to – just so everyone's clear on this, on operating expenses, just say, let's call it, all else being equal, excluding incremental acquisitions that you may make, what would you expect operating expenses to be in dollars in the new fiscal year and, I guess, as a percentage of revenues? And how much would you expect to leverage on OpEx?
+
+Well, as I mentioned, our plan is to keep the G&A almost flat year-over-year, and we would expect that R&D probably as a percentage of revenue goes up a percentage or two and that the sales and marketing is going to go up a few percentage as the revenue grows just because investments we'll be making in our sales force, as well as marketing campaigns as such as we bring on a lot of these new products. So, you could take the current run rate as a percentage of revenue and add a couple of percent to each of those lines with G&A staying relatively flat.
+
+Okay. And then one more if I could squeeze it in, and then I'll turn it over. Can you give us your latest thoughts, maybe for Joe, your latest thoughts on kind of the M&A pipeline, what it looks like, I guess, size of potential targets, how many acquisitions do you think we might see in the new fiscal year?
+
+Yeah, sure. So, Jeff, as you know, we've said that we'd like to do at least one acquisition every 12 to 18 months. We closed our last acquisition in December, 12 months ago. So, we're now 13 months beyond that. So, we're into that 12- to 18-month window.
+
+As you can imagine, we're working hard at trying to identify and develop new acquisition targets all the time. As we've said previously, you can assume that, at any point in time, we're probably in some level of active discussion with at least one target. But, unfortunately, we need to date a lot of girls before we get engaged. And so, certainly, people fall out and then we continue to find new dates.
+
+In terms of the overall kind of deal pipeline, if you will, I would say that it is probably a little bit more favorable now than it was six months ago. And by that, I mean, we're always pursuing opportunities. There's a lot of outbound activity. But I would say, right now, there's probably more inbound activity than certainly we saw six months ago. And we'll have to see what happens, but my sense is that targets are probably a little bit more realistic about valuations today than they were six months ago.
+
+So, this is a very attractive market. There's a lot of capital focused on this market. So, I don't want to make it sound easy, it's not. But I would say that, overall, I feel more optimistic or more bullish about our acquisition opportunities today than I did when we talked over the summer.
+
+Okay. Good to hear. Thanks for taking my questions and best of luck.
+
+Thanks.
+
+Thank you.
+
+We'll now take the next question from the line of Ryan Sigdahl with Craig-Hallum Capital Group. Please go ahead.
+
+Great. Good afternoon, guys. Curious on the supply chain, you guys talked a little bit. I don't know that I got a full explanation or maybe I missed it. But, I guess, what has gotten worse specifically within the supply chain here over the last couple of months?
+
+Yeah. Doug, do you want to take a crack at that?
+
+Sure, sure. Yeah, no, I – well, I think it's specific really to the components that we need to source our products with. And as I mentioned in the prepared remarks, there were four components that were just literally completely unavailable. And then, there were a couple of dozen components where we had to go to secondary markets, meaning usually brokers, to find these components and, as mentioned, the prices are from double to 50 times what they normally are. So, to be honest, it ebbs and flows. It's a massive trillions of dollar supply chain in electronic components. So, I think for us, it's the particular components that we need to manufacture our products with, and it was more exaggerated in the current quarter than it was in the second quarter. And again, we've been talking about this every quarter, that there's been pressure and it just seems like the mix of products and components we needed worked against us this quarter. But as I also mentioned, we're I think getting ahead of it with placing longer lead time POs and even re-engineering certain aspects of our products to find components that are available.
+
+How much, when the supply chain improves, that you can get those components? Are customers ready to receive shipments and installations where you can see kind of an immediate recovery or will this be spread over a multi-quarter kind of duration there to recover those potentially deferred sales?
+
+Yeah. I'll take a crack at that, Ryan.
+
+Yeah, sure.
+
+I would, I think there is the opportunity for an acceleration in revenue, if you will. In the past, we haven't had the same kind of situation but we had sort of some similar ones. And at that point, I was advising people not to expect there to be like kind of a massive increase in revenue as a result of that because it would take time for the market to absorb this product. But I think the current circumstances are different. A lot of our customers actually are in critical need of product and are able to attain it right now because of supply chain impacts to us but also to other vendors. And so, I would expect that agencies are not only in a position but are in dire need of a lot of this product. So, should the components become available and we are able to accelerate our manufacturing and our shipping, it could result in like a windfall, if you will, that could happen within any given quarter.
+
+And then, as we think – I know you're not guiding to next year, we're one quarter away. Sounds like you could get some big recoveries pretty quick. I guess the medium-term guidance target is for low double-digit top line growth organically. How confident are you...
+
+Right.
+
+...in that kind of given the current situation?
+
+So, from a demand perspective, we're extremely confident. I mean, if you just look at the year-to-date, well, the third quarter bookings and the year-to-date backlog, I think it's like the backlog growth which was 20% on a year-to-date basis would indicate that there's certainly more than low double-digit demand for our products and services, and so it's going to be simply a matter of supply. As Doug said, the supply chain continues to be a challenge, and I think everybody is hearing that across all sectors, and we're certainly impacted by that the same way that everyone else is. That being said, we are taking a number of – we started taking a number of measures. In the third quarter, we continue to take them. So, I would say that having gone through this in the third quarter, we're probably better prepared to manage in this current environment in our fourth quarter than we were in the third. So, we're cautiously optimistic on the supply side. But again, on the demand side, we're highly confident about our ability to achieve double-digit growth.
+
+Last one for me. You mentioned M&A pipeline. Your stock has also pulled back here. How do you think about capital allocation and the most accretive use of that? Share buyback versus M&A?
+
+Yeah. Doug, you want to talk to that?
+
+Sure. Yeah. I mean, it really depends upon the target and the seller to be honest and the characteristics of the asset that we're buying. Obviously, issuing stock at $4 a share is not ideal, so that would be certainly lower on the list. And quite frankly, we have looked at things where the sellers want – they don't want stock; they just want an all-cash deal. So, it really depends upon the purchase price and the financial characteristics of the target that really drives how we think about how we might pay for that. But we have ongoing discussions with lots of private equity firms. You may have saw we put in a small line of credit with Capital One. So, we've got various different options we can look at, but it's really dependent upon the target, their financial characteristics, and what the seller is willing to work with.
+
+Just a clarification. I was referring to a share buyback...
+
+Share buyback?
+
+...not growing stock.
+
+Yeah. So, I mean, we do have an open authorization from our board and it's something that we continue to look at and talk about. And at some point, if something on the M&A horizon doesn't look like it's going to materialize, that's certainly one option. But as Joe mentioned, the pipeline is definitely looking better now than it was during the summer. So, we're continuing to feel like that's probably the best use as opposed to a share buyback.
+
+Thanks, guys. Good luck.
+
+Sure.
+
+Thanks, Ryan.
+
+[Operator Instructions] We'll take the next question from the line of Michael Latimore with Northland Capital. Please go ahead.
+
+Hi. This is [ph] Aditya (00:41:26) on behalf of Mike Latimore. Could you give some color on if you're getting any signals from the federal government regarding any programs that could benefit you? Or any potential benefit from the infrastructure bill that could emerge by the end of this calendar year?
+
+Absolutely. As we've said before, we expect that most state and local agencies will start to see an impact from the IIJA in their new fiscal year. Those fiscal years in general start either July 1 or October 1, and there are a number of different program areas that would certainly benefit us. One particular area that's been in the news lately is related to safety and the creation of a National Safety Council by the US Department of Transportation. We're actually affiliated with a coalition that is working closely with the National Safety Council. That's actually a relatively small amount of funding. The initial funding is $1.5 billion, but that's just an example of one activity that were closely engaged with key sponsors, and it's quite topical because it's been in the news lately.
+
+All right. And also, which states are most active when it comes to investing in your technologies and other related programs?
+
+For sure. So, if you look at the total national spending in smart mobility infrastructure, it's largely concentrated in California, Texas, and Florida, which are our three largest markets. I'd say in combination, those three markets represent about 40% of the total national spending. Not only do they tend to spend the most, in general they tend to be on the vanguard. A lot of the newer ideas are generated, tested, validated in those markets and then later adopted throughout other regions of the country.
+
+All right. And could you also tell me how much did TrafficCast contribute to this particular quarter?
+
+Sure. Yeah. Doug, do you want to talk to that? Are you there, Doug?
+
+I'm sorry. I was on mute. It's about $3.7 million in the quarter.
+
+I'm sorry. Can you repeat that again?
+
+Sure. $3.7 million of revenue in the quarter for TrafficCast.
+
+All right, all right, fine. Thank you.
+
+Yeah. So, actually, Doug, so just to confirm though. Was that $3.7 million in the quarter but as opposed to $8 million in the prior quarter. So, is it a net $2.9 million impact or did I get that wrong?
+
+Yeah. It was $800,000 in the prior year quarter, so the net of the TrafficCast revenue on a compare basis was $3.1 million. So, you can reconcile that back to the organic growth of $3.4 million that I mentioned.
+
+Yeah.
+
+All right. Got it. Thanks, guys.
+
+Sure.
+
+And there are no further questions at this time. Mr. Bergera, I would like to turn the call back over to you for any additional comments or closing remarks.
+
+Super. Thank you, operator. Appreciate it. And as always, I appreciate everybody's support and thoughtful questions. On the investor relations front, we'll be participating in various investor outreach events this quarter with our covering sell-side analysts. And we'll also be presenting at the B. Riley Institutional Investor Conference on May 25 and May 26. If you'd like to meet with us or you are participating in the B. Riley Conference, please plan to attend our presentation and/or schedule a one-on-one meeting with us. In the meantime, we look forward to updating you again on our continued progress and we report our fiscal 2022 fourth quarter and our full year results in early June. With that, we'll conclude today's call. Thank you.
+
+Ladies and gentlemen, this concludes today's call. Thank you for your participation and you may now disconnect your lines.

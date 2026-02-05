@@ -1,0 +1,100 @@
+Participants
+CORPORATE PARTICIPANTS
+Leslie Phillips — Investor Relations, The Blueshirt Group
+Andrew Stanley Guy Harries — Executive Chairman, BSQUARE Corp.
+Kevin T. Walsh — Acting Chief Executive Officer, BSQUARE Corp.
+Peter J. Biere — Chief Financial Oficer, BSQUARE Corp.
+
+Management Discussion Section
+
+Question And Answer Section
+
+Good day and welcome to the Bsquare Corporation Second Quarter 2018 Financial Results Call. Today's conference is being recorded.
+
+At this time, I would like to turn the conference over to Leslie Phillips, Investor Relations. Please go ahead.
+
+Thank you and good afternoon, everyone. Before we begin, we'd like to remind you that this call is being webcast and that a recording of the call and the text of our prepared remarks will be available on Bsquare's website.
+
+During this call, we will be making forward-looking statements. These statements are based on current expectations and assumptions that are subject to risks and uncertainties that could cause actual results to differ materially. Please refer to the cautionary text regarding forward-looking statements contained in Bsquare's earnings release issued today and in the posted version of these prepared remarks on our website at www.bsquare.com under Investors, both of which apply to the content of this call. All per share amounts discussed today are fully diluted numbers where applicable.
+
+Now I'd like to turn over the call to Andrew Harries, Bsquare Executive Chairman.
+
+Thank you, Leslie.
+
+In May, we took urgent steps to address disappointing results in our DataV enterprise IoT software business. These steps included changes in leadership, strategy and a reduction in operating costs. Since May, significant progress has been made. But we know more needs to be done, and the board of directors continues to work closely with management in doing what is required to build lasting shareholder value.
+
+To that end, in June, we announced the appointment of Ryan Vardeman, Principal and Co-Founder of Palogic Value Management, one of the company's largest shareholders, to our board of directors. Rob Peters, also a Principal of Palogic, is joining the board in place of Bob DeSantis who joined the board a year ago but who has stepped down due to increased demands on his time in his current role. We thank Bob for all his contributions.
+
+I continue to be engaged with management in improving the outlook for the business, and the board has formed a Strategic Review Committee comprised of three independent directors which Mr. Vardeman will chair. Kevin Walsh continues as Acting CEO, and I will now hand the call to Kevin to discuss actions and results so far.
+
+Thank you, Andrew, and good afternoon. Three months ago, we embarked on a new strategy for DataV and outlined three priorities for the remainder of 2018. Those priorities were to delight our customers, accelerate the pace of DataV customer acquisition and conversion, and improve our overall financial performance. Today, I will discuss the recent progress we've made against those priorities.
+
+First, we've significantly narrowed our product and sales focus. Rather than attempting to simultaneously address the six use cases we originally targeted, we elected to initially focus on IoT device management which builds on the success we announced with a major Fortune 100 global brand in May and our partnership with Amazon Web Services. It also builds on continued success with our flagship customer for IoT device management, Itron.
+
+We believe that enterprise IoT device management represents a significant market opportunity with manufacturers and operators of mission critical assets who are undertaking digital transformation initiatives. It is also a segment that we believe has been largely ignored by IoT software vendors. A May 2010 report from Gartner stated that the IoT market has a device management problem and that device management appears to be the technology where vendors spend the least amount of effort and investment.
+
+According to ABI Research, the market for IoT device management services within the industrial sector is expected to hit $9.7 billion by the year 2021. We continue to feel that we have a well-differentiated solution for this underserved but rapidly growing market.
+
+The strategy does not mean that we are backing away from our long-term vision of data visibility to address an array of complex predictive use cases. Instead, it means that we are going to be more deliberate and measured in our R&D and go-to-market strategies so that we can establish a foundation upon which we can build a scalable business.
+
+In the last three months, we have aligned our DataV go-to-market efforts more closely with AWS. We did this in order to leverage the close partnership already established with the world's leading cloud provider and benefit from their efforts to pursue the IoT market. Towards that end, we have implemented a number of joint demand generation programs that have already yielded new opportunities that we are pursuing together.
+
+For example, our July 24 webinar on IoT device management attracted over 600 attendees. We expect that aligning our sales and marketing efforts with AWS will yield greater economic efficiency, faster sales cycles, and a greater success than we would be able to achieve on our own. At the same time, our long-standing partnership with Microsoft remains in place and is critical to future revenue.
+
+In addition to these changes, we have taken steps to reduce overall spending. As reported earlier, we implemented cost reductions in the second quarter to remove approximately $5 million from our annualized operating expenses. Earlier in the current quarter, as we continue to refine our strategy, we removed an additional $1 million in annualized expenses.
+
+Included in these reductions was the decision by senior management to forego eligibility for 2018 bonus payments. We expect that these and other changes including strong receivable collection will result in a substantial reduction in our cash burn during the second half of the year. We currently estimate that second half net cash usage will be in the range of $1 million to $2 million.
+
+Across the company, we have been aggressively changing the manner in which we operate with the intention of delivering the results we know shareholders expect: building the DataV pipeline, converting pilots, and increasing sales under a more efficient structure. While these changes will take time to bear fruit, we remain vigilant in our efforts to deliver value to our customers and partners and believe that these steps have put the company on a path that will deliver improved results.
+
+Importantly, we secured $1.4 million in new orders for DataV products and services from existing customers in the second quarter. Included in this is the $500,000 SaaS agreement with a Fortune 100 customer that was announced in May. As a reminder, that agreement, along with the $1 million Engineering Services Agreement executed in Q1 2018, brings a total value for this customer to a minimum of $1.5 million.
+
+We believe these orders serve as a clear indication that our customers view BSQUARE as a strategic partner and that DataV is addressing their business challenges and helping them with broader digital transformation initiatives.
+
+This is the key element of our strategy; that we are not simply providing IoT software to enterprise customers, but rather that we are part of a larger, more strategic digital transformation wave that is reshaping the way businesses operate.
+
+While we did not close any new pilots during the quarter, several earlier pilots either concluded successfully and remain in the sales pipeline for production deployments or are still ongoing.
+
+Turning to our Third-Party Software business, we enjoyed a strong quarter that enabled us to beat our top line revenue guidance. Our Third-Party Software team continues to execute extremely well and with a high degree of efficiency. We believe that our customers in this segment, as well as our primary partner, Microsoft, obtain significant value from the professionalism this team delivers. We are making targeted investments to help ensure that this business continues to be a major contributor to shareholder value.
+
+Now, I would like to turn the call over to our CFO, Peter Biere, to address our financial performance for the second quarter.
+
+Thank you, Kevin. First, we'll review our revenue for the second quarter. Total revenue was $19.2 million, above the upper end of the $16 million to $18 million range announced in our Q1 2018 earnings call. Compared to the prior-year quarter, total revenue was up 2% from $18.8 million and down 7% sequentially from $20.7 million.
+
+Reviewing results by revenue grouping, Third-Party Software revenue was $17 million, higher both year-over-year and sequentially, reflecting stronger-than-expected demand in Microsoft Windows Embedded operating systems from our large customers.
+
+Over the past few quarters, we've had some success in winning new opportunities, and these new customers also contributed to the increase in revenue during the second quarter. While these new accounts were significant in making up the previously announced loss of Honeywell's EMEA business, given our limited history with these accounts, we continue to expect Third-Party Software revenue to fluctuate on a quarterly basis.
+
+Proprietary Software revenue was $281,000, down $200,000 year-over-year and down $1.5 million sequentially. Explaining the change from the year-ago quarter, we had a large periodic order of other Proprietary Software. The sequential revenue decline was due to the Q1 2018 recognition of $1.4 million of revenue on our Itron contract. Going forward, we expect revenue from both DataV and our other Proprietary Software will continue to fluctuate in both timing and amount.
+
+Professional Engineering Services revenue, which includes our DataV and traditional services contracts, was $1.9 million, down about $900,000 from both prior-year and sequential quarters. The year-over-year decline is explained by a number of traditional services contracts which reached their final delivery point. The sequential decline is explained by onetime Itron services revenue recognized in quarter one of 2018. Revenues for both Proprietary Software and Professional Engineering Services for DataV totaled $300,000 for the current quarter.
+
+Next, I'll discuss gross profit and margins in the quarter. Gross profit totaled $3.3 million or 17% of revenue, at the low end of the 17% to 19% range we announced in our last earnings call. Both gross profit and gross margin decreased year-over-year, primarily due to lower Professional Engineering Services revenue and associated utilization rates. The sequential decrease in gross profit and margin was primarily driven by lower Proprietary Software revenue due to the timing of DataV revenue recognition.
+
+Our Third-Party Software margins also declined for both quarterly and sequential periods due to the relatively lower margins from new customers that we've added over the prior few quarters. Despite the lower margins, these new customer orders helped us increase cash flow and we will continue to seek this profitable growth.
+
+Turning to operating expenses and our bottom line results in the second quarter, total operating expenses for the second quarter were $7 million, up $487,000 from the prior-year quarter and down $699,000 sequentially. The increase over the prior-year period reflects DataV product development investments made during 2017. The sequential decrease in operating expense reflects about a month's worth of impact from cost reductions implemented during the current quarter partially offset by severance costs.
+
+As Kevin mentioned earlier, we took further action to reduce costs by a million dollars early in the third quarter of 2018 bringing total annualized cost reductions to $6 million. We expect the full impact of these cost reductions to be realized during the third and fourth quarters of 2018.
+
+We recorded a net loss of approximately $3.7 million dollars or $0.29 per share for the second quarter of 2018 compared to a net loss of $2.6 million or $0.20 per share in the year-ago quarter and a net loss of $2.4 million or $0.19 per share for the first quarter of 2018.
+
+Adjusted EBITDA, a non-GAAP financial measure defined as operating income before depreciation and amortization in stock-based compensation, was negative $3.6 million during the second quarter of 2018 compared to negative $2 million in the year-ago quarter primarily due to lower gross profit on Professional Engineering Services and Proprietary Software revenue, combined with higher DataV expenses compared to the prior year. Please refer to the reconciliation to the comparable GAAP financial measures in our earnings release issued today and posted on our website at bsquare.com under Investors.
+
+Moving to the balance sheet, cash and investments totaled $17.9 million as of June 30, 2018, down $3.6 million from March 31, 2018. Net cash usage for the quarter was $300,000 higher than quarter one, mostly due to increased vendor payments related to higher Third-Party Software sales. The June 30 balance also included $1.2 million of cash converted from the loss of Honeywell's EMEA business.
+
+Directionally speaking, we anticipate cash usage to be at its highest in the second quarter of 2018. And as Kevin mentioned, we anticipate cash usage will significantly moderate in the second half of this year. We believe our cash and profits from legacy business, together with cost adjustments taken, should be enough to execute on our current plan.
+
+Our accounts receivable balance totaled approximately $16.2 million at the end of June 2018, about $7.6 million of which is due from Honeywell. We extend 270-day terms to Honeywell, and we pay Microsoft for these products in 45 days, so approximately $6.8 million of this receivable will convert to cash. Related to the loss of Honeywell's EMEA business, we expect approximately $3 million of cash conversion for the remainder of 2018.
+
+I will now turn the call back to Kevin who will provide an outlook for the third quarter and some closing remarks.
+
+Thank you, Peter. As noted in today's press release, we currently have the following expectations for Q3 2018. Revenue in the range of $17 million to $19 million; blended growth margin will be in the 16% to 18% range; and the sequential reduction in net loss due to lower overall compensation, marketing, sales, and administrative costs resulting from the recent expense reductions. For the entire second half of 2018, we expect net cash usage of $1 million to $2 million for the balance of the year.
+
+Moderator, please open the call for questions.
+
+Thank you. [Operator Instructions] At this time there are no questions. I'll turn the conference over to Kevin Walsh for any additional or closing comments.
+
+Before concluding the call, on behalf of the entire Bsquare team, I would like to thank our investors and our customers for your interest and for your business. We look forward to reporting back to you next quarter. Thank you for joining us.
+
+That does conclude today's conference call. Thank you for your participation. You may now disconnect.

@@ -1,0 +1,81 @@
+Participants
+CORPORATE PARTICIPANTS
+Graham Farrell — Managing Partner, Harbor Access LLC
+Andrew T. Duncan — Chairman, President & Chief Executive Officer, Boardwalktech Software Corp.
+Charlie Glavin — Chief Financial Officer, Secretary & Director, Boardwalktech Software Corp.
+
+Management Discussion Section
+
+Question And Answer Section
+
+Good afternoon, ladies and gentlemen. And welcome to the Boardwalktech Software Corp. Fiscal Full Year 2024 Earnings Call. At this time, all lines are in listen-only mode. Following the presentation, we will conduct a question-and-answer session. [Operator Instructions] This call is being recorded on Thursday, June 27, 2024.
+
+And I would now like to turn the conference over to Mr. Graham Farrell. Thank you. Please go ahead.
+
+Thank you, operator. Good afternoon and welcome, everyone, to Boardwalktech's quarterly conference call. This call will cover Boardwalktech's financial and operating results for the full year and fourth quarter of fiscal 2024 period ended March 31, 2024. Our call today will be led by Boardwalktech's President and Chief Executive Officer, Andy Duncan; along with the company's Chief Financial Officer, Charlie Glavin.
+
+Before we begin with our formal remarks, I would like to remind everyone that some of the statements on this conference call may be forward-looking statements. Forward-looking statements may include, but are not necessarily limited to, financial projections or other statements of the company's plans, objectives, expectations or intentions. These matters involve certain risks and uncertainties. The company's actual results may differ significantly from those projected or suggested in any forward-looking statements due to a variety of factors which are discussed in detail in our regulatory filings.
+
+Today, the company issued its fourth quarter and full year fiscal 2024 financial results, a copy of which is available in the Investor Relations section of our website, boardwalktech.com, and posted on SEDAR+. I would like to remind everyone that today's call is being recorded on Thursday, June 27, 2024.
+
+I will now turn the call over to President and Chief Executive Officer of Boardwalktech, Andy Duncan. Please go ahead, Andy.
+
+Thank you, Graham. I would like to welcome everyone to Boardwalktech's quarterly earnings call to discuss the company's financial results for the fourth quarter and full fiscal year 2024. Fiscal 2024 was a pivotal and demanding year for Boardwalktech and certainly wasn't without its challenges. The year was a period of refinement and prioritization for Boardwalktech. Our existing base business with our roster of Fortune 50 clients remains strong and will act as the foundation for growth as we move forward into fiscal 2025.
+
+Before I speak about how we see fiscal 2025 unfolding, I would like to briefly touch on an important part of our refinement and prioritization that occurred in fiscal 2024, which involves some difficult, but necessary decisions around the realignment and upgrade to our sales and marketing strategy.
+
+Up until late last year, the company had a traditional direct sales model driven solely by an enterprise sales team. However, with our target market comprised of large global enterprises with long sales cycles, our size and scale were proving to be an impediment to rapidly driving new business. Therefore, we saw a rationalization of our sales and marketing departments. And although we are maintaining a direct sales team currently, our focus has shifted to improving the sales flow and associated time to close deals by leveraging teaming agreements with large global IT services and consulting companies. Those IT partners have both large scale and existing relationship with desired customers, which means more opportunities and lower hiring needs for Boardwalk that will include improved conversion rates.
+
+Throughout 2024, we announced several of these teaming agreements that have given the company access to an increased amount of new deal flow. It is a win-win scenario as Boardwalktech gains access to new prospects and customers who have a deep and long relationship with the IT services companies who are sponsoring us, while these new partners are incentivized to help drive new business as they will reap the benefits of additional professional services revenue and realize success for their customers while Boardwalk maintains and gets the direct license revenue. That sponsorship should also streamline the vetting and/or due diligence process with these customers, thus decreasing the sales cycle.
+
+Let me be clear, investors should view these recent announcements as a positive sign or as a leading indicator, because these IT partners would not waste time nor their reputations, unless they believe there was near-term revenue and success to be realized.
+
+We are very encouraged by this approach, as we already are seeing momentum pick up over the last three months. We are in discussions with several new large global institutions delivered through this partner channel, and we are seeing an acceleration of uptake within existing clients using our software.
+
+A key reason for this over the last six months is that results conducted by one of our partner IT services companies at a mutual client showed a 10x ROI improvement when using our Velocity product to resolve compliance and process improvement issues in financial institutions versus alternative software solutions. Thus, I am confident that our new approach to sales by partnering with these IT services companies will yield new and meaningful business in fiscal 2025 and beyond while decreasing sales cycle.
+
+Lastly, before I pass the call over to our CFO, Charlie Glavin, I would like to briefly mention a couple of other items. First, the work that we have started with TCS, a current teaming agreement partner with Boardwalktech who, as a reminder, is part of the Tata Group, the largest IT services company in the world with over 600,000 employees, we are working on a large, existing mutual banking customer, and the work is going very well. There are currently over 35 TCS team members, with more coming, now certified on the Velocity platform and working with Boardwalk personnel on the delivery and implementation of our Velocity product, expanding our footprint daily at this bank, which is a huge validation for this customer and other business units within this customer who are tracking our joint progress and who will, at some point, start to deploy Velocity in other business units.
+
+A nice bonus is that our work with TCS has made Boardwalk and Velocity even more desirable in the eyes of other competing IT services and consulting companies who are now reaching out to partner with Boardwalktech and engaging with us in other opportunities, especially in the financial services space.
+
+Recent new teaming partners announced include Hexaware, LTIMindtree and UST Group, and several other new partners are teed up. So look for announcements on additional progress in this area.
+
+Also, I would like to mention the addition of our new Chief Marketing Officer, Elizabeth Venafro, as well as the addition of Jay Cherrie as a consultant and new addition to Boardwalktech's Advisory Board. Having Jay join the Boardwalktech family is a major coup for the company. Jay has spent the better part of two decades working with banks and other large financial institutions, helping them implement large scale digital transformations across their enterprise.
+
+Most recently, Jay was with a major competitor to Boardwalktech, where he was Global Industry Lead for financial services. Working now with Boardwalktech and leveraging his relationships within the financial services industry will provide another boost to the company's sales efforts.
+
+With that, I will now pass the call over to Charlie to discuss the company's financial performance. Charlie, please go ahead.
+
+Thanks, Andy. Before I begin, I would like to take a moment to remind our listeners that all figures reported on today's call are in US dollars and that our fiscal year ends March 31, with reported figures based on IFRS standards, unless otherwise specified.
+
+Total revenue for fiscal 2024 was $6 million, compared to the $6.5 million for fiscal 2023, representing an 8% decrease in total annual revenue. However, it's important to note that the portion of revenue from new and recurring SaaS licenses earned in fiscal 2024 actually increased by 12% year-over-year, but total revenue was offset by a 60% decline in professional services revenue.
+
+As of the end of the year, roughly 90% of our revenue is coming from recurring licenses growing at a 22% compounded rate over the last two years even when you factor out Velocity and banking customers. While lowering the contribution of revenue from professional services was the stated goal by the company so we could focus on growing recurring revenue, the impact last year was a bit larger than expected. While we do expect a rebound in this professional services revenue in the upcoming year, it is not our prime focus versus increasing ARR.
+
+Our annualized recurring revenue, or ARR, as of March 31, 2024 was $5.6 million, which is flat with the prior quarter. As a reminder, we calculate ARR based on the past three months of recurring revenue, so this reflects our rate exiting the year.
+
+Gross margin for fiscal 2024 was 89.6% versus the 90.6% from the prior year. And while the contribution from lower margin professional services helped, most of our cost of sales is from hosting, which is essentially a fixed cost. So absolute revenue levels are going to impact gross margin more than product mix. That said, we do expect gross margins to stay at these high levels going forward and then expand as revenue levels increase.
+
+Net loss for the fiscal 2024 was negative $3.1 million or $0.06 per basic and diluted share, which was a 13% improvement versus the $3.6 million loss in fiscal 2023 or an $0.08 per share. The improvement was mainly due to $0.5 million decrease in adjusted operating expenses. But most of the impact from the company's realignment and cost efforts announced in January of 2024 is really expected to be realized in the upcoming quarters of this year. This fourth quarter included several one-time costs, including severance and restructuring.
+
+Andy has mentioned in prior calls, our goal is still to achieve profitability by the end of the year, but not at the expense of compelling long-term growth opportunities. We've already had success hiring a fractional CMO and other targeted marketing investments, which Andy alluded to.
+
+Non-IFRS loss for fiscal 2024, defined as a non-IFRS financial measure in our filing statement, totaled $1.6 million or a loss of $0.03 per basic and diluted share versus a $1.7 million loss in fiscal 2023 or $0.04 per share. However, our exiting the year is more apparent as the non-IFRS loss in the fourth quarter was $300,000 (sic) [$400,000], which was a 13% improvement over the $0.5 million non-IFRS net loss in the fourth quarter of 2023.
+
+Similarly, adjusted EBITDA for fiscal 2024 was a loss of $1.6 million comparable with the loss in 2023. However, these annual figures do not show the quarterly progress exiting the year, as adjusted EBITDA in the fourth quarter was $340,000 or a 20% improvement over the $400,000 adjusted EBITDA loss for the fourth quarter of 2023 and a 10% sequential improvement over the third quarter. These improvements occurred despite the drop in professional services.
+
+The company finished fiscal 2024 with a stronger balance sheet, including $2.2 million of cash balances, another $0.5 million of trade receivables from new and renewing annual licenses. As we close new licenses and receive renewal licenses combined, ARR and cash balances are expected to grow.
+
+I would like to point out that our cash, going forward, is likely to fluctuate less on a quarterly basis as several large customers have negotiated quarterly payments or installments for their annual licenses. The annual fees are still binding, just payments will be spread out, meaning that the balance sheet accounts are going to be more linear and, thus, easier for investors to track our progress rather than relying on the two or four-month trailing moving average with Boardwalktech on the return with longer commitments from those customers and less variable cash flows going forward.
+
+So in conclusion, given the company's forecast that Andy mentioned, the company still has sufficient funds and current resources and strategic sales and marketing investments in place and positioned to increase growth this year and future years as well.
+
+With that, I will now turn the call over to the operator to open up for the Q&A portion of the call.
+
+Thank you. Ladies and gentlemen, we will now begin the question-and-answer session. [Operator Instructions] There are no questions at this time. I will now hand the call back to Mr. Andrew Duncan for any closing remarks.
+
+Thank you, operator. I would like to acknowledge the patience of our investors while we continue to build Boardwalktech. And I want to assure you of our commitment to long-term success. As you can see from recent filings, officers and directors have both participated in the recent financings and bought shares in the open market. We think that these actions speak for themselves.
+
+We look forward to updating you with our progress, and we will speak with you again in August when we report our Q1 of fiscal 2025. Hope everyone has a great summer and thank you for being on the call and thank you for being an investor in Boardwalktech.
+
+That concludes our conference today. Thank you for participating. You may all disconnect.

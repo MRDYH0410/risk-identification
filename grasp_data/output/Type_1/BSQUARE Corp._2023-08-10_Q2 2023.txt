@@ -1,0 +1,59 @@
+Management Discussion Section
+
+Question & Answer Section
+
+Good day and welcome to the BSquare Corporation Second Quarter 2023 Earnings Call. All participants will be in listen-only mode. [Operator Instructions] After today's presentation, there will be an opportunity to ask a question. [Operator Instructions] Please note, this event is being recorded.
+
+I would now like to turn the conference over to Ralph Derrickson, President and CEO. Please go ahead.
+
+Thank you. Good afternoon, investors, and welcome. Joining me today is Cheryl Wynne, BSquare's Chief Financial Officer. Before we go any further, we'd like to remind you that the call is being webcast and that a recording of the call and the text of our prepared remarks will be available on the BSquare website.
+
+During today's call, we will be making forward-looking statements. These statements are based on current expectations and assumptions that are subject to risks and uncertainties that could cause actual results to differ materially.
+
+In our commentary, we may also refer to GAAP and the non-GAAP financial measures. Please refer to the cautionary text regarding forward-looking statements contained in BSquare's earnings release issued today on our website at www.bsquared.com under Investors. All per share amounts discussed today are fully diluted numbers where applicable. We will be taking questions after our prepared remarks. For anyone who would like to arrange a follow up conversation with us, please send an e-mail to InvestorRelations@bsquare.com. This mailbox is monitored regularly and you will get a response within one business day.
+
+Let's start by having Cheryl take us through the Q2 results in detail and I'll continue with my remarks after that. Cheryl, why don't you get us started?
+
+Thank you, Ralph. And good afternoon, investors. Today, I'll be providing an overview of our financial results for the second quarter of 2023. Let's take a look now at the components of our results. I'll start with a review of our income statement and then move to a discussion of our liquidity. Most of my comparisons will be to the first quarter of 2023. I'll let you know when I'm comparing to other periods.
+
+Total revenue for the second quarter was approximately $6.5 million, which was a decrease of $1.6 million or 20% from the first quarter. The Partner Solutions segment was the primary driver of the decrease with a $1.5 million decline. Edge to Cloud revenue decreased $100,000. Despite the revenue decline, total gross profit increased by $90,000.
+
+Let's take a look at our revenue and gross profit results at a segment level, starting first with Partner Solutions. Partner Solutions' revenue decreased $1.5 million or 21% quarter-over-quarter. The decline is the continuation of a general trend that we've seen in this segment for quite some time now. Partner Solutions' gross profit increased to $164,000 and gross margin rate improved 6.8 percentage points.
+
+The gross profit decrease driven by the revenue decline was offset by margin rate improvement, primarily related to rebate credits earned through Microsoft's distributor incentives program. These credits are recorded as a reduction of Partner Solutions' cost of revenue and have always had a favorable impact on Partner Solutions' gross profit. However, the impact this quarter was greater as there were changes to the program. As a result of the changes, we recorded one-time adjustments of approximately $300,000 that favorably impacted Partner Solutions to gross profit.
+
+approximately $300,000 that favorably impacted Partner Solutions' gross profit. In the Edge to Cloud segment revenue was $774,000, which was a decrease of $100,000 compared to the first quarter. The decline was driven by reduced professional services provided to one of our customers who is transitioning to a new technology platform.
+
+The revenue decrease was the primary driver of the quarter-over-quarter gross profit decline of $77,000. Turning our attention now to expenses. Total operating expenses were $2 million, which was a $300,000 increase compared to the first quarter. The increase was entirely driven by selling, general, and administrative or SG&A cost, as our research and development costs were flat quarter-over-quarter. Off the $300,000 increase in SG&A, about two-thirds was due to a decrease in the recognition of cooperative rebate funds from Microsoft. We recorded these co-op funds as a reduction of marketing expense in the period the expenditure is approved. Timing related to the process of submitting claims and receiving expenditure approval can cause fluctuations in the amount of co-op funds recognized each quarter.
+
+Please note that going forward, due to the changes in Microsoft's distributor incentive program, the full amount of rebate from Microsoft will be recognized as a reduction of partner solutions' cost of revenue. None of it will be recognized as a reduction of marketing expense because there will no longer be requirements related to how the funds are spent. The remaining $100,000 increase in SG&A was due primarily to an increase in professional fees related to our annual shareholder meeting and strategic transaction activity.
+
+As you may recall, during the third quarter of 2022, we implemented an investment strategy intended to take advantage of favorable interest rates while maintaining a focus on liquidity. Our Q2 results include $390,000 of interest income. We intend to continue investing our cash reserves for this for the foreseeable future until there is an alternative use of the reserves that will produce a higher return for our shareholders.
+
+Our loss from operations for the quarter was $650,000, which was a deterioration of $300,000 compared to the first quarter, driven by the SG&A cost changes discussed earlier. Net loss for the quarter was $300,000 or $0.01 per diluted share compared to the first quarter net loss of $100,000 less than $0.01 per diluted share.
+
+On a year-to-date basis, loss from operations was $1.1 million, an improvement of $500,000 compared to the same period in 2022. Year-to-date net loss was $300,000, an improvement of $1.2 million compared to the first half net loss of $1.5 million in 2022.
+
+Turning now to our liquidity. Cash, cash equivalents, restricted cash and short-term investments totaled $33.4 million on June 30, 2023, a decrease of $2.3 million compared to December 31, 2022. $660,000 of the decrease was driven by share repurchases, and $1.5 million was due to changes in our working capital accounts. As a reminder, we announced a plan to repurchase up to $5 million worth of our common stock. During the first six months of 2023, we repurchased approximately 550,000 shares for just over $650,000. Since program inception, we have repurchased approximately 730,000 shares for just over $860,000. The repurchase program expired on June 30, 2023 and was not renewed, which Ralph will speak to in a moment. This concludes my summary of our second quarter results. Now I'll turn it back to Ralph now.
+
+Thank you, Cheryl. The decrease in Partner Solutions revenue is disappointing, but consistent with the year-over-year decline in Microsoft OS licensing revenue that we have discussed on previous calls. Embedded product developers are increasingly turning to Linux and Android for their operating system in an effort to lower their product costs, especially for the smaller footprint devices.
+
+That said, we are winning new customers for Windows IoT with superior service and technical support, aggressive pricing and giving them a path to device management and Iot operations. Unfortunately, revenue from new customers is not keeping pace with the erosion from customers whose products are going end of life are switching to alternatives for their OS software.
+
+We continue to work closely with Microsoft to share our experience and help them to strengthen the story for Windows Iot in the embedded market. But, our expectation is that keeping licensing revenue erosion under 15% would be an achievement.
+
+Let's turn our attention now to our bottom line and our efforts to run the business as efficiently as possible. As I've shared in the last three calls, achieving breakeven operations is a priority. Our progress towards that goal is most evident in the difference in year-to-date result. 2023 year-to-date, operating results are $500,000 better in 2022, a 31% improvement. Further, our net loss improved by $1.2 million, a 78% improvement as our bottom-line results were bolstered by interest income. The operating improvements came in part as a result of the staffing reductions we made in December of last year and efforts across the board to reduce expense. These improvements are playing out in our operational cash consumption as well.
+
+Stepping back from operations, I'd like to turn our attention to what is happening on the strategic front. During the Q1 2023 earnings call, I said that we were not going to continue the status quo and that action would be taken in a time line measured in months and quarters. As we shared in the earnings press release today, we have been working with Telegraph Hill Advisors, a San Francisco-based investment bank, to run a process to explore the full range of strategic options for generating shareholder value. There isn't more information to share now, but rest assured we are moving thoughtfully and as aggressively as the process allows.
+
+While the process is running, we opted not to renew the share repurchase program. We don't believe the current share price captures the full potential value of the company. Getting back to operations, we will continue to run the business as efficiently as possible and look for opportunities to demonstrate the potential for SquareOne to become the basis of a high margin SaaS business. We haven't talked about SquareOne since we announced late last year that we were dialing back marketing, but that doesn't mean we've stopped our efforts. In fact, we are in active evaluation with a number of companies who are considering SquareOne as the basis for their device management needs and other customers considering SquareOne as the basis for their IoT system. We have made significant architectural improvements to SquareOne that will allow developers to extend the core functionality via Plugins and WebSocket. Notably, this allows us to use AI and ML at the edge and in the cloud to build sophisticated systems that allow individual devices to contribute data and participate in shared decision making. All of these capabilities can be seen on the SquareOne evaluation site on our website that gives customers up to 30 days of access to SquareOne at no charge.
+
+Concluding then, we will continue to serve our customers with superior products and services. At the same time, we will strive to maximize the operational assets of the business, while aggressively pursuing strategic options. The board, Cheryl and I, are balancing those priorities with the objective of developing options and opportunities to return value to our shareholders.
+
+With that operator, please open the line for questions. While people are signaling to ask questions, remember, if you'd like to arrange a follow-up conversation, please send an e-mail to Investor Relations at bsquare.com.
+
+Thank you. We will now begin the question-and-answer session. [Operator Instructions] There are no questions at this time. I'll now turn the conference back over to Ralph Derrickson for any closing remarks.
+
+Thank you, operator. And thank you, investors. I really appreciate your time and attention this afternoon and I would like to close our call by wishing our CFO a very happy birthday. Thank you.
+
+Thank you. The conference has now concluded. Thank you for attending today's presentation. You may now disconnect.

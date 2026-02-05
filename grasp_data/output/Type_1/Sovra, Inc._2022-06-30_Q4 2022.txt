@@ -1,0 +1,124 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+Luc Filiatreault — President, Chief Executive Officer & Director, mdf commerce inc.
+Deborah Dumoulin — Chief Financial Officer, mdf commerce inc.
+Ben Franklin — Analyst, Riverstyx Capital Management
+
+Management Discussion Section
+
+Question And Answer Section
+
+Thank you for standing by. This is the conference operator. Welcome to the mdf commerce Fourth Quarter Fiscal 2022 Investor Conference Call. Today's call will provide information and commentary on the company with a focus on the financial results released yesterday after the market closed.
+
+We will hear from Luc Filiatreault, President and Chief Executive Officer; and Deborah Dumoulin, Chief Financial Officer. If you have questions following the call, you can reach mdf commerce at the address at their website www.mdfcommerce.com. First, here are a couple of housekeeping notices. All participants are in a listen-only mode for the duration of the call. The call is being recorded and we expect the recording will be available on the mdf commerce website later today.
+
+The information in today's remarks, including any forward-looking statements, has been prepared as of March 31, 2022, unless otherwise indicated. mdf commerce assumes no obligation to update or revise the forward-looking statements to reflect any new events or circumstances, except as may be required pursuant to securities law.
+
+We remind you that today's remarks will include forward-looking statements and non-IFRS measures and key performance indicators that are subject to important risks and uncertainties. For more information on these risks and uncertainties, non-IFRS measures and key performance indicators, please refer to the reader advisory at the bottom of mdf commerce's news release, which is on their website, and which has been filed on SEDAR at www.sedar.com. The company's actual performance could differ materially from these statements.
+
+I would now like to hand the call over to Mr. Filiatreault. Please go ahead, sir.
+
+Good morning, everyone. Thanks for joining us for our Q4 and full year fiscal 2022 results. We will turn to the results we filed yesterday in a moment, but first, I want to take a bit of time to tell you about mdf commerce and the state of our operations.
+
+We're a developer and operator of digital commerce platforms that facilitates billions of dollars of year of digital commerce transactions for well over 500,000 end user companies, mostly in North America. March 31, 2022 marks the completion of our second year of the transformation plan that we developed and started implementing soon after I joined the company.
+
+During the year, we executed a significant transaction in the history of the company when we acquired Periscope, a leading US-based eprocurement vendor on August 31, 2021. This addition of technology and market coverage makes us become the North American leader in government procurement software. As we enter the third year of our strategic plan, our objectives are to further focus and simplify operations to maximize execution towards profitable growth.
+
+Our innovative transactional model is continuing to generate significant interest across multiple government states and agencies. The solution, now integrated with CLM, Contract Lifecycle Management, is already in use by three states and multiple major agencies with a strong pipeline of opportunities. We expect significant increase of spend processed in our systems later this year, once some implementation milestones are met at our various customers.
+
+The eprocurement platform is the largest revenue stream for mdf commerce and represents nearly 50% of total consolidated revenue for the year, with just seven months of Periscope with us. It has grown 61.4% year-over-year to reach CAD 52.8 million. Eprocurement represents 53% of total revenue for the fourth quarter of fiscal 2022, with recurring revenue representing 91% of this eprocurement revenue.
+
+Something else I want to point out is that the length of our state procurement contracts is typically five years, and the lifecycle of an average client is over nine years. Those are the reasons we are working to become that North American leader in eprocurement, because there is strong demand for digital transformation at the state and agency level. The quality of those revenue is very high due to the large amount of recurring. Customer stickiness is also high, and gross margins are solid for this types of platform.
+
+During the quarter, we continued to focus on evolving the Periscope product into a full procure-to-pay offering. It now includes the full integration of our Contract Lifecycle Management product, making it an integral part of a complete procure-to-pay solution.
+
+Since the acquisition and integration of Periscope, the company has onboarded over 100 government procurement agencies and 117 Contract Lifecycle Management clients. It is notable to mention that several of these CLM wins comes from cross-selling into major government agencies gained into the Periscope acquisition.
+
+Also worth noting is a new project with a major US retailer to add their inventory to the state of Arkansas marketplace called ARBuy. Once completed, state and local buyers throughout Arkansas will be able to easily purchase this retailer's products and services directly through ARBuy. We are expecting to go live with this solution later this summer.
+
+These various additions and improvements will contribute to increasing the amount of spend that flows through our technology resulting in an increase of the convenience fees obtained on these transactions. I'm pleased to say that the product development roadmap is on track. We have gained over CAD 1 million of cost synergies since the acquisition. The pipeline of opportunities is strong, growing, and more and more interest is generated towards our full epro and marketplace products.
+
+Revenue from eprocurement in January, February and March were impacted by deployment delays due in part to Omicron and to the overall tightness in resourcing for both our clients and ourselves. We are turning our attention now towards further simplifying deployments to improve scalability and leveraging our epro technology, including marketplace to capture government spend and increase the number of suppliers reporting and paying the transaction base convenience fees. As a result, we are confident that we are gaining momentum with those long-term contracts.
+
+A few words on ecommerce, in fiscal 2022, the Unified Commerce platform added two significant enterprise clients, along with over 65 small, medium businesses and several hundred suppliers have joined our supply chain networks. Also worth noting, over the past year, one of our existing clients, a multinational B2B company has implemented 20 transactional sites on the Orckestra technology and plans to roll out a large number of other sites with different divisions of their company over the next two years.
+
+From a product innovation perspective, we added an Amazon market integration ability to integrate with Apple Pay as well as a full ERP integrated payment solution and many other improved product capabilities. Finally, we've also upgraded our order management system, allowing it to integrate more easily with ecommerce solutions like Shopify and other competitors. As a result, customers can now add this important feature to their existing commerce technology without the need to re-platform.
+
+We continue to invest in talent and significant advancements have been made in terms of our foundational investments. We're entering a new phase of the transformation for mdf commerce. These investments include cloud migration, product improvements to not only accelerate implementation but also to add key features and functionality that better serve the needs of our customers. Moving forward, we plan to further focus and simplify the business, maximize execution towards profitable growth.
+
+We are confident in the resiliency of the market segments in which we compete, the long-term quality of our recurring revenue stream, and our market position within those segments. We can confidently navigate the emerging macroeconomic trends, such as the global supply chain issues, the war in Ukraine, and the global inflation.
+
+And now, I'd like to turn the call over to Deborah to discuss the Q4 and full-year fiscal financial results in more detail. Deborah?
+
+Thanks, Luc, and good morning to everyone. I'll start with the financial highlights of the fourth quarter of fiscal 2022. Q4 revenue was CAD 30 million, compared to CAD 22 million the same quarter last year, representing an increase of CAD 7.9 million, or 36%. On a constant currency basis, that increases CAD 8.2 million, or 38%, compared to last year's quarter. Q4 recurring revenue was CAD 26.1 million, now representing 78.9% of total revenues, compared to CAD 16 million, or 72%, for the same quarter last year.
+
+As the eprocurement platform continues to represent a larger percentage of the company's total revenue, high recurring revenue increases the predictability of our total revenues. As was the case for Q2 and Q3, the revenue recognition for this quarter was unfavorably impacted by a fair value IFRS accounting adjustment on deferred revenue, and this goes back to the closing balance sheet of Periscope acquisition, but resulted in a CAD 1.9 million revenue reduction for the current quarter.
+
+Turning to eprocurement platform, a core platform for the company, the Q4 revenue was CAD 15.8 million, compared to CAD 8.7 million, representing an increase of CAD 7.1 million, or 81.5%, compared to Q4 last year. The US-based eprocurement, which includes Periscope, now represents 70% of total revenue for the platform for the quarter. It represents the highest growth platform in Q4 and had revenue of CAD 11.1 million, representing growth of 153% compared to Q4 of fiscal 2021. Q4 fiscal 2022 growth comes from the addition of Periscope and from organic growth as we continue to onboard new government agencies, as Luc mentioned in his opening remarks. Eprocurement generates strong recurring revenue as a percentage of total revenue and represents 90.4%, which is consistent with Q4 of the prior year.
+
+In Unified Commerce, our other core platform, which includes both ecommerce and supply chain collaboration, it saw revenue of CAD 9.8 million compared to CAD 9.7 million reported for the same quarter last year. Recurring revenue on the Unified Commerce platform represented 59% of platform revenue for the fourth quarter, compared to 62% in the same quarter of the previous year.
+
+The corporation's supply chain collaboration solution reported revenue of CAD 3.4 million, an increase of 6.7% or CAD 0.2 million compared to the fourth quarter of fiscal 2021. For emarketplaces, it had revenue of CAD 4.2 million, compared to CAD 3.6 million (sic) [CAD 4.3 million, compared to CAD 3.7 million] (13:35) in the fourth quarter of the previous year. The increase of CAD 0.7 million (sic) [CAD 0.6 million] (13:41) is mainly from increased activities in The Broker Forum, which has been benefiting from the worldwide scarcity of certain electronic components.
+
+If we look at gross margin, it was CAD 16.6 million, or 55.5%, compared to CAD 13.5 million, or 61%, for the fourth quarter of fiscal 2021. The decrease in gross margin percentage is mainly due to higher total salary expenses relating to higher head count and higher salary, higher professional fees to support customer implementations, and increased hosting, licensing costs, as the corporation continues its migration to a cloud-based strategy.
+
+Operating expenses were CAD 23.3 million (sic) [CAD 23.6 million] (14:28), compared to CAD 16.7 million in the fourth quarter of the previous year. Operating expenses increased in the Q4 quarter, primarily due to the head count increases due to the acquisition of Periscope and additional investments in our foundational programs, as we migrate our solutions to the cloud strategy. Acquisition-related expenses, restructuring costs, and increases in amortization expense, mainly on acquired intangible assets, also increased operating expenses.
+
+The operating loss was CAD 7 million during the fourth quarter of this year, compared to CAD 3.3 million during the fourth quarter of the previous year.
+
+From a net loss perspective, we were at CAD 8.7 million, or CAD 0.21 per share, basic and diluted, compared to CAD 2.9 million, or CAD 0.12 net loss per share, basic and diluted, in fiscal 2021 for Q4. Adjusted EBITDA loss was CAD 0.8 million for the fourth quarter of fiscal 2022, compared to a positive CAD 0.2 million in the same quarter of last year.
+
+The accounting adjustment that I mentioned earlier on the fair value of deferred revenues at the opening balance sheet date of Periscope, which had an impact on revenues of CAD 1.9 million in Q4, also unfavorably impacts gross margin, operating loss, net loss, adjusted EBITDA and that all impacts on Q4.
+
+We do realize that the last quarter was a bit softer than what we've anticipated. The challenges we faced in terms of scarcity of resources, both internally and with our clients have slowed down some of our projects and had a direct impact on revenue generation. Additionally, the opening balance sheet for value had the CAD 1.9 million impact that I mentioned earlier. We've seen signs that the labor crunch may start to loosen up. We've seen signs that it's moving in the right direction.
+
+As we move – as we hope that as this does move in the right direction, that will become a more normal level of project roll out. At the end of the next quarter, the fair value adjustment of deferred revenue that has been impacting our revenue over the last few quarters will become a thing of the past and no longer negatively impact our results. If I turn quickly now to the year-end results for the fiscal 2022, revenue for the year was CAD 108 million compared to CAD 84.7 million, an increase of 27% year-over-year.
+
+On a constant currency basis, the increase was 30.3%. Recurring revenue was CAD 87.9 million, representing 77% of total revenues for fiscal 2022. This compares to CAD 64.4 million and 76% of total revenues for fiscal 2021. Revenue growth in total dollars as a percentage of revenue was accelerated by the acquisition of Periscope. Revenues for the year were impacted by the deferred revenue fair value adjustment on Periscope of CAD 5.4 million for the year. Eprocurement platform generated CAD 54.8 million compared to CAD 32.7 million, and that's a CAD 20.1 million increase or 61% increase over the prior year. Specifically within eprocurement, the US based eprocurement network contributed positively to revenue growth with an increase of CAD 19.2 million or 122% compared to fiscal 2021.
+
+Recurring revenue as a percentage of total revenue for eprocurement was 91% in fiscal 2022, compared to 92% in fiscal 2021. The Unified Commerce platform generated revenues of CAD 39.6 million for fiscal 2021, compared to CAD 37 million for fiscal – sorry – for fiscal 2022, it was CAD 39.6 million compared to CAD 37.3 million for 2021, an increase of 6.2% driven by new customer contracts across the Unified Commerce platform. Recurring revenue as a percentage of total revenue for Unified Commerce was 58% in fiscal 2022, stable in comparison to 59% for fiscal 2021.
+
+Professional services revenue, mainly in ecommerce, reduces the recurring revenue as a percentage of total revenue for that platform. Emarketplaces generated CAD 15.9 million for fiscal 2022, compared to CAD 14.7 million in fiscal 2021. And again, The Broker Forum contributed CAD 3.3 million of revenue in fiscal 2022 primarily due to the increased activity that that platform has seen with the increased demand for scarce electronic components and related escrow services.
+
+For fiscal 2022, our net loss was CAD 23.9 million, or CAD 0.64 per share, basic and diluted, compared to a net loss of CAD 7.6 million, or CAD 0.38 per share, basic and diluted, for fiscal 2021. The company's results include seven months of Periscope acquisition, higher acquisition-related costs, restructuring costs including Periscope's acquisition-related bonus – retention bonuses, and higher amortization expenses on acquired intangible assets and right of use assets, increased the operating expenses in fiscal 2022 compared to the prior year.
+
+Expenses also grew organically year-over-year to support the corporation's revenue growth and transformation strategy. These expenses included higher salary costs, mainly from additional head count, in sales, marketing, and technology, and higher professional service expenses. In fiscal 2022, operating expenses were net of a CAD 0.7 million salary subsidy, compared to CAD 3.4 million in the previous year.
+
+Adjusted EBITDA loss for the year was CAD 2 million, compared to CAD 5.7 million adjusted EBITDA in 2021. Again, the adjusted – accounting adjustment on the fair value of deferred revenues, which was recorded at the acquisition date, did have an impact on not only the revenue of CAD 5.4 million for the year, but also had an unfavorable impact on gross margin, operating loss, net loss, adjusted EBITDA, and loss per share for fiscal 2022.
+
+With that, Luc, I'll turn the call back over to you.
+
+Thanks, Deborah. I'd like to make a few comments about our performance and the outlook. Two years into the implementation of our strategic plans, the corporation has returned to positive revenue growth through a combination of organic and M&A. Although macroeconomic factors have created some headwinds, our operational focus on eprocurement and Unified Commerce has generated growth, and the growth of our recurring revenue has improved the quality and predictability of our revenue.
+
+The strategic focus for mdf for the foreseeable future continues to be on eprocurement and Unified Commerce, the simplification of our operation and execution towards profitable organic growth. Although management will continue to seek increased efficiencies, the foundational investments made to date have greatly improved product performance and increased the corporation's ability to scale. The government's eprocurement platform, which is purpose-built to effectively tackle the complexity of the public sector, establishes our mdf commerce as a market leader in the growing US government technology market, with a well-developed pipeline of opportunities at state and local jurisdictions.
+
+Product upgrades and business model integration has improved both market access, as well as revenue acceleration potential. mdf commerce is well-positioned for growth in the sector, and plans to leverage its increasing prominent market position for that purpose.
+
+The ecommerce business is experiencing some market headwinds, which are reflected in modest growth over the last couple of quarters. This is a result of more cautious deployment by current customers, as well as slower pipeline development and conversion.
+
+To address these headwinds, management has refocused the sales organization efforts to improve performance, has implemented product upgrades, specifically the order management system, making the product a complementary best-of-breed add-in that easily connects with legacy or competitors' ecommerce stack. This refocus aims to capitalize on one of the more pressing ecommerce challenges faced by retailers and grocers: it's the effective management of inventory and order management.
+
+With an ongoing focus on profitable growth, we continue to leverage integration synergies, while implementing ongoing operational efficiency that started earlier in fiscal 2022. With significant investments in scalability and foundational improvement mostly behind us, we believe that we have increased our capability to grow the business more effectively and profitably moving forward.
+
+Although it's not possible to forecast with certainty, the corporation continues to monitor the impact of the current global macroeconomic market risks on our business, on our financial conditions, and the results of operating as a macro event unfold. Despite these uncertainties, we believe that the digital transformation of business processes will continue and that we will be able to benefit from this trend through our main platforms. Our business solution and industry expertise positioned us well to continue supporting our customers and attract new customers as they stabilize their organization and optimize their business transactions during these unprecedented times.
+
+Finally, I'm thrilled to announce a few appointments to the company's board. First, I'd like to welcome Mr. Pierre Chadi, as new Chair of the board of directors. Mr. Chadi brings over 30 years of experience in technology, particularly with SaaS companies. He is the Chair and member of multiple boards. He brings a wealth of knowledge on managing and scaling SaaS companies. His experience and knowledge of the tech industry are a strong addition to the board, and will put contribution for the implementation of the next phases of the company's five year strategic plan. To ensure an effective and smooth transition, Gilles Laporte, will remain as an active member of the board until the corporation's next annual meeting in September 2022.
+
+I would also like to welcome Mr. Lester Fernandes as a new member of the board. Mr. Fernandes is a CEO of Segovia Capital and previously co-Founder and CFO of Nuvei Corporation. He brings over 30 years of experience in fast growing, fast technology companies and in investment banking. Mr. Fernandes started his career in investment banking with the Bank of Montreal and then joined Pivotal in 2001, which was at that time a startup. He was instrumental in growing it into Nuvei a significant North American payment processor, which became public and grew to a market cap of over CAD 10 billion. So welcome, Pierre, and welcome Lester.
+
+So I'll turn it over back to Catherine to open up for questions.
+
+Thank you. We will now open the line for questions. [Operator Instructions] Our first question comes from Ben Franklin with Riverstyx Capital. Your line is open.
+
+Hey, guys, I just have a question on the covenants for your credit facility. And if you're close to bumping up against your fixed charge coverage ratio, that's all. Thank you.
+
+No, we're well above our fixed coverage – fixed charge coverage ratio, so no issue there. The other ratio is debt to capitalization and, of course, no issue there. And our borrowing base is actually based mainly on monthly recurring revenues. And so with strong recurring revenues, there's no issue there on our borrowing base either.
+
+Okay. Thank you.
+
+Thank you. [Operator Instructions] There are no further questions. I would now hand the call back to Mr. Filiatreault. Please go ahead, sir.
+
+Well, thank you, Catherine, and thank you all for joining us on the call today. You'll find a lot more information on our company and our website mdfcommerce.com and of course, on SEDAR at sedar.com. Thanks again and have all a great day.
+
+This concludes today's conference call. You may disconnect your lines. Thank you for participating and have a pleasant day.

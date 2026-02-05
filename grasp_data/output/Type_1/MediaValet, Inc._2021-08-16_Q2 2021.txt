@@ -1,0 +1,183 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+David Scott MacLaren — Founder, Chief Executive Officer & Director, MediaValet, Inc.
+Robert George Chase — Executive Chair & Chief Financial Officer, MediaValet, Inc.
+Christian Sgro — Analyst, Eight Capital
+Gavin Fairweather — Analyst, Cormark Securities, Inc.
+
+Management Discussion Section
+
+Question And Answer Section
+
+So, good afternoon, everyone, and thank you for joining MediaValet's Q2 2021 earnings call. Before we begin, I will read the necessary cautionary notes regarding forward-looking statements. Certain information to be discussed during this call contains forward-looking statements within the meaning of applicable security laws including, among others, statements considering the company's 2021 objectives; the company's strategy to achieve those objectives; as well as statements with respect to management's beliefs, plans, estimates, and intentions; and similar statements concerning anticipated future events, results, circumstances, performance, or expectations that are not historical facts.
+
+Such forward-looking statements reflect management's current beliefs and are based on information currently available to management and is subject to a number of significant risks and uncertainties that could cause actual results to differ materially from those anticipated. Also, our commentary today will include adjusted financial measures which are non-GAAP. This should be considered as a supplement to and not as a substitute for GAAP financial measures. Reconciliations between the two can be found in our Management, Discussion, and Analysis, which is available on sedar.com and our website.
+
+We are joined today by MediaValet's CEO, David MacLaren; as well as CFO and Chair, Rob Chase. With that, I will hand it over to you, David, for your opening remarks. Please go ahead.
+
+Thanks, [ph] Corey (01:58). Good afternoon, everyone. Thank you for joining us today. I hope all of you and all of those that you know are healthy and well. I've started our Q4 2020 and Q1 2021 earning calls with this same slide. So, please forgive me, but I wanted to start with it again as this number, the 15% and the rapid evolution of the digital workplace over the last 18 months are truly the primary forces driving our business today.
+
+By and large, this percentage has remained the same throughout COVID as it was rounded up when I first reported it. By the end of the year, we expect analysts to generally agree that all round up to 16%. With 85% of organizations today around the world still using a mishmash of file management systems and processes both on and offline across their operating units, they're still in a highly unstable and risky state of chaos.
+
+If you remember from our last call, chaos is our first stage of DAM maturity. In the chaos stage, almost every department of an organization, let alone each team within those departments, has their own file management solution and processes. And more times than not, multiple solutions and various processes, mostly undocumented and unknown outside the org unit itself. This approach to managing the high-value digital assets of an organization is highly inefficient and unproductive and ultimately risky as there are no reliable and definitely no auditable corporate-wide security, privacy, accountability or continuity plans in place. At all, let alone one that the senior executive teams of these organizations can count on when things go bad.
+
+This is half of what we do as an enterprise DAM, protect and secure high-value digital assets of organizations. The other half is increase the velocity of those organizations by enabling them to move faster, go further and simply achieve more each day. We do this today by helping each of our customers move left to right on the DAM maturity model.
+
+Since we founded MediaValet, we've seen a natural trend of organizations moving left to right from chaos to compartmentalize, from compartmentalize to collaborative and from collaborative to connected with this trend slowly increasing each year. However, over the last year, we've noticed this trend accelerate and noticeably.
+
+In Q2 2021, we added more new customers than any other Q2 in our history. Our close and win rates set new records and both our marketing qualified leads and sales qualified opportunities reached all-time highs. These are all leading indicators of where our business is headed in the near future and all are extremely positive today.
+
+Now, consider those leading indicators against this backdrop, where analysts see the DAM industry headed pre-COVID and we'd argue these numbers have only increased since. As discussed in past calls, this predicted demand for DAM is expected to be driven by the massive growth in B2B and B2C commerce, the digital transformation wave that we're seeing sweeping across all industries globally and just the pure demand by all of us for more content to help us make educated decisions and purchases, learn new skills and to simply relax and entertain us.
+
+According to analysts, the expected compound annual growth rate of the DAM industry will be in the realm of 33% from now to beyond 2024. Our own five-year compound annual growth rate since 2016 has been 50%. And we expect to continue leading the general industry due to our focus on customer experience, product innovation and our commitment to helping our customers move left to right on the DAM Maturity Model, in turn increasing their velocity and both their top and bottom lines.
+
+In Q1, we signed up dozens of new customers from a wide variety of industries around the world. These included a renown not-for-profit children's entertainment organization with hundreds of terabytes of original programming going back over 50 years, a leading North American space technology company with global operations, multi-billion-dollar revenues and 60-plus year history of being at the forefront of space exploration technologies and a well-known global cosmetics retailer with over 1,000 retail stores.
+
+Now, before I hand things over to Rob, I wanted to take a few minutes to tell you of one of my favorite projects to-date, securing over 60 years of Jane Goodall's research on chimpanzees and their natural habitat. What we're doing at the Jane Goodall Institute is truly unique and will meaningfully impact the future of MediaValet.
+
+Today, the Jane Goodall Institute has research camps in 10 African countries primarily though in Gombe National Park, Tanzania and the Congo. They also have offices and research archives in New York, Maryland and Arizona. We're working with JGI to aggregate assets from all of those locations and other private archives into one central cloud-based research library. These assets include photos, handheld and camera trap video footage, and handwritten notes in both Swahili and English, dating all the way back to 1960 when Jane began her research in Africa.
+
+One of the significant things we did immediately was reduce the time of getting camera trap footage and other field-collected assets from their widespread camps in Africa, down from two to three months to less than 24 hours. Prior to using MediaValet, they were transporting all field-collected assets in person by plane back to their US offices.
+
+In addition to getting access to their field assets dramatically faster, when they do get access, the assets are now much easier and faster to find, thanks to being auto-tagged, associated, organized, categorized, and made fully accessible all within the same 24-hour period.
+
+The team at JGI is now able to identify and track Jane and the scientists she's worked with, along with all their collected field data across the past six decades. The team can now quickly access all assets associated by person, camp, period, and even by chimpanzee.
+
+This is where things have gone really exciting for me and the team. This is George and Vienna. Unfortunately, in this photo, Kabi wasn't looking at the camera at the time, so the team had to tag her manually. Microsoft's AI team and an AI team at Oxford University are actively engaged helping us develop the AI model to identify and track chimps across all of Jane and her team's research data.
+
+We're also developing the ability to identify specific chimp behaviors across the same dataset. In this photo, we can determine that this is Zinda and that Zinda is termite fishing. A common behavior and an example of a chimpanzee furnishing and using a tool to get better access within termite mounds. This is one of Jane's major discoveries that she made in her early years in Africa.
+
+And finally, you heard me mention handwritten notes written in both Swahili and English. We've used advanced character recognition to transcribe Jane and her team's handwritten notes going back over 60 years, and again both in Swahili and English, and then associating them with all related assets, projects, and scientists and making them fully accessible and searchable. The notes will now be searchable on both Swahili and English with other languages to follow soon in the future.
+
+There are over 17 terabytes of digitized handwritten notes alone. Prior to working with MediaValet, these notes were only accessible in physical form, in-person at the Arizona State University. I'm extremely proud to say, we're not only preserving and protecting Jane's legacy for all future generations, we're also enabling further scientific discovery by making her research widely accessible, available, and discoverable for the entire scientific community. I expect this is just the beginning of how we go beyond DAM and AI to help protect and expand human knowledge in the future.
+
+Now, I haven't spoken much about Level 5 in our DAM maturity model on our calls. But suffice to say, all the groundbreaking components of our work with the Jane Goodall Institute and Jane herself are directly related to Level 5 and come out of MediaValet labs. Labs is where Jean, our CTO, and I spend most of our time today. And projects – these projects within labs will directly shape and enable us to deliver on our vision for that Level 5 converge state. Thank you.
+
+Hey, Rob, over to you.
+
+Wonderful. Thank you, David. And thanks to everyone in attendance on today's call. As stated by David, we are excited by the continued market momentum for our DAM platform and for us as one of the thought leaders within our industry. While general market conditions are still somewhat impacted by the lingering effects of the COVID pandemic, we are benefiting from the secular tailwinds created by the shift to a digital first world.
+
+As you will have seen from our results, these market conditions and our performance to-date have given us the confidence to scale up our operations in line with our long-term growth strategies. Rather than holding steady at the cash flow breakeven level we exited fiscal 2020, we have begun to deploy our capital, increasing our operating costs by 65% to CAD 7.2 million year-to-date.
+
+And we have deployed our growth capital with a fairly equal distribution between sales and marketing and research and development, so that our sales capacity and innovation remain aligned. While this investment will require a ramp period, we are already beginning to see early signs of the impact, delivering a record level of leads, opportunities and new customer, US dollar contracts for our first and second quarter periods.
+
+Turning to our operating results, revenue grew 29% to CAD 2.3 million in Q2 2021, as we continue to strengthen our recurring revenue base. Total revenue for the first six months of the year increased 27% to CAD 4.4 million. The majority of revenue is from recurring SaaS subscriptions, which generated 95% of our revenue year-to-date. This is indicative of the high quality of revenue generated by software-as-a-service businesses.
+
+Our gross margin remained strong at 81%, effectively in line with last year. Again, this is indicative of expected software-as-a-service margins and has held relatively stable despite our scaling up of operations which are generally done ahead of the revenue ramp from growth investments.
+
+Operating costs, which are a non-IFRS measure, equal to recorded operating expenses minus stock-based compensation and depreciation and thus aligning with the expenses included in EBITDA, were up 85% for the quarter to CAD 4.0 million and up 65% to CAD 7.2 million for the year. We have increased our head count from 59 people at last year-end to 81 people at June 30 and plan to add nearly as many new people in the back half of the year as well. While the market for talent is challenging, we've been successful at attracting experienced leaders and staff who share our passion for building MediaValet into an anchor brand in the DAM market.
+
+As these new employees ramp up, we'll have significantly increased our capacity for sales, support and innovation. This gives us the deep bench strength we need to scale our operations and to reach our potential, delivering new and unrivaled DAM solutions that truly help customers embrace digitization and win in their markets.
+
+Net loss for the quarter totaled CAD 2.5 million compared to CAD 1.1 million for the same period in 2020, an increase of 134%, an increase of 103% to CAD 4.1 million year-to-date. This is in line with our expectations and growth plan. We have the growth capital to fund this expansion and the organic market opportunity to enable us to grow into these investments. At the same time, we are focused on long-term profitability which is to say that we carefully evaluate our investments using industry standard SaaS metrics aligned to our growth opportunity.
+
+Turning to ARR and billings, we are happy to report a 30% increase in ARR to CAD 9.42 million, compared to CAD 7.27 million in Q2 2020. Our pipeline remains stronger than it has ever been and we are well on track with the additional hires and sales to capitalize on these opportunities. Note that the ARR growth was impacted by the strengthened Canadian dollar. In US dollars, our ARR growth was 34% compared to 30% in Canadian dollars. This also impacted our billings and deferred revenue for the quarter as the Canadian value of our renewals were CAD 140,000 lower than included in opening ARR due to the FX impact.
+
+Further highlighting this point, net new ARR increased 85% in Q2 2021 in US dollars compared to just 8% in Canadian dollars, indicating that the underlying fundamentals of the business were much stronger than the Canadian results imply. Generally, we believe the COVID headwinds are becoming less of a factor. However, there still is an impact as new variants continue to weigh on sales cycles, deal velocity and churn. That said, churn has continued to improve with net churn improving 73% over Q2 2020 and improving 47% sequentially.
+
+Year-to-date, this resulted in a 98% net retention figure compared to 99% last year-to-date, as the last year included CAD 190,000 customer expansion. We now have CAD 11.41 million in cash and cash equivalents on hand and modified working capital of CAD 11.83 million compared to a CAD 14.24 million and CAD 16.1 million, respectively, at the end of fiscal 2020. The reduction reflects our deployment of growth capital which was calibrated to a level that we believe is fundable within our available capital resources. Given the market opportunity in front of us, we believe now is the time to invest in the future.
+
+With that, I'd again like to thank you for listening in and open it up to questions. Over to you, Corey.
+
+Thank you, Rob. Thank you, David. Just a reminder to our listeners on the call, if you do have a question, please use the Zoom Raise Hand function and we'll be sure to get to you. Our first question here comes from Christian Sgro at Eight Capital. Christian, you may go ahead when you're ready.
+
+Thank you, Corey. And good morning, David and Rob, and congrats in the quarter. Thanks for taking my question.
+
+Thank you.
+
+Now, the first question I'll ask is related to maybe some color across the verticals. For some of the verticals there were most impacted by the pandemic, say, airline, hospitality and such, have you seen some of the spending patterns trend into the new year? Are you seeing some of sales cycles accelerate there, [ph] trying to help a (19:10) normalcy there or is it some of the other core verticals that you talk about is driving some of the growth into the back half of the year?
+
+Sorry, David must be on mute there. Okay. David, you want to take that or you want me?
+
+Sure, I'll take it. Thanks, Christian. Definitely in some verticals like travel and transportation, we've seen a slowdown in spending and a retraction in many cases; in that, a lot of those businesses were threatened and some unfortunately severely affected by COVID. But in other industries like consumer packaged goods, we've seen a lot of strength and a lot of expansion. In our last quarter, we saw a lot of activity in CPG. So, like the global cosmetics company that I gave an example, I specifically used them as an example today because they represented a large number of our large – of our new deals in Q2. They were CPG companies. And this was a significant change from prior quarters where we didn't see as many CPG companies involved.
+
+But as always, we're strong in higher education, in entertainment, in sports, in manufacturing, in high tech, and a wide variety of other industries. As you know from the very beginning, we've been very broad across all industries. But CPG has definitely stood out in Q2.
+
+That's helpful. Thanks for pointing out the strength there. It seems like it's still broad based. The next question I'll ask is related. And as you look out to the back half of the year and that's always the pipeline believes – appear at record levels, are there some verticals – and you said CPG has been a winner so far. So hopefully, I'm not asking the same question. But are you seeing some exceptional traction in areas? You can speak either some vertical or either like in terms of the enterprise size. Like, has anything changed as you move into the back half of the year in terms of the makeup of your pipeline?
+
+So, great question. I love the follow-on. CPG is definitely strong and showing a lot of strength. So, in our [ph] close one deal (21:32) for Q2, but also if we look at leads and opportunities in our current pipeline and entering each week. But something that I'll add on to that is we kind of started years ago really focused on an enterprise DAM solution and focus on enterprise organizations.
+
+What we've been seeing of late is that enterprise DAM need is trending down market, meaning that we're seeing more and more organizations requiring an enterprise solution although they're not enterprise size. So, this could be mid-market or SMB organizations that require or have themselves thousands of users, hundreds of thousands to millions of terabytes of assets. These or large distribution networks, retailers, distributors, anything that moves them into an enterprise DAM use case, that we've seen trend down. So, in the last two quarters, we've seen more SMB and mid-market companies in our pipeline than we've ever seen.
+
+That's helpful, David. I'll ask – I'll shift gears a little bit onto the partner channel. And I know this has been an area of focus for the company [indiscernible] (23:05) generated 11% of new wins year-to-date this year which I think is a high market, if I remember right. I want to talk about how the partner channels are evolving whether it's tech partners or system integrators that you're working more and more with, and if this will be a focus through the back half of the year.
+
+Another good question, Christian and I think insightful for listeners today, in that I think traditionally in software it was through distribution partners. But where we are seeing it as a SaaS vendor is that it's more other technology partner. So, Wrike is a good example for us. They're publicly known partner of ours and a really good partner. Those type of relationships where companies are already using another third-party SaaS product; and now, they're looking to strengthen that IT stack they have. Used to be marketing stack, we're now moving more into corporate-wide IT stacks and organizations that have Wrike will be looking for more to solve their file management issue with an enterprise DAM solution and [indiscernible] (24:14) were one of two partners that Wrike has. And unique within those two, they drive a lot of leads towards us. We're seeing further growth across other third-party SaaS providers that are either coming to us for partnership or we're approaching for a partnership because of demands from our customers. All of it is customer led.
+
+So, we're either reaching out based on what our customers are requiring or other third parties are reaching us based on what their customers are requiring. So, much like the innovations that we're driving within the industry, most of that customer led.
+
+Awesome. Thank you for the color. I'll ask just one more question before passing the line. Rob, you had mentioned that this piece of hiring would continue. And I know a good number of the new additions to the team are going to sales and marketing. I'm curious to hear from your view. Are a lot of these – are a lot of the new sales and marketing employees went into customer success or maybe pushed it to the front of the funnel by generating means? Like, where do you see a lot of the marketing spend going and spending into the back half of the year?
+
+Yeah. Again, good question, Christian. The addition of employees on the sales side is pretty formulaic. Before adding a few salespeople, we got to make sure we back it up with a business development wrap and back it up with additional ability to market, to create the demand and the pipeline opportunities for those folks, which means more marketing spend, which means likely need some more marketing support as well in terms of head count.
+
+Customer success, on the other hand, is going to be driven more on how many customers were onboarding, plus the overall number of customers. Obviously, there's a limit to how many accounts a single person can manage. So, pretty formulaic in that sense. So, anytime we have an extra couple of sales heads who are actually carrying quotas, there is a support team in sales and marketing that needs to go behind them to get them to their potential. So, it is formulaically across the board.
+
+Does that answer your question on the sales and marketing investments?
+
+Yes, very helpful.
+
+Yeah. And then, in terms of the timing and everything, a lot of those were done in this first half of year, less so in the back half with the focus being more on R&D. So, we definitely added more people in the R&D camp this quarter and the remaining year, most of those new ads will be more leaning towards the R&D side of the house.
+
+Okay. That was helpful just at the end there. Some of the sales and marketing would have been front loaded in the odds year-to-date, correct?
+
+Yes.
+
+Cool. Cool. Awesome. That's all for myself. Thanks for taking my questions. I'll pass the line.
+
+Thanks, Christian.
+
+Thank you, Christian.
+
+Our next question here comes from Gavin Fairweather at Cormark. Gavin, please go ahead when you're ready.
+
+Hey. Can you hear me?
+
+Yes.
+
+Okay. Great. I appreciate you taking the questions. I thought we'd start out maybe just going a little bit deeper on the ARR added in the quarter. Can you just talk about, I guess, the split between kind of new logos versus upsells that you saw this quarter? You pointed out a few of the deals that came across and were included. Were any of those kind of larger deals that you're going to call out and any notable kind of upsells in the base? Just looking to get a bit more color there?
+
+Yeah. In terms of what was reported, we did announce a couple of the larger deals in the quarter already, right, in the last few weeks. So, that was great. There was one other and David commented on them in his opening remarks. It's in that same sort of ballpark. So, that's kind of 85,000 range that we announced with the other two deals and those are the extent of the largest. [ph] So, it is (28:29) interesting. And again, there still remains large opportunities in the pipeline. But as per David's comment a little bit earlier, it is interesting to see that they're really focusing on that enterprise use case and also how rapidly people are asking to get on board to support their digital strategy. It isn't just a large enterprise equation. It's also mid-market and even below at times.
+
+And so, we see what they call – often call singles, right? Smaller base hits, right, that help get our sales team to our number, leaving us the opportunity to really get a win when we get a homerun. So, this quarter was made up of singles and doubles I'd say. And very happy to reach record levels at that. So, if we can continue that into the next quarter, I think that's a very healthy mix of business for us to be in. And consequently, our average value in our ARR is pretty much in line and has remained the same with 2020 where we closed out the year.
+
+Got it. And then, just on the expansion of the sales team, is the way to think about this that you added some new reps and expanded that team kind of in the earlier part of this year and they're going to spend some time kind of ramping up to expected productivity, building up their sales pipelines and you would expect them to hit their kind of target performance overall in 2022. Is that the way to think about it?
+
+Yeah, I believe so. We're finding on our year two reps are very close to as productive as our year three and beyond reps. So, over that first year, though, they're definitely in a ramp. And so – yes, so into 2022, we'll see those new additions start to reach sort of the higher senior rep levels.
+
+And then, maybe for David, you referenced spending a lot of time in R&D and it sounds like the head count is growing within the R&D team there. Can you just provide us with a bit more detail on your R&D funnel? Any notable releases on the schedule there? What would be kind of the key priorities? And just provide a bit more granularity on that front. That'd be helpful.
+
+I can provide a bit, Gavin, just a bit if you don't mind me being a little cagey. So, there's two divisions within MediaValet's R&D team. So, our engineering team is producing features that our customers are requiring. So, by listening to our customers and also by those potential customers in our sales funnel, we're able to determine the high-value new features that our customers are looking for, and just generally what the market is looking for at this time from us. So, that engineering team makes up right now 95% of our product team, right, producing for those features.
+
+MediaValet labs is truly R&D. And that R&D right now is as Rob's saying where Jean and I spend most of our time nowadays. And that labs department is focused on future thing that people aren't asking for, right. It's opportunities that we see in the market to get to Level 5. The majority most companies we talked to today, I think I mentioned in our Q1 call, that most companies are looking to move from chaos to compartmentalized or just Level 2 to 3 or 4. Very few are looking to move beyond Level 4 because most people see that Level 4 stage as the ultimate for them, we don't. Level 5 converged is our ultimate destination at this point in time for them.
+
+I'm sure at some point there'll be a Level 6 but Level 5 is a few years out and it's a big vision where it's going. But there's probably less than 1% of the enterprise organizations we're talking to today that have the same vision that see the potential in Level 5 and are trying to uncover what's coming next. So now, I probably won't talk about too much. But as we release and as we get closer, you'll see – you'll hear announcements that are relating to it.
+
+So, today in my commentary, I mentioned that a lot of the things that we're doing with Jane Goodall are precursors to stuff that will affect Level 5. So, to provide slightly more granularity there, it's all around visual search. That's what we're doing at Jane Goodall that's really exciting, pushing advanced AI even further, pushing the models that are existing there even further. So, that's why we reached out and engaged Microsoft's AI team because it's a very interesting and challenging problem that they were very happy and eager to get involved in and help us solve it.
+
+We subsequently then reached out to Oxford because they had many years ago worked with the Jane Goodall Institute on some somewhat related projects. And we thought that we could definitely benefit from that by just talking to them and they eagerly signed up to help us. So, the three teams are working together to move that facial recognition and behavioral recognition model or two models forward with regard to chimpanzees. But that research, that can be applied in many, many new areas once we've finalized it here for JGI.
+
+That's helpful. And then, just lastly for me, I was hoping for a bit of an update on the competitive landscape. I think that your prepared remarks in the deck referenced an increase in your win rates. I guess I'm just curious what you would attribute that to and any kind of change or shift in that competitive landscape that you note.
+
+Sure. So, most of it is heard through analysts and through customers that we talk to, installation or like implementation partners that we're working with because we don't know directly how any of our competitors are doing because we're the only public DAM out there. But what we are hearing is that some DAM vendors did have challenges throughout COVID, and some did not.
+
+So, we see and we hear that we did well and are doing well through COVID because of our focus on customers and delivering an end-to-end positive customer experience, with interacting not only with our product but our company. So, if someone takes the time and talks to people that have gone, organizations that have gone through our pipeline through that sales process, almost all of them – I've never heard someone not – and almost all would make a point to point out to someone on our team at the executive level how much they enjoyed the sales process.
+
+Now, when is the last time you've heard that? It's very rare for someone any of us, let alone others, to say they have enjoyed a sales process. We really focus on it and our team is exceptional at it. So, we look at customers and just the general market from the first point that we interact with the customer, which would be something in the marketing side where we lean in first, right, we lean in first in marketing and exposing our brand and what we do to our customer base or to the general market. And then, as they get interested in DAM and MediaValet, they get introduced to our sales team. And that's where we lean in second, all the way through that process. In our Q4 and I think Q3 calls last year, we talked about leaning heavily into customer success. Once these – once they've gone through the marketing and sales marketing pipeline and sales pipeline, they become customers. Then, third we started leaning in heavily into customer success.
+
+So, these are some of our big investments this year because they increase win rate. They increase the number of leads, the number of opportunities, and then our win rate. Leaning into customer success, not only reduces churn which is really important for us, churn is one of the major things we track. But it also impacts how we can move people left to right in the maturity model. I talk a lot about the maturity model as a way for people to visually and conceptually understand how we help our customers moving each stage left to right. As you move left to right, it's more secure, more continuous, higher productivity, more efficient use of assets, higher velocity. All of these things, left to right, benefit an organization's top and bottom lines.
+
+So, this is generally our focus and why we find that we stand out in the market. We say all the time that when you engage with MediaValet, you're not just buying software, you're effectively hiring a DAM department that's just down the hall. I'm the manager of that department. And then, there's close to 100 people that are going to help you with your digital transformation and DAM initiatives. And DAM initiatives are now widespread across organizations. It's not just marketing. It's not just creative. It's now going broadly across the organization because every department is creating high-value digital assets every single day. And they need to be protected, organized, and accessible to the right people at all times.
+
+Great. That's very helpful. That's it for me. Thank you.
+
+Thanks, Gavin.
+
+Thanks, Gavin. That's it in the way of questions for today. So, I think we can wrap up sharp here. David, Rob, if there's anything you'd like to say for closing remarks, but if none, so we can close up here.
+
+I just really appreciate everyone taking the time to check in with MediaValet today. Difficult times out there for everyone, for their families, let alone businesses. And it's just nice to connect with you, guys, give you a little bit more detail on what's going on in our world and to wish you well.
+
+Thanks, everybody. Thanks for the great questions.
+
+Thanks, everybody.
+
+Good bye.

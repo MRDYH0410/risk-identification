@@ -1,0 +1,274 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+Michael Kandell — Chief Financial Officer, Wireless Telecom Group, Inc.
+Timothy Whelan — Chief Executive Officer & Director, Wireless Telecom Group, Inc.
+Aman Gulani — Analyst, B. Riley Securities, Inc.
+David W. Wright — Analyst, Henry Investment Trust LP
+Michael D. Potter — Analyst, Monarch Capital Group LLC
+
+Management Discussion Section
+
+Question And Answer Section
+
+Good day, ladies and gentlemen, and welcome to the Wireless Telecom Group Q1 Earnings Call. At this time, all participants have been placed on a listen-only mode, and the floor will be open for questions and comments after the presentation.
+
+It is now my pleasure to turn the floor over to your host, Mike Kandell, Chief Financial Officer. Sir, the floor is yours.
+
+Thank you, operator. Good morning, everyone, and thank you for joining us on today's conference call to discuss Wireless Telecom Group's first quarter 2022 financial results. With me today is Tim Whelan, the company's CEO.
+
+Before we begin, I would like to remind everyone on the call that our remarks today could include forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. In some cases, such forward-looking statements may be identified by terms such as believe, expect, seek, may, will, intend, project, anticipate, plan, estimate or other similar words, as well as statements that do not relate strictly to historical or current facts. The company's forward-looking statements are based on management's current expectations and assumptions regarding the company's business and performance, the economy and other future conditions and forecasts of future events, circumstances and results.
+
+Forward-looking statements are not guarantees of future performance and involve a number of risks and uncertainties that could materially affect actual results. Important factors that could cause the company's actual results to differ materially from those in its forward-looking statements include those risk factors set forth in the company's 2021 Annual Report on Form 10-K filed with the SEC on March 17, 2022. The company does not undertake any obligation to update or revise any forward-looking information to reflect changes in assumptions, the occurrence of unanticipated events or otherwise.
+
+Also, we want to point out that in addition to GAAP information, we will provide information relating to certain non-GAAP measures. We believe that presenting these non-GAAP or adjusted measures provides additional meaningful information to investors, which reflect how management views the business. Detailed reconciliations of GAAP measures to non-GAAP measures are set forth in a reconciliation table in our press release issued earlier today and furnished with the Form 8-K filed today with the SEC.
+
+With that, it's now my pleasure to turn the call over to Tim Whelan.
+
+Thank you, Mike, and good morning, everyone. Our first quarter was an exciting one and the highlight of the quarter was the completion of the Microlab sale. As we previously noted, this was a transformational transaction, allowing us to pay off our debt, add cash to the balance sheet and provide a catalyst for reorganization around our two remaining higher growth segments Test and Measurement, and Radio, Baseband and Software. My remarks today will focus on our continuing operations of T&M and RBS, which will exclude any consideration of the Microlab business.
+
+Turning then to the first quarter results, we were pleased with the successful close of the transaction, the reorganization of our business around the two remaining segments, and our efforts to restructure our cost base. First quarter revenues reflected a very impressive increase in Test and Measurement revenues of nearly 14%, while RBS revenues primarily reflected lower hardware card revenue compared to the prior year.
+
+Test and Measurement revenues reflect continued wins in applications for satellite communications, quantum computing, semiconductor test environments and Wi-Fi 6 measurement. We expect the continued growth in LEO satellite expansion as well as the expectation for long-term growth in semiconductor manufacturing and quantum computing expansion will continue to provide growth opportunities for various T&M solutions we provide, which include noise measurement, noise generation and RF pulse power measurements. We are encouraged as well by the continued federal government focus on the importance of semiconductor manufacturing in the US and increasing applications for quantum computing.
+
+Additionally, over the last five years, we have refreshed over 30 new product solutions, including new form factors and brand new instruments to meet the demand for our blue chip customers across a host of critical sectors, including aerospace, satellite, military, government and defence sectors. We are looking forward to the continued success and expansion of our product roadmap and the organic growth opportunity that this is expected to provide.
+
+Turning to the RBS segment, as evidenced in the first quarter, we will continue to realize some lumpy quarters in bookings and revenues. However, our long-term conviction in the business is based on internal initiatives we are pursuing to capitalize on secular growth themes underway across multiple vertical markets. The market growth themes include the much publicized expectation for significant investment and long-term growth in 5G private networks, 5G small cell deployment, and the related applications and supporting technology needs for building and deploying 5G networks and 5G applications.
+
+From a company perspective, we have confidence in our proven experience and differentiation built over the last two years with new customer wins. These include the announced wins with Department of Defense 5G trials, LTE air-to-ground solutions for Smart Sky Networks, and our selection to join a consortium for UK government funded research led by ADVA, just to name a few. We continue to believe the CommAgility brand is the leading US-based provider of 5G layer one software architecture, which provides the foundational building blocks for any specialized 5G communication networks and applications.
+
+Last, our funnel of opportunities is robust and includes a number of discussions with prospective customers, which are either in the final stages of discussions, or already have partial signature approvals, which were expected to be completed in the first quarter. As we mentioned in the press release, we believe we are close to finalizing paperwork on 2 million of commitments over the next several weeks, and we are confident that our bookings by the end of the quarter will reflect our belief that we're on a path for continued growth in the segment in 2022.
+
+Turning to profitability, I would like to make a number of points. Our T&M segment has realized five consecutive years of gross margin improvements. And in the first quarter of this year, T&M also realized year-over-year Q1 improvements of 60 basis points. We are extremely pleased with the improving gross margin profitability of this segment. This is due in part to longer-term improvement to our specialized products which have pricing power, our disciplined pricing programs, and our ability to effectively manage our supply chain and product designs to continuously address cost.
+
+In our RBS segment, we expect we will see our third consecutive year of software and services growth. And as the revenue mix shifts to a greater proportion of software and services than hardware, we also expect to see increasing gross margins in RBS.
+
+With regard to our operating expenses, there is a lot to peel apart in the first quarter, and Mike will go through this in more detail shortly, but let me make a few comments. As we reorganize to two segments, we will be reflecting reportable segments and you will see that in today's 10-Q filing. Our reorganization of reporting has included moving people and expenses out of the corporate structure into the segments to reflect the most accurate depiction of segment profitability.
+
+In RBS, we continue to operate this segment for revenue growth, dedicating our engineering teams to continued investments for backlog delivery for current customers, as well as those R&D investments, which we believe will drive future growth. In T&M, we continue to manage this segment for profitable growth. And you will see in the second footnote that T&M profitability is over 25% of revenues. We are managing this segment for growth and consistent segment profitability.
+
+And at the corporate level, we're evaluating all costs for reductions and improvements. While we have been very aggressive across the whole company managing cost reductions through a difficult two years of COVID uncertainty, we are taking a fresh look at this in the context of a smaller sized company without Microlab. While certain costs are fixed and other costs are facing inflationary pressures, we are also confident we can manage controls on inflationary pressures and even improve upon other cost line items. At a consolidated entity level, we are managing the business for EBITDA profitability and positive free cash flow from continuing operations this year, and we have set our budgets and targets on this objective.
+
+To summarize, the first quarter 2022 results show a transformation of the company. We have completed the sale of Microlab. We have reorganized around our two higher growth, higher gross margin segments. We are aligned in these two segments to multiple secular tailwinds of significant long-term growth and investment trends, and we expect to manage our currently smaller-sized company to further expand gross margins and improve segment and consolidated EBITDA profitability.
+
+With that, I'm going to turn the call over to Mike to walk us through the financials.
+
+Thank you, Tim. Good morning again, everyone. Before I begin, I want to remind everyone that Microlab's financial results for the first quarter of 2022 and 2021 have been excluded from continuing operations and are presented as discontinued operations, net of tax, on the statement of operations. Further, assets and liabilities of Microlab as of December 31, 2021 have been reclassified on the balance sheet as assets and liabilities of discontinued operations.
+
+The cash flow, however, is presented on a consolidated basis. My discussion of the financial results for the three months ended March 31, 2022 as compared to March 31, 2021 will be on continuing operations. That is the results of T&M and RBS, unless otherwise noted.
+
+Consolidated revenue for Q1 2022 decreased 7.2% due to lower hardware and software revenues at RBS, offset by a 13.7% increase in T&M revenue on strong demand for our T&M products, specifically in the military and aerospace and semiconductor sectors. Quarterly RBS software and services revenue is expected to be lumpy due to the complexity of the projects and the revenue recognition patterns associated with those projects.
+
+Consolidated gross profit decreased 10% from the prior-year period as continued strong gross margins at T&M were offset by lower margins at RBS due to a lower mix of sales from high margin software and services revenues.
+
+Consolidated operating expenses increased year-over-year due primarily to non-recurring divestiture expenses associated with the Microlab transaction of $530,000, and non-cash stock based compensation expense of $215,000 due to equity grants in Q4 2021 and Q1 2022. These increases were offset by lower legal and professional fees, head count costs and other miscellaneous expense reductions.
+
+In Q1, we recognized the $792,000 loss on extinguishment of debt, which represents the write-off of unamortized debt issuance costs that were on the balance sheet associated with our term loan facility and revolver. Other income increased $74,000 due to our sub-lease arrangement with RF Industries for a portion of our New Jersey headquarters as well as sales of certain assets. Consolidated interest expense decreased to $120,000 due to the termination of our debt agreements on March 1.
+
+Our GAAP loss from continuing operations increased $998,000 due to lower gross profit, higher operating expenses and the loss on debt extinguishment partially offset by higher other income, lower interest expense and a higher tax benefit. Our non-GAAP adjusted loss from continuing operations, which excludes non-cash amortization of purchased intangibles and stock-based compensation expense, non-recurring expenses associated with our sale of Microlab, and our loss on extinguishment of debt, decreased from a net loss of $130,000 to a net loss of $117,000.
+
+Turning to the balance sheet, on March 1, we received $22.8 million in proceeds from the sale of Microlab, net of certain escrow amounts in direct expenses. We used a portion of the proceeds to repay our term loan facility with Muzinich and our credit facility with Bank of America. Overall, we recognized the gain of $16.4 million on the sale, which is recognized in income from discontinued operations.
+
+On March 31, 2022 our cash balance was $19.1 million. As you can see, we've strengthened our balance sheet ahead of the rising rate environment, which provides us with significant flexibility to invest in growth producing initiatives, while simultaneously pursuing opportunities that return capital to and create value for our shareholders. As noted in our press release this morning, the board is considering the use of up to $4 million for a share repurchase program that is expected to be approved in the next few days.
+
+I'll now turn the call back over to Tim for some closing remarks.
+
+Thank you, Mike. I am pleased and encouraged with our execution of our strategy, which has transformed the company not just over the last quarter, but over the last several years. We have completed two successful acquisitions and one successful divestiture. We have built scale in our T&M segment by nearly doubling revenues within the segment over the past several years. We have added 5G software solutions, leveraging our CommAgility acquisition of differentiated LTE hardware and software capabilities. We have launched over 30 new and refreshed products to market and reinvested in our product roadmaps and go-to-market channels. We have successfully navigated through an exceptionally difficult period of COVID uncertainty and shutdowns, including flexing our cost structure, as well as a successful application and forgiveness of the PPP loans.
+
+We have managed through our debt facilities and covenants, which have enabled the successful acquisition of Holzworth and subsequently becoming a debt-free company which has significantly strengthened our balance sheet ahead of an increasing interest rate environment. We have continued to transform the composition of our board, and consistently reassessed the skills matrix for the future ahead.
+
+And now, we are managing through the current challenges of inflation, supply chain issues in a competitive environment for talent. And while we have realized periodic success driving shareholder value higher, we recognize that the current trading value does not reflect the intrinsic enterprise value of the company. In summary, we are now entirely focused on the refresh of our strategy, the use of excess cash on our balance sheet, and the ability to unlock and maximize shareholder value in the near term. I expect we'll be able to speak to more about this shortly. Thank you.
+
+And, operator, if you could please open the lines for questions.
+
+Certainly. [Operator Instructions] Your first question for today is coming from Aman Gulani. Please announce your affiliation then post your question.
+
+Yeah, this is Aman from B. Riley. Thanks for taking the question here.
+
+Good morning, Aman.
+
+I guess maybe start off – good morning, guys. I guess maybe start off with the gross margin. How was your expectation for that going forward now that you've divested Microlabs and your T&M business seems to be wrapping up nicely? So should we think about gross margins with 57% you delivered this quarter as a sort of baseline, maybe going forward throughout the rest of the year?
+
+Hey, Aman. It's Mike. So. So, yeah, we would expect gross margin to increase to the extent that we deliver more software and services in RBS. Software and services were a little down compared to last year this quarter. But to the extent that we have more of those projects rev rec'ed, we can expect our gross margin to improve. If you look back, RBS had a couple of 63% and 70%- plus gross margin quarters over the past couple of years, and that's driven highly – driven by the mix.
+
+Got it. And then, just curious about the $2 million RBS contract that was just pushed out into 2Q. You should see that maybe hit your booking backlog in the second quarter?
+
+That's correct. Yeah. So we're in final stages. Some signatures have been exchanged, but the one significant contract within that $2 million is a five-party agreement. And as a result, the signatures are simply taking us longer than expected to get completed, but we're encouraged with the funnel of opportunities. We're pursuing a number of opportunities not just that one and we feel good about the outlook for Q2.
+
+Got it. Is this the same sort of seven-figure deal that you did mention on the prior call on the RBS side? Is that the same sort of deal that – the $2 million deal that you mentioned in your prepared remarks?
+
+This was one that was previously announced as a win, because the customer was announced as win as part of the UK consortium. So that's correct, but we have other deals in the funnel as well that we're pursuing, we feel very good about. So, as we mentioned, the outlook looks healthy for the CommAgility RBS operation, but these are larger seven-figure – typically seven-figure complex deals and the sales cycle is longer.
+
+Got it. That's helpful. And then in terms of supply chain dynamics, obviously, you're probably feeling the inflation sort of on the cost side. But what's your ability to be able to pass that on to your customers? Have you been able to, like, completely offset inflationary pressures that you're seeing right now?
+
+Yeah. With regards to inflation, we're not seeing a material impact to date. And yes, our solutions have pricing power and price increases can generally be passed on to customers through increased price lists. With regard to the supply chain, that's a timing issue. We are seeing seven-figure potential impacts to deliveries as we think about quarters and the year. So we're managing through that risk. But right now, we feel good about what we see. We may see quarter-to-quarter fluctuations, but we think the risk for the full year is somewhat limited at this time.
+
+Got it. Okay, that's helpful. And then – so in terms of exposure to Russia, you mentioned $350,000 was not sort of delivered. So is that sort of the extent of the Russia headwind for the business?
+
+Yes. So we had that one contract in backlog that we reversed out of the backlog and that went into – so that was cancellation in bookings in the first quarter. With regard to the pipeline of opportunities, there were a few six-figure opportunities we're keeping an eye on, but they were in the funnel of opportunities. We've since reduced our expectation for that funnel of opportunity to zero.
+
+Okay. Thanks for that. And then in terms of T&M, fairly strong performance there. I'm just trying to get a sense for potential seasonality. Is there any seasonality in that business? I mean, I know last year the T&M business is really strong in the first half, but then sort of was flat and then maybe down in the fourth quarter. So any color on that would be helpful.
+
+Yeah. Typically, the bookings and the revenues within Test and Measurement are strongest within our calendar Q2 and Q3, which coincides with the second half of the government's fiscal year-end. And so we will see declines in Q4. And that's just part of the natural cyclicality. I do think that as we think about Q2 and Q3 being the healthiest quarters for bookings and revenue, I think the event this year we need to keep an eye on is that supply chain. And to the extent certain deliveries, component deliveries in June did not come in, we may see that impact that T&M revenue line, but we feel good. If those shipments move, they'll move into the third quarter, so within quarters, again, it's just a timing issue. So we think supply chain may impact how we think about Q2 and Q3 revenue delivery.
+
+Got it. But given the current trajectory, what you're seeing now, is it fair to say that you will see some material sequential growth in the T&M segment in the second quarter?
+
+We're carefully evaluating sequential growth in T&M. Again, we've got some June deliveries of components for shipments, and so that could make for a flat or even down quarter for T&M but we're tracking it carefully. If those shipments don't commit in June, again, we feel good that they'll be in third quarter.
+
+Got it. And one more question from me. For RBS, I mean, if this $2 million order comes in in the second quarter, what's sort of the trajectory for the RBS segment for the rest of the year?
+
+Well, we feel good. We came in with a higher backlog. For RBS, we're tracking some larger opportunities. Again, we're in some final stages of discussions. So, if those are won in the timeframe we expect and delivered in the revenue recognition components we expect, we feel good about the growth opportunity for RBS in the year. So, with the consolidated higher backlog, with what we're seeing in the funnel and opportunities, we feel good about the growth opportunity for the consolidated business and within each of the two segments for the year.
+
+Got it. Thank you. I'll pass it on.
+
+Great. Thank you, Aman.
+
+Your next question for today is coming from David Wright. Please announce your affiliation, then pose your question.
+
+Yeah, good morning. David Wright, Henry Investment Trust.
+
+Good morning, David.
+
+You said that you wanted to – on one of the objectives and I assume it's tied to the incentives is, managing for positive free cash flow results this year. Is that GAAP free cash flow or are you going to put non-GAAP adjustments on that?
+
+That would be non-GAAP adjustments – call it, continuing operations, David. We would exclude, the ins and outs of the Microlab divestiture and the term debt and all that stuff. The goal we're managing to be cash flow positive for continuing operations.
+
+Right. But shouldn't that be behind you? And that's my second question. You've got $0.5 million of M&A integration in your non-GAAP reconciliation. Are those expenses done or is that going to be an ongoing category?
+
+So with regard to the Microlab transaction, those should be done in Q1. We do from time to time have non-recurring expenses that pop up as we go through the course of the year. So again, as we look at our internal forecasts, from continuing operations, excluding any one-off projects that we may have, we expect to be cash flow positive.
+
+Okay. And then you've talked a little for a while there, Tim, on profitability, and it seemed to all be around improving gross margins. When do you expect the company to be profitable on a GAAP basis?
+
+On a GAAP basis, of course, we have to work through the considerations around taxes which are a little bit more complex, David, given the transaction, the impact on taxes, that would be my first comment. Obviously, we don't have any more interest expense that debt has been extinguished. And then we have to consider the impact of depreciation and amortization. So we're trying to give greater visibility through some non-GAAP EPS metrics. And hopefully, that will help you as you evaluate the profitability of the company down to the net income line.
+
+Well, okay, let me let me phrase it differently. Does the board have any expectation that the company is going to be operating GAAP profitably at some point in time?
+
+Yes. We're moving forward on that. Again, we feel good about the reduction of interest expense. I addressed the fact that we're looking at our operating expenses across the company as a smaller public company. And we feel good with revenue increase and gross profit increase that we'll be able to achieve the objective of net income profitability.
+
+Would you hope to be profitable GAAP basis in 18 months?
+
+I don't have a timeframe for you on that right now. We haven't provided that guidance.
+
+Okay. And then my last question, you alluded to some possible updates on how you want to deploy the extra cash that you have. You had previously announced that you would have a strategic plan for us at the Annual Shareholders Meeting. Is that off the table now?
+
+No. I think we're on track for more information on the Annual Shareholder Meeting.
+
+But should we expect anything before the meeting?
+
+That's hard for me to forecast or predict at this time.
+
+Okay. Great. Thank you for taking my questions.
+
+Great. Thank you, David.
+
+Your next question for today is coming from Michael Potter. Please announce your affiliation then pose your question.
+
+Monarch Capital Group. Good morning, guys.
+
+Good morning, Michael.
+
+The $2 million in RBS contracts that got pushed out in Q1 into Q2, is this a single contract or is just multiple contracts?
+
+We're tracking a handful of contracts, Michael. The one most significant where we have partial signatures is approximately $1.5 million. There are others though.
+
+Okay. So $1.5 million is this UK contract part of this consortium that was pushed from Q1 into what you hope to be imminently in Q2?
+
+Correct. I said the next several weeks I think that's a good timeframe.
+
+Okay. And then $500,000 of additional contract signings also were pushed out from Q1 into Q2?
+
+That's correct. It was a particular name that was acquired by another company. And that acquisition apparently had some provision that a commitment over a certain value had to be cleared. And that added some approval process to what we hope will be a good Q2 win.
+
+Okay. And that one also you think will be in the next couple of weeks?
+
+That one, yeah, I would say the next month or so.
+
+Okay. And then we had obviously our sales pipeline of RBS contracts or potential contracts going into Q2, which have not been signed, have those also been pushed out further?
+
+We're working the funnel, as you know, as we always do, Michael. So I don't see a lot of other pushes, but they can happen. These are complex deals. And again, we feel good that Q2 should reflect a fairly positive booking trajectory.
+
+Right. But if it's – I'm just trying to get the understanding of timing and expectations of $2 million of these bookings were kind of push-outs from Q1 into hopefully some time here in Q2. The expectations of the Q2 signings, which have not been signed yet, contracts that have not been signed yet, I would expect that it would be $2 million plus that would be signed in Q2, unless we're seeing further push-outs?
+
+Yeah. No. Correct. I made the comment that for the first half of the year, by the time we're done with the second quarter and the first half of the year, we're hopeful that the booking results for the first six months will reflect that we're on a growth trajectory. So you're right, our booking expectations for Q2 are higher than $2 million.
+
+Okay. So if it's – I don't have the numbers in front of me here, but if – what were the bookings for RBS for the first half of 2021?
+
+So we have we don't break that out separately. But if you think about it, we had $8 million and change in revenue last year for RBS. So an expectation for growth there would mean that we're hopeful we'll have an outcome of $4 million or $5 million of bookings in the first half of the year.
+
+Okay. Got it. So it should be a very, very active next six weeks for RBS contract sales?
+
+That's correct. It's been a very, very active last four months, Michael.
+
+Okay.
+
+We hope they come to fruition over the next two months.
+
+Got it. Okay. That will be certainly good to see, and obviously, with that, I'm assuming we should see a bump-up in gross margins as well.
+
+When those are delivered, correct. Some of those are longer term in delivery. But I would characterize most of what we see in the funnel as between a 6 and 12-month delivery. So we would see second half recognition.
+
+How many of the RBS contracts on the 5G side have moved to a commercialization phase at this point? And maybe it would be helpful to just remind your shareholders of how these contracts kind of move from development to prototyping to beta to commercialization.
+
+I'll translate your commercialization into production volumes.
+
+Sure.
+
+I would expect that our customers will see production volumes potentially as soon as Q4, but most within 2023. So, you're correct in the sense that the sales cycle now is the delivery of technology building blocks for our customers' applications. Those applications then have to go through a period of trials in labs and then field tests. We provide port services along that period of time, and so the initial sale of the software license is recognized typically within the first three months of delivery, depending on the acceptance cycle.
+
+We then go through a series of customization services, which then could also be recognized as milestones. And then we enter the support phase of that contract, where we continue to earn some support services. As the customers then move into production, certain of those customers have royalty components when they move to production.
+
+So, that complete end-to-end customer relationship cycle can be measured in years, where the delivery of software is the first three months, the next three to six to nine months is delivery of customization, and then the year thereafter is the support services as they go to production. I believe most of our customer contracts will see production volumes in 2023.
+
+Excellent. So, basically, the revenue that we're seeing at this point is from RBS is the case of the tip of the iceberg, because...
+
+Yeah, [indiscernible] (00:35:30).
+
+..it's a front end and this is all pre-commercialization?
+
+That's for the most part, correct. Yes.
+
+Okay. It's obviously a very frustrating time. We're sitting at the company with an enterprise value below $20 million at this point. And we're all kind of scratching our heads over how we find ourselves at this level. What is the market missing, Tim, in regards to its view of our company, especially the company that we – I guess the analysts have $33 million in revenue expectations for this year. So we're trading at not even 1 times revenue. We're expecting to be cash flow positive for the year, we're basically neutral for – on an adjusted EBITDA business for Q1, so...
+
+Sure.
+
+...we're sub-$20 million enterprise value.
+
+Yeah, no. So my first point there, Mike, was I think the broader market conditions are clearly we're caught up in that. I mean, the same could be said for the Dow, the S&P, the Russell 2000 and the 1000 or so companies that have also made 52-week lows here over the last month. So, clearly, there's a disconnect and a sense of volatility in the overall broader market is my first point.
+
+My second point there would be this is really the first quarter, where we have disclosed and published the impact of the results of Microlab and the standalone results of the segment. So I think that the clarity and transparency of the business, we will continue to work on the communication. It's out there now. We can speak to the 10-Q and the separation of Microlab. I'm not sure if the markets have fully appreciated the amount of cash on the balance sheet, the impact of wiping out the debt, getting rid of the covenants and paying down and being interest-free now.
+
+So, I think that as we emerge from this, as we continue to build the company and drive top line and drive profitability, I think there'll be a growing sense of appreciation. I would hope the broader market conditions improve as well.
+
+Okay. But if just looking at a one-year chart, a year ago, we were almost at the same price. That's before the market rolled over. We had a spike-up, which we enjoyed, in the middle of the summer, which was short lived. And then continued downturn, so we can't really blame this on market dynamics.
+
+Yeah. Mike...
+
+Certainly, that's not helping.
+
+My prepared remarks noted, acknowledged the fact we don't believe it reflects the current enterprise, intrinsic enterprise value of the company. And we are entirely focused on how we unlock that and address and maximize shareholder return in the short term. We're working hard in those endeavors.
+
+Okay. The $4 million potential share buyback, I think is just inadequate. We don't need $20 million of cash on the balance sheet to operate this company. This is record amount of cash. We've never had this amount of cash on the balance sheet. How are you coming to a $4 million share buyback number?
+
+Yeah. So as we go through the analysis, Michael, we evaluate all the potential requirements for cash from organic growth initiatives to other growth opportunities. The decision was largely about maintaining optionality in the future. And so this $1 million could change, it could grow larger, but right now, it helps us maintain optionality as we work through the final stages of our planning and it's a start. So I don't think this is the conclusion that with $19 million on the balance sheet and the $4 million commitment, this is not necessarily a determination or commitment of the other $15 million for the purposes. It's about maintaining optionality as we work through our planning, it could change.
+
+I hope it does. And I think this $4 million to me is vastly insignificant, especially when we just sold Microlab for $23 million plus. We're cash flow breakeven, hopefully positive for the year. We have some tremendous growth initiatives that don't require a lot of CapEx, potentially moving forward. As a long-term investor in this company, I'd like a return on my investment.
+
+Yeah.
+
+All right? I don't think that's a lot to ask our Board of Directors, but that should be their number one focus is a return for the shareholders.
+
+No I definitely appreciate that, Michael. And I think the board fully appreciates that.
+
+Do they?
+
+We do understand the input. We felt again this was a good first step, good first start, it's not the end result. But rather than defer, delay any action for a period of time, we felt that moving on something and getting something approved was important and getting started in this regard. So again, I think over the coming months, as we complete our work, we may have more that we can talk about. And this number may or may not change, but we think there's a good starting point, Michael. We do appreciate your sentiment. We did – we certainly have taken that into consideration and the board is fully aware of some of the input.
+
+Okay. I'll get back in queue. Thanks.
+
+Great. Thank you, Michael.
+
+There appear to be no further questions in queue. I would like to turn the floor over to Tim for any closing comments.
+
+Great. Thank you, everyone, for joining us today and we look forward to speaking with you again soon. Thank you. Have a great day.
+
+Thank you, ladies and gentlemen. This does conclude today's conference call. You may disconnect your phone lines at this time, and have a wonderful day. Thank you for your participation.

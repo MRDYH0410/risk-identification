@@ -1,0 +1,172 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+Babak Pedram — President, Virtus Advisory Group, Inc.
+Alvaro Pombo — Founder, Chief Executive Officer & Director, ProntoForms Corp.
+David Croucher — Chief Financial Officer, ProntoForms Corp.
+David Kwan — Analyst, PI Financial Corp.
+Gabriel Leung — Analyst, Beacon Securities Ltd.
+
+Management Discussion Section
+
+Question And Answer Section
+
+Good morning, ladies and gentlemen and welcome to ProntoForms Corporation's First Quarter 2020 Results Conference Call. At this time, all lines are in listen-only mode. Following the presentation, we will conduct a question-and-answer session. Introductions will be provided at that time for you to queue up for questions. [Operator Instructions] .
+
+I'd now like to turn the conference over to Babak Pedram, which is our Head of Investor Relations. Mr. Pedram, please go ahead.
+
+Thank you, Veronica. Good morning, everyone and thanks for joining us. Before we begin, I will read our cautionary note regarding forward-looking information. Certain information to be discussed during this call contains forward-looking statements within the meaning of applicable security laws, including, among the others, statements concerning the company's 2020 objectives, the company's strategy to achieve those objectives, as well as statements with respect to management's beliefs, plans, estimates and intentions, and similar statements concerning anticipated future events, results, circumstances, performance or expectations that are not historical facts.
+
+Such forward-looking statements reflects management's current belief and are based on information currently available to management and is subject to a number of significant risks and uncertainties that could cause actual results to differ materially from those anticipated.
+
+Also, our commentary today will include adjusted financial measures, which are non-GAAP measures. These should be considered as a supplement to and not as a substitute for GAAP financial measures. Reconciliations between the two can be found in our Management Discussion & Analysis which is available on sedar.com and our website.
+
+And finally, note that because we now report in US dollars, all amounts discussed today are in US dollars, unless otherwise indicated.
+
+With that, I will hand over the call to our CEO, Mr. Alvaro Pombo. Please go ahead sir.
+
+Thank you, Babak. Thank you, Veronica. Good morning, everybody and welcome to our company's conference call. Before I hand the call over to our CFO, David Croucher to discuss the quarter financials, I would like to take some time to discuss the ProntoForms business. The elephant in the room of every personnel or business conversation these days is COVID. Let me start by saying that I personally have a huge admiration for every business leader and every organization that is delivering services these days. I want to begin by acknowledging all of our great customers, some of who are experiencing challenges in their industries and others who are experiencing a surge in demand with greater work complexity and more stringent operational requirements during the global pandemic.
+
+The good news is that the customer usage of our product across the base has shown to be resilient, demonstrating that our platform is being utilized for essential business processes and we have been enabling workers to remain productive, and in some cases, improve productivity in these unprecedented times.
+
+Let me continue with my team of my employees. Nobody was prepared for a pandemic, but through our SOC 2 compliance over the last couple of years, we established a comprehensive business continuity plan that not only made us aware, but made us practice different circumstances of operational challenges which enable us to be fully functional in a matter of hours after the early indication of the situation we were about to be confronted with.
+
+This great team of empathetic and customer-centric people adopted the said direction, and in a matter of hours, was fully operational working from home and connecting with customers. It was a great display of human motivation and resilience. With these two perspectives in mind, our efforts have been focused on maintaining high levels of service, listening to customers to address their evolving needs, and working as rapidly as we can to support the deployment of new use cases.
+
+On the operational side, we have been iterating over different scenarios of spend and the good news is that the situation is arriving for having the best balance sheet in the company's history, near cash flow breakeven with $6.2 million in the bank and with a growing base of enterprise customers that now represents 37% of our total base using our product. Although impacted by the pandemic, we are seeing a flow of new customers and some with interesting use cases related to their new operational challenges.
+
+We're also seeing existing customers taking the downtime as an opportunity to accelerate their form development, preparing for return, as well as others quickly deploying new processes. A few examples of these to share with you are a food producer tracking employee health assessments using our tool, utilities adding more subscribers to their base, and environmental health and safety processes for industrial equipment manufacturers around the new challenges that they have for servicing their equipments in restricted areas.
+
+In other words, I believe that the current business climate will accelerate digital transformation in the field and many organizations are facing a greater sense of urgency to improve their operations and customer interactions, while also monitoring and ensuring technician health and safety. These customers' needs were being addressed by our platform before the crisis. So we expect interest to continue and grow. More citizen developers in organizations are building more workflows every day.
+
+Now, let me comment on our Q1 results. Recurring revenue in Q1 2020 increased by 25% to $3.94 million, compared to $3.16 million in Q1 2019 and by 4% compared to $3.77 million in Q4 2019. Our priorities are our customer success and the financial viability of our operations for our employees, customers, and shareholders.
+
+With that, I hand over the call to Dave to discuss our financial performance for the quarter. Dave?
+
+Thank you, Alvaro. As usual, I'll go through the financial highlights, but I would refer everyone to the MD&A for more detail. Total revenue in the first quarter of 2020 was $4.24 million, representing a 4% increase over Q4 and a 21% increase over the comparative Q1 2019. Of this total revenue, 93% was recurring. Recurring revenue for the fourth quarter was $3.94 million, a 4% increase over Q4 and a 25% increase over the comparative Q1 2019.
+
+Annual recurring revenue base as at March 31st totaled $15.74 million compared to $13.07 million at March 31, 2019 and effectively flat from December 31, 2019. Our bookings were impacted as we saw a number of deals pushed out towards the end of the quarter due to delays on customer projects and purchasing caused by the pandemic. As Alvaro mentioned, our ARR base is shifting to a higher proportion of larger customers. Customers with greater than $100,000 of annual equivalent of recurring revenue has grown to be 37% of the base compared to 28% a year ago.
+
+Revenue from professional services was $301,000 for Q1 compared to $296,000 in Q4 2019 and $358,000 in Q1 2019. Gross margin on total revenue for the fourth quarter was 85%, slight increase from 84% in Q4, and an increase from 81% in Q1 2019. Gross margin on recurring revenue isolated in Q1 2020 was 92% higher than the 90% gross margin in Q4 2019 and an increase from 89% in Q1 2019. Our gross margins tend to fluctuate as we add new functionality, but offset by economies of scale as we grow. The current quarter gross margin of 92% is at the higher end of the range and will may come back when we add more functionality for the rest of the year.
+
+Operating expenses for the first quarter were $3.86, million down 4% from Q4 2019 and up 18% compared to Q1 last year. The decrease from Q4 is attributed to approximately $220,000 of IRAP funding that we received in Q1 that offset gross R&D expenses related to the IRAP project. Generally, we increased head count in Q1, but we also had the benefit of the foreign exchange as the Canadian dollar weakened. As I mentioned, approximately 80% of our expenses are in Canadian dollars.
+
+Loss from operations for Q1 was $238,000, down from $583,000 in Q4 and down from $398,000 in Q1 2019. Net loss for Q1 was $168,000, down from $781,000 in Q4 and down from $533,000 in Q1 2019. In addition to the benefits of the IRAP funding and the foreign exchange effect on our operating expenses, we also had a gain of about $167,000, mainly due to the foreign exchange effect on our long-term liabilities that are denominated in Canadian dollars.
+
+Our non-GAAP op loss which is our closest to EBITDA measure for Q1 was $90,000, down from $403,000 in Q4 2019 and down from $287,000 in Q1 2019. Our cash balance at the end of March was $6.2 million compared to $5.7 million at December 31.
+
+In summary, we are pleased with our first quarter results and we feel that we have some things in our favor in light of the new environment caused by the pandemic. Number one, our organization is cloud base, meaning the services that we deliver and the tools that we use to do our jobs. This has allowed us to continue with our business activities in a controlled and effective manner and continue to deliver the ProntoForms' service to our customers very well.
+
+Number two, Q1 recurring revenue showed some growth on the back of net bookings from Q4, but Q1 net bookings were flat due to several deals that were delayed due to disruption with our customers and increase in churn, mainly in the SMB area. We continue to see opportunity but in the short-term, we expect some more delays in closing deals until economies reopen.
+
+We have a diversified base, so we are seeing an assortment of effects. We continue to keep a close eye on key metrics with our base, including usage, churn, new bookings, and cash collection from accounts. Our enterprise greater than 100,000 ARR base grew to 37% of our total base, representing our strongest area of growth and reinforcing our commitment to add enterprise sales strength. We would add that enterprise historically has been our lowest area of churn and as so far shown resiliency even in the new environment.
+
+Number four, our non-GAAP op loss decreased significantly in Q1. We had the immediate benefit of the weakening of the Canadian dollar on our bottom line. As we said, 90% of our revenue is in US dollars and 80% of our costs are in Canadian. We also had a reduction in travel and event costs as one would expect. We did not reduce head count, but we have delayed hiring, except for a few specific positions.
+
+We are currently operating under, what we call, defense mode where we are controlling the costs without cutting into the organization, because we want to be able to be ready to take advantage from the demand returns in earnest. When we see a tangible increase in demand and bookings, we will return to reinvest in capital in pursuit of growth, beginning in a cautious manner, of course. That concludes the financial highlights.
+
+With that, I will ask the moderator to open up the line for questions. Thanks.
+
+Thank you very much. Ladies and gentlemen, we will now begin the question-and-answer session. [Operator Instructions] One moment please for your first question. Your first question comes from David Kwan, company, PI Financial. Please go ahead.
+
+Hi, guys.
+
+Hi, David.
+
+Good morning, Dave.
+
+Good morning. Obviously, a lot of focus on what's going on right now with COVID-19. I was curious if you can comment on how you're seeing the sales process change, obviously not being able to have guys out on the road and whatnot, but just what you're seeing as its relates to trying to win new customers versus adding more business with their existing customers? I assume the latter would be easier to do. I just don't know to what extent? Obviously, those customers might be still tied to up trying to deal with internal issues that relate to what's going on right now.
+
+I'll take a crack at it, Dave. Thanks for the question. So, look, the sales process, multiple components of it. I'll answer the headline of it which is, part of the challenges that we had last year by adding so many sales guys was onboarding them and this has provided a great opportunity to execute and a lot of that, I call it, the scaffolding of the sales organization. So we have new directors of sales enablement, I mean, people working on it, more training on the product, all sorts of new tools that were about to come live have come live in a great timing.
+
+Flow of leads continue in a good way and still even see deals coming through. I mean, we're still selling. As you say, definitely, some customers, I mean, it takes them longer to decide for things that were already in the funnel. So, to be fair with the whole situation, I think it has given us a great time to continue the investment and fine-tuning the skills of that sales force.
+
+Is it fair to say that you're finding it easier to get more business with your existing customers versus going out and trying to close deals with new ones?
+
+Yeah. Look, if I can color it in the following way, what this thing has done to us as well is focusing the message a lot more – a lot sharper. If you take a look at our website, we've been doing a lot more. I mean, our product does some of these disaster recovery issues extremely well. Why does it do it extremely well? Because, it's very easy to stand up new workflows on it. And that's the message that we keep on going to the base and to everybody with, and it's resonating as well with our other partners.
+
+I mean, you probably have seen some of the webinars. I mean, people are paying attention. Don't ask me why? If they finally are not mega-busy and they have a chance to listen, we are finding that reaching people, it is easier. We are finding that as well, people are building forms, existing customers. All these are – all this is oxygen for when things can be eased on the deployment side.
+
+Well, that's helpful, Alvaro. And, on the sales team, you talked about obviously trying to get those guys ramped up and you've obviously been making refinements in terms of the team and the strategy and whatnot, like how far – how much longer do you think it'll take before you get kind of comfortable that the sales team and the and processes and whatnot are at a point where you feel that if you pour more money into it that you're really going to see that return?
+
+Yeah. I mean look, without providing any guidance, you can guess how many – I mean, you can make your own assessment of how many quarters this is going to take, but take whatever number of quarter or quarters, I think from a perspective of getting our guys up to speed, I think by the end of this quarter, we will be in a much stronger position to execute against the expectations of productivity of those sales guys.
+
+Now, if it takes longer for the economy to recover and all those things, that's why we're basically, they've talked about these defensive mode that we're – we're not taking any expenses out of it. We're basically saying is, hey, let's rev up all the capabilities, so we're ready. As soon as we see the numbers flowing, we can continue with the hiring approach on the sales and other areas, okay, and hopefully, dovetail into that growth pattern that we were seeing.
+
+No, that helps.
+
+And just, David, I'll just add to that in terms of the scaffolding of the team, because we were doing well over – we had some good momentum in terms of adding people to the enterprise and the commercial teams and we had actually added also some management. When I mentioned earlier, we have a few key positions, there's still a couple more positions on the sales side, senior leadership positions.
+
+But, we've made great progress in terms of the client directors that we talked about the sales enablement people and some of the management getting that in place along with changing out some of the reps for new better quality reps. So we're pleased with how that organization is building and we're making progress. But, it's when people aren't signing or closing, I mean, you have some customers that have people at home, right that won't be doing inspections, but they'll have to get back to that soon, right? So then, when those things start to happen, then we should see some more activity on that front. But, as Alvaro mentioned, that's the part that we just can't predict.
+
+No, no. That's good color, guys. And in terms of your ARR, can you provide any color as to the breakdown of it from kind of annual contracts versus monthly ones?
+
+Yeah. It's roughly – I think it's almost 40% – 30% to 40% is month-to-month and that started at a bigger number and it's been coming down over time, the enterprise side. So ones that our customers that are greater than 2,500 are high-40s in terms of percent, we talked about 30% of our customers being greater than 100k of ARR individually, and that's a good measure of enterprise-sized customers that are well penetrated. But, we also have more enterprise customers that are not as penetrated and when you add those in, your total enterprise group adds up to just under 50% and high-40s.
+
+No, that's helpful. And just couple of more questions. I guess, reading through the MD&A and what you guys are talking about on the expense side, so it sounds like expenses are going to be roughly flattish here, I guess over the next quarter or two. But, could we actually see that come down a bit. Obviously Q1, you wouldn't have kind of the full impact of COVID, definitely lot more in Q2 here as it relates to less travel, less investments in marketing in particular, as well the lower Canadian dollar. Could we see OpEx actually come down a bit from Q1 levels and possibly resultantly see your adjusted EBITDA turn positive?
+
+It's going to be close. We're still going to add a few positions. So with the benefit of the FX, the one thing that will change going the other way is that we had this IRAP program [ph] that we've collected about (21:48) half of it. So – and we're going full on with that project. So we're trying to get through that as fast as we can because it's got some real interesting enterprise features, number one; and number two is that cash flow is helping offset expenses, right? The salary costs.
+
+So that will help in the short term, but then – and that's going to go away. And then, you'll see an increase in the net expenses there. So I wouldn't say that it's going to low pass breakeven, but it's – you're right, it's going to be roughly around where it is. We don't plan on changing it either spending more, because we were growing at about 30% cliff or high-20s anyways, so that's changed. And then, we do have the benefit of the FX and the travel costs. But, we don't want to go any further than that and we want to just finish off building out that sales team and add a little bit to help support that IRAP project as well. So there are going to be a few smaller costs that are going to be added, so should all balance out.
+
+No, that sounds – no, it's sounds like, I guess, for Q2 and maybe Q3, you could see some benefit there. And as it relates to the IRAP, I guess, once it's done and the funding is no longer there, would you still look to maintain those investments or would you see some of that potentially come back?
+
+The investments in those, particularly building of some features?
+
+Yeah. On the R&D side, I don't know if you're using contractors or in-house for that?
+
+No, it's in-house. So the way those projects work is it's meant to – the government's view is, it's meant to create jobs, right? And good technical jobs. And, it helps us. In our hiring plan, we can – it's not that it changes something a year down the road, it's more that, you get to add those people earlier, so you get a year of benefit of what they build in the short-term, right? And that's kind of the objective.
+
+Now, that's in a growth mode. So, we're not there at the moment, but we actually have some other opportunities to get some – we might be able to get some customers to pay for those particular feature sets. So we're working on some things like that. So we'll try to offset those costs, but for now, we're not – we don't have an intangible. So we're expecting a small increase in those costs, so – but, in terms of changing our approach or holding off on building new technology, absolutely not. Its core to what we're doing and as you know, we've had great relations with our customers and they give us the direction in what they want to see in the product and that that just gets us deeper into those enterprise organizations.
+
+No, that's helpful. Thanks, guys.
+
+Thanks, David.
+
+Thank you, Dave.
+
+Thank you very much. So your next questions come from Gabriel Leung from the company Beacon Securities.
+
+Hi, good morning. Thanks for taking my questions. Good to hear from you guys, Alvaro and Dave.
+
+Good morning, Gabriel. Hi, there.
+
+Couple of things to follow-up on. So first, between your comments around sort of deals getting pushed out deferred over the near term along with seeing some churn on the SMB side, would it be fair to say that we should be – or maybe the way to think that you guys are planning for the business with ARR to sort of best case scenario, remain flat over the next little while?
+
+Well, we're not giving guidance, Gabriel, but we can comment on what we've seen so far, and I will put it this way. So as we went into this thing, immediately, you become concerned about a few different things. Number one is bookings, number two is churn, and number three, for me is, cash collection from our customers. And in terms of the bookings, we have seen some delay, just things getting pushed out as I am sure a lot of people are seeing.
+
+And then, on the churn side, I think we had immediate concerns, but it seems like it's – so far, it's hard to say what's going to happen from here, but nothing extraordinary on that side, I call it. Yeah, and then, on the cash collection side, the same comment, nothing extraordinary. So really the one that is causing the most effect is the delay in bookings. So in terms of whether we're plus or minus going forward, we can't say that for sure, but like I said on a few of the fronts, there's nothing extraordinary and we're just seeing delays.
+
+Got you. And, are you able to quantify the amount of ARR bookings that sort of had been pushed to the right during this period?
+
+No.
+
+No, because we wouldn't have known for sure what would have closed versus not. Until it's closed, we don't count it, so...
+
+Yeah. I'll give you – Gabriel, I'll give you a little bit of color. We are definitely tracking it. I mean, every single deal has a COVID status as we call it, okay? And the status is, they're proceeding as planned? They don't know, but they're not disengaging.
+
+And the other one is radio silence and there is a very good distribution. And, as people in the States, which is our main market, are starting to go back to work, the people that are COVID delayed versus okay, now we're back on track, we're starting to see some flow from those – that category in the middle to one above. So yeah, we're quantifying it. We don't want to talk too much about it. But, as Dave said, I mean, we haven't seen the sky falling, which is great.
+
+Yeah. It's tough in our business, because we have 2,800 customers. And so, it's more around patterns over time. And now, things are – because it's so early in this, it's more anecdotal than patterns that have developed at this point.
+
+Got you. Thanks for that. And you're touching up a lot of the expenses, but maybe you can talk a little bit about, I think we're still a year out, but any new developments on the BDC facility [indiscernible] (28:22)? And that's it from me. Thanks a lot.
+
+Yeah. The BDC – we've had a number of discussions actually with BDC. We've actually had a number of discussions with IRAP as well in terms of this project. So as you know, there's a lot of different government programs going on and BDC had one that they came out with that, we considered – we actually applied for, but we weren't the best fit for it. There was other companies that were, call it, more in need of short-term working capital. So, we were working – we're still working with BDC.
+
+They're talking about some options for us. We're also talking to others, and the tricky part for us is, how do you build term, like our debt structure when you're not exactly sure what the term our debt structure, when you're not exactly sure what the pattern is or what the numbers might be, so that you can make sure you don't put in covenants that will trip you up, right, in this current environment that are more of a short-term thing than a long-term thing.
+
+So, we've had good discussions and our partners are being creative and we're trying to come up with some new possibilities that we could use to either replace or add to the debt that we currently have. But, we are working on it. And I don't have an answer as of yet, but it seems like there is some possibilities there for us.
+
+That's great. Thank you for the feedback.
+
+Thanks.
+
+Thanks, Gabriel. [Operator Instructions]
+
+Okay. I'll just add to Gabriel's question too that BDC also holds warrants, right that come due at the same time that the debt comes through, so there's a possibility that could offset the cash change at that point in time.
+
+There are no further questions at this time. Please proceed.
+
+Okay. So thanks again, everyone for joining us. To conclude the call, we see continued demand and we continue our track of investing in our enterprise product and sales team. We continue to be excited about what lies ahead for our business. And once again, thanks for spending your time this morning. And as always, I would like to thank you for your continued support. Have a great day.
+
+Ladies and gentlemen, at this time, this concludes your conference call for today. We thank you for participating and ask that you please disconnect your lines. Thank you.

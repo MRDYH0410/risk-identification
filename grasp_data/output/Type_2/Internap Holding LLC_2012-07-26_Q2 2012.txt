@@ -1,0 +1,185 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+Michael Nelson — Sr. Director, Investor Relations, Internap Network Services
+Eric Cooney — President, Chief Executive Officer & Director, Internap Network Services Corp.
+John David Maggard — Chief Financial Officer, VP & Controller, Internap Network Services Corp.
+Jonathan Atkin — Analyst, RBC Capital Markets Equity Research
+Gray Powell — Analyst, Wells Fargo Advisors LLC
+Clayton F. Moran — Analyst, The Benchmark Co. LLC
+
+Management Discussion Section
+
+Question And Answer Section
+
+Good day, ladies and gentlemen, and welcome to the Internap Network Services Second Quarter 2012 Earnings Conference Call. At this time, all participants are in a listen-only mode. Later, we'll have a question-and-answer session, and instructions will follow at that time. [Operator Instructions] As a reminder, today's conference is being recorded for replay purposes.
+
+I would now like to turn the conference over to your host for today, Mr. Michael Nelson, Director of Investors Relations. Sir, you may begin.
+
+Thank you. Good afternoon and thank you for joining us today. I'm joined by Eric Cooney, our President and Chief Executive Officer; and John Maggard, our Interim Chief Financial Officer.
+
+Following prepared remarks, we'll open up the call for your questions. We will reference slides in our conference call today. These slides are available in the Presentation section of Internap's Investor Relations website. Non-GAAP reconciliations and our supplemental datasheet, which include additional operational and financial metrics, are available under the Financial Information Quarterly Results section of our Investor Relations site.
+
+Today's call contains forward-looking statements, including expectations regarding future performance and long-term profitable growth, belief in our business strategy, including the benefits to be achieved from investing in our company-controlled colocation and our Agile Hosting, and Custom Hosting solutions, timing for bringing new data centers online, expectations regarding the progress, timing and success of integrating Voxel into our business, including and expectations regarding cash flow and our capital flexibility.
+
+Because these statements are not guarantees of future performance, and involve risks and uncertainties, important factors could cause our actual results to differ materially from those in the forward-looking statements. We discuss these factors in our filings with the Securities and Exchange Commission. We undertake no obligation to amend, update or clarify these statements. In addition to reviewing the second quarter 2012 results, we will also discuss recent developments.
+
+Now, let me turn the call over to Eric Cooney.
+
+Thank you, Michael, and good afternoon, everyone. We are pleased you could join us for our second quarter 2012 earnings presentation. I'll start the discussion with a summary of our results and then turn the call over to John Maggard, our Interim Chief Financial Officer to take you through our detailed financial results. From there, I'll briefly wrap up our prepared remarks and then we'll open up the call to take your questions.
+
+Beginning on slide three, you will see we delivered total revenue for the quarter of $68.7 million, representing an increase of 14% year-over-year and 2% over the first quarter of 2012. Total revenue churn improved to 1.2% in the second quarter, representing an improvement of 20 basis points year-over-year and 30 basis points sequentially. These results provide further evidence of the company's ability to execute on our strategy of leveraging our company-controlled colocation and hosting services.
+
+Segment profit of $36 million increased 21% year-over-year and was essentially flat sequentially. Segment margin was 52.5%, an increase of 310 basis points year-over-year and decline of 100 basis points quarter-over-quarter as continued growth in higher margin hosting services were offset by higher seasonal power costs.
+
+On slide, four you can see the sources of change in revenue from the first quarter of 2012 to the second quarter of 2012. Our core data center services including company-controlled colocation and hosting services remain the engine for top line organic growth, representing over 90% of the sequential revenue increase.
+
+Total data center services contributed $1.6 million of incremental revenue while IP services provided an incremental $0.1 million of revenue in the second quarter. Non-recurring IP equipment sales accounted for roughly $0.5 million of incremental IP revenue quarter-over-quarter.
+
+Turning to slide five, adjusted EBITDA totaled $12.2 million or 17.7% of revenue. This represented a 19% increase year-over-year and was flat sequentially. The year-over-year improvement was predominately the result of organic revenue and segment profit growth in data center services. Cash operating expenses increased $0.2 million sequentially due to incremental marketing investments in our brand awareness program and integration expenses related to the Voxel acquisition.
+
+On slide six, data center services revenue totaled $41.5 million for the quarter, an increase of 28% year-over-year and 4% sequentially. Data center segment profit was up strongly from a year ago, rising 48% year-over-year and declining 1% sequentially. The solid year-over-year increase was driven by strength and colocation services from within company-controlled facilities as well as Internap's complex managed hosting services.
+
+Again, higher seasonal power costs impacted margin sequentially as the summer heat waves placed a significant incremental load on the data center cooling infrastructure. IP services revenue modestly increased quarter-over-quarter and declined year-over-year to $27.2 million. IP segment margin increased 90 basis points sequentially and increased 210 basis points year-over-year to 63.3%, primarily due to higher non-recurring IP equipment sales, which offset a decline in IP transit revenue. The IP services segment continues to deliver solid segment profitability in cash flow, which we leveraged to support the more capital-intensive data center services segment.
+
+On slide seven, we provided an updated on the progress we're making on our data center expansions in Los Angeles and Atlanta. Both locations remain on track to open later in the third quarter 2012 as we finalize the on-site work. When fully deployed, the Los Angeles facility will add 55,000 incremental net sellable square feet to our company-controlled footprint with Phase 1 adding 15,000 net sellable square feet.
+
+Likewise, our Atlanta facility is nearing completion and when fully deployed, will add an incremental 31,000 net sellable square feet of premium data center capacity with Phase 1 adding roughly 12,000 net sellable square feet.
+
+With the upcoming launch of these two new data centers, we will have deployed 25% of our company-controlled data center footprint within the past year, providing us with ample capacity, and we believe an attractive selling point for our colocation and hosting services relative to other service providers.
+
+On slide eight, we provide an update on the Voxel integration, which is now largely complete and delivering positive results. The Internap solutions, the Voxel solutions and those services we have jointly brought to market post-acquisition, combined to provide a compelling product set differentiated by our superior performance and our platform flexibility. A clear example of the compelling IT infrastructure offering is represented in the Agile platform we launched earlier this year.
+
+The Agile Hosting platform allows fully hybridized on-demand configurations with automated ordering, payment, and provisioning. I'll talk to you in more detail on our Agile Hosting platform in a moment. We have completed the back-office integration of Voxel and are having continued success cross-selling our portfolio of products and services.
+
+From a marketing branding perspective, we now have a unified market positioning and have fully merged the messaging into a single brand and a single website. Overall, we're very pleased with the Voxel acquisition. The integration is on pace and we are moving forward with a clear IT infrastructure services growth strategy.
+
+Speaking of the single website, on slide nine you can see the new design for our homepage, which we recently launched. The webpage neatly highlights the breadth of our capabilities as an IT infrastructure services provider with a complete suite of data center services, expanding colocation, managed hosting, dedicated hosting and cloud services in addition to IP and CDN Network Services.
+
+Turning to slide 10, we are providing an overview of the portfolio of Internap's IT infrastructure service offering. Working our way up the graphic, you see Internap's origins with high-performance networking solutions leveraging our MIRO Accelerated IP and CDN technologies.
+
+Next up the stack you see our premium data center from which we offer colocation services. At the top of the stack, we are representing two flavors of hosting solutions, our Agile Hosting and our Custom Hosting offerings, both of which are delivered from within our premium data centers utilizing our high-performance network.
+
+The Agile Hosting offering is engineered for customers typically seeking scalability on-demand usage, self-provisioning capability and speed of deployment, which is often measured in hours if not in minutes. In contrast, the Custom Hosting offering tend to be tailored to meet very specific application workload requirements, not likely found in an Agile Hosting solution.
+
+Finally, you'll notice the reference on the slide to hybridization. This hybridization capability will provide customers with the ultimate flexibility to build and deploy their applications into the optimal combination of colocation, dedicated hosting, managed hosting, and/or public and private clouds. We're excited by the potential of such a uniquely flexible and high-performance set of IT infrastructure services.
+
+Moving to slide 11, we announced today that we're providing scalable hosting and IP services to OwnerIQ, a leading provider of targeted digital advertising solutions. This is a prime example of how Internap is leveraging our best-in-class performance and platform flexibility to support big data processing.
+
+OwnerIQ required a low latency and scalable infrastructure that could process and deliver massive amounts of data with sub-second response times. Our ability to provide better performance and support in a multi-site environment has helped us tap into the expanding market of big data processing, which requires a robust platform to deal with an increasing volume of data, increasing velocity or speed in which information streams into the enterprise and a wider variety of data types and sources.
+
+Finally, as you all have seen in our press release, we announced today that Kevin Dotts has accepted the position of Chief Financial Officer for the company and will be joining us on the 30 of August. Kevin comes to Internap with 25 years of financial leadership experience including five years as the Chief Financial Officer for EarthLink and 15 years with General Electric.
+
+We're definitely looking forward to getting Kevin onboard and expect his background and experience will enable him to hit the ground running. I would also like to thank John Maggard for his exceptional performance as Interim CFO. John proactively stepped up to take on the CFO responsibilities in addition to his day job as the Corporate Controller. Well done and thanks to John.
+
+Now, I'll ask John to give us some more detailed review of our financial results.
+
+Thank you, Eric. I'll start my comments on slide 12, which covers our income statement comparisons. Second quarter 2012 revenue totaled $68.7 million, an $8.3 million increase compared to the same period last year, representing 14% year-over-year growth. Compared to the first quarter of 2012, total revenue rose by $1.7 million, an increase of over 2%.
+
+Total segment profit totaled $36 million, an increase of $6.2 million or 21% year-over-year and slightly up sequentially. Total segment margin expanded 310 basis points year-over-year and contracted 100 basis points quarter-over-quarter to 52.5%. Total segment profit and segment margin continue to be positively affected by solid growth in data center services revenue and a larger mix of higher margin company-controlled colocation and hosting services. As is typical, higher seasonal power costs impacted sequential comparisons in the second quarter.
+
+Total cash operating expense of $23.9 million increased 22% year-over-year and 1% quarter-over-quarter. The sequential increase resulted from higher marketing cost associated with the launch of our brand awareness program and integration expenses related to the Voxel acquisition.
+
+Cash operating expense to revenue was roughly 35%, in line with the recent quarters. Adjusted EBITDA increased 19% compared to the second quarter 2011 and was relatively flat quarter-over-quarter at $12.2 million. Adjusted EBITDA margin expanded 70 basis points year-over-year and contracted 60 basis points sequentially.
+
+Higher operating costs in the second quarter of 2012 were more than offset by improved segment profit relative to the year ago quarter. GAAP net loss was approximately $2 million, an improvement over the second quarter of 2011 and a decline from the prior quarter. The sequential decline was primarily a result of higher depreciation and amortization expense. Normalized net income, which excludes the impact of stock-based compensation and certain items management considers non-recurring, totaled $300,000 million or $0.01 per share.
+
+Cash flow and balance sheet summaries are shown on slide 13. Capital expenditures outpaced adjusted EBITDA in the second quarter 2012 by $10.5 million as we continued to invest in our company-controlled data center footprint. CapEx totaled $22.7 million, a large increase year-over-year and sequentially as we near the completion of our new data center build in Los Angeles and the expansion of the Atlanta facility.
+
+At the end of the second quarter, cash and cash equivalents totaled more than $27 million. Funded debt totaled roughly $72 million, an increase of $13 million for March 30, 2012 as we tap into our revolving credit facility to support our data center expansions. As of June, 30, 2012, our long-term debt consisted of $56.7 million borrowed under our term loan and $14.9 million borrowed under our revolving credit facility. Capital leases were relatively flat from the previous quarter at roughly $48 million.
+
+Second quarter total debt to last quarter annualized adjusted EBITDA was 2.4 times, comfortably below the average of our data center peers. Our announced data center expansions are fully funded with our current debt facilities, cash generation and cash on hand. Day sales outstanding were 29 days in the second quarter, as we were required to increase our reserve on certain accounts that have subsequently paid.
+
+On slide 14, I'll cover segment results in more detail. Data center services revenue totaled $41.5 million in the quarter, an increase of $9 million year-over-year and $1.6 million sequentially. Core company-controlled colocation, hosting and cloud services revenue in the quarter represented roughly two-thirds of total data center revenue.
+
+Revenue growth in core data center services accelerated in the quarter, driving a 28% year-over-year and 4% quarter-over-quarter improvements. The improved mix from revenue generated at lower margin partner data centers to higher value company-controlled facilities and hosting services also helped drive strong year-over-year profitability growth.
+
+Data center segment profit increased 48% year-over-year and declined 1% quarter-over-quarter. Higher seasonal power cost impacted a sequential change. Revenue in our IP services segment totaled $27.2 million, down from $27.9 million a year ago and up from $27.1 million last quarter.
+
+The year-over-year decrease was due to lower per unit pricing, partially offset by increased traffic. The sequential increase was driven by higher non-recurring equipment sales. IP segment margin increased to 63.3% primarily due to the higher equipment sales and lower network costs.
+
+In the second quarter, churn in our data center service segment declined 40 basis points sequentially and was flat year-over-year. As a result, total company churn improved 1.2% in the second quarter, representing an improvement of 30 basis points quarter-over-quarter and 20 basis points from a year ago.
+
+On slide 15, you can see the occupied square footage trends in our company-controlled and partner data centers. Over the past two and half years, we have increased the company-controlled occupancy from 73,000 to 97,000 square feet while decreasing our exposure to low margin partner occupancy from 75,000 down to 53,000 square feet. The shift towards higher margin, Internap-operated data centers, is a key driver in our continued profitable growth.
+
+Slide 16 highlights our capital flexibility. We maintain significant cash generation capability as evidenced by our discretionary cash flow, defined by EBITDA less maintenance CapEx.
+
+Annualizing our second quarter EBITDA and taking the midpoint of our maintenance CapEx guidance for 2012 implies an annualized discretionary cash flow of roughly $39 million. Given our healthy balance sheet with financial leverage well below our peer group and cash generation capability, we continue to maintain our capital flexibility.
+
+Now, let me turn the call back to Eric for his closing remarks before we take your questions.
+
+Thanks, John. Now I'll briefly summarize on slide 17. We believe our second quarter results affirm both the strategic direction we've chosen for the company as well as demonstrate focused execution across the business. We delivered another record quarter of revenue in segment profit. Revenue increased 14% year-over-year while adjusted EBITDA increased 19% year-over-year, highlighting the solid operating leverage in our business model.
+
+Looking ahead, we're focused on continued execution with the upcoming opening of 27,000 net-sellable square feet of data center capacity in Los Angles and Atlanta later this quarter. We also expect continued strong growth in hosting services from both our Agile Hosting and custom hosting solutions. We believe we're well on the path to deliver long-term profitable growth for our shareholders.
+
+Now, we'd like to open up the call for your questions, Operator?
+
+[Operator Instructions] Our first question comes from Jonathan Atkin from RBC Capital Markets. Your line is open.
+
+Yes, good afternoon. A question about the upcoming data center openings, have you already – your upcoming expansions, have you already incurred much of the OpEx drag associated with those? I'm just trying to get a flavor for what the incremental revenue contribution – incremental margin contribution might be as you start to fill up those sites? And then with respect to the data center services revenues, how much of that would you characterize as cloud?
+
+Hi Jonathan, this is John. As far as the OpEx on the two openings, we have not incurred significant additional OpEx relative to those facilities. The good part is that both end markets that we already have sites in, so we're currently leveraging the existing personnel that are in those markets to manage the build and open and deploy those sites, so we're not experiencing any additional CapEx – OpEx as it relates to those two openings.
+
+Jon, with regard to the cloud revenue, we don't give an exclusive breakdown, but of the $41.5 million of data center services revenue, John mentioned in his prepared remarks that about two-thirds of that is attributable to what we consider our core data center services namely a combination of the company-controlled colo and the hosting services. So that'll give a little bit of a sense for, let's say, the relative size of our hosting business.
+
+And then with regard to OpenStack, where do you stand with your implementation and whether your cloud market [indiscernible] (21:04) be stack-based cloud services?
+
+We really have two flavors of cloud offering, one is a cloud service or solution that we launched based on our VMware implementation and the other is a set of cloud services based on open source platform. We take both of those cloud offerings into the enterprise and let's say small, medium business customer and subject to their application requirements or their specific workload requirements, we are delivering both of those solutions today.
+
+So with regard to open source, of which OpenStack is an example I suppose, do you have any view on VMware's recent acquisition given that the target company had a pretty meaningful role in any one of the OpenStack projects?
+
+Sure, the – I assume you're referring to the Nicira acquisition.
+
+Exactly, yes.
+
+So for – from an Internap vantage point, particularly given my comments that we actually offer both versions of cloud, i.e. a VMware-based cloud as well as an open source-based cloud hosting offering. I think the Nicira acquisition is relatively neutral in terms of its impact on Internap's business. And I'd say that because many people would likely consider VMware and open source solutions as competitive and again given that we offer both of those shifting dynamic between the strengths or weaknesses of open source versus VMware, should be relatively neutral to Internap, we are able to support any customer requirements irrespective of their platform of choice. There is certainly another question, what the VMware Nicira acquisition means specifically for the, call it, competitive dynamic between OpenStack and VMware, but that's probably a question better directed at either OpenStack or VMware to comment on that.
+
+Very good. Thank you.
+
+Thanks, Jon.
+
+Thank you. Our next question comes from Gray Powell from Wells Fargo. Your line is open.
+
+Great. Thank you very much. I just had a few quick questions. So just on sort of the bigger picture of macro, I guess Digital Realty definitely caused some concerns when they highlighted they were seeing elongated sales cycles in the market. I understand that you guys focus on a different customer segment, so can you just say like what you're seeing in terms of customer decision cycles in the last couple of months?
+
+With regard to sales cycle I would say not focused specifically on the last couple of months but more specifically focused on the last two to three years for Internap. As we migrate our solution offering from our traditional IP transit and even colocation business to the portfolio that we just articulated today including complex hosting, public-private cloud, dedicated hosting, we have a much more comprehensive and much more complex solution today that we're taking to market.
+
+And what we have seen over the past couple of years is longer sales cycles that we attribute to a much more complex solution sale. I don't know that I would identify or could lay my hands on anything that would tell me in very recent history selling a complex solution portfolio I've seen necessarily longer sales cycles, but there is a fundamental trend for Internap as we sell more complex solutions that tend to require a somewhat longer sales cycle.
+
+Okay, that makes perfect sense, thanks. And just a separate topic on company-controlled occupied square footage, that actually was sort of nice improvement, 4000 square feet this quarter. Was that mainly a function of Dallas kicking in or some of the new, I guess some of the sales and marketing initiatives getting traction or is there something else that we should think about when trying to model it going forward?
+
+With regard to Q2's increase in company-controlled occupied square footage, there are really two dynamics that play. The main one accounting for approximately 60% of that square footage increase is exactly what you described, just call it, organic growth filling up Internap company-controlled data centers around North America.
+
+About 40% of that increase though was attributable to a shift in specifically Voxel data center footprint, previously residing in partner facilities. Those contracts came up to their expiry dates and we migrated that infrastructure into Internap company-controlled facilities. So you may also note in the supplemental data sheet, a quarter-over-quarter decrease in partner facilities, part of that decrease was attributable to that shift of Voxel infrastructure from partner into Internap. The impact, as I'm sure you can appreciate, is not necessarily a pick up in revenue, but on a go forward basis, a significant improvement in profitability associated with that move.
+
+Got it. Okay, that's very helpful. Thank you very much.
+
+Sure. Thanks, Gray.
+
+And your next question comes from Clayton Moran from Benchmark. Your line is open.
+
+Hey, thanks. Good afternoon. Eric, maybe just talk about what you're seeing generally with pricing in your different markets, and then I'm also curious if there is anything you can say in regard to the pipeline or pre-sales for the LA and Atlanta facilities? Thanks.
+
+Sure. Pricing trends overall stable from Internap standpoint. And I would say that, that applies both geographically and across our various product lines. Simply put, if I look back over the past two to three even four quarters, I would not suggest we've seen any significant macro changes in the competitive landscape. The competitive positioning are not seeing any unnatural competitive dynamics at play from our vantage point, largely status quo, and therefore stable market pricing, stable market conditions.
+
+With regard to pre-sale activity in Atlanta, Atlanta is as you may recall a market in which we already actively sell Internap colocation services. So for us, the expansion in Atlanta is literally that just an expansion. So it's not really a "pre-sale activity", we're getting to the point where we are filling up the existing Atlanta capacity and this just allows us to continue without any hiccup in Atlanta colocation sales.
+
+Los Angeles, we are and have been actively building the funnel. We feel pretty good about the funnel that we have in place. As was the case in frankly all of our previous new markets, Dallas, Santa Clara being the most recent obvious example. We actually pre-sell relatively little, relatively modest and amounts of colocation I think that's a reflection of the fact that our retail colocation model, relatively small footprints, relatively short sales cycles as perhaps compared a wholesale colocation model.
+
+We are just not typically expecting a lot of pre-sales and really judge our early success based on the funnel and the activity that we developed in that funnel. Aand based on that, we feel pretty good about where we are in Los Angeles, looking forward to opening that data center later this quarter.
+
+Okay. Hey, may be one more question since you just mentioned before that some of the company-controlled space uptake, was it due to Voxel. Can you give us a sense of how much first of all, and then can you give us any indication as to what we might see in the next quarter or two that would drive that uptake higher? I know the past two quarters have been a little bit subdued. But what can you tell us to sort of give us confidence at that number in terms of new lease-up is going higher.
+
+Your first question about the breakdown, it was about 60:40 may be 65:35 in percentage terms. Internap organic company-controlled growth versus the proportion of that 4,000 square feet attributable to the Voxel move. So the majority of it was organic, call it normal colocation sales. And on a go-forward basis, what are our expectations well certainly with expansions coming online, new markets opening up and candidly our ability to fill those data centers with not just colocation but managed hosting solutions and Agile Hosting cloud solutions, we feel pretty good about our ability to continue to aggressively, if not accelerate our fill rates in company-controlled data centers.
+
+Okay. Thanks.
+
+Thanks, Clayton.
+
+Thank you. I show no further questions at this time. And I'd like to turn the conference back to Mr. Michael Nelson for closing remarks.
+
+Thank you everyone. I'll conclude our call.
+
+Thanks operator. Thanks all.
+
+Ladies and gentlemen, thank you for your participation in today's conference. This does conclude the program. And you may all disconnect at this time.

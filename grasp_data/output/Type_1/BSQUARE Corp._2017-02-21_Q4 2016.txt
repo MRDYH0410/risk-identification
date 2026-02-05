@@ -1,0 +1,118 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+Jerry D. Chase — Director, President & Chief Executive Officer, BSQUARE Corp.
+Peter J. Biere — Chief Financial Officer, BSQUARE Corp.
+Adib Motiwala — Portfolio Manager, Motiwala Capital LLC
+
+Management Discussion Section
+
+Question And Answer Section
+
+Good day, and welcome to the Bsquare Fourth Quarter and Full-Year 2016 Financial Results Conference Call. Today's conference is being recorded.
+
+At this time, I'd like to turn the conference over to Jerry Chase, President and CEO. Please go ahead, sir.
+
+Thank you, and good afternoon, everyone. Before I begin, let me remind you that this call is being webcast and that a recording of the call and the text of our prepared remarks will be available on our website. During the call, we will be making forward-looking statements. These statements are based on current expectations and assumptions that are subject to risks and uncertainties that could cause actual results to differ materially.
+
+Please refer to cautionary text regarding forward-looking statements contained in our earnings release issued today and in the posted version of these prepared remarks, both of which apply to the content of this call. All per share amounts discussed today are fully diluted numbers, where applicable.
+
+Once again, I'm pleased to report continued strong momentum with our DataV Internet of Things platform and applications software during the fourth quarter 2016. We believe the transition we embarked on over two years ago is proceeding well, and that DataV is enjoying a successful start in the market. While making disciplined, incremental investments across our sales, marketing, customer solutions, and R&D organizations, we secured additional important contract wins during the quarter and believe we are well-positioned for this growing market.
+
+With respect to customer traction, during the fourth quarter, we landed a $1.9 million deal with Itron, a global leader in smart energy distribution systems and smart cities. This contract, which we initially announced in November 2016, is valued at $1.9 million in the first year and includes a $2.9 million four-year extension in November 2017, bringing the total to $4.8 million.
+
+The contract includes a DataV license subscription, as well as systems integration, software maintenance, and support services. If enacted, the extension would be a 2017 booking. In the agreement, DataV provides an IoT device management layer used for application distribution to Itron's OpenWay Riva electric meters. The agreement also enables Bsquare to receive application royalties once certain milestones have been met.
+
+The Itron contract is especially important as it validates our belief that the DataV IoT platform and application software can be applied across multiple industrial sectors. Recall that earlier in 2016, we entered into a $4.3 million, three-year agreement with a Fortune 500 transportation company. We can now tell you that agreement is with PACCAR, a market leader in heavy and medium-duty trucking. That agreement [indiscernible] (00:03:05) PACCAR's Kenworth and Peterbilt brands provides adoptive diagnostic capabilities to PACCAR's dealer-based service centers. We see expansion opportunities both within these and other PACCAR brands.
+
+The flexibility inherent in DataV is also exemplified by another contract [indiscernible] (00:03:23) during the fourth quarter for a smart vending solution. This contract with a global candy, beverage, and food supplier uses proprietary image recognition logic in the vending machine at the network edge in order to more accurately track product sales for supply chain management and tax reporting purposes.
+
+We continue to be encouraged with the size and quality of our DataV opportunity pipeline, which includes a mix of smaller subscription, as well as larger perpetual licensing deals. As a result of our positive pipeline view, operating expenses will continue to include disciplined incremental investments in DataV sales, marketing, customer solutions, and R&D in an effort to capitalize on a growing customer pipeline.
+
+Largely because of DataV's successes during 2016, cash balances were up $3.2 million year-over-year. Importantly, we were able to generate significant positive cash flow, even though we increased operating expenses by 21% year-over-year as we invested in the DataV business.
+
+As stated on earlier calls, we did not recognize significant software revenue for DataV during 2016 under the current recognition rules. However, the Financial Accounting Standards Board, FASB, is exchanging these rules, which everyone must adopt for fiscal years beginning after December 15, 2017. As Peter will discuss in more detail, we are currently planning early adoption of these rules for the first quarter of 2017.
+
+Now, let me move to our third-party software business. During Q4, third-party software sales were up 30% sequentially, accounting for 89% of top line revenue, with gross margins of 15%. As mentioned on several earlier quarterly earnings calls, Microsoft changed pricing and distribution arrangements associated with its Windows Embedded and Windows Mobile operating systems. Many of these changes took effect on January 1, 2017. This resulted in a strong fourth quarter, as number of our customers purchase more than expected in anticipation of 2017 price increases.
+
+With regards to our professional engineering services business and, as discussed in our last two quarterly earnings calls, during Q3, we undertook restructuring actions with this business. As part of this restructuring, we transferred certain personnel to our DataV R&D team while reducing the size of remaining engineering services organization.
+
+Now, I'd like to turn the call over to Peter Biere, our new CFO, to address our financial performance in the fourth quarter and for 2016. We welcomed Peter on board at the of December and are pleased to having joining our executive team.
+
+Thank you, Jerry, and good afternoon, everyone. I'm very excited to serve with the Bsquare team and help realize our growth and profitability potential. And if you'd forgive my cold during the process of getting through this financial discussion, I appreciate it.
+
+First, let me recap our revenues for the fourth quarter. We reported that revenue during the quarter totaled $26.8 million, up 7% from $25 million in the fourth quarter of the prior year. Higher Microsoft Windows Embedded and Windows Mobile operating system sales partially offset by lower professional engineering services revenue explain the increase. Q4 revenue was up 19% sequentially from $22.5 million in the third quarter, again, due to the higher sales of Microsoft operating systems.
+
+Third-party software revenues totaled $23.8 million for the quarter, that's up 25% year-over-year from $19 million. Third-party software sales were up 30% sequentially from $18.2 million in quarter three, and as Jerry mentioned earlier, certain customers increased their Q4 purchases ahead of the anticipated 2017 price increase, and that affected both comparative periods.
+
+Service revenue was $2.7 million in this quarter, down 50% year-over-year from $5.5 million and 16% sequentially from $3.3 million in the third quarter. As we previously announced, the completion – or following the completion of several large projects earlier in 2016, we made a strategic decision to realign our services capabilities to focus on DataV. So, the cessation of these contracts also affected both comparative periods.
+
+Shifting now to the full year, revenue totaled $97.4 million in 2016, down $9.2 million or 9% from 2015 with revenue declines in both software and services reporting units. Third-party software sales were $80.2 million in 2016, that's down $2.7 million or just 3% from $82.9 million in the prior year, mostly due to lower revenue from the sales of Windows Mobile operating systems. Service revenue totaled $15.3 million in 2016, down $5.1 million or 25% from 2015, and this is due to the contract completions that I mentioned earlier. And then lastly proprietary software was $1.9 million for the full-year of 2016 and that compares to $3.3 million in 2015.
+
+Now, I would like to turn to our gross profit and margins. Gross profit totaled $4 million in the quarter or 15% of revenue, that's down from $4.9 million or 20% in the prior-year quarter, primarily due to fewer and lower margin active engineering service contracts. Sequentially, while quarter four gross margin was only about 1% lower than it was in quarter three, margins from higher third-party software sales in quarter four and lower quarter four restructuring costs were more than offset by large Q3 higher margin, proprietary software sales. A lot of activity netting for 1% change.
+
+Gross profit for the year totaled $15.8 million, or 16% of revenue, compared to $20.5 million, or 19% of revenue in 2015. Most of that was due to lower sales in each revenue category, as well as the nearly $1 million restructuring charges we took in 2016. Third-party software gross margin averaged between 15% and 16% for each comparative period. We mentioned that the Microsoft volume purchase program ended at the end of December of 2016, so we do not expect to be able to maintain similar margins on third-party software in 2017.
+
+Restructuring charges in each of the sequential quarters also affected our engineering services gross margin. Before the restructuring charges margins averaged 14% and 18% for the current and sequential quarterly periods, respectively. For the annual period, professional engineering services gross margin was 12% compared to 25.5% in 2015. We believe that our services team is now right-sized to the level of ongoing traditional contract commitments, allowing us to focus investment to support DataV services.
+
+Next, I'll speak to operating expense and our bottom line results. Total operating expenses were $5.3 million this quarter, up from $3.6 million in quarter four 2015, and from $4.1 million in Q3 of 2016. For the full year of 2016, total OpEx was $17 million compared to $14 million for 2015. We made targeted investments in sales and R&D to drive growth in DataV, and this explains the majority of the cost increases in the each comparative period. We recorded a $1.3 million, or $0.10 per share, net loss for the fourth quarter of 2016, that compares to net income of $1.1 million, or $0.09 per share, in the year-ago quarter. The sequential quarter showed a net loss of $106,000, or $0.01 per share.
+
+Net loss for the full year of 2016 was $1.1 million, or $0.09 per share loss, compared with net income of $6.1 million, or $0.49 per share, in 2015. Cash in investments totaled $33.2 million at December 31, 2016, an increase of $1.6 million during the fourth quarter, and $3.2 million for the year. Our accounts receivable, which totaled $21.6 million at year-end is in great shape, and all DataV customers are paying in a timely manner, which shows their commitment to our product.
+
+Lastly, I'd like to speak towards several non-GAAP metrics that we'll be providing on a regular basis, designed to help better understand our cash flows, and particularly, our DataV business. We use adjusted EBITDAS, which is operating income before depreciation, amortization, and stock-based compensation costs to monitor our ability to generate cash from the operations of our business. We use bookings, backlog, and unbilled deferred revenue, all as measures we believe provide meaningful information related to our new DataV product sales, especially since we might not be able to recognize revenue in the same periods that we book orders or that we receive cash.
+
+So the four measures, adjusted EBITDAS was a negative $812,000 this quarter, that's down $2.7 million from the prior year-ago quarter, primarily due to lower engineering services revenue, current period restructuring charges, and then higher DataV expenses, as we've discussed from the prior year, and down from about $4,000 EBITDA – adjusted EBITDAS in Q3 of 2016. For the full year, adjusted EBITDAS was $687,000 compared to $8.5 million in 2015.
+
+For the DataV measures, bookings is a non-GAAP measure defined as the value of new contracts that we sign with the customers. 2016 DataV bookings totaled $6.2 million while we were only able to recognize $440,000 of that in 2016. We collected approximately $3.3 million in cash from DataV contracts in 2016.
+
+Backlog is another non-GAAP measure that we use that's defined as total bookings less revenue recognized to-date, and was approximately $5.7 million at December 31 of 2016. Of this amount, $2.4 million is unbilled deferred revenue, the fourth measure. $3.3 million is recognized already on the balance sheet as deferred revenue, and $1.6 million, or about a half of that, is classified as current.
+
+I'd like to now turn the call back over to Jerry for first quarter outlook and some closing remarks.
+
+Thanks, Peter. We currently have the following expectations for Q1 2017. Total revenue for Bsquare should be in the range of $19 million to $21 million. As we mentioned earlier, we are planning to early adopt new software revenue recognition rules in the first quarter, and do not yet know the potential impact on DataV revenues. So, this revenue range mostly excludes DataV.
+
+We expect blended gross margin will be in the 11.5% to 15% range, sequentially lower due to lower overall third-party software margins, reflecting the previously announced impact of the change in certain Microsoft rebate programs. Note that this expectation does not reflect any potential impact of DataV revenues related to early adoption of the new revenue recognition rules. Over time, we expect that blended gross margins on DataV contracts to average about 70%.
+
+We anticipate a Q1 GAAP net loss. Additionally, management expects that its commitment to disciplined incremental investments in DataV may result to net losses in upcoming quarters, as Bsquare transitions to DataV. However, we expect cash flow from DataV wins, our traditional businesses, and cash on hand will be more than sufficient to fund these investments. We will continue to focus on execution within our traditional businesses, and we will accelerate DataV activity in order to capitalize on what we perceive to be a substantial IoT market opportunity.
+
+John, please open call for questions.
+
+Thank you. [Operator Instructions] Please remain on the line [indiscernible] (00:17:51) technical difficulty. We'll reconnect in just one moment. [Technical Difficulty] (00:18:00-00:19:23) And our speakers have rejoined us.
+
+Yeah, I'm not sure, what happened there. Apologies to everyone, we got cut-off.
+
+[Operator Instructions] There are currently no questions in the queue. [Operator Instructions] And we do have our first question. We will go to Adib Motiwala with Motiwala Capital.
+
+Good afternoon, gentlemen. How are you doing?
+
+Hello, Adib.
+
+Yeah. Thank you for taking my call. I had a question regarding thethird-party software business. It has declined, but it's still at a material level of revenues, do you anticipate that holding up while you transition to the DataV business line in the coming years?
+
+Yeah. So, Microsoft has changed rules around it which we talked about and its increased the competition amongst the distributors of the software. The margins are going to be somewhat compressed. So, it's a little bit more of a competitive environment. We do expect it to be part of our business for a long time to come. And then in previous calls, we had also mentioned that as Microsoft transitions that business to more of a focus on IoT, we are also transitioning with them and have partnered with them particularly on their Azure business.
+
+Okay. Thank you. And then, you had some legacy proprietary software in the past which was lumpy; sometimes $4 million a year, sometimes $2 million a year. Is that declining now and is that on the way out or do you still see some of that showing up in the years ahead?
+
+Yeah, exactly. We expect that to be in long-term decline. We might get some spiky orders for that in the coming year, but over the long-term, that is declining.
+
+Okay. And then I know you did some re-org on the professional engineering services to support more on the DataV and then some support on the third-party, so are you done with the restructuring there and what are your thoughts on the revenues you received in the past from professional engineering services [indiscernible] (00:21:54) integration was for third-party, is that going to decline as well?
+
+So, yeah, great question. Let me see if I can answer various parts of it. So, we did right-size that organization through a combination of transferring people over to support DataV contracts. We did let some people go, and of course, we still have some of our mainstay contracts in there that were supporting like Coca-Cola, like Google, like Toshiba, et cetera. So, we believe that the pipeline for contracts is sustainable with the size that we have. And then of course, we're also growing our ability within that organization to support DataV contracts.
+
+Okay. Thank you. And then, if I look at the investments we made for DataV whether it's R&D or sales [indiscernible] (00:22:50) do you anticipate that continue at a similar – I mean, [indiscernible] (00:22:55) or how do you anticipate that?
+
+Yeah. We haven't given any specific guidance there, but what we're trying to convey is that what we're doing is directly related to what we perceive to be a growing pipeline, and also to what we perceive to be the market opportunity. So, what you're going to see is a measured, discipline, incremental investments in those areas to make sure that somebody else doesn't come along and take advantage of the market opportunity that we believe we have in front of us right now.
+
+All right. Okay. So, I mean, I like the fact that you have a strong balance sheet and now you're producing cash, especially from new contracts from DataV, but on a GAAP basis you're running losses for the last several quarters, and I guess guidance for Q1 as well. Roughly, if you look at the years, like, where would say would you be become profitable, is it like some time next year or can you tell even at this point or it's not better...
+
+Yeah. I certainly understand the question and it's a great question and we have not given guidance on that. What we said during prepared remarks is that we believe our investments in DataV will be covered by cash flow from DataV, cash flow from our traditional business, as well as cash on hand.
+
+Okay. All right. Those are the questions from me. Thank you.
+
+Yeah. Great questions. Thank you very much for joining the call.
+
+That concludes today's question-and-answer session. At this time, I'll turn the conference back to Mr. Jerry Chase for any concluding remarks.
+
+Thank you. Before concluding the call, on behalf of the entire Bsquare team, I'd like to thank our investors and customers for your interest and for your business. We look forward to reporting back to you next quarter. Thank you very much for joining us.
+
+This does conclude today's conference. Thank for your participation. You may now disconnect.

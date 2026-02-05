@@ -1,0 +1,229 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+Paul C. Campbell — CFO, Treasurer, SVP & Head-Investor Relations, eMagin Corp.
+Andrew George Sculley — President, Chief Executive Officer & Director, eMagin Corp.
+Srini Sundararajan — Analyst, Oppenheimer Securities
+Steve Shaw — Analyst, Sidoti & Co. LLC
+
+Management Discussion Section
+
+Question And Answer Section
+
+Good day ladies and gentlemen, and welcome to the Third Quarter 2011 eMagin Corp Earnings Conference Call. My name is Keisha and I'll be your coordinator for today's call. At this time, all participants are in a listen-only mode. We will conduct a question-and-answer session towards the end of this conference. [Operator Instructions] As a reminder, this conference is being recorded for replay purposes.
+
+Now I'd like to hand the conference over to Mr. Paul Campbell, CFO. Please proceed.
+
+Thank you, Keisha. Welcome everyone to eMagin Corporation's third quarter 2011 conference call. Before we begin I would like to remind you that we will be referring to numbers that are part of our 10-Q for the third quarter of 2011 ended September 30, 2011. During today's call we will make – we may make forward-looking statements as they are defined in the Private Securities Litigation Reform Act of 1995.
+
+These forward-looking statements are based on the company's current expectations, projections, beliefs and estimates and are subject to a number of risks and uncertainties. Such statements include references to projections of future revenues, plans for product development and production, the company's ability to ramp up production at its manufacturing facilities, future contracts and commercial arrangements, future product benefits, future operations, liquidity and capital resources, as well as statements containing words like believes, expects, estimates, plan, target, will, intend, could and other similar expressions.
+
+Risk factors are included in the company's Form 10-K for 2010 on file with the Securities and Exchange Commission. Except if it's directly required by the federal securities laws, we undertake no obligation to publicly update or revise any forward-looking statements whether as a result of new information, future events, changes in circumstances or for any other reasons.
+
+That said I'd now like to introduce Andrew Sculley, our President and CEO.
+
+Thanks, Paul and thanks, everyone for joining us today. I'd like to begin by giving you a brief overview of our business and then turn the call back over to Paul for a review of our financial results and finally, we'll open the call up for questions.
+
+During the third quarter our domestic and international-based businesses were strong, and we rivaled our best prior quarter. Our R&D programs advanced and our net income increased. The gap between actual and planned production that we have previously reported continued to improve. Based on our current and potential business we expect to meet our previous revenue guidance of between $29 million and $33 million for 2011. We continue to address our production issues, and we're pleased to see further improvement in the third quarter.
+
+I'm also delighted to report that a few days ago our new OLED deposition machine arrived at our facility in Hopewell Junction, New York, and we have begun the installation process with SNU Precision, the manufacturer of the machine. We expect the machine will be operational by year-end, and we'll begin qualification runs in January. Once fully operational the new deposition machine is expected to provide a ten-fold increase in deposition capacity and to significantly increase efficiency and yield.
+
+In addition to the OLED deposition tool we also have a new seal tool expected to be operational during 2012 as well.
+
+Now, I'd like to update you on some specific projects. Customers and potential customers for our digital VGA resolution display have given us very favorable feedback. The very high contrast low power and compatible footprint is ideal for retrofit and upgrade in thermal weapon sight applications. Some customers have integrated the digital VGA into new products and others are looking to upgrade products to take advantage of these improved characteristics. We expect to receive volume production orders for 2012 as early as this current quarter.
+
+We are providing displays or assemblies to three of the four prime contractors for the first program year in the Enhanced Night Vision Goggle Program. This program is a modernization where both visible light image and infrared image are fused into one micro display that is needed to turn the infrared signal into a visible image.
+
+We expect that by mid-2012, the government will select a couple of prime contractors from this group of four to supply large volume shipments during the second and third year of the program. For ITT in this program we are supplying modules that contain our displays.
+
+Funding for the second phase of the WUXGA commercialization and you may recall WUXGA is the very high resolution 1920x1200 display that we have. The commercialization effort has not yet been completed. However, we expect to be under contract before the end of this year. This is in two phase, the first phase of the commercialization is near completion and the second phase should be completed by the second or third quarter of 2012.
+
+The challenge for this display was the very small size of the pixels and sub-pixels. The red, green and blue sub-pixels were only 2.45 microns wide. We have been successful here and have now extended this work to pixels that are about 16% smaller, really that's 1.95 microns, so a very large improvement.
+
+A number of customers are looking at integrating our WUXGA into high-performance night vision applications for pilots and soldiers. Our OLED technology matches perfectly with the latest family of digital night vision sensors.
+
+The project we are doing for TATRC, which is a government program, it's the U.S. army telemedicine, is the easiest way to remember it. This program will end this quarter. It has resulted in the WUXGA display and headset containing the display. This headset we've shown at the shareholder meeting we had most recently, and we – our shareholders who were there were very impressed with it, though of course, as is everyone else we show it to, including potential customers.
+
+We submitted a white paper recently to TATRC, which proposed a process to bring the headset to manufacturing readiness, and they have asked us to submit a formal proposal for this project. We anticipate a signed contract for this two-year program beginning – or getting a signed contract during the first quarter of 2012. An industrial manufacturer has already shown some interest in this headset, I can't disclose who that is, but again, everyone we show it to has given us great reviews. It looks outstanding as a three-dimensional image coming through very high resolution screens.
+
+We are working on a Department of Energy contract with Ching Tang of the University of Rochester. Ching is an outstanding scientist. He is one of the inventors of OLED. Our Senior Vice President of R&D Amal Ghosh and I both worked with Ching in our Kodak days. The program is to improve OLED's solid-state lighting technology. It is a three year program and the contract is in the final stages of being signed. We had a very good kick-off meeting last month. We're excited about this program as it has great potential to improve OLED's solid-state lighting efficiency and of course, allow us to make more efficient displays.
+
+We have received $2.6 million in bookings from several new large commercial customers in high-end camera and vision enhancement applications. There is interest in both our SXGA display and our WUXGA display for these customers. The SXGA is the only display of which we are aware in the industry that is capable of satisfying one of these customers in a very demanding application.
+
+L-3's Javelin program is – continues with display deliveries in quarter three. It continues to have government funding support. This program you may recall from past earnings conferences is a manned portable anti-tank missile that uses our display for aiming.
+
+We continue to advance our products through R&D. We are working on a high brightness displays that could be used in avionic applications. We've made progress towards alternative methods of color pixel formation. Today, you probably recall, we use color filters, and white OLED because our pixels are so small that current manufacturing technology for direct OLED patterning can't be used.
+
+These alternative approaches would give us color displays that are about four or five times the efficiency of what we currently have today. As part of our Night Vision Program, the University of Rochester has made some progress towards direct deposition of organic material into high resolution pixels, and now we're working on fabrication of these devices.
+
+And now I'd like to turn the call back over to Paul, who'll take you through our financial results.
+
+Thanks, Andrew.
+
+The Q3 numbers were strong and an improvement over Q2. For Q3, we reported total revenue of $8.3 million, which tied our highest-ever revenue quarter and this equaled Q3 last year.
+
+On a sequential basis, total revenues were up a 11% over Q2. Product revenues were up 6% and R&D contract revenues were up 30% from Q2. Q3 R&D contract revenues totaled $2 million, and were derived from seven different R&D contracts, three of those were for government agencies and four were non-government companies.
+
+Gross margin was 53% of revenues on gross profit of $4.4 million, compared to gross margin of 66% in the same quarter last year. Gross margin in Q3 was four percentage points better than Q2. The decrease in gross margin from Q3 last year primarily resulted from product mix and increase in production costs and lower yields. Last year we had developed a custom display for a company and shipped a large quantity of them in Q3, which improved our margin.
+
+This year we've been running extra shifts to maximize our display output and this has caused an increase in labor and other costs, including items like utilities to run the machinery. We expect to run fewer extra shifts once the new OLED deposition machine is online and this, combined with the expected improvement in yield from the new machine should lower our cost per unit and increase gross margins.
+
+SG&A expenses were down from last year and down from last quarter. R&D expenses are up as we invest further in R&D. R&D expenses were primarily due to personnel-related costs, including setting up our new in-house design group earlier this year. Operating expenses, which are comprised of R&D expenses and SG&A expenses were $2.8 million, or 33% of revenues versus operating expenses of $2.6 million, or 31% of revenues in the year-ago quarter. On a sequential basis, operating expenses declined about $250,000 from the second quarter of 2011. This decrease in expenses included legal fees, personnel costs and some travel trade show costs.
+
+Operating income for the third quarter increased 157% to $1.6 million from $624,000 last quarter. Net income for Q3 increased to $4.1 million from $3 million last quarter and $3.6 million in Q3 last year. Q3 earnings per share was $0.03 per diluted share. Adjusted EBITDA for the third quarter was a positive $2.1 million.
+
+For the third quarter our financial position remains strong due to positive cash generation from operations and no debt. At September 30, 2011 we had cash and cash equivalents of $13.7 million, compared to $12.4 million at December 31, 2010. We achieved this increase in cash through operating cash flows.
+
+We have invested $1.4 million in capital spending this year, which was also funded from operating cash flows.
+
+We have no debt, and we've been self-funding for almost three years now since our last equity raise.
+
+In Q3 we initiated a share buyback plan. We have not made any purchases under that program, but note that the company has not had an open trading window since the inception of the program.
+
+With that, I'll turn it back over to Andrew.
+
+Thanks, again Paul. During the third quarter we continued to address the production challenges we have previously discussed and saw improvements in throughput.
+
+Once the new OLED deposition machine is fully operational next year, we anticipate additional improvement in yield and throughput. The new deposition machine is expected to result in a ten-fold increase in deposition capacity, greater yield, longer up-time and quicker product changes that don't require breaking the vacuum. You may recall that our current machine has a – whenever we change products we need to break the vacuum. It requires a 16-hour pump down cycle and then machine startup time, so we lose about a day and a half. The new machine, of course, since we designed it, would be a real production tool capable of running 24/7. We made sure that it had that capability.
+
+We also anticipate shipment of a new piece of equipment to greatly improve our OLED seal process. The new seal machine will help to further improve our yield during 2012.
+
+Our business with existing military and commercial customers continues to grow, and we continue to receive strong interest from potential new customers.
+
+Before we open the call to questions, I'd just like to thank the eMagin team. We have worked very hard this year. We've done equipment on a – or efficient on a three shift operation of OLED deposition. The packaging operation has extended the multiple shifts to the weekends to keep their product flowing. The group has worked holidays. The R&D team has made outstanding progress. Administrative functions have kept us running very smoothly. This is a winning team and I am personally honored to be a part of it.
+
+We're all excited about the improvements the new equipment will allow us to make. And I want to thank the team again for all their effort this year.
+
+So with that, we'll open the call for questions.
+
+[Operator Instructions] Your first question comes from the line of [ph] Dennis Van Zetfden with Brussels Research (17:40). Please proceed.
+
+Good afternoon, gentlemen. Just a couple of questions regarding the machine. Refresh my memory again. What's the total cost of the machine?
+
+$4 million.
+
+Okay. And has it been paid for yet?
+
+Well, we made a couple of payments on it, and we have a couple of more that are due. So, it's about – it's approximately half paid for at this point. And we'll make our final payment once the machine is fully up and running, and we're happy with the performance.
+
+So probably some time in 2012?
+
+Most likely, yes.
+
+Okay. And what will be the incremental quarterly depreciation on the machine?
+
+We haven't totally decided we have to determine the life of the machine. Probably 10 years would be a good bet. So, that would be roughly $400,000 of depreciation each year.
+
+Okay. And then lastly, will there be any incremental expenses associated with setting the machine up, any meaningful incremental expenses?
+
+Well, in that case, there will – we'll probably have to – we have to run qualification of the products before we put them on there, and in that case running some of the qualification will result in product that we make that we wouldn't have made otherwise and then we'll put it in for a long testing, for life testing, et cetera. So, that's what it is, but I don't imagine you'll see big blips in costs because of it.
+
+Okay. Thanks, gentlemen. That's all I have.
+
+Okay.
+
+Your next question comes from the line of Srini Sundar with Oppenheimer. Please proceed.
+
+Hi, guys. Just wanted to ask you, what are the criteria that you are planning to use regarding the acceptance of the tool, just to – if you could just give some idea on – based on the experience of what will be the criteria that you use?
+
+Sure. It's a good question. We spent a lot of time with this before entering into the contract with the company. The actual acceptance document is 70 pages, but I'll give you some easy ones that you would think of perhaps. One is uniformity of deposition across the wafer, so we have a certain uniformity that we need and obviously, I'll just mention that the uniformity that we're requiring out of this tool is much better than the tool we currently have. Another example is the takt time, how fast can a wafer get through the various stages of the machine. Another one is the deposition rate, and what we've done there is we've used a very well-known OLED material in the specifications, Alq, everybody knows that, I'm not telling any secrets here. So, we used Alq as the deposition rate standard that we needed, but obviously when the machine is here in the U.S. and put together, we'll be making product using our own stack and the vendor will not know what those chemicals are. So, we have some criteria around that.
+
+So uniformity, deposition rate, there's some secret things we'd put in the tool that we didn't tell the vendor too much about, but they also have requirements, requirements like uniformity. And I can't tell you what those special things are, but there are a group of acceptance criteria for them as well.
+
+Thank you, that's all. Good answer. Thank you.
+
+Okay. You're welcome.
+
+Thanks, Srini.
+
+Your next question comes from the line of Steve Shaw with Sidoti. Please proceed.
+
+Hey, guys. How are you doing?
+
+Hi, Steve.
+
+Hi, Steve.
+
+Just a quick question on some possible color on the fourth quarter's gross margin for the remainder of the year. I know this year in general, gross margin wise has been down from last year's, and it's been sort of due to product mix and lower yields. Is there any room for improvement sort of before that machine gets up and running?
+
+That's a tough one. We're working on it of course, and it's a tough thing to make improvements when the machine you are trying to make improvements on is sort of running all-out, and that's – just the OLED deposition I'm talking about.
+
+Right.
+
+So I don't know how I can give you a color one way or other. We've got a good team working and making improvements. I'll just say that we're going to be much better than what we have been. Certainly more volume would be helpful to us, and that would improve our gross margin.
+
+Right.
+
+It's kind of tough to make a comment on the yield improving – the gross margin is really more sensitive to the number of units produced anyway, so I would look – your revenue projection might drive your gross margin assumption more than anything else.
+
+Okay. And then I think it was the last call, you guys mentioned some talks involving a Japanese medical company, do I have that right? Is there any progress on talks with them or anyone else?
+
+It was a Japanese industrial company, and I – that's one of the ones interested in our SXGA display, part of that $2.6 million order that we have. Their – they haven't made their final announcement on the device. There's obviously a lot to the device beyond the display. We've done a lot working with them on the display side, and we're looking forward to hear what they're going to do. A very high-end application, and I apologize I can't tell you who the company is, but it's a well-known company.
+
+Okay. And then, Paul, just – I'm trying to balance sort of the income statement here. Where – and I've got the $0.13, where am I getting that $0.03? Is that the adjusted or non-GAAP number?
+
+So your $0.03 is your fully diluted number, correct?
+
+Right.
+
+Yeah. Then your $0.13 is just your basic earnings per share, so the numerator and the denominator are different for -
+
+Right. And then the share count for the diluted is 25,323,000?
+
+Correct, 25,323,920. But I can let you know what the numerators and the denominators are, if you need that for your model.
+
+All right, I – we'll just talk offline. If anyone else wants to get back in the queue with a question.
+
+Okay.
+
+All right. Thank you.
+
+We appreciate you breaking away. I know you guys are having a conference right now.
+
+[Laughter] Yeah, yeah, it's been a little hectic.
+
+Yes. [Laughter]
+
+All right, guys. I appreciate it.
+
+You're welcome.
+
+Your next question comes from the line of [ph] Eugene Conroy (25:43). Please proceed.
+
+Hello. I just have a simple question about the new sealing machine.
+
+Hi, Eugene.
+
+Is it independent of the deposition machine? That is, will it work in conjunction with either Satella or the new machine or does it only work in conjunction with the new machine?
+
+Well, there is – no, it could do either, actually. We have a seal process that the advantage with the new machine, the new OLED deposition machine is that the transfer between it and the seal process will be an easier one, but the new seal tool is independent, could work with either machines, and it doesn't need to be there to run the new SNU tool.
+
+Okay. Thank you very much.
+
+You're welcome.
+
+Your next question is a follow-up from Srini Sundar with Oppenheimer. Please proceed.
+
+Hi, guys, again. My question is on have you lined up the sources of chemicals for your deposition or meaning supposed that you have to drastically increase your production levels, how confident are you of having a chemical supply for that?
+
+Good question. And as the world knows, there are a number of OLED suppliers, OLED material suppliers, but you can't easily necessarily, without a little bit of work, switch from one to the other, say for example, on your red dopant. And we – we're a small material user, compared to someone like anyone who makes larger devices. Our devices as you know, are small, less than an inch in diagonal, so anyone making a larger one is going to be a much larger user of capacity. They'd be surprised how very little material goes on our displays. And with that said it's still important to check with the material suppliers, and we don't have an issue.
+
+And do you pay any royalties or licensing fees for those?
+
+Well, we – our 10-Q says we don't pay any royalties to now-GOT for the Kodak IP, the formerly Kodak IP, that's one thing. And we're not paying any other royalties at the moment to anyone else.
+
+Are you thinking of material royalties like to UDC or something like that?
+
+Yeah.
+
+Yeah, no, we don't. And we use mostly fluorescent materials, and we only purchase a little – small amount of materials from UDC.
+
+Okay. Thank you very much.
+
+[Operator Instructions] Okay. At this time, we have no further questions in the queue. I would now like to hand the conference back over to Mr. Andrew Sculley for any closing remarks.
+
+Well, thank you very much. I – again, I wanted to thank everyone for taking the time and joining our conference call. We appreciate it. We appreciate the questions. We're pleased to be able to spend the time with you and help you understand our business. We're excited. The entire team is excited on the new tools, maybe some of them refer to them as new toys, you know how those engineers are. So, I think it will be a very, very exciting year next year putting the new pieces of equipment to work for us and working as hard as we can to get up to production efficiencies on the equipment and get that improvement in manufacturing.
+
+So again, I thank you all on the phone and I thank the eMagin team for the very hard work that they've put in this year to make us a successful company. Thanks.
+
+Thank you for your participation in today's conference. This concludes the presentation. You may now disconnect your lines. Good day.

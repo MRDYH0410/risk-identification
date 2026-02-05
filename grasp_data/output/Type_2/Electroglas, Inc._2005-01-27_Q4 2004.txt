@@ -1,0 +1,356 @@
+raw transcript
+
+
+Electroglas, Inc.
+ 
+EGLS
+ 
+Q4 2004 Earnings Call
+ 
+Jan. 27, 2005
+
+
+Company
+
+ 
+Ticker
+
+ 
+Event Type
+
+ 
+Date
+
+
+
+www .Ca ll St r eet . com
+ 
+•
+ 
+21 2. 9 31 . 65 1 5 •
+ 
+C op yr i g ht © 20 0 4 C a ll S tr ee t
+ 
+1
+
+
+MANAGEMENT DISCUSSION SECTION
+
+
+Operator: Good day, and welcome to the Electroglas Incorporated Fourth Quarter 2004
+
+
+Teleconference. As a reminder, today's call is being recorded. For any remarks and introductions, I
+
+
+would like to turn the call over to Mr. Tom Brunton, Chief Financial Officer, and Keith Barnes, Chief
+
+
+Executive Officer of Electroglas. Please go ahead, sir
+
+
+Keith Barnes, Chairman and Chief Executive Officer
+
+
+Thank you, Paula. This is Keith Barnes. I'm here today with Tom Brunton, our CFO. Today we will
+
+
+discuss the results of our fourth fiscal quarter of 2004. Tom will discuss the quarterly financial
+
+
+details, and I will discuss some operational highlights and lowlights. At the conclusion of our
+
+
+comments, we will be open for questions and we intend to limit today's call to about an hour, and so
+
+
+we'll make our comments relatively brief, and leave some time for questions. By now you should
+
+
+have received our press release, which was sent out this morning, and if you have not, please visit
+
+
+our company's website in the investors section, which you can download from there or call Candi
+
+
+Lattyak at 408-528-3801 and she will provide it to you.
+
+
+Before we begin, however, I would like to make some cautionary statements. During the course of
+
+
+this conference call, we may make forward-looking statements regarding future events or the future
+
+
+of our company. Any such projections are based on limited information available to the company
+
+
+and are subjected to change. Although projections and the factors influencing those projections will
+
+
+likely change, we will not necessarily update the information, since the company is only providing
+
+
+guidance at certain points during the year. Actual events or results could differ materially, and no
+
+
+reader or listener of this release, should assume later in the quarter, that the information we provide
+
+
+today will still be valid. Such information speaks only as of today. Specific factors could change,
+
+
+causing our projections not to be achieved. We refer you to the documents on file, from the
+
+
+company, with the Securities and Exchange Commission, and if you have any difficulty getting
+
+
+those, please let us know and we'll provide them to you.
+
+
+So, the revenue for 2004 was up 40% over 2003. The company's loss during the period was
+
+
+reduced 90% from 2003's loss. Our revenue for Q3, 2004 came in at 11.2 million and at the
+
+
+midpoint of our most recent revised guidance. This represents a sequential decrease of 38%, from
+
+
+Q3 2004, and a 22% decrease over Q4, 2003. During the fourth quarter many semiconductor
+
+
+companies and back-end equipment companies reported large drops in bookings, revenues and
+
+
+earnings guidance and earnings, of course. As you know, there were very few exceptions. The
+
+
+back-end book-to-bill was 0.76 in November, and we are waiting for the December numbers right
+
+
+now. Based on what we are hearing from customers and our interested partners, Q1 for many of
+
+
+them will remain soft, and Q2 could mark the bottom of the current draw.
+
+
+We also guided down during the fourth quarter due to customers either holding off on purchases or
+
+
+pushing out deliveries on already booked orders. Tom will give you more specific details with
+
+
+respect to the financial data in a few minutes. But I wanted to update you with regards to how we
+
+
+did during on our product development and product release plans, our operating expense
+
+
+improvements and our conversion of assets to cash. These are key details which will position the
+
+
+company to grow its revenues in 2005 and beyond, to regain profitability and cash generation, to
+
+
+regain market share, and to increase shareholder value.
+
+
+During 2004, we were focused on designing our new EG6000 300mm prober. Introducing our new
+
+
+4090 Micro Plus 200 mm Prober, deploying Sidewinder Strip test product and deploying our new
+
+
+SORTmanager test automation software. At the end of December, we introduced the 4090 Micro
+
+
+Plus 200 mm prober; this new product offers substantially improved accuracy. This accuracy
+
+
+improvement will help customers do what smaller fab sizes, which are found on newer and more
+raw transcript
+
+
+Electroglas, Inc.
+ 
+EGLS
+ 
+Q4 2004 Earnings Call
+ 
+Jan. 27, 2005
+
+
+Company
+
+ 
+Ticker
+
+ 
+Event Type
+
+ 
+Date
+
+
+
+www .Ca ll St r eet . com
+ 
+•
+ 
+21 2. 9 31 . 65 1 5 •
+ 
+C op yr i g ht © 20 0 4 C a ll S tr ee t
+ 
+2
+
+
+advanced ICs, which they are getting into their shops today. And with MicroTouch, which is our new
+
+
+Z stage capability, customers can handle aluminum over copper pads and locate dielectrics, and
+
+
+the cut devices substantially. Several other features were introduced with this product to help
+
+
+customers address higher productivity. We will sell both new 200 mm 4090 Micro Plus systems, as
+
+
+well as upgrades. The upgrade program will be focused on the roughly 3,000 systems, which are in
+
+
+our install base, which are upgradeable. They will sell for around $30,000 average selling price, this
+
+
+means we have a captive market in the range of around $90 million per upgrades.
+
+
+During Q4, we finished BETA test with the first IBM customer, and confirmed that our new accuracy
+
+
+is correct, and this customer was using their own independent metrology system to confirm our
+
+
+accuracy measurements, I'm currently sitting here looking at two plots that we have from two
+
+
+separate customer locations, where the data on accuracy confirms that we actually need or
+
+
+exceeds the specs that we have on the product. So we feel very comfortable with that. We are
+
+
+currently upgrading approximately 15 systems, which the customer has paid for. And with this initial
+
+
+customer, we are streamlining our upgrade process, as we speak, with our dedicated on-site
+
+
+upgrade team. We will start quoting other large upgrade orders this quarter. We are also engaged
+
+
+with a second customer to install upgrades on their floor this month. They were also BETA in Q4 for
+
+
+us, and have the potential to be a large upgrade customer as well.
+
+
+We have instructed our sales force during our worldwide kickoff meeting that was held last week, to
+
+
+focus on orders in the range of 25 units per order or higher. Although we will eventually take
+
+
+smaller orders, the Optimum quantity to put team on site is around 25 or more orders, and so those
+
+
+are the blocks of orders that are looking for this product and we hope to get into the 100 units per
+
+
+quarter range by Q3, and then increase from there. So we feel that the 4090 Micro Plus is getting
+
+
+ready go to prime time. We have also finished the design of the new EG6000 300 mm prober. The
+
+
+EG6000 was introduced officially on January the 18th. The EG6000 is a revolutionary direct drive
+
+
+design and is the world's most accurate 300 mm prober. Coming in at 1.5 microns in what we call
+
+
+our S version and 2.5 microns in the standard production version, and different technology need
+
+
+different accuracy specs. And we have a specific design features also in this product, which are
+
+
+aimed at the needs of the offshore assembly and test houses. So we are aiming at both the IDM
+
+
+and the offshore assembly and test houses with this new product. We put a lot of new features into
+
+
+the system.
+
+
+The EG6000 is going through final release phase, including internal and external customer
+
+
+evaluations, internally we are putting the EG6000 through many test cases, Probe cards, tester
+
+
+interfaces et cetera, and our external customer will put it on their production floor and around both
+
+
+the wafers on the product. We will then start selected evaluations of the customers in the
+
+
+March/April timeframe and be ready for production shipments in Q2. We're gearing up our
+
+
+manufacturing to do that. The EG6000 has many capabilities such as full thermal agility, a super
+
+
+accurate Z stage, MicroTouch capability as is the case with our 200 mm product; although, much
+
+
+more accurate for soft touchdown, so we can handle copper and locate devices with these product
+
+
+as well. The product has a rock solid P forward and P back control system to be able to handle the
+
+
+vibrations which occur on the floors. And it has one button probing capability which is very
+
+
+important to a fully automated environment.
+
+
+So we believe that we have the world's most accurate 300 mm Prober today, and we hope to prove
+
+
+that it is the best as well in the other areas. We will fill you in regarding our progress on this product
+
+
+each quarter. Now 300 mm is clearly a big growth area for this company. In 2004, the 300 mm
+
+
+sales of probers started to exceed the 200 mm sales for the first time and – as an industry.
+
+
+According to the LSI, there were about 2,000 300 mm probers shipped in 2004, there will be about
+
+
+2,600 shipped in 2005, and somewhere on the order of 5,000 shipped in 2008, or by 2008. We
+
+
+believe from reading various reports, that there are about 25 to 40 300 mm fabs being built from
+
+
+Greenfields between now and '06 or '07. The current lull in the market in an ironic way give us the
+
+
+precious time that we need to engage the customers that our billing new fabs and outfitting them,

@@ -1,0 +1,329 @@
+raw transcript
+
+
+National Instruments
+ 
+NATI
+ 
+Q1 2005 Earnings Call
+ 
+Apr. 27, 2005
+
+
+Company
+
+ 
+Ticker
+
+ 
+Event Type
+
+ 
+Date
+
+
+
+www .Ca ll St r eet . com
+ 
+•
+ 
+21 2. 9 31 . 65 1 5 •
+ 
+C op yr i g ht © 20 0 5 C a ll S tr ee t
+ 
+1
+
+
+MANAGEMENT DISCUSSION SECTION
+
+
+Operator: Good day everyone and welcome to the National Instruments Corporation’s First Quarter
+
+
+2005 Earnings Release Conference Call. Today's call is being recorded. You may refer to your
+
+
+press packet for the replay dial in number and pass code. The replay will be available from 7:00
+
+
+PM Central Time today and will end at midnight Central Time on May 4th of 2005. With us today
+
+
+are Dr. James Truchard, President and Chief Executive Officer; Alex Davern, Chief Financial
+
+
+Officer; and John Graff, Vice President of Marketing. And now for opening remarks, I would like to
+
+
+turn the conference over to Mr. David Hugley, Corporate Council. Please go ahead sir.
+
+
+David Hugley, Corporate Council
+
+
+Good afternoon. During the course of this conference call, we shall make forward-looking
+
+
+statements regarding the future financial performance of the company, including statements
+
+
+regarding our expected revenue and earnings per share, reduced budget and spending plans, and
+
+
+expanding market opportunities. We wish to caution you that such statements are just predictions
+
+
+and that actual events or results may differ materially. We refer you to the documents the company
+
+
+files regularly with the Securities and Exchange Commission, including the company’s annual
+
+
+report on Form 10-K for the year ended December 31, 2004. These documents contain and
+
+
+identify important factors that could cause our actual results to differ materially from those
+
+
+contained in our forward-looking statement.
+
+
+With that, I will now turn it over to the President and CEO of National Instruments Corporation, Dr.
+
+
+James Truchard.
+
+
+Dr. James Truchard, President and Chief Executive Officer
+
+
+Good afternoon and thank you for joining us. Our key points today are revenues of 130 million, up
+
+
+4% year-over-year. Highest quarterly gross margin since four years of 75% and reduced budget
+
+
+expanding and hiring plans for the rest of 2005.
+
+
+For the softening economy, during Q1 we saw a sequential reduction in our system level sales as
+
+
+well as a decline in our instrument control business year-over-year on varied cost compares. We
+
+
+are pleased so that with the continued strong sales of our core virtual instrumentation platform,
+
+
+including software, PXI and Motorola instrumentation. In our call today, Alex Davern, our CFO will
+
+
+review our financials, John Graff, our Vice President of Marketing will discuss our business, and I
+
+
+will close with a few comments before we open up for your questions. Alex?
+
+
+Alexander M. Davern, Chief Financial Officer, Senior Vice President – IT and Manufacturing
+
+
+Operations
+
+
+Good afternoon and thank you for joining us today. Revenues for the quarter were $130 million, up
+
+
+4% over Q1 2004, and our diluted earnings per share was 14 cents per share. Our revenue for Q1
+
+
+is down $7 million or 5% from Q4. In our conference call on January 27th, we had anticipated that
+
+
+our revenues will be flat sequentially with Q4. For the revenues were below our expectations, we
+
+
+are pleased to deliver our 11th consecutive quarter of year-over-year revenue growth in Q1. And
+
+
+we will see easier comparison to second half of the year. While we anticipated that Q1 will be a
+
+
+tough year-over-year compare due to our strong revenue growth in 2004, we are disappointed with
+
+
+our revenue performance.
+raw transcript
+
+
+National Instruments
+ 
+NATI
+ 
+Q1 2005 Earnings Call
+ 
+Apr. 27, 2005
+
+
+Company
+
+ 
+Ticker
+
+ 
+Event Type
+
+ 
+Date
+
+
+
+www .Ca ll St r eet . com
+ 
+•
+ 
+21 2. 9 31 . 65 1 5 •
+ 
+C op yr i g ht © 20 0 4 C a ll S tr ee t
+ 
+2
+
+
+In Q1 2004, our revenues were up sequentially with Q4 2003 on the strength of record highs in the
+
+
+JP. Morgan Global Purchasing Managers Index. In hind site it was optimistic to expect to see a
+
+
+similar sequential performance this year on a global PMI number that has been driven lower by
+
+
+high oil prices and the increased interest rates. As the percentage of our revenues coming from
+
+
+system sales for more than $20,000 has increased over the last few years, we have become more
+
+
+susceptible to seeing revenue fall in Q1 as customers finished the fiscal yearend spending.
+
+
+One key reason of the shortfall in our revenue occurred was due to a reduction in our average
+
+
+order size as companies restricted our capital spending in Q1 and as we saw some continued
+
+
+erosion in the average selling price of our data acquisition products. Our average order size fell
+
+
+from $2,900 in Q4 to $2,700 in Q1, a 7% sequential reduction. The vast majority of this reduction
+
+
+came in orders over $20,000, which were down by $7 million sequentially. Last year we saw the
+
+
+normal fiscal year-end budget spending of Q4 we replaced in Q1 by new orders driven by the
+
+
+record level PMI. We did not see that strength this year.
+
+
+In Q1, the M series and our new USB data acquisition [indiscernible] success and drove the
+
+
+double-digit increase in the number of data acquisition unit shift. However, with ASP significantly
+
+
+below our average for data acquisition, they are also having the effect of reducing our average
+
+
+selling price. As a result, while unit volume was up double-digits in Q1 2004, our total data
+
+
+acquisition revenue was only up in the low single digits. Addition of these new products has
+
+
+significantly strengthened NI’s competitive position. And, the improved gross margins of our M
+
+
+Series products will help as they continue to scale. Recently, the biggest shortfall came in our
+
+
+Asian business, which was up 4% year-over-year, compared to the 29% year-over-year growth we
+
+
+saw in Q1 2004. The majority of this shortfall came in Japan. But, we saw a 9% year-over-year
+
+
+reduction in Q1 sales compared to our expectation of double-digit growth. We believe that this is
+
+
+as a result of a weakened Japanese economy and a reluctance of companies in Japan to commit at
+
+
+our normal March fiscal yearend spending.
+
+
+Sales in the rest of Asia were up 17% year-over-year. On a regional basis, revenues for the
+
+
+quarter were flat in Europe, up 4% in Asia and up 7% in the Americas, giving overall growth of 4
+
+
+percent. On a product basis, we saw the impact of our weekend global economy on sales on our
+
+
+instrument control products, especially to test and measurement in semiconductor capital
+
+
+equipment suppliers. These products, which represent less then 15% of our revenue, were down
+
+
+19% year-over-year. Due to the mature nature of these products and our strong market position
+
+
+sales of these products are usually the most sensitive to changes in the growth rate of the global
+
+
+economy.
+
+
+Q1 2004 is our toughest comparer for these products and as we go in to the rest of 2005 our
+
+
+compares will get easier. As a group, our own products continue to grow with 9% year-over-year
+
+
+growth lead by our software, PXI and Modular Instrument products. Our year-over-year growth
+
+
+compares for these products will get easier as we through the second half of 2005.
+
+
+Moving down to income statement, gross margins for quarter increased to 75% up from 73.5% in
+
+
+Q4. This represents our best quarterly gross margin in four years almost driven by the increase in
+
+
+software as a percentage of our revenue, the sale of our German system integration subsidiary and
+
+
+the improved gross margins of some of our newer products.
+
+
+On the expense side, total expenses for the quarter were $83 million up 8% year-over-year. On the
+
+
+year-over-year basis, R&D expenses were up 2 percent. Software development costs capitalized
+
+
+in the quarter were $3 million and previously capitalized costs of $2 million were amortized to cost
+
+
+of goods sold during the quarter.
+
+
+Sales and marketing expenses were up 10% or $5 million with 40% of the increase being driven by
+
+
+the weakness of the US dollar.

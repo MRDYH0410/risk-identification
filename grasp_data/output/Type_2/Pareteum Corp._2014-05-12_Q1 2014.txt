@@ -1,0 +1,269 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+Alan Sheinwald — President, Alliance Advisors LLC
+Steven van der Velden — President and Chief Executive Officer, Elephant Talk Communications Corp.
+Pat Carroll — Executive Chairman, ValidSoft Ltd.
+Mark Nije — Chief Financial Officer, Elephant Talk Communications Corp.
+Stan Berenshteyn — Analyst, Sidoti & Company
+Edward Woo — Analyst, Ascendiant Capital Markets LLC
+
+Management Discussion Section
+
+Question And Answer Section
+
+Welcome to the Elephant Talk Communications First Quarter 2014 Conference Call. During today's presentation, all parties will be in a listen-only mode. Following the presentation, the conference will be open for questions. [Operator Instructions]
+
+I would now like to turn the conference over to our host, Mr. Alan Sheinwald of Alliance Advisors. Please go ahead.
+
+Thank you, operator. Good morning to everyone in the United States and good afternoon to our European listeners and thank you for joining us for Elephant Talk Communications shareholder update conference call. On the call today will be Steven van der Velden, CEO of Elephant Talk; Mark Nije, CFO of Elephant Talk; and Pat Carroll, Executive Chairman of ValidSoft. Following management's discussion, there will be a Q&A session open to all participants on the call as operator has already mentioned.
+
+Now, before we get started, I'm going to review the company's safe harbor statement. Remarks made on this call may contain forward-looking statements within the meaning of Section 27A of the Securities Act of 1933 as amended and Section 21E of the Securities and Exchange Act of 1934 as amended. All forward-looking statements are inherently uncertain as they're based on current expectations and assumptions concerning future events or future performance of the company.
+
+Listeners are cautioned not to place undue reliance on these forward-looking statements which are only predictions and speak only of the date hereof. Evaluating such statements, prospective investors should review carefully various risks and uncertainties identified in this conference call in the matter stated in the company's SEC filings. These risks and uncertainties could cause the company's actual results to differ materially from those indicated in the forward-looking statements.
+
+With that out of the way, I'd now like to turn the call over to Elephant Talk's Chairman and CEO, Mr. Steven van der Velden. Steven, the floor is yours.
+
+Thank you, Alan, and thanks to everyone for joining us today for our shareholder update call. The first quarter of 2014 once again saw strong sequential growth in our mobile and security services revenue. Additionally, this drove our margins to increase to 84.8% contributing to a further improved adjusted EBITDA of $292,000 for the quarter.
+
+We expect these numbers to continue to accelerate throughout the remainder of the year as we work to migrate the 8 million expected SIMs from Iusacell; the start of the licensed MVNO partner after December on the Zain mobile network; and as you know, managed on the Elephant Talk mobile platform; and further growth from Vodafone throughout the rest of the year.
+
+Sequentially, our mobile security revenue increased close to 10% compared to the fourth quarter of 2013. As we continue to add more [ph] strength (00:03:20) to our platform including those from Iusacell, Vodafone in Spain, and Zain in Saudi Arabia, we'll see continued [Technical Difficulty] (00:03:29) numbers.
+
+We now expect to accelerate the migrations under our Iusacell contract following a slight delay due to additional testing that has taken place. As previously announced, Iusacell has planned to migrate all of its 8 million subscribers which far exceeded our original plan. The additional testing verification and planning had to be completed throughout April and the beginning of May due to the fact that we are transitioning all of these SIMs from a legacy system installed at Iusacell, a system from a global information technology products and services company. Thus far, we have received positive feedback from Iusacell regarding the performance of our systems based upon the utilization reports of the previously migrated client base.
+
+These newly managed subscribers will continue to drive growth both of revenue and [audio gap] (00:04:36-00:04:59) over 10 million subscribers, we do have the ability to scale to over 20 million subscribers relatively quickly.
+
+As we previously announced, Zain Saudi Arabia launched a new brand called Matrix hosted on the Elephant Talk platform. Currently, we have a limited number of subscribers on the platform from this brand. Matrix will begin to further market its brand in the coming months which should lead to increased amounts of subscribers being hosted on our platform. Additionally, we remain confident that our business in Saudi Arabia will develop during the second half of 2014. It is important for shareholders to note that our current contract with Zain Saudi Arabia for the use of the Elephant Talk platform [ph] encompasses (00:05:57) any licensed mobile virtual network operator operating to the Zain mobile network in Saudi Arabia and not just previously discussed Axiom.
+
+It is however, our opinion that Axiom will get to go ahead in the next few months because we will have significant subscriber addition in the later part of 2014. Our platform is fully operational and we are ready to being work once the licensing process has been completed and the MVNO started the provisioning of new customers on our platform. Through our continuing work with Vodafone as well as Iusacell, we have full confidence that our platform possesses the key features from high-end distribution systems and backend [indiscernible] (00:06:48) sales systems for superior data connections which will make the new providers in Saudi Arabia among the most capable MVNOs in the market today.
+
+Over now to our security business. Unfortunately, Paul could not be with us today as he is currently travelling to finalize our commercialization plans with one of our partners. As you all know, we are currently working with FICO, a leading analytics software company to deploy our technology with several UK banks. Santander continues to grow [indiscernible] (00:07:29) services and have extended the functionality to include the customer and number validation. The response has been pretty positive and thus we think auto financial firms will adopt the technology based on this success.
+
+I will now turn the call over to [ph] Patrick Carroll (00:07:47) to discuss ValidSoft in further depth. Pat?
+
+Thank you, Steven and good day, everyone. The first quarter 2014 has shown continued and considerable investment in our product portfolio and services. In partnership with FICO and probably from the recent press announcement at several UK [ph] banks (00:08:13), I'm now working on deployment a plan for proximity correlation. We're now ramping up our joint efforts to drive the adoption of this new technology.
+
+Alongside this, FICO and Santander continue to grow the use of their existing ValidSoft services including the recently launched new customer number validation service delivered through the FICO platform. Regarding our announced MoU that ValidSoft signed with Syniverse, the world leading provider of services to telecommunications industry and related enterprise of financial service sectors. We're now walking together to [indiscernible] (00:08:56) a number of opportunities presented by Syniverse, reselling ValidSoft products and services to their existing customer base.
+
+Since joining earlier this year, our new Chief Product Officer, Adrian Kelly, has been reviewing our product portfolio and key messaging to our potential [ph] side (00:09:17). As a result, we are currently in the process of launching a simplified product offering with new supporting product, production quality demonstration materials as we believe that the time is right to simplify the market messaging in order to aid understanding and drive the monetization of our products. The ValidSoft team would be ruling out some of these new materials later this week [indiscernible] (00:09:45) 2014 payments, [indiscernible] (00:09:47) and identity conference in Las Vegas.
+
+Biometrics are considered to be one of the fastest growing and most important new technology areas within mobile device security. ValidSoft could develop the voice biometric engine as part of its multifactor authentication solution to the financial services industry. It's becoming increasingly clear that voice biometrics has many market opportunities beyond the financial services sector. And thus we are starting to explore some of these new opportunities and already have some substantial proof of concepts underway.
+
+Outside the financial services industry, we are currently completing these proof of concepts with governmental agencies and enterprise companies. In support of this, Paul Burmester, ValidSoft CEO, will be presenting our voice biometric technology and multi-authentication platform at the Opus Research Voice Biometrics Conference in San Francisco later this week.
+
+I would now hand over to Mark Nije who'll discuss the group's financials. Mark, over to you.
+
+Thanks, Pat. I will provide the financial highlights for the first quarter of 2014. As for revenues, we have basically included the process of changing our revenues from landline customers to mobile and security customers. Last year's first quarter still contained around $2.7 million in landline revenues which was now reduced to less than $100,000.
+
+At the same time, mobile and security revenues increased from $3.9 million last year to $6.4 million this quarter, an increase of approximately 60%. Following the substantially better margins of these activities compared to landline, the margin improved from $3 million last year to $5.5 million this quarter, an improvement of 83%. Despite the substantial part of landline last year's quarter, this quarter's total revenue was off only by around $100,000 compared to last year's quarter. Margins as a percentage of revenue grew from 46% in the first quarter of 2013 to almost 85% in the first quarter of 2014.
+
+Following the improved margins and despite the continued expansion of the organization, adjusted EBITDA improved by around $1.7 million from a negative $1.5 million in 2013 to a positive $290,000 this quarter. As Steven mentioned, we continued the strength to accelerate as we complete the additional migrations from Iusacell.
+
+Following the continued expansion of our organization, SG&A expense for the first quarter 2014 increased by around 40% compared to the same period prior year. This was, however, largely offset by the lower noncash compensation expenses this quarter compared to last year's quarter. As a result, overall SG&A expenses remained relatively stable and increased by around $100,000 compared to last year's quarter to the amount of $6 million. Depreciation and amortization expenses for the first quarter of 2014 was $2 million, an increase of around $7,000 or 52% compared to the $1.3 million for the first quarter of 2013. The largest portion of the increase relates to depreciation expenses primarily caused by the launch of the Mexican activities.
+
+On March 26, 2014, our previous auditor, BDO USA, informed us that they declined to stand for reappointment as the company's independent registered public accounting firm in connection with the company's audit for the fiscal year ending December 31, 2014. We wish to emphasize that the reports of BDO on the company's consolidated financial statements for the years ended December 31, 2012 and December 31, 2013 did not contain an adverse opinion or disclaimer of opinion and were not qualified or modified as to uncertainty [indiscernible] (00:14:59) or accounting principles.
+
+In the meantime, we are pleased to have engaged Squar, Milner, Peterson, Miranda & Williamson as the company's independent accounting firm for the fiscal year ending December 31, 2014. We feel that they will be better able to fit our needs and deadlines moving forward.
+
+This concludes our financial summary. I would like now to turn the call back to Steven for his closing remarks. Steven?
+
+Thank you, Mark. Looking ahead to the remainder of calendar 2014, we are positioned for near-term growth and long-term financial success based upon the contracts we have now in place with Iusacell, Vodafone, and Zain; and the relationships with, for example, FICO, and Syniverse. While it has taken somewhat longer than expected, we are now poised to accelerate the migrations and thus the growth rate of our revenue and adjusted EBITDA numbers.
+
+As for the outstanding compliance matters, management has been working with the New York Stock Exchange market and we are confident that we will regain full compliance listing standards in the near future. Based on the appointment of Geoff Leland and Carl Stevens to our board of directors in March, we have already partly regained compliance with the exchange.
+
+As we finalize [indiscernible] (00:16:44) expected hopefully over the next 60 days, we expect to regain total compliance shortly thereafter. Management is committed to [indiscernible] (00:16:56) for our shareholders and customers, and is excited by the growth we foresee in our pipeline for latest year. Our strategic relationships and industry knowledge is providing us with excellent global contract opportunities. For example, we are working closely with Iusacell management on the transition and migration of the subscribers. As you can imagine, we are taking the utmost care to ensure that everything goes seamlessly with this migration as a large part of the Latin American [indiscernible] (00:17:33) is following our programs.
+
+Additionally, this contract singlehandedly changes our quarterly numbers and allows us to achieve overall profitability. We expect to continue to further the commercialization of ValidSoft, FICO, Santander and several other global-leading financial institutions, and we are now near moving our MoU to a contract with Syniverse.
+
+This concludes the management's update portion of the call. I would now like to open the floor up for any questions that you might have. Thank you.
+
+Thank you. Ladies and gentlemen, we will now begin the question-and-answer session. [Operator Instructions] And our first question is from the line of Stan Berenshteyn with Sidoti & Company. Please go ahead.
+
+Good morning and thank you for taking my call. First question, looking at SG&A, the non-cash compensation was considerably lower compared to prior year, is this a reflection of how 2014 will play out or will the non-cash comp be similar to 2013?
+
+Sorry. This is Mark Nije. Can you repeat the last portion of your question please? We've got a pretty bad line here.
+
+Sure. Regarding non-cash comp, will 2014's run rate be similar to 2013 because Q1 was considerably lower...
+
+Yeah. Although it's sometimes a bit difficult to predict since the group incentive scheme for the employees of the company, it's often dependent on the actual development of the share price to calculate the actual impact on the financials.
+
+Okay. And for CapEx, can you give us some color in terms of the CapEx going forward in 2014?
+
+Well, there again, it very much depends on the new rollout of new customers, in new platforms, in new countries. If a new customer is signed, then obviously that will have a substantial impact on the capital expenditures.
+
+Okay. And for the current...
+
+So in that respect, pretty difficult to predict.
+
+Okay. And for the current client mix, is the CapEx expense going to be similar to the current quarter?
+
+Yeah. That's going to be similar, correct. Yes.
+
+Okay. Can you give us some color on the Matrix brand under Zain specifically, what is the service target market and the magnitude of importance to investors compared to Axiom?
+
+Okay. Maybe I can turn this question to Steven.
+
+Yeah, this is Steven. I understand the question is what is the impact of Axiom [indiscernible] (00:21:14) MVNOs in the Saudi market and what's the effect [indiscernible] (00:21:17).
+
+Specifically, what's the impact of Zain and how it relates to Axiom, in other words, is it more important, less important, what's the what's the expectations under Zain?
+
+Well, the primary reason we have been contracted by Zain is to host Axiom as the official licensed MVNO. As we have communicated before, Axiom was forced to resubmit its license application as they changed the partner and [indiscernible] (00:21:48) given us guidance, we expect Axiom to regain the license by the end of that summer and be able to start in the second part of the year. Ultimately, this can be a pretty important customer because as we have communicated, Axiom is the largest reseller of airtime of all the mobile operators throughout the region [indiscernible] (00:22:15) own brand with their virtual operator experience.
+
+We believe [indiscernible] (00:22:19) very professional setup and very professional rollout of these services so far, I think we have a pretty [indiscernible] (00:22:27) on our customer base and thereby on our revenues. However, we should realize that most of those gains will probably be made during the course of next year as it probably will already be September or October before they can roll out the services platform this year.
+
+Okay. Well, you mentioned the Matrix brand has limited rollout currently and you're expecting an increase. To what capacity is [indiscernible] (00:22:51) going to be affecting revenue going forward?
+
+That will have a limited impact as we are talking about relatively limited numbers. And especially in comparison to Axiom, it should have a very limited impact.
+
+Okay. And has the pipeline improved since the Mobile World Congress?
+
+Well, it's not just that the amount of prospects in the pipeline has improved, it's, of course, also the quality of the contracts. And we strongly believe that we are very well positioned to expand our customer base. However, most of these customers are waiting to see how things will work out with, for example, Iusacell Mexico and it's also the reason why we have to be very careful to make sure everything runs right. And hopefully in the next few weeks, we will be able to address this and communicate the further progress in migrations in Mexico. And definitely, it's going to be an interesting test for the market to see how we can then also attract other customers and turn prospects into contracts.
+
+Okay. Great. Thanks. I'll jump back in the queue.
+
+Thank you. And our next question is from [ph] Rob Skaf (00:24:05), a private investor. Please go ahead.
+
+Hi, guys. Thanks for the update. Steven, last call, one of the interim goals was getting $3 million incentives by Q2 and $8 million by the end of the year. Is the $3 million by the end of Q2 still likely?
+
+Mark, maybe you could answer that. I think Steven is having some phone problems.
+
+Yeah. Sorry. This is Steven. I'm just hearing you now. Can you repeat the question, otherwise?
+
+Sure. The two goals for Iusacell was $3 million by the end of the Q2 and $8 million by the end of the year. How is the $3 million by end of Q2 looking?
+
+I think that as I just said we're expecting in the very near future to be able to give you more feedback on the speed of migrations. But with the migration that we have in mind, we should already be reaching pretty close to the $3 million market, maybe somewhat around $2 million, $2.2 million. And then, we are certainly positioned to reach that number by the end of Q2. And of course, once we reach that number by the end of Q2, we will [indiscernible] (00:25:29) to do the additional migrations in the course of this year to reach the [ph] $58 million (00:25:34) by the end of the year.
+
+Okay. And with landline business going to zero, we can now start to breakdown the mobile and security separately?
+
+It will depend. That's a matter of policy. So far, we have felt that having only heard few problems, it may reveal information that we would consider as customer sensitive. And therefore, we have chosen so far to report it as a single business. We just don't know yet but possibly down the road, if each of the business is substantial enough and we'll have superficial customers, let's say, the individual tracking of numbers will be much more difficult and there will be less reason to report it as a single business.
+
+Okay. Thank you.
+
+Thank you. [Operator Instructions] And our next question is from the line of Edward Woo with Ascendiant Capital. Please go ahead.
+
+Yeah. Thanks for taking my question. I had a little bit more questions about the Iusacell contract. In terms of the migration, do you think that the technical problems that you guys encounter would cause you to prevent you from transitioning all 8 million subs at a very quick pace or is that something that you have to deal more on the even number of basis over time?
+
+Well, we simply don't know that today, but as we communicated, we feel extremely comfortable that we will reach the 8 million before the end of the year and especially if the next few migrations will go successfully as we, of course, expect. There is no reason to believe that the ramp-up will not take place, right, reasonably quick.
+
+Okay. As you mentioned a little about that pipeline, do you – how do you feel in terms of regions of the [indiscernible] (00:27:31) where you think you guys are targeting right now in terms of having the most opportunity for you guys?
+
+Well, as we communicated also in our investor presentation, we have a geographical focus on Europe, Middle East and Africa, and the Americas. And we believe that especially in the Americas and in some of the Middle Eastern and African countries, there are very good opportunities with relatively smaller MNOs, let's say, in the range of 5 to 10 million subscribers for which we could completely have to service on an outsourcing basis in line with the example that we are now setting with Iusacell. And especially in that space, we feel comfortable that we should be able to also use the Iusacell success as a reference for our future rollout with newer customers. And we believe that based upon what's going to happen in Mexico the next couple of months, we will be able to indeed bring some of these prospects into our [indiscernible] (00:28:32).
+
+Great. Well, thank you and good luck.
+
+Thank you.
+
+Hello.
+
+Yes.
+
+Operator, are you on the line?
+
+I'm here. [ph]
+
+Mr. Wolfe (00:29:27) was trying to ask a question.
+
+And [ph] Mr. Wolfe (00:29:31), your line is open. And it seems like [ph] Mr. Wolfe (00:29:38) has removed himself from the queue. And our next question is from the line of Stan Berenshteyn with Sidoti & Company. Please go ahead.
+
+Hi. Just a quick follow-up. You mentioned that Syniverse is going to go from – it's going to operate to a contract. Is there any dollar value or any other details you can provide as well as a time line?
+
+This is Steven. No, I think we cannot give any dollar amount towards that. This is too early to really focus on those type of details. And in general, as you know, we cannot give guidance in this respect. The first step is now to turn this MoU into a full flex contract to make sure that the product offering is complete. And then, we will [indiscernible] (00:30:27) with them, what the addressable market is and how we are exactly going to attack it. But I think at this stage, it's way too early to give any numbers towards that expectation.
+
+Okay. Can you maybe give us some color as to – and what capacity this contract will be in? What kind of services will be [indiscernible] (00:30:46) provided?
+
+Okay. For detail, I probably better give the question to Pat. Pat, are you online?
+
+Yes, I am. Yeah. I think the primary focus right now and it's fair to say that the interest from Syniverse has been in our security products and services, so everything from authentication to proximity correlation and that's exactly where the initial interest came from. A lot's been going on in the world of signals, a lot's been happening in terms of privacy. That marketplace has been closing down in terms of freely available access because of privacy issues and other implications from the operator's perspective.
+
+So for us, having strategic partnerships whereby we can provide our security solutions together with the previously [indiscernible] (00:31:35) and use that as the enabling aspect to be able to go back to the market and I think puts us in a very strong position and I think that's the priority really from the point of view of our relationship with Syniverse. Alongside that, as you probably know from Syniverse's perspective, they're a massive player of the telecommunications side and they've significant interest in our voice biometrics capability both from above our mobile perspective but also from the point of view of the call centers that we operate. So those are the areas that we'd be exploring with them going forward.
+
+Great. Thank you.
+
+Thank you.
+
+Thank you. And our next question is from the line of [ph] Rob Skaf (00:32:11), a private investor. Please go ahead.
+
+Hi, Pat. Just a couple of questions. A little over a year ago, there was a lot of talk about some new IP mostly related to using the Internet for validation. Have any new products really come out of that or any new deals in the works? And then my second question is that we have FICO and Syniverse as we get these partners onboard, does it ever come to a point where they're both competing with each other for some of the same [indiscernible] (00:32:47) customers?
+
+Okay. Good questions, [ph] Rob (00:32:51). So I guess, if we start with the intellectual property side, we've got a continuous program with investment in intellectual property and recently, we're doing a review of the intellectual property portfolio, should come as no surprise and it takes about three to five years, [ph] particularly (00:33:09) speaking for partners [indiscernible] (00:33:10) that from the point of view when the application respond.
+
+So applications that we filed a year ago in terms of either based around the solutions that we want to bring to marketplace for [indiscernible] (00:33:22) presence or for a [indiscernible] (00:33:25) side, then those products and services would depend on the granted applications on the partner side which we would expect probably over the next kind of two years that they are about. We believe we're ahead of the curve in terms of that respect. What we do, as we always say, is we do the investigations and we file the applications for the patents then we start [indiscernible] (00:33:48) do the prototypes and we get the products out and that's exactly the cycle that we're in right now.
+
+So, with Adrian Kelly coming on board at the start of the year, as some of his primary focus has been really concentrating in these efforts around these specific products to make sure that we do bring this to marketplace over the course of the remainder of this year and next and that's the timeline that we have associated with this. We still believe that some of those solutions, particularly, in the [indiscernible] (00:34:10) space are ahead of the curve and certainly have very large target markets for us to be able to go after in due course.
+
+Your second question then with respect to FICO and Syniverse, I guess, from our point of view, we look at them as both having significant footprints and the large reorganization whether its FICO or whether its Syniverse, they have entry points and different entry points into it for the target clients that we're going after. Even from a financial service perspective, you'll find that their contact points are very different. With Syniverse, we'd expect to be more on the technical side. With FICO, for example, we'd expect to be more on the processing side. And together, it works very well because we can collaborate together to land these large clients and that's exactly what the focus will be going forward.
+
+We would look to collaborate almost sitting in the middle of the FICO to our right extending out into clients from that perspective in terms of processing. And to our left, we'd have Syniverse with their extensions into the mobile network operators, but also, their client relationship as well. And then, we can bring that together by [indiscernible] (00:35:14) on both sides of that relationship. That's exactly how we're positioning ourselves.
+
+So, with ValidSoft being a part of FICO's risk engine, we've talked about these customers just checking the box to make it work. Are we getting close to that finally happening?
+
+So, I mean, a couple of things have happened. One is I mentioned that the – there's been a concentration of that around closing down on signals and that to prevent unauthorized use of privacy and access to signals for various purposes. That aided us quite significantly because we've been ahead of the curve in terms of having our privacy field. But it has caught the marketplace to stop, takes dock and then move ahead particularly on the mobile network operator side.
+
+We're in a very strong position and emerging out of that. We're the only security company in the world with three privacy fields. We've got another one expected to be announced in the course of the next several weeks or a couple of months. And we've got two more fields then sitting behind that. Again, with the renewals of our previous fields also come [indiscernible] (00:36:17) and that puts us in one of the strongest positions to be able to offer these type of services to the marketplace. That has not been lost under life of FICO. It's not been lost under clients and it certainly hasn't been lost under life of Syniverse as well.
+
+Okay. Thank you.
+
+Thank you, [ph] Rob (00:36:33).
+
+Thank you. And our next questions is from the line of [ph] George Kafkarkou (00:36:39), a private investor. Please go ahead.
+
+Hey, guys. Just...
+
+Hi, [ph] George (00:36:45).
+
+Just a quick question. Steven, can you talk some more details about the pipeline that you have for the mobile platform? And secondly, what the typical sell cycle is in duration?
+
+All right, [ph] George (00:37:03). Good questions. Well, let me start with the second part. Lives of sell cycles are very long. It could take one to several years before entry point of the first discussion and finalizing contract, plus then another six to nine months to [ph] effectively (00:37:20) implement the platform and migrate business onto it.
+
+And, of course, due to these lives of very long sales cycles, we need to have a pretty broad pipeline because you never know how quickly a specific contract might, let's say, exchange into a contract. Overall, the pipeline is pretty wide. I think we are close to about two dozen prospects that we are currently looking at that we are having discussions with, mostly in the areas that I mentioned before, Europe, Middle East and Africa, and the Americas. But, of course, having to compete with large established players around the world, a lot of these potential customers are looking for references and are looking to see how their peer are dealing with us, what kind of achievements we are able to realize with them.
+
+And as far as [indiscernible] (00:38:13) concerned, I think that we have been focusing over the last year mostly on getting the current customers up and running to make sure also the company will get profitable just from these three larger contracts. And once we have those in place and once we can build upon those references, we feel comfortable that [indiscernible] (00:38:31) of the prospects will indeed move forward and turn their strong interest so far into revenue-generating contracts. And this could happen over the next 6 to 12 months.
+
+It's still always difficult to say when people finally make a decision because there are many aspects that play a role, including regulatory aspects in quite a few markets because not everywhere, it is possible to establish a platform like we have and you need to be very careful to make sure that you fulfill the local, legal, and regulatory requirements. But, ultimately, we feel that the advantages that we could bring to those customers will clearly be large enough to convince them to enter into these contracts in very near future.
+
+Very good. May I ask just two more detailed questions to that? So, of the two dozen prospects, how many are waiting on a reference? And secondly...
+
+Yeah. Okay.
+
+Go ahead, please.
+
+No. Go ahead. Please go ahead.
+
+And secondly, of those two dozen prospects, how many would you say are at a sales cycle completion level of 70% or more?
+
+They are both good questions. It's very difficult to individually address that. I believe that references whether these are a go, no-go matter or more of a refining matter later in the process, I think any one of these potential customers is looking for references because it also needs a lot of [indiscernible] (00:40:02) attention to get people convinced within the target organizations. These type of references are certainly supporting that. That's also the reason why we are currently working with Ovum, a large telco consultancy who write up these specific use cases in Mexico, in Spain, and later on also in Saudi Arabia to make sure that it's basically being told to those future potential clients how the platform can help them to achieve their long-term goals, how they can avoid churn, how they can improve ARPUs between their customers, how they can improve their competitive position by having a flexible platform with a whole range of services that they can easily integrate and quickly adapt to market needs.
+
+So, it's difficult to say which prospects are really waiting for a reference, but normally in this business it's extremely important what their peers are doing. So, I would say that it's virtually [indiscernible] (00:40:58) to that customers. And some of them luckily have gone to the next phase. They are really convinced. And I would say that we probably have a handful of opportunities where the reference as such is less important at this moment. It's more the internal process to get all the paperwork done, get all the pricing done, get all the agreements in place, and most importantly to convince also the rest of those organizations that [indiscernible] (00:41:23) performance offering them is one that is very seriously considered.
+
+And finally, [Technical Difficulty] (00:41:30) with larger companies, we probably need more references than anyone else in order to win new markets. That's of course, it is advantage in the beginning, but once you see that those references are working and that new companies are taking the steps to contract us, we [indiscernible] (00:41:47) ultimately once maybe handful of these companies are contracted that the reference issue becomes less and less important as we become an established player in this market.
+
+Yeah. I mean, certainly, the fact that Iusacell has announced that they are serving IBM, that's probably the best reference the company could ever wish for. So, I imagined just that fact would help reduce sales cycles and would provide great comfort to your prospects in making a decision for the Elephant Talk mobile platform, I imagine.
+
+George, as you may understand, I would rather not give any comment on this.
+
+Of course, of course.
+
+Just I don't want to say anything positively or negative about any other competitor. So, I would suggest we move to the next question.
+
+Yeah. So, the final one, I don't think I heard the answer to Steven was how many of those 2,000 prospects are greater than 70% or greater of the life cycle? Is it half of them? Is it...
+
+No, no, no. It's probably the few that I mentioned earlier that are kind of beyond the reference stage and I'm now really looking into how the deployment could work. So, it would be less than a handful.
+
+Very good. I appreciate the opportunity to ask the questions. Thank you.
+
+All right. Thank you very much.
+
+Thank you. And our next question is from the line of [ph] Ted Wolfe (00:43:19), a private investor. Please go ahead.
+
+Yes. Some of my question has already been answered but very briefly has to do with the ValidSoft. You've done a tremendous job turning around the SIM situation with mobile and Elephant Talk, probably the last couple of years and by the way, I'm a stockholder for four, five years now. ValidSoft, in my opinion, has been the opposite. What are you going to do to turn that around to monetize any opportunity? You got a very good repertoire of certifications but no monetization coming along with that. Is that going to change in the near future? What are the prospects then some specifics if you can and help me understand the value or are you even open to selling that IP and that technology to another organization?
+
+This is Steven. Well, thanks for the question. Well, of course, ValidSoft has been focused a lot in the last couple of years of developing its portfolio of making sure its products are in place of really [ph] defining the needs (00:44:19) of customers and translating that into actual services. And the fact that Paul Burmester joined us at the end last year and he also brought in Adrian Kelly as his Chief Product Officer, it's a clear [indiscernible] (00:44:32) that we are now getting [indiscernible] (00:44:34) development phase [indiscernible] (00:44:35) more of the monetization phase.
+
+And yes, this has taken longer that we had hoped for. We are dealing here with the market where also we have to try to build up references to which we are now consistent doing in United Kingdom [indiscernible] (00:44:51) some of the larger banks as you know and corporation with some of the larger partners in the industry and we certainly hope that the references we are currently building up and new angle to be more focused on products and services and maybe less on the development is a clear sign that we are moving ahead [indiscernible] (00:45:10) and for the moment, there is absolutely no spot of possibly selling intellectual property. We certainly would like to monetize that by licensing it out to other parties and so forth, but we feel that we have a whole area of opportunities in front of us, how we can monetize the ValidSoft property that we have developed over the last couple of years. And we feel comfortable that Paul and his team together with Pat will be able to turn what we have built up into a margin-creating revenue over the next couple of years.
+
+Thank you. And I am showing no further questions. I would like to turn the call back over to Mr. Steven van der Velden for closing remarks.
+
+Yeah. On behalf of everyone at Elephant Talk Communications and ValidSoft, I would like to thank everyone for joining us on today's call. And thanks to all of you and especially our long-term shareholders for their patience and commitment to the company. As stated earlier, we look forward to providing additional updates and future achievements in the very near future. Thank you, all, and have a great day.
+
+Thank you. Ladies and gentlemen, this concludes our conference call for today. If you would like to listen to a replay of today's teleconference, please dial 1-877-870-5176 and 1-858-384-5517. We'd like to thank you for your participation, and you may now disconnect.

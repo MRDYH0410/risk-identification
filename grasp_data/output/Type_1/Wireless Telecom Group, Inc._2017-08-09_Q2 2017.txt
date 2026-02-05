@@ -1,0 +1,238 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+Michael Kandell — Chief Financial Officer, Wireless Telecom Group, Inc.
+Timothy Whelan — Chief Executive Officer & Director, Wireless Telecom Group, Inc.
+David A. Achey — Analyst, The Horton Fund
+
+Management Discussion Section
+
+Question And Answer Section
+
+Good afternoon, ladies and gentlemen, and welcome to the Wireless Telecom Group's Second Quarter 2017 Earnings Conference Call. At this time, all participants have been placed on a listen-only mode and we'll open the floor for your questions and comments after the presentation.
+
+It is now my pleasure to turn the floor over to your host Mike Kandell, Chief Financial Officer. Sir, the floor is yours.
+
+Good afternoon, everyone, and thank you for joining us for our second quarter 2017 earnings call. Before we begin, I'd like to remind everyone on the call that our remarks today could include forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. These statements can be identified by the fact that they do not relate strictly to historical or current facts.
+
+The company's forward-looking statements are based on management's current expectations and assumptions regarding the company's business and performance, the economy and other future conditions and forecast of future events, circumstances and results. Forward-looking statements are not guarantees of future performance and involve a number of risks and uncertainties that could materially affect actual results. Important factors that could cause the company's actual results to differ materially from those in its forward-looking statements include those risk factors set forth in the company's Annual Report on Form 10-K filed with the SEC.
+
+The company does not undertake any obligation to update or revise any forward-looking information to reflect changes in assumptions, the occurrence of unanticipated events or otherwise. Also, we want to point out that in addition to GAAP information, we will provide information relating to certain non-GAAP measures. We believe that presenting these non-GAAP or adjusted measures provides additional meaningful information to investors, which reflect how management views the business. Detailed reconciliations of non-GAAP measures to GAAP measures are set forth in a reconciliation table in our press release issued earlier today and furnished with the Form 8-K filed today with the SEC.
+
+I will now turn the call over to Tim Whelan, our Chief Executive Officer.
+
+Thank you, Mike, and good afternoon, everyone. Thank you for joining us. Our agenda includes some prepared remarks, then Mike will walk us through the financials and then we will open the line for some Q&A.
+
+As a reminder and a brief overview, Wireless Telecom Group is a business, which enables the development, testing and deployment of wireless communication and RF instruments. We go to market with three segments under four brands.
+
+Our three segments include Network Solutions, which operates under the trade name Microlab, which is involved in the design and manufacturing of radio frequency conditioning solutions. The second segment is Test & Measurement, which operates under the Boonton and Noisecom trade names and is involved in providing noise-generation devices for military and communications applications as well as power meters and sensors for radar and other wireless communications.
+
+And Embedded Solutions is our third segment, formed with our acquisition of CommAgility on February 17, 2017. This segment is involved in signal processing and technology for network validation systems, supporting LTE and emerging 5G networks and providing LTE software and customization for private network applications.
+
+Collectively, these segments all serve the wireless communications and RF instrumentation industries. Our business has a deep level of expertise in RF wireless communication. We have known and well-recognized brand names with long tenure history and we have a large installed base of products and customers. We are an approved and trusted vendor with carriers, the military and government agencies.
+
+Together, Wireless Telecom Group and our three segments represent an investment in the continued growth and evolution of wireless communication and a company collectively standard and focused on a unified mission across three lifecycle areas, enabling the development, testing and deployment of wireless communication technology.
+
+We expect to take advantage of the long-term growth trends in wireless communication, while at the same time we're also diversified across solution sets, diversified across the stages of the wireless technology lifecycle and diversified across the customer segment addressability.
+
+Over the last 12 months, we have made a number of important improvements and investments in our go-to-market sales and product strategy, which are contributing to our improved order flow and increasing revenue. These accomplishments have included the acquisition of CommAgility in February 2017.
+
+Now, as a refresh, our investment thesis for CommAgility was one of a complementary business involved in wireless communication development and testing. CommAgility is a profitable company and we did not build this investment case or the acquisition on cost synergies. Further, the purchase structure of the acquisition aligns the interest of shareholders and sellers through adjustment mechanisms in the purchase structure for various possible outcomes.
+
+Three items of note to point out, first, we included almost 25% of the purchase consideration in equity, which aligns the four founders the long-term interest of our shareholders; second, the equity includes lock up provisions and call back provisions from minimum EBITDA performance of the business over the next two fiscal years.
+
+Third, the purchase consideration has earn-out provisions to reward the principles for our improving performance, which also aligns the cash flow funding requirements of the earn-outs with the cash flow being generated by the CommAgility business. Importantly, these provisions allowed us to excite the seller management team about the future and [ph] align their risk (00:06:07) and rewards to the value being generated by the CommAgility business and thus to our shareholders.
+
+Strategically, the CommAgility acquisition also accomplished five important strategic objectives for the consolidated Wireless Telecom Group. One, it enhances our value proposition with higher value LTE software and embedded digital signal processing hardware solutions and diversifies our solution set to the larger and longer-term trends impacting our customers.
+
+Two, it indexes us more strongly for the expected long-term expansion and growth of 5G deployment and private networks. Three, it enhances our scale and profitability and creates greater operational leverage and expansion of addressable market. Four, it adds deep layer of expertise and approximately 40 more software and embedded hardware design engineers to our bench, which will positively impact our product roadmap over the longer term. And last, it adds an immediate accretion to earnings with an improved margin and cash flow profile.
+
+Our integration activities continue with the Embedded Solutions team. Shorter-term integration of corporate and back office functions are well underway and we are now currently focused on leveraging sales channels and technical and engineering expertise over the longer term for product roadmap development and top line growth opportunities. Together with the other changes and improvements in the business, along with the CommAgility acquisition, we are strategically positioning the company and our product solution set towards longer-term growth trends and larger market opportunities.
+
+The milestones and accomplishments we have announced underscoring this product and the market shift includes the following. We launched our pan-European partnership with Amplifier Research to consolidate and improve our channel to market in EMEA. We launched our USB power meters to open up new addressable markets with different product sets in the mid-range power meter markets. We launched our Digital GPS Repeater and Splitters used for wireless network timing, which represents the introduction of a new active solution set and this elevates our expertise and passive RF conditioning, which our Microlab brand is well known for as a global leader.
+
+We launched our new twin diplexer for small cell architecture and other network densification projects to continue our products at alignment for the current and expected double-digit growth in small cell deployments. We announced our work with Harris providing LTE software and expertise and our work with IDY Corporation of Tokyo, developing 4G and 5G small cell technology, leveraging our new Embedded Solutions segment.
+
+We announced our selection for the US Bank Stadium deployment of our Adjustable Point-of-Interface solution, which allows for a new type of variable DAS solution at a superior cost of ownership model for our customers. And our recent award from the FAA for nearly $1.6 million for our flagship complex Rx signal power sensing solution underscores the inherent value of our brand history and installed base.
+
+Now, in the second quarter of 2017, we have continued making operational improvements and we have continued to sharpen our strategic direction. We've completed an executive organizational restructuring adding a Chief Technology Officer role, which we believe will have greater immediate impact to our product to roadmaps, addressable markets and customers.
+
+We launched and implemented a refreshed lean manufacturing plan which led us to do the decision to write down the net realizable value of our inventory by $1.9 million. This inventory assessment in lean initiative included amongst other directives, three important shifts, which included inventory and production process streamlining, and specifically a minimization of inventory contained in various work cells at various stages of production, testing and assembly. It included a minimized inventory level, that's designated for reuse, redesign or repair in a shorten timeline for disposition, and it included an acceleration and shortening of the expected product lifecycle management and the amount of time, we are allotting towards reengineering.
+
+On this point, we are choosing to invest the time and efforts of our engineering, manufacturing and operations teams differently and focus them on the current higher order flow from customers rather than spending additional time and energy on lifecycle inventory management and redesign for reuse of slower moving parts.
+
+In the second quarter, we have also refreshed our strategic plan, which calls for an acceleration of certain product roadmap initiatives and improved product management. Over the longer term, we expect this to lead to shorten product lifecycles, new product initiatives and strengthened agility and responsiveness for our customers as a strategic competitive advantage.
+
+With regard to the second quarter numbers, Mike will take you through them in more detail, but we are very pleased with continued top-line revenue growth in the first half of this year compared to the first half of last year. On a consolidated basis, our revenue grew 54% in the first six months of the year, which includes our ownership of CommAgility for approximately 4.5 months.
+
+Just as importantly, within the same period we realized organic growth in both of our existing segments. Network Solutions revenue grew 15% in the first half, while Test & Measurement grew 48% in the first half as compared to last year.
+
+In our Network Solutions segment, we are seeing that the network densification efforts and small cell deployments along with upgrades requiring multi-carriers and new spectrum are fueling demand for our combiner and high-grade RF conditioning solutions and we expect this to continue in the second half of the year. We're also seeing some increased sales order flow in our Test & Measurement segment being driven by an above average increase to larger projects and we see a continuation of the cyclical pattern of increased orders in Q2 and Q3 of our fiscal year, representing the second half of the government fiscal year.
+
+Additionally, the sustained customer order flow strengthens our conviction for our direction and improves the forecast in the second half of the year. July was a very good month of customer bookings and as we mentioned in the press release includes the receipt of the FAA order of $1.6 million, which we have been working on for over a year. July's performance will help drive solid bookings in the third quarter and with this, we expect the Q3 bookings to drive continued strong financial results in the second half of the year at or slightly better than the first half.
+
+In summary, we have accomplished a number of important objectives over the last 9 to 12 months and our financial results are beginning to reflect the growth in revenue and profits. We have more work to do, but we're encouraged that we're better positioned now to take advantage of continued future growth opportunity in our end markets.
+
+With that, I'm going to turn the call back over to Mike, who will walk us through the financials.
+
+Thank you, Tim. Good afternoon again everyone. Our second quarter 2017 results include three months of CommAgility, which will affect all of the quarter-to-quarter comparisons. In our press release and in our 10-Q, we have broken up this impact, and then I will highlight some of that up here as well.
+
+We are very pleased with the results of Q2, which reflect higher revenues across all of our segments. Our net loss of approximately $1.4 million includes non-cash inventory impairment charge of $1.9 million along with $470,000 of restructuring charges, primarily related to the departure of our Chief Operating Officer. These results were consistent with our expectations and guidance in our first quarter earnings call.
+
+We were slightly higher on revenues, slightly below on gross profit, if you exclude the non-cash impairment charge and slightly below non-GAAP operating expenses. Collectively, this resulted in non-GAAP adjusted EBITDA of over $900,000.
+
+Our revenues in Q2 increased by $4.3 million to $11.9 million, representing a 57% increase from Q2 2016. This increase includes $3 million of revenue in our Embedded Solutions segment, which represents our CommAgility acquisition. This increase also reflects organic growth in both our Network Solutions and our Test & Measurement segments. Network Solutions revenue increased $141,000 or just about 3% from the prior year. And the $5.6 million of revenues reflects the best quarter of revenue for Network Solutions, since Q1 2015.
+
+Test & Measurement revenue increased $1.2 million or 55% from the prior year period and is the second best quarter of revenue for that segment since 2015. The revenue increases were due to improved spending by our wireless carrier, government, military end markets, increased project wins, the launch of our customer portal and other product and customer facing improvements.
+
+On a regional basis, the Americas, which we define as Canada, North America, and South America account for the majority of our revenue. For the first six months of 2017, Americas revenue represented 71% of our revenue or $15.3 million, which compares to 78% in the same period in 2016. The change from the prior year is due to the inclusion of our new segment Embedded Solutions, which includes the CommAgility acquisition, for which nearly 60% of that segment revenue is from EMEA, the remainder is from the Americas.
+
+On a regional basis, we were pleased that revenues increased across all regions both organically and with the inclusion of Embedded Solutions. We see our businesses and channels performing well in every region, but we were expecting slightly higher revenue from EMEA in the first half, which was largely offset by higher Americas revenue.
+
+Our book-to-bill ratio in Q2 was $1.02. And as Tim mentioned, we are seeing continued strong bookings in July highlighted by the receipt of the $1.6 million FAA order. Overall, we're encouraged by our bookings trajectory and expect a strong second half of the year.
+
+Our gross profit in Q2 of $3.3 million or 28% of revenue decreased from last year's Q2 gross profit of 44% primarily related to the $1.9 million inventory impairment charge which Tim spoke about. The inventory impairment charge was triggered by two key events in the second quarter. The adoption of lean manufacturing principles, and the realignment of the company's strategic plan.
+
+The gross profit in Network Solutions segment for the three and six months ending June 30 were 21% and 33.2% respectively, and included $1.2 million of the inventory impairment charge. This compares to 45.7% and 44.2% for the comparable periods in the prior year. Excluding the inventory impairment charge this three and six months gross profit are comparable to prior years.
+
+The gross profit in the Test & Measurement segment for the three and six months ending June 30 were 25.1% and 34.1% respectively, and included approximately $725,000 of the inventory impairment charge. This compares to 39.2% and 41.3% for the comparable periods in the prior year. Excluding the inventory impairment charge that three and six months gross profit represent a marked improvement over the prior year. This improvement was due to improved volume in order flow and product mix.
+
+In our Embedded Solutions segment, gross profit was 44.3% in Q2, 2017 as compared to 54% in the sub-period Q1, 2017. Embedded Solutions was not impacted by the inventory impairment charge. The decrease in gross profit quarter-to-quarter was due to higher mix of hardware revenue in Q2 than Q1.
+
+Our operating expenses were $5.6 million in Q2 as compared to $6.1 million in Q1, excluding $1.3 million of M&A expenses incurred in Q1, operating expenses increased in Q2 due to $470,000 of restructuring charges and the inclusion of a full quarter of CommAgility expenses.
+
+Our non-GAAP adjusted EBITDA for the second quarter of 2017 was $910,000, compared to $94,000 for the second quarter of 2016. This improvement to non-GAAP adjusted EBITDA was driven by profitable revenue growth in our Network and Test & Measurement segments and the inclusion of the Embedded Solutions segment.
+
+Our GAAP net loss for the quarter was $1.4 million as compared to a loss of $218,000 for the year ago period. The second quarter net loss included non-cash inventory impairment charge of $1.9 million and $470,000 of restructuring charges.
+
+With respect to the CommAgility acquisition, as a reminder, the estimated purchase price of the company is approximately $23 million as disclosed in footnote 3 to our financial statements. The components of the purchase price include $11.3 million of cash at close, approximately $6 million of equity issued at close, $1.4 million completion cash payment which is primarily related to excess working capital and was paid in March. $2.5 million of deferred purchase price payable on 2017 and 2018 of which approximately $1.8 million is reflected as a liability on our balance sheet at June 30, and $1.5 million of contingent consideration which reflects the net present value of the estimated additional purchase consideration to be paid over the – under the earn out provisions in the stock purchase agreement.
+
+With regard to cash flow and liquidity, we are also very pleased with the positive cash flow from operations for the six months ended June 30, which reflects an almost $1 million improvement from the same period a year ago. We increased our cash balance and reduced our debt in the quarter and continue to have additional borrowing capacity under our asset-based revolver.
+
+As a refresh, we entered into a new credit facility just ahead of the CommAgility acquisition, which provided for a term loan of approximately $800,000 and revolver availability of up to $9 million subject to borrowing-based availability. We have $2.2 million of outstanding debt as of June 30, a reduction of $420,000 from the previous quarter, of the $2.2 million in total debt, $1.7 million is short-term and $722,000 as long-term. We paid approximately $39,000 in the first half of the year in income taxes, with our very low cash tax payer due to federal and state NOLs in the U.S. and an R&D tax deduction in the UK.
+
+And finally on our balance sheet. The majority of the fluctuations from December were driven by the inclusion of the Embedded Solutions segment. Some quick highlights of the impact of this new segment. Cash includes $2.8 million of cash from Embedded Solutions; the overall reduction in consolidated cash from December reflects the use of cash on our balance sheet to close the acquisition. AR includes $2 million of Embedded Solutions receivables, inventory includes $885,000 of Embedded Solutions inventory. AP includes $670,000 of Embedded Solutions AP, and accrued expenses and other current liabilities includes approximately $2.4 million of liabilities related to deferred purchase price and contingent consideration.
+
+At this time, I'd like to turn it call back over to Tim for some closing remarks.
+
+Thank you, Mike. So overall, we are very pleased with our Q2 and our first half accomplishments. Now, looking into the second half of the year at this time, we expect our Q3 revenues in the $11.5 million-$12 million range. We expect gross margins in Q3 between 45% and 47%, and we expect non-GAAP operating expenses to be between $4.5 million and $4.7 million.
+
+Other themes of expectations for the second half of the year, we expect continued strong order flow in all our segments in Q3, though we expect customer activity and order flow in Q4 to slow somewhat, which has been a historical seasonal pattern for the business.
+
+We intent to carefully manage our cash flow for positive cash from operations and profitable revenue growth, and we expect to continue to invest in our R&D, our product roadmaps and our IT infrastructure to position the company for current and future trends of growth for each segment and for each region.
+
+Thank you, and operator, please open the lines for questions.
+
+Certainly. Ladies and gentlemen, the floor is now open for questions. [Operator Instructions] [Operator Instructions]
+
+Your first question is coming from David Achey. Please announce your affiliation and pose your question. Your line is live.
+
+Hey, Tim and Mike. It's Dave Achey from the Horton Fund. Nice quarter.
+
+Hi Dave. Thank you
+
+Thanks for joining us.
+
+Of course. So just wondering about the acquisition if you could maybe elaborate on how CommAgility is performing relative to your expectations back when you made the decision to acquire the business?
+
+Well I would point it to the revenues and segment footnote. You'll see that's $4 million of revenue in 4 1/2 months. You'll see this is tracking closely to the 8-K/A we've filed on the pro forma financials which disclose our business that was doing just under $11 million, producing gross margins of 60% for the fiscal period 2016 on a pro forma basis and income before taxes was just under $1 million, which included $1.7 million of intangible. So if you look at the 8-K/A as a profile of the business, you'll see that the revenue production in the first 4 1/2 months of ownership is tracking closely to where they're at. We're still quite pleased with that acquisition. They are performing as expected. The integration is going well and we've got high hopes on the both the funnel, the backlog, and the opportunity at hand.
+
+Right. That's helpful. And in terms of the gross margin for CommAgility, I understand that from prior conversations with you I shouldn't really look at it on quarter-to-quarter basis, so this is just a pendulum swing one way versus the other, and we still look at the initial presentation for what kind of a go-forward run rate, if the gross margin for that business would be?
+
+Yeah. I think this year, there will be a higher concentration of hardware which will have a lower overall gross margin profiled in the software, we're carefully tracking the – they record on the UK GAAP, we translate that back to U.S. GAAP which is what you're seeing and certainly that the change in margin from historical periods and the current period is part of that revenue mix, we are not observing any price erosion or margin deterioration.
+
+Okay. Great. Then on the lean initiative, obviously I'm sure it was a tough decision to take the write down, but always happy to see that we're looking for ways to improve efficiency and margins, would you anticipate to see an improvement in gross profit margins over time from these initiatives?
+
+Yeah, Dave, this is Mike. I mean I don't necessarily I think we're seeing an improvement right away, I think this is the longer term initiative decision to take the write down, we assess, we do a bottoms-up review of inventory annually, we accelerated that process, because of these two triggering events this quarter, and given the lean initiative and the realignment of strategic plan it resulted in a pretty significant charge.
+
+Okay. One last one, and I'll get back in the queue. From a seasonality standpoint, last year Q4 was close to 30% in the company's overall revenue for the year. Is the business seasonal? Should we think about it that way or was that kind of an anomaly?
+
+My comments during our prepared remarks, Dave was that we do see the customer order flow trail down in Q4, calendar Q4. Calendar Q4 is the first quarter of the government fiscal period and they're just quieter and as the fourth quarter within our enterprise and carrier space, they go more into planning mode. So I would mimic comments that Q2 and Q3 are building seasons where we have the highest global order flow. That will not always translate to revenue. As we mentioned the FAA order, that will be delivered over three to five months. So, you will have a little bit of a difference between order flow and revenue. So, the historical patterns, I think, are a good way to look to the future, but right now, I can't necessarily give you a Q4 projection. There is too many moving pieces right now.
+
+Fair enough. Thanks for answering the questions.
+
+Okay. Sure.
+
+Thanks, Dave.
+
+Your next question is coming from [ph] Ralf Muller (00:28:56). Sir, your line is live.
+
+Hi, Mike and Tim, the impairment charge, would you look for more going forward or do you think that's behind us now?
+
+I think, it's behind us now, [ph] Ralf (00:29:15). Again, these were two pretty significant events that happened in Q2. The realignment of our strategy, the decision to move engineers away from trying to redesign slow moving, passive components and into our new small cell product line as well as just handling the high volume of new orders that are coming in. And again, this impairment was the result of a bottoms-up review of every line item and inventory. It's something that the company does every year typically at the end of the year, we accelerated it to Q2, because of [ph] – those will be adoption (00:30:14) of remanufacturing principles and the realignment of our strategy.
+
+Right. Well, in simple terms, the loss was about the same as the impairment terms. Could you say that if you didn't have that, that you could be pretty much on a breakeven basis EBITDA loss?
+
+I think if you were to look at – and I'd be careful to look at the pre-tax loss of approximately $4 million, $4.1 million for the six months. And if you were to consider those things such as M&A charges of $1.3 million, inventory charge of $1.9 million and $470,000 attributable to a restructuring of a CLO, I think those – that's a fair way to look at that as more of breakeven in the first six months.
+
+Okay. You're not able to say now when you might project on a breakeven basis, so is that correct?
+
+On a GAAP level, I think that's a little bit more difficult. We're very pleased that we generated positive cash flow from operations and positive EBITDA measurement and my commentary indicated that we do expect that in the second half of the year as well.
+
+Okay. Very good. Congratulations, good quarter. Thank you.
+
+Thanks, [ph] Ralf (00:31:36).
+
+Your next question is coming from [ph] Nicholas Kovich (00:31:41). Your line is live.
+
+Good afternoon. I have a question for Mike and Tim. Looking longer term, there has obviously been some radical changes in the company. With the CommAgility acquisition, you've taken the bulls by the horn and have adopted this lean initiative and written off inventories. What are reasonable financial metrics for Wireless Telecom Group that we should expect as investors in the company, looking at two, three, four, five years? What's the stretch goals that management aspires to determine post this acquisition and restructuring or a reasonable return on assets, return on sales, sales growth to try to determine how much earnings and cash flow you can generate as we look out a few years from now?
+
+Sure. So, I point to an investor deck that we published at the time of the CommAgility acquisition and within that deck, we had cited a vision to get over $100 million of revenue in a three-year or four-year period. So, that's one metric. That also articulated a drive to get our EBITDA as a percent of revenue over the 10% mark and closer to the 15% mark. So, I'd use that as one frame of reference.
+
+From a longer-term perspective – I don't have all of your answers on return on assets and return on equity, although we are very carefully developing our own measurements in KPIs internally to ensure we're improving on those metrics. What I would tell you are a couple themes that we continue to repeat that we believe that the growth of private LTE networks is going to be a long-term growth trend that I'd point you to a case study by ABI Research, which was performed on [ph] a part of (00:33:43) UK retailer, which deployed a private LTE network to manage robotic order fulfillment operations. Those kinds of case studies will drive the Embedded Solutions' business and they're quite successful now in winning contracts of fairly sizable names.
+
+Our second orientation is how we are aligning the business to be not just the niche player within Test & Measurement, but the leverage of our brand and have different functionality and attack larger markets, and I think that will create some growth opportunity for us.
+
+And the third thing in terms of the Network Solutions, the orientation to active solution sets and to small cell architecture aligns us to a growth trend that you can see a lot of third-party documentation on the growth expectations for small cell architecture, which follows the densification initiatives by the carriers as they move to 5G, which is another long-term trend.
+
+So, while I'm not going to call out, I'm not prepared to talk about our CAGR out of revenue or profitability line and I hope [ph] we care at (00:34:54) some point to do that, we're just not doing it right now, I do believe we're aligning our sales to the right kind of market trends that will drive continued growth and profitability.
+
+Okay. I agree with you about the small cell build-out, because I was speaking with someone who indicated they were with an engineering group that indicated that the – as they roll out autonomous driving and 5G, we're going to have to increase the data network by factors of 3, 5, 10 times over the next five to seven-years. So, you're in the front of a very large wave that you could benefit from.
+
+So, back to my original question, what do you think you need in terms of R&D sales and marketing and G&A to support a $100 million revenue company? How do you model that? Is it a percent of sales, is it an absolute dollar level that you need to accomplish that?
+
+No, again, [ph] Nicholas (00:36:04), so I'm not prepared to call out numbers. What I do believe that the R&D initiative should continue to be somewhere in the 10 to 12, perhaps even 10 to 15 points of revenue, not that that's how we're planning or projecting. But I believe strongly in a continued investment within R&D to drive both near-term and longer-term initiatives for top-line growth, number one.
+
+Number two, the company's brand, their culture here and DNA is one of engineering, it's engineers throughout the company. And I'm trying to reenergize that, ensure that that remains part of our DNA and that we're seeing strategically agile against those competitors we go head-to-head within the market, which are far, far bigger than us.
+
+And one way to compete in a market with a far bigger competitor is to be more nimble in decision making and quicker to address those opportunities, which may be seen by competitors as too small, while those will contribute significant growth to us. So, that's a couple points on it, though it's not specific in terms of numbers. In terms of operating leverage, I think that's the creation and that's the indication of – I'll give you some examples.
+
+We invested in our iControl portal. The iControl portal had taken orders from customers over the holidays and over weekends. That's the creation of operational leverage. So, I believe thematically that the investment in IT, investment in automation and investment in continued operational efficiency is what will drive our operational leverage going forward.
+
+Okay. One last question, for 2017 and 2018, what do you expect depreciation and amortization to be for the company?
+
+I would call out [ph] as similar (00:38:00) to run rate to what you're seeing for the first half of the year. I don't expect any major increase.
+
+Okay. So, a little over $2.1 million – something like $2.1 million?
+
+Yes. The one thing I'll point out, [ph] in that $2 million (00:38:15) is, is that our purchase price allocation for CommAgility, as I noted in 10-Q is still preliminary. So, we could have some movement on amortization as we finalize the intangibles.
+
+Okay. And what about capital spending for 2017 and 2018?
+
+We haven't [ph] forecast (00:38:37) any numbers. Last year's number, I think is probably a good proxy and how we think about CapEx. That includes both maintenance and investment CapEx, because the comments I made about the belief in investment, I can't expect that it will go down. The CapEx needs of our new Embedded Solutions segment are not significant. So, I think as you evaluate the 2016 period for CapEx, that's a good proxy going forward.
+
+Okay. Thank you very much. Nice quarter. And good luck. Thank you.
+
+Thank you.
+
+Your next question is coming from [ph] Fernando Canto (00:39:17). Sir, your line is live.
+
+Congratulations, Tim and Mike, on a very good quarter. Could you put some more colors on the US Bank Stadium [ph] order (00:39:27) as to how big is it and if we can expect some other stadium to go along with...?
+
+No.
+
+Yeah. We do a number of stadiums. And so, in terms of our Network Solutions order flow, we see approximately 20% of our order flow are what we define as large products, over [ph] 100,000 (00:39:50) in size. The largest of those are the ones that we would contemplate, announcing to the market, although we have not done that in the past and I'm not prepared to announce the exact number right now, but at least that gives you some sizing.
+
+We have done a number of stadiums, both large and small, and that's a part of our business that we're improving our tracking, improving our funnel and metrics within the sales team in part of what we're developing in terms of strategic sales targeting.
+
+All right. Okay. Thank you very much and congratulation again on a very good quarter.
+
+Thank you.
+
+Thank you.
+
+There are no further questions in queue.
+
+Great. Well, again, thank you, everyone for joining us tonight. We're looking forward to speaking to you again after Q3.
+
+Thank you, ladies and gentlemen. This does conclude today's conference call. You may disconnect your phone lines at this time and have a wonderful day. Thank you for your participation.

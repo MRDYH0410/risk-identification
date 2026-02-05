@@ -1,0 +1,284 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+Michael Kandell — Chief Financial Officer, Wireless Telecom Group, Inc.
+Timothy Whelan — Chief Executive Officer & Director, Wireless Telecom Group, Inc.
+Josh Nichols — Analyst, B. Riley Securities, Inc.
+
+Management Discussion Section
+
+Question And Answer Section
+
+Good day, ladies and gentlemen, and welcome to the Wireless Telecom Group Q4 2021 and Year-End Earnings Call. At this time, all participants have been placed on a listen-only mode, and the floor will be open for questions and comments after the presentation. It is now my pleasure to turn the floor over to your host, Mike Kandell. Sir, the floor is yours.
+
+Thank you, operator. Good morning, everyone, and thank you for joining us on today's conference call to discuss Wireless Telecom Group's fourth quarter and full year 2021 financial results. With me today is Tim Whelan, the company's CEO.
+
+Before we begin, I would like to remind everyone on the call that our remarks today could include forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. In some cases, such forward-looking statements may be identified by terms such as believe, expect, seek, may, will, intend, project, anticipate, plan, estimate or similar words, as well as statements that do not relate strictly to historical or current facts. The company's forward-looking statements are based on management's current expectations and assumptions regarding the company's business and performance, the economy and other future conditions and forecasts of future events, circumstances and results.
+
+Forward-looking statements are not guarantees of future performance and involve a number of risks and uncertainties that could materially affect actual results. Important factors that could cause the company's actual results to differ materially from those in its forward-looking statements include those risk factors set forth in the company's 2021 Annual Report on Form 10-K filed this morning with the SEC. The company does not undertake any obligation to update or revise any forward-looking information to reflect changes in assumptions, the occurrence of unanticipated events or otherwise.
+
+Also, we want to point out that in addition to GAAP information, we will provide information relating to certain non-GAAP measures. We believe that presenting these non-GAAP or adjusted measures provides additional meaningful information to investors, which reflect how management views the business. Detailed reconciliations of GAAP measures to non-GAAP measures are set forth in a reconciliation table in our press release issued earlier today and furnished with the Form 8-K filed today with the SEC.
+
+With that, it's now my pleasure to turn the call over to Tim Whelan.
+
+Thank you, Mike, and good morning, everyone. 2021 was one of the most transformational years for the company where we realized growth in revenues, bookings and backlog, gross margins, non-GAAP EBITDA margin and net income. Across the board, we believe every important metric showed not just the recovery from COVID, but an improvement in the long-term health of our business.
+
+Just as importantly, the sale of our Microlab business, which was signed in December 2021 and closed in March, allows us to strategically focus on a more streamlined business. We are exceptionally pleased and thankful for the hard work, resilience and invaluable contributions of our employees and senior leadership team to the success realized in 2021.
+
+Before I turn the call over to Mike to walk us through the financials in more detail, I'll touch upon these further and provide some additional color. First is our revenue growth for the year ended December 31, 2021. Revenues increased 18% on a consolidated basis, almost all of which was driven by the results in our T&M and RBS product groups.
+
+Excluding Microlab, our revenues for Test and Measurement and RBS [ph] represented (04:03) even stronger growth of 31% in 2021 compared to 2020. Revenues were driven by higher legacy Test and Measurement product increases outside of our Holzworth products, which reflects success in three initiatives, expanding our design and program focus in our Noisecom products; successful expansion outside of North America; and third, successful evolution of existing products and new form factors.
+
+We also realized revenue growth in our Radio, Baseband and Software products, which reflects both increases of orders for our legacy digital signal processing cards, but more importantly, we almost doubled software and services revenues over the prior year and we continue to see the success of our quarterly wins and longer-term contracts convert to revenues.
+
+In addition to our revenue growth metrics, we realized solid bookings and backlog increases. We realized a positive book-to-bill ratio of 1.1 or higher in three of our four quarters of 2021. We also had a positive book-to-bill metric for the 2021 full year. Excluding Microlab, we accomplished a positive book-to-bill, which resulted in an increase to our backlog by $2 million.
+
+We entered 2022 with a backlog of almost $9 million, representing nearly a 30% increase to the backlog of Test and Measurement and RBS. The drivers of higher bookings and revenues reflect new products, new markets and an expansion of selling into existing customers across all of our brands.
+
+Booking, backlog and revenue growth are also indicative of larger customer contracts and longer-term design and contracts being closed in RBS, as well as some critical application wins in Test and Measurement. RBS projects are more complex and take longer to close the design and sales cycle. However, RBS projects provide outstanding growth opportunity because they are delivered over a longer period of time and allow us to learn the customer needs more deeply, which creates additional sales and service opportunity.
+
+Since our third quarter earnings, we have announced three customer wins, including SmartSky Networks, which was largely completed in 2021. And 2022 projects, including an ADVA 5G Open RAN project in the UK and HCFL (sic) [HFCL], a specialized small cell provider in India.
+
+In Test and Measurement, we have realized multiple six-figure and a number of seven-figure wins for custom noise generation solutions in satcom applications, directed energy weapons, and semiconductor development. Our wins also included synthesizer solutions for the defense sector and semiconductor test and critical calibration equipment for the military. These are large, global, blue chip demanding customers who trust us to provide essential equipment for R&D and manufacturing, as well as mission critical applications.
+
+RBS and T&M backlog at year-end was $9 million, one of the highest metrics in recent years. While it does not guarantee a full year outcome, it provides a solid starting point to the year, which is coupled with our belief in the long-term growth drivers of increasing investments in satellite solutions, military and defense and 5G private network growth.
+
+Below the revenue line, we increased our consolidated gross margin Below the revenue line, we increased our consolidated gross margin in 2021 by another 700 basis points to 50.9%. We established exceeding 50% as one of our strategic KPIs and as part of our long-term strategic plan and roadmap, underscoring our actions to drive higher margin products, software and services.
+
+Just as importantly, in RBS, gross margins have sustained at above 50% year-over-year and increased from 42.5% in 2019 to 52.5% in 2021, reflecting the success, driving higher margin software and service revenues.
+
+In Test and Measurement, we realized our fifth straight year of gross margin increases, accomplishing 57.5% gross margins in 2021, which compares to 55.2% in 2020, 54% in 2019 and below 50% in 2017 and 2018. We believe this also underscores our long-term strategic success, introducing new products with higher margins, continued success with our design initiatives, which provides higher margin and stickier revenues, and also focusing on specialty solutions which have less price pressure.
+
+Revenue growth combined with gross margin expansion also drove higher net income and higher GAAP adjusted EBITDA. Our 2021 EBITDA reflects a 100% increase over last year's EBITDA, and a strong contribution as we think about a second year of challenging market conditions and continuing COVID concerns.
+
+Strong profitability was driven by continued top line focus driving revenue increases, expanded gross margins, continued expense control initiatives, and sustained R&D to drive future growth opportunities. Finally, the Microlab transaction was a significant and transformational transaction for the company. It allowed us to pay off our debt and the net proceeds added $18 million of cash to our balance sheet. A strengthened balance sheet allows us to seek both organic and inorganic opportunities, as well as seek ways to unlock shareholder value. This transaction also strongly reflects our commitment to evaluating all opportunities to drive shareholder value.
+
+The Microlab transaction also allowed us to reorganize our leadership team to best capitalize on compelling trends that are underway across our global markets. As a result, Alfred Rodriguez will lead our RBS business as Segment General Manager, and Dan Monopoli will lead our T&M business as Segment General Manager. Both Alfred and Dan are exceptionally skilled leaders and executives with deep expertise within their respective products and markets.
+
+With that, I'm going to turn the call over to Mike to walk us through the financials.
+
+Thank you, Tim. Good morning again, everyone. I'll review the results for the 12 months ended 2021 and then comment on our balance sheet as of December 31, 2021. All P&L comparisons are on a year-over-year basis and balance sheet comments are as of December 31, 2021, compared to year-end December 31, 2020, unless otherwise noted.
+
+The financial statements for fiscal 2021 and 2020 include the results of Microlab. Consolidated revenue for 2021 increased $7.5 million or 18% from the prior year period. RBS revenue increased $5.3 million or 150% on higher sales of our digital signal processing cards, and software and services revenue due to new customer contracts.
+
+T&M revenue increased $2.1 million or 10% due to new product introductions, improved demand generation activities, and a rebound in customer spending, particularly internationally due to relaxed COVID restrictions.
+
+In RF components, revenues were flat with the prior year. Consolidated gross profit increased $4.1 million from the prior year on higher revenues at T&M and RBS. Consolidated gross profit margin increased marginally as higher gross profit margin at T&M was offset by lower margins at RFC and RBS due to mix.
+
+Specifically, RBS margin was impacted by a higher concentration of service revenue in 2021, which means more of our labor costs for software engineers are classified as cost of revenue rather than R&D.
+
+Turning the operating expenses, consolidated R&D expenses decreased $839,000 or 13.1% from the prior year because of lower third-party material and consulting expenses, primarily related to our RBS and T&M product groups and the aforementioned higher classification of labor costs and cost of revenue rather than R&D due to more service contracts in 2021 than 2020. This was only partially offset by unfavorable foreign exchange impacts.
+
+Consolidated sales and marketing expenses increased $214,000 or 3.1% due to higher commissions expense and unfavorable foreign exchange impacts. Consolidated general and administrative expenses increased approximately $2 million or 19.8% due to higher salaries and benefits due to increased head count, higher professional fees associated with the Microlab divestiture, and consulting and other fees associated with our strategic review process.
+
+This was only partially offset by lower stock-based compensation expense due to the reversal of expense associated with certain performance-based stock options. Additionally, within operating expenses, we recorded a non-cash impairment charge related to an indefinite lived intangible asset as part of our annual review process and a loss on changing contingent consideration of $386,000 related to the year two Holzworth earn-out.
+
+The year two earn-out is based on the financial results for fiscal year ended 2021 and is payable in 4 equal installments beginning in March of 2022. Holzworth's full year 2021 forecasted financial results have exceeded our initial estimates and, accordingly, we recorded this charge through the P&L as a measurement period for purchase accounting is closed. The year two earn-out is the final earn-out payment due under the Holzworth stock purchase agreement. Our total Holzworth earn-out accrual as of December 31 is $3 million and is payable quarterly in 2022 in either of cash or stock.
+
+In 2021, we also recorded a gain on extinguishment of our PPP loan as the loan was forgiven in the second quarter. Other income and expense decreased $117,000 from the prior year due primarily to lower gains on foreign exchange transactions and other asset sales. Interest expense increased $158,000 from the prior year due primarily to our term loan with Muzinich.
+
+Overall, we generated net income in 2021 of $1.5 million as compared to a net loss of $8.1 million in the prior year due to higher gross profit and lower impairment and contingent consideration charges, and the gain recognized on extinguishment of the PPP loan in the current year, which were only partially offset by higher interest expense and a lower tax benefit in the current year. Non-GAAP adjusted EBITDA was $3.7 million for 2021 as compared to $1.8 million in the prior year period, due primarily to higher income from operations.
+
+Turning to the balance sheet and cash flow, we generated $4.6 million in cash from operations in 2021, made $4.2 million in term debt payments and $1.1 million in contingent consideration payments in 2021 and had zero outstanding under our revolver as of December 31. On March 1, we closed the previously announced divestiture of Microlab. At close, we received $23.9 million in cash proceeds, of which $4.2 million was used to pay the outstanding principal and accrued interest related to the Muzinich term loan, $700,000 was used to pay the outstanding principal and accrued interest and fees related to the Bank of America credit facility, and $486,000 was used to pay our advisors.
+
+Overall, we received approximately $18 million in cash to the balance sheet at close. Both the Muzinich and Bank of America credit facilities were terminated on March 1. In Q1 of 2022, we expect to classify the stub period results of Microlab as a discontinued operation. Additionally, we expect to add additional disclosure around the T&M and RBS business units.
+
+I'll now turn the call back over to Tim for some closing remarks.
+
+Thank you, Mike. Going forward, we intend to manage and organize the business as two discrete operating segments, Test and Measurement, and Radio, Baseband and Software. We continue to manage and work on operating expense reductions, which have been built into our budgetary targets, but we are also mindful of the inflationary environment and counteracting cost increases. We are committed to a lower OpEx result and are working hard to get there.
+
+In Test and Measurement, we expect to see continued traction and growth opportunity in satellite communications, increasing military and defense spend, and continued success in our ability to sell into quantum computing applications and semiconductor test environments. We believe the investment growth themes in those sectors, coupled with our backlog gains, position us for opportunity for continued top line growth in 2022. In RBS, our funnel remained strong for 5G private network solutions, research projects, and specialized small cell projects. We believe 2022 will continue to reflect improved demand for our 5G software and services, driven by increased investments into 5G private network solutions over the next several years.
+
+Our degree of EBITDA profitability will depend upon the timing of our larger RBS projects in our backlog and funnel and the resulting timing of revenue recognition. With the carve-out of Microlab, we remain committed to driving top line growth and improved profitability in the remaining two segments.
+
+Last, we are keeping an eye on the situation in Ukraine and our hearts go out to those impacted by war. As of now, only one project was impacted, as we noted in this morning's release. While there appears to be a limited short-term impact on the business, longer term, this may lead to a more bullish growth opportunity if this results in higher military spend for the US and our NATO allies. We are also carefully watching our supply chain and input costs. And we are working hard to navigate those continued challenges.
+
+Overall, we are excited by the direction we are headed. We expect 2022 will demonstrate the benefits of our strong capital position and streamline business as we pursue growth opportunities across our compelling global markets.
+
+Thank you and, operator, you may open the lines for questions.
+
+Thank you. [Operator Instructions]
+
+[Technical Difficulty] (19:34-20:15)
+
+...5G LTE investment cycle this year and the opportunities that provides for the company. Are you seeing a significant ramp-up already? Do you think that's going to be something that happens next year? If you could elaborate a little bit that would be appreciated.
+
+[Technical Difficulty] (20:32-23:40)
+
+Ladies and gentlemen, the speakers are reconnected. Josh from B. Riley, if you could please repost your question. Apologies for the delay, ladies and gentlemen.
+
+Yeah. Thanks for taking my question. I was just wondering if you could elaborate a little bit on what you're seeing in terms of the 5G investment cycle and the implications that could have for this year on the Test and Measurement business and RBS and the opportunities that that presents?
+
+Sure. Thank you for that, Josh. Good morning. So in Q4, we announced two wins and we've been on a pace of about one win per quarter. We're certainly seeing some additional activity in the funnel. We were very enthused being back at Mobile World Congress this year. In that conference, we presented our 5G base station reference platform as well as our DU card, which is a part of the technology building blocks in the open radio access network architecture. So, those solutions were well received and attracted the attention we're hopeful for. So, while the environment does remain fluid, we're definitely seeing activity within the global markets, and we think that spend will remain strong over the next several years.
+
+Thanks. And what are the – I guess if you were to kind of think about the one or two biggest opportunities in terms of software sales for this year, next year, that could really move the needle. Is there something that you're already working on or had in mind? Or what are some of the opportunities on that front to build that that base of where it is today to a much more kind of meaningful and high contribution margin?
+
+Sure. I'll reflect on the two that we've announced, one is which with GENEViSiO which builds that. They're a Taiwanese OEM specializing in telecom infrastructure. So, they're going after that market, which is the private network 5G buildout. And that brings together the NXP Layerscape platform as well as our software.
+
+So, as the world is moving and you're seeing some of the headlines of much larger enterprises starting to build out 5G private networks, we think that's going to continue and we're enthusiastic about the growth curve there and the potential market opportunity.
+
+The second is the HFCL. HFCL is an Indian telecom company. They're looking to deploy a 5G indoor small cell solution in a specialized fashion as they think about what's referred to FR1 and FR2. So, again, we're partnering with them. And as more of the 5G private networks get build out, we think that creates that opportunity for us to continue to enlarge our opportunity.
+
+Thanks. And then I know that there has been a lot going on with the supply chain. Have you seen much impact to your business or what's the company doing to kind of mitigate any of those potential headwinds?
+
+Yeah. So, two observations there, Josh. One is the extension of lead times, lead times from 20 weeks of extended to 52 weeks. That's causing us to rethink how much inventory we stock, and we're starting to increase the amount of inventory we've positioned to provide for that. Second, costs are clearly increasing for hard to get components, and those cost increases are far beyond just percentages. We're seeing multiples. So, certain components that used to cost $15 going to certain boards in our T&M solutions now cost $600 just to give you one example of the magnitude of the shift.
+
+Right now, it's not enough for us to change how we think about our gross margin profile because within Test and Measurement and RBS, there's a level of pricing power that we also have. And so, we're trying to take a balance of buying ahead of time, increasing our inventory orders and accelerating some purchasing, as well as passing on price increases. So, we're certainly seeing the impact. We're spending a lot more cycles in managing and increasing the visibility on a week to week. And we feel we'll be able to manage it reasonably well at this time.
+
+Thanks for clarifying. And then, could you talk a little bit on a pro forma basis, so the Microlab business is going to be moved to discontinued operations. So, you'll effectively become a two-segment company. But I think the one – there's an idea for the margin profile that should be accretive but what's the expectation on the OpEx front for how that's going to change?
+
+Yeah. So Josh, we're – we've initiated a bunch of OpEx reductions as part of this year's planning cycle, so obviously there are certain OpEx expenses that are going with Microlab. And in addition to that, there's things we're looking at to be more efficient here. So, we do expect the OpEx obviously to decline going forward.
+
+I guess, is it fair to assume that you would kind of maintain profitability, right? Or is that going to change a little bit?
+
+Obviously, we're managing the business to be profitable. That's going to be dependent on several things. The biggest of which is some of the volatility that we're seeing with our big RBS contracts and the complexity of the revenue recognition with each of those. These are big seven-figure type deals with complex deliveries and milestones and complex revenue recognition. So, that's going to impact our profitability going forward.
+
+Great. Thank you.
+
+Great. Thank you, Josh.
+
+Thank you. [Operator Instructions] And the next question is coming from [ph] Nick Ritastola (30:16). Nick, your line is live. Please announce your affiliation and post your question.
+
+Good morning. Happy St. Patrick's Day to everyone.
+
+Good morning, Nick. Thank you. Same to you.
+
+Yeah. And, Tim, good luck with our Wildcats.
+
+Very good. Thank you, Nick.
+
+Okay. Okay. So, I have a bunch of questions. First of all, can you break out the revenue for RBS like software versus services in fourth quarter?
+
+So, Nick, within the 10-K, I'd point you to the disaggregated revenue footnote. It's not on the quarter. But if you look at for the 12 months ended December 31, the software licenses were about $1.9 million and the services were about $3.8 million. Of that $3.8 million, there is some calibration services for T&M within that number, which is generally between $1.3 million and $1.5 million.
+
+Okay. Okay. So, as the fellow there from B. Riley asked, the cost structure going forward, can you say right now with any certainty that you're going to generate cash this year without buying anything?
+
+Yeah. So, we're managing the company to be profitable and to generate cash flows. One of the big things that is going to impact our cash flows from a working capital perspective or two big things, as Tim mentioned, one is the severity of these lead times and the supply chain issues that we have, to the extent that we determine we have to increase our inventory levels significantly for these hard-to-find components or long lead time components, that's going to drive our inventory up.
+
+And then the second is, is the RBS projects, in addition to being complex from a rev rec perspective, they also tend to have disproportionate cash flows, meaning that if we can negotiate cash up front, we do that and it shows up as deferred revenue. But if negotiations are hard and cash is collected at the end of the project, that increases our unbilled receivables, so that is going to impact our cash flow going forward.
+
+Right. But in other words, do you have any degree of certainty that you're going to generate cash this year? I mean, what can you...
+
+We're operating – yeah, Nick, so we're operating on a budget that's targeting EBITDA profitability, that's for sure. I think what we called out is that there's a couple large close to seven-figure, multiple seven-figure contracts within RBS which are in the funnel and where we remain confident of the outcome, but the timing is less certain because our customers are still themselves building cases around the technology building blocks. And so we feel comfortable in our position in call it the stack of technology providers. But the timing of these large deals in terms of closing and then the deployment of that is still a little uncertain. But we're certainly running the business internally. Our budgetary targets are certainly designed to drive for EBITDA profitability at year-end.
+
+Okay. By the way, CommAgility, so are they all located over in the UK still? Or if I'm ignorant about that...
+
+No.
+
+Is that...
+
+No. Yeah, no. A good portion of them are, call it 40% to 50% of the people are there, another 40% in Duisburg, Germany location and the rest are around the world.
+
+Okay. So, is there anything with regard to OpEx that can kind of – just the word I'm looking for is affect or – CommAgility being located in the UK or anything, is there any way to consolidate that peak?
+
+No, we don't think there's necessarily a downside. I mean, being a distributor like that allows us to have deep relationships and customer contacts. Just think about one of the large wins that we announced in Q4, which was with a company called ADVA, but it was a UK funding. And so, our ability to have a presence in the UK positioned us for that win. Previously, we've won a German research project for 5G car connectivity, and we're winning business around the world. So, I think it's a good thing that we have people in different technology hubs and presence around the world. I think it benefits us.
+
+Okay, that's fine. And then, Tim, like when we had our conversation, I really would like to understand better. And maybe you can do, highlight it more, the software business that you have. What is special about it? Because, look, there's lots of big, big companies, you know...
+
+Sure.
+
+...that could front – I just get the fear that they could crush you like a bug. So, I would like to hear from someone, maybe Mr. Rodriguez or something and try to understand, I mean, why...
+
+Yeah. We could...
+
+...your solutions are superior. Like, for example, SmartSky Networks put out a nice release. I don't know how much the revenue was for that, but for some reason they chose your solution. I think we need to demonstrate to holders what it is, why this is a shining star?
+
+Sure. So, I'll make two remarks there. The software is typically comes in seven stacks so layer one through layer seven, that includes the five layer, which is the closest to the silicon, the physical layer. It includes the protocol layers and then it includes the application layers, which is designed for really what the end application is. We specialize in L1 to L3 software. That's where we distinguish ourselves. The first key point.
+
+Second key point is that we partnered and collaborate with NXP Semiconductors. And so, we're working to collaborate so that our software is working on NXP Layerscape platform. That silicon partnership has been beneficial to us and has led to mutual sales engagements. We are distinguished amongst that L1 to L3 specifically in the L1 stack in our collaboration with NXP. That's one key point.
+
+The second thing that we – the second key takeaway to your question is how, by having that expertise, we can then specialize in the end applications to allow the software and the silicon to work as designed in a specialized application. So, we don't go after the end markets, which are defined by millions of units. That's more of a Qualcomm solution. We go after those that are defined as hundreds or perhaps thousands of units, which is what the SmartSky solution is. And we've also solved for the, what's called the Doppler shift.
+
+So, the current standards require a signal to be handed off at up to speeds of approximately 200 miles per hour. But if you have devices moving at speeds faster than that, there has to be adjustments to the software that allows the silicon to work. And so, those are just two key takeaways of how we're specializing in niches and competing against providers that either have not solve those problems or not interested in the space that's defined as less than millions and tens of millions of end units.
+
+Okay. That's fair enough. Again, everybody, I guess, hopes that we're going to see some evidence in these contracts at some point this year where this – it'll manifest into revenue. Okay, one other thing, by the way...
+
+Just, Nick, on that point, I think one of the key points we called out is the increase in the backlog. So, that's already manifesting itself in terms of our bookings and increasing backlog.
+
+All right. Fair enough. By the way, on the Holzworth, what was the [ph] then (38:42) final price?
+
+About $13.5 million, Nick.
+
+Okay. So, how much – look, I'm just curious. Are you going to pay the balance with cash or stock?
+
+We have the option to pay with cash or stock. And I think we'll make that decision in each of the quarters coming forward, each in the next four quarters. Certainly with a greater cash position on our balance sheet, we have greater flexibility in terms of how we think about that.
+
+Okay. Well, I just – with a stock at $1.80 whatever, and cash $18 million or whatever, I don't know why you would use stock at these levels. But I guess, yeah...
+
+I agree...
+
+It's a small amount. It's not big.
+
+Yeah. No, I agree with you.
+
+Okay.
+
+Yeah.
+
+Okay. I don't want to take up all your time, but I just – one thing and I mentioned this to Tim. I have – I've been doing this for 30 years and it's not this positive all the time, but I don't understand why there's not more insider buying by board members. I own more shares than some of the board members. It's not right. And I mean, I understand everybody has their own thing, but it really does send a signal. I've been doing this a long time, and I just encourage anyone that if you think it's a bargain, the old cliché is insider sells for lots of reasons, but they buy for only one. And over my many years of doing this, it works. But I don't need to convince you either you see the value and that's that.
+
+So, Nick...
+
+And by the way...
+
+...one comment on that. The board and management, we are subject to an insider trading policy, which includes blackout periods where we are forbidden from trading in the stock, which...
+
+Yeah, well, when there's not a blackout.
+
+When you look at the whole of the year, there's more blackout periods than there are open windows just especially given a period of time when we're negotiating a transaction, Nick. And you'll recall that I have made significant purchases of stock, so I am a significant shareholder. So but...
+
+I understand.
+
+Nick, thank you.
+
+Okay.
+
+I appreciate it. We do hear you and appreciate that feedback, though. Thank you.
+
+Okay. On the other question I have is, can you give us a sense of timing in terms of – I'm sure you're looking at things I'm sure you're looking at things to buy, acquisitions. But as I said to you, Tim, when you go back and you look at CommAgility, I mean, this is a company with a $40 million market cap now, WTT, and look at what you paid CommAgility. And again, the future may be bright but if you look at what it's worth now just did not build value, that acquisition. So, I think in general, shareholders might be nervous that we're going to go down that road again of buying something and destroying value. So, can you assure us?
+
+Nick, I think – listen, Nick, I think CommAgility acquisition generated significant EBITDA cash flow. In the early years, the hardware declined at a faster rate than anticipated. But we went into that eyes wide open and we're excited about the software opportunity that's building today. So, we're still very...
+
+But wait a minute, wait a minute, you spent $19 million...
+
+We're still very bullish about that acquisition. We are optimistic about the opportunities ahead. The EBIT results do not include the cash tax refund we get at the end every year from that, and we feel very good about the opportunity. So, as we think about the future as we said in our press releases, we're going to remain committed to looking at the use of cash and use of excess cash and how we think about acquisitions going forward.
+
+Okay. But not to argue the point but you paid $18 million on a market cap the whole company [indiscernible] (43:04) looked at what you paid for Holzworth, doing well...
+
+We didn't pay $18 million for CommAgility, Nick. We pay $14.6 million.
+
+When it was all said and done with cash and stock, wasn't it higher than $14 million?
+
+No.
+
+Okay. All right, I stand corrected. But still, if those value – four years ago, if it's still worth $14 million or $15 million, then go through the math of what Holzworth worth, what cash you have and what that's worth? You ought to be buying back stock left and right. In other words, something doesn't...
+
+Nick, I definitely get it. We hear you. We do appreciate your feedback. We're very, very contemplative as we think about acquisitions. We have a deep diligence process. We have a gated process with our board. We're very, very careful in how we do our acquisitions. We're very pleased with the two that we've done. We think that the growth opportunity ahead for CommAgility has allowed the company a tremendous opportunity that didn't exist a few years back.
+
+We're also very pleased with Holzworth. Keep in mind, we have almost doubled the revenue from the Holzworth business. And that's opening new opportunities for us as we think about common customers where we have been successful leveraging other brands into the Holzworth customers, and also leveraging Holzworth solutions into our existing customers.
+
+So I definitely hear you, Nick. I definitely appreciate...
+
+I agree.
+
+...the feedback.
+
+I agree what you're saying, that makes good point. So, just the final point, and I'll let you go. I appreciate this time. What are you going to do in terms of getting additional – I know it's a microcap, but additional research coverage or going out and telling the story? Because you've just laid out a story again where if you did a sum of the parts on this company, it doesn't make sense or we're missing something.
+
+I agree about sum of the parts valuation shows that there's a gap in the current valuation in the market, so I definitely agree with that...
+
+And that's what share repurchase is.
+
+Key point two, Nick, is that we are working on analyst coverage as we always have. It's always a challenge as a as a small cap or even a microcap. But as we think about the transaction of Microlab just getting closed, we are now working hard to see what we can do to extend some of that analyst coverage. So, again, we get it, Nick. We're working on that amongst many other things, and we hear you and again, appreciate your feedback.
+
+Okay. Well, I do appreciate your time and good luck. This is a long-term situation. But shareholders would like to just see some more manifestation of these good things. And by the way, if there's a gap that you believe between the value of the company and the share price, that's exactly what share repurchases are meant for. So, I'll leave it at that.
+
+Very good. Thank you, Nick.
+
+All right. Thanks.
+
+Thank you. And there were no other questions in queue at this time.
+
+Great. Thank you, everyone, for joining us today. We look forward to speaking you again in the near future. Have a great day.
+
+Thank you. Ladies and gentlemen, this does conclude today's conference call. You may disconnect your lines at this time and have a wonderful day. Thank you for your participation.

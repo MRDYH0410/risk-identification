@@ -1,0 +1,200 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+Michael Kandell — Chief Financial Officer, Wireless Telecom Group, Inc.
+Timothy Whelan — Chief Executive Officer & Director, Wireless Telecom Group, Inc.
+Michael D. Potter — Analyst, Monarch Capital Group LLC
+
+Management Discussion Section
+
+Question And Answer Section
+
+Good morning, ladies and gentlemen, and welcome to the Q1 Earnings Conference Call. At this time, all participants have been placed on a listen-only mode and we will open the floor for your questions and comments after the presentation. It is now my pleasure to turn the floor over to your host, Mike Kandell. Sir, the floor is yours.
+
+Thank you, Matthew. Good morning, everyone, and thank you for joining us for our first quarter 2020 earnings call. Before we begin, I would like to remind everyone on the call that our remarks today could include forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. These statements can be identified by the fact that they do not relate strictly to historical or current facts. The company's forward-looking statements are based on management's current expectations and assumptions regarding the company's business and performance, the economy and other future conditions and forecasts of future events, circumstances and results. Forward-looking statements are not guarantees of future performance and involve a number of risks and uncertainties that could materially affect actual results.
+
+Important factors that could cause the company's actual results to differ materially from those in its forward-looking statements include those risk factors set forth in the company's Annual Report on Form 10-K filed with the SEC. The company does not undertake any obligation to update or revise any forward-looking information to reflect changes in assumptions, the occurrence of unanticipated events or otherwise.
+
+Also, we want to point out that in addition to GAAP information, we will provide information relating to certain non-GAAP measures. We believe that presenting these non-GAAP or adjusted measures provides additional meaningful information to investors which reflect how management views the business. Detailed reconciliations of non-GAAP measures to GAAP measures are set forth in a reconciliation table in our press release issued earlier today and furnished with the Form 8-K filed today with the SEC.
+
+I will now turn the call over to Tim Whelan, our Chief Executive Officer.
+
+Thank you, Mike. Good morning everyone. Thank you for joining us. Before we begin, I'd like to express to everyone our best wishes for your continued health and safety as well as thank our employees for their incredible spirit, motivation and resilience during these uncertain times.
+
+We are focused on taking care of our employees and customers and their well-being and safety are our top priority. We've made a number of adjustments to how we conduct business and we are proud to be able to continue maintain operations as an essential business serving the needs of critical communications in the defense industrial base. These operational adjustments have included mandatory work from home arrangements for approximately 70% of our workforce. And for those with jobs that require physical presence in our facilities, we have made a number of adjustments in accordance with state and CDC guidelines for mitigation and prevention, including flexible work arrangements, staggered workforce schedules, increased cleaning and sanitizing and spacing workstations and workflow.
+
+We are incredibly proud of how our employees continue to demonstrate creativity and innovation, adjusting to new routines while serving our customers, solving problems, and contributing to our mission. We continue to see the same high-level energy, positivity, and enthusiasm in our workforce and we are so thankful for their contributions.
+
+Turning to our Q1 report. Our Q1 2020 results were as expected. With decreased revenues following lower bookings and backlog exiting 2019. We anticipated these declines in revenues coming into the year, made a number of adjustments in late 2019 and early 2020 to reduce expenses across cost of sales and operations. Because of this, we're able to show improved gross margins as compared to Q1 2019 as well as lower GAAP OpEx and non-GAAP OpEx expenses. Mike will go through our numbers in greater detail in a moment.
+
+With regard to Q1 order flow, we mentioned to you in 2019 year-end call on March 17, we expected improved order flow in the first quarter, which included some large projects originally anticipated in the previous year. These included customer projects we announced for Raymond James Stadium and SoFi stadium.
+
+We were also pleased with sales progress of new products with initial sales of our new public safety SMART Coupler solution and our designed in Noisecom specialized noise sources. Net, we ended our March 31, 2020 quarter with bookings of $10.4 million which included $1.6 million of new orders from Holzworth for the three months ending March 31. These booking results showed some modest improvements to our existing products, excluding Holzworth, as compared sequentially to our Q4 sales bookings of $7.7 million.
+
+We also saw other various COVID-19 related impacts to Q1 with respect to our funnel of opportunities, including canceled projects, delayed decision dates and extended evaluation periods. With the cancelation of a number of important tradeshows, we also believe the ability to showcase our products has added new challenges and efforts for new opportunity identification.
+
+We also realized a decrease in our run rate business of smaller orders where we typically have little visibility which we assume have been impacted by stay-at-home orders. And last, we also realized delays for scheduled shipping dates for projects in backlog due to unexpected delays in the supply chain, which we believe were caused by stay-at-home orders.
+
+Turning to some strategic initiatives. In Q1, we successfully closed on our acquisition of Holzworth Instrumentation on February 7. We believe that Holzworth's specialty phase noise analyzers and signal generators are an ideal fit with our Test and Measurement solutions, and these new products have been warmly welcomed by our sales reps and sales channels. Holzworth products are used on the cutting-edge of technology research, development and production and used by blue-chip customers in research and automated test environments. We are quite pleased with the progress of our integration efforts and the $1.6 million of new bookings of Holzworth solutions in the three months ending March 31.
+
+With respect to our longer-term R&D efforts, new product introduction and other long-term milestones, we are pleased with our progress since the beginning of the year. In January, we announced new Boonton Wi-Fi chipset characterization measurements as well as our collaboration agreement with NXP for 5G new radio platforms. We are very excited about this collaboration with NXP and believe it will increase the visibility of our software capabilities and number of opportunities in our funnel.
+
+In February, we announced our new ultra wideband RF conditioning components used for network densification and 5G deployment. In March, we showcased our end-to-end solution test for satellite communications, which demonstrated the power of our integrated solutions across all of our brands. And more recently, here in Q2, we announced our release of our 5G ref chain software to enable 5G small cell development. And in just the last few weeks, we have signed a new customer for a 4G software transportation application.
+
+This win underscores the value of the investments in our CommAgility 4G and 5G software road maps as well as the continued value of 4G LTE software solutions as we expect customers will be at different stages of readiness and adoption for 4G and 5G applications and investment. So netting it out, we believe the company's strategic positioning over the longer term has a brighter outlook as compared to the environment we are in today with the uncertainty around COVID-19, and we remain confident in our strategic focus on long-term themes of growth, including network densification, 5G investments and growth of Test and Measurement solutions enabling the future of wireless technology.
+
+We have some concerns over the uncertain impact of COVID-19 on the near term, including the difficulty in predicting timing and close of the funnel of opportunities. And we will continue to keep monitoring the impact on our supply chain and customers and make adjustments as needed. As always, our employees' well-being and health will be our top priority and their safety will continue to guide our decisions.
+
+With that, I'm going to turn the call back over to Mike to walk us through the financials.
+
+Thank you, Tim. Good morning again, everyone. Before I begin, as a reminder, our first quarter financial statements include the results of our newest acquisition, Holzworth Instrumentation, Inc. from the date of acquisition, which was February 7. Holzworth results are included in our Test and Measurement segment.
+
+Consolidated revenues for the first quarter of 2020 were $9.4 million, which was a decrease of approximately 28% from the first quarter of 2019. Embedded Solutions revenue decreased $2.8 million or 67% from the prior year. As we disclosed in February, demand from our largest customer for our digital signal processing hardware cards has significantly declined from prior years. And this was the cause of the Embedded Solutions revenue decline in Q1.
+
+Network Solutions revenue declined $1.5 million or 26% from the prior year to the lower RF passive component demand and partially due to COVID-19 pandemic, which impacted our international supply chain for this segment. Test and Measurement revenue increased $700,000 or 24% due to the inclusion of approximately $970,000 of Holzworth revenue, which offset declines in our noise source products and components which declined year-over-year. We believe the Test and Measurement revenue was also impacted by the COVID-19 pandemic as order flow from our international Test and Measurement customers declined significantly in the second half of the quarter.
+
+Consolidated gross profit declined $1.3 million from the prior year due to the overall decline in revenues. Gross profit margin increased year-over-year from 43.9% to 47% due to favorable product mix at Network Solutions and cost savings initiatives, which we implemented entering fiscal year 2020.
+
+Turning to operating expenses, consolidated R&D expenses decreased to $136,000 or 8% on lower head count, primarily at Network Solutions and Test and Measurement due to cost reduction actions in early 2020. This was only partially offset by higher third-party R&D costs specifically related to our 5G product initiative at Embedded Solutions and the addition of Holzworth R&D expenses from the date of acquisition.
+
+Sales and marketing expenses decreased $220,000 or 11% due primarily to cost reduction actions, offset by the addition of Holzworth sales and marketing expenses from the date of acquisition. And general and administrative expenses were flat from the prior-year period as reductions due to cost savings actions were offset by the addition of Holzworth general and administrative expenses and certain non-recurring acquisition costs.
+
+Overall, consolidated operating expenses for the first quarter of 2020 were $5.8 million, which is a decrease of approximately $343,000 from the year-ago period. At a high level, this breaks down as follows. Holzworth contributed approximately $400,000 in operating expenses from the date of acquisition. This was offset by an approximately $700,000 reduction in operating expenses from last year for the base business, which was primarily the result of our cost and expense reduction activities entering 2020. Other income increased $200,000 from the prior-year period due to foreign exchange transactional games at CommAgility and interest expense increased approximately $110,000 from the prior year due to interest expense at our new term loan facility used to finance the Holzworth acquisition.
+
+Our net loss for the quarter was $1.1 million as compared to $300,000 in the prior year. Non-GAAP adjusted EBITDA for the quarter was a loss of approximately $300,000 as compared to earnings of $353,000 in the prior-year period.
+
+Turning to the balance sheet, consolidated cash as of March 31, 2020 was $3.2 million and short-term debt was $2 million. In February, we financed the Holzworth acquisition by entering into a new term loan facility in the amount of $8.4 million with Muzinich BDC. We also granted warrants to Muzinich for the purchase of 367,000 shares of common stock at an exercise price of approximately $1.39 per share.
+
+As of March 31, the long-term portion of the term loan is reflected on our balance sheet, net of debt issuance costs of approximately $830,000 and the fair value of the stock warrants of approximately $150,000. Additionally, our balance sheet reflects the preliminary purchase price allocation for the Holzworth acquisition, including the addition of approximately $4 million of goodwill, $3.5 million in intangible assets and accruals for deferred purchase price payments and the fair value of estimated earn-out payments totaling approximately $2.4 million.
+
+Lastly, as previously reported and as noted in our Form 10-Q filed this morning with the SEC, on May 4, the company received a loan in the amount of approximately $2 million under the Paycheck Protection Program of the 2020 Coronavirus Aid, Relief, and Economic Security Act administered by the Small Business Association. The loan has a 1% interest rate and a term of 24 months and maybe forgivable under the terms provided under the Paycheck Protection Program. The company intends to use the proceeds of this loan for the purposes outlined under the program. We intend to apply for forgiveness of all the loan, but we can provide no assurance that the loan will be forgiven in whole or in part.
+
+At this time, I'd like to turn it back over to Tim for some closing remarks.
+
+Thank you, Mike. With regard to future outlook and financial expectations, while we feel better about the coming quarters as compared to Q1 for revenue outlook, there is still too much uncertainty to provide estimates of expectations. The impact of COVID-19 on our funnel and backlog has been unexpected and sporadic, and the volatility of changing information and project timing has clouded our ability to provide reasonable predictability.
+
+On a longer term basis, we are highly excited about our strategic direction and future. We've built a larger company to address the mission critical and specialized needs across the development test and deployment lifecycle of wireless communication. We have invested and focused on three important themes of growth and continue to build the company, we believe, will be resilient enough to withstand COVID-19 uncertainty while aligned to future growth and improved profitability.
+
+Wireless Telecom Group is an essential business serving the critical needs of our customers, and we are an important provider in the defense industrial base. Our employees are highly engaged and motivated and the leadership team is energized, excited and empowered to drive success.
+
+Thank you. And operator, if you could please open the lines for questions.
+
+Certainly. The floor is now open for questions. [Operator Instructions] Your first question is coming from [ph] Fernando Canto (16:16). Your line is live.
+
+Good morning Mike and Tim.
+
+Good morning.
+
+Good morning, Fernando.
+
+Do you have any idea what was the revenue loss because of the COVID-19 in the first quarter?
+
+It's hard to exactly identify that because in certainly, a number of instances, we understand projects were pushed out and in a few instances, supply chain was delayed. In many other instances, we don't get the exact explanations for the delay of supply chain shipments or why customers move timing. So it's difficult to pinpoint the exact number of the impact.
+
+But you will consider it to be material right?
+
+I believe our Q1 results were materially in line with our expectations, correct.
+
+Okay. Have the backlog increased as of today versus the $4 million that you reported for this first quarter?
+
+Our backlog today is fairly consistent with how we think about at the end of March 31.
+
+All right. Thank you very much.
+
+Thank you, [ph] Fernando (17:30).
+
+Thanks Fernando.
+
+Thank you. Your next question is coming from Michael Potter from Monarch Capital Group. Your line is live.
+
+Hey guys. Just a...
+
+Good morning, Mike.
+
+Good morning. Good morning. [indiscernible] (17:44) everybody is doing well and being safe. Just a couple of questions, Tim, the pipeline, we had a couple of good wins in the, I guess, first four months of this year and most of those were from the pipeline of 2019, which I think we had nine orders of over a $1 million, which all got pushed out and can you give us kind of a status of where that current pipeline is? How it's changed to some degree? And has it – have we added more customers through that pipeline?
+
+Sure. So our pipeline today, if anything is slightly more robust on a consolidated level and certainly, much more robust as we think about Embedded Solutions in CommAgility and that's where we're most excited, Michael. The large projects that were within the Network Solutions have moved around considerably. And I think, I've called this out previously. They've moved around because of changing designs and changing carrier participation. And so, in large part, those projects have declined in total size and the channels by which they are being ordered through has made it more difficult. So the design of the project has changed. The project is ordered through distribution and distribution does not always identify the project. So it's more difficult for us today to pinpoint exactly the characterization of those projects.
+
+I feel most of those have advanced. Most of those decisions have been made, but at the same time, our pipeline of opportunities in total for the Network Solutions business is consistent. Our total pipeline of opportunities for the consolidated company is larger and the most significant increase of the pipeline of opportunities is within the Embedded Solutions segment. So hopefully, that's helpful color.
+
+Okay. Is there a number that you can give us?
+
+No. We typically don't quantify because it's so fluid and especially now with COVID-19, it's changing every week. Last week, we received notice that one project was put on hold because the end customer was a government customer and they diverted funding to what they simply called health-related matters. And in the last three days, they said it was turned back on. So we do not quantify those pipelines and that's a very fluid measurement.
+
+Okay. A couple of additional questions, the restructuring, it looks like we had about $700,000 of cost reductions in the quarter, not including the Holzworth acquisition.
+
+On OpEx...
+
+Is that correct?
+
+On OpEx, it's correct. Yeah.
+
+On OpEx, correct?
+
+Yeah.
+
+Okay. So can we annualize that?
+
+No. And the reason, we did -it's primarily due to our cost reduction initiatives but we also had some reductions because of the pandemic. We cut back on travel and tradeshows, certain marketing activities. So not all of the $700,000 was related to the cost savings plan that we put in place.
+
+Okay. So the cost savings plan, I'm assuming it's been fully implemented at this point?
+
+That's correct. And given the current situation, we're continuing to monitor our costs and expenses tightly and our discretionary spend as well as our CapEx.
+
+So fully implemented, what can we expect on an annualized basis on cost reduction?
+
+So, we have disclosed in the 10-K roughly about $1.5 million for the year. That's directly related to cost – our cost reduction plan.
+
+Okay. And if we move to CommAgility, you had mentioned that this month we received an order for our 4G application.
+
+That's correct.
+
+Okay. Will you be making an announcement? Would we be able to get more color on this transaction on this order?
+
+Yeah, we hope too in the future, Michael. The customers – there's a few projects that are government related and confidential in nature. And I know right now, we will not be able to give much color other than trying to describe it in somewhat generically. But as we deliver and perform on those contracts, we are working with customers to not only describe it at a high level, but to actually identify the customer and get a quote from them. So, you will see that we have increased the communication flow, and we'll continue to press forward on that and try and give very good color as to what projects we're winning, what the applications are where possible, who the customer is. And so yes, we hope to do more of that going forward.
+
+Okay. And then in regards to 5G, and I guess where do we currently stand on 5G orders?
+
+As I mentioned, we have active customer conversations in the funnel. Very excited about the increase of opportunity here, which is attributable both to the milestone releases of our products that we've announced as well as the NXP collaboration. So we have very active conversations and I would hope over the next one or two quarters, we're able to talk more about wins in that in that area.
+
+What's the process? Can you take us through the process and can you better describe to us the NXP partnership?
+
+It's a collaboration agreement for our software to be working on their Layerscape product platform, so it's that it's that – as a semiconductor provider, it's that device that our software is working with. It's a standard based approach, highly customizable and easily integratable and that's our approach to market.
+
+As NXP thinks about competing with the larger likes of Qualcomm, they have also selected the markets below what I would characterize as a million units and characterizing a market where there is high customization. And as a result, you provide a three GPP standard-based platform, which is your basic PHY and stack level software that works on the NXP device. And then collaboratively, we work together with that customer for all of the protocol layers, which are customized to that unique base station technology. And this is where customers in the SATCOM, wireless test, military designs and private network designs, each have their own requirements.
+
+But they want to work with a standard base platform, a foundation. This allows them to jumpstart their own development. It lowers their costs and shortens the time to market. So whether the end devices are robotic instruments or SATCOM stations or military, we at least provide that foundation and building block for the communication.
+
+And is it NXP that is doing the sales and marketing to the end customer?
+
+We work ...
+
+Is that their responsibility?
+
+No, we work collaboratively with them. So we will be on joint sales calls with them, teaming up as a single team.
+
+And do you anticipate that it will generate revenue from this collaboration in 2020?
+
+Yes.
+
+Okay. Well, I'll get back in the queue. Thanks, guys.
+
+Great. Thank you, Michael.
+
+Thank you. Your next question is coming from [ph] Fernando Cantu (26:52). Your line is open.
+
+Yes. Tim, when will the window be open for management to be able to buy some shares in the market?
+
+Our policy is the second trading day after the release of earnings.
+
+All right. Okay. That will be on Thursday. All right. Thank you very much. Have a nice day.
+
+Thank you.
+
+There are no further questions in the queue at this time.
+
+Great. Thank you everyone for joining us today. Thank you for your continued confidence and faith in our direction. We wish all of you continued good health and we look forward to speaking with you again soon. Have a great day. Thank you.
+
+Thank you.
+
+Thank you ladies and gentlemen. This does conclude today's conference call. You may disconnect your phone lines at this time and have a wonderful day. Thank you for your participation.

@@ -1,0 +1,372 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+Lasse Glassen — Director, Addo Communications
+Michael J. Burdiek — President, Chief Executive Officer & Director, CalAmp Corp.
+Richard K. Vitelle — Executive Vice President, Chief Financial Officer & Secretary, CalAmp Corp.
+Siddharth Sinha — Analyst, Canaccord Genuity, Inc.
+Timothy J. Quillin — Analyst, Stephens, Inc.
+Mike Latimore — Equity Analyst-Communications Technology, Northland Capital Markets
+Josh Nichols — Analyst, B. Riley & Co., LLC
+Rajesh Ghai — Analyst, Macquarie Capital (USA), Inc.
+Scott S. Thompson — Analyst, FBR Capital Markets & Co.
+Anthony Stoss — Senior Research Analyst, Craig-Hallum Capital Group LLC
+Greg J. Burns — Analyst, Sidoti & Co. LLC
+
+Management Discussion Section
+
+Question And Answer Section
+
+Greetings and welcome to the CalAmp's First Quarter Fiscal 2015 Results. At this time, all participants are in a listen-only mode. A brief question-and-answer session will follow the formal presentation. [Operator Instructions] As a reminder, this conference is being recorded.
+
+I would now like to turn the conference over to your host, Lasse Glassen of Addo Communications. Thank you, sir. Please begin.
+
+Thank you, operator. Good afternoon and welcome to CalAmp's fiscal 2015 first quarter results conference call. With us today are CalAmp's President and Chief Executive Officer, Michael Burdiek; and Chief Financial Officer, Rick Vitelle.
+
+Before I turn the call over to management, please remember that our prepared remarks and responses to questions may contain forward-looking statements. Words such as may, will, expect, intend, plan, believe, seek, could, estimate, judgment, targeting, should, anticipate, goal and variations of these words and similar expressions are intended to identify forward-looking statements.
+
+Actual results could differ materially from those implied by such forward-looking statements due to a variety of factors, including product demand, competitive pressures, and pricing declines on the company's wireless and satellite markets, the timing of customer approvals of new product designs, intellectual property infringement claims, interruption or failure of our internet-based systems used to wirelessly configure and communicate with the tracking and monitoring devices that we sell, and other risks and uncertainties that are described in the company's Annual Report on Form 10-K for fiscal 2014, as filed on April 24, 2014 with the Securities and Exchange Commission.
+
+Although the company believes the expectations reflected in such forward-looking statements are based upon reasonable assumptions, they can give no assurance that its expectations will be attained. The company undertakes no obligation to update any forward-looking statement, whether as a result of new information, future events or otherwise.
+
+Michael Burdiek will begin today's call with a review of the company's financial and operational highlights. Rick Vitelle will then provide additional details on the company's financial results and Mike will wrap up with the company's business outlook and guidance for fiscal 2015 second quarter and full year. This will be followed by a question-and-answer session.
+
+With that, it's now my pleasure to turn the call over to CalAmp's President and CEO, Michael Burdiek.
+
+Thank you, Lasse. Overall, I'm pleased with the solid first quarter performance across our enterprise. Demand for our Mobile Resource Management or MRM products drove a 17% year-over-year increase in Wireless Datacom segment first quarter revenues, which in turn contributed to growth in non-GAAP earnings of 23%.
+
+I'm particularly encouraged by continued growth in the first quarter from auto insurance telematics revenue and return to growth in fleet management, which more than offset a temporary decline in energy revenues, and continued weakness in Latin America.
+
+In our Satellite segment, shipments made late in the quarter coupled with some demand for a high-margin legacy product resulted in meaningful contributions from this segment in our operating cash flow and bottom-line profitability.
+
+Looking at our first quarter results, consolidated revenue was $59 million, up 10% year-over-year with Wireless Datacom revenue up 17% to $47.8 million. Satellite revenue in the quarter was $11.1 million, down 14% year-over-year.
+
+At the bottom line, we achieved GAAP basis earnings of $0.07 per diluted share in the first quarter with non-GAAP earnings of $0.19 per diluted share, along with strong cash flow from operating activities of $7.3 million. This helped push our cash, cash equivalents, and marketable securities balance to $34.2 million with zero bank debt.
+
+Now, I would like to review our operational highlights for the quarter. Our Wireless Datacom segment posted another strong quarter as we continue to experience healthy demand for our products and services within many of our core verticals along with traction from some of our newer strategic initiatives.
+
+In the emerging auto insurance telematics market, our first quarter revenue climbed to above $4 million, as key customers in this segment continue to ramp their programs. Our pipeline of opportunities is growing and we believe we are well-positioned to participate in the long-term growth expected from this vertical.
+
+In the heavy equipment market, I am pleased to announce that our key initiative with Caterpillar to supply specialized telematics products is on track to drive meaningful revenues for us beginning in our third quarter. Based on commitments received from Caterpillar, we now expect revenue from this customer during the second half of our current fiscal year will be closer to the upper end of our earlier $5 million to $10 million estimate. We are very optimistic that this and other opportunities within the heavy equipment industry could become a significant growth driver for CalAmp over the coming years.
+
+Within our core verticals and applications, product revenue from fleet management customers rebounded in the first quarter after a slow winter season with bookings activity in line with industry growth rates. And although revenue for our MRM products in Latin America remained weak during the first quarter, we are making good progress in bringing new customers online in Brazil that should begin to contribute to growth in the region by the second half of our current fiscal year.
+
+Looking at other verticals, first quarter revenues increased in the transportation vertical on both a sequential quarter and year-over-year basis due to a significant uptick in revenue from Positive Train Control or PTC radio shipments. Demand in this market is expected to fluctuate from quarter-to-quarter, and accordingly, we expect PTC revenue to decline sharply in the second quarter, though the outlook for the full year is better than last fiscal year.
+
+In the government sector, we are quite pleased with the year-over-year growth that was primarily due to contributions from the RSI business acquired late last year.
+
+Overall, we are seeing good traction for our fleet management SaaS offerings with municipal government customers. As an example, during the quarter, we were awarded two sizeable contracts from customers that rank among the top 50 metropolitan regions in the U.S., which we expect will contribute to SaaS subscriber growth in the coming quarters.
+
+Partially offsetting the year-over-year growth in our Wireless Datacom segment was lower first quarter energy revenues, primarily related to our OEM customer in the commercial solar power industry. Due to the project based nature of the demand with this solar OEM, we anticipate business with this customer will be somewhat lumpy, with revenues expected to pick up strongly in the second quarter.
+
+Recurring revenues from our fleet management, automotive aftermarket, vehicle finance applications and satellite communication services comprised 16% of consolidated revenue for our first quarter. At the end of our first quarter, we had over 475,000 unique software application subscribers, up from 460,000 subscribers at the end of the previous quarter.
+
+In addition to our focus on near-term execution, we continue to invest significant resources in new initiatives that we believe will bolster our competitive position and drive sustained revenue and earnings growth over the coming years. On our last call, I highlighted one of those initiatives, our new Android-based mobile data terminal supported by CalAmp's private app store.
+
+The MDT-7 is ideally suited for commercial mobile workforce management applications, and is a natural complement to our range of fleet management telematics devices, targeted at the same fleet management service provider customer base. We are seeing broad demand for the MDT-7 and are hopeful that this new product line will drive incremental demand over the coming quarters.
+
+More importantly, we are optimistic that the launch of the app store later this year will enable us to layer on additional value elements resulting in higher margins than our traditional fleet management hardware products.
+
+Now, turning to our Satellite segment, revenue in the first quarter was $11.1 million, lower on a year-over-year basis, but moderately better than the originally expected due to a high volume shipments made late in the quarter. In addition, Satellite gross margin in the first quarter was 26.1%, reflecting an improvement of 6.5 points year-over-year that was attributable primarily to demand in the quarter for a high margin legacy product. Going forward, we expect the performance of the satellite segment to be more in line with the normal operating range for gross margins.
+
+With that, I will now turn the call over to Rick Vitelle, our Chief Financial Officer, for a closer look at our first quarter financial results.
+
+Thank you, Michael. I will provide a summary of our gross profit performance, income tax position, working capital management, and cash flow results for the fiscal 2015 first quarter.
+
+Consolidated gross profit for the fiscal 2015 first quarter was $20.2 million, an increase of $1.7 million over the same quarter last year, primarily as a result of higher revenue in the Wireless Datacom segment. Consolidated gross margin was essentially unchanged at 34.3% in the latest quarter, compared to 34.4% in the first quarter last year.
+
+Looking more closely at gross profit performance by reporting segment, Wireless Datacom gross profit was $17.3 million in the first quarter, with a gross margin of 36.2%. Year-over-year Wireless Datacom gross profit was up by $1.4 million, while gross margin declined by 3 points, primarily due to a revenue mix shift, favoring a larger proportion of MRM products that carry lower gross margins.
+
+On a sequential quarter basis, Wireless Datacom gross margin was down 1 point from the fiscal 2014 fourth quarter. Our Satellite business had a gross profit of $2.9 million in the first quarter, with a gross margin of 26.1%. This compares to gross profit of $2.5 million and a gross margin of 19.6% in the first quarter of last year. The year-over-year gross margin improvement in our Satellite business is primarily due to temporary demand in the quarter for a high margin legacy product, as Michael noted a minute ago.
+
+GAAP net income for the fiscal 2015 first quarter was $2.7 million or $0.07 per diluted share, compared to net income of $1.7 million or $0.05 per diluted share, in the first quarter of last year.
+
+While the company's GAAP basis effective tax rate approximates the combined U.S. federal and state statutory tax rate, the company's pre-tax income is still largely sheltered from taxation by NOL and research and development tax credit carry forwards and is expected to remain so, for the next several years.
+
+Our non-GAAP net income for the fiscal 2015 first quarter was $6.9 million or $0.19 per diluted share, compared to non-GAAP net income of $5.6 million or $0.16 per diluted share for the same quarter last year.
+
+Non-GAAP earnings excludes the impact of intangible asset amortization, stock-based compensation expense and acquisition related expenses, and includes an income tax provision for cash taxes paid or payable for the period. For a reconciliation of the GAAP and non-GAAP financial results, please see our first quarter earnings press release that was issued today, which is available on our website.
+
+Now moving on to the balance sheet. At the end of the fiscal 2015 first quarter, the company had total cash, cash equivalents, and marketable securities of $34.2 million with no bank debt outstanding.
+
+The consolidated accounts receivable balance was $34.8 million at the end of the first quarter. This represents an average collection period of 46 days, compared to the receivables collection period of 53 days at the end of the preceding quarter.
+
+Our total inventory at the end of the first quarter was $15 million, representing annualized inventory turns of approximately 10 times. The inventory balance and turns are essentially unchanged from the preceding quarter end.
+
+With that, I'll now turn the call back over to Michael for our guidance and some final comments.
+
+Thank you, Rick. Now, let's turn to our outlook including our financial guidance for the second quarter and year as a whole.
+
+In the fiscal 2015 second quarter, we expect consolidated revenue in the range of $57 million to $61 million. We anticipate Wireless Datacom revenue in the second quarter will be higher on both the sequential quarter and year-over-year basis, due primarily to the resumption of shipments to our key OEM customer in the solar power industry and healthy customer demand for our products and services within most of our core verticals, offset by a sharp decline in PTC revenues and only modest contribution from MRM product sales in Latin America.
+
+Satellite revenue in the second quarter is expected to be down on a sequential quarter basis to the lower end of its normal quarterly operating range. At the bottom line, we expect second quarter GAAP basis net income in the range of $0.05 to $0.09 per diluted share and non-GAAP net income in the range of $0.17 to $0.21 per diluted share.
+
+For the full year in fiscal 2015, we expect consolidated revenues to gain momentum as the year progresses. As a result, we anticipate that the second half of fiscal 2015 will be significantly stronger than the first half of the year with Wireless Datacom revenue growth expected to accelerate as we move through the last two quarters of the year, driven by emerging auto insurance telematics and heavy equipment markets. However, this momentum is expected to be partially offset by the full year outlook for our Satellite business, which is now anticipated to be below earlier projections.
+
+In closing, I'd like to recap some key points. First, I am pleased with the progress of our key strategic initiatives for fiscal 2015. We are gaining traction in the insurance telematics marketplace and are gearing up to start volume production for Caterpillar.
+
+Second, we're encouraged by a growing pipeline of Software-as-a-Service and Platform-as-a-Service opportunities, as well as the traction we're experiencing for our solutions with municipal and energy enterprise customers.
+
+And finally, we firmly believe our unique hardware, software and service solutions, supported by established channel partnerships with global reach, give us the leverage to win a disproportionate share of opportunities and drive broader adoption of emerging M2M applications. We are working to take CalAmp to new heights by continuing to focus on short-term execution, while strategically positioning the company to benefit over the longer term, from emerging M2M trends.
+
+That concludes our prepared remarks. Thank you for your attention. And at this time, I'd like to open up the call to questions. Operator?
+
+Thank you. We will now be conducting a question-and-answer session. [Operator Instructions] Thank you. Our first question comes from the line of Mike Walkley with Canaccord Genuity. Please proceed with your question.
+
+Hi. This is Sid on for Mike Walkley. Thanks for taking my questions. Quick housekeeping question and then a couple on the MRM side. Michael, could you provide a breakdown for the Wireless Datacom revenues in terms of the MRM and the wireless network pieces?
+
+Sure. Hi, Sid. How are you?
+
+Pretty good.
+
+Good. The percentage of MRM revenue as relates to the Wireless Datacom segment revenues in total was about 65% in Q1.
+
+Okay, great. Thanks. And then, just a couple on the MRM side. On the core fleet management side, given your dominant position in the U.S. and expectations to grow at market rates, what are your expectations for the overall fleet management business in fiscal 2015, taking into account the softness in Latin America in Q1 and then modest growth in Q2?
+
+I mean are you still looking at international opportunities to grow at a faster rate versus the U.S.? And how does international deal pipeline look basically?
+
+As relates to fleet products, yes, we do expect higher rates of growth and penetration outside of the U.S. than rates of growth in the U.S. during fiscal 2015. Just as a note, we mentioned in our remarks that we grew at roughly industry rates of growth in Q1. I think our year-over-year fleet product revenue growth in total was about 20% versus Q1 last year. So it was pretty strong.
+
+The delta between what would be termed industry rate of growth in the U.S. versus what we experienced in terms of 20%, overall fleet product revenue growth could be accounted for by additional progress made with anchor customers in Brazil, Europe and South Africa, where we've made good progress with some of the leading service providers in those markets in integrating our products and really displacing what had previously been internally sourced products. So we think that's very, very encouraging in terms of incremental growth in future quarters.
+
+Okay. Thanks. And then on the usage based insurance side, there's been a lot of consolidation lately in the service provider space, with HiMEX, and Octo, and Wunelli and Cobra being acquired by other carriers or system integrators or other players. Just wanted your take on the opportunities, these activities have no your UBI hardware business as these players scale up and with these larger partners and perhaps expand their offerings and scope and reach basically?
+
+Sure, well, as you point out, most of the consolidation, if not all the consolidation, has sort of been at the application service layer. To the best of our knowledge, there hasn't really been any consolidation in terms of the hardware elements that are part of some of the solutions.
+
+So in that sense, I don't think that in anyways change the outlook in terms of product opportunities. However, we are optimistic that over time, we'll be able to do more than just sell the type of hardware products we're selling today, and hopefully, add additional value either through embedded applications, potentially through the monetization of data that are associated with some of our subscriber activities. Potentially down the line – and I would say this would be well down the line – even the opportunity to, in some way, participate in the service provision layer. But in the short-term, we don't see any disruption or limitation of opportunities due to the consolidation that you outlined.
+
+Okay, great. Thanks. And just one last one from me and I'll pass the line. On the Satellite side of the business, I think you made the remark that you now anticipate lower sales and lower outlook than your original projections. I think the range was about $32 million to $48 million in the last quarter normalized at $10 million a quarter, could you perhaps quantify this lower expectations and just what is happening in that segment?
+
+Sure. Yeah, the outlook is somewhat softer than our earlier projections. And at this point in time, it appears that at least the current outlook is that the satellite business will run roughly between $8 million and $9 million a quarter from Q2 through Q4 of this fiscal year.
+
+Great. Thanks for taking my questions.
+
+You're welcome.
+
+Thank you. Our next question comes from the line of Tim Quillin with Stephens. Please proceed with your question.
+
+Hey, good afternoon.
+
+Hello, Tim.
+
+I guess there aren't any soccer fans that set the conference call time.
+
+We'll give brief answers.
+
+It's halftime, we're all good. But can you talk about just the mechanics of the deployment for Caterpillar? Does it start with a single model and build up from there or is there a switch flipped when all heavy equipment will begin shipping with the asset tracking hardware?
+
+I would say it's probably more along the lines of the former than the latter. We expect the products to be adopted almost on a product-by-product basis across the range of different product lines that Caterpillar anticipates integrating these sets of products into.
+
+And the increased confidence you have that you could end up more like $10 million versus $5 million, is that based on the specific commitments that you're getting from Caterpillar? In other words, is that a relatively certain order flow or is it still dependent on how they roll it out to different models?
+
+We have commitments that can account for most of that outlook.
+
+And does Caterpillar – are they buying to inventory or would that type of buying reflect more what they expect to ship in terms of heavy equipment with the asset tracking hardware?
+
+Caterpillar is very efficient operationally. So we would expect to be delivering very much on a just-in-time basis.
+
+Okay, okay. And then on the UBI business, the usage-based insurance, how impactful do you expect the growth to be this fiscal year? So I understand that it sounds like you're seeing some nice year-over-year improvements, and maybe you expect some acceleration in that, but if we expect, for instance, 15% top-line growth or so, it would be something like $25 million in revenue growth that you would expect this year. Would 10% of that year-over-year increase come from UBI or kind of rough order of magnitude, what are you expecting in terms of improvement?
+
+So for the full year last year, we had about $8 million of UBI product related revenue. We had a little over $4 million in Q1. We don't expect a material decline from that $4 million run rate. Hopefully, some increase as we work our way through the year, both in terms of existing programs that we're integrated into, as well as potentially the addition of one or maybe even two additional programs coming online later this fiscal year.
+
+And how dependent is the full year guidance – I think the full year expectation had been and I think still is in the Wireless Datacom business to be kind of at or above industry growth rate of around 15%, but how dependent would that be on additional increases in the UBI business or new customers or whatever it might be?
+
+Well, I mean obviously the year-over-year growth is going to be partly dependent on growth in the UBI product category. It's our expectation that we would more or less double, if not do better than that, revenues versus last fiscal year as it relates to UBI product sales.
+
+Okay. Okay. So not a big change from what you saw in the first quarter?
+
+No, because any new programs that come online will likely come online later this fiscal year, could have an impact, but not a substantial impact, not to the degree that the existing programs have had in terms of incremental product sales over the last year.
+
+Right. And so with the back-half, the stronger back-half, they largely just reflect kind of normal quarter-over-quarter growth that you would see in all your business or expect to see and the addition of the Caterpillar business, but nothing else unusual, is that fair?
+
+I think that's a fair assessment.
+
+Okay. And then just one last question and if you could characterize the acquisition pipeline and when you might expect to just strike another deal? Thank you.
+
+Oh my, that's an interesting question. I don't think we ever have any expectations as to when we're going to strike the next deal until it's very eminent. We're not seeing any significant change in terms of opportunity flow. Most opportunities that we look at are – fall into one or more categories. Either A, they're not well aligned with our strategy; B, they're subscale; C, value expectations are too high. In some cases, they're underperforming. In many cases, it's all of the above.
+
+Right, yeah. No, that's fair. Well, thank you.
+
+You're welcome.
+
+Thank you. Our next question comes from the line of Mike Latimore with Northland Capital. Please proceed with your question.
+
+Yeah, great. Good evening. On the PTC, you mentioned PTC was I think strong in the first quarter, roughly how much revenue did that contribute?
+
+About $2.5 million.
+
+Okay. And will solar help overall corporate gross margin or I heard it'd be about in line.
+
+Solar gross margin will be slightly dilutive to our typical blended Wireless Datacom product margins.
+
+Okay, got it. How about – just fleet management, what is that as a percent of total product revenue, let's say, the fleet management related products?
+
+Product revenue in Q1 was a little over 60%.
+
+Fleet management was specifically.
+
+I'm sorry. Yeah, fleet management.
+
+Okay. And then how about international as a percent of total, where did that end up in the quarter?
+
+A little over 21%.
+
+21%, okay. All right. Got it, great. Thank you.
+
+You're welcome.
+
+Thank you. Our next question comes from the line of Josh Nichols of B. Riley. Please proceed with your question.
+
+Yes. Hi. Real quick, just regarding some of the lower end modules that are sold to companies like IBSystems and whatnot. Now, you're using like basic track and trace.
+
+Sure.
+
+I was wondering if you're seeing a lot of competition from low cost producers out of China that might be hurting margins and sales. And then given the reduced guidance for the Satellite business, any broad strokes observations you're seeing about that market would be much appreciated as well.
+
+So your first question actually is multifaceted. You mentioned asset tracking product category. Actually, that's one of the least competitive product categories that we have. We're quite unique in that we have such a broad portfolio of products, whether they're fleet, UBI, asset tracking, stolen vehicle recovery, it's a really broad portfolio.
+
+That product portfolio is based upon a number of different core platforms, and so, we're able to leverage the platforms, let's say, maybe developed for a fleet application into an asset tracking category. And within asset tracking, we have a range of products there that vary from minimal backup battery capability to multi-year battery backup capability.
+
+So it's really difficult for people to compete with us, in terms of breadth and depth of products in the asset tracking category. And we really don't have any experience competing with Asian suppliers anywhere in the world, as it relates to those types of products. Your second question, again?
+
+Just guidance for the Satellite segment, any broad strokes observations you could communicate about that?
+
+Not really other than it's not unprecedented. I mean if you look back over a four-year period of time, the businesses run from the upper 30s%, up to the upper 40s% on an annual basis, but there's been a great deal of variability quarter-to-quarter, I think the range has been anywhere from $4.5 million to nearly $14 million. I think our outlook in terms of $8 million to $9 million, Q2, Q3, and Q4 this year is, I don't think necessarily indicative of any long-term trend.
+
+Okay. Great. Thank you very much.
+
+You're welcome.
+
+Thank you. Our next question comes from the line of Rajesh Ghai with Macquarie. I'm sorry, one moment, I'll join through.
+
+Wanted to ask you about your outlook in terms of EPS growth for the full year, given how you see the first half panning out, do you still expect to grow EPS 30% in fiscal 2015?
+
+Yeah, when we gave the guidance back in April, the outlook for Satellite at that time was much more positive than it currently is. And also we had probably a more positive outlook in terms of Latin American sales growth. So to get to 30%, which we framed as an approximate year-over-year non-GAAP earnings growth rate, which obviously implies a range, it will be an uphill battle to get to 30% due to those two factors.
+
+Okay. Can you kind of give us an approximate number of where you think you could end up this year?
+
+Well, sort of framing it from the conservative to the optimistic, I would say 20% to 30% year-over-year non-GAAP earnings growth.
+
+Okay.
+
+On the conservative end of the range, it would be framed in terms of no improvement in Satellite outlook, only tepid growth in Latin America in the second half. Cat not being over $10 million and growth in core application is pretty much in line with what we've experienced recently.
+
+The optimistic side of the range would be dependent on Satellite outlook improving probably; Caterpillar running north of $10 million in the second half of the year; core applications and product sales pretty much in line with what we've experienced recently. So conservative to optimistic range of roughly 20% to 30%, but in either case, we expect earnings growth to accelerate through the last two quarters of this fiscal year.
+
+That's very helpful. And as far as Cat is concerned, the question that I keep getting from investors is around margins for that Cat business given that you have one big customer, are the margins for that business going to be higher than the current Wireless Datacom corporate average or do you expect that to be lower or how do you expect this trend over time?
+
+I think short-term pretty much in line with current Wireless Datacom product margins. There is some potential for that to improve marginally over time, as our production processes are up and running and we have the opportunity to build the supplier relationships and get optimum costing on the key components.
+
+And my last question is around mobile data terminal, is that an opportunity for you to potentially sell more software on the device and potentially increase your hardware gross margins without even kind of looking at the Software-as-a-Service, Platform-as-a-Service side of things. Do you think that provides you an opportunity to potentially raise hardware gross margins and how meaningful do you think that could be this year and heading into next year?
+
+Yes on both counts. We think that the product margin, even setting aside any opportunity for software sales, will be higher margin than, let's say, the vast majority of our fleet management products. And we do believe that there will be some opportunity to participate either just through a transaction of software applications or through an ongoing recurring revenue stream through the provision of software applications on through the MDT device.
+
+Great. Thank you. Good luck.
+
+Thank you.
+
+Thank you. [Operator Instructions] Thank you. Our next question comes from the line of Scott Thompson with FBR. Please proceed with your question.
+
+The international business, particularly in Latin America, is there any reason why it's weak? Can you extrapolate on that a little bit, is it just you think you need to maybe diversify the customer set down there or is it something beyond that?
+
+Well, we are diversifying the customer set. In fiscal 2014, we had approximately $14 million of product sales across all of Latin America. Mexico, all the way south through South America. Of that, about $4 million or maybe a little bit more than $4 million of revenue came from customers in Venezuela. Since about Q3 of last year, we've had minimal revenue from customers in Venezuela, so it's a huge headwind for us in terms of year-over-year comparisons.
+
+In Brazil, in Q2 of last year, we had a new customer come online who had somewhat of an innovative distribution strategy for stolen vehicle recovery services. They purchased a significant amount of product accounting for roughly $6 million of revenue in Q2 last year, that tapered pretty dramatically in Q3. So that single customer accounted for nearly half of our Latin American revenues last year.
+
+So over sort of the last year or so that we've had resources based in Brazil, we've been working diligently to bring new customers online and build a more sustainable base of business. And I think we're seeing some very, very encouraging signs there, both in terms of end customer engagements, system integrator partners as well as carrier partnerships. And most of the revenue in Q1 was across a diverse customer base and we expect that trend to continue, and certainly, pick up some pace in the second half of the fiscal year.
+
+Okay. So you talked about the $6 million customer having an innovative strategy. Is that something that may snap back in the second half of the year or is it inventory that may be in the channel for sometime...?
+
+I don't think that the channel inventory is a headwind there. It is possible that they could come back, but I don't think as dramatically as they came online in Q2 last year.
+
+Okay. Let's move to the fleet management business. It looks like fleet outlook is at least from your website and from checks that we've been doing, is getting a decent amount of traction. Wanted to get insights on when that business may scale to more meaningful revenues and any kind of update there.
+
+Also, from a customer perspective, is there any overlap with that business and maybe some of your customers that you are supplying some of the Wireless Datacom devices to and might that create any issues moving forward through the second half?
+
+I'll start with the last part of the question first. We've been pretty open about the fact that in certain instances, we do compete with some of our fleet management service provider product customers, but in reality, it's mostly at the fringes. Our focus is on specific vertical markets, transportation, energy, municipal government. And most of our customers in the fleet management space are more horizontal. They may be more regional. And they may be less enterprise focused than we are. So although it can be or could be viewed as an issue in certain circumstances, I would say it's only at the margins.
+
+In terms of the overall outlook for fleet management services, obviously, we're focused on specific verticals. And as we mentioned in our prepared remarks, we've had some good traction with municipal government customers recently and hope to name some of those accounts, as we get customer approvals going forward.
+
+Okay. So as far as any revenue impact from those customers on the fringes, there really shouldn't be for the rest of the year as far as you can tell now?
+
+Not that we would be able to detect.
+
+Okay. Sounds good. Thank you.
+
+Thank you.
+
+Thank you. Our next question comes from the line of Anthony Stoss with Craig Hallum. Please proceed with your question.
+
+Hi, Michael, two part. In terms of Caterpillar, the potentially $10 million in the second half of the year. What's your view on kind of the split between that potential $10 million? Is it 30%-70% between Q3 and Q4? Could you have a 0%-100%? I'd love to hear your view on that.
+
+And then secondly, and maybe Garo takes us one on gross margins. How do you – what's the thought process in terms of how to continue to improve gross margins going forward? Thanks.
+
+I don't believe it's going to be 0%-100%, Q3 to Q4. We're confident that of the $10 million maybe 30% to 40% would be captured in Q3, and obviously, the balance of that in Q4. And then you had a gross margin question. And by the way how did you know Garo was here? Could you be more specific about the gross margin question, please?
+
+I'm curious what you guys can do in terms of either redesign or what your thought process is on continuing to improve gross margins on the hardware side?
+
+Well, it's fighting all the battles. Number one, working on the cost inputs and there were some key components that go into our portfolio devices that account for a large percentage of the bill of material. We're always in negotiations with those suppliers. Fortunately, there are multiple sources, so we can oftentimes play one off against the other to get the absolute best world price for some of those key components. So that's an ongoing operational initiative.
+
+Obviously, another key area of focus for us is on increasing software and service content, which hopefully will be accretive to gross margins as the service revenues become a larger part of consolidated revenues often to the future.
+
+Okay. Great. Thanks.
+
+Thank you.
+
+Thank you. Our next question comes from the line of Greg Burns with Sidoti & Company. Please proceed with your question.
+
+Good afternoon. Did you book all the revenue that was held up with the supplier from last quarter and this quarter?
+
+Not all, we were able to close out about two-thirds of that backlog in Q1.
+
+Okay. And you mentioned some – in the international markets some of the application service providers, now moving more towards outsourcing their hardware. Where is that – in international markets kind of how far long is that trend maybe in relation to domestically and is that something that there's kind of a longer-term tailwind for you, as more and more look to outsource their equipment to vendors like you?
+
+I think generalization would be that some of the more mature developed markets and some of the opportunities that we're being integrated into, look like opportunities we're being integrated into in the U.S. about five years ago. From that sense – about five years behind, where the U.S. is today in terms of outsourcing being very, very, common. And in that sense, yeah, we think that's probably a good tailwind for us.
+
+Okay. Thank you.
+
+Thank you. Our next question comes from the line of Tim Quillin with Stephens. Please proceed with your question.
+
+Yeah. I just have a couple of follow-up questions and then I'll get back to watching soccer. But one on the gross margins, I understand the mix was unfavorable in the first quarter. How do you expect that to trend over the course of the rest of the year?
+
+Potentially down a little bit in Q2, primarily due to the solar OEM opportunity coming back online and being a meaningful contributor to revenue in Q2. But from Q2 through the balance of the year, we would expect gross margin to begin to pick up again. And I think our current outlook is that overall, the fiscal year will be a bit better than last fiscal year in terms of consolidated gross margin.
+
+Okay. And then the subscription business, just overall in aggregate, what kind of organic growth would you expect there?
+
+Good question. When we gave guidance on the last call, we projected that our recurring revenues would be roughly in line with what they were in FY 2014, as a percentage of consolidated revenue. So in that sense, we need our recurring revenue engines, which involve, obviously, application services and a couple of different categories, as well as our satellite data communication service revenues to grow at roughly the rate of growth in other areas.
+
+Okay. Okay. And then kind of a same question for international, it sounds like there is different headwinds, especially in South America. Would you expect international to grow faster than the domestic though for the full year and what geographies would you expect to drive that?
+
+That's sort of a region-by-region question. We would expect South America to grow faster, because we're coming off a pretty small base. Europe growth has actually been quite impressive. In Q1, we had about $5 million of revenue in Europe, which is an all-time record for us. So in terms of international revenue mix, Europe was the key contributor.
+
+We're encouraged by what we see in other regions, including South Africa and the Australia/New Zealand region, but we think Europe is important, and we expect to see growth through this year. Latin America is important, but we're coming off a very small base. And I think we're moderating product revenue growth in the U.S. into more normalized industry growth rate.
+
+Okay, fair enough. Thank you.
+
+Thank you. Our next question comes from the line of [ph] Oliver Schwalbe (47:45) with G2 Investment Partners. Please proceed with your question.
+
+Hello. Good afternoon and thank you for taking my question.
+
+No problem. How are you?
+
+Great. Can you help me understand the sharp decline in Positive Train Control? Is this a one-time or a long-term issue?
+
+Well, it was up sharply in Q1 from Q4. It's a project-based business in a sense. As we mentioned in our prepared remarks, we're optimistic that FY 2015 for the full year will be better than last year, and last year, we had about $4 million of PTC revenue. So what we experienced in Q1 was encouraging. It will be down simply because of the order flow in Q2. The pipeline is improving. And again, we're optimistic that this fiscal year revenues will be up over last fiscal year.
+
+Okay, great. And lastly, could you better help me with the second half strength in Wireless Datacom? Do you expect to be up over 10% year-over-year in the second half?
+
+In the second half?
+
+In the second half.
+
+It would almost have to be in order to fall into that somewhat broad range of non-GAAP earnings growth.
+
+All right, perfect. Thank you. That's all. Thank you for your time.
+
+You're welcome.
+
+Thank you. We've no further questions in queue at this time. I'd like to turn the floor back over to Michael Burdiek for closing remarks.
+
+Thank you, again, for joining us today. And we look forward to speaking with you, again, at the end of our second quarter.
+
+Thank you. This concludes today's teleconference. You may disconnect your lines at this time and thank you for your participation.

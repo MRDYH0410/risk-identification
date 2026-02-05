@@ -1,0 +1,295 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+Courtney O'Konek — Senior Director-Corporate Communications & Investor Relations, ImmunoGen, Inc.
+Mark J. Enyedy — President, Chief Executive Officer, CFO & Director, ImmunoGen, Inc.
+Susan Altschuller — Senior Vice President & Chief Financial Officer, ImmunoGen, Inc.
+Anna Berkenblit — Chief Medical Officer & Senior Vice President, ImmunoGen, Inc.
+John Newman — Analyst, Canaccord Genuity LLC
+Kennen Mackay — Analyst, RBC Capital Markets LLC
+Andy T. Hsieh — Analyst, William Blair & Co. LLC
+Biren Amin — Analyst, Jefferies & Company, Inc.
+Boris Peaker — Analyst, Cowen & Co. LLC
+Michael Schmidt — Analyst, Guggenheim Securities LLC
+Jonathan Chang — Analyst, SVB Leerink LLC
+Joseph M. Catanzaro — Analyst, Piper Sandler & Co.
+
+Management Discussion Section
+
+Question And Answer Section
+
+Good morning, and welcome to ImmunoGen's Second Quarter 2020 Financial and Operating Results Conference Call. Today's conference is being recorded.
+
+I'd like to turn the call over to Courtney O'Konek, Senior Director of Corporate Communications & Investor Relations. Please go ahead.
+
+Good morning, and thank you for joining today's call. Earlier today, we issued a press release that includes a summary of our recent progress and the second quarter 2020 financial results. This press release and webstream of this call can be found under the Investors & Media section of our website at immunogen.com.
+
+With me today are Mark Enyedy, our President and CEO; Anna Berkenblit, our Chief Medical Officer; and Susan Altschuller, our Chief Financial Officer.
+
+During today's call, we will review key accomplishments of the business over the last three months, our financial results and upcoming milestones. During the discussion, we will use forward-looking statements, and our actual results may differ materially from such statements. Descriptions of the risks and uncertainties associated with an investment in ImmunoGen are included in our SEC filings.
+
+And with that, I'll turn the call over to Mark.
+
+Thanks, Courtney. Good morning, everyone, and thank you for joining us today. Despite the challenges of operating in a COVID-19 environment, our performance in the second quarter was marked by sound execution, key data presentations and important regulatory milestones. Our highest priority for the business is the completion of the pivotal studies for mirvetuximab, and we are actively enrolling patients in both SORAYA and MIRASOL.
+
+Like other companies, however, we experienced slower than anticipated safe initiation for these studies during the second quarter. With conditions improving, particularly in Europe, we estimate a limited six- to eight-week delay in reporting top line results for SORAYA, and now expect the readout to be in Q3 2021 versus our previous guidance of mid-2021.
+
+That said, given that large portions of BLA are already complete, we continue to anticipate filing for accelerated approval of mirvetuximab in the second half of 2021. With an earlier start and longer lead time, MIRASOL remains on track for both top line data and submission of a supplemental BLA.
+
+Beyond the initial approval for mirvetuximab, we are considering multiple options for label expansion. To this end, we presented encouraging data from the FORWARD II Avastin expansion cohort in a virtual oral presentation at ASCO. These data demonstrate the potential of mirvetuximab to serve as the combination agent of choice regardless of platinum status, and thereby, meet the needs of a broader patient population within the current ovarian cancer.
+
+Moving to our earlier stage programs, we are pleased to share with you this morning that EMA's Committee for Orphan Medicinal Products has adopted a positive opinion to grant IMGN632 orphan drug designation for the treatment of BPDCN.
+
+And then, FDA has accepted the IND application for our first-in-class ADAM9-targeting ADC, IMGC936 which we are codeveloping with MacroGenics. I thank Scott Koenig and the entire MacroGenics team for their partnership in delivering the IND. This is a great example of what good looks like when it comes to 50/50 co-development programs. We look forward to enrolling the first patient in the Phase 1 study in the fourth quarter.
+
+In addition, IMGN151, our next generation anti-folate receptor alpha ADC advanced into preclinical development. We presented compelling preclinical data at AACR that support its further exploration in various FR-alpha-positive tumor types. Anna will cover this program in more detail in a moment.
+
+Finally, we are pleased to have welcomed Stacy Coen to ImmunoGen as our Chief Business Officer, and most recently, Susan Altschuller as our Chief Financial Officer. In addition to great energy, Stacy and Susan strengthen our management team with invaluable skills and experience to support our transition to commercial business.
+
+As we look to the back half of this year, we will be presenting mature data from our triplet cohort evaluating mirvetuximab in combination with carboplatin and Avastin, and platinum-sensitive disease at ESMO. And data from the BPDCN expansion cohort and progress on the AML monotherapy, and combination cohorts for IMGN632 at ASH.
+
+With that, I'd like to welcome Susan to her first earnings call with ImmunoGen, and turn the discussion over to her to review our financials. Susan?
+
+Thank you, Mark. I'm excited to be joining ImmunoGen at such an important time in the company's evolution. ImmunoGen is on a cusp of transitioning into a commercial stage biotechnology company. And I look forward to working with Mark and the rest of the team as we continue to advance our novel portfolio of next-generation ADCs.
+
+Moving to our second quarter financial results, the details of which were included in our press release issued this morning. For the second quarter of 2020, we generated $15 million in revenue, nearly all of which came from non-cash royalty revenue.
+
+Second quarter operating expenses were $33.4 million compared to $56.6 million in the prior year. Operating expenses for the second quarter of 2019 included a $19.3 million restructuring charge.
+
+R&D expenses for the second quarter were $22.9 million compared to $28.6 million. This $5.7 million decrease was driven by lower expenses resulting from the restructuring of the business at the end of the second quarter of 2019. This was partially offset by greater clinical trial costs related to advancing our MIRASOL, SORAYA, and IMGN632 studies.
+
+General and administrative expenses for the second quarter of 2020 increased to $9.8 million compared to $8.7 million for the second quarter of 2019, due to increased professional fees and a higher allocation of facility-related expenses for excess laboratory and office space, partially offset by lower personnel expenses. After the second quarter, we have $219.5 million in cash.
+
+Our 2020 financial guidance remains unchanged. We continue to expect revenues to be between $60 million and $65 million, our operating expenses to be between $165 million and $170 million, and our cash at year-end to be between $170 million and $175 million.
+
+ImmunoGen is preparing for potential accelerated approval for mirvetuximab in platinum-resistant ovarian cancer and is planning for increased investment in 2021 related to manufacturing in support of potential commercial launch. With the addition of these investments, the company expects that its current cash and anticipated cash receipts from partners will fund operations into the second quarter of 2022.
+
+With that, I'll turn the call over to Anna to review our clinical progress in more detail. Anna?
+
+Thanks, Susan. I'll begin by mentioning that we have maintained a nimble approach to clinical trial execution consistent with the latest regulatory guidances and are continuing to activate sites and enroll patients in our registration trials for mirvetuximab and in our IMGN632 program.
+
+Regarding mirvetuximab, you'll recall that in late 2019, we aligned with FDA on an accelerated pathway for approval of mirvetuximab via SORAYA, our pivotal single-arm study evaluating mirvetuximab monotherapy in approximately 110 women with platinum-resistant ovarian cancer, whose tumors are folate receptor alpha high as measured by the PS2+ scoring method and who have previously received Avastin.
+
+As Mark mentioned, the COVID-19-related site activation delays are anticipated to result in a six- to eight-week enrollment delay. However, we are confident that we will gain sufficient momentum in both the US and Europe this quarter to support top line data in Q3 2021 and potential approval in 2022.
+
+We are continuing to enroll patients and open additional sites in MIRASOL, our confirmatory Phase 3 study of mirvetuximab, which launched in December last year. As a reminder, MIRASOL will enroll approximately 430 patients with folate receptor alpha high, platinum-resistant ovarian cancer who have been treated with up to three prior regimens.
+
+Patients will be randomized 1:1 to receive mirvetuximab or an investigator's choice of chemotherapy namely, paclitaxel, pegylated liposomal doxorubicin or topotecan. The primary endpoint is progression-free survival and the secondary endpoints are overall response rate, overall survival and patient-reported outcomes. We continue to anticipate top line data for this study in the first half of 2022 to support full approval in 2023.
+
+Turning to our FORWARD II combination studies with mirvetuximab, we are pursuing doublet and triplet cohorts with bevacizumab and carboplatin in order to expand into earlier lines of therapy, provide longer durations of treatment and serve as the combination of choice in ovarian cancer.
+
+At the virtual ASCO meeting in May, initial efficacy and safety data evaluating mirvetuximab in combination with bevacizumab in recurrent ovarian cancer were highlighted in an oral presentation, demonstrating an encouraging overall response rate of 64% in patients with high folate receptor alpha expression regardless of platinum status.
+
+The data generated to-date could support compendia listing. And given the observed responses and favorable tolerability profile, we are currently evaluating formal label expansion opportunities for this combination.
+
+Looking ahead to the fall, we plan to present mature data from the FORWARD II platinum-sensitive triplet cohort evaluating mirvetuximab in combination with carboplatin and bevacizumab at ESMO in September, and look forward to supporting initiation of a randomized Phase 2 investigator-sponsored trial evaluating mirvetuximab in combination with carboplatin in platinum-sensitive disease in the second half of the year.
+
+Moving to our earlier stage portfolio, we continued to advance programs that target a range of tumor types in both hematological malignancies and solid tumors. We continue to progress multiple cohorts with IMGN632, including monotherapy expansion in BPDCN and minimal residual disease positive AML following frontline induction therapy, and combinations with azacitidine and venetoclax in relapsed/refractory AML patients.
+
+We look forward to presenting data from the IMGN632 monotherapy BPDCN expansion cohort, and progress on the AML monotherapy and combination cohorts at ASH in December.
+
+We also moved IMGN151, our next generation ADC, designed to target tumors with a broad range of folate receptor alpha expression into pre-clinical development. As a reminder, IMGN151 comprises an asymmetric bivalent, biparatopic antibody targeting two independent epitopes of FR alpha, linked to a highly-potent maytansinoid derivative, DM21, via a cleavable peptide linker with enhanced stability, longer half-life and increased bystander activity.
+
+At the virtual AACR meeting in June, we presented data on IMGN151, demonstrating enhanced antitumor activity in both in vitro and in vivo preclinical models with complete regression of human tumor xenograft models induced in those with high, medium, and low levels of FR alpha expression. Based on these data, we look forward to exploring IMGN151 in the clinic in multiple FR alpha-positive epithelial malignancies, including ovarian, endometrial, triple-negative breast, and non-small cell lung cancer and expect to file the IND for IMGN151 in the second half of 2021.
+
+With that, I'll turn the call back to Mark.
+
+Thanks, Anna. And with that, we'll open the call for questions. Operator?
+
+Thank you. [Operator Instructions] And our first question comes from John Newman with Canaccord. Your line is open.
+
+Hi. Good morning, guys. Thanks very much...
+
+Good morning, John.
+
+...for taking my question.
+
+Sure.
+
+Mark and Anna, maybe for this question, just curious if the FDA has allowed any accommodations in the SORAYA study due to COVID? We know that they've issued some guidance in the past several months. For example, just curious if perhaps you might be able to enroll an additional patient or two if you have to have someone drop out for COVID?
+
+And then, just have an additional question which is, in terms of the triple combination for mirvetuximab, should we think about that ultimately as a frontline regimen or would it be more likely that you would explore mirvetuximab and carboplatin in the frontline beforehand? Thanks.
+
+Thanks, John. So, in terms of FDA and potential [ph] accommodations (00:13:51) for COVID, the way to trial is design, SORAYA, is that we need to have approximately 110 evaluable patient. And typically, we define evaluability based on ensuring patients have baseline and then follow-up scans. If it turns out that there are some patients who are quite ill because of COVID and cannot comply with protocol-related procedures, we would anticipate potentially just amending the protocol and/or discussing with FDA. But we will have 110 evaluable patients for the primary efficacy analysis.
+
+To your second point...
+
+Great.
+
+...regarding the mirvetuximab/bevacizumab combination, this is a really exciting combination, because we saw activity in both recurrent platinum-sensitive ovarian cancer and in platinum-resistant ovarian cancer. So, thinking about development of this doublet, it certainly could be in platinum-resistant disease, also in platinum-sensitive disease, even in the frontline setting as an [ph] outback (00:14:55) maintenance doublet.
+
+So, it really has a lot of potential and this is why we're working hard now to figure out the formal label expansion strategy for that doublet. In addition, we are gathering more data from mirvetuximab plus carboplatin based on the really encouraging data from Phase 1 dose escalation. And that certainly could be an upfront doublet or, again, appropriate for recurrent platinum-sensitive disease. Our focus right now for that doublet is to get the IST up and running with our colleagues in Germany later this year.
+
+And John, maybe just to follow-up on your question about the triplet, we'll have the data at ESMO and we'll be looking at that, I think, principally in the recurrent setting and evaluating different approaches to think about where we would go upfront and potentially in a neoadjuvant setting. So, those are discussions that ongoing with our key advisors. And as I say, we'll have the mature data at ESMO from the initial triplet cohort.
+
+Okay. Great. Thank you very much.
+
+Thank you. [Operator Instructions] Our next question comes from Kennen MacKay with RBC Capital Markets. Your line is open.
+
+Hi. Thanks so much for taking the question and giving us the opportunity to work in questions here. Maybe just in – on slowdown in enrollment. Obviously, Q2 was really an unprecedented time with really the majority of the country shut down for at least a little while, but it does seem like COVID-19 is here to stay. Wondering if you are sort of building in slowdowns in various geographies into the new guidance on trial enrollment timelines or what you're hearing now that, technically, the country has opened back up but several geographies are still being impacted. Thanks so much.
+
+Yeah. Thanks, Kennen. At a high level, we started strong, in part because a lot of the filings and initial approaches to the site took place before the heavy onset in mid to late March. And so, we were a little bit ahead of the curve. But what we observed during the quarter with the slowdown in terms of the responsiveness, particularly at the site level, as they were closing sites to access to people other than essential personnel and the like. And so, that's really what we saw over the course of the second quarter.
+
+Correspondingly, what we see on a go-forward basis is that the sites are reopening in terms of access. People on-site, in particular the administrators, to turnaround the paperwork and the like. We've implemented some innovative approaches around the patient screening, all of which, particularly in Europe. And keep in mind that we expect to enroll at least as patients in these studies in Europe as we do in the US.
+
+And so, what we've seen of late is a resurgence and acceleration of activity, particularly in Europe, as it relates to the study. And that's what we have factored in as we've looked at the impact to the study timelines here. And so, what we've seen really, is about a six- to eight-week delay at this point.
+
+Got it. Thank you for taking the questions.
+
+Sure.
+
+Thank you. Our next question comes from Andy Hsieh with William Blair. Your line is open.
+
+Oh, excellent. Thanks for taking my question. I hope everybody's doing well and congratulations on your new roles, Susan and Stacey. So, the MRD+ AML opportunity is kind of interesting. So, just want to check my understanding in terms of where IMGN632 fits in the treatment paradigm. So, you basically have patients getting induction – following induction if this particular patient has MRD positivity, then you get IMGN632 followed by oral azacitidine maintenance based on the recent approval. Is that how you kind of think about where it fits?
+
+So, Andy, we are exploring IMGN632 in MRD+ disease as a maintenance option. And we're excited that oral azacitidine has paved the way from a clinical trial perspective and potentially a regulatory perspective here as well, although their design was a bit different than ours. It's too early to tell, but given the tolerability that we've seen for our monotherapy and the convenience of a short IV infusion once every three weeks as an outpatient, we think it really has the potential to be the best maintenance option for patients with AML. It's early day. Certainly, we are also combining it with azacitidine and that could be another option not just for treatment but also a maintenance regimen as well. So, early days, Andy, but the way you're thinking about it there is one of the options and there's certainly others.
+
+Oh, got it. Thanks for the clarification. And, back to mirv, there's a lot of moving parts, including the potential of Avastin plus PARP as a maintenance option in the second half of this year. So, just curious about how that could change some future trial designs.
+
+And also kind of related to that, very excited about ESMO triplet data, but going forward, do you have to kind of think about incorporating PARP as an option for patients in the maintenance part of the trial just to make sure that captures kind of the current treatment paradigm as well?
+
+Yeah. So, let me unpack some of the concepts that you just laid out there, Andy, and tell you how we're thinking about it. So, yes, PARPs are being combined with Avastin and the data look quite good there as a potential maintenance option. Certainly, we have very nice data showing that we combine well with Avastin. There's also an IST that is being performed for mirvetuximab with rucaparib in heavily pre-treated patients. So, we do look forward to gathering more data for mirvetuximab with the PARP inhibitors.
+
+I think the field is evolving quite rapidly in terms of trying to understand which patients benefit the most from PARP inhibitors and how to sequence therapies. BRCA [ph] mutation, patients (00:22:10) either germline or somatic, certainly benefit the most from PARP inhibitors. Then, when you think about the broader HRD-positive group, those patients benefit as well. But then, once you get to the HRD-negative patients, they really don't benefit that much from PARP inhibitors. So, the unmet need in that group remains high as well.
+
+So, I think we're still trying to figure out how best to integrate mirvetuximab in combination in earlier lines of therapy because of the dynamic landscape. I'm optimistic that mirvetuximab will become the combination partner of choice because of the tolerability profile we've generated thus far. The other point to note is that there are no data showing that PARP inhibitors work after PARP inhibitor. So, our sense is that PARPs will be used upfront in the maintenance setting, and then after that, patients are going to need additional effective therapies and mirvetuximab will play a large role for patients with ovarian cancer.
+
+Okay. Yeah, right. That totally makes sense. So, for ESMO, last year, we got a glimpse of what's to come, super high response rates in the 80s – or 90% range, depending on which segment you're looking at. So, what are some things that you're kind of mostly excited about? What are the things to watch out for as we approach the ESMO conference?
+
+Yeah. So, the triplet of mirvetuximab, carboplatin, and Avastin is quite active based on response rate, as you saw last year. And this year, we're going to show you a longer duration follow-up, so you'll see progression-free survival and duration of response data. No doubt that triplet is active and no doubt that it is feasible. I think, there are other triplets out there and there's really three of them that do get used to Taxol-carbo-Avastin, carbo-gem-Avastin, and carbo-DOXIL-Avastin.
+
+And so, thinking of that how our triplet could be integrated and where it [ph] works (00:24:22) best for patients will require additional work. Also, typically, these triplets are used in the frontline setting. And so, that will be a large, long trial, a big commitment for ImmunoGen. So, as we think about lifecycle management, the triplet could play an important role. But right now, our near-term focus is for label expansion strategies that will yield benefit for patients sooner from a regulatory perspective.
+
+Okay. Great. Thanks for taking all my questions.
+
+Thank you. Our next question comes from Debjit Chattopadhyay with H.C. Wainwright. Your line is open.
+
+Hi, guys. Good morning. This is [ph] Aaron (00:25:05) on for Debjit. Thanks for taking the question. So, once patients are enrolled, is completion of follow-up scans becoming difficult to complete because of inability to get to the clinic sites? And should we – or should we be expecting any missing data from the patients at the top-line readouts from either of the ongoing pivotal studies? And how might you deal with that and the effects on the evaluation of the data?
+
+Yeah. So, as Mark mentioned, we're seeing sites regaining momentum. And once – when sites are open and they're enrolling patients, we do anticipate that they will suddenly not be able to get their scans done. So, they're opening up to the point that they can screen patients for eligibility and do the dosing every three weeks for the mirvetuximab arm or on the control arm from MIRASOL. We anticipate the patients will be able to get all of the protocol-required assessments for them to be evaluable.
+
+As I mentioned earlier in the call, if it turns out that there are some patients who are not evaluable, we certainly have options to adjust the protocol to enroll additional patients to ensure that we have a sufficient number of evaluable patients for the primary efficacy analysis.
+
+Okay. Great. Okay. So, the unconfirmed response that were reported at ASCO in the FORWARD II study, can you tell us if those have converted to confirmed response at this point or [ph] is that something to expect later (00:26:47)?
+
+Yeah. [ph] And Aaron (00:26:49), just to be clear, we don't report unconfirmed responses. All of our responses are confirmed responses. So, there's nothing to update there. Those data were rock solid, is the best way to put it. But, I mean, that – this is how we approach all of our publications.
+
+Oh, okay. Great. That's good to know. And then, last, could you tell – are there any steps being taken to mitigate the ocular toxicity issues in the ongoing pivotal studies? I mean, I know that you guys said that administration of lubricating drops steroids have done a really good job of lowering the Grade 1 and 2 events. So, are those being given prophylactically or is there any sort of evaluation of patients to see if they have any proclivity for ocular issues? Any updates there?
+
+So, mirvetuximab has been studied in over 700 patients. We have a very good understanding of the ocular profile for mirvetuximab. In fact, we even did a separate ocular cohort early in the development of the drug to demonstrate the benefit of corticosteroid eye drops given to all patients. And therefore, in our initial Phase 3 trial FORWARD I, all patients got lubricating and steroid eye drops from the start. And with that, we saw that it was the minority of patients who had any ocular adverse event. And those that did, it was almost entirely low-grade. The discontinuation rate for ocular adverse events is extremely low. We only had one patient in the Phase 3 trial discontinue due to Grade 2 blurred vision.
+
+So, based on the really nice data we've generated thus far, we are continuing with the same management of these ocular adverse events. So lubricating eye drops, steroid eye drops for everyone. And then, if a patient is having blurred vision that requires some adjustment, you can have a dose modification. And again, with that, it – we basically had only a handful of patients, over the 700, discontinuing due to blurred vision.
+
+Okay, great. Thanks for that, thanks for the context. Bye. Thank you.
+
+Our next question comes from Biren Amin with Jefferies. Your line is open.
+
+Yeah. Hi, guys, Thanks for taking my questions. Maybe if I could just start on IMGC936. You announced, I think, the IND's been accepted by US FDA. What are the next plans in terms of just Phase 1/2 trial? Which tumor types would you look at? I'm going to assume this is a 3 + 3 design. Are you also going to be incorporating the H score in the trial?
+
+Yeah. So, ADAM9 is a novel matrix metalloproteinase target for antibody-drug conjugates. Ours is the first addressing this target. And yes, we are planning to get it into the clinic later this year. We will do the standard dose escalation, 3 + 3, in a handful of different solid tumors that we know express high levels of ADAM9. This includes non-small cell lung cancer, gastric, triple-negative breast cancer, and pancreatic cancer.
+
+And yes, we will be assessing ADAM9 by immunohistochemistry and, based on our deep experience in the development now of biomarkers for patient selection, based on our folate receptor alpha experience, we will apply those lessons learned to IMGC936 to ensure that we select the patients that will most benefit from this antibody-drug conjugate; anticipating that we'll have expansion cohorts in one or more of these solid tumor types based on preliminary efficacy that we see in dose escalation.
+
+And then just on, I guess, IMGN632, I think you announced that you're going to have some data at ASH and will announce, I guess, data in both the monotherapy cohort on BPDCN, as well the combo cohorts in AML. Could you just maybe talk about how many patients, what type of follow-up should we expect? And do you expect that we would see a signal where you would have, I guess – you would have identified a Phase 2 dose to move forward with?
+
+Yeah. So, for IMGN632, we're really excited about the monotherapy BPDCN data. That enrollment has continued to go quite well, and so we'll share all the data that we have at ASH. The combinations, as you know, we're combining IMGN632 with azacitidine, we're combining with venetoclax, and we're combining as a triplet; and those combinations are progressing. I think ASH is probably premature for us to say that we've declared a random – a recommended Phase 2 dose, but we certainly will share the progress that we've made at that point.
+
+Great. Thanks for taking my questions.
+
+Thank you. Our next question comes from Boris Peaker with Cowen. Your line is open.
+
+Good morning. First, I just want to ask about the MIRASOL and SORAYA trials. Just curious how do they differ in terms of patient follow-up requirements or any other patient burdens kind of in the COVID environment, is one more appealing to patients than another?
+
+So, in terms of patient follow-up and burden of clinical trial procedures, the trials are identical. The only difference between SORAYA and MIRASOL, from an eligibility perspective, is that SORAYA patients must have had prior Avastin so that they are appropriate for single agent such as in mirvetuximab. In MIRASOL, patients may or may not have had prior Avastin.
+
+The other key difference is that SORAYA is a single-arm study. So, when the patient will – enrolls on SORAYA, they know they're going to get mirvetuximab. MIRASOL is a randomized trial 1:1, so patients will have a 50/50 chance of getting mirvetuximab or investigator-choice chemotherapy.
+
+Got you. My next question is on the combination – from mirvetuximab combination. When we talked about several triplet options and certainly a lot of moving pieces, I would just want to kind of get a sense of timeline when you think you'll kind of boil down the leading combination for pivotal study and what that pivotal study might look like.
+
+We're working through the label expansion options for mirvetuximab plus bevacizumab right now. We've generated data in 120 patients for that combination based on the two cohorts. So, that really is, I would call, the lead prospect for label expansion. With the triplet, as you know, we have a – it was a 30 or 40 patient cohort, and then we'll present the updated data at ESMO for that.
+
+And I would imagine we would consider generating additional data for our triplet before we put our stick in the ground for a label expansion strategy for that. Again, in part, because of the large size and long duration of any type of randomized trial with triplet therapy with such a high response rate and long progression-free survival.
+
+Got you. And lastly, on the BPDCN study, you mentioned, obviously, that you're going to be presenting it at ASH. Could you comment just what kind of response rate do you think you need to show in these advanced patients in a single-arm study for it to be acceptable for approval?
+
+So, we look forward to discussing that very question with the FDA, essentially later this year. But what I can tell you is that the, in the [indiscernible] (00:34:54) label in relapsed/refractory disease, there were 2 CRs, CR/CRc, out of I think it was 13 patients. So, I think the bar is pretty low.
+
+Great. Thank you very much for taking my questions.
+
+Thank you. Our next question comes from Michael Schmidt with Guggenheim. Your line is open.
+
+Hey, guys. Good morning. Thanks for taking my questions. I had on IMGN151. It was interesting to see the recent AACR comparison, I guess, preclinical comparison to mirvetuximab. I was just curious if – how you think about the contribution to this of improved efficacy – just curious how much of that may be due to the different toxin that is being used versus the biparatopic antibody? And maybe some additional information on the DM21 toxin and how that compares to the more legacy-type toxins you used in mirvetuximab?
+
+Yeah. Michael, I think it's a little bit hard at this point to tease out the individual components. I think what were the most of proud of is that we were able to integrate multiple improvements into that molecule. So, the linker payload complex is more stable. So, we get more drug to the tumor in the first instance. We have improved binding and internalization, which improves efficacy.
+
+And then, as you mentioned, the design around DM21 includes of active metabolite, which also improves the bystander effect. So, it's really all of those things working together. So, I'm not sure we could isolate an individual element to sort of say what the impact is. But what we clearly see from those data is a significantly improved efficacy, particularly in those cell lines, in models with lower levels of folate receptor alpha expression, which was the key design criteria here based on the clinical experience with mirvetuximab.
+
+And so, that's how we're thinking about it. And so, as we've looked at the big picture here, obviously, this gives us a chance to – within ovarian cancer, to address patients with lower levels of expression. But also, what we'd see when we look at other tumor types is those are characterized, in general, with lower levels of folate receptor alpha expression. So, this gives us an opportunity to more effectively address those separate indications.
+
+Okay. Great. Thanks. And then, just one question on ovarian cancer. On a competitive landscape, just wondering if it's known to what degree folate alpha receptor expression overlaps with other antigens such as a NaPi2b, for example?
+
+Yeah. I'm not aware of any published data that answers that question, Michael. But folate receptor alpha is expressed in over 80% of ovarian cancer and NaPi2b is also overexpressed in about 80%, 85% of ovarian cancer. And I think – we also know that it's really the patients with high folate receptor alpha expression, the 40% of ovarian cancer patients who benefit the most from mirvetuximab.
+
+NaPi2b, certainly the Genentech ADCs that has – was stopped in development for NaPi2b, they did not use the patient selection strategy, and they didn't really see suspicious activity to continue progressing that molecule. Now, with Mersana's NaPi2b, they may need the patient selection strategy. And then, it's not clear to me at this point whether or not those patients would overlap with high FR alpha patients.
+
+Very helpful. Thanks. And then, last one. I don't know if that came up earlier. But just on the regulatory pathway in BPDCN, just wondering, I guess, if there – if you've had any sort of interactions with the FDA on requirements there. And how do you think about timelines towards filing in BPDCN specifically, which is a very fast-to-market type opportunity?
+
+Yeah. We see it in those terms. And so, our goal for this year has been to generate sufficient data in this population to discuss a reasonably coherent profile for IMGN632 and BPDCN in terms of efficacy, safety and tolerability. And so, our goal is to get with the agency before the end of this year with the data in hand to find a path forward, which as you say, the goal there would be to emphasize the speed-to-market strategy for this rare indication.
+
+Okay, great. Thanks, and appreciate the update.
+
+Great. Thanks, Michael.
+
+Thank you. [Operator Instructions] Our next question comes from Jonathan Chang with SVB Leerink. Your line is open.
+
+Good morning, and thanks for taking my questions. First question, what are your latest thoughts on potential business development opportunities for mirvetuximab?
+
+As we've discussed previously, Jonathan, we've had inbound interest in terms of the rights to mirvetuximab in China. And so, we're pursuing those opportunities. And beyond that, our focus is, first and foremost, the US market. We see that as the largest and most profitable market. And so, the expectation is that we would be in a position to launch in the US. This is a highly-concentrated market, limited number of physician targets in the initial labeled indication for the products. There's no active competition. So, I mean, what we're doing here is demonstrating superiority to single-agent chemotherapy, particularly in the MIRASOL study design. And all of the drugs that are used there are generics drugs. And I can't speak directly to what Roche Genentech is doing in terms of a rapid promotion, but it's limited.
+
+And so, we think that a commercial investment here would be modest and something well within the ambit of a company with our experience. So, that's the US, and I think we will be evaluating opportunities for Europe as we go forward. But again, the market there is actually slightly more concentrated than the US market. However, the need to have national-level commercial infrastructure offsets that incremental increase in concentration.
+
+But again, a focus investment could support a very effective launch, particularly in the [ph] T5 (42:29) in a limited additional set of clusters. For example, the Nordics and Benelux. So, we're evaluating that as we speak. So, the principal focus at the moment is around the opportunity in China.
+
+Got it. Thank you. And second question on IMGC936. The MacroGenics team also sounded really excited about this program on their call yesterday. Can you talk about the promise of ADAM9 as an ADC target and reasons for excitement for this program?
+
+Sure. So, ADAM9 is a novel target [ph] , it's the (43:11) matrix metalloproteinase expressed on the cell surface of multiple solid tumors. It is not expressed particularly on normal tissue. So, that window – that difference between tumor expression and normal tissue expression makes it an ideal target for an exciting drug conjugate.
+
+We can target the tumor into their normal tissues of the toxicities associated with non-targeted, if you will, cytotoxic therapies like standard chemotherapy. It is also [ph] internalized node (43:44) that is another key feature of any target that makes a good target for an antibody drug conjugate.
+
+And then, it is expressed on multiple solid tumors that really have high unmet need. Pancreatic cancer, gastric cancer, and even non-small cell lung cancer, while there have been amazing developments in non-small cell lung cancer, the unmet need remains high there.
+
+And then, triple negative breast cancer. That's a smaller portion of breast cancer, but these patients don't have any targeted therapies available to them. So, that is another opportunity as well. These are really the top solid tumors that express ADAM9. And certainly, there are others that we could explore once we have achieved proof of concept with one of the tumors that I just mentioned.
+
+Got it. Thanks for taking the questions.
+
+Sure. Thanks, Jonathan. Just to add an addendum there. I mean, we really do thank the team at MacroGenics. They've been great collaborators, worked hard to get the IND in. And so, we're now in a position to move forward with this and are expecting our first patient in the fourth quarter. We're really excited about this because this program integrates the DM21 payload [ph] within (45:02) site-specific conjugation, made some improvements to the antibody. And so, we're very much looking forward to seeing how this product performs in the clinic.
+
+Thank you. And we have a question from Joe Catanzaro with Piper Sandler. Your line is open.
+
+Hey, guys. Thanks so much for taking my questions here. Maybe one first on IMGN632. So, Anna, you mentioned Elzonris. We've gotten about five quarters' worth of insight into the BPDCN market via that product. Just wondering how that influences your thinking around that opportunity and what learnings maybe that provides to how you approach it.
+
+Yeah. This is Mark, Joe. What we hear is that the clinical profile of Elzonris is quite challenging for physicians. And so, first and foremost, the community physicians have generally not wanted to manage patients in that office. And so, refer patients into the larger centers. That drug requires hospitalization for the first course. So, patients have to go into the hospital for a minimum of six days.
+
+And then, there are significant other toxicities and that drug carries a black box warning for capillary leak syndrome. So, there are a number of challenges with respect to the profile of that drug. And when we look at IMGN632, what we'd see is compelling efficacy, really a very benign safety profile in terms of the adverse event. And this drug can be administered in 30 minutes in the outpatient setting.
+
+And so, what we could see there is a profound difference in the profiles of those two drugs, which I think presents us with a very different opportunity from a development perspective. Our initial focus is in the relapsed/refractory setting.
+
+What we've seen is that patients who've been previously treated with Elzonris, as well as previously treated with intensive chemotherapy regimens respond to IMGN632. And so, I – we think that we are focused, as we've mentioned in some of the earlier comments with Michael and Boris, on our speed-to-market strategy. And we think the relapsed/refractory patients positions us best to effect that strategy. And with this profile, we think that that would allow us to get to an initial [indiscernible] (47:49) that we could think through what expansion would look like into frontline patients.
+
+So – and this is a rare indication, but the goal here is to get a product on the market. And then, look for further expansion opportunities which is why all of the spade work that'd been ongoing in AML is important to the longer-term value of the program.
+
+Okay. Got it. Thanks. Maybe just one quick follow-up, if I may. So, you're still guiding towards a second half 2021 BLA filing. I think, Mark, you noted that large chunks of the BLA are already complete. Just wondering what parts would need to be completed beyond data from SORAYA [indiscernible] (48:28) those things that you could get started before the top line readout from that trial, or do you need to wait?
+
+Yeah. So, I mean, one of the big elements of any BLA filing is the CMC section. And so, we're in good order there in terms of all of our vendors lined up and the related processes. And so, much of that work has already been completed. So, we'll look to do that. The pre-clinical sections are well underway So, it really would be the clinical supplement that we're looking at here.
+
+Okay. Got it. Thanks so much for taking my questions.
+
+Sure.
+
+Thank you. And there are no other questions in the queue. I'd like to turn the call back to Mark Enyedy for closing remarks.
+
+Great. Thanks very much. We appreciate your time today. It's a challenging quarter in terms of operating in the context of a pandemic. I'm very proud of the team here in terms of the work that we've been able to do to maintain momentum across the portfolio, and keep us generally on track with the timelines that we've previously articulated.
+
+And we look forward to continuing to update you with the additional milestones as we work through the back half of the year, and particularly starting with the – with ESMO. So, thanks very much and stay safe.
+
+Ladies and gentlemen, this concludes today's conference call. Thank you for participating. You may now disconnect. Everyone, have a great day.

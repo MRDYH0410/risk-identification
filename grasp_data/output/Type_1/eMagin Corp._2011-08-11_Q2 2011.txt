@@ -1,0 +1,134 @@
+Participants
+CORPORATE PARTICIPANTS
+Paul C. Campbell — CFO, Treasurer, SVP & Head-Investor Relations, eMagin Corp.
+Andrew George Sculley — President, Chief Executive Officer & Director, eMagin Corp.
+
+Management Discussion Section
+
+Question And Answer Section
+
+Good day, ladies and gentlemen and welcome to the Second Quarter 2011 eMagin Corp. Earnings Conference Call. My name is Kayers, and I will be your coordinator for today. At this time, all participants are in a listen-only mode. Later, we will conduct a question-and-session. [Operator Instructions] As a reminder, this call is being recorded for replay purposes.
+
+And I would now like to turn the call over to your host for today, Mr. Paul Campbell, CFO. Please proceed.
+
+Thanks very much. Welcome, everyone to eMagin Corporation's second quarter 2011 conference call. As always, before we begin, I remind you that we will be referring to number that are part of our 10-Q for the second quarter of 2011 ended June 30, 2011.
+
+During today's call, we may make forward-looking statements as they are defined in the Private Securities Litigation Reform Act of 1995. These forward-looking statements are based on the company's current expectations, projections, beliefs and estimates and are subject to a number of risks and uncertainties. Such statements include reference projections of future revenues, plans for product – production and development, the company's ability to ramp up production at its manufacturing facilities, future contracts and commercial arrangements, future product benefits, future operations, liquidity and capital resources as well as statements containing words like believes, expects, estimate, plan, target, will, intend, could and other similar expressions.
+
+Risk factors are included in the company's Form 10-K for 2009 and 2010 on file with Securities and Exchange Commission. Except if it's directly required by the federal securities laws, we undertake no obligation to publicly update or revise any forward-looking statements, whether as a result of new information, future events, changes in circumstances or any other reasons.
+
+At this point, I'd like to turn the call over to Andrew Sculley, President and CEO.
+
+Thank you, Paul. And thanks, everyone for participating in our conference call. I'll start by giving you a brief overview of our business and Paul will discuss our financial results and then we will open up the call to your questions.
+
+During the second quarter, our domestic and international base business remained strong. Our R&D programs advanced and we returned to profitability. The gap between actual and planned production narrowed during the period. However, it was not as much as we had anticipated.
+
+As we announced earlier, we reduced our 2011 revenue guidance to between $29 million and $33 million due to the delay of two programs into 2012. One of the programs now we know has been cancelled. So, that will affect 2012. Our information tells us there is potentially a simpler solution for what the military was planning to do that would still involve our microdisplays. So, we could still be okay there.
+
+We continue to address our capacity constraints and expect to see further improvement in the second half of the year. Late this year, we plan to bring our new seal machine that's an augmentation to our current seal process, and next-generation OLED deposition machine on-line.
+
+Our partner in the design and build of the new OLED deposition machine SNU Precision is working on a few remaining items before our acceptance. We continue to expect that it will be running in our factory by the end of the year as the deposition machine is expected to provide a 10-fold increase in deposition capacity and to increase efficiency and yield.
+
+For an example, our current machine requires us to us to break vacuum to change from one product to another. This results in a loss of a day and a half as we make the tooling change and return to vacuum and then return to production. The new tool can make this change while maintaining vacuum, therefore much, much, faster. The change I mentioned is one issue we face as we run many more products at volume on the machine than last year. We've more than doubled the number of products we produce at volume by adding the SXGA, VGA, and WUXGA displays.
+
+In the meantime, our team is making every effort to address production capacity constraints and deliver our customers' orders including running the OLED deposition machine 24 hours and using the weekends to replenish materials and calibrate the machine for the next week of production.
+
+The staffing we've added and trained has allowed us to keep to the schedule. Our base business and order flow remain strong, and we continue to pursue and win new contracts. Our newest display, a WUXGA, has 1920 x 1200 pixels. This is a higher resolution than a full HDTV, yet it is less than one inch in diameter.
+
+It is the highest resolution full-colored microdisplay that we've seen. It also has the smallest sub-pixel size of about 3 microns. This is important to our customers who ask us to build displays with higher resolution yet keep the size small. It is also important for display costs. The more displays we can fit on silicon wafer, the lower the cost to produce.
+
+In May, we displayed the WUXGA at the Society of Information Display, or SID Conference in Los Angeles. It was extremely well received by current and potential customers. In fact, our competitors were there and they were clearly impressed with the display.
+
+We are on a schedule with the commercialization of the WUXGA, we are on schedule. We have completed the first deposition of the significant number of wafers. We are funded for this first phase of the commercialization. The second phase is expected from another group later this quarter and our goal for commercialization is the end of the year.
+
+We have completed a TATRC milestone, and TATRC is the U.S. Army Telemedicine for the WUXGA display in a binocular headset. We have just recently shown a running 3D video to two companies and they were extremely impressed. As I looked at the display video, there were times when the cameras were moving, and it made you feel like you wanted to move too, and you were supposed to be moving. It was a – it is a great, great picture.
+
+A number of companies are evaluating the digital VGA. This is a good resolution for many of the thermal weapon sights and night vision goggles used by the military. It is a smaller display than our major running product and therefore also less expensive to manufacture. Some customers have integrated it into new products, and others are looking to upgrade products to take advantage of the lower power, higher contrast and improved pixel to pixel uniformity which are performance features of this digital VGA display.
+
+We are providing assemblies or displays to the three customers who use eMagin in their bid for the ENVG program, recall that's the fused image Enhanced Night Vision Goggle program. Our customers are going through their test to ready themselves for the next decision phase by the U.S Military, and that we expect about the middle of next calendar year.
+
+We are discussing a project with a new group for the development of the display with a resolution greater than the WUXGA, that is greater than 1920 x 1200. This will require yet smaller pixels to keep display size and cost down. We feel more confident today that we can drive towards even smaller pixel pitches. One of our current R&D projects is driving towards pixel pitch that is 16% smaller than what's in the WUXGA. And again we feel that we're making significant progress there.
+
+We submitted a white paper to TATRC for the advanced binocular head mounted display system with our WUXGA displays that's an extension of the current program we're on. And we've also have a number of white paper submittals to the Night Vision Labs.
+
+We should hear about these requests for proposals in the next few months. We're working on a contract for the – with a U.S foundry on new wafer structures. This is to enable advanced OLED structures. This contract is worth about $0.5 million from the Night Vision Labs and it's scheduled for completion in 2011. The new OLED structures have the potential to add to our already efficient displays. We have plans for new structures that could be available in a few years but also ones that hinge on current work on the night vision projects that although long term would be a quantum leap forward in technology. There we are taking advantage of the potential for OLED and our great knowledge of both OLED capability and manufacturing.
+
+Our work with the University of Rochester's Ching Tang on solid-state lighting has started. Ching Tang is one of the two inventors of OLED that both our Senior Vice President of R&D, Amal Ghosh and I've worked with when I was the General Manager of the OLED division of my prior company.
+
+Here we are working on light extraction. It may be surprising for you to know that most of the light emitted by an OLED in a typical display, including ours, never comes out to the viewer. The same, of course, is true for OLED lighting. Getting an improved technique to extract more light and also applied to our displays will give us improved efficiency. In other words, it's extra light for free.
+
+We have received a sizable purchase order for our high-performance OLED SXGA from a new industrial customer. They are also interested in our WUXGA display when it's commercialized at the end of this year and the headset built for the TATRC project.
+
+The work with the Japanese industrial customer for another high-end application with the SXGA is also progressing towards a decision by that company. Our display for our customer, that Japanese customer, is the only one capable of satisfying the demanding application. We cannot disclose the identity of either one of those but hope to at some point in the future.
+
+OASYS has increased its demand for their redeye thermal weapon sight viewer that we won a couple of years ago. We have established a multi-year procurement agreement to support France's FÉLIN soldier program, and we continue to see orders for L-3's Javelin programs and expect them to remain stable in 2011.
+
+And now I would like to turn the call over to Paul who will take you through our financial results.
+
+Thanks, Andrew. For the second quarter of 2011, we reported total revenue of $7.4 million, an increase of 37% from the first quarter, but down from the $8.3 million for the second quarter of last year. The decrease was primarily due to lower R&D contract revenue and to lower or fewer shipments of our Z800 product. We continue to expect a strong year overall in R&D contracts and revenue and Z800 shipments will resume in quarter three.
+
+Product and contract revenues accounted for 20% and 80% respectively of our quarterly total revenue, compared to 23% and 77% respectively last year. Gross margin was 49% of revenue on gross profit of $3.6 million for the quarter, compared to gross margin of 57% on gross profit of $4.7 million in the same quarter last year. The decline in gross margin was primarily due to higher costs caused by lower yields and fixed costs being spread over a lower revenue base.
+
+On a sequential basis, gross margin improved significantly from the 41% reported for the first quarter of 2011. As revenues have increased and production has improved, yields have increased somewhat, and we expect to see additional improvement in the second half of 2011 and further improvement in 2012. These would be due to the implementation of our new seal machine and the new OLED deposition machine that Andrew mentioned previously.
+
+For the second quarter of 2011, operating expenses, comprised of R&D expenses and SG&A expenses, were $3.0 million versus $3.8 million last year. The decrease in expenses was primarily due to a reduction in legal fees and severance expense, partially offset by an increase in personnel costs. SG&A was 30% of sales in the second quarter of 2011 versus 38% of sales a year ago.
+
+If you recall, in second quarter last year, we had a one-time severance expense of about $1 million, and when you adjust that out, our operating expenses are up a little bit as a dollar and a percentage of sales in second quarter of 2011. This is due to some personnel increases and some cost increases that have to do with our production output primarily.
+
+Operating income for the second quarter was approximately $624,000, as compared to approximately $959,000 in second quarter of last year. Adjusted EBITDA for the second quarter was a positive $1.2 million, up strongly from $463,000 in quarter one.
+
+During the second quarter, our financial position remained strong due to the improved operating income and EBITDA, positive cash generation from operations, and no debt. At the end of the quarter, we had cash and cash equivalents and CDs of approximately $12.6 million compared to $12.4 million at the end of last year. eMagin requires extra time to complete its full Q2 earnings release due to a recent change in audit firms and to address the issue of accounting treatment of warrants as well as a change in the method of calculating earnings per share.
+
+Our new auditors have recommended a change to the two class method for calculating earnings per share. This change does not impact Q2 diluted EPS, but has a $0.01 reduction impact to basic earnings per share for Q2. And it is also expected to have an impact on historical basic EPS, but an immaterial impact on diluted EPS historically.
+
+Resolution of the warrant treatment could impact second quarter earnings per share as well as reported historical earnings per share. However, this change would only impact the income statement below the operating line and is non-cash in nature. As soon as a determination regarding these items is made, a complete earnings report will be released.
+
+With that, I'll turn it back over to Andrew.
+
+Thanks, Paul. Although our production challenges have impacted our throughput, we continue to be pleased with the strong customer interest we see in our markets. As we work hard to further improve efficiency and yield in the second half of 2011, we remain optimistic for the longer term. Our business with existing customers continue to grow, and we continue to receive strong interest from both the military and the new commercial customers I had mentioned.
+
+We also continue to develop and manufacture new and improved microdisplay products that have made our product portfolio more attractive to customers.
+
+As I mentioned during the second quarter, we had our first acceptance test with our vendor for the new OLED deposition machine in their factory. They are working on the modifications that we require, and we still expect it to be in operation at the end of the year in our factory.
+
+The new machine is expected to have a 10-fold increase in capacity, better yield, longer uptime, and quicker product changes. We also anticipate shipping out the new piece of equipment to greatly improve our OLED seal process, and that we expect to be up and running at the end of this year as well. It will significantly improve our yield and like the new deposition machine, again expect it to be running at the end of this year.
+
+Now with that I'll open it up – the call up to questions. Thank you.
+
+[Operator Instructions] And your first question comes from the line of [ph] John Pearson (00:18:44). Please proceed.
+
+Hello?
+
+Hello, guys. I just have a quick question, in the past you described a competitive landscape and it appeared to me at least that eMagin was virtually alone in the OLED microdisplay field. But given the Sony CES prototype debut in January and their XGA electronic viewfinders coming out, I was wondering if you could give me an updated picture given what's happened this year.
+
+Well, on the – let me talk about the CES device that Sony did. The display inside was 1280 x 720. So it's not quite as large as our SXGA display, and they did say Sony OLED. I know Sony has the capability of depositing OLED. The only thing I don't understand is why couldn't they do the larger dimension as we do. So, I think that they are probably not quite doing the same thing we are. My guess is that they're doing OLED on high temperature polysilicon which is a bit more difficult to get the resolution that we get.
+
+If I were to think about the competition doing more like we do and therefore being able to get the higher resolution, there is a French company MicroOLED that is still not in major production in military programs, so they're behind us. So, that's the other one I worry about.
+
+And the SXGA, again – or the XGA is a lower resolution. So, I don't think you are going to see Sony any time soon doing a large enough resolution to be replacing us, for example, in military programs. But they are something that could – they could be in consumer products, and that could make other companies that require displays. For example, Sony is unlikely to sell displays to any other company. So if they came out with a consumer product, they may make companies that you and I know very anxious about getting display. So that could be helpful to us. In other words, if Sony pulls a consumer product, that could be a helpful thing.
+
+Okay. Thank you.
+
+You're welcome. If you have any other questions about that, I'd be happy to talk about it.
+
+Okay. And can I ask one more question, do you have any plans for the Z800 as far as increasing the resolution in the displays in that?
+
+Well, we are working – we mentioned a number of timings that the TATRC headset and that's using the full – better than full HD display. It's got some wonderful features like large eye box which means you don't have to adjust the two displays to your eyes. There are number of wonderful features, very wide viewing angles. So it's a very nice headset, and there are some customers interested in that. Now that's not to say that we're going to go out and put it in a consumer headset right away, but I think it would have commercial applications first.
+
+Okay, great. Thank you very much.
+
+You're welcome. Thanks for the question. I appreciate it.
+
+[Operator Instructions] And at this time there are no further questions in queue, and I would now like to hand to call back to Mr. Sculley for closing remarks.
+
+Well thank you very much. Just to quickly recap the business, customer demand is strong. It has been – we've returned to profitability in the second quarter. We continue to address production issues and that is our yield and efficiency isn't what we had anticipated. It's better than it was in the first quarter, but not where we want it to be. We still are – we're looking forward to the new OLED deposition machine and the new seal tool which will allow us to much more efficiently produce many products we have to and also to produce them at better yield. And so, we're going to work very hard to get those in place and have a much better time at meeting the demand we see for the future.
+
+I appreciate very much you all on the conference call. I want to say that I appreciate the work that the eMagin team has done. It has been an outstanding effort – it's been difficult for us, but when we ask people to run a third shift on the – for the OLED deposition machine, they signed up to do it, and we have an engineer working third shift.
+
+We have a team that now works two-shift on the other end, the back-shift end of the business and the R&D people, besides generating outstanding ideas, are working like mad to complete these projects on time. So we all owe them a great debt of gratitude for what they've accomplished.
+
+And I admit to you that we have a long way to go in terms of improving our production. I thank you very much for participating in the call. In the future, please let us know if you have any questions we'd be glad to answer them for you. Thank you.
+
+Thanks very much.
+
+Ladies and gentlemen, that concludes today's conference. Thank you for your participation. You may now disconnect. Have a wonderful day.

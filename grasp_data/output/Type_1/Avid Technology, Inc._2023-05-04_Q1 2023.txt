@@ -1,0 +1,325 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+Whit Rappole — Vice President-Corporate Development & Investor Relations, Avid Technology, Inc.
+Jeff Rosica — President, Chief Executive Officer & Director, Avid Technology, Inc.
+Kenneth Gayron — Chief Financial Officer & Executive Vice President, Avid Technology, Inc.
+Josh Nichols — Analyst, B. Riley Securities, Inc.
+Terry Tillman — Analyst, Truist Securities, Inc.
+Paul J. Chung — Analyst, JPMorgan Securities LLC
+Jack Vander Aarde — Analyst, Maxim Group LLC
+Nehal Chokshi — Analyst, Northland Securities, Inc.
+
+Management Discussion Section
+
+Question And Answer Section
+
+Good afternoon, ladies and gentlemen, and welcome to Avid Technology's First Quarter 2023 Earnings Conference Call. My name is Whit Rappole, Avid's Vice President for Corporate Development and Investor Relations. Please note that this call is being recorded today, May 4, 2023, at 5:30 PM Eastern Time.
+
+With me this afternoon are Jeff Rosica, our Chief Executive Officer and President; and Ken Gayron, our Chief Financial Officer and EVP. In their prepared remarks, Jeff will provide an overview of our business, and then Ken will provide a detailed review of our financial and operating results, followed by time for questions.
+
+We issued our earnings release earlier this afternoon and we have prepared a slide presentation that we will refer to on this call. The press release and presentation are currently available on the Events & Presentations page of our Investor Relations website at ir.avid.com. And shortly following the conclusion of this call, a replay will be available on our IR website for a limited time.
+
+During today's call, management will reference certain non-GAAP financial metrics and operational metrics. In accordance with Regulation G, both the appendix to our earnings release today and our Investor website contain a reconciliation of the most closely associated GAAP financial information to the non-GAAP measures and also definitions for the operational metrics used on this call and in the presentation. Unless otherwise noted, all figures noted by management during the call are non-GAAP figures, except for revenue, which is always GAAP.
+
+In addition, certain statements made during today's presentation contain forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. Our comments and answers to your questions on this call, as well as the accompanying slide deck, may include statements that are forward-looking and that pertain to future results or outcomes. These forward-looking statements are based on our current beliefs and information available as of today. Actual future results or occurrences may differ materially from these forward-looking statements. For more information, including a discussion of some of the key risks and uncertainties associated with these forward-looking statements, please see our press release issued today and our most recent Annual Report on Form 10-K and Quarterly Report on Form 10-Q filed with the SEC.
+
+With that, let me turn the call over to our CEO and President, Jeff Rosica, for his remarks.
+
+Thanks, Whit. And my thanks to everyone who has joined us today to review Avid's first quarter results. Let me get started right away by offering a summary of the three big takeaways for the quarter before I dive a bit into each of these points. First and foremost, we're quite pleased with the performance of the strategic recurring revenue portion of the business in Q1 with our subscription and SaaS business continuing to perform very well.
+
+Subscription revenue was up nicely year-over-year with subscription ARR up over 31% year-over-year on a constant currency basis, and we continued to consistently add to our overall subscriber base in the quarter.
+
+Next, we continued to see strong overall customer demand and bookings for our Integrated Solutions. Though, as we work through resolving the ongoing supply chain issues, we did face more significant temporary challenges and costs in the quarter, specific to our Audio Hardware products than we had anticipated. This created substantial and unexpected gross margin headwinds for Audio Hardware, which impacted overall profitability and free cash flow in the quarter.
+
+We firmly believe that these issues are transitory as we work through resolution of these issues caused by the impacts from the macro supply chain situation. And our teams have good line of sight to resolve the majority of the issues we're currently seeing as we proceed through the balance of the year. And we expect to normalize hardware gross margins by the second half of 2023.
+
+Also, we're taking further proactive cost savings measures to help mitigate these near-term headwinds that we're managing through, which Ken and I will both discuss further in our prepared remarks.
+
+And lastly, with the continued strong subscription performance, ARR growth and bookings trend, combined with our proactive measures in managing cost to protect against near-term macro headwinds, we continue to have full confidence in our long-term growth strategy and the outlook for the year. And as such, we are reaffirming our guidance for the full year.
+
+Now, let me dig in a bit more and provide some specifics on each of these areas. We continue to see strong adoption of our Creative Tools subscriptions and Enterprise Subscription and SaaS offerings, which resulted in quite solid growth in our overall subscription business in the quarter. Subscription ARR grew year-over-year at over 31% at constant currency to $150 million, which helped drive total ARR to $247 million, representing growth over 9% year-over-year at constant currency.
+
+Our subscriber base continued to grow nicely, [ph] with us (00:04:21) adding approximately 20,700 Active Paid Software subscriptions, which brings our total to over 526,700 at the end of the quarter, representing an increase of 22% year-over-year. Our Creative Tools are an essential part of our subscription growth, and we continue to see strength in this area, especially for the key products, Pro Tools and Media Composer. As part of our growth strategy in the music creation segment, we continue to innovate and further grow the Pro Tools subscription business with current customers and also attracting more of the next-generation music creatives.
+
+As we continue to ramp up our strategic focus on the music creation space and are gearing up for a very important product release plan for the second half, we announced a new Pro Tools program called Sonic Drop, which provides subscribers access to a monthly mix of new samples, loops, and instrument presets. I'm really excited about the new Pro Tools innovation that is coming from music creators, and we look forward to unveiling it later this year as we strongly believe that extending Pro Tools deeper and wider into the music creation space should drive meaningful acceleration in subscriber growth.
+
+Adoption of Enterprise Subscriptions continues to trend very well, increasing our confidence in the growth trajectory of our overall subscription business. And ARR per subscription seat continued to improve as Enterprise Subscriptions becomes a larger portion of the business.
+
+Two weeks ago at the NAB Show in Las Vegas, we announced a new agreement with TelevisaUnivision to collaborate on moving the content production workflows across their portfolio of international media properties to Google Cloud as part of their strategic innovation plans, enabling them to meet spikes in content demand and maximize cost efficiency by leveraging our Flex subscription offerings in the cloud.
+
+I believe that this announcement offers another proof point of our market leadership and first mover advantage as the media industry starting to move to cloud-based workflows and SaaS solutions. As I mentioned earlier, we did continue to see good customer demand and bookings for integrated solutions in Q1, while integrated solutions revenue increased slightly this quarter to $28.7 million. Our backlog does remain elevated due to the remaining supply chain constraints and continued good demand. And we ended the first quarter with a backlog of over $20 million. We still expect to resolve the current situation over the next couple of quarters and expect to end 2023 in a more normalized state.
+
+And as I highlighted before, during the first quarter, we did experience greater gross margin headwinds than we anticipated with our Audio Hardware products. Specifically, gross profit on Audio Hardware was adversely impacted by temporary higher costs of producing these products. As we work through resolving the impacts of the macro supply chain situation on this specific portion of our business. The impact on the Audio Hardware gross profits did have a flow through impact to EBITDA, EPS and free cash flow in the quarter.
+
+As I discussed previously, we are currently taking further proactive cost savings measures and working diligently to mitigate the effects of the global supply chain situation on our business and drive the financial performance of the company. Also, back in April, we announced the MTRX II audio interface that was very well received by the market, which replaces the current MTRX interface that has been one of the products that has had significant component supply issues. The new MTRX II, which utilizes newer [ph] FPA technology (00:07:54) that is less expensive and has better availability, is expected to begin shipments during Q2 and should improve volumes and margins in this important product area.
+
+While we experienced issues with our Audio Hardware, we saw continued success and solid financial performance with our strategic – with our storage business. New product offerings to new markets as well as the cloud and on-prem software subscription options that we now offer have driven sustained success in this area of the Integrated Solutions business.
+
+Last month we announced the availability of Avid NEXIS Cloud Nearline Storage for our Edit On Demand SaaS offering, bringing highly cost-efficient Nearline Storage to cloud based content creation workflows, as well as unveiling the new NEXIS F2 SSD storage solution for ultra-high resolution and ultra-high performance video workflows, both of which were very well received by customers and prospects at the recent NAB Show.
+
+Our Enterprise Subscription agreements are quite valuable for the company, especially with a multi-year contractual commitment as well as the resulting uplift and increase in ARR that we are realizing. This is motivated us to accelerate the end of life of our remaining perpetual software license options, which is the right business decision for the company, though it does create a bit of a near-term comparative headwind for us.
+
+As a management team that is quite experienced and proven at navigating various macro headwinds over the past few years, we remain hyper-focused on delivering improved earnings and free cash flow in 2023, and as such, are proactively managing our cost structure. As previously mentioned, we offered a voluntary early retirement program during the first quarter. And along with other significant cost savings initiatives that we're executing on this quarter, we have confidence that we can offset the temporary margin shortfalls that we're currently experiencing to help ensure that we stay on track to deliver on our profitability and cash flow targets for the year.
+
+And we're making the right cost decisions to also protect and help self-fund our strategic innovation and digital transformation as part of our long-term growth plan. Ken will offer some specific financial details on the additional cost savings plans that we're currently implementing during his comments.
+
+Extending on my earlier remarks, we are seeing sustained strength in our opportunity funnel and sales pipeline and continued to see strength in our overall bookings in the quarter, which were up more than 20% year-over-year. One of our global routes to market is through our channel partners. And as we've talked about previously, we have established an agreement called the Strategic Purchase Agreement or SPA as a premium level of the Avid reseller program, which is only available to our highest performing, most engaged and investment partners. As of the first quarter of 2023, we now have over 70 channel partners around the globe who are on SPAs, and these strategic partners are playing a key role in helping drive strong bookings growth.
+
+Now, let's talk about where we see things going forward from a business perspective. We expect continued strength in subscription and an increase in ARR going forward. As I mentioned on the call last quarter, we believe ARR is really the right metric for investors to understand the real underlying growth trajectory of our subscription and SaaS business. With our shift to subscription and SaaS, we do expect maintenance revenue to trend down over time. However, we do expect increased hardware shipments, planned pricing adjustments, and solid renewal rates to contribute to stabilizing maintenance revenue during the remaining quarters of 2023.
+
+We will continue investing in innovation and digital transformation, which are important to our strategic growth plan, while very carefully managing our overall cost structure.
+
+As I mentioned earlier, we will focus on self-funding our growth initiatives through specific restructuring efforts and proactive cost management and controls. As this management team has done multiple times previously, we are committed to taking the appropriate actions to deliver profitability throughout business cycles, and we're taking the actions to do so again as we navigate the current macro environment.
+
+With an improving line of sight to resolving the current supply chain challenges, which admittedly have been a bit more stubborn to resolve than we anticipated, we do fully expect the supply chain conditions temporarily impacting Audio Hardware shipments and margins to gradually improve starting in Q2 and through the second half. With the planned cost savings measures, along with planned price actions to address our Audio Hardware concerns, I am confident we have the necessary action plans in place to mitigate these issues by the second half of 2023.
+
+While we are taking a cautious stance for Q2, we remain confident in the overall performance trajectory of the business and with the continued strength of our subscription business and bookings trend combined with the proactive measures we're taking to manage costs in order to protect against near-term macro headwinds, we continue to have full confidence in our long-term growth strategy and the outlook for the year. And as I mentioned in my opening comments, we are reaffirming guidance for the full year.
+
+So, with that, let me now turn the call over to Ken to review some of the financial details. Take it away, Ken.
+
+Thank you, Jeff. And good afternoon, everyone. In the first quarter, we continued our strong performance in our core subscription business in growing our recurring revenue. Our focus for the remainder of 2023 will build – to further build our high margin subscription revenue, proactively manage our costs, and continue to stay on track with our long-term model. We expect these efforts to result in improving profitability as we move through 2023. Given this, we are reaffirming our annual guidance for fiscal year 2023.
+
+With that, let's now turn into the details of our first quarter financial results. Annual recurring revenue based on the annualization of subscription and maintenance bookings was $247 million in the first quarter, an increase of $19 million or 8% year-over-year and 9% year-over-year at constant currency. Growth in ARR was due to subscription ARR growth of 30% as we continue to convert maintenance customers to subscription revenue at healthy uplifts while adding new customers.
+
+At constant currency, subscription ARR increased 31% year-over-year. Additionally, the unshipped integrated solutions backlog, which was $20 million at March 31, negatively impacted the maintenance ARR as the unshipped orders would have contributed about $2 million to maintenance ARR negatively impacting ARR growth by 1%. Absent this, our ARR growth would have been in excess of 10% year-over-year at constant currency.
+
+We continue to focus on growing our recurring revenue from subscription, maintenance and other revenue under long-term agreements to drive greater predictability in our business. As of the end of the first quarter, LTM recurring revenue was 85% of total revenue, up from 79% a year ago and in line with our long-term model.
+
+Now, let us look at the results of the first quarter of 2023, beginning with subscription. We are encouraged by the continued growth of our subscription base. Our total Active Paid Software subscription count reached approximately 526,700 at the end of the first quarter, an increase of 22% year-over-year. Creative subscription growth was healthy and solid and Enterprise Subscription performance in the first quarter continue to exceed our expectations. We added approximately 13,300 new Creative subscriptions for growth of 14.8% year-over-year, led by a sequential increase in both Pro Tools and Media Composer net adds and continued growth in Sibelius. We now have over 100,000 Media Composer subscriptions, an important milestone for the company.
+
+Overall, we are highly confident in the consistent growth of our Creative Tools subscription business, but expect to see strong improvement in license growth in revenue in the second half. With the introduction of our music creation applications in Pro Tools that Jeff mentioned earlier.
+
+Moving to our Enterprise Business, MediaCentral Subscriptions grew to approximately 53,300, an increase of about 7,400 during the first quarter, representing year-over-year growth of 176%. The increase in Enterprise Subscriptions furthers our confidence in the transition of our existing customer base to subscription.
+
+We believe we have converted about 40% of MediaCentral maintenance customers to subscription as of March 31 and still have a large opportunity in MediaCentral ahead of us. Plus over $40 million of storage, video server and graphics maintenance that will move to subscription over time. As our Enterprise Subscription business continues to become a more meaningful part of our subscription mix, it is continuing to positively impact our overall price per seat as the price of our Enterprise seat is a multiple of the price per seat of a Creative seat.
+
+The impact is helping to drive a 6.7% year-over-year increase in subscription ARR per Active Paid Software subscription. The consistent growth in the number of paid subscriptions drove continued growth in subscription revenue during the first quarter, which reached $39.4 million, an increase of 19.5% year-over-year and 21.2% on a constant currency basis.
+
+Now, moving to subscription plus maintenance. During the first quarter, maintenance revenue was $22.6 million, down 20% year-over-year. Many maintenance contracts are renewed around year-end. We have seen an associated decline in software maintenance from Q4 to Q1. As we continue to successfully convert our enterprise customers to subscription offerings at healthy uplifts in excess of 150%, we expect to see a reduction in the related software maintenance revenue from those customers.
+
+However, we expect hardware maintenance revenue to improve due to the price increases, plus expected higher hardware revenue and associated maintenance beginning in the second quarter as we expect our backlog will be depleted to normal levels by year-end. As a result, we believe total maintenance revenue will be stable at $22 million to $23 million per quarter for the remainder of 2023, supported by the current $97 million in maintenance ARR at the end of Q1.
+
+Total subscription and maintenance revenue increased year-over-year by 1.2% in the first quarter and 4.1% on a constant currency basis, driven by the strong subscription performance, offset by the decline in maintenance software and temporary headwinds on maintenance hardware that should reverse going forward. Our subscription and maintenance gross margin was 85.9% in the first quarter, up 320 basis points year-over-year.
+
+Now, let's look at our Integrated Solutions performance. In the first quarter, Integrated Solutions revenue was $28.7 million, an increase of 1.8% year-over-year as we continue to work through the remaining supply chain issues that have hindered our Audio Hardware production capacity. We ended the first quarter of 2023 with $20 million of contractually committed backlog at March 31. Our Integrated Solutions gross margin was 29.2% in the first quarter, down 1,200 basis points year-over-year. As Jeff said, although we made some progress in resolving the supply chain challenges, we did see an impact on Audio Hardware gross margins in the first quarter.
+
+Approximately $1.5 million of the year-over-year gross profit decline was due to purchase price variation in the cost of components for Audio Hardware. $1.1 million was due to the shipments of Audio Hardware in the quarter from aged backlog at old sale prices but higher components costs, and $900,000 was due to a higher mix of lower-margin audio products in the quarter and higher production costs. Together, these impacts caused a $3.5 million year-over-year gross profit decline in the quarter, which flowed directly to operating income and EBITDA. We are driving additional price increases to recapture margins, including surcharges on aged backlog, and we expect to see an improvement in our key component costs. As a result, we are highly confident that our Integrated Solutions gross margins will improve in Q2 2023 and get back to more normal levels of 40% plus in the second half of the year.
+
+Now moving to the rest of our revenue. Perpetual license revenue was a $0.5 million in the first quarter of 2023, a decrease of 89.5% year-over-year as we continue to de-emphasize perpetual software and move to subscription software as we execute our plan to end-of-life perpetual solutions. The large amount of perpetual revenue in the prior year made our year-over-year comparison more challenging in Q1 2023. But moving forward, the amount of perpetual revenue in our prior year periods will be much less of an issue for year-over-year comparisons going forward.
+
+In the first quarter, our professional services and training revenue was $6.5 million, an increase of 9.4% year-over-year and 12.5% year-over-year on a constant currency basis. During the fourth – first quarter, we also continued to make progress with our projects to make our solutions available on AWS and Google Cloud, which continues to track to our plan.
+
+Now let us look at the rest of our results for the first quarter of 2023. Total revenue in the first quarter was $97.8 million, down 2.8% year-over-year and flat at constant currency, reflecting the strong performance across subscription as well as the perpetual decline.
+
+Non-GAAP gross margin was 64% for the first quarter, down 280 basis points year-over-year and down 180 basis points at constant currency. This was due to decline in Integrated Solutions gross margin despite strong margin improvement from our strategic subscription and maintenance revenue as discussed previously. Non-GAAP operating expenses were $52.2 million in the first quarter, a $2.5 million increase year-over-year. As part of our efforts to control our spending while preserving our ability to invest in high-growth areas, we have taken several actions.
+
+During the first quarter, we implemented a voluntary early retirement program, which is expected to reduce costs by approximately $2 million in fiscal year 2023. In the second quarter, we are implementing a restructuring which is expected to reduce cost by an additional $13 million in fiscal year 2023. As a result of these actions and other cost savings efforts, we expect our operating expenses to decline in the second half of 2023, resulting in operating expenses of approximately $215 million for fiscal year 2023.
+
+There is [ph] buy-in (00:23:42) across the entire senior management team on managing our cost base while protecting investment in our subscription business to drive improved profitability and long-term value creation for our shareholders.
+
+Adjusted EBITDA was $12.7 million in the first quarter, down $6.5 million year-over-year, reflecting the lower gross profit from Integrated Solutions and higher operating expenses as discussed. Finally, non-GAAP earnings per share was $0.15 for the first quarter, down $0.18 year-over-year, reflecting the lower adjusted EBITDA and higher interest expense due to increase in base rates.
+
+Free cash flow was negative $6.5 million in the quarter, down $11 million year-over-year due to the reduction in adjusted EBITDA and higher inventory to support the planned increases in Integrated Solutions shipments starting in Q2 2023, plus timing of receivables collections at the end of the Q1. We ended the first quarter of fiscal year 2023 in a strong financial position with net debt-to-EBITDA of 2.1 times.
+
+As discussed during our fourth quarter and fiscal year 2022 earnings presentation on March 1, we will continue to invest in our growth initiatives to drive our subscription revenue, but we'll be very prudent in our overall expense management to improve our free cash flow in 2023. Also, we expect working capital to be more of a benefit in the second half of 2023, which should assist free cash flow along with the improvements we expect to see in our profitability.
+
+Finally, we continue to execute corporate actions to enhance long-term shareholder value. During the first quarter, we repurchased 16,000 shares for $400,000, reflecting an average price of $26.74 per share, bringing the total repurchases to 2.9 million shares or $78.4 million under the $115 million authorization. We will continue to deploy capital prudently in the most responsible way to drive long-term shareholder value.
+
+Let's now turn to guidance. As Jeff said, we're confident in the underlying strength of our business. We expect continued strong growth in our subscription business and a positive trajectory given the strength in our bookings the last two quarters.
+
+Additionally, with the improvements in our cost structure, we expect to see significant growth and profitability in cash flow in the second half of the year. We also continue to expect to see gradual improvement in the Integrated Solutions gross margins beginning in the second quarter of 2023 that will eventually return to 40% plus margin levels in the second half of the year.
+
+In terms of guidance for the second quarter of 2023, our guidance is as follows. ARR at the end of the period of $246 million to $251 million. At the midpoint, this reflects 8% year-over-year growth and approximately 30% year-over-year growth for subscription ARR. Sequentially, the ARR growth is slightly ahead of Q1 2023.
+
+Total revenue guidance of $101 million to $111 million. At the midpoint, this reflects 8.5% growth year-on-year. Adjusted EBITDA guidance of $13 million to $20 million and non-GAAP earnings per share guidance of $0.15 to $0.30, assuming 44.1 million shares outstanding.
+
+At this time, we are also affirming our guidance for full year 2023 that was discussed during our fourth quarter and fiscal year 2022 earnings presentation on March 1. Our guidance for 2023 ARR at the end of the period remains $270 million to $280 million, a range which represents year-over-year revenue growth of 12.3% at the midpoint. We believe ARR will accelerate in the second half with improving growth from Pro Tools, continued transition of MediaCentral maintenance [indiscernible] (00:27:46) to subscription, renewal of our first cohort of MediaCentral enterprise customers [ph] are (00:27:51) positive uplifts in the second half of the year, and a rebound in our hardware maintenance revenue.
+
+Our guidance for 2023, total revenue remains $447 million to $472 million, a range which represents year-over-year revenue growth of 10.1% at the midpoint. Our guidance for 2023 subscription and maintenance revenue remains $292 million to $302 million, a range which represents year-over-year growth of 13.7% at the midpoint.
+
+Our guidance for 2023 adjusted EBITDA remains $95 million to $105 million. Our guidance for 2023, non-GAAP EPS remains $1.53 to $1.75, assuming 45 million shares outstanding. And our guidance for 2023 free cash flow as adjusted remains $50 million to $60 million, which includes $7 million in cash restructuring charges. Our 2023 free cash flow guidance reflects the improvement in profitability and an improvement in working capital, slightly offset by higher cash interest expense due to higher base rates and restructuring costs.
+
+With that, I'd like to turn the call back to Whit.
+
+Thanks, Ken. Thanks, Jeff. One slight correction. Share count for the EPS guidance for the full year is 44.0 million. That concludes our prepared remarks. And we are now happy to take questions. Please limit yourself to one question and one follow-up.
+
+Our first question is from Josh Nichols at B. Riley to be followed by Terry Tillman. Josh, please go ahead.
+
+Hi. Thanks for taking my question.
+
+Yeah, Josh, we can hear you now. Good.
+
+Perfect. Got it. So, I mean, clearly, you're working through a couple lingering issues on the hardware side. It sounds like you expect that to ramp up in 2Q into the rest of the year. But subscription revenue growth has been quite resilient here. I'm wondering if you could elaborate a little bit. You have this new Pro Tools offering that's going to support the growth acceleration in the second half. Also, anything that's come in on the SaaS front that you think is going to be driving accelerated growth, whether that's work with AWS or anything else? If you could give us a little bit more color on that.
+
+Yeah. Hi, Josh. This is Jeff. So, yes, actually, there's a few things. Now, there's the – no, we haven't announced it yet, but there – we have at least told the market, as you know, that there is a new innovation coming around Pro Tools for music creation. That is going to announce in the second half, and we'll have an impact in the second half, especially in that music creation space.
+
+So, we're – a lot of the work that we're doing now with Sonic Drop and some of the new like GrooveCell and SynthCell and PlayCell, the work we're doing like on the tiering with the artist, Pro Tools artists, all of that is basically readying the playing field for what we're going to launch here in the second half. So, that's going to help us – Pro Tools is already performing quite well. I think that's going to give us another boost and lift in the second half.
+
+We also do have more things coming around our subscription offerings on the enterprise. There is new releases in MediaCentral and some new applications or modules coming with that. There is we're extending more with a – we just recently showed a preview of something we call, Stream IO.
+
+We're also doing some new things around storage subscription, and that includes some of the cloud deployments. I can't give you specifics on. I'm not allowed to give specifics yet on cloud by cloud. But let's just say that, that is all coming in the numbers. So we have a number of things that's going to help us in the second half, and we're looking forward to that. Hope that answers the question.
+
+Josh, [ph] sure. One more thing (00:31:49). There also as we have tech previewed it. I just remembered we can say something because it was tech previewed at NAB is we know we have Edit On Demand right now. We do have a more expanded version that we call Production On Demand or Avid On Demand. We haven't nailed the name, but we did it. We did show it in preview at NAB so I can talk about it. And that is coming before the end of the year also. And that's a very much enhanced SaaS offering.
+
+Thanks, Josh. Our next question is from Terry Tillman at Truist. To be followed by Paul Chung. Terry, please go ahead.
+
+Yeah. Thanks, Jeff, Ken, and Whit. Can you – first of all, can you hear me okay?
+
+Yes, we can, Terry.
+
+Yeah. Perfect Terry.
+
+Okay. You said – I can have a question and a follow-up. One of these questions may potentially almost be a two-parter, but I'm going to give it a go on the – for Jeff. You know, one thing I'm curious about is it sounds like you're going to have your first cohort of MediaCentral renewals in the second half of the year. So that sounds like an important milestone.
+
+Yes.
+
+How are those conversations going and what kind of visibility do you potentially have around either product or subscription expansion? And then the second part of this first question is was the 20% bookings growth about where you expected or above your expectations? Love some color on that. And then I had a follow up for Ken. Thank you.
+
+Yeah. Perfect. Hi, Terry. So, on the question regarding the cohort, yeah, the cohort does start in the second half. It's near – it's late Q3 and into Q4. The customers that are in that cohort, we know them pretty well. They're very stable and sticky customers, I believe. Those discussions are just starting, so I wouldn't want to get ahead of it to talk about what we would precisely expect, but we've got a pretty good handle on what we believe is possible and what is likely in the opportunities for those customers. So I'd say, for us, it's a good thing coming and we're excited about it. So, I wouldn't like to get ahead of that, obviously, also on a public call.
+
+I think on the – you know, in general, I think that's kind of where we see it. On the bookings trend, it was a little bit better than we expected initially. It's driven a large, as I talked about our strategic purchase agreements, which are with some of our biggest and, let's say, highest performing channel partners, they really had a heavy hand around the world in driving growth through their programs. And so, we're really seeing some great performance from those partners. And it did perform a bit better than we had expected. So, it was nice to start the year with that out of the gate.
+
+Certainly. And then, Ken, just to follow up – thank you, Jeff. The follow up, Ken, is just on free cash flow, I'm not trying to pin you down to something like [ph] pinpoint (00:34:39), but is it a positive free cash flow in 2Q or is it just going to be a modest burn? Just trying to – I know it's clearly going to get – it's supposed to get better in the second half, but just trying to kind of bridge 1Q to the second half. Thank you.
+
+Yeah. No. Thank you, Terry for your question. We expect it to be a modest burn in the second half. We expect...
+
+Second quarter.
+
+...second quarter, it's – we have obviously built up some working capital and inventory. And we did announce our cost reduction and cost plans, but we're only going to get a partial savings of that in the quarter because they're going to be impacting really in mid-May. So cash flow will be much, much stronger in the second half of the year. And that's historically what Avid has delivered. Just given the seasonality in terms of some of the business, so the cash flow generation will be more in the second half, second half of the year.
+
+Thank you.
+
+Thanks, Terry. Our next question is from Paul Chung at JPMorgan to be followed by Jack Vander Aarde. Paul, please go ahead.
+
+Hi, thanks. Thanks for taking the question. So just want to follow-up on the guidance. Can you talk about the confidence to kind of reiterate fiscal year 2023 guide? What are some key drivers that could maybe provide some upside there? And is the variability mostly on the hardware side that's causing some uncertainty? And then or are you seeing maybe some step ups in subscription, maybe across enterprise that gives you more confidence?
+
+Yes. So Mark, why don't I take it, and then Jeff can follow up. So we feel really highly confident in hitting the 2023 guidance, given the booking strength that we have and the plans that we have for improving our Audio Hardware margins and the improvement in the operating expenses. So I think that's in general.
+
+In terms of the revenue, we have talked about the improvements that we're going to have in our Creative Tools business with Pro Tools. That will drive additional revenue, and we will then have additional revenue growth in MediaCentral from continued new customers and converting the existing base plus renewing the cohorts plus additional revenue in storage and servers as those move to subscription. So we feel good about the revenue growth in subscription and strategic revenue. We also have the backlog that will be shipped in the second half of the year. So that will drive the revenue towards the midpoint of the guidance levels that we have.
+
+To achieve the higher end, we need to probably overperform on the Pro Tool side or have better uplifts on the MediaCentral given those are two of the biggest revenue components in subscription. As that drives the growth, that will drive improving gross margins for the company. And with the OpEx that we have a clear line of sight to, we feel really good about the EBITDA generation based on that revenue growth that will be incremental to what we see today in the first half. So we have a clear line of sight to the improvements in the P&L that will allow us to hit the guidance and then generate the positive free cash flow from the improvement in EBITDA and working capital as we go through the year.
+
+Great. Thanks for that. That's very helpful. And then a follow-up, just revisiting the long-term growth model to 2025. Where do you think we are on plan across the segments? And where do you think we can see kind of better improvement in your view across the line items? And that's it for me. Thanks.
+
+Yes. I think in general, we continue to be – if you think about the top line revenue, we continue to be in line with the long-term plan with the Creative subscription growth kind of being in the 25% area. We expect to achieve that as part of – as we look out, given the innovations in the Creative Tools and the large TAM that we have in both Pro Tools.
+
+On Enterprise Subscription, we have a lot of maintenance to continue to convert in MediaCentral and our – also our storage, servers and graphics products that will go to subscription. So that's all ahead of us. So we expect that to continue to deliver on our Enterprise Subscription, which has been a good growth engine for the company.
+
+So those two areas, we feel very confident on, and we expect those will drive higher gross profit margins as we look out, and our ability to get a little bit of operating leverage in the cost base as we drive that growth we expect to see improving EBITDA margins over time. So we feel really good about the long-term plan. Obviously, Q1 was a little bit of an issue on the Audio Hardware, but we expect to recapture that lost margin as we think about the second half plan.
+
+I think, Paul, and you just asked a question about where the opportunities [indiscernible] (00:40:04). We were – as we've communicated at Investor Day, we were more careful and prudent about our SaaS projections. And timing – really understanding the timing of the industry's transition, we've been careful with that. So I'd say that's probably an area, where, as the industry progresses, we'll be able to look at that very carefully and see how we can accelerate that further. But we'll have to see how that plays out over the next year or so.
+
+Great. Thank you.
+
+Thanks, Paul. Our next question is from Jack Vander Aarde at Maxim to be followed by Nehal Chokshi. Jack, please go ahead.
+
+Hey, guys, can you hear me okay?
+
+Yes, we can, Jack.
+
+Okay, great. I appreciate the update. It sounds like you're doing a good job navigating the challenging macro environment with the maintain 2023 guidance. It's a good job there. On Enterprise Subscription conversions, it sounds like about 40% are converted. So still a lot of runway there. Jeff, can you talk about what you're hearing from your enterprise customers that are not on a subscription model currently? And kind of what sort of percentage of them sound like they're looking to convert in the near term? Thanks.
+
+Yes. It's good question, Jack. And hi, good to talk to you. I think the manner that we've converted on a revenue basis is obviously in the numbers you spoke about from a number of customers, it's a smaller number have converted because it's the larger customers who – the more sophisticated larger customers have gone first in many cases.
+
+We're now working – we still have some larger customers to go, but we also are working down through more what I'll call the small- and medium-sized businesses in that. That is a heavier channel play, that we do in that space, and we're working hard to really enable and get our channel really capable at subscription. In fact, growth of subscriptions in our channel is one of our fastest-growing segments in subscription. So we're really working hard to enable them and get them very good at subscription conversions.
+
+I'd say so far, I just came back from NAB, and I think most enterprise customers understand that the world is a subscription economy now. And they already subscribed to Microsoft Office or SFDC or payroll systems. I mean, it's pretty common today. So we don't really get a lot of pushback. I think it's just more going through the sales motions that our teams have to do around the world to convert customers and to time things with that customer's needs because it is a software upgrade when they move to the new software subscription. So it's really more timing around our customers and projects. But I'd say people like the value they're getting from our subscription offerings and the flexibility they get. And we have a lot more planned in value that we're putting into our subscription offerings over the coming, not just this year, but even as we go forward through the coming years. Hope that answered your question, Jack.
+
+Yes. That's great color. Just one more for me. On the Creative Tools side, it sounds like that continues to grow well. Pro Tools, Media Composer and even Sibelius return to growth, I think I heard. Can you just talk about the freemium models of, I guess, with Pro Tools and maybe even Media Composer? Can you talk about the conversion opportunity there? And I think last quarter, you mentioned it was a very encouraging outlook, and just wondering if there's any updates there?
+
+I sure can, Jack. So let me put them in two buckets. On the Media Composer side, that product, as you know, we're not trying to compete in the real down market opportunities. We leave that to other players in the space. We're really the tool used by professionals and in media companies. And in that space, what we did announce something which you probably saw the press release from a few weeks ago, we announced our – we've moved our student program for Media Composer just – I'm talking about Media Composer here, to a free student program for any student or a teacher for their own individual use, not for the necessarily the institution, but we do have a program around the institution also.
+
+We have a free-for-students program that launched that's gotten really rave reviews. And the whole goal of that is really to quickly grow the funnel even larger for people who are coming out of school, and they know our tools so that they can get hired into the enterprise customers. That really is a play into our enterprise customer market, not just our large enterprises, but small- to medium-sized businesses up to large.
+
+On the music or yes, the music side, audio side, Pro Tools and Sibelius have freemium products. Sibelius has First and Pro Tools has what we call Intro. The new Intro product from Pro Tools is the new product. This is where we – when we re-tiered the whole Pro Tools product range back in spring-summer of last year.
+
+April last year.
+
+April last year, about a year ago, we brought the Intro product in last summer. I think last summer when it delivered. And that product has so far the downloads we're getting and the conversions we're getting from that product have been very, very successful.
+
+I will say this, Intro is also part of our strategy around music creation. So this is a lot of the groundwork you're seeing from us, the Intro product, the artist price points, all the new PlayCell, GrooveCell, SynthCell, the Sonic Drop program, all of the work that we're doing, even some of the features and functions we've been putting in Pro Tools is all laying the groundwork for what is coming in the second half with our new, let's say, innovation around music.
+
+So – but we like what we see in the conversion. In the past, Pro Tools First has been a great performer for us. We think Pro Tools Intros end up can be an even more important acquisition tool for us on that end. And then Sibelius continues to, I think, perform well in that regard.
+
+Fantastic. I appreciate the color. Thank you.
+
+Yes. Thanks, Jack. And our final question is from Nehal Chokshi at Northland. Go ahead, Nehal.
+
+Thank you. Can you hear me?
+
+Yes, we can.
+
+Yes.
+
+All right. Great. All right. So 20% year-over-year bookings growth, that's a really strong number, especially given the macro. How does that compare to the year-ago period?
+
+I've don't think I've got the number right in front of us. You mean the bookings growth in Q1 last year versus bookings growth this year?
+
+Yes. I just want to make it's not off of an easy comp basically.
+
+I don't think it's off of an easy comp. It would not be that, but I don't have the precise number in front of us. We can get that to you, Nehal.
+
+Okay. Great. And what were your expectations on that bookings growth at the beginning of this quarter?
+
+Well, I think my expectations and the forecast expectation we had was to have, let's say, low to mid-double-digit growth. It definitely outperformed our expectations on that regard. It was a bit better.
+
+And what was the driver of that outperformance then?
+
+Again, back to – I'll just back to what I said earlier. It really, I mean there was different areas, obviously subscription generated because there's always bookings with subscription, but it was really subscription bookings, and it was a lot of international business driven – both international and domestic business driven through our strategic partners that are part of our SPA program.
+
+So our direct business did well, but a lot of that growth was driven from our strategic channel partners and from our subscription business overall.
+
+So with the strategic channel partners, those subscription bookings, what type of duration is that typically?
+
+Go ahead, Ken.
+
+So it's typically three years will be the sweet spot for an Enterprise Subscription, and we're doing one year or more on the Creative side.
+
+Okay. And so what I'm trying to get into here is our total incremental ARR. That was up only $2 million versus $6 million a year ago. And it seems like the driver of that lower incremental ARR is subscription. So I'm just trying to reconcile this strong subscription bookings with what appears to be a weak incremental subscription ARR. Can you help me bridge that?
+
+Well, I think when I look at the ARR, it was the maintenance ARR that was more of a challenging in Q1. The subscription ARR was over 30% growth. And it was the maintenance ARR that was weaker. And when we looked at it, when you think about the components of it, the Audio Hardware challenges that didn't drag maintenance was a driver. So I think that's really where the challenge is. The subscription ARR actually performed well.
+
+Got it, okay. I guess you typically look at the year-over-year growth as opposed to the absolute dollar Q-over-Q ARR growth as your key performance indicator?
+
+Okay. So I look at ARR growth and year-over-year subscription growth and ARR growth is what we think is the best indicator for the health of the business, that was over 30% and we expect that to be similar...
+
+On a year-over-year.
+
+Yes, on a year-over-year basis. We expect that to be similar in Q2 per my comments.
+
+Understood. Okay.
+
+Can say that we do track sequential.
+
+And we track it sequentially as well, but I'm just giving you the year-on-year comparison.
+
+And I think if I can add, Nehal, just to make sure I agree with Ken. I mean subscription ARR was performed very, very well. So it's got nothing to do with subscription growth profile.
+
+Don't forget, too, that there is a timing issue as we're converting people from maintenance to subscription, you got to be careful trying to do precise quarter-to-quarter comparisons because there is timing of when people come off maintenance and when they go on subscription. So I would be a little careful on how that flows into that. That's why we got to look at the more broad ARR metric.
+
+Okay. And if I might, just one other question since I guess I'm the last person here anyhow. Any thoughts on the impact of this writers strike? Is it a, do you think it's going to prove to be long, long duration? And if it is, then what is that potential impact in terms of production?
+
+It was a good question. Look, I'm someone who – I wasn't in this role, but I was a leader in this industry back in 2007, 2008. So I did live through that previous writer strike, which was I think 100 days back then. I'm not going to predict – I don't have a crystal ball, and I don't want to predict the duration of the writer strike. Hopefully, it's shorter than longer.
+
+I think what I can say from experience in watching this happen before, it can cause a near-term headwind as people start to delay purchases or upgrades or – it's interesting, we, I saw some people back in the previous strike do all their upgrades during the strike because they had downtime to do it. And other people pushed off their purchases because they wanted to defer cash investments or whatever in that time.
+
+I will say that what I saw then and what we expect to see now is if there is any deferrals, they will come back in a year because I don't expect this to be a yearlong strike. I would heavily doubt that's what's going to happen. Again, I don't want to predict, but I don't think it's going to be that kind of a period. But I think whatever we see in any deferrals, et cetera, they will return in the year because the needs – the capacity needs are still out there in the market. They just may be some deferral. It's part of the reason that, and the supply chain audio headwinds is the reason we're taking a little more cautious stance on Q2.
+
+How long does it take from script being written to it impacting post-production needs where you guys are really playing here?
+
+That's, Nehal, that depends on the type of programming. It can impact a nightly late night show in one day. It can impact the streaming show in a few weeks to a couple of months. It depends on the type of production, the production schedule, how many scripts are already, they've already got in their pocket. It's – that's not – I don't think it was a precise description of that. It's anywhere from days to weeks usually, I would say, roughly.
+
+I just wanted to come back to you on your bookings question. So first, bookings, as Jeff pointed out, was up 20%. In terms of Q1, we had $15 million of year-over-year bookings growth versus the prior Q1. And of that $15 million of growth, $11 million of it is in the subscription business. So I hope – I just want to give you that commentary while you're on the call.
+
+Yes, that's awesome. That's very helpful. So that fits very nicely with the $8 million Q-v-Q increase in subscription ARR then?
+
+Correct.
+
+Awesome. Great. Thank you.
+
+Thanks, Nehal.
+
+Thanks, Nehal.
+
+All right. So that concludes the Q&A session. We want to thank you again for your participation tonight and all your questions. Have a great evening. Thank you. You make a disconnect.

@@ -1,0 +1,311 @@
+raw transcript
+
+
+National Instruments Corp.
+ 
+NATI
+ 
+Q3 2005 Earnings Call
+ 
+Oct. 26, 2005
+
+
+Company
+
+ 
+Ticker
+
+ 
+Event Type
+
+ 
+Date
+
+
+
+www .Ca ll St r eet . com
+ 
+•
+ 
+21 2. 9 31 . 65 1 5 •
+ 
+C op yr i g ht © 20 0 5 C a ll S tr ee t
+ 
+1
+
+
+MANAGEMENT DISCUSSION SECTION
+
+
+Operator: Good day everyone and welcome to the National Instruments Corporation Third Quarter
+
+
+2005 Earnings Release Conference. Today's call is being recorded. You may refer to your press
+
+
+packet for the replay dial in number and pass code. The replay will be available from 7:00 PM
+
+
+Central Time today and will end at midnight Central Time on October 31, 2005. With us today are
+
+
+Dr. James Truchard, President and Chief Executive Officer; Alex Davern, Chief Financial Officer;
+
+
+and Tim Dehne, Senior Vice President of R&D.
+
+
+For opening remarks and introductions, I would now like to turn the conference over to Mr. David
+
+
+Hugley, Corporate Council. Please go ahead sir.
+
+
+David Hugley, Corporate Council
+
+
+Good afternoon. During the course of this conference call, we should make forward-looking
+
+
+statements regarding the future financial performance of the company including statements
+
+
+regarding our expected revenue and earnings per share, future release, and success of new
+
+
+products, growing revenues and generating operating leverage. We wish to caution you that such
+
+
+statements are just predictions and that actual events or results may differ materially. We refer you
+
+
+to the documents the company files regularly with the Securities and Exchange Commission
+
+
+including the company’s annual report on Form 10-K for the year ended December 31, 2004 and
+
+
+our Form 10-Q for the quarter ended June 30, 2005. These documents contain and identify
+
+
+important factors that could cause our actual results to differ materially from those contained in our
+
+
+forward-looking statements.
+
+
+With that, I will now turn it over to President and CEO of National Instruments Corporation, Dr.
+
+
+James Truchard.
+
+
+James Truchard, President and Chief Executive Officer
+
+
+Good afternoon and thank you for joining us. Our key points today are; record quarterly revenue up
+
+
+13% year-over-year, net income increased 81% year-over-year and record sales of PXI and
+
+
+modular instrument. We turned in a solid performance in Q3 in all regions with strong growth of our
+
+
+virtual instrumentation products across the diverse set of applications. In our call today, Alex
+
+
+Davern our CFO will review our financial, since John Graff is away on business, Tim Dehne our
+
+
+Senior Vice President of R&D will discuss our business and I will close with a few comments before
+
+
+we open up for your questions. Alex?
+
+
+Alexander Davern, Chief Financial Officer, Principal Accounting Officer, Senior Vice President of
+
+
+Information Technology & Manufacturing Operations and Treasurer
+
+
+Thank you for joining us today. We had a strong third quarter with record quarterly revenue of $142
+
+
+million, up $16 million or 13% from Q3 last year. GAAP Net income was $14.4 million with fully
+
+
+diluted GAAP earnings per share of 18 cents, up from 10 cents in Q3 2004. Net margin was 10%
+
+
+compared to 6% in Q3 last year.
+
+
+During Q3, we saw year-over-year revenue growth in all regions with revenue up 15% in Asia, up
+
+
+6% in Europe, and up 16% in the Americas. Our improved revenue growth was driven by the
+
+
+success of our new products, especially in data acquisition, distributed IO, PXI, and modular
+
+
+instruments. Our instrument control products, which now only represent 12% of revenue, continued
+raw transcript
+
+
+National Instruments Corp.
+ 
+NATI
+ 
+Q3 2005 Earnings Call
+ 
+Oct. 26, 2005
+
+
+Company
+
+ 
+Ticker
+
+ 
+Event Type
+
+ 
+Date
+
+
+
+www .Ca ll St r eet . com
+ 
+•
+ 
+21 2. 9 31 . 65 1 5 •
+ 
+C op yr i g ht © 20 0 4 C a ll S tr ee t
+ 
+2
+
+
+to show weakness falling by 11% year-over-year and by 4% sequentially. Excluding our instrument
+
+
+control products, our year-over-year revenue growth would have been 17 percent.
+
+
+On a year-over-year basis, the acquisitions of Electronic Workbench and of Measurement
+
+
+Computing net of the divestiture of our German systems integration business added 3.9 million in
+
+
+revenue in Q3.
+
+
+Moving down the income statement, gross margins in Q3 were 73.2% up from 72.7% in Q3 last
+
+
+year. Gross margins were down from 73.9% in Q2. The primary reason for this decline was the
+
+
+negative sequential impact of the weakness of the euro, which we discussed in our last call. This
+
+
+reduced our gross margins by 50 basis points sequentially. Included in cost of goods sold is the
+
+
+amortization of $500,000 of intangibles related to acquisitions.
+
+
+Total expenses dropped from 65% of revenue in Q3 2004 to 60% this quarter. Our R&D expenses
+
+
+were $21 million, down by 4% from Q3 2004. In Q3, we capitalized $4.4 million of internally
+
+
+developed software costs, up from 800,000 in Q3 2004. We expect the level of capitalization to
+
+
+drop significantly in Q4 as a result of the release of LabVIEW 8 in October.
+
+
+Amortization to cost of goods sold or previously capitalized software development costs was 1.8
+
+
+million in Q3. Sales and marketing expenses were $53 million in Q3 up 14% from Q3 last year.
+
+
+G&A expenses were $11.4 million, up 10% year-over-year. Patent litigation expenses were down
+
+
+from $2.6 million in Q3 2004 to 125,000 in Q3 2005. Our GAAP operating income increased by
+
+
+83% year-over-year and represent 13% of revenue compared to 8% in Q3 last year.
+
+
+Now turning to the balance sheet. Inventory was down $1.3 million sequentially and accounts
+
+
+receivable were down $500,000. Net cash and short-term investments were $181 million, up $24
+
+
+million from June 30th. Headcount as of September 30 was 3707, up 75 from June 30.
+
+
+During the quarter the company paid $4 million in dividend and on October 21st, the Board of
+
+
+Directors declared a cash dividend of 5 cents per common share payable November 28, 2005 to
+
+
+shareholders of record on November 7th.
+
+
+Now, looking out to Q4, although the J. P. Morgan’s Global Purchasing Managers Index showed
+
+
+some improvement in September, we remain concerned by the economic environment with rising
+
+
+interest rates of higher oil prices, and with US industrial production in September suffering its
+
+
+largest drop in 23 years, we remain cautious. Given our historical seasonal pattern, we are
+
+
+expecting record revenue in Q4 of between $152 million and $157 million, which equates to the
+
+
+year-over-year revenue growth rate of between 11% and 15% for the quarter. In Q4, we expect to
+
+
+report fully diluted earnings per share of between 20 and 24 cents per share.
+
+
+As these are forward-looking statements, I must caution you that actual revenue and earnings in
+
+
+Q4 could be negatively affected by numerous factors, such as any decline in the global economy,
+
+
+delays in new product releases, manufacturing inefficiencies, expands overruns, and inventory and
+
+
+foreign exchange fluctuations.
+
+
+So, in summary, Q3 was a good quarter with improved revenue and good earnings growth. For the
+
+
+rest of the year and into 2006, we will be focused on continuing to grow the top line while managing
+
+
+the growth in our expenses to continue to generate operating leverage. I will be presenting at the
+
+
+Bear Stearns Conference in New York on November 8th and I hope to see you there.
+
+
+With that, I will turn it over to Tim Dehne, Senior Vice President of R&D.

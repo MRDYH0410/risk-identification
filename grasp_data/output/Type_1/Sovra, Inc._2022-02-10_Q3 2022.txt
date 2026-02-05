@@ -1,0 +1,257 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+Luc Filiatreault — President, Chief Executive Officer & Director, mdf commerce inc.
+Deborah Dumoulin — Chief Financial Officer, mdf commerce inc.
+Salman Zia Rana — Analyst, Laurentian Bank Securities, Inc.
+Amr Ezzat — Analyst, Echelon Wealth Partners, Inc.
+
+Management Discussion Section
+
+Question And Answer Section
+
+Hello. Thank you for standing by. This is the conference operator. Welcome to the mdf commerce Q3 Fiscal 2022 Investor Conference Call. Today's call will provide information and commentary on the company with a focus on the financial results released yesterday after the market close.
+
+We will hear from Luc Filiatreault, President and Chief Executive Officer; and Deborah Dumoulin, Chief Financial Officer. If you have questions following the call, you can reach mdf commerce at the address at their website, www.mdfcommerce.com.
+
+First, here are a couple of housekeeping notices. All participants are in a listen-only mode for the duration of the call. This call is being recorded and we expect the recording to – that the recording will be available on the mdf commerce website later today.
+
+The information in today's remarks, including any forward-looking statement, has been prepared as of December 31, 2021, unless otherwise indicated. mdf commerce assumes no obligation to update or revise the forward-looking statements to reflect any news – new events or circumstances, except as may be required pursuant to securities law.
+
+We remind you that today's remarks will include forward-looking statements and non-IFRS measures and key performance indicators that are subject to important risks and uncertainties. For more information on these risks and uncertainties, non-IFRS measures and key performance indicators, please refer to the reader advisory at the bottom of mdf commerce's news release, which is on their website, and which has been filed on SEDAR at www.sedar.com. The company's actual performance could differ materially from these statements.
+
+I will now hand the call over to Mr. Filiatreault. Please go ahead, sir.
+
+Thank you, Josh, and good morning, everyone. I'm really happy to be with you this morning because I have some great stuff to show you. Very proud of what we accomplished over the last quarter. So just before, I want to tell you about who the mdf commerce is and go to our state of operation. So we're a developer and operator of digital commerce platforms that facilitate billions of dollars a year of digital commerce transaction for well over 0.5 million end user companies, mostly in North America and a bit in Europe.
+
+December 31, 2021 marks the first full quarter of company financial results with the addition of Periscope, a leading US-based eprocurement vendor, which the company acquired on August 31, 2021. As a result, total revenue for the third quarter was a record high of CAD 30.7 million, representing a growth of 43% compared to CAD 21.4 million in the third quarter of fiscal 2021.
+
+Deborah will explain in detail a bit later that these results were accomplished even though we could not recognize a total of CAD 2.6 million in revenue in the quarter due to the IFRS rules on acquisition accounting. Without this accounting adjustment, our total revenue would have been higher, and that would have trickled down directly to our reported gross margins, earnings, adjusted EBITDA and EPS. This acquisition accounting adjustment to deferred revenue is a temporary adjustment that will have a decreasing impact quarter-over-quarter until Q2 of fiscal 2023.
+
+Our eprocurement platform has grown significantly since the acquisition of Periscope. It now represents 55% of total revenue for the third quarter of fiscal 2022, and it's now the largest revenue stream for mdf commerce. This acquisition of Periscope also contributed to accelerating growth in recurring revenue, which now represents 80% of total revenue for the third quarter compared to 75% for the same quarter last year.
+
+Our focus is on integrating Periscope into our full procure-to-pay eprocurement offering, and our integration plan is on track. We are already benefiting from quick win product integrations that have led to new customer wins and new pipeline opportunities. The combined eprocurement leadership team is in place. They're focused on executing our product road map and growth strategies.
+
+The Periscope acquisition expanded both our geographical footprint and our technology offering for our eprocurement platform and positions us as a North American leader in government procurement. The acquisition accelerated our transformation to a high-growth cloud-based SaaS commerce technology business.
+
+Unified Commerce, the second of our core platform, continues to perform well with high customer satisfaction. While transaction volume has seen record high during various waves of the COVID pandemic, not unlike many other digital ecommerce companies, we have seen a slight post-pandemic decrease in number of orders when compared to orders during the height of those lockdown periods during the pandemic. This being said, happy to report that just a few weeks ago, we have served our 2 millionth order at Aldi in the UK and our client is very happy about this rollout. More to come.
+
+As we navigate emerging macroeconomic trends, such as global supply chain issues, the war on talent, which is creating scarcity of resources in many sectors, rising cost of labor, we are leading with agility and flexibility. I cannot complement our management team enough for the immense amount of work that they've done. We continue to invest in talent and in foundational upgrades as we aim to accelerate future growth, improve our scalability and capitalize on emerging market conditions.
+
+Higher operating expenses in Q3, as compared to this time last year, reflects an increase in salary-related costs that are required to both attract and retain talent in an environment where resources are scarce and competition for talent is fierce. The talent search is increasingly borderless [ph] – borderless (00:07:00) due to the general success of work from home initiatives in the software sector, which was brought on by the pandemic. We've also seen an increase in hosting and license cost, which is directly related to the company's transition to a cloud-based strategy.
+
+Regarding the pandemic, the Omicron wave had an impact on our Q3 performance. [ph] A US state (00:07:26) deployment in our eprocurement platform was delayed beyond the end of the quarter, due to simple absences and illness in the staff, both at our clients and our own team caused by the Omicron variant in the team.
+
+In general, effects of the pandemic supply chain – effects of the pandemic on supply chain also had an impact on volume-based transaction growth in our Unified Commerce platform, specifically for ecommerce. Although there has been growth overall, supply chain issues affecting the egrocery vertical reduced growth rates during the quarter. Until supply chains normalize, we anticipate that order-based transactions may continue to be impacted in the Unified Commerce platform.
+
+As we strengthen the market positions of our two commerce – our two core platforms, eprocurement and Unified Commerce, it is expected that overall our emarketplaces' revenue, representing less than 15% of total revenue in Q3, will continue to have less and less impact on the corporation's future performance.
+
+CAD 30.7 million is the highest revenue reported in a single quarter in the company's history. We are pleased that the quarter's adjusted EBITDA is positive at CAD 0.7 million despite considerable macroeconomic challenges, including those caused by the Omicron wave of COVID-19. Don't forget that we should – we could also think about that CAD 2.6 million of deferred revenue here.
+
+And now, I will turn the call over to Deborah to discuss our Q3 fiscal 2022 financial results in more detail. Deborah, floor is yours.
+
+Thanks, Luc. Well, we've said it just a few times already that our Q3 revenue is CAD 30.7 million, and that's a nice increase of 43.4% compared to CAD 21 million in the same quarter of last year. I do want to point out that our results were impacted by this acquisition accounting entry that requires that Periscope's deferred revenue be measured at fair value at the acquisition date and which ultimately reduced revenues for the quarter by CAD 2.6 million.
+
+Periscope revenues standalone were CAD 7.7 million, and again, impacted by the CAD 2.6 million of deferred revenue adjustment that we've mentioned a couple of times now. So I'll take a moment to explain what this is, just because we've included it many times in our disclosures.
+
+Deferred revenue occurs when cash collected – cash is collected in advance, but the service will be rendered over time, and therefore, the revenue is also recognized over time. This is typical of a SaaS revenue, which is collected upfront at the beginning of the subscription period, which often spans over a 12-month period.
+
+So what happens to this deferred revenue on acquisition opening balance sheet? Well, IFRS requires that deferred revenue be measured at fair value. The fair value is typically less than the total subscription amount that was received in cash by the customer. When the deferred revenue is adjusted down in the acquisition accounting, there's essentially an amount of revenue that never gets recorded by the acquirer, which in this case is mdf commerce.
+
+It's important that we mention this deferred revenue adjustment since subscription revenue is core to what we do and is a recurring revenue stream. Because of this adjustment, our revenues will be lower, lower that is than pre-acquisition revenues would have been during approximately 12 months after the acquisition date or until the original customer subscription period is completed.
+
+So to simplify that on the next customer subscription renewal, the company will be able to recognize the full value of the subscription revenue and future revenue will, therefore, increase. While this deferred revenue adjustment reduces our post-acquisition revenue for Periscope in the short term, it will – the adjustment will decrease month-over-month as customer contracts are renewed. And as these renewals occur, there will be a gradual and increasingly positive impact on our revenue that will trickle down to our gross margin, net loss, adjusted EBITDA, adjusted EBITDA margin and earnings per share over the quarter.
+
+Hopefully, that was helpful as this acquisition accounting often raises the question of how can buying a company actually caused us to have less revenue from operations is as – if we hadn't actually bought the company. But anyway, back to our quarterly results. eprocurement platform had revenues of almost CAD 17 million, an increase of CAD 8.6 million or 104% compared to the previous quarter. Our eprocurement platform now represents over 55% of total revenues for the quarter. If we were to exclude Periscope revenue, the platform grew organically by 11% compared to Q3 of the previous year.
+
+I'm also happy to report that our Canadian eprocurement operations, mainly MERX, are seeing steady revenue increases and have actually registered record high monthly revenues compared to just a few quarters ago. This proves that the investments we're making in renovating the MERX platform are starting to pay off.
+
+Our US-based eprocurement network, which does include Periscope revenues, contributed CAD 8.2 million, a [ph] 203.5% (00:13:48) increase compared to the previous Q3. Revenues from Periscope were CAD 7.7 million, again after this adjustment of CAD 2.6 million in acquisition accounting deferred revenue.
+
+We are pleased with our eprocurement revenue growth. Luc mentioned earlier that some of our US implementation activities for existing contracts were temporarily delayed in Q3, resulting in lower professional services revenue for the quarter. These delays were caused primarily by personal absences due in part to the virus, the Omicron virus, both at our clients and within our teams and due to the holiday season. We've seen these conditions begin to normalize after the quarter end.
+
+On our Unified Commerce platform, which includes both ecommerce and Supply Chain solutions, revenue for the quarter was CAD 9.8 million, an increase of 3.8% compared to CAD 9.4 million in Q3 of the previous year. Our emarketplaces platform, which now represents less than 15% of our total revenue, had a 6.6% increase from Q3 of the prior year and now represents CAD 4 million for Q3 of the current year.
+
+If I take a moment to highlight monthly recurring revenue for the quarter, total recurring revenue now represents 80% of total revenues for the Q3 of 2022. And this recurring revenue number for the quarter stands at CAD 26.7 million. That's a CAD 10 million increase compared to the CAD 16 million or 75% of total revenues that we had last year. This growth rate from CAD 16 million to CAD 26 million represents 66.8% growth. And with this MRR, we're getting to the point where we're going to see MRR hit the three-digit number.
+
+We anticipate that recurring revenue should hover in the 80% range for the foreseeable future, give or take a few percentage points, depending on the timing of large deployments in both our eprocurement and the Unified Commerce platform. Recurring revenue for the eprocurement platform represented 92% of revenues, and this is unchanged from the previous year.
+
+Recurring revenue for the Unified Commerce platform was 59% of platform revenue compared to 57% for Q3 of the previous year. We closed the quarter with a net loss of CAD 4.7 million, CAD 0.11 net loss per share basic and diluted, and that compares to net loss of CAD 2.9 million or CAD 0.14 loss per share basic and diluted in the previous year.
+
+Adjusted EBITDA was a positive CAD 700,000 compared to CAD 1 million in Q3 of the previous year. We are pleased with the quarter having positive adjusted EBITDA. And even though the current supply chain challenges, labor scarcity and the rise of cost of labor has become macroeconomic trends that have added additional pressure to our margins in recent quarters, and while these are economic realities that the company will need to contend with, at least for the foreseeable future, I'd like to highlight the following.
+
+The eprocurement platform's innovative transaction fee model, which allows us to earn a percentage of revenue based on government agency spend on goods and services, has the potential to generate significant upside to our growth objectives, and we expect there to be revenue and cost synergies over the next several years from the combined eprocurement businesses.
+
+I want to mention again that the fair value of deferred revenue adjustment of CAD 2.6 million for the third quarter and a total of CAD 3.6 million for the four months since the acquisition date has impacted our revenues and unfavorably impacted gross margin, net loss, adjusted EBITDA for these periods. The fair value adjustment applies only to a specific list of customers and until their respective next subscription cycle is renewed. We are also focused on operational efficiency and cost containment measures with the objective of partially offsetting these pressures on the company's profitability.
+
+You have – if you're following along on slide 5, some information on our year-to-date results. Most of the information – one more slide if you're following – yeah, there we go. Total revenue is CAD 78.3 million year-to-date, a 24.9% increase for the first nine months compared to the previous year.
+
+The eprocurement platform saw 54.2% increase with revenues moving from CAD 13 million in prior year to CAD 37 million for the quarter. Periscope contributed four months of revenue to the year-to-date results, amount of CAD 10.1 million, which again was negatively impacted by the deferred revenue adjustment by CAD 3.6 million for that four – CAD 2.6 million for that four-month period.
+
+The Unified Commerce platform saw a 7.7% increase compared to the prior year. And overall performance in Unified Commerce for fiscal year-to-date was impacted negatively by persistent supply chain disruptions and labor market challenges mainly caused by the pandemic.
+
+While our year-to-date loss was CAD 15.3 million or CAD 0.43 per share basic and diluted, compared to a net loss of CAD 4.7 million or CAD 0.26 basic and diluted, a couple of factors contribute to this. Acquisition-related costs on the Periscope acquisition were CAD 4.8 million. And as a result of bringing on acquired intangible assets from the Periscope acquisition, there is increased depreciation of CAD 2.4 million. And there are also additional salary-related expenses, restructuring costs and higher hosting costs as we transition to our cloud-based strategy. So these are the main reasons for the year-to-date increase.
+
+Total adjusted EBITDA was a loss of CAD 1.2 million year-to-date compared to CAD 5.5 million for the first nine months of the previous year. A decline in nine months adjusted EBITDA is related to the ongoing foundational investments in our scalability, growth in head count, especially in revenue-generating positions, and in sales and marketing to support our growth initiatives and professional services associated with our customer deployment.
+
+Finally, with respect to our balance sheet. As at December 31, the company had CAD 8.1 million in cash and cash equivalents on our balance sheet, had long-term debt in the form of a revolving facility and term facility in the amount of CAD 47.4 million.
+
+With that, I'll turn the call back over to Luc.
+
+Thanks, Deborah. I really like to make just a few comments on our performance and outlook before concluding here. So if you go to slide 6, this record revenue quarter highlights transformational progress for mdf commerce. Q3 represents the full first quarter of results from our largest acquisition in the history of the company.
+
+Periscope transformed mdf commerce into a formidable competitor in the government procurement sector in North America. In the eprocurement platform, we now have a network of over 0.5 million suppliers, transacting on our platform with over 6,000 government agencies in 40 states and 10 provinces.
+
+Ultimately, once we've completed the integration, mdf commerce will offer a one-stop shop by way of a dominant marketplace central hub, where suppliers and buyers from all levels of government will do business together across all of the jurisdictions that we cover.
+
+Revenue growth for the eprocurement platform will be focused on driving revenue via our innovative transaction fee model, which is self-funded for our clients. This transaction model allows us to earn revenue as a percentage of government agency spend on procurement transactions relating to everyday needs, such as office, medical supplies, legal services, gas, electricity up to all the way to more complex construction and infrastructure projects. We believe that this innovative model is highly scalable and has the potential to generate significant upside to our growth objectives.
+
+Now on slide 7. As we've previously stated, our Unified Commerce platform is a combination of commerce and supply chain collaboration products offered by Orckestra, k-eCommerce, and InterTrade. The platform is well established in the retail and grocery verticals and services major brands across North America and UK.
+
+The platform has faced some headwinds brought on by the pandemic, as supply chain shortages as well as staff on sick leave had an impact on deployment capabilities and to a certain degree to the fulfillment of orders. And despite these challenges, transaction-based volumes with our ecommerce customers are up significantly from pre-pandemic levels, reflecting solid performance within the deployed network across all categories from retail to grocery.
+
+Due to this – to its intense reliance on supply chain activities, the egrocery vertical was most impacted by the lack of supply, especially in the UK. Although performance was solid, where mdf commerce was deployed. And like I said earlier, Aldi has now served its 2 millionth order in a little less than 12 months. This gives us confidence that as the pandemic-related disruptions recede over the coming quarters, our ability to deploy and even accelerate deployment will recover and transactions should remain higher than pre-pandemic levels.
+
+On slide 8, in conclusion, I'd like to highlight a few key points. Although the global trends to online commerce and online procurement has been accelerated by COVID pandemic, ironically, the implementation of these upgrades have been disrupted by industry-wide – have been disrupted industry-wide by the pandemic itself and mdf commerce is not immune to these market conditions.
+
+Large deployments have been slowed by both supply chain disruptions and staffing disruptions at client operations, at our partners and at mdf commerce. Despite these challenging circumstances, we achieved great results and are pleased with the important revenue contribution from Periscope. Integration efforts are on track and moving swiftly as we remain focused on execution.
+
+Finally, I would like to mention a few changes to our board of directors. First of all, I would like to thank the [ph] honorable (00:26:05) Clément Gignac, who was recently appointed Senator of the Senate of Canada. Due to numerous Senate committees that Mr. Gignac serves on, he will no longer be able to continue to serve on our board. Thank you, Clément.
+
+Mr. Gilles Laporte, who has been on the mdf Board now for over 11 years and is currently our Chairman, has announced that he will not seek reelection at the next AGM. Again, thank you, Gilles.
+
+The company has initiated a recruitment process to an executive search firm to seek new members to join our board. The search committee will be led by Mary-Ann Bell, one of our most experienced independent board members.
+
+And with that, I would like to hand the call over to operator – to Josh to open the line for questions. Go ahead, Josh.
+
+Thank you, Mr. Filiatreault. We will now open the line for questions. [Operator Instructions] Our first question comes from Salman Rana with Laurentian Bank. You may proceed with your question.
+
+Good morning, Luc and Deborah. Thank you for taking my questions. First of all, congrats on the record revenues for the quarter. So my first...
+
+Good morning.
+
+Yes. So my first question, again, is regarding Periscope. Luc alluded to the fact that we should expect another two to three more quarters where the fair value adjustment will take place. Could you give us any idea on the total amount that the company is anticipating to be realized for the fair value adjustment?
+
+Yes, certainly. And Deborah is checking the exact number, but I believe that in total, once completed, we are estimating that this will be at CAD 5.4 million. Is that correct, Deborah?
+
+That's right for March, for the seven-month period March, and it will extend again into the Q1 period by another CAD 1 million. So it will be almost CAD 9 million by the time we get through the full cycle of those subscription receivables or subscription period.
+
+There you go. So CAD 9 million is what we [ph] can't (00:28:26) recognize, although it's there.
+
+CAD 6 million. CAD 6 million.
+
+Well, you said...
+
+CAD 5.4 million, plus CAD 1 million.
+
+CAD 5.4 million, plus CAD 1 million. Okay. Sorry.
+
+Yeah. Sorry.
+
+Okay. That's very helpful. And moving on regarding Unified Commerce, really appreciate the color you gave on what's been going on at Aldi. Just wanted to get – take a deeper dive into, first of all, how many – could you provide color on how many stores the company have covered? How many Aldi stores in the UK? And what's the status on the NHS contract?
+
+So Aldi had to change a little bit their strategy. And as much as the initial rollout was a thought of trying to have the ability to click and select [ph] that every single (00:29:11) of their store, they realized that this is a very disrupting model. And they kind of went to a, what I would call, a dark store model, where they actually transformed certain physical stores that people would normally go and shop to, into some kind of a click and collect location in various neighborhoods throughout the UK, so that this is way more efficient.
+
+So we currently – and then we no longer really look at how many stores, but I believe that there are currently approximately 350 of those service points where click and collect is available for pickup from the customers. And that's what generated the 2 million orders that we crossed – I don't have the exact date. It was after the end of the quarter. But Aldi is now very satisfied. We're in the process of producing a business case, which will be presented to all of the other countries where Aldi operates.
+
+So things are going well. I'd like to say that we're also renewing our agreements with other large stores, large grocery areas, especially with Sobeys, which is kind of constantly growing with us. So we're very happy about that.
+
+As for the NHS contract, unfortunately, with everything happening in Britain, we haven't been really recording any revenue against that. It's kind of been delayed by the customer, mostly for disruptions all across the UK government. So they haven't started to do anything with that at this point in time.
+
+Okay. But going forward, do you see that there will be an easing of these challenges given what we're hearing in the news is that the government over there is pretty much set to get rid of all the COVID-related restrictions by the end of February. So what are your thoughts on that?
+
+Well, we're certainly very hopeful that it will unlock these values, because we do have the ability, and especially now if we consider that we could potentially even go and show them what we are doing with the transactional model, this would highly impact NHS, which is the largest buyer of medical equipment and supplies in the UK.
+
+So I think once things stabilize and they get through all of the disruptions that COVID caused, we will likely resume the conversations and potential – because at the time we had this, we did not know what – we did not know obviously that Periscope would be with us and we would have access to this technology. So something to look into. But at this point, I just can't predict, because I just don't know.
+
+Okay. Okay. Moving on to the US side of things. So again, the strategic sourcing or the eprocurement, as it's called now, US-based platforms are performing really well. How much do you think it was because of the passing of the infrastructure bill in mid-November? Do you think that the company saw a lot of benefits within the quarter? Or is there a lot more to come in the coming quarters then?
+
+We – I'd like to potentially explain the two main streams of business that we have with government procurements, our – let's call it, our classic technology is the ability for suppliers to enter into various database mechanisms to access government requirements. And that's a bidding exercise, which is non-transactional. And we've certainly seen a lot of growth in that. And partially, we see a lot more demand from various state and local organizations that stem out of the additional budgets that were allowed by the infrastructure bill. On the – and that's still the vast majority of our revenue.
+
+The transactional model, if you remember, is a new technology that was – that started to be implemented in 2020. So it's still early days on the transactional revenue, and this is what's causing the highest growth. And it will continue to grow as we transfer some of our existing customers to the transactional revenue, and also as we sign up new complete states to install that transactional revenue grades.
+
+We're very focused on reaching out to all North American states and Canadian provinces to show them the benefits, the incredible benefits of this model, which saves the government very large amounts of money, creates a higher level of satisfaction in the suppliers and allows us, obviously, to collect that transaction fee, which creates a strong growth, very high margins. And once we are implemented in many more states, you will definitely see growth in top line, bottom line, earnings per share, results per share and everything else.
+
+Okay. That's great color. And just one last question for me. So again, you were alluding to the fact that grade increases are still an increasing issue, again, across the industry pretty much. Any updates on whether how the Ukrainian cost base is going, if it's working out as planned? And any expected margin uplift from there? Thank you.
+
+As you're aware, things in Ukraine are not particularly rosy right now. We are working with our existing team and looking into possibilities of offering them to come to work in Canada or potentially other countries. Hearing the news, driving to the office this morning, there's 100,000 troops at the border. Honestly, we stopped recruiting in Ukraine when this started to become such a hot topic, and we are now looking into protecting our existing teams and looking also for – not recovery, but backup plans, should we suddenly lose access to these folks. Because let's face it, the situation could change very, very quickly. Should something happen and Internet connection gets lost, well, we just [ph] can't (00:36:41) work anymore.
+
+So we are not – we have not further grown our Ukrainian team. So we are looking now for other areas in the world where we could find pockets of technically qualified computer developers, programmers, business analysts, et cetera, in order to continue to serve our existing and growing customer base.
+
+And as you mentioned, yeah, there's possibly a war going on between Russia and Ukraine. But there's definitely a talent war all over the world to seek for talent. But I think we're getting better at recruiting people. Our recruitment numbers are fairly increasing. It's not only about the money. It's obviously an important aspect. But I believe we're doing better than we were, and we've certainly learned to use people from various countries.
+
+I think now we have various developers in something like 11 or 12 countries, but we don't yet have a critical mass. We haven't found the exact – the best spot to develop a critical mass in order to have a better supply of these highly qualified programmers.
+
+Okay. That's great color. Thank you again.
+
+Okay. Your next question comes from Amr Ezzat with Echelon Wealth Partners. You may proceed with your question.
+
+Luc, Deborah, good morning. Thanks for taking my questions. I'd like to go back on your comments on Unified Commerce. Like with transaction volumes down to maybe, let's call, the normalized level, what sort of growth rate should we be expecting going forward within that division? Like for the quarter, you guys are at 4% year-on-year. I understand that it's a tougher comp last year. But the quarter before that, I also think you were in high single-digit territory.
+
+I would love to give you an answer, Amr. I think we'd have to look at what are the various populations where we serve, because as you know, we have a pretty high concentration in grocery. And we certainly have seen cycles that [ph] pick (00:39:19) up really high during the confinement and kind of come back down after the consignments are less stringent.
+
+At the current levels we are, we are a little more than 2.5 times the amount of grocery that we were serving, let's call in the quarter pre-pandemic. So we certainly see interesting growth. And when you look at it over the last couple of years, that's when you can see how much it's growing. We're also in retail, which clearly is not affected as much.
+
+So I read everything and I'm on every conference about egrocery and the – I'd say the markets and the experts are still not fully on board about how much more egrocery will grow. And the main challenge is not about the technology that we provide. That's honestly pretty – well, it's now pretty simple. The main challenge is really for the grocers to take care of that last mile delivery, which is extremely disrupting to the operations of any grocery store when you have a bunch of usually high school kids run around the store to pick up the food, and they have to do that in a coherent productive way, which add cost to the grocery bill.
+
+And then the temporary storing of the grocery for either to be packed in a truck, which has to have freezer, fridges and room temperature, sent to people at a cost, which would be low enough for the grocers to keep their profit margin. And also, it's a cost that can hardly be transferred to the consumer. Everybody knows pretty clearly what a jug of milk costs. Would you accept to pay twice the price to have it delivered at home? In some cases, yes. But overall, we're seeing that grocery industry is careful about their operations because, as you know, they're very low-margin stores. And they have to be careful as the amount of egrocery increases.
+
+It gets to a point where it really chews up their margins on the rest of the business, because the grocer doesn't pay anything. If you go and do your own grocery yourself and you can spend as much time as you want in the store running around the isles, that doesn't cost them anything. When you want this service to be delivered to your home or to be picked up at the store, there is additional cost that they're still struggling to absorb, pass on to the end consumer or – and continue to find more efficient waste, which we've done with Aldi, by the way. And I think today, we have found the right balance, and Aldi seem to be very satisfied with the whole process.
+
+And keep in mind that what we provide in terms of the ordering platform is very small portion of the global consumer experience, because I can put you the nice pictures of tomatoes and apples and produce on your screen. I can do that very, very nicely. However, ultimately, your satisfaction, as you're consumer, will depend on the quality of those apples and tomatoes and ice cream and whatever else you ordered that get to your home on your counter. And we here at mdf, don't have an impact on the whole process. We have an impact on the parts that you see on your computer at home.
+
+So that's why I'm having a hard time giving you an answer. But we obviously are – we keep acquiring new customers. We keep seeing customers come into k-eCommerce. Orckestra is delivering more and more, and we have a great pipeline in grocery. But hard to predict how much the industry will grow. Sorry about the long-winded answer.
+
+No, no, that's great. Maybe if I could – again on that. So if I'm thinking about the pace of bookings in ecommerce going forward, is it fair to assume you're bidding on less projects within e-com versus, call it, like a year ago? Is that a fair statement?
+
+Well, we certainly – as you know, we've been stranded by availability of staff. And through the year, there are, unfortunately, some bids that we just did not submit any offers because we had no way to deliver what the client wanted, because we just did not have the staffing required in order to supply. That's the reality that we had to face.
+
+I think we've absorbed a lot of that tension. But we're being a bit more careful. We want to not just grow the top line, but we also have to do this with profitability. And right now, the implementation team that we can put on any implementation job, honestly, cost significantly more than they did two years ago. And if we can't transfer that cost to the customer, we're just not going to do it.
+
+You see all ecommerce companies look at BigCommerce, VTEX, Pivotree. They're all losing significant amounts of money. And I'm not talking about just hovering around zero here, [ph] but (00:45:16) these guys are really burning the large amounts of money, and that's not something that we feel that our shareholders would support. So we're being a bit more choosy about the customers that we want to deal with, because we want to make sure that every project is a profitable one.
+
+Okay. That's good color. Then maybe for Deborah. Can you give us a sense of what normalized operating expenses look like going forward? There are a couple of moving parts. You've got like restructuring charges during the quarter. Then you guys spoke in your prepared remarks to wage inflation. So does the restructuring charges [ph] want to (00:46:01) taper off, but we do expect some wage inflation, so these two sort of cancel out? Or how do you think about the OpEx?
+
+Yeah. Well, certainly, from a restructuring cost perspective, you can see what we've recorded as restructuring costs in our adjusted EBITDA reconciliation. So we had CAD 1.5 million in the Q3 of this year. We're not planning for large restructuring, but we're continuously looking for economies and savings with respect to certainly merging our platforms around eprocurement. There are cost synergies to be had there that we would expect to realize over the next couple of years.
+
+With respect to wages themselves, that's really a tricky one. We always end up with – like every company, sort of an inflationary increase every year. Cost of hiring, it's depending on getting developers, what their – salaries are just really hard to predict. So while there's some turnover, do we pay more sometimes once employee turns over? Perhaps. If we've had to backfill positions with consultants, as Luc mentioned, to manage large deployments, sometimes [ph] while guiding (00:47:22) some pressure, it's really a challenging one to answer. And it's really our key area of focus because it's such a big portion of our cost.
+
+Okay. Yeah. That's the sense that I'm getting [ph] is (00:47:39) obviously, it's getting much more expensive to operate and hire. That's fair.
+
+Fore sure. And it's salary driven most of the way. I mean we do have some increase in web hosting. We are moving towards the cloud-based strategy with our clients and internally, but we're putting specific processes in place to monitor all of those costs. A lot of web posting is about managing the timing of when you're using more and using less. So we are taking a very close look at optimizing all of those costs. That one is a little more controllable, but the salary one is always, I think, for us and for other companies, a bit of an unknown as we just navigate time of the Great Resignation and inflation and all of those other things.
+
+Okay. Maybe one last one. On the board's resignation, what color can you give us there, that like Clément Gignac or the [ph] honorable (00:48:43) Clément Gignac has been on the Senate for a while now, then like is there anything to read in that both Clément Gignac and Gilles Laporte stepping down at the same time or is that a coincidence?
+
+No, nothing to read, Amr. Clément tried for a while to stay on. He informed us very recently that he was named on three of the Senate committees and has a special legislative mission that was given to him by Minister Freeland, and he just won't have the ability to continue, doesn't have the wherewithal in terms of timing. So he is actually in the Senate Committee, a special Senate committee, Yesterday, during our board meeting, he said, guys, I tried as long as I can, but my schedule is just not going to allow me to continue. So – and that was not in his plans when he joined our board last winter in February or March.
+
+As for Gilles, I think it's a question of – I certainly don't want to disclose anything personal in his case, but he's been on our board for 11 years. I believe you probably met him and he probably would like to spend more time for himself and enjoying life. And actually, there comes a point where we need to transition. So I think that by announcing that he's absolutely on until the next AGM and we are launching, as I said, a process to really look for best possible talents to come on our board.
+
+And we've hired a very well-known technology executive search firm. I can name them, I think. It's Boyden. So they're seeking candidates with the right profiles so that we continue to strengthen our board. We did change some of the members over the last couple of years. We've added a significant amount of new executives in the management team, now trying to strengthen and bring all of that bench power to the board.
+
+Great. Thanks. I'll pass the line.
+
+Thank you. [Operator Instructions] Our next question comes from Richard Tse with National Bank Financial. You may proceed with your question.
+
+Yes. Hi. This is actually [ph] James (00:51:33) speaking on behalf of Richard Tse right now. I understand you reiterated guidance in relation to synergies in the Periscope acquisition. That said, I was wondering if there could be upside to those numbers. And if so, what would be the catalyst for that upside? As well as kind of what milestones are you looking for in the next 6 to 12 months in relation to Periscope?
+
+Hey. Thanks, [ph] James (00:51:57), for that question. I think the best way to answer your question is obviously – sorry, I mean obviously, when we estimated those synergies, we looked at our current customer base and Periscope's customer base and tried to see what we could cross-sell to each other's base, and that's how we estimated that.
+
+Now could we grow a lot faster? Of course, we could. It's a question of signing up existing – or sorry, converting existing states or provinces to the transactional model and how fast we can do that will really dictate how fast we can grow or how much more of these synergies that we could pick up.
+
+On the cost side, it's already started. You saw some of the restructuring costs that come from picking the best executive team to run our full government procurement. It's a team of now eight folks. So we picked the best VP sales, the best marketing person, the best operating person, et cetera. So obviously, we had to make some tough choices, and that's what created some of those restructuring costs. And we are seeking efficiencies.
+
+Now given the very large scarcity of talent, we also want to be careful, because as we sign up new states, we also need people to implement. These projects are fairly people-intensive in the beginning. So we want to be very careful about that. It was mentioned that we had a bit of delay related to Omicron in one of the state deployments. We're expecting this to start now and I'll say, almost any day, but we need folks to be there. So we want to be careful in terms of timing on that side.
+
+Okay, great. Thanks.
+
+Thank you. There are no further questions. I will now hand the call back to Mr. Filiatreault for closing remarks. Go ahead, sir.
+
+Well, thank you, everybody. Thank you for being there, and thank you for your questions. We keep working hard, and we're definitely on our plan. When I looked at the two-year – sorry, the two-year plan that we had produced back in approximately February of 2020, before the pandemic even started, when I look at these numbers, we're very, very on track. We obviously had to do things significantly differently than we expected, but we're right there where we thought we would be. So we're continuing on that plan. And now we're really focusing on signing up these new spaces and working on integrating those technologies to become that one-stop shop for government procurement, which we believe is an incredibly large market.
+
+So thank you all. Looking forward to seeing you at our next results, which will be our year-end, so sometime in mid-June, I believe. I don't know that we have the date yet, but we'll obviously be communicating it to you very soon. Have all a great day.
+
+Thank you.
+
+Thank you, all.
+
+Thank you. This concludes today's conference call. You may disconnect your lines. Thank you for participating, and have a pleasant day.

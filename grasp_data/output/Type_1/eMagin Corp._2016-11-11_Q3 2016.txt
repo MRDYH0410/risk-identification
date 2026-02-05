@@ -1,0 +1,356 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+Jeffrey P. Lucas — Chief Financial Officer, eMagin Corp.
+Andrew George Sculley — President, Chief Executive Officer & Director, eMagin Corp.
+Andrew Uerkwitz — Analyst, Oppenheimer & Co., Inc.
+Aaron Martin — Analyst, AIGH Investment Partners LLC
+Orin Zvi Hirschman — Analyst, AIGH Investment Partners LLC
+
+Management Discussion Section
+
+Question And Answer Section
+
+Good morning, and welcome to the eMagin Third Quarter 2016 Earnings Conference Call. All participants will be in listen-only mode. [Operator Instructions] Please note this event is being recorded.
+
+I would now like to turn the conference over to Jeffrey Lucas, Chief Financial Officer. Please go ahead, sir.
+
+Thanks. Good morning, everyone. We are glad to have you join us today for our third quarter 2016 earnings conference call. During today's call, we may make forward-looking statements as defined in the Private Securities Litigation Reform Act of 1995. These forward-looking statements are based on the company's current expectations, projections and beliefs and are subject to a number of risks and uncertainties. Such statements include references to projections of future revenues, plans of product development and production, the company's ability to ramp up production, future contracts, product benefits, operations, liquidity and capital resources, as well as statements containing words like believe, expect, plan, target, et cetera.
+
+Our risk factors are included in the company's Form 10-K for 2015 or as filed with the Securities and Exchange Commission and the company's Form 10-Q for the quarter-ended September 30, 2016, to be filed with the Securities and Exchange Commission on Monday, November 14, 2016 because of today being the Veterans Day holiday. Except where required by Federal securities laws, we undertake no obligation to publicly update or revise any forward-looking statements for any reason.
+
+With that, I'd like to turn the call over to eMagin's Chief Executive Officer, Andrew Sculley. Andrew?
+
+Thank you, Jeff. While not reflected in our Q3 results, we're very excited by the amount of business development progress we made in this quarter. Yesterday, we announced the launch of our consumer products business with the introduction of the first two products, one of which has already garnered a prestigious award from the upcoming 2017 Consumer Electronics Show in January. We are expecting some initial revenue from our consumer products in the current quarter. I will go into greater detail on our consumer product launch in a minute.
+
+We also continue to make significant progress in expanding the market reach of our leading OLED microdisplays in the greater commercial sector with another key design win in the medical device space. This time, it was with a leading company for one of their next generation device platforms. The device will use our very high resolution displays. This is the second key win for us in this important vertical market in as many quarters and underscores our view that the form factor and resolution of our technology is steadily finding its way into more applications.
+
+And while our domestic military business saw anticipated softness this quarter as current contracts are generating lower volumes, we're encouraged by a pickup in order levels in our newest U.S. Military contracts. We expect volumes on these newer contracts to continue to ramp in 2017.
+
+Additionally, our foreign military business saw several new multi-year agreements, including a contract with a major European defense company for a new generation thermal sight and goggle system; another for a new simulation and training helmet display for a European military customer; and another for our displays to be integrated into a missile defense system scheduled to be rolled out across 19 countries.
+
+Finally and importantly, we're very encouraged by the significant progress we made in the quarter in our discussions with large Tier 1 potential strategic partners who are interested in incorporating our technology into their next generation devices. Although we spoke of this during our other conference calls, it's worth repeating. We have proposed new display design concepts to a number of Tier 1 companies for next generation VR devices. The concepts include high-brightness, full-color OLED using our direct patterning technology, higher resolution, a larger display to make [ph] the optics (04:49) easier, a path to mass production with a strategic partner. Also included are things like high frame rate, global addressing and the ability to have low persistence, all of which you may have read are necessary for the industry's needs.
+
+We are working with these multiple Tier 1 companies on this path. A first step will be a contract related to the design of that next generation display, which we could finish one or more of these contracts by year end. These companies are discussing the display design with us because only we have demonstrated full color high brightness OLED and we have demonstrated outstanding design capabilities for silicon displays using OLED. Those two things are absolutely necessary.
+
+I would like now to discuss in more detail our exciting announcement yesterday about our entry into the consumer products market. You'll recall we announced hiring leaders for our HMD Group in 2015. After considerable research and product development, we announced our first two products focused on significantly expanding the size of the market for consumer and industrial night vision systems.
+
+Our BlazeTorch product is a headset-based, night vision system, incorporating our low-power, high resolution OLED micro displays and a newly designed prism optic. Our BlazeSpark product is a smartphone case and associated app-based system which allows users to use their handheld device to see and record events at night with live streaming video.
+
+Last evening, BlazeSpark was designated as an honoree in the digital imaging category at the 2017 CES Innovation Awards ceremony. We are excited and proud not only to have received such a prestigious award but to have done so with the very first product launch into this market. Both the BlazeTorch and BlazeSpark products provide a superior night vision experience versus existing products on the market at disruptive prices. Because our products enter this market at prices significantly lower than existing solutions, we believe the products can significantly expand the market for consumer and industrial night vision solutions.
+
+Outdoor enthusiasts can now enjoy and even record their activities at night at affordable prices. We also believe that these new products could find broad appeal in industries where work is performed at night, including law enforcement and utilities maintenance, for example. Not only are we excited by this new revenue stream for eMagin, but we are leveraging our existing manufacturing infrastructure for production of the displays for BlazeTorch. This will benefit our gross margins across all displays.
+
+On the technology and product design front, we have upgraded our direct patterning equipment to provide significant improvements in display performance and higher production volumes. There is interest from both military and commercial customers in this technology.
+
+Under the existing ManTech program, our development work progressed and is on track. Many customers, including both the military and VR companies, will be sampling direct pattern displays in Q1 of 2017. We will be selling them to military-scaled customers in the second half of 2017 as products.
+
+On our new 2K x 2K full-color microdisplay, which expands our offering for the commercial marketplace, is on schedule to produce engineering samples in December and we'll also be sending samples to select customers, including the customer with whom we entered into the licensing agreement last December.
+
+With the launch of our consumer products business, we see three distinctive businesses emerging, all of which leverage our leading OLED microdisplays, whereas a year, ago we were almost solely focused on military and related markets. Today, we have two additional growing revenue streams in the commercial/industrial and now in the consumer products.
+
+This significantly expanded business has been driven over the last several quarters by some very significant reorganizations internally. We have expanded our marketing and sales activity and a new focus on commercial and industrial verticals while maintaining our leading position in military markets. These efforts have already begun to bear fruit including accelerating traction in the large market for advanced medical devices I mentioned previously.
+
+We have also streamlined many of our internal processes, having now fully relocated our accounting and finance operations to our headquarters in Hopewell Junction. Additionally, we recently made key hires in manufacturing and business development. All of these moves provide us with a better ability to improve yields and scale on manufacturing volumes in anticipation of growing demand in our consumer group and in support of our strategic partner efforts. In short, this is not the same eMagin as it was a year ago and we're excited by what 2017 potentially holds for the company.
+
+With that, I'll hand it over to Jeff for some more detailed look at the quarterly financials.
+
+Thank you, Andrew. I will start with the income statement. Revenue for the third quarter was $4.3 million, down 20% from the third quarter 2015. The decline was mainly due to anticipated lower volumes in some of our maturing U.S. military programs. This is consistent with what we mentioned last quarter and was the driver behind declining product revenues in the quarter just ended.
+
+We are starting to see initial volume production ramps coming from newer U.S. military programs and expect to see higher volumes as we move into 2017. We remain a key technology partner who made defense primes in the very large markets for U.S. military night vision and VR-enabled training system. Additionally, we continue to see a solid temple of activity with four military defense contractors.
+
+So, despite the timing issues with [indiscernible] (11:30) contracts and initial ramp-up on new ones, our position in these markets remain solid. Focusing on our revenue component, product revenue was $3.5 million in the quarter, down 24% compared to the last year. The decline reflects the U.S. military activity I just mentioned. R&D contract revenues totaled approximately $769,000, in line with the prior year quarter and up 2% sequentially from this year's second quarter.
+
+Gross profit for the third quarter was $1.3 million, flat from the second quarter, but up nearly 16% from the third quarter of last year. This resulted in a gross margin of 30%, up from 20% the same quarter last year. This increase in gross profit and gross margin reflects higher profitability in both our product sales and our R&D contract revenue.
+
+Gross profit on product sales increased by approximately 10% to $991,000 with an increase in gross margin of 9 percentage points to 28% from 19% in the same quarter last year. This is mainly the result of the favorable impact of higher production volumes, as we built inventory in the third quarter for the launch of our consumer products, which Andrew discussed in his comments. The higher volumes allocated to fixed costs and manufacturing which comprises a larger portion of our overall product costs to a larger number of units through lowering our unit costs. This was offset to a degree by higher labor and equipment maintenance costs incurred during the quarter.
+
+Contract gross profit was up approximately 41% to $191,000 with gross margin expanding to 38% from 27% in the third quarter of 2015. Last year's contract profitability was affected by unfavorable revenue and profit adjustment to incorporate higher total project cost projections as required by GAAP contract accounting.
+
+Moving to our expenses, total operating expenses reached $3.7 million in the quarter, up $373,000 or 11% from $3.3 million a year ago. R&D expenses in the quarter totaled $1.7 million or 39% of revenues compared to $1.2 million or 22% of revenues from a year ago. The approximate $500,000 increase is due to a lower allocation of R&D cost to R&D contracts, which are reflected in R&D contract margins and higher spending on development costs associated with our consumer products.
+
+Selling, general and administrative expenses or SG&A for the quarter totaled $2 million compared with $2.1 million in the same quarter of last year. Last year's expenses included charges for severance and [indiscernible] (14:23) the anticipated settlement costs of a legal suit. This year's SG&A includes higher non-cash stock compensation charges and costs associated with the launch of our consumer products.
+
+Operating loss for the third quarter was $2.4 million, up from $2.2 million in the third quarter last year. Net loss for the third quarter was $2.4 million or $0.08 per basic diluted share compared to $0.09 per basic diluted share last year.
+
+Adjusted earnings before interest, taxes, depreciation, amortization and stock compensation or adjusted EBITDAS in the quarter was negative $1.6 million, approximately the same as last year. This year's adjusted EBITDA included higher non-cash compensation expense to reflect employee option grants during the quarter. These grants are made to employees for the work over the past year and given the many exciting and demanding initiatives ahead of us for the hard work ahead.
+
+Turning now to our balance sheet, on September 30, 2016, we had cash and cash equivalents of $6.9 million compared to $9.3 million on December 31, 2015. During the quarter, we increased our R&D investments and began to build inventory for our consumer product launch. While our working capital requirements increased in the third quarter due to our prelaunch inventory built, we are encouraged by the potential revenue stream of this product and the contribution to our overall profitability.
+
+From a financing standpoint, warrants issued on December 2015 financing were exercised in August and generated approximately $4.3 million for general working capital purposes. We continue to have no debt. We are, however, negotiating an expanded credit facility from [indiscernible] (16:12) if volumes across our expanded lines and business increase and require additional working capital.
+
+Our outlook for the remainder of 2016 is focused on continuing to drive shareholder value through our existing operations, securing new contracts with the military program, successfully launching our new customer products and, as Andrew mentioned, furthering our discussions with Tier 1 OEMs interested in incorporating our leading OLED displays into the next generation of products. Operationally, we will continue our progress in manufacturing improvements including yield enhancement and production capacity expansion.
+
+In closing, I echo Andrew's comments that we believe eMagin is the only company whose product can meet the brightness and resolution requirements for high-pixel density displays that the market demands. We are excited by our technology and intellectual capital in a level of interest that we are seeing in our products and in our company. We look forward to updating the market on our progress of this company initiatives in the coming months and during the next quarterly call.
+
+So, with that, I'll turn it back over to Andrew for final comments before we take your questions. Andrew?
+
+Thanks, Jeff. Before we open the call to Q&A, I'd like to underscore what I said last quarter about our strong focus on achieving material and measurable milestones that can drive shareholder value for eMagin, and we believe we are beginning to deliver on these key milestones. We have significantly expanded our addressable market as we move well beyond our core military markets with growing traction in commercial, industrial and our entry into the consumer market at disruptive prices. We're also very focused on keeping the pace and tempo of discussions going with large strategic partners and hope to be able to provide you more news as quickly as possible.
+
+We also continue to see our U.S. military business as a strong foundation for our overall business, with a healthy number of existing and future contracts, which help fund advanced technology development to power the next generation of high-performance display technologies. These are exciting times at eMagin, and we look forward to updating you on our progress next quarter.
+
+Thank you for your interest, and now we should open it up to questions.
+
+Thank you. We will now begin the question-and-answer session. [Operator Instructions] And your first question will come from Andrew Uerkwitz of Oppenheimer. Please go ahead.
+
+Hey. Thank you, gentlemen. Appreciate it. On the consumer products side, is this just the first of many that we'll plan to see or how should we kind of think about the product roadmap as we're going to 2017 and 2018? Thank you.
+
+Good morning, Andrew. Look, clearly, we're thinking of the next steps in this. We do have a roadmap, but we're not willing to let it out at the moment. So there will be other products.
+
+Okay. Thank you. And then can you talk about – as you continue to go into the consumer market both with your own products and partnering with Tier 1s, how should we think about OpEx ramp going forward?
+
+Sure. Andrew, this is Jeff. Let me answer that comment for you. At this point, I think the OpEx that we saw in the quarter just ended is clearly representative of what our OpEx is going to be. If indeed, the consumer products begin to accelerate rapidly, we may incur some additional spend as we're building out the marketing effort here.
+
+To give a little bit more color on this, in the third quarter, we had some expense that we don't anticipate recurring in the future being those associated with the transition of the finance procurement functions. However, offsetting that is that, as Andrew pointed out, we made some pretty critical senior management hires during the quarter with business development and operations. So we are going to have the full quarter effect of those. But outside of that, it can be pretty judicious in terms of the increase in OpEx going forward.
+
+I appreciate it. And then one last one. With the change in presidency here, does your outlook for the military business change at all? Thank you.
+
+I think that the programs that we have bid for with obviously the integrators and the integrators have won those will not change are long-range programs. And so, even if the new president wanted to change it, it wouldn't happen. So over the next few years – and these programs are run for a few years each. So, for example, ENVG III, it's big program. So I don't see any issue with that.
+
+Great. Thank you, gentlemen. I appreciate it, and it's pretty exciting time right now. Thank you.
+
+Absolutely.
+
+It is indeed. Thank you, Andrew.
+
+And the next question will come from [ph] Dennis Van Zelfden of Brazos Research (21:30). Please go ahead.
+
+Good morning, gentlemen.
+
+Hi Dennis.
+
+Hey, Dennis.
+
+I was wondering what kind of research did you guys do on each of your two new consumer products to determine potential demand and what did that research indicate in terms of demand?
+
+Well, we looked at the night vision market and we also have a – we looked at the recreational space by going to places that have recreational activities. And we know after talking to many of them that there's interesting recreational activities at night. And we developed the concept with that in mind.
+
+Let's expand upon – if I can expand upon that just a bit. Part of the channel, we have a sense of what the overall night vision market is, it's around a $5 billion market. Naturally, the military [indiscernible] (22:26) portion of that, we want to get a hand on how much is consumer and how much is recreational. And the opportunity that we found here in doing that research is that the market, on a consumer and particularly the recreational side, is relatively underserved because of the price points.
+
+So we sat back and looked at what we can attribute here, what our cost structure would be to get these products out to the market competitively, profitably, and a very attractive price. We recognized that there's a chance here that we could really have an impact in terms of maybe growing the market overall. So, from our standpoint, the work we did, it seemed like a pretty compelling case for us to expand in the space.
+
+So you basically found that there is a big demand for a product that can see at night without lights being around, meaning you've talked about recreation. I mean, things like football games have lights and stuff. So, I mean, if you go into that...
+
+Let me give you an example. I'll give you an easy one. If you were going on a safari, be at anywhere in the world, and some animals are out at night, so would you like to take a picture of them using the spark, BlazeSpark, that's an easy thing using your phone. If you ride motorcycles at night, and I know this sounds dangerous to you, but people do this sort of thing with lights on their helmets, et cetera, ride mountain bikes. So, using the BlazeTorch makes that much, much better.
+
+And you can even expand that when you think of some areas like resorts, ski resorts and places like that, that are really looking to how can they better utilize their assets. And by having some – using some of our products and we are in discussions with them, this allowed more night activities and it is very, very appealing to them and very appealing to the market.
+
+Okay.
+
+And this is actually what we did to sample the market by going to recreational facilities, and they made us very interested in getting this stuff out.
+
+And did they only become available for sale literally in the last couple of days?
+
+Yeah. We held off for the CES award. We thought that was a great time to start.
+
+That's correct.
+
+Okay. And last question, Jeff, the increase in inventory, I don't have it in front of me, but it was about $3 million, I think. Was it all consumer products or was there just other regular inventory builds for other displays in there as well?
+
+Some of it is – a small portion of that is inventory builds actually for what's happening in our military business. So, that begins to ramp up, but it's predominantly the consumer build. But I do – yeah, so it predominantly is consumer build.
+
+Okay. Thanks, guys. Good luck.
+
+Thank you.
+
+By the way, let me add one comment here if I can just to finish up. As I indicated, primarily consumer build, a fair portion of that actually has to do with our displays that we build specifically for these products, although they have, of course, a variety of uses.
+
+Thank you, sir. Our next question will come from Aaron Martin of AIGH Investment Partners. Please go ahead.
+
+Hey. Good morning, Andrew and Jeff. Very exciting on the launch. Can you talk a little bit about your launching plans in terms of distribution and that kind of stuff? Is it the first time you guys have a consumer product? It's a new world for you. So, what is your game plan there?
+
+Well, just to note, it isn't quite the first time the company has had that. In 2006, we actually won the CES award for a first-generation VR headset using a prism optic. And in that time, it was in SVGA display. So it isn't quite the first time. But we learned something from that, and we did hire a couple of folks who are very skilled in this market, as I mentioned. So, here, the idea is website first and then recreational groups next, and that's the start of the launch. And we're not going to big box retailers at the moment until this launch is in the fashion that I just mentioned.
+
+Aaron, this is a selective launch we're being careful of and the reason for that is because obviously we are not a large company. We don't have immense working capital at our disposal. We have to use it very selectively and carefully. So we've done this very sort of specialized launch here. And as we get validation, our further validation in the marketplace, [indiscernible] (26:51) deep again, exploring ramping up. But at this point in time, we want to make sure, one, we have enough with the existing interest out there. But secondly, they were in a position, they were not exposed – overly exposed, but on the other hand, we kind of ramped up pretty quickly.
+
+Got it. [indiscernible] (27:10) you talk about the inventory level being displaced that you could theoretically use for other products?
+
+Yeah. And it's not theoretically. We know we can use them for other products.
+
+Okay. Fair enough.
+
+Absolutely.
+
+And in terms of, I guess, the gross margin and that sort of stuff and the financial impact of a consumer product, how does it compare to your current business?
+
+Well, I think that's going to be driven actually in large part how well we determine in terms of the pricing. But at this point in time, certainly gross profit is going to be accretive. The gross margin percent is in the range of where our current product [indiscernible] (27:52) in terms of the delays in the contract were. But a very important point to note here, particularly regarding our displays, that we said many times in the past and I pointed out in the call earlier that so much of our production costs are fixed. And if you have higher volumes, the fixed portion comes down dramatically. So we are actually anticipating that with the current pricing structure we have in place, that it will have a pretty positive impact in margins going forward, with gross margin percentages that will be superior to our existing product groups, product and contract services.
+
+Got it. Okay. Great. Thanks a lot.
+
+Thank you.
+
+[Operator Instructions] The next question will come from Orin Hirschman of AIGH Investment Partners. Please go ahead.
+
+Hi. Good morning. How are you?
+
+Good. How are you?
+
+Hi, Orin.
+
+Hi. A couple of different questions in different areas. So, the night vision on the consumer products is the technology for the night vision itself new or is it the integration with the OLED displays that makes it unique and so cost effective? What's the proprietary aspect here and what's the closest competitive product that you're aware of?
+
+Well, in this case, on the BlazeTorch, the prism optics are new. We designed them for another purpose and used it to display as an SXGA that we have for a while now, not too long. It's a new and very growing product. So the integration of that with a thermal camera is what is new here. And actually, the thermal camera is new as well. I can't tell you anything about that, however, because we'd like to keep that as a secret. And on the phone case, the new thing is an app that takes the image from the thermal camera, sends it to the phone, and then sends it to website. You can record, et cetera, and live stream.
+
+And what's the closest competitive product that you've seen?
+
+In this case, I'll give you an example. There are industrial which you can have as a consumer, handheld that looks like video cameras. Those are close, if you will, to the camera, but it's not live streaming. And so I think that difference is different from what I've seen. And here, I'm not talking about military devices, right? The other one obviously on the consumer side, even as a hunting scope, you can have a night vision hunting scope for hunting animals. And we do sell displays into that space a well.
+
+There are devices out there, goods like Bushnell, Armasight, Spy Gear, Clear and others. But the point to make here is that they're not in our price range – our anticipated price level. And actually, those that are don't have the quality, don't have the resolution by any means that ours offers here. So we feel that actually part of the reason we're doing this is there's not much of a presence of many competitors at this point in time. So it's pretty exciting for us to come out with something of this resolution, this quality at these price points.
+
+Okay.
+
+And we do sell displays into many of these night vision items like the ones that Jeff mentioned and they're handheld.
+
+Exactly. They don't have the convenience, the ease of use. We have this. You have an attachment to your smartphone or you have goggles that you're wearing hands-free. Without [indiscernible] (31:35) doesn't offer that.
+
+Okay. And resolution-wise [indiscernible] (31:40) close on that price range or anywhere near that price range?
+
+Yeah. Obviously, it depends on what you buy, but resolution-wise, for the headset, we are in a good price range and very nice resolution, hands-free, et cetera. It's very compact, very nicely designed, and the phone of course is the resolution of the phone but the camera feeds that resolution.
+
+You mentioned an additional consumer product. Is that sort of in the very near term or is that for 2017?
+
+Well, I think you're saying on the consumer product side, we're working with Tier 1 companies to design. We've given them – this is the display technology that we think you should have, and they agreed with us, and we're working to sign up and design displays for that.
+
+Okay. And in terms of – let me break the question into two. In terms of your own additional consumer product, any more coming near term in 2017? What should we think about on that?
+
+We do have a roadmap, but we'd like to concentrate on this first, what we have right now.
+
+Okay.
+
+And we [indiscernible] (32:59) shoots from this first. don't want to bite off too much...
+
+Exactly.
+
+Okay.
+
+Right. And the same thing that we said on the launching of the products, we're not going to big-box stores and we're doing it in a more controlled fashion to see it take off. We 100% believe that this is going to take off, but we want to be a little conservative here.
+
+Okay. And in terms of some of the bigger companies that are looking on consumer products including the one who gave you the $1 million [ph] NRE (33:32) where are we up to in those product developments? Does those product developments go on track, any of them going an off-track?
+
+So, they're – we are working with – as I mentioned, we gave them a path. As I mentioned during the – my remarks, we gave a path. We need a display design a little bigger, very high brightness. And by the way, the reason these companies got to us is because that technology, very high brightness OLED is only available from us.
+
+So that's – and we said this is the type of display you need. And of course, they say, well, we need something a little different, change of resolution, et cetera, et cetera. Now, we're waiting for actually working towards signing up a couple of these display designs.
+
+Okay. Right. In terms of the one that you actually have signed up or the ones that you have signed off, are they on a trajectory for consumer launches for 2017?
+
+Well, I think you're probably remembering the $1 million deal we did on [ph] IP (34:36) and we are on track to deliver displays to them, sample displays in December of a 2000 x 2000 display. And they're not talking to us about, of course, when they're going to launch, et cetera and they're very secretive, but we're on track to deliver the displays that they need to start.
+
+Okay. And any of these companies agreed to take a display as is or are they only [indiscernible] (35:06)?
+
+There's two separate things going on here. That particular company, the $1 million company, we'll call them, actually it's a display that we're designing. We did a 2000 x 2000 resolution display before. We've designed a new one that's a little bigger and that display, they're interested in. They haven't told us they weren't interested in a different display, but there's a number of few companies working with us on a new design display that we're very excited about.
+
+Okay. And do you think any of those companies will actually let you announce their names or you'll give enough details for us to be able to understand the magnitude of whether they're big designs or small designs?
+
+They will be very secretive.
+
+But do you think you can give us enough details to tell whether they're major designs or minor designs?
+
+Okay. Well, they're Tier 1 companies we're speaking with right now.
+
+Okay.
+
+A few of them.
+
+And my last question is on the military business, where you said you built some inventory. Is that because you're hoping to be up sequentially on the military business?
+
+It's a small amount of inventory. And we do expect this quarter to be better as we start feeding more of these programs. And just to give you an example, ENVG II has stopped, or the French soldier modernization program has stopped and that's because they launched a new program, it's ENVG III and we expect that to be ramping up a little bit now and then next year.
+
+So just to expand upon Andrew's response, we do expect the military business to be up this quarter over last quarter. And based on there what we've seen with shipments for the quarter-to-date versus this time last quarter, we are actually well ahead of that. Conversely, we do have, of course, the holiday season at the back-end of this as well. But, again, overall we do expect this quarter military sales to be higher than they were last quarter.
+
+Okay. Great. Thanks very much.
+
+You're welcome.
+
+And the next question will come from [ph] Tom McGuire (37:23), a private investor. Please go ahead.
+
+Hey. Congratulations, gentlemen on the new consumer products. One question and that's regarding the statements you make about – in the press release and Jeff said it on the line too, that you guys believe you're the only company that can provide the brightness and resolution that's needed for the displays for these new markets. I think that's pretty bold and I don't disagree with it, but I wonder where are you really in the discussions with these Tier 1s. Is it tweaking product specs for them or have you advanced pass that to get to maybe some negotiations like upfront investment by these Tier 1s and assurances of ability to perform and that kind of stuff. Is that – are we there yet or not?
+
+Well, let me take your first part of that question. It's a bold statement. So, we have demonstrated very high brightness, directly patterned OLED at these fine pixel pictures. So, as if I take round figures – but well, the one we're working on now is 2,645 pixels per inch. A Samsung cell phone which is used in cell phone-type display is used in the ones that you know of today, those are under 600 pixels per inch. And Samsung or I probably shouldn't mention the name, those cell phones are directly patterned. But there's big space between the sub-pixels and ours is very, very small space between the sub-pixels and again, 2,645 pixels per inch. That's what the companies need in order to get a good immersive feeling and the high brightness no one else has demonstrated 4,500-nit OLED display and especially at these small pixel pictures. And that's just a fact no one did.
+
+So, the other question you asked is where are we. We're working on a display design and looking to sign contracts.
+
+And I'll expand upon that just a bit and that is yeah, we're far aligned certainly with the design specs and we're continuing obviously our engineers with their engineers. But importantly, we're also in discussions and negotiating some of the longer term elements of the arrangement that you alluded to, [ph] Tom (40:06), because clearly, these folks want and we have a path to high-volume production.
+
+And there's multiple steps there, of course, design developing a prototype, getting to a lower rate production capability and then moving on to a higher rate. And that part of our discussions, because we're trying to outline and define those aspects of our discussion in our agreement now versus having to wrestle at those at some point down the road. Because in part, we're looking to get a longer term commitment from these folks and we're trying to seal that in so to speak by addressing these challenging negotiations now.
+
+Okay. Thanks again, gentlemen and congratulations.
+
+Thanks.
+
+Thank you, [ph] Tom. (40:42).
+
+And the next question will come from [ph] Tom Rath of Salzer Valley Asset Management (40:49). Please go ahead.
+
+Hi. Good morning.
+
+Good morning.
+
+Just a couple of clarifications, I guess. You spoke to the fourth quarter, you expect the military business to be ramping a bit. If I recall, I think there was one major contract that's starting to deliver in the fourth quarter, is that correct?
+
+Well, there are – yes, there is one major contract. There's actually – we expect a few more to deliver, but these are these are starting to ramp essentially.
+
+Okay. So, the major ramp occurs after the [ph] 1st of year (41:26)?
+
+Yes.
+
+And then, on this discussion Tier 1s and the contracts you're pursuing, those would be, if I understand it, development contracts that you would then work for additional 9 to 12 months to produce that display?
+
+Yeah. You actually have this right. They are development contracts and it takes, depending upon what the display looks like, how different it is and just a warning, these are different, it takes approximately a year. That is correct. And then, as Jeff mentioned, very importantly we're also interested in production of these and we're working on mass production partnerships as well.
+
+But at what point would you, on a practical basis, call that as a design in? I mean, do they make a commitment to you upfront that if you produce that to that spec that they will buy a certain number of units?
+
+Well, typically, you remember they are paying for the design and this is no different from designs we've done in the past and we pay for the design and the ideas that the design must be built by us or on our behalf using other mass production partners. So...
+
+Okay.
+
+So, we actually commit upfront to a certain volume.
+
+I'm sorry?
+
+Companies don't commit to a volume upfront.
+
+Okay. And then my final question because we haven't talked about this in quite some time is, is there anything going on in the competitive front in the micro OLED display market that you're aware of in terms of new or enhanced competition?
+
+Well, we do know that companies have – everybody is – everyone is trying to do this brighter display in the microdisplay world using OLED. And the brighter displays, there are ways to do it. We could do this, too, but frankly, the way we're doing it is much better. So companies are getting close to 1,500 nits, even 2,000 nits; but there's no way they're going to match the 4,500.
+
+And I'll just give you an example of why. If you're a consumer company, you need this. You want to have the display have good lifetime and you want to run the display such that it's only on for a fraction of the time of the frame. And [ph] that's be (44:09) so you get no motion artifacts. And with that you need to increase the display brightness. For example, if you're only running by 10% of the frame, you need a 10 times brighter display. That's why they need us.
+
+Okay. Thank you for your response. I appreciate it.
+
+No problem.
+
+[Operator Instructions] Your next question will be a follow-up from Orin Hirschman of AIGH Investment Partners.
+
+Just one quick follow-up really on the last two questions. The technology that you have was originally developed by IBM if I recall correctly, is that correct?
+
+[indiscernible] (44:52) I'm sorry. The technology...
+
+The original, the OLED technology that you've developed?
+
+No. No. No. The origin of OLED technology actually was – the inventor of it was a gentleman by name of Ching Tang at Kodak. So, he's a colleague of ours. Those of us who worked in the OLED group at Kodak, I ran that group. So, it's originally invested by Kodak.
+
+Okay. But where did you guys originally come from? Where did the technology that you use originally come from?
+
+Well, by that you mean we actually, we were – when we started to go into OLED in the very late 1990s, we actually talked to Kodak about it. With the IBM, the only relationship there is they had clean room space and some equipment, like a [indiscernible] (45:50) deposition tool. So that's why we came here.
+
+Just one final question on this point. With the amount of money that was actually put in for the development of your OLED screens over the years has been approximately how much? Do you have any idea?
+
+Well, I think if you maybe count the money over the years and look at our retained earnings, maybe that would give you an indication.
+
+Okay. I'll do that.
+
+Over 25 years [indiscernible] (46:19).
+
+Yeah. And the other thing is I should add one other thing that the first part of that – the company actually started in 1993, the first part of that was trying to develop field emission displays of 2-inch size. So, all that money was...
+
+But, Orin, you make an interesting point there because when we have discussions with the Tier 1s and others, naturally they're going to ask themselves a question, the make versus buy, so to speak. Do they want to do it themselves or work with us? And, I think they recognize and appreciate just how much an investment required to get even close to where we are now. So that is certainly factored into their calculus.
+
+Okay. Thanks.
+
+And ladies and gentlemen, this will conclude the question-and-answer session. I would like to hand the conference back over to Andrew Sculley for his closing remarks.
+
+Well, thank you, Well, thank you everyone for joining us today and it is an exciting time. It's an exciting time because of the launch of the consumer products and again winning the award from CES is the honoree, it's amazing. The group working on that has done an outstanding job and the group putting together this display technology for direct patterning brightness displays is doing an outstanding job. And I just also need to mention that on the silicon design capability we have is outstanding and those two reasons are the reasons these Tier 1s are coming to us. So, thank you, everybody else – everybody for joining us. I appreciate it very much.
+
+Thank you, all.
+
+Thank you, gentlemen. Ladies and gentlemen, this conference has now concluded. Thank you for attending today's presentation. You may now disconnect your lines.

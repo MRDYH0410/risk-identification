@@ -1,0 +1,147 @@
+Participants
+CORPORATE PARTICIPANTS
+Adam P Lowensteiner — Vice President, Lytham Partners
+Ravi Khanna — President and Chief Executive Officer, GSE Systems, Inc.
+Emmett A. Pepe — Chief Financial Officer, GSE Systems, Inc.
+
+Management Discussion Section
+
+Question And Answer Section
+
+Good day and welcome to the GSE Systems First Quarter Fiscal Year 2024 Financial Results Conference Call. All participants will be in a listen-only mode. [Operator Instructions] After today's presentation, there will be an opportunity to ask questions. [Operator Instructions] Please note this event is being recorded.
+
+I would now like to turn the conference over to Adam Lowensteiner, Vice President of Lytham Partners. Please go ahead.
+
+Thank you, Danielle. And good afternoon, everyone. And thank you all for joining us today to review the financial results for GSE Systems First Quarter 2024 for the period ended March 31, 2024. With us on the call representing the company today are Ravi Khanna, President and CEO of GSE Systems and Emmett Pepe, Chief Financial Officer of GSE Systems. Before we begin, I would like to remind everyone that statements made during the course of this call may be considered forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended and Section 21E of the Securities Act of 1934.
+
+These statements reflect current expectations concerning future events and results. Words such as expect, intend, believe, may, will, should, could, anticipate, and similar expressions are words that are used to identify forward-looking statements but their absence does not mean a statement is not forward-looking. These statements are not guarantees for future performance and are subject to risks and uncertainties and other important factors that could cause actual performance or achievements to be materially different from those projected.
+
+For a full discussion of these risks, uncertainties and factors, you are encouraged to read GSE's documents on file with the Securities and Exchange Commission, including those set forth in periodic reports filed under the forward-looking statements and Risk Factors section.
+
+GSE does not intend to update or revise any forward-looking statements whether as a result of new information, future events or otherwise. On this call management may refer to EBITDA, adjusted EBITDA, adjusted net income and adjusted EPS, which are not measures of financial performance under Generally Accepted Accounting Principles or GAAP. Management believes that these non-GAAP figures, in addition to other GAAP measures, provide meaningful supplemental information regarding the company's operational performance.
+
+Investors should recognize that these non-GAAP figures might not be comparable to similarly titled measures of other companies. These measures should be considered in addition to and not as a substitute for or superior to any measure of performance prepared in accordance with GAAP. A reconciliation of non-GAAP measures to the most directly comparable GAAP measures in accordance with SEC Regulation G can be found in the company's earnings release.
+
+With that, I'd like to turn over the call to Mr. Ravi Khanna, President and Chief Executive Officer of GSE Solutions. Ravi, please proceed.
+
+Thank you, Adam. I'd like to welcome everyone to GSE's first quarter 2024 Financial Results Conference Call and my first conference call as recently appointed President and CEO of GSE Solutions. Earlier today, we issued a press release detailing our financial results. Hopefully you had the chance to review this news release, but if not, a copy can be found on our website at ww.gses.com under the news section.
+
+To lay out the agenda for today's call, I will start with a brief update on the industry, discuss highlights of our quarterly results and outline some of my goals and initiatives as the new CEO. Emmett will then review the financial results and we'll conclude with a Q&A session.
+
+Before I begin my formal comments, I would like to personally and sincerely thank my predecessor Kyle Loudermilk for leading GSE to this point in transitioning when the company is in a solid position to move forward. Kyle has been an incredible resource during this process and a great mentor to me personally, our leadership team and so many of my colleagues, I wish him all the best on his future endeavors.
+
+A little bit about myself. Prior to my appointment as President and CEO, I was GSE's Senior Vice President of our Systems and Simulation Business, a critical contributor to GSE's operations and role in the industry. I joined GSE in 2016 and I'm clocking in over 20 years of experience in the fields of engineering services and software technology solutions. I hold a Bachelor of Science in Chemical Engineering from the University of Maryland, a Master's in Computer Science from Johns Hopkins University and an MBA from the University of California, San Diego.
+
+So, I come GSE's suite armed with a diverse background and education that should meet the needs of GSE along with boots on the ground experience working within this company. I want to publicly congratulate and welcome Damian DeLongchamp as GSE's new Chief Operating Officer. Prior to being appointed COO, Damien was the Vice President of GSE's Engineering Program and Performance Business Unit.
+
+Damian has been with GSE since 2017 and brings over 20 years of utility experience both domestically and abroad. He has deep experience in various roles within the nuclear energy industries and specializes in regulatory codes and compliance and plant improvement processes. Having worked alongside Damian, I can attest to him being instrumental in keeping GSE at the cutting edge of applied engineering and thought leadership with the industry, which is demonstrated by the key wins he continued to drive for the business. Congratulations, Damian, and looking forward to working with you in this new, exciting role.
+
+First, a brief update on the industry. The nuclear industry continues to gain momentum on a global basis. While this momentum is derived from drive towards de-carbonization goals, there are also several macro trends in the energy industry that favor nuclear. There's no doubting that we are currently in a new cycle of nuclear as the demand for power continues to rise at a record rate and rapid pace. Meeting the high demand for electricity is only going to grow from here as more electrification takes place. Whether that's for your handheld devices, computers, automobiles, or even homes.
+
+Also affecting the demand for power are newer technologies that utilize data centers and these high compute environments are actually causing the rollout of many more as we speak in order to keep up with this demand. Technologies that leverage hosted services for cloud computing, artificial intelligence also known as AI, among other things like electric vehicles and cryptocurrencies, all require a wealth of electricity and demand is expected to keep rising as these technologies and platforms mature.
+
+Recently, Dominion Energy commented on these trends as datacenters are becoming more of their electricity sales and revenue in recent years. Behind this trend isn't just connecting datacenters to the grid. It is also seeing the size of each facility request, which is now at 60 megawatts to 90 megawatts, 2 to 3 times more than the usual 30 megawatts, which stems directly from new computing needs like AI. And the demand is expected to keep increasing, as Dominion also cited that according to McKinsey & Company, in the US alone, datacenter demand is expected to reach 35 gigawatts by 2030, up from 17 gigawatts in 2022.
+
+In order to power these massive data centers, nuclear power becomes the only scalable and stable carbon free power source option that can reliably be available 24/7. So the increase in demand for reliable carbon free power is definitely apparent and nuclear is that piece of the puzzle to meet these demands. But how will power companies keep up?
+
+As we discussed in the past, we believe in the near term the power companies will continue to focus on the current fleet of nuclear facilities and making sure they stay open and are updated to operate for longer periods of time in an efficient and safe manner. The mindset of decommissioning facilities is in the past and now operators and government officials are recognizing the value that the existing nuclear sites offer and are working on ways to keep them open for years to come in order to bridge the gap until the next generation of reactors are set forth. Predominantly referred to as Small Modular Reactors or SMRs. Along these lines, I'd like to point out two recent items of news in the industry.
+
+First was an announcement by PSEG, which recently announced that it had notified the NRC of its intention to pursue 20 year license renewals for its nuclear power plants located in South New Jersey. The facility's first unit has been operating since 1977, and the thrust of this renewal is heralded by the company and government officials as it employs over 1,600 people and provides New Jersey with nearly half of the state's electricity and 85% of the state's carbon free generation.
+
+The second was the focus of a recent article in Bloomberg Businessweek, which focused on the revival of the nuclear industry in the United States by a company called Holtec International, which focuses on bringing the industry through recognition of existing assets, by restarting shuttered facilities in the near term and bridging them to the future with newer technologies and capabilities like SMRs.
+
+Holtec has its own SMRs design, which is currently being reviewed by the NRC and the company is planning to commission them at one of their sites by 2030. This is exciting news for the industry and this story, along with the news from PSEG, fit very well into the GSE narrative of the past few years. While SMRs are still few years away, they are the wave of the future and will be the next generation of reactors built. While our current focus is on the existing fleet of reactors, GSE is well-positioned to partner and capitalize on these new technologies as they emerge. That said, I'd be remiss if I didn't take the time to recognize our own initiatives with an order that we will soon announce with an SMR provider in the United Kingdom.
+
+Under this agreement, GSE will supply our customers SMR program with GSE's most recent simulation technology platform to help them construct their own high fidelity simulators. These simulators will be used to evaluate and advance plant designs with various digital control systems and technology stacks to enable future virtual commissioning of hard and soft controls through the entire plant development and software development, DevOps life cycle. As SMR's evolve, be well assured that GSE is prepared to work with many SMR developers in the marketplace and assist them in various engineering and software services.
+
+As experienced with this key win in the SMR space, our partner was attracted to GSE for our technology stack, diverse expertise and positioning to provide value in a very seamless and rapid manner. SMRs are becoming a critical area of focus for the nuclear power industry, and GSE is well-positioned to be leading – to be a leading provider of engineering and software services and capture market opportunities as they mature and surface. That said, the company is also in a good position to continue to capitalize on maintenance and upgrade opportunities within the existing nuclear fleet here in the US and internationally.
+
+Going forward, a major part of our focus will be on the existing fleet of nuclear sites and assisting the operators with making sure they can operate in the most efficient and safe manner through leveraging all that GSE has to offer through simulation technology, design, engineering services and engineering programs.
+
+Now, for some perspective on GSE's business in Q1 of fiscal year 2024. The first quarter was a solid quarter with regards to new orders and revenue. As described a few weeks ago on the fourth quarter conference call, we experienced some key contract wins in the first quarter that were originally supposed to close in the fourth quarter of 2023. As a result, new orders in the first quarter were $14.6 million, up from $7.3 million in the fourth quarter, but lower from the first quarter one year ago, where we also experienced some delays from the fourth quarter of 2022.
+
+Revenues for the quarter were $11.3 million sequentially higher than the fourth quarter of 2023 and that of the first quarter of 2023. Operationally, our engineering services led the way in the first quarter and helped with the improved results, including the company's gross profit margin at 28.5%. During the quarter, the Engineering Services Division recorded solid orders of $12.1 million, which was sequentially improved from $5 million in the fourth quarter, but lower than the $14.7 million booked in Q1 of 2023.
+
+The fluctuation in the order flow continues to remain in the industry and while it is difficult to pinpoint the closing the deals, they are closing, which is ultimately the important part of the story. The timing of orders demonstrates the nature of the current market. Cautious customer spending in the industry during this tentative drive to adopt digital technology, extend plant lifetimes, and produce more power through targeted capital investment. These elements comprise what we feel will be a multi-decade, positive super cycle that is now in the process of ramping up.
+
+The highlight of these orders was a significant order from a nuclear services company. But beyond that order, we received several key projects with blue chip customers with a good mix of existing and new customers. In addition, services provided were diverse, but most involved the nuclear industry. A couple of key one wins worth highlighting are our $6 million order from our -- for our continued simulation support of a US government engineering laboratory. We also received the first tranche of funding for a $4.2 million contract for design analysis work at a large utility.
+
+As highlighted in our April press release, our Programs and Performance Division won a $765,000 order for engineering services for a 24 month fuel cycle extension. Moving to our Workforce Solutions Division, which continues to operate in a challenging environment. Orders were slightly improved during the first quarter when compared with the fourth quarter, but much lower than the order flow experienced a year ago. The segment had revenues of $2.6 million in the first quarter, down sequentially from $3.1 million and $3.9 million in the first quarter one year ago.
+
+The division is still experiencing difficulties within the industry due to customers being selective with regards to onsite staff augmentation services as well as competitive marketplace given the high fragmentation of staffing providers to the industry, we are currently focused on providing targeted staffing solutions to the nuclear industry that makes sense to us and our customers in this market environment.
+
+To summarize, the first quarter results are a step in the right direction. While we have additional work ahead of us, I am excited about the future and believe the company is in a great position to capitalize on the opportunities in the marketplace. The nuclear industry is evolving and gaining much momentum on a global basis due to key tailwinds that include a pathway towards decarbonization and high demand for the electrical grid.
+
+Our business pipeline continues to remain strong and while we can't control the timing of certain projects, the good news is that the maintenance upgrades aren't going away. They must get done to keep the reactors safe and efficient. While the spending is not in our control, we will act on what is in our control. And that means more boots on the ground and getting more face time with clients and offering them our suite of services and software products that can create many efficiencies given GSEs umbrella of various technology and engineering services. Through client engagement, we can educate them in the breadth of services and value we offer them by using GSE.
+
+I believe that GSE is well-prepared to help these companies improving their facilities and the company is positioned to move quickly when opportunities arise, enabling our customers to get more value out of their budgets. Fiscal 2024 is off to a great start, but there is definitely more work to be done and I'm eager to make certain improvements to put GSE in the best position on the field to compete with a vendor of choice and amongst our customers.
+
+I am proud to lead GSE to the future and I believe we are in a great position to capitalize on the new renaissance that is emerging within the nuclear power industry. I'd like to personally thank all of our GSE team members for the overwhelming support during this period of transition. To my colleagues and friends, I look forward to partnering with you to move GSE forward as one team and as a value added platform to our customers.
+
+I will now turn the call over to Emmett Pepe, GSE's CFO who will review the financial results for the first quarter of fiscal 2024. Emmett, please proceed.
+
+Thank you, Ravi. With the numbers highlighted in detail in the press release, let me focus my comments on a few areas and provide added color where I can. Revenue during the first quarter of 2024 was $11.3 million. An improvement from the first quarter of a year ago, which was $10.9 million, and a sequential increase of 10.5% compared to the $10.2 million in the fourth quarter of 2023. The increase in revenue was primarily attributable to increased utilization, which helped turn backlog into revenue at a faster rate.
+
+The engineering services division continues to show positive results overall, with revenue of $8.7 million, which was an increase of 26% from the $6.9 million a year ago and a 22.5% sequential improvement from the $7.1 million in the fourth quarter of 2023. Orders for the engineering services divisions were $12.1 million, up from $5 million recorded in the fourth quarter, but lower than the $14.7 million recorded a year ago due to a sizable order being received in the first quarter of 2023.
+
+The improvement in orders during the first quarter were due to an improved sales focus and our investment in the business development team in the past year, which has opened doors to new customers. Workforce Solutions division revenue in the quarter was $2.6 million, lower from $3.1 million during the fourth quarter of 2023 and $3.9 million in the first quarter, a year ago.
+
+As Ravi indicated, the division continues to confront industry challenges. Orders in the first quarter for workforce solutions were $2.5 million lower than the $4.4 million received a year ago, but slightly better than the $2.3 million in the fourth quarter of 2023 and $1.7 million in the third quarter of 2023. The division continues to experience certain challenges, including early terminations we received from our clients, as well as increased competition and less onsite work projects. We are closely monitoring this business and reviewing our options to have this unit be more efficient and advantageous for the company in the longer term.
+
+Gross profit in the first quarter was better at $3.2 million or 28.5% of revenues. This compares to $2.6 million or 25.5% of revenue for the fourth quarter of 2023 and $2.4 million or 22% of revenues during Q1 of 2023. The increase is driven by our engineering services division, which had a gross – gross profit margins of 33.3% compared to 27.1% a year ago and 29.5% last quarter. Engineering utilization continue to be a major focus and the first quarter results reflect the improvement.
+
+We increased our billable utilization to 94.4% in the first quarter and that compares to 83.9% in the quarter one year ago. Operating expenses excluding depreciation and amortization in first quarter were $4.6 million, which included 500,000 one-time advisory fees compared to one year ago OpEx was approximately $5 million. This shows despite one-time items, the company has lowered costs and removed a lot of expenses that were in the business. We are confident in the expense reduction measures that were conducted in the last year.
+
+The OpEx per quarter should remain at similar levels in future quarters in the range of $3.5 million to $4 million per quarter. Net loss in the first quarter was $2 million or loss of $0.63 per share which was improved when compared to the first quarter of 2023, which was a net loss of $3 million or a loss of a dollar $0.29 per share.
+
+Adjusted net loss was $1.1 million or a loss of $0.35 per share compared to adjusted net loss of $2,574,000 or loss of $1.12 per share in the first quarter of 2023. Adjusted EBITDA totaled a negative $447,000 during the first quarter, compared to a negative $2.2 million in the first quarter from one year ago. The company's backlog ended the first quarter of 2024 at $37.7 million, up from $34.5 million at the end of the fourth quarter and fiscal year-end 2023.
+
+The majority of the backlog continues to lie within the engineering performance division. The engineering and segment backlog was approximately $32.3 million at the end of the first quarter of 2024, which compares to $29 million at the end of the fourth quarter. Workforce Solutions Division was $5.4 million at the end of the first quarter of 2024, compared to $5.5 million at the end of the fourth quarter of 2023. Moving our discussion to the company's balance sheet.
+
+We exited the first quarter with $1.4 million in cash. The cash levels do not include restricted cash of $1.5 million, which is to secure four letters of credit with various customers totaling $1.1 million and $400,000 to secure our corporate credit card program.
+
+We continue to make payments on our convertible debt secured with Lind. We will be concluding our repayments on the first tranche this month. And as of today, we have repaid $6.2 million with just 100,000 remaining on the first convertible note. This demonstrates great progress and the potential of the company moving forward. In June 2024, we will begin to repay the second tranche of $1.8 million from Lind and anticipate the full repayment by May 2025.
+
+We continue to review on a monthly basis the determination on whether to repay in cash stock or a combination of both and will prioritize paying in cash whenever possible. While we continue -- while we are still working in a challenging environment, we continue to examine every expenditure and will reduce costs where we can to preserve our cash position.
+
+That said, we have made great progress reducing our operating expenses as compared to one year ago and I'll reiterate that while there are always some quarterly shifts of costs, we are targeting quarterly expenses at around $3.5 million to $4 million. We remain optimistic that the company can book additional orders in the coming quarters, which along with our improved utilization, will result in improved cash flow.
+
+While there's more work to be done. The company has made significant strides to becoming a leaner operation and is positioned to further improve our cash flow and financial results.
+
+I'll now turn the conversation back to Ravi.
+
+Thank you, Emmett. The first two weeks of my tenure as president and CEO of GSE has been extremely busy and exciting. I've been welcomed with incredible support and energy from our amazing team and customers. I am extremely pleased about the opportunities that lie ahead and can relay to you that the company is in a great position moving forward. We have the right team players on the field for success. I'm very optimistic about the future of the company and the industry we operate in.
+
+The company has worked hard during 2023 to get to where we are today and it is now aligned to focus on higher margin business and deliver revenue in a more efficient manner. I think the company can capitalize on leveraging many of its services through more collaborations and being more encompassing with GSE's technology suite and our platform of engineering services we can provide to the industry, allowing customers to do more with less.
+
+In addition, GSE offers a unique value proposition to customers given our breadth of services offerings, and we can react very quickly to our customers needs in a way that reduces risk and minimized rework, given our technology and engineering integrated culture. This has helped us win in the past and will help us win in the future. While the market environment is still somewhat conservative, we know that strong tailwinds do exist for the nuclear industry and result in improved environment in the long term. With that, Adam please proceed with the question-and-answer session.
+
+We will now begin the question-and-answer session. [Operator Instructions] Seeing that there are no questions on the phone, I would like to turn it over to Adam to read -- to review some questions he has prepared.
+
+Thanks, Danielle. I have a few questions for the management team as well. Ravi, I know you've only been the CEO for a couple of weeks, but can you share your strategy or share some initial thoughts of where you'd like to direct the company? What are some of your positives you see and what do you want to improve on?
+
+Thanks, Adam. A great question. So, yes, it's been a couple of weeks, but I can tell you that being here for several years, we clearly have very deep expertise, not just in our engineering fundamentals, but plant specific expertise. So, I do see a future where we are coupling that with technology.
+
+And when I look at the company as a whole with our various divisions, a lot of the work works towards the same initiatives. Things like digital upgrades for power plants. Those require procedures, engineering analysis, design analysis and even the training impact assessment. So, having one team work on initiatives like this together, I see it as a no brainer for customers to look to us.
+
+You mentioned in your formal remarks, an SMR win. Can you discuss the opportunity there? How long was that in the works and are there more opportunities like this to be had?
+
+Thanks, Adam. So, I will say that more information about that SMR win will be in a future press release upcoming. But it does relate to our work with the aspects of this company related to the government. And I think primarily there is a lot of interest in our ability to do very high fidelity modeling and the digital twin era of engineering simulation that would actually support the advancement of the design.
+
+So again, using simulation for well-beyond training, but advancing a power plant design and then maximizing the reuse of that deliverable all the way through the project lifecycle. That was a major part of the story there and that has been in the works for over a year. Very excited about it
+
+Emmett, you've done a very good job at streamlining the company to be more efficient, getting expenses down. Are there any more cost cuts to be had?
+
+I think we're constantly looking at our expenses. I think more importantly it's looking at efficiencies. Right. I think we got with Ravi and Damian on board, we're having a fresh, fresh perspective looking at how we do things and how we can become more efficient. I think that will naturally drive some cost savings with that approach.
+
+And just to review, I know you mentioned a little bit in your comments. Can you give us an update with the debt still owed? And what's the timeline on that, is the company being debt free a possibility in the future?
+
+Yeah, I start by saying, yeah, that's absolutely the target. Right. We are basically winding down the original note this month and in June, we start paying back the $1.8 million that will be paid by May of 25. So we are one year away from debt free and our goal is continue the growth of the business and manage it efficiently to not have to, you know, have any new debt going forward.
+
+Great. Thank you. That's all the questions I have.
+
+This concludes our question-and-answer session. I would like to turn the conference back over to Ravi Khanna for closing remarks.
+
+Well, hey, thank you for joining us. We appreciate your time and interest in GSE and look forward to speaking and meeting with many of you in the near future. The company will be participating in the upcoming Lytham Partners Spring 2024 Investor Conference on May 30th. And if you'd like a one on one meeting, please reach out to Adam Lowensteiner for Lytham Partners and we'd be happy to schedule one for you. Thanks again, everyone, and we wish you a great day.
+
+The conference is now concluded. Thank you for attending today's presentation. You may now disconnect.

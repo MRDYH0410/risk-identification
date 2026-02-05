@@ -1,0 +1,280 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+Carol Hausner — Executive Director-Investor Relations, ImmunoGen, Inc.
+Daniel M. Junius — President, Chief Executive Officer & Director, ImmunoGen, Inc.
+Charles Q. Morris — Chief Development Officer & Executive Vice President, ImmunoGen, Inc.
+David B. Johnston — Chief Financial Officer & Executive Vice President, ImmunoGen, Inc.
+Jessica M. Fye — Analyst, JPMorgan Securities LLC
+Matthew K. Harrison — Analyst, Morgan Stanley & Co. LLC
+Andrew Peters — Analyst, UBS Securities LLC
+Simos Simeonidis — Analyst, RBC Capital Markets LLC
+Mara Goldstein — Analyst, Cantor Fitzgerald Securities
+Christopher N. Marai — Analyst, Oppenheimer & Co., Inc. (Broker)
+John Newman — Analyst, Canaccord Genuity, Inc.
+Boris Peaker — Analyst, Cowen & Co. LLC
+Michael W. Schmidt — Analyst, Leerink Partners LLC
+
+Management Discussion Section
+
+Question And Answer Section
+
+Good day, and welcome, everyone to the ImmunoGen First Quarter Fiscal Year 2016 Financial Results Conference Call. Today's call is being recorded. And at this time, for opening remarks and introductions, I would like to turn the call over to Executive Director, Investor Relations and Corporate Communications, Carol Hausner. Please go ahead.
+
+Thank you, and good morning. At 6:30 this morning, we issued a press release that summarizes our financial results for the quarter ended September 30, 2015, the first quarter of our 2016 fiscal year. I hope you've all had a chance to review it. If not, it's available on our website.
+
+During today's call, we will make forward-looking statements. Our actual results may differ materially from such statements. Descriptions of the risks and uncertainties associated with an investment in ImmunoGen are included in our SEC filings, which also can be accessed through our website.
+
+In our call today, our Chief Executive Officer, Dan Junius, will provide an update on ImmunoGen; our Chief Development Officer, Dr. Charlie Morris, will discuss our wholly-owned compounds in greater depth; and our Chief Financial Officer, Dave Johnston, will discuss our financial results and guidance. We'll then open the call to questions. Dan?
+
+Thanks, Carol, and good morning, everybody. In previous calls, I've referenced this being a transformational year for ImmunoGen. I think that characterization continues to be accurate given the progress we're making with our lead product mirvetuximab soravtansine and our other wholly-owned programs as well as the activity we're seeing from our partners.
+
+We're extremely excited about mirvetuximab soravtansine and its potential to make an important difference for patients with cancers that express its target folate receptor alpha. And we're successfully executing on our strategy of aggressively advancing mirvetuximab as a single agent for pretreated ovarian cancer, while also expanding its potential uses.
+
+Data in support of mirvetuximab soravtansine continue to expand, as evidenced by the AACR-NCI-EORTC, or what I'll be referring to as triple meeting, abstracts that became public last night. Of particular note is the association we're finding between level of folate receptor alpha expression on patient tumor cells and response to treatment with mirvetuximab monotherapy.
+
+As you recall, at ASCO, we reported an impressive 53% response rate with mirvetuximab in patients with platinum-resistant ovarian cancer. When we look at responses stratified by the level of target expression on the patient's cancer cells, the findings become even more interesting. Notably, with the data available at the time the abstract was submitted, there was a remarkable 80% response rate among the 10 patients with the highest level for folate receptor alpha on their tumor cells. Charlie will take you through this in greater detail. Clearly, this is an exciting finding and we'll be providing updated data on these patients at the triple meeting.
+
+I'm pleased to note that we completed enrollment for the full 40-patient cohort in August, well ahead of plan, and that patient enrollment is going faster than expected in our ovarian cancer cohort, which require biopsies. We look at this progress as being a strong indicator of investigator support. We're planning to meet with the FDA about an accelerated pathway from mirvetuximab in ovarian cancer in the first half of 2016 and to report findings for the full 40-patient data set at ASCO next year. And of course, we'll be preparing to start our FORWARD I and FORWARD II trials by the end of 2015.
+
+As we're successfully executing on mirvetuximab soravtansine, we're also advancing our promising earlier stage programs. We're on track to begin assessment of our IMGN529 and coltuximab ravtansine ADCs in combination regiments by year-end and in 2016, respectively. These trials will focus on treating patients with diffused large B-cell lymphoma.
+
+Also of significance, we've submitted the IND for our IMGN779 product candidate. This is the fourth IND in four years, ahead of our goal of submitting an IND for new product candidates every 18 months. This ADC has a potential treatment for acute myeloid leukemia and myelodysplastic syndrome, where new and better therapies are needed, and it uses the first of our new IGN payload agents. We see great potential with our IGN program, and look forward to begin treating patients with this first IGN.
+
+Before Charlie takes you through our programs in more detail, let me briefly touch on some of the progress being made by our partners. Exciting Phase 1b findings with Bayer's ADC, anetumab ravtansine, in the treatment of mesothelioma were reported at the World Conference on Lung Cancer last month, as discussed at a recent analyst event.
+
+Of particular note is the durability of some responses, with 5 of the 16 pre-treated patients with this deadly cancer on treatment for over a year, and 3 still on study after more than two years. I'm also pleased to report that both Sanofi and Amgen have additional ADCs with our technology, and that patient dosing has started with the first ADC from our collaboration with Lilly. So we're making very solid progress on our wholly-owned pipeline, as are many of our partners.
+
+With that, Charlie will now discuss our programs in more detail.
+
+Thanks, Dan, and good morning, everyone. I will start with the lead program, mirvetuximab soravtansine. As Dan mentioned, the triple meeting abstracts became public last night. If you've had a chance to read abstract C47 and C170, I'm sure you will understand our continued excitement about this program.
+
+The C47 abstract provides initial findings on the association between the level of folate receptor alpha on patient tumor cells and response to mirvetuximab, using data from the 22 patients with platinum-resistant ovarian cancer and the Phase 1 expansion cohort reported at ASCO in May. At the time the abstract was submitted to the triple meeting, we had response rate data for 17 patients, as we had at ASCO. And so that is what is in the poster. The poster will be presented on Sunday, November 8, and will include updated data for all 22 patients, including updated response and duration of treatment information for all the [ph] variable (6:12) patients.
+
+As noted in the abstract, this analysis divided patients into three groups based on level of target expression. High expressers have moderate to a high levels of folate receptor alpha on at least 75% of their cancer cells, medium expressers on 50% to 74% of cells, and low expressers on 25% to 49% of cells.
+
+Notably, about half the treated patients were high expressers, and more than three-fourths were medium or high expressers. In the abstract, an objective response from treatment with mirvetuximab was reported in a remarkable 8 out of 10, or 80%, of the high expressers; 1 of the 5 medium expressers, and neither of the 2 low expressers.
+
+This is consistent with our hypothesis that high expressers may have a higher response rate, and explains why FORWARD I will be limited to the high and medium expressing patients, with stratification between the high and medium groups. This approach will give us considerable flexibility around our registration strategy as we continue to build patient data. Our findings to-date indicate that not enrolling low expressers excludes only a minority of patients, while ensuring that we retain the opportunity to provide benefit to a majority of ovarian cancer patients.
+
+Our success in the enrollment of patients with ovarian cancer encourage us to think that FORWARD I could be recruited in good time. As Dan mentioned, we completed enrollment in a 40-patient cohort ahead of schedule, and enrollment in our other ovarian cancer cohort, the 20-patient cohort for patients requiring biopsies before and on treatment, also is ahead of schedule. In fact, we dosed 20th patient yesterday.
+
+We're now gaining safety, efficacy, and durability results for the full 40-patient cohort with platinum-resistant ovarian cancer, and plan to discuss these findings when they are mature with the FDA. We also expect to report them at ASCO next year.
+
+The other mirvetuximab abstract to the triple meeting, abstract C170, relates to our interest in rapidly moving this ADC into assessment in combination regimens and the design of our FORWARD II trial. Our preclinical assessments indicate that the addition of mirvetuximab to AVASTIN, to carboplatin – to AVASTIN and carboplatin together and to DOXIL has the potential to meaningfully enhance efficacy. For example, we found using mirvetuximab with AVASTIN had a more than additive impact on activity models with platinum-resistant ovarian cancer.
+
+The full data will be disclosed on November 8, but you can see from the abstract that these preclinical models to mirvetuximab in combination with agents like carboplatin and AVASTIN could potentially exceed the efficacy of current standard of care combinations. Of course, this requires that the drugs can be safely combined, and this will be evaluated along with initial assessment of efficacy in the FORWARD II study, which like FORWARD I, we're on track to begin by the end of 2015.
+
+While we spent a considerable time on mirvetuximab, I should note that we're also making meaningful progress with our pipeline programs. We've submitted the IND for IMGN779 and expect to begin Phase 1 testing in the first part of 2016. We are on track to begin clinical assessment by IMGN529 using combination with RITUXAN this quarter and to start clinical testing of coltuximab ravtansine in a combination regimen in 2016. In all, we're making solid progress advancing our strong pipeline.
+
+On that note, I'll turn the call over to Dave to discuss the financials. Dave?
+
+Thanks, Charlie, and good morning, everyone.
+
+So, as Carol noted, we issued a press release this morning with our first quarter fiscal year 2016 financial results. And I will review the highlights, and then also review the guidance for our full fiscal year 2016.
+
+For the quarter, revenues in our first quarter of our fiscal year were $14.9 million as compared to $13.2 million for the same quarter of last year. And of that, revenue from license and milestone fees was approximately $6 million, which includes milestones earned from Lilly and Amgen with advancement by each of a new ADC to clinical testing.
+
+Our revenue in the current period also includes $5.7 million of non-cash royalty revenue on sales of KADCYLA for the three months ending June 30, 2015. As a reminder, the royalty is passed to the purchaser of the royalty stream and we report non-cash of Kadcyla royalty revenue that is partially offset by non-cash interest expense resulting in non-cash net income. Finally, our revenues also include $3.1 million of clinical materials revenue and research and development support fees.
+
+Operating expenses for our first quarter of fiscal year 2016 were $43.5 million compared to $35.1 million in the first quarter of last year. These consisted of $35.1 million of R&D expense for the first quarter of this fiscal year compared to $28 million in the same period last year and $8.3 million in G&A expenses this year compared to $7.1 million in the same quarter of last year. Driving the change from previous fiscal year are greater third-party costs related to the advancement of our product candidates especially mirvetuximab, and higher personnel-related expenses related principally to recent hiring.
+
+For the fourth quarter, we reported – I'm sorry, for the quarter – the first quarter of fiscal 2016, we reported the net loss of $33.7 million or $0.39 per share, compared with the net loss of $22.3 million or $0.26 per share for the same quarter of last year. Cash used at operations was $31.4 million for the first three months of fiscal 2016 compared with $18.9 million in the same period of last year. Our capital expenses were $3.4 million in the first quarter compared with $1.7 million in the same period of last year. And lastly, we ended the quarter with $247.8 million in cash and cash equivalence compared with $278.1 million as of June 30, 2015, and we continue to have no debt.
+
+Let's go over our fiscal year on guidance. And it remains unchanged from what we issued on July 31, 2015. Specifically, revenues are expected to be between $70 million and $80 million, operating expenses to be between $175 million and $180 million, and net loss to be between $120 million and a $125 million; cash used on operations between $100 million and $105 million, capital expenditures to total between $13 million and $15 million, and we expect to end fiscal year 2016 with between $165 million and $170 million in cash.
+
+We firmly believe the development of our on portfolio compounds will result in a greatest creation of value for our shareholders, and we're making significant investments to advance mirvetuximab soravtansine as aggressively and expeditiously as possible.
+
+So with that, let me turn the call back over to Dan.
+
+Thank you, Dave.
+
+As you heard from Charlie, we have a lot going on and look forward to continued strong progress and a steady [indiscernible] (13:18). Of particular importance are our anticipated mirvetuximab events starting with the presentation of patient response data stratified by level of target expression on November 8 at the triple meeting. We intend to report the findings from the full 40-patient cohort of patients with platinum-resistant ovarian cancer at the 2016 ASCO meeting.
+
+We're likely to have additional presentations on mirvetuximab and ASCO such as the findings in the patients within endometrial cancer and/or from biomarker assessment of tumor biopsies. We'll have to see how these data mature and where we are at the time of abstract submission. And of course, we expect to start FORWARD I and FORWARD II by the end of this year and meet with the FDA about an accelerated approval pathway in the first half of 2016.
+
+We'll also be reporting findings from preclinical assessment of mirvetuximab and combination regimens for ovarian cancer at the triple meeting, and for IMGN529 and coltuximab ravtansine in combination regimens for B-cell malignancies at ASH.
+
+We expect to begin testing of IMGN529 in combination with RITUXAN this year, and assessment of coltuximab in a combination regimen in 2016, both in pretreated diffuse large B-cell lymphoma patients. Finally, we plan to advance our IMGN779 ADC in the patient testing early next year.
+
+We are looking marked progress in our partner front as well including two of our partners starting registration and enabling trials in 2016. So, we're executing on our product plans. We look forward to providing you updates as these programs progress.
+
+And with that, I'll turn it over to Carol so we can take your questions.
+
+Thank you, Dan. We are about to open the call to questions. We ask that these be limited to one question to two questions per person, until each analyst has had a chance to ask a question.
+
+Operator, we are now ready to open the lines to questions.
+
+Thank you. [Operator Instructions] We'll go first to Jessica Fye with JPMorgan.
+
+Hey, guys. Thanks for taking my questions. A couple on mirvetuximab. First, do you see the mix of high and medium folate receptor alpha expressers you enrolled in that ovarian cohort you're talking about – do you think that's reflective of the overall patient population? I know they are small numbers, but what gives you confidence that those won't bring around too much?
+
+And then second question is, can you walk through the decision to enroll both mid and high expressers in FORWARD I, and not just high? And is there a target number of patients for each level of expression, or do you take them how they come, just thinking about how the mix of those patients could affect the results of the first stage of the study? Thanks.
+
+Thanks, Jessica. I think the first question is an important question. What we have been doing is tracking not just the patients who go into the study, but obviously, we do get patients who come in to screening and, for various reasons, don't make it into the study. I would say that the mix of patients who have gone on to the study has been reflective of the overall screening pool, if that makes sense. So I think in that larger cohort of patients, yes, I think there is a consistency between what we are seeing. And I think this kind of, if you like, 60-20-20 mix between the high-medium-lows is probably going to be – or 50-25-25 roughly, is roughly how we expect things to pan out.
+
+In terms of making decisions, in each individual data set at this point, there's relatively small numbers of patients. And there is – clearly, there's high activity in the high expressers. You'll see more about that in a couple of weeks' time. There's clearly activity in the medium expressers, and we just want to have more opportunity to understand that in greater detail. We're not trying to limit specific numbers of patients by those categories. We'll take what we get, but we will stratify to make sure that they're balanced. And one of the upsides of the two-stage design, of course, is that at the end of Stage 1 of FORWARD I, we've got an opportunity to take a look and say, do we want to keep those medium patients in, or is there not enough evidence of benefit, we'll just stick with the high. So it enables that decision to be sort of kicked down the road without necessarily impacting our ability to make comparisons to the physician's choice.
+
+Okay. Great, thanks. Can I just squeeze in one follow-up on that? The one patient that you had in that mid expresser group who was a responder – I know you had some unconfirmed partial responses that were just over the threshold. Was that mid level patient kind of one of these border line responders, or were they – did they have a more significant response?
+
+November 8.
+
+Thank you.
+
+Nice try.
+
+We'll go to Matthew Harrison with Morgan Stanley.
+
+Great. Thanks for taking the question. So, one, just a follow up on Jessica's question. Can you tell us how many patients you've screened, just so we have some idea of the sample size you guys are looking at? And then just, can you help us think about your meeting with the FDA? So, I think you said you completed the 40-patient cohort enrollment in August, so when do you think you'll internally have data? And how does that set you up for a timeline in terms of meeting with the FDA? And do you need to have that – I mean would you send that full data set in to them before requesting a meeting, or how should we think about those order of events? Thanks.
+
+So, in terms of number three, I apologize I don't have the exact number, it's around 100 that have been screened in total, at various points along the way. On the FDA front, the whole idea has been to allow that data set to mature so that we have – the patients who are coming in, remembering that we recruited the last patient in August, we'd like at least to give those patients the opportunity to respond and get some durability to their individual responses before we take those – that data down to the agency.
+
+So the plan there would be to have everything in – to have all of that. First stage of the next study begins, we would have their feedback, their input, their thoughts on the second stage, long before that second stage begins.
+
+So just to be clear, is there a certain level of duration that you are looking for in that first 40 patients before going to meet with the FDA?
+
+I think it's more a matter of knowing what it is. I think, to start to see things as particularly interesting, I think we'd like to at least be thinking about the six-month median duration of response. We get some sense, as you'll see in a couple of weeks' time, on how durable the responses are, but it's early to be thinking definitively about what that is. So I think taking a more complete data set and having a real sense of where that is will help us enormously in our conversations with the agency.
+
+Okay. Thanks very much.
+
+We'll go to Andrew Peters with UBS.
+
+Thanks, guys for taking the questions. Just a couple. I guess, first, to follow-up on Jessica and Matthew's question on screening, so if I heard you right, you said you had screened 100 patients. Just wanted to understand, I guess what's the primary cause of the screen failure that you're encountering so far? And just on folate expression levels, just wanted to understand is there any reason that expression would change as patients, I guess, by previous therapy – just want to understand if you'd expect kind of the folate receptor expression to be similar as you move into earlier settings? Thanks.
+
+Yeah. I mean, it serves as screen failures, without necessarily bearing down into all of the details, in the Phase 1 population, as you know you're often dealing with sick patients who have a variety of other things, and you have the set entry criteria. So we get – you got a certain number of patients who come in and they will get their screening but then you find during the rest of the screening process it maybe their chemistry doesn't work or their baseline hematology doesn't work.
+
+So it's a variety of things. Some patients decide they don't want to go on to a clinical trial after all. Some even progress between – within the screening period. So there's a variety of things that can happen and there's no sort of fixed pattern to it other than sort of fairly typical for what you'd see in a Phase 1 setting.
+
+The expression change is a really important question, and that's really what the – one of the key questions that we're asking in this biopsy cohort that we've talked about. That will give us the expression to look back to the archival tissue that were – on which we've been basing our entry decisions so far, and say, well, does that appear to correlate with what we see at the time of a fresh biopsy two, three, four, however many years later it is? Those data are obviously not mature at this point. I would hope that we would have enough information on that to also submit that to ASCO.
+
+But my – I think intuitively you would think, well, the high expressers seem to be doing very well. That makes kind of intuitive sense. So, I'm thinking it – we're probably going to find that it's stable phenotype, but we'll have to – to concern that.
+
+Okay. Great. Thank you. [indiscernible]
+
+(23:39) Simos Simeonidis, RBC Capital Markets.
+
+Good morning. Thank you very much for taking the questions. On the slides that Carol sent us before the call, when you are describing the entry criteria for FORWARD, you – there is a line that says, raise the FRA cut-off. Can you talk about what that change was from what to what? Isn't that before you were not using low expressers and now you are – sorry, that you were using low expressers and now you're just going to use mid and high?
+
+Yeah. So, previously, it was the 25% of at least two-plus. Now we're just raising that to be 50%.
+
+Okay. And...
+
+And that'll include the medium and high, and then – so those two groups will also – we will stratify the randomization so that we have an equal distribution between arms, which I think is particularly important in Stage 1, of course, because what we don't want to do is find that your efficacy is influenced by that distribution, and it gives us another opportunity to take a look at the medium patient and say, are we seeing enough? So, the lower expressers, the 25% to 50%, of which you'll notice there's not many in the study anyway, those, we think, we will leave those out even starting now.
+
+Okay. Great. And then, one last one for you Charlie. Can you, without getting too technical, I guess, talk a little bit about the assay used? And how much variability do you think there would be in this assay when scoring cells for low, high, and medium expression, depending on how the biopsy is excised? And what I mean by that is when you're looking at, I guess, cells in immune – the chemistry and your scoring tumor cells versus cells from the adjacent tissue, is that a concern or do you think that the difference would be pretty much the same or similar across samples?
+
+At this point, we believe it would likely be the same. It's – again it's another important question and indeed it's one of the reasons I think to not just focus entirely on the highs at this moment. It's to say, well, given that there is indeed with [indiscernible] (26:15) there is a, if you like, subjective element. People will look at it. They'll look at the density of staining and make their interpretation of whether is it 2-plus, is it 3-plus. So I think the patients that are maybe close to the line, if you like, around that 75% level, I think it's important that we understand that how they do before sort of excluding that medium group of patients.
+
+It should be reproducible. It's part of the testing that happens. And obviously, as, and hopefully, when we get around to having a commercial product, part of the process there is to educate pathologists on the use of the diagnostic. And we think it's important that we're working with a very experienced diagnostic group, working with Ventana. That's a collaboration that is going well. And we think that's an important – it's going to be clearly, especially having made these decisions about the cut-offs, it's going to be an important task of success of the product.
+
+Great. Thank you very much.
+
+We'll go to Mara Goldstein with Cantor Fitzgerald.
+
+Thank you very much. I have a question, and I'm guessing you're going to tell me this is a November 8 kind of answer, but with respect to the responses that you're seeing and the expression levels and durability, are we going to be able to look at patients and duration of treatment according to this stratification?
+
+What you will see is – if you remember the swim lanes that we've used previously, you will see those swim lanes laid out by high, medium, and low expression. So it won't be that that you will be sort of looking at a median. I think the individual numbers [indiscernible] (28:05) subset very low to be talking about medium. But I think you'll have an expression because you'll see the data split out according to the level of expression on those swim lanes.
+
+Okay. And just to get back to Simos' question for a quick second, so if you think about it for a second, and when you're looking at HER2, for those who appear on the margin between two-plus and three-plus, they often go on to fish diagnostics just to confirm. Is there any opportunity to do the same with the folate receptor in terms of really being able to identify which of these patients on the – might really be those should be in the high group versus the moderate group?
+
+Well, at this point – since this point we are getting – we're including both, at this point we've not looked at that. I think it's an interesting question to see whether would those be patients, for example, who might be candidates at that point rather than to use the archival tissue might used as per fresh biopsy that point see how it looks today. I think that's the story that will continue to evolve, particularly if we continue to see what we would think were important differences between the medium and the high group. But we haven't looked at that at this point.
+
+Okay. Thanks very much.
+
+And we'll go to Christopher Marai with Oppenheimer.
+
+Hi. Good morning, guys. Thanks for taking the question. So in keeping with the theme on the call here, we'll touch upon the folate expression. I was wondering if you could comment on any regulatory discussions you've had regarding the measurement of the folate receptor expression. Obviously, it seems like you would be looking to enrich a patient population or a trial based on those levels. Is the FDA okay with your measurement techniques? And how would you implement that in a real world setting post approval, let's say, or even think about it with respect to the label?
+
+Well, at this point, that will be another part of the discussion with FDA as we go forward. FDA clearly reviews all of our protocols, has opportunity to comment as we go forward. And there is nothing that we're doing here that I think anybody would consider anything other than a relatively standard approach to how we're seeing oncology products being developed. So, I don't think there'd be any particular concern there, but that will be part of the discussion with FDA.
+
+And clearly, thinking about, as you move through the various stages to having something defined as a companion diagnostic, clearly, one of the things that will be happening is that we will be launching a diagnostic at the same time as we launch the product, if we are successful enough to have the pleasure of being in a launch situation. And so, I think the two will go together. But I think it will be an important part of success, and it enables you to define a population who, if we continue to see anything like this level of activity, that would define a population that would be very important.
+
+Yeah. Chris, to reemphasize Charlie's point, the FDA does have exposure in the protocol submission to the full scope of what we're doing, and therefore they can see what the screening technique is that's going to be used, and have the opportunity to comment on it at that point. So, I do think they have that exposure and hopefully, that addresses the concern that you raised.
+
+Okay. And then, with respect to the diagnostic, in terms of development, where are you at? And maybe, when do we expect to hear an update from that?
+
+In terms of where we are, as I say, we're working with Ventana. You go through the various stages. We have, if you like, a lock on our design of what we hope will be a diagnostic. At this stage, it's officially diagnosed as investigational use only diagnostic, but that would be intended to not need further – any further tweaking, if you like, prior to being hopefully approved at some point to the companion diagnostic to go along. So we would anticipate this would be a part of what would be in the prescribing information, would be to say that it will be patients defined as the appropriate level of expression as defined by this particular diagnostic.
+
+Right. And then, remind us – you're using this diagnostic in the FORWARD trial?
+
+Yes. Yeah.
+
+Great. And then finally, just one last question we'll throw in here, thinking about the competitive landscape, obviously OPDIVO is something that's being investigated in the folate setting. I'm wondering how are you guys looking at potential combinations with I/O type therapies? Thanks.
+
+We are...
+
+It's something we're exploring. I mean we're looking at the full range of existing therapies and potential emerging therapies. So, I think we want to make sure that we look at the full range of opportunities of how these things may benefit patients. So that's certainly on the radar screen, Chris.
+
+Great. Thanks for taking the questions.
+
+We'll go to John Newman with Canaccord.
+
+Hi, thanks for taking my question. So, my question is just with regard to the design of the studies going forward. I'm just wondering if there's been any changes to any sort of a cut-off that was in the expansion cohort, whereas you set a time limit in terms of the fastest amount of time that a patient could have progressed, and if they progress faster than that, they're excluded from the study. So I'm just curious if any – if there's been any changes there, just so that you can screen out people that might have relapsed or progressed really, really quickly in the studies going forward?
+
+There wasn't – the key criteria will be that we are targeting patients who have had three or four prior lines of therapy, and are otherwise eligible according to a variety of criteria. And we're including epithelial ovarian, we're not including clear cell, we're not including some of the more low-grade ovarian tumors. But in terms of rapidity of prior progression, there wasn't actually anything specifically defined in the current expansion cohort. So I think the population that you are going to see is going to be largely similar. They won't be as heavily pretreated as they were, obviously, in dose escalation in the prior studies, but other than that, it will be a typically – typical of what you would see in a resistant population.
+
+Now, what we have said in prior studies was that the traditional definition of platinum refractory, those were excluded, those patients who basically don't respond to platinum refractory. They are, thankfully, a relatively uncommon if not rare population, and I guess the sad thing is they don't generally get to be [indiscernible] (35:36) patients because they do very badly on subsequent therapy. So, I don't think that population is likely to be a candidate, unless they are one of the fortunate minority who have had the opportunity to respond to subsequent therapies.
+
+And to emphasize, John, there wasn't anything in the criteria that looked at the rate of patient progression. If there is a suggestion that we were looking for a patient population that is not – was not – the disease was not progressing as rapidly we are getting a "less sick" patient population. That isn't anything that even would have come up, it was simply a matter of a number of criteria, number of prior therapies et cetera. But the time it took for the patient to progress was not – is not something that would be evaluated at all.
+
+Great, thanks, that's very encouraging. Thank you.
+
+We'll go to Boris Peaker with Cowen and Company.
+
+Great. Thanks for taking my questions. So, I just want to know about the FORWARD II study. Will you specifically select high expressers there? And in general how many patients do you plan to include in each combination arm for that study?
+
+So for FORWARD II, we're actually not changing the cut-off for that. That would remain at 25%, the data that we have suggests the ability for activity across, so we will continue to look at it about low, medium, and high. And obviously we have the opportunity to change that according to what the data show. When it gets to the expansion piece of that, it's 24 patients in each of the AVASTIN groups that we were planning to treat. I remind you that was one group who have not had prior AVASTIN exposure, one who have had prior AVASTIN exposure. And although we haven't necessarily sort of discussed what other expansions may occur, I think that will be determined by what we see in dose escalation, but I think it would be similar-sized cohorts.
+
+Got you. And will you have some data from that study at ASCO?
+
+No, I feel [indiscernible] (37:53)
+
+Yeah, it'd just be too soon.
+
+Got you.
+
+We're not anticipating recruiting patients until towards the end of this year, the number of – the [indiscernible] (38:07) in the world, it's always a slow start, because you got to get your IRB approvals and everything else going. So, I don't think there'll be anything that should be particularly helpful to present at ASCO for that one.
+
+Great. Thanks you very much for taking my questions.
+
+We'll go to Michael Schmidt with Leerink Partners.
+
+Hi. Good morning, and thanks for taking my question. I just had one on FORWARD I. I notice you're also enrolling a once-every-four-weeks dosed cohort in this first part of the study. And my question is, can you just remind us of what you've learned in terms of the PK relationship and associated toxicities and sort of what side effects could be reduced, I guess, with the less frequent dosing? Is that mainly an attempt to lower the ocular side effects or are there other adverse events that might benefit in terms of lower rate from this less frequent dosing? Thanks.
+
+The thought here is to take the opportunity to say how do we get the best possible experience for the patients, patients having a good experience, responses. In fact, the tolerability is good. We're not seeing any high rates of discontinuation. The eye effects are reversible and manageable, but if we can have less and retain this activity, we'd like to do that. So, the concept behind the four-weekly was really about – was more about recovery time, based on the half life of the product, which we've got around 45 days you'd expect that to be – the fourth week would just give you a little bit more freedom, if you like, from treatment, so that would enable the cornea a longer time to recover, in theory.
+
+And so the hypothesis there is just so that may reduce the number of ocular [indiscernible] (40:08) and reduce the amount of blurred vision. Clearly with the data that we've got, the safety, tolerability, efficacy we've got, we would be more than prepared to go forward with the three-weekly schedule, but we just wanted to have that look to see if the four-weekly could provide us even better. We'll not give up on efficacy here. It's too important to us. So we'll take a look at that at that end of first stage, and make our decision at that point.
+
+Okay great. Thank you, so much, and congrats on the progress.
+
+Thank you.
+
+Thank you.
+
+We'll go back to Simos Simeonidis with RBC Capital Markets.
+
+Yes, a quick follow-up. On November 8, are we going to see data on the 17 patients or could we see data on the 22? The 5 that were not evaluable, could we have enough information to see data on those?
+
+So, it'll be – yes. So, [indiscernible] (41:02) on all 22.
+
+Okay, great. And finally since nobody is asking Dave anything...
+
+Yeah, come one Simos. [indiscernible]
+
+(41:10)
+
+We need him to wake up.
+
+Can you tell us what the milestones from Lilly and Sanofi were for entering the clinic?
+
+It was – well, okay. Sanofi was actually received in October. So that will be actually reported in the next quarter. So, between Lilly was $5 million for this quarter, for the first quarter; Amgen was $1 million, and we're looking for the Sanofi one to be recorded for next quarter. That was – so you'll see that data, that was $2 million.
+
+Okay. Great. Thank you very much.
+
+Sure. Thanks.
+
+It does conclude today's question-and-answer session. And at this time, I'd like to turn the call back over to Carol Hausner for any additional or closing remarks.
+
+Great. I'd like to thank you for your interest in ImmunoGen, and if you have any additional questions, please don't hesitate to call. Have a great day. Take care. Bye.
+
+And this does conclude today's conference. Thank you for your participation.

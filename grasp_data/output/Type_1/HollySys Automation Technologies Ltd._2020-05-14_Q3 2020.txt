@@ -1,0 +1,183 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+Arden Xia — Director-Investor Relations & Communications, HollySys Automation Technologies Ltd.
+Baiqing Shao — Co-Founder, Chairman & Chief Executive Officer, HollySys Automation Technologies Ltd.
+Steven Wang — Chief Financial Officer, HollySys Automation Technologies Ltd.
+Alex Chang — Analyst, Citigroup Global Markets Asia Ltd.
+
+Management Discussion Section
+
+Question And Answer Section
+
+Ladies and gentlemen, thank you for standing by and welcome to the Hollysys Automation Technologies Earnings Conference Call for the Third Quarter and the First Nine Months ended March 31, 2020. At this time, all participants are in a listen-only mode. There will be a presentation followed by a question-and-answer session. [Operator Instructions] Please be advised that this conference is being recorded today, May 15, 2020, Beijing Time.
+
+I would now like to hand the conference over to Mr. Arden Xia, the Investor Relations Director of Hollysys Automation Technologies. Thank you. Please go ahead, Mr. Xia.
+
+Hello, everyone, and thank you for joining us. Today, our speakers will be Mr. Baiqing Shao, CEO of Hollysys Automation Technologies; Mr. Steven Wang, CFO of Hollysys; and myself, the IR Director of Hollysys.
+
+On today's call, Mr. Shao will provide a general overview of our business, including some highlights for the third quarter of fiscal year 2020. Mr. Steven Wang will discuss our performance from a financial perspective, and we will answer questions afterwards.
+
+Before getting started, I would like to remind everyone that this conference call may contain forward-looking statements within the meaning of Private Securities Litigation Reform Act of 1995. Forward-looking statements are statements that are not historical facts, including statements relating to the expected growth of Hollysys' future products and future introduction, the mix of products in future periods and future operating results. Such forward-looking statements based upon the current beliefs and the expectations of Hollysys' management are subject to risks and uncertainties which could cause actual results to differ from the forward-looking statements.
+
+The following factor, among others, could cause actual results to differ from those set forth in these statements. Business conditions in China and in Southeast Asia, continued compliant with government regulations, legislation or regulatory environments, requirements or changes adversely affecting the business in which Hollysys is engaged, cessation or changes in government incentive programs, potential trade barriers affecting international expansion, fluctuation in customer demand, management of rapid growth and transitions to new markets, intensity of competition from or introduction of new and superior products by other providers of automation control system technology, timing approval and market acceptance of new product introductions, general economic conditions, geopolitical events and regulatory changes, as well as other relevant risks detailed in Hollysys' filing with the Securities and Exchange Commission.
+
+The information set forth herein should be read in light of such risks, Hollysys does not assume any obligation to update the information discussed in this conference call or in its filings. Please note that all amounts noted in this conference call will be in US dollars, unless otherwise noted.
+
+I'd now like to turn the call to Mr. Baiqing Shao. Please go ahead, Mr. Shao.
+
+Thank you, Arden, and greetings to everyone. I would like to discuss some key events during this quarter. COVID-19 has laid negative impact on our business. Contract bidding and project execution were delayed for Industrial Automation and rail business and only started to recover starting in March. In response to such impact, we have actively prepared internal work in advance, including staff training, marketing preparation, solution improvement, internal testing, et cetera, while also maintained communication with clients to the greatest extent, and made procurement in advance to counter the uncertainty of overseas supply chain.
+
+With the reopening of economy in China, we expect our business to recover to its normal course. Going forward, the company will be imposing more stringent criteria on cash collection and payment, contract quality and expense.
+
+IA business finished the third quarter with revenue and contract at $34.2 million and $63.2 million, representing 43.0% and 24.7% year-to-year decrease, respectively. For the first nine months of the fiscal year, IA revenue and contract achieved 0.5% and 4.1% year-to-year growth, respectively.
+
+In coal fire sector, we continued our effort in strengthening our market position in high-end market and won the bidding for Xinjiang Wucaiwan 2*660 megawatt power units this quarter.
+
+In chemical and petro-chemical sector, we continued our effort in key bidding tracking. Several major contracts that we signed this quarter include a 5 million ton per year oil treatment DCS upgrade project for Sinopec and a comprehensive surveillance project covering six LNG storage centers of Henan Natural Gas Storage & Logistics Company, where we provided a wide range of solutions including SCADA, DCS, SIS, and GDS, et cetera.
+
+To assist with our market penetration strategy, we kept improving our solution and product through internal R&D and cooperation with external parties, with particular focus in the vertical of coal-chemical and oil & gas. We also continued to build the reputation of the company in the industry in various manners, including industry conference, successful key project demonstration, cooperation with experts, key clients strategic relation management, et cetera.
+
+In smart factory business, internal structural optimization was made as we established the digital factory business unit. The new BU will be responsible for the marketing, solution and software development and execution of smart factory project. We expect such change to lead to more focused internal resource deployment for serving client of various industries. As a comparison, the business used to be carried out separately by different industry teams, with our advantageous power industry being the primary focus.
+
+Under the 3+1+N strategy, we continued the effort to integrate the sales platform of the company for greater internal synergy, to develop and strengthen our industrial cloud capacity covering cloud platform and cloud-based software, and to expand our solution for full lifecycle coverage. With the effort, we have made meaningful progress in pharmaceutical business in terms of solution expansion, thanks to the inclusion of the design capacity and greater coordination between member of the company. In this quarter, key contracts of pharmaceutical business include an engineering design contract with Shandong Fulkon, a renowned domestic pharmaceutical producer, and three tens of millions RMB level control system contracts.
+
+Rail business finished the third quarter with revenue and contract at $28.7 million and $5.0 million, recording 38.7% and 86% year-to-year decrease, respectively. For the first nine months of the fiscal year, revenue and contract recorded 5.3% and 53.5% year-to-year decrease, respectively.
+
+In high-speed railway sector, major contracts include an ATP contract for cargo high-speed train, a TCC contract for Zhengzhou section of the Taiyuan-Jiaozuo High-speed Railway and several aftersales contracts covering part components, maintenance and upgrade.
+
+In subway sector, no significant contracts were signed this quarter. On quality management, following the successful delivery of the Phase 1 of Hohhot subway line 1 cloud-based SCADA project last quarter, subway business continued to strengthen quality management, with particular focus on supply chain management and engineering standardization. On aftersales service, several contracts covering system upgrade and part components were signed.
+
+To actively address the aftersales opportunities in the market, rail business has been implementing the service transformation strategy to strengthen local service network, to expand service solution and to develop technology-and-service-centered service for better differentiation. In HSR sector, other than the current aftersales service provided to on-board products, we have been exploring and developing service solution for on-ground products. In subway sector, with current client base and numerous line under operation, we are gradually reviewing existing projects for maintenance and upgrade opportunities.
+
+As part of the 3+1+N strategy, rail business is actively executing the digital empowerment for the current product line. New solutions on smart maintenance and smart workshop for clients from HSR and subway have been identified and are currently under development and testing. With urbanization as an ongoing process, we will keep leveraging our strong R&D capacity and prepare for the application of our solution in more verticals of transportation in the future. Going forward, our rail business will continue to adhere to the diversity strategy for stable and healthy growth.
+
+M&E business finished the quarter with revenue and contract at $17.9 million and $19.9 million, recording 2.6% year-to-year decrease and 18.6% year-to-year increase, respectively. For the first nine months of the fiscal year, revenue and contract recorded 37.0% and 3.7% year-to-year decrease, respectively.
+
+Given the macro economy in Southeast Asia and the Middle East, as well as the outbreak of the COVID-19 and its potential impact, risk control remains to be the key focus of our M&E business. In our direct sales and overseas EPC project, progress is constantly made in terms of establishment of the new cooperation with the new key EPC players as well as ongoing cooperation with existing partners.
+
+In addition to our previous effort on overseas headquarter upgrade and appointment of overseas officer, we have set up a three-year-long global management capacity action plan. The plan aims to gradually incorporate our current overseas business into the management system of the domestic business, and to ultimately build our global management capacity.
+
+With that, I'd like to turn the call over to Steven Wang, who will read the financial result analysis. Please.
+
+Thank you, Mr. Shao. I would like to share some highlights for the third quarter ended March 31, 2020. Comparing to the third quarter of the prior fiscal year, the total revenues for the three months ended March 31, 2020 decreased from $125.2 million to $80.8 million, representing a decrease of 35.5%. Broken down by the revenue type, integrated contract revenue decreased by 33.2% to $67.7 million, product sales revenue decreased by 72.8% to $30.6 million, and service revenue decreased by 11.1% to $9.5 million.
+
+The company's total revenues can also be presented in segments as follows. For the three months ended March 31, 2020, Industrial Automation revenue achieved $34.2 million; Rail Transportation Automation revenue, $28.7 million; Mechanical and Electrical Solution revenue, $17.9 million. For the nine months ended March 31, 2020, Industrial Automation revenue achieved $168.2 million; Rail Transportation Automation revenue, $152.1 million; Mechanical and Electrical Solution revenue, $53.9 million.
+
+The overall, non-GAAP gross margin was 30.8% for the three months ended March 31, 2020 as compared to 39.6% for the same period of the prior year. The non-GAAP gross margin for integrated contract product sales and services rendered were 22.3%, 71.3%, and 75.3% for the three months ended March 31, 2020, as compared to 30.2%, 85.6% and 71.9% for the same period of the prior year, respectively. The gross margin fluctuation was mainly due to the different revenue mix with different margins.
+
+Selling expenses were $6.2 million for the three months ended March 31, 2020, representing a decrease of $0.3 million or 4.7% compared to $6.5 million for the same quarter of the prior year. Presented as percentage of total revenues, selling expenses were 7.6% and 5.2% for the three months ended March 31, 2020 and 2019, respectively.
+
+Non-GAAP G&A expenses were $8.9 million for the quarter ended March 31, 2020, representing an increase of $0.2 million or 2.3% compared to $8.7 million for the same quarter of the prior year. Presented as percentage of total revenues, the non-GAAP G&A expenses were 11.1% and 7% for the quarters ended March 31, 2020 and 2019, respectively.
+
+R&D expenses were $10.2 million for the three months ended March 31, 2020, representing an increase of $1.5 million or 18.1% compared to $8.7 million for the same quarter of the prior year, mainly due to increase of research and development activities. Presented as a percentage of total revenues, R&D expenses were 12.7% and 6.9% for the quarter ended March 31, 2020 and 2019, respectively.
+
+The VAT refunds and government subsidies were $12 million for three months ended March 31, 2020, as compared to $4.6 million for the same period in the prior year, representing a $7.4 million or 164% increase, which was primarily due to increase of VAT refunds.
+
+Income tax expenses and the effective tax rate were $2.4 million and 14.8% for the three months ended March 31, 2020, respectively, as compared to $4.9 million and 15% for comparable prior-year period, respectively.
+
+The non-GAAP net income attributable to Hollysys was $13.9 million or $0.23 per diluted share for the three months ended March 31,
+
+2020. This represents a 50.4% decrease from $28.1 million or $0.46 per share in the comparable prior-year period.
+
+Contracts and Backlog Highlights; Hollysys achieved $88.1 million of new contracts for the three months ended March 31, 2020. The backlog as of March 31, 2020 was $574.1 million. The detailed breakdown of new contracts and backlog by segments is shown below.
+
+New contracts for the third quarter, Industrial Automation achieved $63.2 million; Rail Transportation, $5 million; Mechanical and Electrical Solutions, $19.9 million. Backlog as of March 31, 2020: Industrial Automation backlog, $211.4 million; Rail Transportation, $278 million; Mechanical and Electrical Solutions, $84.7 million.
+
+Cash flow highlights. For the three months ended March 31, 2020, the total net cash outflow was $60.1 million. Operating cash flow was $8 million. Investing cash flow was $61.8 million, and mainly consisted of 2.2 million purchases of property, plant, equipment, and $137 million of time deposits placed with banks, which were partially offset by $77.1 million of matured time deposits. The net cash used in financing activities was $1.1 million and mainly consisted of $1.2 million repayment of short-term bank loans.
+
+Balance sheet highlights. The total amount of cash and cash equivalents were $366.4 million, $403.9 million and $276.5 million as of March 31, 2020, December 31, 2019, and March 31, 2019, respectively.
+
+For the three months ended March 31, 2020, DSO was 266 days, as compared to 193 days for the comparable prior-year period, and 137 days for the last quarter. The inventory turnover was 71 days as compared to 50 days for the comparable prior-year period, and 39 days for the last quarter.
+
+At this time, we'd like to open up for the Q&A session. Please note that for Chinese-speaking participants, we can also do the Q&A in Mandarin and we'll provide the translation.
+
+Operator, please.
+
+Ladies and gentlemen, we will now begin the question-and-answer session. [Operator Instructions] Our first question comes from the line of [ph] Joseph G (00:20:05) from JPMorgan. Please ask your question.
+
+[Foreign Language] (00:20:09).
+
+[Foreign Language] (00:20:12).
+
+[Foreign Language] (00:20:15-00:21:23)?
+
+Okay. The first question based on the gross margin and for the Q3, the gross margin compared decreased a lot, could you please do to separate down the proposition which business, IA, Rail, or M&E, I mean, influenced a lot based on the whole business of the gross margin, and also give us some hint about the Q4 gross margin trend. And also, the second part of calendar year of this year trend for the gross margin.
+
+The second question focus on the infrastructure of rail sector, and – because we could see the policy driven for [indiscernible] (00:22:11) infrastructure based on rail. But it seems like a lag, and that's reflective for the current market. What about the expectation from your side, and what about the ATP bidding about this year? And we also could see last year, you are – you won [indiscernible] (00:22:36) of the ATP contract. So, right now, has this all delivery – finished delivery?
+
+[Foreign Language] (00:22:43-00:24:17).
+
+Okay. First of all, this is just a one-time [ph] input (00:24:20) and the current Q3 gross margin compared in the history lower but have several reasons on when – and the revenue recognized more lower margin project by this quarter, this is just a coincidence. And on the other hand, because of the COVID-19, there was no business traded on the rail side to implement the work that jump up the project delivery rate. In other words, that means leads to the costs are riding up, so that's why the Q3, the margin compare to decreased a lot, but we recommend to see based on the year [indiscernible] (00:25:03) because currently it will be flat rate, and in the future the trend would be just as normal between 35 to 40, this is the normal range of the margin.
+
+[Foreign Language] (00:25:20-00:25:32).
+
+[Foreign Language] (00:25:34-00:25:41).
+
+The question about – could you please give us some separation of the IA and Rail, which one decreased more to contribute to gross margin down?
+
+And the answer is both of IA and Rail have been influenced by the gross margin. So, just like the CFO said before, it's really because of the two reasons and it's better to focus on the yearly result, not fluctuated by quarterly.
+
+[Foreign Language] (00:26:16-00:26:32).
+
+Okay. And also Mr. Shao add his supplement, the service contract project – sorry, the service project is implementing relatively lower, because during the coronavirus, COVID-19, we can hardly to do the implementing, provide services. So, this part had a relatively high gross margin. So, that is to say to recognize revenue for this quarter, the high gross margin proposed lower than the normal. So, also this is the reason.
+
+[Foreign Language] (00:27:06-00:28:05).
+
+Okay. For the rail sector because the COVID-19 and right now we also meet the tougher situation, the – right now, for example, like that the China Railway Corporation, they are not start opening to the people, so that to say our salespeople or marketing people can hardly communicate with them. So – and also the first half of the calendar year you can see there has no too much bidding complement. And we're seeing it most probably would start from second half of this calendar year and for the long-term to see the rail sector because the central government also emphasized on the high-speed rail and intercity infrastructure it – it's ranking at the seventh large infrastructure investment area, and we believe the supportive policy would be launching in the next. And the company will follow the national planning to catch up the chance for the new construction support to the rail sector. And about delivery rate for the ATP, because of the coronavirus it also influenced the implementing work, so we just delivered a part of it, not – still have the ATP comp backlog on hand and wait for the customer demand to recover.
+
+[Foreign Language] (00:29:50). [Operator Instructions]
+
+Your next question comes from the line of Alex Chang from Citi. Please ask your question.
+
+[Foreign Language] (00:30:18).
+
+[Foreign Language] (00:30:20).
+
+[Foreign Language] (00:30:21-00:30:54).
+
+Okay. The question focus on the coronavirus influence. Right now, the company already recovered the production from March, and what about the recovery rate for the March, and could you give us some hint about the April and May, what kind of level for the recovery in those in production and the business?
+
+[Foreign Language] (00:31:26-00:33:31).
+
+Yeah. We face the COVID-19 very seriously. So, after spring festival, we just have very few employee in the company just for maintain the production, the basic production and the emergency project. And in March, around 70% to 80% of the recovered production by the company, and also recovered working by our company. But we also meet the requirements by the isolate and sterilize controlled by the central government – private government, local government. And the April and May, we recovered to around 90% after working recover.
+
+However, I want to emphasize our recovered work not means recover for the business activities, because our clients has not started yet. Like the sales, like the marketing, and/or engineering implementing work on the rail side cannot start, because our end users, customer not started work.
+
+So, we use the remote communication. And also hard to do the technology or Internet work on the real site. So, we through the Internet to do the bidding or communicate with a customer. And along with the Beijing gradually to open to the other cities, and also along with the other offices spread across the whole country to open. And we believe that the recovered working of our company have no problem, but still, like what I said, the recovery – the business activity still needs time. So, basically to see the trend, we think that Industrial Automation will be better, because if you see the performance for the third quarter even based on the spring festival and the COV-19 influence, it still performed good, so we think it's gradually to recover faster than the others.
+
+[Foreign Language] (00:36:00-00:36:20).
+
+And – but right now, the good thing is that the domestic China business activity is recovering very faster – faster and our customer also on the road to recover the business. However, the international environment compare weak than domestic China. For example, like our M&E business focused on the Southeast Asia, especially IA for example, in Southeast Asia, like Malaysia, like Indonesia, like India or Singapore, right now a lot of company are not working. So, that's also influenced, I mean, much than domestic China business.
+
+[Foreign Language] (00:37:14-00:37:36).
+
+The question is about the chemical, petro-chemical industry. Currently, could you see some new bidding or infrastructure driven for this area of business?
+
+[Foreign Language] (00:37:51-00:38:37).
+
+The chemical, petro-chemical industry by the IA is very important, and they take a large proportion of the IA revenue. So, we focus on this area, we put a lot of resources to develop that project. You could see within our [indiscernible] (00:38:55) operation, we also introduced some improvement projects within this part.
+
+The COVID-19 influenced the whole base. However, because the chemical, petro-chemical or any customer are large state-owned enterprises, so they are recovering better than the other company. So, we feel that internet bidding communication and finish lot of project. So, generally speaking, it has influenced, but it will performance good in the coming quarters.
+
+[Foreign Language] (00:39:42-00:39:59).
+
+Okay. This Q3, we could see the R&D expenses rise up very quickly, and could you please introduce the comp, what it contains and also what it will contribute from those R&D to the business?
+
+[Foreign Language] (00:40:23-00:42:20).
+
+The R&D expenses are rising up, but still within the healthy range, and we focus on the Industrial Internet and big data, those kind of new driven by the central government investment, the central government call it like the new infrastructure, and also based on the operating for the production of industry. And we always focus on this area and this technology or products are already gradually to turns to benefit to the customer and we get the good contract, and also we already transferred technology product to the contract.
+
+This is including, for example, like the big solutions within IA and also Industrial Internet related technology and product and also like the optimized – the smart module to develop the focus on our production. And also, for example, such as the equipment analog and the prediction business system like the optimization operation, decision-making system, and also the human-less checking and the security surveillance system, those within IA.
+
+And also in rail sector, we combine the R&D focus on the combination integration of the Industrial Internet to the traditional Subway SCADA and combined with the automatic train operation technology, and to provide the efficiency, reliable, reduce the maintenance of customer cost; and also focus on the Industrial Internet – sorry, industrial information security, and we are developing the platform for this area. And the R&D expenses also including the tasking fee, and the certificates for this technology and product to secure.
+
+So these activities we believe going to graduate to get the contract. And meanwhile, we also have the real project win in these areas. No matter IA smart manufacturing clock or Subway sector, rail site, new lines, we are implementing the work, and the combined R&D into the implemented work. So, generally speaking, we believe the upcoming years will gradually to get more revenue and net income from this area. And then right now, we already see the good result in China. Thank you.
+
+[Foreign Language] (00:45:19).
+
+Thank you, everyone, for joining us on the call today. If you haven't got a chance to raise your question, we will be pleased to answer them through follow-up contacts. We look forward to speaking with you again in near future. Thank you.
+
+[Foreign Language] (00:45:34).
+
+This does conclude our conference for today. Thank you for participating. You may all disconnect.

@@ -1,0 +1,242 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+Todd Kehrli — President & Co-Founder, MKR Investor Relations, Inc.
+Joe Bergera — President, Chief Executive Officer & Director, Iteris, Inc.
+Douglas L. Groves — Chief Financial Officer & Senior Vice President, Iteris, Inc.
+Richard Magnusen — Research Associate, B. Riley Securities, Inc.
+Michael Latimore — Analyst, Northland Securities, Inc.
+Matthew David Wegner — Analyst, Craig-Hallum Capital Group LLC
+Alexander Silverman — Portfolio Manager, AWM Investment Co., Inc.
+
+Management Discussion Section
+
+Question And Answer Section
+
+Good day and welcome to the Iteris Fiscal Second Quarter 2022 Financial Results Conference Call. Today's call is being recorded. At this time, I'd like to turn the conference over to Mr. Todd Kehrli, MKR Group. Please go ahead, sir.
+
+Thank you. Good afternoon, everyone, and thank you for participating in today's conference call to discuss Iteris' financial results for its 2022 fiscal second quarter ended September 30, 2021. Joining us today are Iteris' President and CEO, Mr. Joe Bergera; and the company's CFO, Mr. Doug Groves.
+
+Following their remarks, we'll open the call for questions from the company's covering sell-side analysts. Following that, we'll answer questions that investors submitted to the company in advance of the call, per the instructions in our press release dated October 21, 2021.
+
+Before we continue, we'd like to remind all participants that during the course of this call, we may make forward-looking statements regarding future events or the future performance of the company, which statements are based on current information, are subject to change, and they're not guarantees of future performance. Iteris is not undertaking an obligation to provide updates to these forward-looking statements in the future. Actual results may differ substantially from what is discussed today, and no one should assume that at a later date the company's comments from today will still be valid.
+
+Iteris refers you to the documents that the company files from time to time with the SEC, specifically the company's most recent Forms 10-K, 10-Q and 8-K which contain and identify important risk factors that could cause actual results to differ materially from those that are contained in any forward-looking statements. As always, you'll find a webcast replay of today's call on the Investors section of the company's website at www.iteris.com.
+
+Now, I'd now like to turn the call over to Iteris' President and CEO, Mr. Joe Bergera. Sir, please proceed.
+
+Great. Thank you, Todd. And good afternoon to everyone. I appreciate all of you joining us today. Before we begin our regular earnings commentary, I want to comment on the status of the strategic review the board initiated in March 2021. The strategic review is focused on the identification and assessment of new opportunities to enhance our value and market position.
+
+This ranges from a potential sale of the business to a more aggressive M&A program, to various strategic partnership opportunities and more. We don't have any material updates to share on this call, but I can say that we are confident that Iteris participates in a large and dynamic market due to our focus on smart mobility infrastructure management. And Iteris is in a unique position with its market-leading platform and digital ecosystem to capitalize on favorable secular trends such as the advent of government data sharing as a service programs, adoption of cloud first or everything as a service initiatives at every level of government. And perhaps most importantly, the proliferation of connected vehicles, automated vehicles, electric vehicles, mobile commerce and mobility as a service. All of which require significant investment in mobility infrastructure and/or infrastructure to vehicle communication.
+
+We'll be conducting our second annual Investor Day in early December and we'll provide an update on various aspects of the business, including a further update on the strategic review. In the meantime, we don't have anything to say beyond what we've included in our prepared remarks, so we'd appreciate everyone keeping today's questions focused on our operational and financial performance.
+
+On a separate note, I want to remind everyone that we completed the sale of our Agriculture and Weather Analytics segment to DTN, LLC on May 5, 2020. As such, reporting the results of that segment as discontinued operations for all periods presented in today's earnings announcement. I'll be discussing only our continuing operations for the remainder of this call.
+
+So, with that background, let's discuss the results for the period ending September 30, 2021. The company reported fiscal 2022 second quarter total revenue of $33.2 million and fiscal 2022 first half total revenue of $67.3 million, which represents a 14% and 18% year-over-year increase, respectively. About $8.5 million or 26% of second quarter total revenue was recorded as annual recurring revenue and about $16.8 million or 25% of first half total revenue was recorded as annual recurring revenue.
+
+Additionally, we secured record second quarter total net bookings of $36.7 million and record first half total net bookings of $72.7 million. Due to our record net bookings, we ended the September 30 period with record total ending backlog of $83.4 million, which is a 14% increase year-over-year and a 4% increase on a sequential basis. The company's second quarter total revenue, net bookings and any backlog results reflect particularly strong performance for our family of intersection detection products.
+
+I'll take a few minutes to provide some more color on those products as well as our service lines of business, including our family of commercial vehicle operations software that recorded a large write-off in the second quarter. Following my remarks, Doug will discuss our financial results in more detail.
+
+At this time, let's review our products lines. The company's product revenue is composed of two components. First, our intersection detection sensors, travel time sensors and infrastructure-to-vehicle communication devices and second, our third-party products that we distribute and deploy and often integrate with our own products.
+
+Our fiscal 2022 second quarter product revenue was $17.7 million versus $16.3 million in the same prior year period, representing a 9% year-over-year increase. In the period, we saw a divergence in the sales performance of Iteris products, which increased 16% year-over-year. And third party products, which declined year-over-year due to factors such as the inability of certain third parties to meet critical delivery deadlines.
+
+We believe the sales performance of the third party products, in general, and their delivery delays, in particular, will resolve itself over time. In the meantime, we have already started to deploy some of the products that were previously delayed and we expect to recover the balance of delayed third party revenue in future periods.
+
+With respect to Iteris' product lines, the strong second quarter product sales performance was due to excellent sales execution, proactive actions to manage our supply chain and continuous innovation across our product portfolio that enables us to continue to set the product performance standards for the industry.
+
+For example, during the second quarter, we launched our next generation intersection detection sensor, Vantage Apex. Vantage Apex is the industry's first 1080p high-definition video and four dimensional radar sensor with integrated artificial intelligence algorithms. Vantage Apex identifies objects using Iteris' artificial intelligence video analytics, extensive image library, machine learning, and neural network algorithms. This innovative application of artificial intelligence enables high-precision and detailed classification of many different vehicle types and vulnerable road users such as pedestrians and cyclists. In turn, this not only differentiates our product performance but contributes rich new datasets to our ClearMobility platform and enables various new applications that will drive growth in our annual recurring revenue.
+
+Additionally, Vantage Apex is connected vehicle-ready, with the ability to provide critical infrastructure data through vehicle-to-everything or V2X communications to connected and automated vehicles, including through Iteris' own connected vehicle communication devices, which we recently launched in brand as BlueTOAD Spectra CV.
+
+Now let's discuss our service lines of business. We recognize two forms of services revenue: first, project-based revenue that is associated with our consulting activities; and second, annual recurring revenue from our software-as-a-service solutions and from our managed services activities.
+
+Our fiscal 2022 second quarter services revenue was $15.5 million versus $13 million in the same prior-year period, representing a 19% year-over-year increase. About $7 million or 45% of our services revenue is project-based, whereas about $8.5 million or 54% of our services revenue was annual recurring revenue. And as I mentioned earlier, 26% of our second quarter total revenue was annual recurring revenue.
+
+While it didn't impact revenue in the period, we did take a write-off in the second quarter of $2.8 million for one of our service lines related to nonrecurring engineering activity, most of which is performed in prior periods. More specifically, the write-off is related to a contract with the state of Iowa to develop and then co-market certain software capabilities that augment our existing commercial vehicle operations, compliance and inspection software. The write-off effectively represents the accounting impact of the complexity associated with an innovative partnership we have with the state to develop and commercialize highly complex software.
+
+At this time, the state continues to use our commercial vehicle operations compliance and inspection software and we've agreed with the state in principle on a path forward for completion of additional software functionality. At this time, we expect to release the new software capabilities in calendar year 2022.
+
+Additionally, I want to confirm that we do not have any other contracts with similar terms. This was a very unique contract and we certainly learned several lessons from this experience. I can assure you that we will not have this issue again in the future.
+
+Moving on, we continue to see especially strong demand for our specialized consulting services, software-as-a-service and managed service lines. In the second quarter, we recorded $16.3 million in net service bookings with the following bookings being some of the more notable.
+
+A $1.8 million systems integration and technical services contract with the Virginia Department of Transportation, about $1.5 million for several software-as-a-service agreements for the use of our commercial vehicle operations compliance and inspection software, a $1.1 million traffic signal synchronization project for the City of Orange, California, another $1.1 million project, this time with Caltrans, District 7 to develop a framework for the deployment of advanced technology to improve accessibility to mobility for persons with disabilities, an $800,000 task order to manage a traffic operations center for the Florida Department of Transportation, and about $675,000 in software-as-a-service agreements for the use of our mobility intelligence solution, ClearGuide.
+
+So, in summary, the company's total second quarter revenue was constrained due to supplier issues. But our first half sales execution was solid and we continue to make measurable progress executing our platform-based business strategy. Due to strong net bookings and a record ending total backlog, we entered the second half of our fiscal year in a very strong position. Before I further discuss opportunities in front of Iteris, however, I'd like to turn the call over to Doug.
+
+Thank you, Joe. Good afternoon, everyone. As a reminder, please see the company's 10-Q filing and press release, which are posted on our IR website for a further description of matters under discussion during the call today.
+
+As Joe mentioned, we took a charge in the second quarter of $2.8 million related to our execution on the Iowa contract, but we believe with the expected changes to the contract going forward and improved governance processes for the project, we are now positioned to be successful in that endeavor.
+
+Setting aside the onetime non-recurring non-cash charge of $2.8 million, the performance of the business in the second quarter continued to improve with favorable year-over-year trends and certain key metrics, including top-line growth, improving EBITDA, and increasing backlog.
+
+Now, I will move on to the details of the second quarter results. Total revenue for the fiscal 2022 second quarter increased 14% to $33.2 million, compared to $29.3 million in the same quarter a year ago. Our gross margins in the second quarter decreased 530 basis points to 33.5% compared to 38.8% from the same quarter last year. However, after adjusting for the $2.8 million charge in the Iowa contract, gross margins would have been 41.9% or an improvement of 310 basis points over the prior year quarter.
+
+Turning to our revenue mix, the product revenues grew 9% to $17.7 million compared to $16.3 million in the same quarter last year. Product gross margins improved 680 basis points and were 49.4% compared to 42.6% from the same quarter last year due to improved product mix.
+
+We had a higher percentage of direct sales in this quarter versus OEM or distributor sales, and we're seeing good market penetration with our market leading sensors portfolio, which is driving above market growth rates.
+
+Our service gross margins grew 19% to $15.5 million compared to $13 million in the prior year quarter. As Joe mentioned, in the second quarter, 26% of total revenue was annual recurring revenue, compared to 19% in the same quarter last year. As a reminder, our annual recurring revenue are comprised of our software and managed services revenue.
+
+Service gross margins declined significantly to 15.3% compared to 34.1% from the same quarter last year. This was due to the one-time charge of $2.8 million related to the Iowa contract. Adjusting for the Iowa write off, service gross margins would have been down just slightly at 33.4%.
+
+Operating expenses in the first quarter were $13.5 million compared to $10.6 million in the same prior year quarter. And this was a result of the TrafficCast acquisition in the third quarter of fiscal 2021. However, the current quarter was essentially flat on a sequential basis with the prior two quarters, and we continue to be focused on expense management to improve our operating margins.
+
+We reported a GAAP operating loss in the second quarter of $2.4 million, compared with a GAAP operating income of $748,000 in the same quarter a year ago. This was driven by the one-time nonrecurring noncash charges previously mentioned. The GAAP net loss from continuing operations in the second quarter was $2.1 million or a loss of $0.05 per diluted share. After adjusting for the one-time charge, diluted earnings per share would have been $0.02, which compares with net income from continuing operations of $719,000 or $0.02 per diluted share in the same quarter a year ago.
+
+Adjusted EBITDA for the second quarter was $2.3 million or 6.9% of revenue, which compares to approximately $2 million or 6.7% of revenue in the second quarter of last year. This was an 18% improvement in adjusted EBITDA year over year. And we continue to expect our adjusted EBITDA margin as a percentage of revenue to be in the 7% to 8% range for the full fiscal year.
+
+Turning to liquidity and capital resources, cash and short-term investments were $28.2 million at the end of the second quarter. The $2.9 million decrease quarter-over-quarter was a result of changes in our working capital. Specifically, we are buying more raw materials as buffer stock to hedge against the ongoing supply chain shortages that we're seeing. We spent $269,000 in purchases of property and equipment in the second quarter, and these were up $48,000 year to date over the prior year, reflecting our asset-light business model.
+
+So in summary, while we're disappointed with the one-time charge in the quarter, we delivered good bookings growth and we remain focused on growing the business and our annual recurring revenue, while managing our working capital and cost to improve margins as we move forward. With second quarter record backlog of $83.4 million, we are maintaining our full-year revenue guidance of $134 million to $142 million, which positions us well for the remainder of fiscal year 2022.
+
+With that, I will turn the call back over to Joe. Joe?
+
+Super. Thank you, Doug. As mentioned earlier, the smart mobility infrastructure market is a dynamic sector, characterized by favorable secular trends, as well as emerging network effects from the introduction of new forms of mobility. These forces will require the sector to transition from disparate applications to integrated platforms; from legacy outmoded practices to multidisciplinary best practices; from closed systems to open, configurable, and extensible systems; from brittle legacy architectures to a dynamic and resilient ecosystem; and from fragmented resources to seamless partnerships.
+
+With the unique combination of core competencies and market access in this highly fragmented industry, Iteris is in a particularly strong position with its platform-enabled ecosystem to capitalize on this significant market opportunity. To that end, we're moving quickly to introduce new platform capabilities that will accelerate platform engagement and create sustainable shareholder value.
+
+For example, in the second half of fiscal 2022, we plan to introduce potentially disruptive vehicle-to-infrastructure technology that we expect to expand our addressable market and enable new business models in the future. We'll provide more information about this vehicle-to-infrastructure technology at our second Annual Investor Day in December.
+
+Our overall sales pipeline, which includes both public sector and private sector demand for our ClearMobility Platform continues to reach new historic levels due to the sustained release of best-in-class technology and solid sales execution. Therefore, as we begin the second half of fiscal 2022, we continue to anticipate solid full-year bookings growth, even though results may fluctuate in any given quarter, especially as we continue to pursue more multi-million dollar contracts including complex agreements with large private sector entities.
+
+Based on our current record backlog and additional bookings growth, as Doug noted, we are maintaining our total revenue guidance of $134 million to $142 million. This would represent 15% at the low end and 21% at the high end of the range. Also, we continue to anticipate improvements in our full-year fiscal 2022 gross profit margin relative to the prior fiscal year, driven by a continued increase in the company's scale and the higher concentration of software-as-a-service and sensor revenue. In turn, we continue to anticipate a significant year-over-year improvement in adjusted EBITDA for our full fiscal year 2022.
+
+So, with that, we would be delighted to respond to any investor questions or comments. Operator?
+
+Thank you. [Operator Instructions] And our first question will come from Jeff Van Sinderen with B. Riley.
+
+Hello. This is Richard Magnusen in for Jeff Van Sinderen. Thank you for taking our call. My first question is, is regard the recurring revenue. Right now, you're around 26%. Could you just remind us of what your longer term expectations or goals are as far as growing that annual recurring revenue? And then again, what portion of that was particularly SaaS revenue?
+
+Do you want to talk about our target operating model and the composition of that annual recurring revenue?
+
+Sure. Yeah, happy to take that. Hi, Richard. So yeah, we've said over the next couple of years we would like to see that annual recurring revenue get north of 30% of total revenue of the company. As you can see by this quarter, we've made great strides towards that against the compare in the prior year quarter of only 19%. So we're continuing to develop our software platforms, in particular, to increase that. And we currently don't disclose the breakout between how much is managed services and actual SaaS revenue other than to say it's relatively evenly split with the SaaS piece growing much faster than the managed service piece.
+
+Okay. And then regarding the geographical targets, is there anything – any more color around on any areas geographically that you might be targeting right now to aggressively expand into? I'm talking only organically, not about any acquisitions or anything in this case, just areas of opportunity you see that you may want to use your existing technologies or product offerings to grow?
+
+Yeah, for sure. This is Joe and I'm glad to take that. Just for everybody's benefit, I want to make sure everyone understands that we have particularly good penetration at this time on the West Coast, substantial and significantly growing penetration in the Texas region. And then similarly, an increasingly nice footprint in the Florida market. Those particular markets represent the three largest market for smart mobility infrastructure spending at this time.
+
+That said, there are other large markets and to your question, Richard, one market where we don't have particularly significant penetration at this time would be the Northeast. That is a big focus for us. And I'm pleased to say that the results which we just reviewed with everyone actually represent – based on relative historical performance, really outstanding results in the eastern region.
+
+You may recall that we recently announced a couple of big projects in New Jersey, in particular, related to connected vehicle and vehicle-to-infrastructure integration initiatives across that region. And we continue to see a lot of opportunity in the Northeast in particular, and that will be a major focus for us in terms of organic growth.
+
+All right. Thank you very much. I'll jump back into the queue.
+
+Thanks.
+
+And our next question comes from Mike Latimore with Northland Capital Markets.
+
+Great. Thanks a lot. Yeah, I guess just a question on service gross margin, where do you see that kind of progressing to over time? And then I think you talked about recurring going from 19% of revenue to 26%. I guess I would have thought that might have bumped up gross margin of service a little bit year-over-year but kind of flat year-over-year. So maybe a little color on that would be great.
+
+Sure. So, yeah, Mike, the service margins in this particular quarter were significantly down because of the Iowa write-off. Adjusting for that, they would have been close to what they had been. They have generally ran in the sort of 35% range. And just as a reminder, the line item in our P&L has our professional services business. So we're expecting that as the software revenue, in particular, grows in that line, that that margin should begin to really expand significantly so that over the next several quarters, we should see margin expansion in that particular line item in the P&L.
+
+All right. Great. And then can you just talk – you talked a little bit about private sector opportunities in the pipeline. Can you give a little more color there? And are those more SaaS or product?
+
+Yeah. I'm happy to try to answer that, Mike. So the answer is that it does have a very high technology content as opposed to our consulting product lines, which are largely focused on the public sector. The private sector opportunities, I would further say are largely SaaS-related. However, there is some technology – product component, sensor component as well. What we're looking to do is effectively integrate ClearMobility Platform with other clouds that are managed by various private entities that are also addressing broadly similar markets, and most of that revenue will be recognized in the form of annual recurring revenue, will look like SaaS revenue.
+
+However, we do see an opportunity, in some instances, to partner with certain entities who'll either be pulling through some of our product technology, or we would be co-selling some of our product technology, which, because of the fact that once it's deployed, becomes a source of revenue, is viewed by certain commercial entities as being critical to their broader platform strategy.
+
+Yeah, yeah. Okay. Great. Thanks very much.
+
+And our next question will come from Ryan Sigdahl with Craig-Hallum Capital Group.
+
+Hey, guys. This is Matt Wagner on for Ryan. Thank you for taking our questions. Just one on the supplier issues that you cited. Any estimate on kind of how much that impacted revenue in the quarter?
+
+Sure. It was two separate suppliers with two separate really sets of circumstances. But it was a little over $1 million, probably about $1.2 million. One was a raw material supplier that had issues. And then we also had a different actually subcontractor on one of our large professional services engagements that ran into supply chain issues and was unable to deliver the needed equipment to the project in the third quarter. That has since been and is in the process of being delivered – I'm sorry in the second quarter is now being delivered on the third quarter. So it was really more of a timing issues than anything else.
+
+Any sense that, I mean, some of those kind of issues could crop up in the next couple of quarters, I mean just given the sort of global supply chain issues that we're seeing?
+
+I mean, unfortunately I think the answer is yes. It continues to be a very challenging situation. We're doing everything within our power to manage it. But when it comes to third parties, it's – we're highly dependent upon their ability to execute and manage the issues that so many companies are facing. So I wish I could say no but I don't think that would be a fair statement. So we're doing everything we can to manage it. But I do think these things have the ability to crop up from time to time.
+
+Right. That makes sense.
+
+Yeah, Matt, the one thing I would add though is that while we're not immune to experiencing supply chain issues which impact our ability to ship our own product, I can say that so far our team has been incredibly proactive and we haven't experienced any – while there's certainly stress on the system internally, we haven't experienced any inability to ship product and I'm really impressed with the work that our team is doing.
+
+So yes, so far most of the exposure is related to our – to subcontractors and other third parties with whom we have dependencies in terms of delivering larger projects as opposed to related to the manufacture of our own technology. So I just wanted to make sure that you understand that distinction.
+
+Okay. And so just to follow up that, like that sort of math, [indiscernible] (00:31:35) where you mentioned your products were up 16% in the product revenue whereas third-party product was down.
+
+Correct.
+
+Got you. Okay.
+
+Yeah.
+
+Lastly for me. Just housekeeping. Did you give a net bookings number? I thought I heard it but I think I got the wrong number.
+
+Yeah. Doug, do you have that handy?
+
+We did. No, we didn't give that. But let me get back to you. I don't want to give you the wrong number, Matt. But let me get back to you. I think it was about...
+
+Okay.
+
+...$37 million, but let me get back to you.
+
+Yeah. No, I believe that's correct. And we did give it.
+
+Okay.
+
+Yeah. It was $36.7 million to be exact.
+
+Yeah. Yeah.
+
+Sorry, Matt. Yeah. $36.7 million.
+
+No problem. Thank. That's all [indiscernible] (00:32:34).
+
+Yeah. And Matt, I finally found the same figure in just for completeness, we also said that the first half total net bookings figure was $72.7 million. So as Doug said, in the second quarter its $36.7 million, and for the first half it was $72.7 million.
+
+Thanks, guys.
+
+Thank you. So, operator, are there any other questions from covering analysts?
+
+Absolutely, sir. [Operator Instructions] We will go ahead and take our next question from Alex Silverman with AWM Investments.
+
+Good evening. Did I hear correctly that the Virginia 511 contract was part of the service bookings in the quarter?
+
+No.
+
+No.
+
+No. That was not the case, Alex.
+
+Okay. I thought I heard you say something about [indiscernible] (00:33:44) contract.
+
+There was a separate – there was. And it's a project generally related to systems integration, but it's not specifically the 511 contract.
+
+Got it. Okay. And can you tell us roughly how much of the revenue increase was TrafficCast in the quarter?
+
+Doug, can you answer that?
+
+More conversely, what organic growth was?
+
+Yeah. Alex, it was about $3.4 million in TrafficCast revenue in the quarter.
+
+Okay. Call it $600,000 of organic.
+
+Yes.
+
+Okay. So, as we sit here and we look to the second half of the year, pretty wide range on guidance, not a lot of organic growth in the second quarter. You would have to think that the lower end of your guidance is probably the appropriate place to be, no?
+
+Well, we didn't bring down the top end to squeeze it to the middle. So, we held it the same. So, again, it's a range by design. But, we still think that as we look at the second half and some of the opportunities that are ahead of us that that range is still appropriate.
+
+Okay. Got it. Thank you.
+
+Thank you. And Mr. Bergera, there are no more questions at this time. Would you like to address any investor questions that were submitted in advance of today's earnings call?
+
+Yes. Thank you. I would like to do that. And in fact, we did receive one investor question that was not already addressed that – we received more than one, but I think all the other questions were either addressed in the prepared remarks or covered in the question-and-answer period with the covering analyst. But there is one that I do want to touch on.
+
+And specifically, the investor asked how much financial impact to existing backlog, ongoing bookings, revenue, gross profit, and pre-tax profit loss do you foresee in the now ongoing Q3 beyond Q3? And the answer to that question is, regardless of the outcome of current contract negotiations with the state of Iowa, the impact to existing backlog is immaterial.
+
+And by that, I mean, it's less than 1.5%. As far as future revenues, gross profit, and pre-tax profit; the impact is also immaterial since we took the charge for the program in the second quarter. I also want to note that just for everybody's benefit, that while the Iowa contract did have a big impact in our second quarter, that contract is only one of hundreds of contracts in our current portfolio.
+
+So anyway, that was the only additional investor question, as I said, that was not already covered. And so at this point, I don't believe there are any – I do not have any further investor questions and will conclude today's question and answer session.
+
+So moving on, I want to say that, as always, we appreciate everyone's support and your thoughtful questions. On the Investor Relations front, I want to make sure that everyone is aware that we're presenting at the Craig-Hallum Alpha Select Conference on December 16, and the Needham Technology Conference on January 11 to January 13. If you're participating in these conferences, please plan to attend our presentation and/or schedule a visit with us.
+
+Additionally, please watch for future details and plan to attend our second annual investor conference the week of December 6. In the meantime, we look forward to updating you again on our continued progress when we report our fiscal 2022 third quarter results. And at this time, I will conclude today's call.
+
+Thank you. And that does conclude today's conference. We do thank you for your participation. Have an excellent day.

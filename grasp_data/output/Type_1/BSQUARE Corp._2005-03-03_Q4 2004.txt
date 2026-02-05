@@ -1,0 +1,356 @@
+raw transcript
+
+
+BSQUARE Corporation
+ 
+BSQR
+ 
+Q4 2004 Earnings Call
+ 
+Mar. 3, 2005
+
+
+Company
+
+ 
+Ticker
+
+ 
+Event Type
+
+ 
+Date
+
+
+
+www .Ca ll St r eet . com
+ 
+•
+ 
+21 2. 9 31 . 65 1 5 •
+ 
+C op yr i g ht © 20 0 4 C a ll S tr ee t
+ 
+1
+
+
+MANAGEMENT DISCUSSION SECTION
+
+
+<Operator:> Good afternoon, ladies and gentlemen, and welcome to the BSQUARE Fourth Quarter
+
+
+and Year-End conference call. [operator instructions] I would like to the turn the conference over to
+
+
+Mr. Scott Mahan, Chief Financial Officer. Please go ahead sir.
+
+
+Scott Mahan Vice President, Finance and Chief Financial Officer
+
+
+Good afternoon and welcome to our conference call. With me today is Brian Crowley, our CEO.
+
+
+Before we begin let me remind you that this call is being recorded and broadcast live over the year
+
+
+and that a recording of this call will be archived on our website at bsquare.com. Let me also remind
+
+
+you that expect for this historical statements and information contained herein matters discussed in
+
+
+this call, including any revenue and net income expectation and comments regarding our product
+
+
+and other growth initiatives are forward-looking statements that involve risks and uncertainties.
+
+
+Factors that could cause the actual results to differ materially include by are not limited to a decline
+
+
+in the market for Windows-based or other smart devices or the failure of such market to develop as
+
+
+anticipated; adverse changes in macro-economic conditions; a decline in the market for our
+
+
+products technology licenses and services; our ability to successfully implement, execute and make
+
+
+adjustments in our business strategy, business model or product offerings; lack of customer
+
+
+acceptance of new products or initiatives; risks associated with the effects of our restructurings; our
+
+
+ability to successfully support our operations; competition; and intellectual property risks.
+
+
+A more detailed description of certain factors that could affect our actual results include but are not
+
+
+limited to those discussed in BSQUARE’s Annual Report on Form 10-K for the year ended
+
+
+December 31, 2003 in the section entitled “Risk Factors” and in our subsequent Quarterly Reports
+
+
+on Form 10-Q. Listeners are cautioned not to place undue reliance on these forward-looking
+
+
+statements, which speak only as of the date of this conference call. BSQUARE undertakes no
+
+
+obligation to update publicly any forward-looking statements to reflect new information, events or
+
+
+circumstances after the date of this release or to reflect the occurrence of unanticipated events.
+
+
+With that said, I will now turn to discussion of our results.
+
+
+Let me start with topline. Total revenue for the fourth quarter was 8.9 million, compared to 10.7
+
+
+million in the fourth quarter of 2003, and 10.6 million in the third quarter of ‘04. As you've seen in
+
+
+our public filings, we report two revenue lines, software and service. I will speak to trends in each
+
+
+of that. Software revenue in the fourth quarter was 6.5 million or 73% of total revenue as compared
+
+
+to compared to 8.6 million in the fourth quarter of '03 and 8.1 million in the third quarter of ‘04, a
+
+
+decline of 2.1 million and 1.6 million, respectively.
+
+
+Software revenue consists of two components. First, the majority comes from the sale of what we
+
+
+refer to as third-party software. Primarily Microsoft embedded operating systems. The second
+
+
+component is BSQUARE’s own proprietary software. Third-party software revenue was 5.8 million
+
+
+in the fourth quarter or 89% of total software revenue, compared to 7.8 million in the fourth quarter
+
+
+of ’03 and 7.5 million in the third quarter of '04. Virtually the entire revenue shortfall this quarter is
+
+
+stand from the decline in third-party software sales. This decline was in turn largely due to lower
+
+
+than anticipated order volumes from our largest customer, Cardinal Healthcare, which managed
+
+
+inventory levels down unexpectedly.
+
+
+Cardinal represented 19% and 17% of total revenue for the years ended 2004 and 2003,
+
+
+respectively, as investors saw in this most recent quarter, Cardinal's ordering patterns can cost
+
+
+quite significant swings in our revenue. We do expect Cardinal to return to normal ordering pattern
+
+
+late in Q1. This fact coupled with the 20% sequential increase in sales of Microsoft embedded
+
+
+toolkits, lead us to expect sales of third party software to rebound in Q1. We had another strong
+
+
+quarter and sales of BSQUARE proprietary products. BSQUARE software products contributed
+raw transcript
+
+
+BSQUARE Corporation
+ 
+BSQR
+ 
+Q4 2004 Earnings Call
+ 
+Mar. 3, 2005
+
+
+Company
+
+ 
+Ticker
+
+ 
+Event Type
+
+ 
+Date
+
+
+
+www .Ca ll St r eet . com
+ 
+•
+ 
+21 2. 9 31 . 65 1 5 •
+ 
+C op yr i g ht © 20 0 4 C a ll S tr ee t
+ 
+2
+
+
+680,000 of revenue in the fourth quarter or 11% of software revenue as compared to 796,000 and
+
+
+635,000 in the fourth quarter of '03 and third quarter of '04 respectively.
+
+
+Sales were strong even as sales of SDIO now declined in the quarter as expected. Sales of SDIO
+
+
+now were 357,000 and 443,000 in the fourth quarters of '04 and '03 respectively and 578,000 in the
+
+
+third quarter of 2004. We generated 320,000 in non-SDIO BSQUARE software sales during the
+
+
+quarter. We saw a purchase of our SmartBuild reference design in the amount of 180,000 from a
+
+
+military contractor we worked with previously. We expect future purchases from this customer,
+
+
+likely not in Q1. Our SmartBuild reference design demonstrates the type of opportunities on which
+
+
+we plan to capitalize in 2005. Software revenue for the full year 2004 was 28.4 million, including
+
+
+25.7 million in the third party software sales and 1.8 million in sales of SDIO now. This compared
+
+
+to software revenue of 28.2 million for the full year of 2003, which included 25.2 million in the third
+
+
+party software sales and 1.6 million in sales of SDIO now.
+
+
+Sales to third party software were relatively flat year-over-year because of two soft quarters in
+
+
+2004, driven by ordering levels from Cardinal Healthcare. The other significant component of
+
+
+revenue is service revenue. Service revenue for the quarter was 2.4 million or 24% – 27% of total
+
+
+revenue, compared to 2.1 million in the fourth quarter of 2003, and 2.4 million in the third quarter of
+
+
+2004. As we stated in our earnings release, our Q4 service revenue results were disappointing not
+
+
+having shown any upward movements for three quarters, despite adding sales capacity. A Q1,
+
+
+2005 focus is to strengthen sales management and execution in this area, which Brian will speak to
+
+
+you later. We expect service revenue to pick up in Q1 based on current activity levels. For the full
+
+
+year 2004 service revenue was 10.6 million, compared to 9.4 million in 2003. The year-over-year
+
+
+increase stand from several large Smartphone projects and a larger number of projects in general.
+
+
+Now I'll turn to a discussion of gross profit margins.
+
+
+For the last four quarters, overall gross margin has been hovering between 22% to 25%, which is a
+
+
+vast improvement over 2003, wherein our margin was as low as 10%, and ended 2003 at 17% for
+
+
+the full year. The year-over-year improvement, stand almost entirely from improvements in our
+
+
+services area. The key focus of the company is the gross margin line given the variability in the
+
+
+topline, which can stand from fairly significant swings in the sale of low margin third party software
+
+
+products.
+
+
+Third party software margins generally run in the mid-teens. In fact, margin contribution from sales
+
+
+of high margin BSQUARE software and higher margin engineering services contributed
+
+
+approximately 1.5 million more in gross margin during 2004, than third party software, despite
+
+
+representing only 34% of total revenue. Software gross margin was 24% for the quarter, compared
+
+
+to 20% and 21% for the fourth quarter of 2003, and the third quarter of 2004, respectively. The
+
+
+increase in software margin in the fourth quarter was driven by a high margin BSQUARE software
+
+
+products comprising a larger percentage of software revenue. For the full year 2004, software
+
+
+margin was 23%, compared to 24% in the prior year.
+
+
+Service gross margin was 22% in the fourth quarter, compared to a negative 16% in the fourth
+
+
+quarter of 2003, and a positive 24% in the third quarter of 2004. In absolute dollars, fourth quarter
+
+
+service gross margin was down a negligible 46,000 from the third quarter of ’04. For the full year
+
+
+2004, service gross margin was 25%, compared to a negative 4% in the prior year. The year-over-
+
+
+year increase reflects improvements in the areas of contract management, pricing and resource
+
+
+utilization. It is unlikely, we will see a percentage margin improvement in third party software during
+
+
+2005, as margins on sales of Microsoft embedded operating systems are increasingly competitive.
+
+
+With regard to services we are focusing on increasing our margin, both in absolute dollars and as a
+
+
+percentage, through topline growth and increased operational efficiencies. Specifically, for the last
+
+
+several quarters, our service capacity has been under-utilized due to lower than expected sales
+
+
+volumes. As billable hours and revenue increase there should be a little corresponding increase in
+
+
+service cost, due to this capacity availability. As we do increase personnel through intimidated [ph]
+
+
+increased activity, we plan to do so largely through our lower cost Taiwan operation.

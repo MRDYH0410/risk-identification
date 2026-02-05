@@ -1,0 +1,127 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+Leslie Phillips — Director, The Blueshirt Group LLC
+Jerry D. Chase — Director, President & Chief Executive Officer, BSQUARE Corp.
+Peter J. Biere — Chief Financial Officer, BSQUARE Corp.
+Ryan Lee Vardeman — Analyst, Palogic Value Management LP
+
+Management Discussion Section
+
+Question And Answer Section
+
+Please stand by. Good day and welcome to the Bsquare Corporation Fourth Quarter 2017 Financial Result Call. Today's conference call is being recorded. At this time, I would like to turn the conference over to Leslie Phillips, Investor Relations for Bsquare. Please go ahead.
+
+Thank you and good afternoon, everyone. Before we begin, we'd like to remind you that this call is being webcast and that a recording of the call and the text of our prepared remarks will be made available on Bsquare's website.
+
+During this call, we will be making forward-looking statements. These statements are based on current expectations and assumptions that are subject to risks and uncertainties that could cause actual results to differ materially. Please refer to the cautionary text regarding forward-looking statements contained in Bsquare's earnings release issued today and in the posted version of these prepared remarks, both of which apply to the content of this call. All per share amounts discussed today are fully diluted numbers where applicable.
+
+Now, I'd like to turn over the call to Jerry Chase, Bsquare President and CEO. Jerry?
+
+Thank you, Leslie, and good afternoon, everyone. We exited 2017 with increasing DataV momentum and remain optimistic regarding DataV market traction. We closed the year with 19 new DataV pilots at large corporations across a variety of industries. Importantly, 15 of those pilots were closed in the second half of the year, indicating a significant uptick in customer interest and the results of investments we have been making in sales and marketing.
+
+We expect many of these pilots to convert to commercial deployments in 2018. The pilots are with large industrial corporations and cover a number of market segments including transportation, oil and gas, manufacturing, smart vending, and retail. In late 2017, we also added two IoT services customers that we view as excellent candidates to move ahead with DataV product deployments. We also successfully recorded our first major DataV subscription renewal. This renewal, by Itron, a global provider of smart energy distribution systems, is for four additional years, and is valued at $2.9 million. DataV continues to perform well with our existing customers which we believe will lead to expansion opportunities.
+
+Across the board, our customers are enthusiastic and knowledgeable about the potential business benefits that can be achieved through industrial IoT. Depending on their business needs, some customers are moving faster than others. For example, during the current quarter, we entered into a DataV services contract that we believe will lead to a significant multi-year SaaS engagement for DataV. We expect to sign the SaaS engagement late in the current quarter or early second quarter 2018. This particular opportunity resulted from a pilot that started in the fourth quarter of 2017.
+
+However, we are finding that with some customers the timeframe to convert is longer than we expected. We continue to focus on our ideal customer profile for DataV, based on the long-term value of the sale, and our ability to move engagements expeditiously from initial discussion to revenue.
+
+In order to help accelerate pilot conversions, we have continued to streamline and simplify the manner in which we offer DataV. Market trends point to the vast majority of IoT implementations being cloud based. Consequently, we continue to work closely with our cloud partners, AWS and Microsoft Azure, and in the future, we'll focus primarily on a SaaS delivery model for DataV. As a key indicator of partner interest in Bsquare, many of our pilot engagements have been co-funded by AWS or Microsoft. This initiative brings us closer to our customers and to our partners.
+
+One further note regarding AWS, we have developed unique functionality for the recently announced AWS Device Management service and view the AWS acquisition of FreeRTOS as another area in which we can work closely together.
+
+Now, let me turn to our traditional revenue drivers. Regarding our embedded software resale business and in line with our expectations, our Microsoft Windows embedded revenue was slightly higher sequentially and exhibited slightly higher gross margin levels. We view the revenue of the past few quarters as being indicative of future performance.
+
+With respect to our traditional engineering services business, we continue to operate this organization profitably, albeit at lower revenue levels. Two of our largest customers, Coca-Cola and Google, renewed their contracts in the first quarter of 2018, solidifying the associated engineering work for the remainder of 2018.
+
+Now, I'd like to turn the call over to our CFO, Peter Biere, to address our financial performance in the fourth quarter.
+
+Thank you, Jerry. First, let's review our revenue for the fourth quarter. Total revenue was $19.5 million, within the guidance range we provided in our Q3 earnings call. Compared to the prior-year quarter, revenue was down 27% from $26.8 million and down 1% from $19.7 million sequentially. I'll break down the changes by revenue grouping for the quarter.
+
+Third-party software revenue was $17.2 million, slightly higher compared to Q3, reflecting seasonal purchases by a few customers before year-end. Year-over-year, third-party revenue declined 28%. We've discussed the expected decline in Microsoft resales, and over the past few quarters, I've mentioned that we believe this revenue line had found its level. Our Q4 results continue to bear that out. While we might experience some continued variability, we believe we've seen the bulk of any competitive fallout. In fact, we're succeeding to win back some business that was lost earlier in 2017 and continue to push for new opportunities.
+
+Proprietary software revenue was $311,000, flat with the prior-year quarter. Quarter four of 2017 included approximately $170,000 of DataV software revenue, while the prior year was comprised of non-DataV legacy software revenue.
+
+Professional engineering service revenue was $1.9 million this quarter, down 29% year-over-year and down 12% from the sequential quarter. During 2017, a number of traditional service contracts reached their final delivery point, which explains the year-over-year decline. Revenue would have been flat when compared to the sequential quarter, except for that contract renewals which normally occur in quarter four were closed in quarter one of 2018. Our two major customer contracts are now set for 2018.
+
+A year ago, we began to focus on selling efforts on DataV, so that when traditional contracts wind up, we align staff to the going-forward requirements. During the fourth quarter with a majority of our DataV pilots still in progress, we recorded approximately $340,000 in total DataV revenue. This DataV revenue has accounted for partially in our proprietary software and partially in our professional engineering services segments.
+
+Next, I'll turn to our gross profit and margins in the quarter. Gross profit totaled $3.6 million or 18.6% of revenue within our guidance of 18% to 20%. The nearly 4% improvement in gross margin from the prior year period was driven by higher third-party software margins in the third quarter. The lower gross margin in the year ago quarter also reflected lower gross margins in engineering services, which was undergoing restructuring at that time.
+
+Total gross profit was down 8.5% from the year ago quarter and is lower, primarily due to lower revenue levels in our third-party software business. While our third-party revenue has decreased from the prior year, many of the customers we lost were relatively lower margin accounts. So our blended rates for continuing customers are higher than historical margins.
+
+Next, I'll speak to operating expenses and our bottom line results in the fourth quarter. Total operating expenses were $7.9 million this quarter, up from $5.3 million in quarter four of 2016, and $6.9 million in quarter three of 2017. In line with our expectations, the increases reflect our steady investment in product development, sales, marketing and customer support teams, critical for the success and scaling of DataV.
+
+We recorded a net loss of approximately $4.2 million or $0.33 per share for the fourth quarter of 2017, compared to a net loss of $1.3 million, or $0.10 per share, in the year ago quarter and a net loss of $2.5 million, or $0.20 per share, for the third quarter of 2017.
+
+Speaking to the full year 2017, total revenue was $80.8 million, down 17% from 2016. With revenue decreases in both our third party software and professional engineering services reporting segments, offset by gains in our proprietary software unit, reflecting recognition of our first DataV contract revenue in the first quarter of 2017.
+
+Gross profit for the year totaled $18.1 million, or 22% of revenue, compared to $15.8 million or 16% of revenue in 2016. The increases were largely due to the margins achieved on our new high-margin DataV software business, combined with increases in our services and third-party business margins. Gross profit and average margins will continue to vary for some time as our mix of higher margin DataV revenue becomes a larger part of our overall revenue.
+
+For the full-year 2017, total OpEx was approximately $27.5 million compared with $17 million in 2016. Again, targeted investments in R&D, sales and marketing to drive growth in DataV explain the majority of these cost increases in each of the comparative periods. Net loss for the full year of 2017 was $9.1 million or $0.72 per share, compared to a net loss of $1.1 million or $0.09 per share in 2016.
+
+Moving to the balance sheet, cash and investments totaled $24.8 million as of December 31, 2017. Including profits from both of our legacy businesses, we invested a net amount of approximately $2 million in quarter four and $8.4 million during the full year of 2017 to grow our DataV business. Cash used during 2017 on a quarterly basis has varied primarily due to DataV project timing.
+
+Our accounts receivable balance totaled about $18.0 million at December 31, 2017, approximately $9 million of which is due from Honeywell. Net of payments due to Microsoft, about $6.5 million of this Honeywell receivable will convert to cash.
+
+I'll next discuss several non-GAAP metrics which we believe help investors better understand our cash flows and DataV business. Additional information and relevant reconciliations to the comparable GAAP measures can be found in the Investor Relations section of our website and in our earnings release and related periodic SEC filings.
+
+We use adjusted EBITDAS, defined as operating income before depreciation, amortization and stock-based compensation, as a non-GAAP management measure of our performance and to monitor our ability to generate cash from the operations of our business. We use bookings, backlog and unbilled deferred revenue as non-GAAP measures that we believe provide meaningful information related to our DataV sales, since revenue will often be recognized in different periods than those in which orders have been received or cash has been collected.
+
+Our adjusted EBITDAS was negative $3.7 million this quarter, compared to a negative $0.8 million in the year ago quarter, primarily due to lower third-party software and professional engineering services revenue, combined with higher DataV expenses incurred compared to the prior year.
+
+Several measures we're using to describe DataV include bookings which is a non-GAAP measure defined as the contract value of new agreement signed with customers. We recorded $3.2 million in DataV bookings during the fourth quarter of 2017 and $4 million for the full year. Each amount includes our $2.9 million renewal from Itron. We collected approximately $3.2 million in cash from DataV contracts during 2017.
+
+Backlog is a non-GAAP measure defined as total DataV bookings less DataV revenue recognized to date which was approximately $6.5 million at December 31, 2017 compared to $5.7 million at the prior year-end. Of the December 31, 2017 balance, $3.7 million is unbilled deferred revenue and $2.8 million is recognized on our balance sheet as deferred revenue.
+
+I'll now turn the call back to Jerry to provide an outlook for the first quarter and closing remarks.
+
+Thank you, Peter. As noted in today's press release, we currently have the following expectations for Q1 2018. Revenue in the range of $17.5 million to $19 million with some potential upside in revenue from the previously mentioned Itron contract renewal. Also as mentioned, in Q1, we entered into a DataV services contract that we believe will lead to a significant multi-year SaaS engagement for DataV. We expect to sign the SaaS engagement late in the current quarter or early second quarter 2018.
+
+We expect to sign additional pilots in the quarter. Blended gross margin will be in the 17% to 19% range with some potential upside in margin from our Itron contract renewal and a net loss reflecting continued investments in R&D, sales and marketing to grow DataV.
+
+Cathy, please open the call for questions.
+
+Thank you. [Operator Instructions] We'll take our first question from Ryan Vardeman with Palogic.
+
+Hey, guys.
+
+Hey, Ryan.
+
+At what point – we invested a fair amount in 2017 in DataV. At what point will you be in a position to start really framing what that significant opportunity is in so far as DataV big picture?
+
+So certainly, we get asked this question frequently. We're trying to put more color on our future in each one of these calls and, certainly, when we have the opportunity to go to investor conferences, we would expect to continue that trend of offering up more guidance color context around our performance. We're not quite ready to say, we'll be ready to give that definitive ongoing guidance on a particular date. But certainly, that's the direction that we're all pushing toward.
+
+Okay. Maybe ask it a slightly different way. You guys said in your prepared remarks on a net basis how much you invested in the DataV project. I guess we could look back over the last four years and we could see what we've invested not only on a net basis, but also on a gross basis as it relates to DataV. At this point in the lifecycle of that project, do you have confidence that you will get a return on that investment over some reasonable line of time or are you less confident that that investment is going to manifest itself in a positive return?
+
+Yes. We believe that we'll see a positive return on our investment. We continue to signal our encouragement at the market activity, our ability to serve it. During prepared remarks we also said that there is an increasing level of awareness amongst customers about what they're looking for, which we believe plays into our favor. So, we are definitely voting with our actions here based on the positive feedback that we're getting from existing and potentially new customers.
+
+Any more color that you would like to provide as it relates to the SaaS customer besides that it's a significant opportunity? [indiscernible] (18:10)
+
+Yeah. The agreement that we signed this quarter is to integrate DataV into their environment. This is a well-known global company and we're very confident in our ability to serve them at a very high level. And we did break up the negotiations into two parts. One is the contract that we mentioned and then we'll be targeting to sign the actual SaaS agreement here later this quarter or early next quarter. So pretty bullish about that particular opportunity. I think Peter has got something to add.
+
+Yeah. I think the thing I would add, Ryan, in this case, I mean, you would usually think that a customer would engage, sign a license agreement and then we'd start implementing. These guys are so confident in what we've been doing with them and showing them in DataV and their time line is tight so they're starting the integration work ahead of the license.
+
+So it's a little unusual on this circumstance, but I think at least it does show us when a customer has a serious business need and a timeline, they're willing to engage and put money on the table ahead of working out the SaaS agreement. So it's positive and hopefully in the not too distant future, you'll hear more detail.
+
+Okay. And has there been a change in the way that you're selling these enterprise customers, or in the last, call it, quarter or two or – and how has that changed?
+
+I would say that the selling process has sharpened. We have really focused in on pilots as the way to move customers through to what we call production, our commercial implementation. And the more clearly we can define those, the narrower they are in scope, and the more cleanly we can deliver those, we can move to commercial discussions.
+
+We also are emphasizing what I would say our apps that get customers value more quickly like Track, Repair, Manage, and Predict. So that's been nice. And then also, as you know, Ryan, our PACCAR contract is a perpetual license. Our Itron contract is a subscription license. And we will entertain further contracts like that on case-by-case basis, but we lead with SaaS and that seems to make it a little bit easier.
+
+Also, in the prepared remarks, you may have noticed that we're partnered very closely with AWS and Microsoft, and that they have co-funded a number of these opportunities which shows a tremendous amount of confidence in us. It demonstrates to our customers' confidence from those partners, and it helps us get closer to them and to move things along.
+
+I guess a final question and I'll let somebody else step in is the receivable balance, you're still comfortable with all your receivables and you're still confident in your ability to convert that to cash over time as appropriate?
+
+Yeah. I can say unequivocally I have confidence in every dollar in accounts receivable. We haven't had any write-downs or write-offs in my year. And we actually have very few customers that pay us way beyond terms. Most everybody is right in where they need to be. And with Honeywell, we just have – to get that business, we give them extended terms. And so we've not failed to collect a dollar. It's just extended, so good shape there.
+
+Okay. Thank you all. Good luck.
+
+Thanks, Ryan. [Operator Instructions]
+
+It appears there are no further questions at this time. Mr. Chase, I'd like to turn the conference back to you for any additional or closing remarks.
+
+Before concluding the call, on behalf of the entire Bsquare team, I would like to thank our investors and our customers for your interest and for your business. We look forward to reporting back to you next quarter. Thank you for joining us.
+
+That concludes today's presentation. Thank you for your participation. You may now disconnect.

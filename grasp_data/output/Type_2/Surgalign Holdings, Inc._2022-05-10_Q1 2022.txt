@@ -1,0 +1,145 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+David B. Lyle — Chief Financial Officer, Surgalign Holdings, Inc.
+Terry M. Rich — President, Chief Executive Officer & Director, Surgalign Holdings, Inc.
+Brooks O'Neil — Analyst, Lake Street Capital Markets LLC
+Matthew Gregory Hewitt — Analyst, Craig-Hallum Capital Group LLC
+
+Management Discussion Section
+
+Question And Answer Section
+
+Greetings and welcome to the Surgalign Holdings, Incorporated First Quarter 2022 Results Conference Call. At this time, all participants are in a listen-only mode. A brief question-and-answer session will follow the formal presentation. [Operator Instructions] As a reminder, this conference is being recorded.
+
+It is now my pleasure to introduce your host, David Lyle, Chief Financial Officer. Thank you, sir. You may begin.
+
+Good afternoon and thank you for joining us today. I'll start with our customary Safe Harbor statement and turn the call over to our CEO, Terry Rich. I'll then cover our financial results, capital allocation plans and some key initiatives underway before we open up the call for questions. Our Chief Accounting Officer, Chris Thunander, will be here as well to answer questions.
+
+I'd like to remind everyone that on today's call and webcast, management will be making forward-looking statements about future events, Surgalign's business strategy and future financial and operating performance. Actual results could differ materially from those stated or implied by these forward-looking statements due to the risks and uncertainties associated with the company's business. These forward-looking statements are qualified by the cautionary statements contained in today's earnings release and Surgalign's SEC filings.
+
+This conference call contains time-sensitive information that is accurate only as of the date of this live broadcast, May 10, 2022. Surgalign undertakes no obligation to revise or update any forward-looking statements to reflect events or circumstances after the date of this conference call. In addition, this conference call may include discussion of non-GAAP financial measures. Please see today's earnings release for further details, including a reconciliation of the GAAP to non-GAAP results.
+
+With that, I would like to turn the call over to Terry. Terry?
+
+Thanks, Dave, and good afternoon. It's been a little less than two months since we reported our fourth quarter and 2021 annual results and discussed our most recent milestones, our equity investment in Inteneural Networks which was late Q4 event, an FDA 510(k) clearance for our HOLO Portal Surgical Guidance System which occurred in the first quarter. We've made significant progress since and the momentum is building.
+
+In the first quarter, we delivered revenue of $20.6 million which came in ahead of our expectations. When the year began, COVID-related issues were still impacting elective procedures and, as a result, January started off slow. However, as the environment improved, we saw an increase in surgical volumes and a stronger revenue. While hospitals still face some staffing issues, I'm pleased to report the market conditions have continued to improve, and we expect to see top line improvements throughout the year. This is a key takeaway and one of the factors leading to our increased revenue guidance.
+
+Today, I'll provide more color around the market opportunity related to our HOLO Surgical acquisition and Inteneural Networks investment, what we envisioned, what we've accomplished, and our strategy to bring these revolutionary technologies to the health care market. This should provide you with more insight into our commercialization plans, the resources needed to drive adoption, and why we pursued the equity raise at the time we did.
+
+Most of my comments will focus on the market opportunity ahead of us and our strategy to unlock shareholder value. I firmly believe Surgalign will be a substantially different company beginning in earnest in 2023 and into 2024 and beyond. We have opportunities to grow product revenue as we continue to innovate, expand our portfolio and leverage distribution as well as capture market share.
+
+While we anticipate growth in the spine device market, especially if market conditions continue to improve, the greatest opportunity for value creation is through the HOLO AI platform and the complementary technology Inteneural Networks brings to the table.
+
+Artificial intelligence or AI is already well-recognized and expected to revolutionize the medical field in so many ways. Our HOLO Portal Surgical guidance system is the first system cleared for surgery combining AI and AR. And the AI in this application provides automatic segmentation of the anatomy and suggests a surgical plan to the user that is specific to each patient. We intend to build upon these AI applications to deliver greater clinical value to surgeons, facilitate cost savings to hospitals, and improve outcomes for patients.
+
+The vision for our HOLO AI platform, which is currently under development, is much more grand as it can expand our footprint outside of the operating room. When our HOLO AI platform is integrated into a hospital's IT environment and leveraged by healthcare providers, I believe we can become the first company in the world to deliver predictive outcomes related to the spine.
+
+We are bullish that surgeons, institutions, payers and patients will be drawn to this digital healthcare solution. We have numerous AI algorithms which can be applied beyond spinal anatomy and to other various medical disciplines to drive improvements more broadly in healthcare, thus improving patient lives through insights from data, diagnostics, pre-op surgery and post-op. This was the premise for our vision and the driving force behind our transactions. But we also knew and still believe the applications within AI are limitless. We know the spine market. It is our core foundation. And we believe we have a strong product portfolio, distribution and medical network. Thus, it's logical that our initial focus with AI relates to spine care.
+
+We're going to start providing the tools to help surgeons perform better spine surgery in the OR, but our broader vision is to improve patient outcomes by touching every part of the continuum of care, not just surgical procedures and not just related to the spine. So, first, our journey begins with the HOLO Portal surgical guidance system, which is used intraoperatively to guide surgeons through spinal procedures, leveraging AI and AR technologies. The augmented reality improves visualization and reduces the surgeon's cognitive load in the operating room.
+
+It's the AI platform, however, that differentiates us from our competitors. Our AI automatically segments the spinal anatomy and suggests a surgical plan with – that surgeon can follow or adjust and helps improve user confidence, efficiencies and outcomes in the operating room. Second, we plan to apply HOLO AI technology outside of the operating room to perform autonomous analysis of both diagnostic imaging and post-op results. Here, data is collected and applied to better understand the patient's condition, severity of disease, comorbidities and other relevant data to support the surgeon and medical team in developing the treatment algorithm.
+
+Currently, with MRIs, CT scans, X-rays, et cetera, a set of human eyes looks at a shade of gray on an image and makes decisions on where to measure. They cannot analyze every single pixel like a computer can. Our algorithms are designed to differentiate bone, soft tissue, vascular and nervous structures from one another in these common forms of medical imaging down to the pixel level. After our software identifies the anatomical structure, we can take very specific volumetric measurements and quantify values that are clinically relevant in developing the treatment algorithm.
+
+Our first clinical applications for the HOLO AI platform in spine will be stenosis and disc degeneration. As an example, in the evaluation of a patient presenting with potential spinal pathologies, the algorithms [ph] autonomously (09:07) provide precise, quantifiable, volumetric analysis of the severity of the spinal stenosis, eliminating potential for human error and with greater efficiency. We also believe this can make payer prior authorization and workflows more efficient and provide physicians with more data to drive better clinical decision-making that will improve patient outcomes. We will build on those capabilities to address a variety of other pathologies in spine.
+
+With the addition of Inteneural Networks to the HOLO platform, we will extend into intracranial indications. Our first application will be to autonomously identify and monitor the surveillance of aneurysms over time. We will then follow on with additional clinical applications to autonomously identify and monitor highly complex diseases such as Alzheimer's, multiple sclerosis, dementia, autism, tumors, stroke, and other pathologies in the brain.
+
+Third, the HOLO AI platform has neural networks that we are applying to many other musculoskeletal areas and a variety of organs and vessels to include liver, lung, kidneys, etcetera. Our strategy is to expand our HOLO AI platform to other medical specialties and many other types of diagnostic and treatment therapies. We believe the HOLO Portal Surgical Business, although a substantial market opportunity, will most likely be a smaller piece of the pie when you consider the role AI will play in developing the appropriate course of treatment as many patients who seek medical care never undergo surgery.
+
+Our platform approach will enable us to quickly add on capabilities for other parts of the body and broaden our capabilities across the entire continuum of health care with data as the central component. So right now, we are focused on the spine and intracranial shortly thereafter, but our strategy is to expand our platform so that we can significantly participate in the broader markets within medicine.
+
+As we think about our market opportunity and what we see as the addressable market, there are so many different ways of addressing this question. The reality is the market today is not what we envision the market of the future because we intend to move far beyond spine and surgery as we expand our HOLO AI platform. But looking to few data points to show our addressable market today, in the United States, there are more than 7,000 hospitals and over 200,000 operating rooms. There are approximately 1.5 million instrumented spinal procedures performed here annually, and published research based on patient reported outcomes shows that as many as 40% resulted in non-successful outcomes. There's certainly room for enhancements, and many clinicians we've spoken with agree that significant improvements outcomes will occur through innovation in digital technology and big data.
+
+The surgical navigation robotics market continues to be an area where hospitals are willing to invest, and it's been estimated this will grow to an $8 billion market by the end of 2025. So if we couple the existing spine hardware and biologics markets we play in today with the navigation and robotics piece and then layer in our unique opportunity with AI and diagnostic imaging and big data, the addressable market for Surgalign is billions of dollars annually. And, again, this is just for spine surgeries. It does not represent the full power of our AI networks applied to diagnostics, intervention and continuums in other areas of medicine.
+
+Looking at the broader market opportunity and considering other applications that will be built into our AI platform over time, we're talking about a $200-plus-billion market opportunity for AI in healthcare over the next 10 years and you better believe Surgalign will be a leading player in this space.
+
+So how do we get there? First, we focus on early adoption of our HOLO Portal system. As I've mentioned previously, there will be different sales models available for commercialization. We saw the system outright as a capital sale, have a fee per use model, rental models or lease options. As we're in the initial stages, it's hard to predict what the split will be as budgeting decisions, operating room needs, and discretionary spend varies.
+
+As I mentioned previously, in Q1, we received 510(k) clearance for the use of the HOLO Portal Surgical Guidance System in the lumbar spine. The first major milestone as we now begin commercialization of our digital health platform in the future. This was the culmination of more than six years of development led by pioneers in the augmented reality, AI, big data mining, and medical communities. We have now moved into the early stages of commercial launch.
+
+Last week, we reached another major milestone. In line with our expectations, we had our first site up and running and performed our first successful case using our HOLO Portal System. I'd like to thank and congratulate the entire Surgalign team. As we move through the year, we'll have more data and feedback to more accurately assess the models that work best and the result in quicker adoption.
+
+As a reminder, we have plans to have additional sites up and running this quarter, and our goal is to have at least 10 to 15 operational by year end with a broader commercial launch early in 2023. And the total revenue generated from one unit per year is expected to be approximately $1 million to $1.5 million. Over the next two years, our focus will be on commercialization of the HOLO Portal system, integrating relevant procedural technologies and expanding our HOLO AI platform capabilities. We will do this through data aggregation, upgraded algorithms, continued investments in innovation, and by pursuing expanded indications and FDA clearances all focused on bringing new solutions to market powered by HOLO AI technology. We believe as new applications are layered onto our platform, we will create new and recurring revenue streams and operate on a lower cost basis with greater bottom line impact.
+
+The development team we acquired with the HOLO Surgical acquisition and investment in Inteneural Networks are the biggest assets in transactions and have dramatically expanded our capabilities in building AI and machine learning algorithms. We have a platform. Now it's about building scale, new networks that can run on top of our platform to improve patient lives. To get there, we have to invest. The opportunity is clear as is our strategy. To commercialize the technology, enhance our operational capabilities as we scale, to support sales and marketing efforts, we will require capital. That is the primary reason we did the equity raise in Q1 to extend our runway, allowing us to enhance our team and resources, opportunistically invest and move beyond the R&D stage.
+
+Without that capital, we would have had to scale back resources needed to achieve the necessary HOLO Portal cases, which have begun and will be ramping throughout the year. We are laser-focused on moving from R&D to full scale commercialization in early 2023. We are incredibly excited about the future at Surgalign, the power of HOLO and Inteneural Networks platform technologies have the potential to revolutionize the health care industry. We are also proud of the talent we've hired and the progress made to update our existing spine portfolio and are excited about the cadence of new product introductions that will support adoption within the spine market. This year is critical for Surgalign, and I am confident in our ability to execute our plan and realize our full potential.
+
+With that, I'd like to turn the call over to Dave.
+
+Thanks, Terry. Starting with the review of the quarter, global spine revenue for the first quarter was $20.6 million compared to $23.3 million for the prior-year period. The decrease in revenue was primarily due to decreased demand as a result of COVID-19-related headwinds in January with sequential improvement seen in February and then again in March, as Terry noted earlier.
+
+Domestic revenue was $17.2 million compared to $19.9 million in the prior-year quarter and international revenue was $3.4 million compared to $3.4 million in the prior year quarter. Q1 non-GAAP gross margin was 70.9% compared to 75.5% of revenue in the first quarter of 2021. Q1 GAAP gross margin was 68.9% compared to 73.2% in the first quarter of 2021. Excluded from Q1, non-GAAP gross profit was $410,000 of inventory purchase price adjustments.
+
+Moving on to operating expenses, Q1 non-GAAP operating expense were $28.4 million compared to $27.9 million in the prior-year quarter. Investment and development of the HOLO AI platform was partially offset by a decrease in general and administrative expenses through the simplification of the distribution and administrative infrastructure. Excluded from Q1 non-GAAP operating expense was approximately $939,000 in asset charges related to the impairment of instruments during the quarter, $916,000 in transactions and integration expenses related to issuance costs associated with newly issued warrants, noncash stock-based compensation expense of $1.4 million, and a gain of $8.5 million or accounting adjustments to the fair value of milestones.
+
+Adjusted EBITDA for the first quarter was a loss of $13.3 million compared with a loss of $9.8 million in the prior-year period. We ended the first quarter with $44.7 million in cash and cash equivalents, compared to $51.3 million in Q4, a $6.6 million net decline. Key cash outflows were from $15.1 million in cash used from operations, $4 million for our 2021 annual short-term incentive program payout $1.3 million in capital expenditures, and $4.1 million for a portion of the HOLO surgical earn-out milestone related to the achievement of 510(k) clearance. These cash outflows were somewhat offset by $17.7 million of net cash proceeds received from our equity raise completed in February.
+
+Turning to guidance, for the full year 2022, we are raising our expected revenue range to $86 million to $90 million or $88 million at the midpoint of the range from $85 million previously. We are encouraged by the increased demand we saw in February and March which continued in April.
+
+As a result, we continue to expect the second quarter to be up sequentially compared to the first quarter of 2022 and expect further sequential growth in the third and fourth quarters. We believe we have returned to a more normal operating environment and do not expect any material impact from COVID during the remainder of the year in our guidance range.
+
+We expect both GAAP and non-GAAP gross margins in Q2 to be consistent with Q1. We expect non-GAAP operating expenses to grow slightly from Q1 to Q2 as we invest in talent for our digital strategy while maintaining prudent cost control activities.
+
+Turning to an update on our cash position, we believe additional financing will be required by the end of the year in order to fund the investment in our digital health platform and to return our spine device revenue to historical pre-COVID levels. We are currently evaluating a variety of financing options and will be very mindful of shareholder dilution.
+
+We also believe that with commercialization ramping and early successes we've had with HOLO, any raise would generate a meaningful ROI for shareholders long term. In the meantime, we have implemented a cash conservation plan that includes prudent operating expense curtailments while allowing us to continue to invest in our digital strategy, our infrastructure, and R&D which we are confident will result in long-term shareholder value.
+
+Before handing it back to Terry, I'd like to provide the voting results for our annual stockholders' meeting held earlier this morning. All of our board nominees were re-elected and all proposals were approved. Given we received approval for a reverse share split, we will not be increasing our authorized shares.
+
+With regard to the reverse share split, let me give you a little more insight into our thinking for that proposal. As you know, our share price is trading below the minimum threshold of $1 per share, as required by Nasdaq. And Nasdaq has notified us the deadline to rectify this expires June 21 of this year. To ensure we maintain our listing, we will implement a reverse share split of either 15:1, 20:1 or 30:1. We also believe there are additional benefits to a reverse stock split. For example, the current price of our stock closes limitations for certain institutions, professional investors and other members of the investing public.
+
+A reverse split can help in cases where certain brokerage houses and institutional investors have internal policies and practices that either prohibit them from investing in low priced stocks or tend to discourage individual brokers from recommending low priced stocks to their customers. With approval from our shareholders received this morning, we will consult with our board to determine which option we will choose and when we will execute the reverse split. We expect to complete this process over the next few weeks.
+
+That concludes our remarks. Operator, we are now ready to open the call for questions.
+
+Thank you. At this time, we will conduct a question-and-answer session. [Operator Instructions] Our first question comes from Brooks O'Neil with Lake Street Capital. Please proceed.
+
+Hi. Good afternoon, guys. I have a couple of questions. I guess first and I picked up a little bit about this during the prepared remarks, but to what extent does your current regulatory approval, the 510(k) give you the opportunity to begin to explore areas beyond spine and to the extent that you don't have that approval today, what do you see in the regulatory pathway to get it as you think about it now?
+
+Yeah. Hey, Brooks. Thanks. So the current approval is for the lumbar spine, which is the vast majority of the cases and we'll continue to move up the spine here in short order. And then we are preparing for pre-submission meetings with the FDA for both the diagnostic components that we're looking at within spine, being able to read the MRIs autonomously, as well as the applications we're looking at for intracranial functions. We're going to focus, as we said, on the spine and intracranial applications first and then we'll move into the other areas mentioned.
+
+Great. And then obviously, you gave us a tremendous amount of information in the prepared remarks, which I'll probably have to read 10 times over before I understand it. But could you just say how much commercial interest you detected in the spine area? And perhaps as you began to explore intracranial, try to give us a feel for how much interest in the marketplace you've found there.
+
+Yeah. Of course. So, like we said before, we've had more interest than units. So, we have a ton of interest. We're very excited about it. We've got a – quite a number of surgeons trained and validated for the unit. And so, we're fighting through the hospital approval processes, expect, like we said, to have some more units approved this quarter. And so we're very excited about that. And, yeah, we see a ton of excitement around the intracranial applications both from neurosurgeons, neuroradiologists and neurologists alike, and believe there's a great deal of utility that can be applied throughout the continuum of care with these products. So we're very excited to continue the development efforts and move forward with the FDA process.
+
+Great. And then I'll just ask one more. Obviously, you're a public company today and you're taking steps to address the share price and all of those kinds of things. At the same time, with the significant development work and the scope of the work you're going to try to do, I assume you've given at least some thought to the concept of being a private company as opposed to a public company. And I'm just curious if you could share with us any of your kind of current thinking in that regard.
+
+Well, I'll take that. And then, Terry, you can chime in with some color if you'd like. We're actually – we talked a little bit about the fact we're going to have to go do additional financing sometime before the end of the year given our cash runway. We've got some pretty incredible prospects on the HOLO AI and the HOLO Portal platform. So we're pretty excited about that. We need to continue to invest there while still eying some prudent cost savings efforts. So we'll need to go raise more money. Those financing options we're looking at, we're looking at everything across the board, which is a pretty complete list.
+
+Okay. David, thank you very much. I appreciate that color.
+
+No problem. [Operator Instructions]
+
+Our next question comes from Matt Hewitt with Craig-Hallum. Please proceed.
+
+Good afternoon and thank you for the thorough update. Maybe first off, obviously, you just got your first procedure done. Congratulations on that. I'm curious how we should be thinking about a cadence of procedures out of just that one site. Is it something that you anticipate a kind of a slow and steady build over the course of the year, or do they – does that site have a backlog of cases that are anxious to utilize this platform?
+
+Yes. So we have more cases and more surgeons booking cases at that site as we sit here today. So I think it'll be a steady increase. Difficult to predict the volumes at this point in time. But we're excited with how the first case went and super excited to get some more under our belt.
+
+That's great. And with that site, I would imagine that they will be in addition to actually performing some procedures, they're going to be looking to potentially get into a publication or two. Any idea, is there a conference or two this fall or is there a timing for such publications?
+
+Yeah. No. Look, we'll look to get a series done. And it's definitely something that both them and us are excited about studying and getting something out. Again, having done one case, we don't have a specific time yet, but we'll also look to use them as a training site for the technology as well.
+
+That makes sense. And then as far as – do you have discussions or have you had any discussions with payers regarding the technology? Is this something that you see interest from a payer standpoint that because it should increase the effectiveness of the actual surgery, that maybe the payers want to have a say in the matter and maybe they want to encourage providers to kind of steer this direction or have you had anything along those lines?
+
+We have not. And I think number one, we need to develop large bodies of clinical evidence to support it first. But do believe that there could be interest in a number of the diagnostic things that we're working on in brain, spine and other areas that could be of significant interest to payers and providers as well.
+
+Understood. And then maybe last one for me and I'll hop back into queue. One of the things or one of the appeals early on, I think it's still appealing, is the potential pull-through through – for your core spine products and ultimately as you move into other areas, products along those lines as well. But how should we be thinking about that as this year progresses? Should we expect that you're – we should be seeing more and more pull-through of your core products in addition or with those sites that are using the HOLO platform?
+
+Yeah, absolutely. And that's part of the $1 million to $1.5 million per unit placement that we discussed. It's the sale of the unit, be it lease, fee for use or capital sale, the disposables, and then the pull-through of the hardware as well.
+
+Got it. All right. Thank you very much.
+
+Thank you.
+
+Thank you. At this time, I would like to turn the call back over to management for closing comment.
+
+Thanks, operator, and thanks again for joining us today. We're incredibly excited about the future of Surgalign as we look to continue to bring innovative digital health solutions to the market. We look forward to updating you on our next quarterly call.
+
+Thank you. This does conclude today's teleconference. You may disconnect your lines at this time, and thank you for your participation and have a great day.

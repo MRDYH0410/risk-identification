@@ -1,0 +1,253 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+Marissa Vidaurri — Head-Investor Relations, National Instruments Corp.
+Eric Howard Starkloff — President, Chief Executive Officer & Director, National Instruments Corp.
+Karen M. Rapp — Chief Financial Officer & Treasurer, National Instruments Corp.
+Joseph Cardoso — Analyst, JPMorgan Securities LLC
+John Marchetti — Analyst, Stifel
+Richard Charles Eastman — Analyst, Robert W. Baird & Co., Inc.
+Mehdi Hosseini — Analyst, Susquehanna International Group
+Mark Delaney — Analyst, Goldman Sachs & Co. LLC
+
+Management Discussion Section
+
+Question And Answer Section
+
+Ladies and gentlemen, thank you for standing by, and welcome to the NI's Fourth Quarter 2020 Earnings Conference Call. At this time, all participants are in a listen-only mode. After the speaker presentation, there will be a question-and-answer session. [Operator Instructions] Please be advised that today's conference is being recorded. [Operator Instructions]
+
+I would now like to hand the conference to your speaker today, Marissa Vidaurri, Head of Investor Relations. Please go ahead, ma'am.
+
+Good afternoon. Thank you for joining our Q4 2020 earnings call. I'm joined today by Eric Starkloff, President and Chief Executive Officer; and Karen Rapp, Chief Financial Officer. We will start with an update on our performance in the fourth quarter and for the year before opening up for your questions.
+
+Our discussion today will include forward-looking statements, including statements regarding future growth and profitability, our focus, plans, objectives, strategies, targets, goals, growth rate and other models, commitment, position, estimates, capital allocation plans, dividend, expense management plans, charges, revenue and earnings guidance, operating expense guidance, estimated tax rates, and our outlook.
+
+We wish to caution you that such statements are just predictions, and that actual events or results may differ materially and could be negatively impacted by numerous factors, including any uncertainties related to the COVID-19 pandemic and further economic and market disruptions resulting from COVID-19, any further weakness in the global economy, and changes in the current global trade regulatory environment.
+
+We refer you to the documents that the company files regularly with the Securities and Exchange Commission, including the company's Annual Report on Form 10-K filed on February 20, 2020 and the company's Quarterly Report on Form 10-Q filed on November 2, 2020. These documents contain and identify important factors that could cause our actual results to differ materially from those contained in our forward-looking statements. We assume no duty to update any forward-looking statements to conform the statement to actual results or changes in our expectations. A reconciliation of our non-GAAP financial measures disclosed in this call to the most directly comparable GAAP financial measures or related disclosures are contained in our press release and on ni.com/nati.
+
+Non-GAAP revenue is defined as GAAP revenue adjusted to exclude the impact of purchase accounting fair value adjustment. Also, when we're referencing China in this presentation, unless otherwise stated, we mean China plus Hong Kong. And lastly, a reminder that NI management will be hosting meetings at the Goldman Sachs Technology Conference next month. Please visit ni.com/nati for presentation time.
+
+With that, I will turn the call over to Chief Executive Officer, Eric Starkloff.
+
+Thank you, Marissa. Good afternoon and I appreciate everyone joining us today and I hope that you and your families are doing well and staying safe. I am very proud of our execution in the fourth quarter and a strong close to a challenging year. Revenue in the fourth quarter exceeded the high end of guidance and was an all-time record for quarterly revenue. We saw positive sequential and year-over-year order growth across all regions and orders across all business units were up sequentially. Being a leader in our space and transforming the business requires bold moves. We've been transforming NI by strengthening our commitment to innovation, building upon our strong position in software to additional data and analytics, focusing on systems to increase our share of wallet, monetizing services to enhance the support of our systems and streamlining our processes to gain leverage and scale with our broad-based customers.
+
+2020 was a stress test for our strategy and it proved to be strong. The areas where we are focused showed strength and our momentum increased throughout the year. We remain committed to our three-year financial model and the momentum seen in Q4 brings me additional confidence as we enter the new year. We will remain focused on accelerating our strategy for growth, executing on our business goals, winning in our markets, and delivering increased value to all stakeholders.
+
+A part of our strategy is to build on our existing strength in software and to increase our software revenue from approximately 20% of our total revenue today to 30% or more by 2025, shifting towards primarily recurring or subscription-based software. We believe our long term growth will be accelerated by the elevation of our software position through new offerings particularly at the enterprise level. In Q4, we saw growth in software revenue up sequentially and up year-over-year with continued strong growth in enterprise agreements which grew 24% year-over-year.
+
+We continue to focus on expanding our system level offerings to provide a higher level starting point for our customers and increase our share of wallet. This also provides us an opportunity to monetize our recurring services. As we have elevated our engagements with customers to meet these needs, we have continued to invest in experienced sales and support staff, significant growth in our largest accounts, our orders over $20,000 and our opportunity pipeline are all the result of these investments. Our orders over $20,000 grew year-over-year and sequentially in Q4 and represented approximately 67% of our orders in value.
+
+Semiconductor is the most mature of our focus areas and where our system offerings have been most successful. And we believe this system success can be replicated across the business to accelerate growth.
+
+Now, turning to our results by industry. Semiconductor represented approximately 17% of total revenue in 2020. Semiconductor orders were up double digits year-over-year in Q4 and up sequentially from Q3, 2020 representing a record year.
+
+Despite China's geopolitical and trade tensions, the semiconductor market in China was strong and a driver of growth. We are seeing increased adoption of our RF test capability as a result of 5G, including new production tests and lab wins at key semiconductor accounts. With the addition of OptimalPlus, we can now leverage this technology as the underlying platform for our new connected lifecycle and analytic solution, focused on supporting our customers' needs throughout their product development flow using software and data.
+
+There are commonalities in the supply chains of our semiconductor and electronics customers. Therefore, starting in Q1 of 2021, we are shifting our electronics business from the portfolio BU to create the semiconductor and electronics BU. Transportation represented approximately 13% of total revenue in 2020. Transportation orders were down low-single digits year-over-year in Q4. Despite headwinds from continued COVID-19 shutdowns particularly in Europe, we began to see positive impacts from recovery in vehicle production in the fourth quarter.
+
+Total orders were up mid-double digits sequentially with strong momentum in all regions. We believe the vehicle production recovery will serve as a tailwind to our business in addition to fueling increased investments in key trends of electrification and active safety systems where we continue to see strong growth. These areas of focus for NI saw strong double-digit revenue growth year-over-year in Q4 and high-single-digit revenue growth year-over-year in 2020 despite the challenging headwinds in this industry. To continue success in these high growth trends, we recently announced a strategic agreement with Konrad Technologies, an expert in systems integration and solution delivery for ADAS test. Together, we plan to deliver new technologies to help automotive suppliers and OEMs leverage massive amounts of real-world data, which can better help our customers improve vehicle and passenger safety as the shift to autonomous driving accelerates.
+
+Aerospace, defense and government or ADG represented approximately 26% of total revenue in 2020. ADG orders were up double digits year-over-year in Q4 and sequentially with growth across all three regions. We continue to capitalize on a relatively steady spending environment particularly in the US and expect it to continue to be robust in 2021. In addition, we believe our recently announced strategic collaborations with SET and Tech180, experts in aerospace and defense test systems, will help accelerate our ability to deliver solution-level value for customers in this space.
+
+Portfolio represented approximately 44% of total revenue in 2020. In Q4, orders in our Portfolio Business were up low-single digits year-over-year and up double digits sequentially supported by the recent recovery in the global economy. This represents the highest year-over-year order growth for our Portfolio Business in nine quarters. We believe this is indicative of the strengthening macro economy as well as traction in key growth initiatives we focused on in 2020.
+
+A key part of that focus is to continue to drive scale and efficiency in serving our broad-based customers. Our strategy to streamline the process of doing business with NI means both reducing our costs and improving the experience for the large number of smaller accounts we serve. We believe redirecting these customers to a more self-service model is better scaled for their needs. This will require continued investments in ni.com and the increased use of distribution partners to expand reach to current and new customers. We believe this shift will maximize the value of our experienced direct sales force and allow them to continue to focus on proactive engagements with accounts where we can deliver enterprise-level value through software and systems.
+
+This month Farnell, an Avnet company and global distributor of electronic components and solutions, joined our expanding network of distributors. Their product portfolio will now include NI software-connected test and measurement solutions. Farnell offers direct sales and technical support globally and we are excited about the value their scale and capability brings to our customers.
+
+Now, I'd like to shift to an organization update. Carla Piñeyro Sublett, NI's CMO and GM of our Portfolio Business will be leaving NI to pursue the role of CMO of IBM next month. This next step in her career reflects not only her individual contributions and leadership capabilities but also the incredible work of her teams. She led the marketing organization to a brand refresh and modernization and most recently, partnered with the Portfolio leadership team to bring a fresh perspective to our focus and opportunity in this portion of our business. I'm confident in the ability of the strong leadership team that succeeds Carla.
+
+To ensure focus on the most critical areas of our business, increased agility and clear accountability to drive growth and profitability, I'm making additional changes to my executive leadership team effective immediately.
+
+Ritu Favre will be promoted to Executive Vice President overseeing our Transportation and Aerospace, Defense and Government business units in addition to her current role leading the Semiconductor and Electronics business. These will each remain separate business units. As a seasoned high-tech industry leader and previous CEO of a public company, she is the ideal leader to drive these businesses forward for long-term growth.
+
+In addition, Jason Green will be promoted to Executive Vice President and Chief Revenue Officer, overseeing our sales and marketing teams as well as our Portfolio Business unit. The focus to unlock the synergies between sales and marketing and our Portfolio Business as well as driving the changes in our go-to-market approach for our broad-based customers aligns well with Jason's keen understanding of our customers and his focus on driving return on investment. I look forward to partnering with them both as we look to accelerate growth and win in the market.
+
+With that, I'd like to turn the call over to our Chief Financial Officer, Karen Rapp, before closing with a few comments.
+
+Thanks, Eric. Hello, everyone. Thanks for joining us today. As you heard from Eric, we ended the year strong with momentum going into 2021. For Q4, we reported GAAP revenue of $368 million, a record third quarter and above the high end of guidance shared on October 29, 2020. We also saw a record quarterly non-GAAP revenue of $370 million, up 20% sequentially.
+
+For the full year 2020, I am pleased to announce that we achieved the targets we shared at our investor conference in August. Revenue was $1.3 billion, down 5% year-over-year and in-line with our expectations. Our 2020 non-GAAP gross margin was 75% and non-GAAP operating margin was 15.7%, ahead of the model we shared in August and up 170 basis points from 2017 when we had similar revenue demonstrating the focus we have had on driving efficiency and our cost structure.
+
+In the fourth quarter, total orders were up 7% year-over-year. Orders under $20,000 were down 4% year-over-year and up 12% sequentially, which aligned with our expectations of Q3 being the low point of the recession. Orders over $20,000 were up 13% year-over-year and up 41% sequentially, continuing to demonstrate the success of our strategy to provide higher level solutions for our customers through systems and software.
+
+We reported positive sequential and year-over-year order growth across all regions. In the Americas, orders were up 7% year-over-year. Orders in EMEA were up 2% year-over-year and orders in Asia Pacific were up 10% year-over-year.
+
+Despite the previously discussed headwinds, orders were up 19% year-over-year in China, driven by an increase in government stimulus and our focus on the growing number of semiconductor customers in this fragmented market.
+
+Non-GAAP gross margin in Q4 was 74.2%. We continue to see about 60 basis points of impact from additional costs related to COVID-19. Services has been an accretive growth area for us, and we will continue to focus on monetizing the services we provide and leveraging our services expertise to drive high value system sales. This operational change shifted approximately $3 million from operating expenses to cost of goods sold in Q4 on a year-over-year basis but had no impact on our operating margin.
+
+Non-GAAP gross margin was 74.6% in 2020, continuing to demonstrate the value of our brands and the benefits our platform and systems provide to our customers. We reported Q4 2020 GAAP net income of $4.7 million and diluted earnings per share of $0.04 per share, just above the midpoint of our guidance shared on October 29, 2020.
+
+GAAP earnings per share includes higher restructuring charges than previously expected primarily due to the acceleration of exit timing in some locations. Q4 non-GAAP net income was $67 million and diluted non-GAAP earnings per share was $0.51, exceeding the high end of our previous guidance.
+
+Our balance sheet remained strong. We ended the quarter with $320 million in cash and investments and $221 million in net cash after debt. For the year, our cash flow from operations was $181 million, representing 14% of revenue. I believe this consistent and solid result demonstrates the benefit of the diversity and resiliency of our business model.
+
+Our capital allocation priorities remain clear and unchanged. We plan to continue to invest in innovation and technology to stay ahead of the needs of our customers and deliver a world-class customer experience. Dividends remain a priority. In Q4, we paid $34 million in dividends. The NI board of directors approved the dividend of $0.27 per share payable on March 1, 2021 to stockholders of record on February 8, 2021. This represents an increase of 4% per share. We will continue to be opportunistic with share repurchases. In the fourth quarter, we returned $9.5 million to shareholders through repurchases of 275,000 shares of our common stock at an average price of $34.39 per share. Shareholder returns in the form of dividends and share repurchase totaled $185 million in 2020.
+
+We view our strong cash position as not only a way to provide returns for our shareholders through dividends and opportunistic share repurchase but also for strategic investments for long-term growth and stability. Our M&A funnel is focused on opportunities aligned to our strategy where we can leverage additional technologies across the business and acquire industry-specific technology or expertise, both serving the strategic accelerators to help us achieve our 2023 financial model faster.
+
+We're pleased with the efficiency and progress of the OptimalPlus integration. The synergy with our strategy, technology, and industries of focus is clear. A priority of the acquisition was to accelerate our opportunity in the enterprise-level product analytics. We've aligned our technology roadmaps to leverage the OptimalPlus platform. We're already seeing new and expanded sales opportunities for OptimalPlus products and our new combined offerings.
+
+We have integrated operations across the company to help drive efficiency and support revenue growth as this business scales up in 2021 and beyond. As mentioned last quarter, because the OptimalPlus technology will be integrated within the NI platform and channel and the revised offerings will combine NI and OptimalPlus technology, we do not intend to break out financial details specific to OptimalPlus.
+
+Now for additional color on the shift of our electronics business. In 2020, electronics represented approximately 8% of total revenue. The growth for electronics is not expected to be as high as our semiconductor business but we remain committed to the long-term growth targets shared at our August investor conference.
+
+Shifting to a view of 2021, we previously modeled Q3 2020 as the trough of the recession, and we're encouraged by the sequential improvement and strong Q4 results as we enter Q1.
+
+2021 to-date we continue to see year-over-year bookings growth across all business units with an especially strong start to the year in Asia Pacific and a more challenging environment in EMEA.
+
+As Eric mentioned, we've been transforming our business for scale and to reach our full potential in the market. Innovation continues to be a top priority with our indie investments aligned to systems and enterprise software. We continue to focus on our investments on higher growth opportunities where we believe our leadership in software, product analytics, and automation is highly differentiated.
+
+Our shift in strategy requires strategic investment, some of which has been self-funded through efficiency gains, utilizing shared service centers, centers of excellence, and low-cost geographies, and restructuring to better align resources to the most critical areas of our business for long-term success.
+
+Other investments include areas like IT infrastructure to support selling complete systems, support of a distribution model for our broad-based customers, and investment in e-commerce to enable and enhance digital and self-service experience for all our customers. We're also building a higher performing culture with a focus on retaining our top talent and recruiting external expertise where needed to accelerate our strategy.
+
+As we look forward, we remain committed to our long-term financial model targets and believe our goal of delivering a consistent compound annual growth rate of 9% revenue growth with 20% operating margin by 2023 would serve as a proof point to the value received With 20% operating margin by 2023 we serve as a proof point to the value received from these investments.
+
+Now on to guidance, for the first quarter of 2021, we currently expect GAAP revenues to be in the range of $324 million to $354 million. We expect total non-GAAP revenue, which adjusts for the impact of purchase accounting and fair value adjustments to be in the range of $325 million to $355 million. At the midpoint, this represents 10% year-over-year revenue growth versus Q1 2020. We're cautiously optimistic as we look forward, but we recognize that the recovery from a global pandemic may lead to different seasonality than we experienced normally.
+
+The test of measurement space tends to grow at approximately the rate of GDP, which is currently estimated at approximately 5% for 2021 according to the IMF World Economic Outlook survey. We believe that we can grow beyond this GDP estimate in 2021. We expect Q1 GAAP operating expenses to be down approximately 4% sequentially and up approximately 10% year-over-year. We expect Q1 non-GAAP operating expenses to be up approximately 5% from Q4 2020 due to currency headwinds and plans for increased variable pay to employees in 2021. Also due to the pandemic, we delayed merit increases from Q4 2020 to Q1 2021.
+
+We expect Q1 non-GAAP operating expenses to be up approximately 6% year-over-year. The year-over-year increases are also driven by the addition of OptimalPlus. We expect GAAP diluted earnings per share will be in the range of minus $0.05 to $0.09 for Q1 with non-GAAP diluted earnings per share expected to be in the range of $0.24 to $0.38, an increase of 20% year-over-year at the midpoint. For Q1, GAAP earnings per share guidance includes pre-tax charges of approximately $0.05 of final one-time integration charges related to the OptimalPlus acquisition and $0.05 for remaining restructuring charges from our Q4 restructuring announcement. We expect minimal additional restructuring charges for the remainder of 2021.
+
+In summary, we delivered record Q4 revenue and closed the year strong. This is a testament to the hard work and adaptability of all our employees globally. I believe this is also indicative of the stability provided by our broad customer base and industry diversity, the value customers see in our innovative platform, and the strength of our operational efficiency. We will continue to align resources to what we believe are higher growth opportunities while working to reduce costs in pursuit of our long-term financial model. And we believe our strong balance sheet puts us in a position of strength to capitalize on inorganic investments to help accelerate growth.
+
+Now I'd like to turn the call back over to Eric for some closing comments.
+
+Thank you, Karen. Reflecting on the challenges of 2020, I'm extremely proud of our ability to adapt and remain focused on our long-term potential while executing in the short term during circumstances no one could have predicted. The areas of our business we have focused on strategically showed growth. And though the global economy proved to be a headwind, we continue to see stability across our business. I believe this is proof that our strategy is working. As we've seen all too vividly in the past year, the work of our customers drives critical, often life-changing innovations. I believe we have a tremendous opportunity in front of us to improve that work to help them bring their products to market faster with more efficiency and better quality.
+
+Although the market remains dynamic, I am optimistic and believe we entered 2021 poised to accelerate growth. I firmly believe that when we as a business unite towards a common goal, we will be well-positioned to meet or exceed those expectations. We achieved the 2020 financial targets shared at our investor conference in August and we remain committed to our 2023 financial model.
+
+We have and will take a broad range of actions to accelerate growth. We will continue to hire critical expertise, make investments aligned to our 4S strategy, and continue to view our strong balance sheet as a way to leverage inorganic investments as strategic accelerators to help us achieve our growth targets faster and across a broader range of customers.
+
+We also believe that doing good is good for our business. Early next month we will release our first-ever corporate impact strategy report that outlines how we'll drive the positive change NI and our customers can create in the world. It includes important goals and focus areas to guide our work and will measure our progress towards creating a more sustainable, equitable, and inclusive world, and it will embody our mantra of engineer ambitiously.
+
+And finally, I want to recognize all of our global employees for your resiliency in an extraordinary year. I challenged you all to come through this environment stronger, and that's exactly what you did. I'm immensely proud of the work you have done together and your support of the incredible work of our customers. I look forward to what's in store for the coming year and the opportunity to work alongside all of you to make it happen.
+
+With that, we'll now take your questions.
+
+Thank you. [Operator Instructions] Our first question comes from Samik Chatterjee with JPMorgan. Your line is now open.
+
+Hi, guys. This is Joe Cardoso on for Samik. Thanks for taking my question. My first question is around the Portfolio Business. So I guess what I'm trying to understand is the strategic actions that you guys referenced, can you kind of dive into what strategic actions you've taken thus far and what other actions you guys have to take going further in the future. And then I guess my second question is just around operating expenses taking a big jump in 1Q. Just trying to understand how we should think about OpEx trending through the remainder of the year as it relates to typical seasonality?
+
+Sure. Joe, I'm going to take the first one and then Karen is going to take the second one. So Portfolio BU, yeah, the way I think of that is as I mentioned to the nearest term is that that business has been pretty correlated to economic indices. So I commented on that in the prepared remarks. And certainly we've seen improvement with Q4 going into positive territory for the first time in nine quarters and that continuing into Q1 so far.
+
+In terms of the actions we're taking, first and foremost is really about the go-to-market motions with that business unit. It's got a very broad set of customers, and we see opportunity to improve the efficiency and the effectiveness of our sales and marketing channel. And so things that we're doing in terms of our website with ni.com, with the distribution actions we're taking, have a disproportionate impact on that Portfolio BU. So that's a big focus in the shorter term.
+
+Now in the longer term, we're also working on things that we will do to essentially make the products fit better into those channels, if you will. So these are incremental improvements to our products to improve their ease of use, to make them easier to buy, easier to use, easier to support. And we see increased opportunity in our software position in that space and through more subscription-based models in the way that we serve those set of users. And, Karen...
+
+Yeah. For the operating expense, yes, the way to maybe think about that is 2020 was a pretty unique year. As I build that model, I would go back and look at 2019 and the profile of operating expense across the quarters in 2019 to build out a 2021 model that looks more like a normal type of year. Now that assumes that 2021 is going to return to a normal type of year. But that's how I'm looking at it at this point for the year.
+
+Got it. And if I could just throw one clarification on the profile question, just to confirm, in your guys' strategic decisions, you're not looking in terms of walking away from any markets that you might see more moderate growth there?
+
+No. No, this is an important part of the business. It's pretty tied in from a product to platform point of view with the rest of the company. So it's really about how we most efficiently serve those customers and how do we make incremental investments that will improve the growth opportunity over time. That's the focus. Thanks, Joe.
+
+Got it. Thanks for the insight.
+
+Thank you. Our next question comes from John Marchetti with Stifel. Your line is now open.
+
+Thanks very much. Eric, I was wondering if you could comment for a minute on bringing the electronics business into that semiconductor segment. That's obviously been a growth engine for the company for a while now in semiconductor and I've always thought of that as a fairly close knit group of customers that you were very, very closely aligned with in terms of you know how you are bringing product to market and meeting those needs there. I'm curious as you bring the electronics piece in which obviously is growing slower as well, what are some of kind of the puts and takes that we should be thinking about and if that really significantly broadens out the customer base that that segment now reaches?
+
+Sure. Good question, John. So, yeah, let me describe a little bit of the logic of, of the synergies between them. So first and foremost, the actual measurement challenges and test challenges have a lot of synergy between electronics and semiconductors, the same type of measurements that are done. So we see alignment there.
+
+And then alignment in sort of the way we serve those customers from a sales and support point of view. You're right that it's a bit broader set of customers. There's a larger number of customers in electronics. It's been growing but not growing as fast. But the other trend that leads us to that is that you see a lot of the larger electronics companies doing more their semiconductor in-house. So there actually is some synergy and overlap that comes from the way that we're serving those accounts.
+
+And then on the other side of the equation, if you will, it does make our Portfolio BU more of a pure-play to the broad base, and we think that kind of hones in and focuses our strategy a bit more in the ways that I just described to Joe in the last question.
+
+Got it. Okay. And then if I can just follow up very quickly on the semiconductor business overall, it sounded like China in particular outperformed expectations from a quarter ago. And I'm curious as you're looking for where you're standing now and into 2021 how you think that China piece of the semiconductor business continues to perform.
+
+Yeah. So as we mentioned, China performed very well overall in Q4 at 19% growth and we've seen continued strength in Q1 and to-date in APAC overall. And semi is a big piece of that. Now there is a lot of moving pieces, to be honest, in terms of China. As we've highlighted in the past, we have we had trade tensions and restrictions, but then there's also an economic recovery really taking hold in APAC. And in China, there is a stimulus that's going on which does affect semiconductor as well. So there is a large investment in new semiconductor companies in China that we think is a tailwind certainly right now and going forward. And then really proud of the execution of our teams. So it's been a dynamic environment and certainly they've had to adjust a lot of change. And one of the areas in particular is in the semiconductor space, the work that we've done to position ourselves with the literally thousands of semiconductor start-ups that have emerged in China that need software-connected test equipment and so forth. So I'm really proud of the execution of the teams there as well.
+
+Thanks very much.
+
+Thanks, John.
+
+Thank you. Our next question comes from Richard Eastman with Baird. Your line is now open.
+
+Yes. Thank you. John or Karen, could you just reconcile for a minute, we talked a little bit about the portfolio of products business, and I think the reference was order growth was low-single digits year-over-year. And when I look at the order growth in orders under $20,000, looks like maybe that was down 4% year-over-year. Is there something to reconcile there? I think the portfolio of products is falling into that category, but there's a pretty big delta there between maybe the low-single-digit growth and minus 4% that was reflected. Am I not doing the right math here? Yeah, hi, Karen.
+
+Yeah, there's actually – the orders under $20,000 go across all of our business units. So our Portfolio has the highest percentage of them. Portfolio also has a significant piece of the orders over $20,000. So you can't correlate them exactly like that because every one of the business is now – I think we've laid that out – we've got some of that information previously, but semiconductor has the least amount of the under 20,000 business, transportation and ADG have similar amounts kind of in the 40% or so, and then Portfolio was the higher percent, 50-ish percent or so of the under 20,000 business. I'd have to go back and get the exact numbers for you on that, Rick.
+
+Okay. Okay. But...
+
+Rick, I'll also comment that exactly what Karen said, certainly we did see a lot of sequential improvement on both order sizes, right, so the under 20,000 business improved significantly sequentially. So that did reflect in Portfolio BU, but as she said, there's also over 20,000 business which obviously grew and put it in the positive territory.
+
+I see. Okay. Okay. Fair enough. So, Eric, so order cadence through January, is that kind of support that midpoint revenue growth because again in your orders you have some software, some deferred revenue there. It doesn't all fast turns, quick turns type stuff. But just curious, is the midpoint supported by the book and ship or the order cadence through January?
+
+Yeah. Rick, if it's okay, I'll take that one. The guidance actually builds in the expectation that we do plan to build some backlog in Q1. You may have seen in some of the other companies that you're following there's some supply constraints right now going on across the supply chain. And so we've lived through this before where we can mitigate a lot of that with the inventory position that we hold, but there's potential to be one or two components we aren't able to get or lead times push out and they push out beyond the quarter. So we have got some expected backlog build into the guidance specifically on the hardware side in that case.
+
+Okay. Okay. And then just my last question here. As we look at maybe the adjusted op profit for 2021, again given how we finished 2020, the 2023 maybe plan, the business plan or at least the goals there would suggest if you straight line the trajectory towards the goal there for 2023, it would suggest that maybe the target for adjusted op profit is somewhere in the 16% to 17% range. And again, there's going to be a lot of flex here with how revenue turns out, so I totally understand that. But is that still – kind of midpoint being 16.5%, is that still maybe a realistic goal here as we move towards our 2023 target?
+
+Specifically, Rick, 2021. You're talking beyond Q1 now, right, as you're looking out for the full year.
+
+Yeah, I'm just talking for the full year. That would be in the range if we look at the trajectory towards 2023's adjusted op profit goal that you laid out. And if I just straight line the improvement off of 2020, I'm going to end up with about 1.5 points of adjusted op profit margin. And it would seem that again at least with a first quarter start of 10% sales growth at the midpoint, that maybe that's a realistic way to think of a target for 2021?
+
+Yeah. The Q1 guide, for example, increases operating income year-over-year for the quarter for Q1. So I think you can kind of build out a model that does that throughout the rest of the year depending on, as you said, it's going to determine -- it's going to be determined by what revenue does for the year. But, yeah, I mean our expectation is to continue to build toward that 20%. And we talk about it -- we're committed to that model and a lot of what we're focused on is how to accelerate that model. So we'll be working towards getting there faster than 2023 if possible.
+
+Okay. Okay.
+
+Yeah. Just one other comment on that thread, Rick, certainly, as you noted coming in Q1, the midpoint of the guidance is 10% revenue growth, 20% earnings growth. That's building confidence, frankly, in the three-year model and our ability to hit the commitments that we've shared.
+
+And if just – if I draw that – again, just draw the trajectory here, if we look at what would be typical seasonality in a non-2020 year, again, we should get -- we should build off the 10% revenue growth at least I would think in Q2, Q3. Just these are the pothole that we're passing over there and your current order momentum, is that a reasonable expectation?
+
+Yeah. It's hard to look out even that far at this point, right?
+
+Yeah.
+
+This is a new experience coming off a pandemic like this that still isn't honestly over. But I'm a little hesitant on the normal seasonality at this point especially Q4 will be a tougher compare for sure after the strength we saw coming out of the end of 2020. I'm just encouraged by the starting point to 2021.
+
+Sure. Okay. All right. Yeah. As am I with the guidance.
+
+Yeah.
+
+Hey. And this is the last I promise. Eric, the strategic partnerships that we've been kind of tracking here over the last, literally, almost few months and certainly the fourth quarter, you have this autonomous driving one with Konrad, you have a semiconductor with Soliton, this A&D with SET. Maybe just a couple thoughts on this, does this bring in some systems and solutions capabilities? Is this kind of a buy your partnership versus build internally? And given that these are already NI partners, how do we accelerate the growth with these partnerships in solutions in semi, A&D, and autonomous driving?
+
+Yeah. Rick, you're thinking of it right. I mean, this is really about, first and foremost in our strategy, identifying the secular growth trends that we're focused on to deliver these higher level capabilities. And then it really is where can we utilize the existing partnerships or even new partnerships and really build – when we talk about these strategic ones that I highlighted, it is a coordinated sort of development and go-to-market of some specific technology around systems that serve those areas of focus. So it is a way to accelerate delivery of those systems and solutions into the areas where we're focused exactly what it is.
+
+Okay. Okay. All right. Great. Thank you.
+
+Thanks, Rick.
+
+Thanks, Rick.
+
+Thank you. Our next question comes from Mehdi Hosseini with SIG. Your line is now open.
+
+Yes. Thanks for taking my question. When I look at your product revenue and compare it to software, it seems like software is gaining momentum especially as you capitalize on OptimalPlus acquisition. But I still need some additional color as to how to think about the mix as you scale OptimalPlus, should we expect software revenue to continue to outperform product or would there be additional opportunity that you can capitalize on? And in that context, how should I think about the mix for 2021 compared to 2020? And I have a follow-up.
+
+Okay. Mehdi, how are you doing out there? So, yeah, so software, as I've said, it's a very strategic part of the business. We view it as building on an existing strength. And we do expect that to be a higher percentage of mix over the next several years. We've laid out a pretty long term goal of the sort of five-year trajectory, 30% of revenue. And that's, of course, also assuming the top line is growing overall. It is influenced certainly by OptimalPlus. It's not only OptimalPlus, we have a number of different organic investments as well of building out new offerings in our software capability. We see those gaining traction and have expectations that that will be a higher percentage over time.
+
+Sure. Okay. And then one follow-up. I remember the last time we were at your user group, ADAS was a growth driver – a long-term growth driver. And since then, the whole evolution of electric vehicle, which I think is a driver behind ADAS, has taken off. And now, there is more of a organized effort with other industry to migrate that way. And I'm trying to reconcile that with benefits to NI. Is this something that we still have to wait? Is it more like a part of a five-year target or are you beginning to see incremental benefit?
+
+Yeah. Good question. So we're seeing significant growth in both electrification and active safety or ADAS. Those are the two main growth drivers or focus areas within our transportation area. They grew in 2020 despite the headwinds in the industry. And it is our expectation that they will grow and be a bigger part of the mix. We are bullish on the long-term opportunity in transportation for that reason. We view this as kind of early innings of what's going to be a sea change in that industry. You may have seen today GM announced that by 2035 they will only have zero emissions vehicles. This is going to be a significant change and that level of technology change requires this sort of software-centric approach that we provide. It requires significant amounts of testing and validation. And we think that that's going to be an opportunity for years to come. And so, we are focused in this timeframe in 2021 on wins and sockets of our test platform in those opportunities.
+
+Got it. And just one final question from me, it's going to go back to the change in management or leadership. I joined the call as you were discussing it, are those changes driven by market dynamics or is that just fine-tuning the teams? I think it's been a little bit more than a year since you took the leadership. And I'm just trying to see how you're managing different portfolios of products and services and markets, and how you're recalibrating. And is that reflected in the change in management?
+
+Sure, sure. So I got three days until my one year anniversary comes up. It's getting close. So, yes, these are sort of incremental moves on my leadership team. And they're reflective of a couple of things. One is, as I mentioned with Portfolio, on one hand, there's the continuity of strategy, we have been doing a lot of work with the existing leadership team, focusing on some of the areas that I discussed in the beginning of the Q&A. And then I see an opportunity in aligning that with pretty closely with our marketing and sales organization. I described that as the sort of nearest term lever. And so combining that under Jason's leadership makes sense from an execution and driving the performance.
+
+And then Ritu, I brought her into the organization a few years ago. As I mentioned, she has significant external expertise including at the CEO level and has been quite successful in leading our semiconductor business, which has been a strong performer. And that's an opportunity for her to expand her leadership role as we see similar opportunities to scale our strategy at systems and customer intimacy and focusing on these end market opportunities in transportation and ADG. And as our strategy matures there, she'll be able to accelerate that.
+
+Got it. Thank you.
+
+Thanks, Mehdi.
+
+Thank you. Our question comes from Mark Delaney with Goldman Sachs. Your line is now open.
+
+Yes. Thanks very much for taking the questions. I want to start first with the semiconductor business and given some of the supply demand constraints that are impacting the semiconductor industry. I'm wondering if there's an opportunity for NI to benefit by -- and help to alleviate the situation by selling more test equipment and perhaps increase semiconductor industry output. So, is that something you think is an opportunity for the company? And if so, is that something you're already benefiting from this quarter or is that something that -- in the current March quarter or is it something that perhaps is later in 2021?
+
+Sure, Mark. Yeah. We think – look, we think semiconductor is clearly in an upcycle and that's good for the business that's reflected in Q4 but also in early Q1. The other kind of under the hood some other things that are helpful for that business, part of that recovery economically, the mixed signal and analog part of the business that we serve is healthy. 5G, we expect to be – it was a growth driver in 2020, we expect it to be a growth drive in 2021. And then I shared a bit of the commentary about China and about the investments in semiconductor supply chain and test equipment. So, those are benefits. And then really it's our own execution. It's the strategy that we've put in place to have more system-level capability in software and services in that space. And we just see that gaining traction. So, those were the positives driving the semiconductor business and why we have an expectation for it to continue to grow and to meet the three-year growth targets that we shared previously.
+
+That's helpful. Thanks. And for a follow-up question on software and the company's goal to get to 30% of revenue from software or more by 2025, is that a percentage do you think you can achieve organically or do you think you need to do additional M&A in order to get to that type of software mix and then perhaps not so specific to 2021, but if you could help us think a little bit more generally about the linearity of going from 20% to 30% or more, is it something that you expect to be relatively consistent over time or more about backend-weighted as you think about that mix increasing? Thank you.
+
+Sure. So, as we said, we will look to inorganic opportunities as strategy accelerators across our strategies, [indiscernible] (49:00) software, but inclusive of the other areas as well. We're also investing significantly in our own capability. As Karen mentioned, we've got this new jewel and the capabilities in OptimalPlus platform that we're building on and integrating and we see opportunity to extend that in different ways both technically and through the channel. And so those are all opportunities that play into our view of our software opportunity over the coming years. We've set out a five-year goal. It's our intent to report over time about the progress on that goal as we go through the next few years.
+
+Thank you.
+
+Thank you, Mark.
+
+Thank you. I'm not showing any further questions at this time. I would now like to turn the call back over to Eric Starkloff for closing remarks.
+
+Okay. Thank you all very much for your time. Thanks for joining us today. Have a great rest of your day and stay safe.
+
+Ladies and gentlemen, this concludes today's conference call. Thank you for participating. You may now disconnect.

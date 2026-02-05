@@ -1,0 +1,100 @@
+nohup: ignoring input
+[Paths]
+  IN_DIR : /home/ubuntu/project/identification/output
+  OUT_DIR: /home/ubuntu/project/predict/output
+  LOG_DIR: /home/ubuntu/project/predict/output/logs
+  VERIF  : /home/ubuntu/project/predict/output/verification
+  A_MIJ  : /home/ubuntu/project/identification/output/a_mij__sentence_ctx.csv
+  SENT   : /home/ubuntu/project/identification/output/sentences_scored_llm_ctx.csv
+[JSON]  /home/ubuntu/project/predict/output/logs/selfcheck_inputs.json
+[SELF-CHECK][inputs] {'a_mij_company_count': 192, 'sentences_company_count_total': 192, 'sentences_company_count_by_z': {1: 81, 2: 95, 3: 16}, 'companies_intersection': 192, 'companies_union': 192}
+[WRITE] /home/ubuntu/project/predict/output/logs/a_mij_clean.csv rows=3528
+[WRITE] /home/ubuntu/project/predict/output/logs/s_ijz_pool.csv rows=144
+[WRITE] /home/ubuntu/project/predict/output/logs/s_m_ijz_agg.csv rows=34300
+[WRITE] /home/ubuntu/project/predict/output/logs/labels_y.csv rows=192
+[WRITE] /home/ubuntu/project/predict/output/logs/fijz_logratio.csv rows=144
+[WRITE] /home/ubuntu/project/predict/output/logs/features_X_base.csv rows=192
+[WRITE] /home/ubuntu/project/predict/output/logs/features_prior.csv rows=192
+[WRITE] /home/ubuntu/project/predict/output/logs/features_full.csv rows=192
+[JSON]  /home/ubuntu/project/predict/output/logs/split_meta.json
+[SPLIT] train=154 companies, val=38 companies
+/home/ubuntu/.local/lib/python3.10/site-packages/sklearn/linear_model/_logistic.py:1272: FutureWarning: 'multi_class' was deprecated in version 1.5 and will be removed in 1.8. From then on, it will always use 'multinomial'. Leave it to its default value to avoid this warning.
+  warnings.warn(
+/home/ubuntu/.local/lib/python3.10/site-packages/sklearn/linear_model/_logistic.py:1272: FutureWarning: 'multi_class' was deprecated in version 1.5 and will be removed in 1.8. From then on, it will always use 'multinomial'. Leave it to its default value to avoid this warning.
+  warnings.warn(
+/home/ubuntu/.local/lib/python3.10/site-packages/sklearn/linear_model/_logistic.py:1272: FutureWarning: 'multi_class' was deprecated in version 1.5 and will be removed in 1.8. From then on, it will always use 'multinomial'. Leave it to its default value to avoid this warning.
+  warnings.warn(
+/home/ubuntu/.local/lib/python3.10/site-packages/sklearn/linear_model/_logistic.py:1272: FutureWarning: 'multi_class' was deprecated in version 1.5 and will be removed in 1.8. From then on, it will always use 'multinomial'. Leave it to its default value to avoid this warning.
+  warnings.warn(
+/home/ubuntu/.local/lib/python3.10/site-packages/sklearn/linear_model/_logistic.py:1272: FutureWarning: 'multi_class' was deprecated in version 1.5 and will be removed in 1.8. From then on, it will always use 'multinomial'. Leave it to its default value to avoid this warning.
+  warnings.warn(
+/home/ubuntu/.local/lib/python3.10/site-packages/sklearn/linear_model/_logistic.py:1272: FutureWarning: 'multi_class' was deprecated in version 1.5 and will be removed in 1.8. From then on, it will always use 'multinomial'. Leave it to its default value to avoid this warning.
+  warnings.warn(
+/home/ubuntu/.local/lib/python3.10/site-packages/sklearn/linear_model/_logistic.py:1272: FutureWarning: 'multi_class' was deprecated in version 1.5 and will be removed in 1.8. From then on, it will always use 'multinomial'. Leave it to its default value to avoid this warning.
+  warnings.warn(
+/home/ubuntu/.local/lib/python3.10/site-packages/sklearn/linear_model/_logistic.py:1272: FutureWarning: 'multi_class' was deprecated in version 1.5 and will be removed in 1.8. From then on, it will always use 'multinomial'. Leave it to its default value to avoid this warning.
+  warnings.warn(
+/home/ubuntu/.local/lib/python3.10/site-packages/sklearn/linear_model/_logistic.py:1272: FutureWarning: 'multi_class' was deprecated in version 1.5 and will be removed in 1.8. From then on, it will always use 'multinomial'. Leave it to its default value to avoid this warning.
+  warnings.warn(
+/home/ubuntu/.local/lib/python3.10/site-packages/sklearn/linear_model/_logistic.py:1272: FutureWarning: 'multi_class' was deprecated in version 1.5 and will be removed in 1.8. From then on, it will always use 'multinomial'. Leave it to its default value to avoid this warning.
+  warnings.warn(
+/home/ubuntu/.local/lib/python3.10/site-packages/sklearn/linear_model/_logistic.py:1272: FutureWarning: 'multi_class' was deprecated in version 1.5 and will be removed in 1.8. From then on, it will always use 'multinomial'. Leave it to its default value to avoid this warning.
+  warnings.warn(
+/home/ubuntu/.local/lib/python3.10/site-packages/sklearn/linear_model/_logistic.py:1272: FutureWarning: 'multi_class' was deprecated in version 1.5 and will be removed in 1.8. From then on, it will always use 'multinomial'. Leave it to its default value to avoid this warning.
+  warnings.warn(
+/home/ubuntu/.local/lib/python3.10/site-packages/sklearn/linear_model/_logistic.py:1272: FutureWarning: 'multi_class' was deprecated in version 1.5 and will be removed in 1.8. From then on, it will always use 'multinomial'. Leave it to its default value to avoid this warning.
+  warnings.warn(
+/home/ubuntu/.local/lib/python3.10/site-packages/sklearn/linear_model/_logistic.py:1272: FutureWarning: 'multi_class' was deprecated in version 1.5 and will be removed in 1.8. From then on, it will always use 'multinomial'. Leave it to its default value to avoid this warning.
+  warnings.warn(
+/home/ubuntu/.local/lib/python3.10/site-packages/sklearn/linear_model/_logistic.py:1272: FutureWarning: 'multi_class' was deprecated in version 1.5 and will be removed in 1.8. From then on, it will always use 'multinomial'. Leave it to its default value to avoid this warning.
+  warnings.warn(
+/home/ubuntu/.local/lib/python3.10/site-packages/sklearn/linear_model/_logistic.py:1272: FutureWarning: 'multi_class' was deprecated in version 1.5 and will be removed in 1.8. From then on, it will always use 'multinomial'. Leave it to its default value to avoid this warning.
+  warnings.warn(
+/home/ubuntu/.local/lib/python3.10/site-packages/sklearn/linear_model/_logistic.py:1272: FutureWarning: 'multi_class' was deprecated in version 1.5 and will be removed in 1.8. From then on, it will always use 'multinomial'. Leave it to its default value to avoid this warning.
+  warnings.warn(
+/home/ubuntu/.local/lib/python3.10/site-packages/sklearn/linear_model/_logistic.py:1272: FutureWarning: 'multi_class' was deprecated in version 1.5 and will be removed in 1.8. From then on, it will always use 'multinomial'. Leave it to its default value to avoid this warning.
+  warnings.warn(
+/home/ubuntu/.local/lib/python3.10/site-packages/sklearn/linear_model/_logistic.py:1272: FutureWarning: 'multi_class' was deprecated in version 1.5 and will be removed in 1.8. From then on, it will always use 'multinomial'. Leave it to its default value to avoid this warning.
+  warnings.warn(
+/home/ubuntu/.local/lib/python3.10/site-packages/sklearn/linear_model/_logistic.py:1272: FutureWarning: 'multi_class' was deprecated in version 1.5 and will be removed in 1.8. From then on, it will always use 'multinomial'. Leave it to its default value to avoid this warning.
+  warnings.warn(
+/home/ubuntu/.local/lib/python3.10/site-packages/sklearn/linear_model/_logistic.py:1272: FutureWarning: 'multi_class' was deprecated in version 1.5 and will be removed in 1.8. From then on, it will always use 'multinomial'. Leave it to its default value to avoid this warning.
+  warnings.warn(
+/home/ubuntu/.local/lib/python3.10/site-packages/sklearn/linear_model/_logistic.py:1272: FutureWarning: 'multi_class' was deprecated in version 1.5 and will be removed in 1.8. From then on, it will always use 'multinomial'. Leave it to its default value to avoid this warning.
+  warnings.warn(
+/home/ubuntu/.local/lib/python3.10/site-packages/sklearn/linear_model/_logistic.py:1272: FutureWarning: 'multi_class' was deprecated in version 1.5 and will be removed in 1.8. From then on, it will always use 'multinomial'. Leave it to its default value to avoid this warning.
+  warnings.warn(
+/home/ubuntu/.local/lib/python3.10/site-packages/sklearn/linear_model/_logistic.py:1272: FutureWarning: 'multi_class' was deprecated in version 1.5 and will be removed in 1.8. From then on, it will always use 'multinomial'. Leave it to its default value to avoid this warning.
+  warnings.warn(
+/home/ubuntu/.local/lib/python3.10/site-packages/sklearn/linear_model/_logistic.py:1272: FutureWarning: 'multi_class' was deprecated in version 1.5 and will be removed in 1.8. From then on, it will always use 'multinomial'. Leave it to its default value to avoid this warning.
+  warnings.warn(
+/home/ubuntu/.local/lib/python3.10/site-packages/sklearn/linear_model/_logistic.py:1272: FutureWarning: 'multi_class' was deprecated in version 1.5 and will be removed in 1.8. From then on, it will always use 'multinomial'. Leave it to its default value to avoid this warning.
+  warnings.warn(
+[WRITE] /home/ubuntu/project/predict/output/verification/preds_train_lr.csv rows=154
+[WRITE] /home/ubuntu/project/predict/output/verification/preds_val_lr.csv rows=38
+[JSON]  /home/ubuntu/project/predict/output/verification/best_thresholds_lr.json
+[WRITE] /home/ubuntu/project/predict/output/verification/confusion_matrix_val_lr.csv rows=3
+[WRITE] /home/ubuntu/project/predict/output/logs/coef_multinomial_long.csv rows=177
+[PLOT]  /home/ubuntu/project/predict/output/feat_importance_top25.png
+[PLOT]  /home/ubuntu/project/predict/output/feat_importance_z1_top15.png
+[PLOT]  /home/ubuntu/project/predict/output/feat_importance_z2_top15.png
+[PLOT]  /home/ubuntu/project/predict/output/feat_importance_z3_top15.png
+[PLOT]  /home/ubuntu/project/predict/output/coef_heatmap_top.png
+[PLOT]  /home/ubuntu/project/predict/output/confusion_matrix_val.png
+[PLOT]  /home/ubuntu/project/predict/output/roc_ovr_val.png
+[PLOT]  /home/ubuntu/project/predict/output/pr_ovr_val.png
+[PLOT]  /home/ubuntu/project/predict/output/calibration_z1_val.png
+[PLOT]  /home/ubuntu/project/predict/output/calibration_z2_val.png
+[PLOT]  /home/ubuntu/project/predict/output/calibration_z3_val.png
+[PLOT]  /home/ubuntu/project/predict/output/p_true_hist_val.png
+[PLOT]  /home/ubuntu/project/predict/output/p_true_violin_by_class_val.png
+[JSON]  /home/ubuntu/project/predict/output/verification/metrics_lr.json
+[WRITE] /home/ubuntu/project/predict/output/preds_multinomial.csv rows=192
+[JSON]  /home/ubuntu/project/predict/output/logs/selfcheck_inputs_vs_preds.json
+[SELF-CHECK][inputs vs preds] {'preds_company_count': 192, 'preds_by_z_star': {1: 87, 2: 72, 3: 33}, 'input_sentences_company_total': 192, 'input_a_mij_company_total': 192}
+[INFO] LightGBM 未安装，跳过 LGBM。
+[JSON]  /home/ubuntu/project/predict/output/verification/metrics_summary.json
+
+[Done] ✓ logs→output/logs, verification→output/verification, figures→output/
+         preds_multinomial.csv → output/  (供 attribution.py 使用)
+         metrics_* 可用于写论文“结果”对比（LR / LGBM / HIER）

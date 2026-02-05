@@ -1,0 +1,126 @@
+Participants
+CORPORATE PARTICIPANTS
+Thomas R. Schmutz — Chief Executive Officer, FLYHT Aerospace Solutions Ltd.
+Alana Forbes — Chief Financial Officer, FLYHT Aerospace Solutions Ltd.
+
+Management Discussion Section
+
+Question And Answer Section
+
+Thank you for standing by. This is the conference operator. Welcome to the FLYHT Aerospace Solutions Third Quarter 2018 Results Conference Call. As a reminder, all participants are in listen-only mode, and the conference is being recorded. After the presentation, there will be an opportunity to ask questions. [Operator Instructions] Due to the volume of questions expected on today's call, we ask that you please limit your questions to three to allow time for others in the queue. If there are any outstanding questions at the end of the call, the company will be happy to take them by e-mail to investors@flyht.com.
+
+I would now like to turn the conference over to Tom Schmutz, Chief Executive Officer for FLYHT. Please go ahead, Mr. Schmutz.
+
+Thanks, Steve. I'd like to start by thanking our shareholders and those who have dialed in or accessed the online recording of this call to learn more about FLYHT at flyht.com under Investor Relations and Presentations and Webcasts.
+
+Financially, FLYHT's third quarter showed organic growth in the Software as a Service and strong hardware revenues. Total revenue was CAD 3.1 million, equivalent to the second quarter of 2018, and down relative to the third quarter of 2017 by 4%. Licensing revenue for the quarter was only CAD 265,000, but it was welcomed as none was forecasted. The Licensing revenue will continue to be lumpy according to the orders received from our partners as I have discussed in the past few quarters.
+
+Software as a Service showed growth at little more than CAD 1.1 million, growth that was consistent with the guidance that I provided last quarter. Software as a Service revenues in the third quarter were positive relative to the third quarter by 15% and better than last quarter by 2%.
+
+AFIRS Hardware revenue for this past quarter was strong at $1.7 million, which was up 93% over the second quarter of this year and within 2% of Q3 of last year, which was also a strong AFIRS Hardware revenue quarter. Revenue from AFIRS shipments this past quarter was the third largest since my arrival at FLYHT. Overall, expenses in the quarter were up 11% relative to the third quarter in 2017, primarily due to legal expenses associated with the acquisition of Panasonic Weather Solutions in early October of 2018.
+
+Year-to-date, overall results are down 7% relative to this time last year. AFIRS Hardware revenue is up 16%. Software as a Service is essentially flat and Licensing revenue is down 39% relative to this time last year.
+
+Our total expenses are up 2% relative to the same period in 2017. Through September, we have shipped 81 kits this year. From inception through September of this year, FLYHT has shipped 2,200 AFIRS units, including 1,500 AFIRS units through our OEM partner on the A320, A330 production line and 700 units directly to customers and airframers.
+
+FLYHT also announced $5.1 million in new sales and contracts and purchase orders during the third quarter of 2018. FLYHT gained three new customers in the third quarter including an original equipment manufacturer who purchased AFIRS to ADS units with our CAN-TSO-C159b for certification on an Antonov aircraft; an African airline which purchased uptime services for CRJ aircraft that they had acquired with AFIRS units installed; and a second African operator who purchased AFIRS and FLYHT ASD for their operations.
+
+FLYHT also renewed UpTime's Software as a Service products for our Australasian operator in the Middle East and a Middle Eastern airline.
+
+Finally, FLYHT sold AFIRS Hardware kits, technical services, or data services for a Canadian and United States lessor, an existing Canadian airline, and a Chinese cargo airline. During the third quarter, FLYHT received an FAA STC for AFIRS 228S System on an Airbus A319, A320, A321 family of aircraft which was necessary to cover the new engine option or neo version of the aircraft.
+
+FLYHT also closed a convertible debt financing of CAD 2 million in the third quarter and finished the quarter with a backlog of AFIRS unit and UpTime services of approximately CAD 25 million.
+
+Now I'd like to turn the call over to Alana, who will provide details on the quarter financial results. So, Alana.
+
+Good morning, shareholders, and thank you for joining us on this call. Before we discuss the detailed financial results, I just wanted to mention again you will notice a difference in our comparative 2017 revenue and cost of sales. If you're comparing this report to our Q3 2017 report you'll notice that 2017 numbers had been restated resulting from our January 1, 2018 adoption of IFRS 15. So having said that, our third quarter results revenues of CAD 3.1 million were in-line with revenues for each of the past several quarters and were lower than Q3 2017 by CAD 129,000.
+
+SaaS revenues have been increasing over the past five quarters as we've been converting contracted backlog into SaaS revenues, while recovering from last year's Q2 expiration of one of our larger contracts. A portion of that recovery was due to the re-signing of a portion of that contract.
+
+Licensing revenues decreased from Q3 2017 as fewer modems with related licensing fees were ordered and shipped this past quarter. We hadn't expected any modem shipments in Q3 so the small revenue in this category was a welcome surprise.
+
+Hardware revenues made up for the decrease we saw in Licensing revenues to leave us with an average quarter top line. Year-to-date, this Hardware category remains a strong and consistent source of revenue for us. Gross margin came in at 57% compared to Q3 2017's 53% but down from Q2 2018 which was 66%, which is due really to the relative proportion of Hardware sales versus Licensing revenues in each of those quarters.
+
+The quarter's G&A expenses showed an overall increase in the distribution and admin categories with a decrease in R&D expenses. Looking at all three categories together, overall we saw an increase in salaries that was more than offset by a larger decrease in contract labor. We saw share-based compensation that was higher in the quarter while remaining lower year-to-date, and this results from changes in our stock option plan that expenses the options over a longer vesting period.
+
+And finally, legal fees were higher than in past quarters due to the requirements of the PWS acquisition. Our Q3 net loss of CAD 953,000 was CAD 200,000 more than in Q2 2017. EBITDA of negative CAD 793,000 followed a similar pattern coming in at CAD 217,000, lower than Q2 last year.
+
+And now turning to the balance sheet, cash is holding steady with a year-to-date increase of CAD 68,000, resulting mainly from receipts of both our debenture issue in July and the quarterly funding we continue to receive through the WINN program. We increased our cash balances following quarter-end with the receipt of a third of the CAD 3.3 million subsidy from Panasonic Avionics solutions.
+
+While decreasing from year-end, our customer deposits have remained fairly steady since the end of Q1. The larger than normal balance we carried through year-end in this category was largely recognized in Q1 which for Q2 and Q3 means we held steady as a similar level of new customer deposits were received as were applied to shipments in those quarters. 2017's ending balance of warrants moved into contributed surplus when they expired in May while the value of the warrants issued with the July debenture are all that remains in that section of the balance sheet. And the largest change on our balance sheet since year-end is the debenture addition to our current loans and borrowings leaving that category comprised of loans from our two government programs, the ADM WINN and this latest debenture.
+
+I will now pass the mic back to Tom for a review of current activities at play. Tom?
+
+Thanks, Alana. The non-financial highlight of the past quarter was Boeing, Embraer, and FLYHT's joint release of a white paper and the corresponding presentation describing the results of the autonomous distressed tracking and timely recovery of Flight Recorder Data (sic) [Flight Data Recorder] (09:36) trial. The findings delivered at the Airlines Electronic Engineering Committee or the AEEC meeting in Kelowna, Canada in August reported on test performed during the Boeing ecoDemonstrator program. Using FLYHT's AFIRS Solutions and company's UpTime SaaS product, the joint paper concluded that existing commercially available equipment and network services which specifically were FLYHT's AFIRS and Inmarsat's SwiftBroadband solutions are suitable for providing distress flight data streaming capabilities that support International Civil Aviation Organization or ICAO objectives. The whitepaper and presentation are published on the FLYHT website.
+
+We think this result is very positive for FLYHT's future revenues. When we combine this verified commercially deployed technology with our FLYHTStream patent which has been issued in China, the United States, and Canada and is pending elsewhere to our unmatched library of supplemental-type certificates which allow FLYHT to install on 95% of the commercial air transport aircraft and add in FLYHT's selection as Inmarsat's inaugural aviation Certified Application Provider or CAP for Inmarsat's new SwiftBroadband safety services, then FLYHT appears extremely well-positioned to satisfy the upcoming January 2021 ICAO regulations regarding the operation of aircraft on autonomous distress tracking and timely recovery flight recorder data which are modifications to Annex 6 operation of an aircraft Amendment 40.
+
+As we look forward to the fourth quarter financial performance, our financial result will begin to look different from the past six quarters which have been similar on the top line at slightly more than $3 million with the constituent revenue components varying according to our order book.
+
+FLYHT's next quarter will include the financial impact of having received the one-third of the $3.3 million Panasonic subsidy at acquisition close. Additionally, there will be an immediate and significant.
+
+Acquisition close. Additionally there will be an immediate and significant increase in software as a service revenues from the 10 PWS airline service contracts with 200 aircraft in service along with monthly SaaS revenue from a $2 million per year contract for weather data from the National Oceanic and Atmospheric Administration via Synoptic Data PBC.
+
+The result will also include the total assets and associated expenses from the acquisition. But it's currently very focused on achieving parts manufacturing authorization or PMA from the U.S. FAA as soon as possible to begin shipping FlightLink and TAMDAR backlog from the Littleton facility. This is necessary since the ownership moves the assets from pack to FLYHT. When accomplished, these shipments will be recorded in the Hardware revenue category which we currently refer to as the AFIRS Hardware revenue. So we'll make that a more generic category of revenue.
+
+This will add further to our revenue growth in 2019 as we are able to ship hardware and place additional aircraft into service from the CAD 20 million backlog that flight FLYHT acquired as part of the PWS transaction. Adding together the acquired backlog that I just mentioned and that which FLYHT had prior to the acquisition FLYHT currently has a CAD 44 million backlog in undelivered hardware and SaaS services to help drive our future revenues.
+
+So that finishes our update on Q3. I did receive some questions in email, I'll answer those and then we'll go to the phone line to see if there's any questions. The first question is, how will full integration of the PWS assets change FLYHT's competitive standing in the aviation marketplace. First and foremost though, we eliminated a competitor with this acquisition so we have seen PWS in the past and competed with them for accounts like AirAsia, those accounts now have transferred over to us. So it's important that we enhanced our standing by eliminating that competitor. We also gained that large operator.
+
+So the ongoing development that is ongoing with AirAsia will be very applicable to other operators in the marketplace in improving our offering. We've also gained a great deal of notice from others in the industry and for the secured flight as a strong supplier for real time health monitoring and real-time aircraft data. And finally, I would say that this acquisition definitely improves our scale and allows us with economies of scale to better serve the market.
+
+The second question says since this is the last quarter for separately reporting on AFIRS, it would be nice to know what flights profit or loss would have been without the expenses related to the acquisition. What would flight have reported on Q3 for the AFIRS business alone? So, we closed on the PWS acquisition after Q3 closed so the revenues and the reporting is generally what it would have been without PWS acquisition. The only effect is the legal labor and travel which was associated with this acquisition which I don't think that I can report on because we actually are still incurring some of those costs, but it was on the order of a couple hundred thousand dollars.
+
+The next question says to achieve being in the black at the end of the acquisition period what do you see as a trajectory for profit and loss in the next six quarters?
+
+And I don't believe that I can provide this information. We have indicated that we would be profitable by the end of the transition period, which is the first quarter of 2020. So, what I would expect that we will see is that we will see a consistent improvement in our financial reporting and our bottom line along with the normal bumpy turbulence that is difficult for a small company like ours to avoid during that six-quarter period.
+
+The next question says, FLYHT reports monthly on flights and flight hours using a graphic at the bottom of FLYHT's site webpages. Will there be similar monthly reporting on TAMDAR vertical profiles which I think the indication there is on soundings? And so we may provide some type of sounding reporting. We're really in the middle of evaluating the appropriate KPIs to provide insight into this portion of the business. I think that this is a nice suggestion, and we'll certainly look into what we can do to make this visible to our shareholders.
+
+The last question is, are there indications of the Licensing revenue in Q4? The only indication that we received was the forecast of the beginning of the year. According to that forecast of the beginning of the year, the licensing revenue in Q4 we would expect to be modest. But again, we don't have perfect information in there, as you saw in this last quarter, we expected nothing and we got a modest amount. So a lot of that depends upon a dynamic order book from our operators.
+
+It looks like we had a couple recently shortly here. How much do you think that PWS will increase AFIRS sales? So this is an interesting question. This I think goes to would we be able to achieve cross-selling across the two different customer bases and that answer I believe is yes. We're very involved right now between the employees of both locations and building the budget for next year, part of that budget is developing engineering programs that allow us to offer TAMDAR like capabilities to AFIRS. And then similarly, we're looking at whether or not it makes sense and can we offer some additional real-time data capability through the FlightLink product which is deployed at a couple large operators.
+
+Basically our number of operators have increased again from 70 to about 80 operators. Some of the operators that Panasonic was pursuing, FLYHT was also pursuing, and I expect that we will be able to close on one or more of those operators with some hybrid sales. So I believe my short answer on this one is yes.
+
+Are there any updates on Chinese regulations is the next question. The Chinese regulations right now have formalized in this CCAR 121 R5 which requires the Chinese operators to conform to this four-minute requirement to answer calls through their AOC which right now can only be accomplished through SATCOM by the end of 2019. So, we see indications that that is taking effect within the industry in terms of the – our communications with the operators that are still need to be in compliance. There also appears to be some movement. There's been a bit of a – within China a licensing requirement for Iridium and other satellite communications which was a little bit of unclarity to the operators on the numbers of our licenses that were available, and there appears to be improvements in that from the Chinese government. So both of those are very positive we expect, and we have seen a great deal of increased sales opportunities in China. Things have slowed down over the last year, but we think with these couple of changes that have occurred in China, we expect to see, and are seeing a very active sales funnel in China.
+
+The third question is, are major Chinese airlines near making investment decisions to meet Chinese regulations? We are in discussions with major Chinese airlines. We've won 23 of the 57 operators there. I would characterize the airlines that we have won thus far to be the smaller to mid-sized airlines. We've been working on the mid-size to larger airlines, those like in any business take a little bit longer to close. We have seen movement in our dealings with those based on the factors that I talked about earlier, and we also are in trial discussions in China.
+
+So I think all of those bode well for 2019. We expect 2019 to be much stronger in terms of our Chinese performance than 2018. So, that's my best answer for them. So those are the questions that were emailed in.
+
+So, Steve, if we could open the phones for any questions that are called in.
+
+Certainly. We will now begin the quarter-on-quarter session. [Operator Instructions] We will pause for a moment as callers join the queue. The first question is from [ph] Bruce Krugel (22:37), a private investor. Please go ahead.
+
+Hey, Tom. Good morning to you. Just three questions. So the first is we're seeing decent year-over-year revenue growth starting on the SaaS front, and this is a function, I'm assuming, of your increased deployment of AFIRS. The question is can we expect to continue to see healthy year-over-year growth in those SaaS rates as these boxes are turned on?
+
+I think the answer is two parts. The first part is, organically yes. We're going to continue to see growth that has been consistent with the past several quarters, which has been steady since, really since we lost contract in the second quarter of last year. We've done a good job in building it back up. It's never as fast as we want, but the shipment good job in building a backup, it's never as fast as we want, but the shipment of the hardware gives us the opportunity to upsell, and I think that you're seeing in recent press releases that we've made that we're seeing some success there.
+
+Secondly, as I mentioned during the scripted portion of the conference call, we're going to see a significant bump in Software as a Service revenues, both from the service contracts with the new operators that we're bringing in which are substantial, and with the weather portion which is going to be recorded in SaaS. So that's a CAD 2 million – that starts out as a CAD 2 million per year contract. And as we are successful in adding additional TAMDAR sensors we expect to grow that component to significantly help our Software as a Service growth. So I think you'll see a significant increase in the fourth quarter and it will continue from there.
+
+Okay. And that actually then leads into my second question. So I was just doing backup [indiscernible] (24:40) calculations, and just to get a feel for what PWS may contribute in Q4, and I'm sort of coming up with about $1.2 million, is that in the ballpark for rates for Q4?
+
+I would say that's in the ballpark.
+
+Okay. And then my final question this CAD 3.2 million Panasonic payment as you mentioned you've really received a third but how is it being accounted for? Is it being accounted for as revenue to offset costs?
+
+I'll let Alana address this question.
+
+Yes. So we are working through the exact treatments with KPMG and our advisors. As we move over time, it will be used to offset costs.
+
+I guess where I'm coming from is, you know that you're going to receive at least CAD 3.3 million and accrual accounting, if you account for all of it, you should end up with a CAD 3.3 million credit guidance some way. And what I'm trying to find out is, does it end up on the income statement at the end of the balance sheet point being is how does this impact your level of profitability for Q4?
+
+Right. So over time it will absolutely end up all on the income statement as a recovery to expenses. As we receive the deposits, we expect a portion at least to be on the balance sheet.
+
+Yeah. Bottom line is because the auditors and FLYHT have not come to a mutual agreement on how it will be treated, we're not supposed to talk about treatment until there's clear guidance on how we'll treat it.
+
+Okay. All right. Thanks, Tom. [Operator Instructions]
+
+This concludes the question-and-answer session. I would like to turn the conference back over to Tom Schmutz for closing remarks.
+
+Thanks, Steve. It is an exciting time at FLYHT with our one FLYHT integration program, which is the integration of the operations in Calgary and Denver, and the many programs and trials that we have underway. As I stated last time, we're looking forward to this final quarter of the year with a great deal of enthusiasm. There is several of the exciting items that we anticipated that happened, and we think that more of the programs that we have been working on will mature. I remain very excited for the items in the pipeline, and I believe that as the performance details of this recent acquisition are demonstrated in our results
+
+There will be significantly more positive market response to the acquisition we have completed than we've seen thus far. Thank you very much for your support and have a great day.
+
+This concludes today's conference call. You may disconnect your lines. Thank you for participating and have a pleasant day.

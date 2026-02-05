@@ -1,0 +1,336 @@
+raw transcript
+
+
+Avici Systems Inc.
+ 
+AVCI
+ 
+Q1 2005 Earnings Call
+ 
+Apr. 21, 2005
+
+
+Company
+
+ 
+Ticker
+
+ 
+Event Type
+
+ 
+Date
+
+
+
+www .Ca ll St r eet . com
+ 
+•
+ 
+21 2. 9 31 . 65 1 5 •
+ 
+C op yr i g ht © 20 0 5 C a ll S tr ee t
+ 
+1
+
+
+MANAGEMENT DISCUSSION SECTION
+
+
+Operator: Welcome to the Avici First Quarter Earnings Conference Call. At this time all participants
+
+
+are in a listen-only mode. Later we will conduct a question and answer session. [Operator
+
+
+instructions]. As a reminder this conference is being recorded today, April 21st 2005. I would now
+
+
+like to turn the conference over to our host, Miss Inna Vyadro, Director of Investor Relations.
+
+
+Please go ahead.
+
+
+Inna Vyadro, Director of Investor Relations
+
+
+Thank you, Andrew. Good morning everyone. Joining me today are Bill Leighton, Chief CEO and
+
+
+Paul Brauneis, our CFO. The first quarter earnings press release was distributed at approximately
+
+
+7.30 am this morning by Business Wire and Firs Call. A copy of the release and the conference
+
+
+call are available on our website at www.avici.com.
+
+
+I would like to remind you that during this call we may be making forward looking statements
+
+
+including our expectations for product delivery, customer activities, financial performance and our
+
+
+plans and objectives for future operations. These forward-looking statements are neither promises
+
+
+nor guarantees but are subject to risks and uncertainties that could actual results to differ materially
+
+
+from those contained in the forward-looking statements. Those risks and uncertainties are further
+
+
+described in our press release and presented in the form 10-K as filed with the SEC.
+
+
+Additionally in the call we will also discuss various Non-GAAP financial measures. A reconciliation
+
+
+of Non-GAAP financial measures is provided along with the financial tables in our press release
+
+
+which as previously mentioned, is available on our website. Our press release was also furnished
+
+
+to the SEC on Form 8-K this morning. Lastly I would like to add that Bill Leighton will be presenting
+
+
+at JP Morgan’s 33rd annual technology conference in San Francisco on May 18th. In addition Avici
+
+
+will be exhibiting at Supercomm in Chicago June 6th through 9th. We hope to see many of you at
+
+
+our booth.
+ 
+At this point I would like to turn the call over to Bill.
+
+
+William Leighton, Chief Executive Officer and Director
+
+
+Thanks Inna. Good morning everyone and thank you for joining us. I’m very pleased to report that
+
+
+the first quarter of 2005 was a solid quarter for the company. After several consecutive
+
+
+disappointing quarters revenue has returned to double digit level. During the first quarter we
+
+
+recorded revenues of $10.7 million compared to revenues of $3.8 million in the preceding quarter
+
+
+ended December 31st and $7 million in the prior years first quarter. This represents an increase of
+
+
+53% year over year.
+ 
+Our Non-GAAP net loss improved to $5.2 million or $0.41 per share
+
+
+compared to a Non-GAAP net loss of $8.6 million or $0.69 per share in the prior year quarter ended
+
+
+March 31st 2004. We used $3.3 million in cash and finished the quarter with $65.7 million in cash
+
+
+and marketable securities and no debt.
+
+
+To end the discussion fiscal details regarding our financial results later in the call. [indiscernible]
+
+
+from three customers this quarter although AT&T was the only customer in excess of 10%. We are
+
+
+encouraged by AT&T’s return to healthy spending levels this quarter as they continue to grow and
+
+
+expand their network and expand the services offered over it. We’re also excited about the first
+
+
+ever 40 Gigabit per second trunk that AT&T has supplied using the Avici TSR and our Composite
+
+
+Links technology. Avici’s Composite Links gives carriers a powerful tool for simplifying networks
+
+
+and protecting their links. By aggregating up to 64 physical links into a single logical link carriers
+
+
+can continuously expand link capacity and improve network utilization.
+raw transcript
+
+
+Avici Systems Inc.
+ 
+AVCI
+ 
+Q1 2005 Earnings Call
+ 
+Apr. 21, 2005
+
+
+Company
+
+ 
+Ticker
+
+ 
+Event Type
+
+ 
+Date
+
+
+
+www .Ca ll St r eet . com
+ 
+•
+ 
+21 2. 9 31 . 65 1 5 •
+ 
+C op yr i g ht © 20 0 4 C a ll S tr ee t
+ 
+2
+
+
+In addition I was especially pleased to see the last two AT&T major core nodes in the process of
+
+
+converting to Avici TSRs as well as more sites converted to multichassis configurations bringing the
+
+
+total number of multichassis cites to five. All of which follows the plan that I started several years
+
+
+ago.
+
+
+For our last earnings call, you might remember, the AT&T, FCC merger was fresh news. Despite
+
+
+dire predictions by some we continue to see business as usual. In fact more than usual judging by
+
+
+this quarters results. Well we’re not privy to either party’s plans we believe that FCC is buying
+
+
+AT&T for three things primarily. Its brand, its customer base in its global network, the largest and
+
+
+most reliable network in the world.
+
+
+The Avici TSRs power that network, but we don’t believe there’s any valid business reason for that
+
+
+to change. Part of our new approach to winning customers has been an effort to broaden our
+
+
+opportunities stacked in market focus to include service providers other than the traditional tier one
+
+
+carriers. I call this playing for singles rather than home runs, and we have actively been pursuing
+
+
+several new targets and seeing increased levels of activity.
+
+
+As a result of our renewed focus, we added a new customer during the first quarter, IP-Only, a
+
+
+Swedish Telecom provider chose the Avici TSR offered deployment in their network, displacing the
+
+
+incumbent. IP-Only is a carrier experiencing fast growth in its business with some very demanding
+
+
+enterprise customers. Avici TSR is an ideal match to their needs. Avici is the only vendor that
+
+
+combines the carrier grade features, technology, and reliability that IP-Only requires in a scalable
+
+
+single shelf platform.
+
+
+Also this quarter we announced the Telecom Value Lab – the research centre of Telecom Value
+
+
+Group – has deployed the Avici system SSR carrier-class routing platform which we ship in Q4 in
+
+
+its hardware IP optical network that leverages open standards singly across the optical and IP
+
+
+domains.
+
+
+Avici is the first router vendor to leverage the open standards to enable carriers to signal between
+
+
+the IT and the optical domains. This capability allows networks to have greater efficiency and
+
+
+flexibility. Avici maintains this advantage in the market in terms of proven system scalability plus a
+
+
+significant lead with regard to actual verified reliability. Our task now is to extend our differentiation,
+
+
+creating an order of magnitude competitive advantage. This applies not only to the products
+
+
+themselves but also in our fundamental approach to how to build highly scalable, highly reliable and
+
+
+highly secure networks.
+
+
+I believe that today’s service provider networks are becoming far too complicated and far too
+
+
+complex and as a result, far too costly to operate efficiently, reliably and securely. The goal has to
+
+
+be what I call simple, secure networks.
+
+
+Complexity breeds a number of problems, not the least of which is cost for a service provider at a
+
+
+time when service providers are under tremendous pressure to reduce operational expenditures
+
+
+and add new services to grow revenues. Our team, our products, and our business model are
+
+
+uniquely qualified to address this challenge. We led the industry in scalability and again in reliability
+
+
+because we designed it right the first time from the fundamental architectural principles. And since
+
+
+we focused at the core, we don’t need to worry about cannibalizing the enterprise business by
+
+
+changing the fundamentals of network designs. You can expect to hear more on the simple secure
+
+
+networks approach in the coming months.
+
+
+On a different note, Surya Panditi has informed the Board that he will resign as Director of the
+
+
+Company immediately prior to the annual meeting. Surya has been a significant contributor to Avici
+
+
+Systems, serving for many years as both Director and CEO. We are grateful for his leadership and
+
+
+I am personally grateful for his friendship and confidence in me.

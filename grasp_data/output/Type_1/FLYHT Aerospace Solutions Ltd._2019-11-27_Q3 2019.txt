@@ -1,0 +1,224 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+Thomas R. Schmutz — Chief Executive officer, FLYHT Aerospace Solutions Ltd.
+Alana Forbes — Chief Financial Officer, FLYHT Aerospace Solutions Ltd.
+Jaeson Allen Min Schmidt — Analyst, Lake Street Capital Markets LLC
+
+Management Discussion Section
+
+Question And Answer Section
+
+Thank you for standing by. This is the conference operator. Welcome to the FLYHT Aerospace Solutions Third Quarter 2019 Results Conference Call. As a reminder, all participants are in listen-only mode and the conference is being recorded. After the presentation, there will be an opportunity to ask questions. [Operator Instructions]
+
+Due to the volume of questions expected on today's call, we ask that you please limit your questions to three to allow time for others in the queue. If there are any outstanding questions at the end of the call, the company will be happy to take them by e-mail to investors@flyht.com.
+
+I would now like to turn the conference over to Tom Schmutz, Chief Executive Officer for FLYHT. Please go ahead, Mr. Schmutz.
+
+Thank you, Claudia, and good morning to everyone. Thank you for joining us today to review our financial results for the third quarter of 2019. In the third quarter, we continued to build upon the momentum we generated from our financial and operational success in the first half of the year to generate another successful quarter for FLYHT. From a financial perspective, the quarter was highlighted by an 88% increase in revenue and other income to CAD 5.8 million, a 42% improvement in EBITDA to a minus CAD 461,000, and a positive net income for the first nine months of the year.
+
+Quickly digging into revenues, each of our revenue segments grew considerably in relation to the third quarter of last year. Software as a Service or SaaS revenues increased 131%; hardware revenue increased 13%; licensing increased 122%; technical services revenue increased 217%; and other income, which was absent in Q3 of last year, totaled more than CAD 623,000. We're obviously encouraged by the growth we've seen in each of these segments but it's the growth in our SaaS revenues that I specifically like to highlight, as it is most relevant to our current strategic focus and merit some additional explanation.
+
+As those of you who have followed our story will be aware, in October of 2018, we acquired multiple assets from Panasonic Weather Solutions or PWS, a subsidiary of Panasonic Avionics Corporation or PAC. The assets included intellectual property for the Tropospheric Airborne Meteorological Data Reporting sensor or TAMDAR, which has been installed and was already operational on more than 200 aircraft, a contract through synoptic data to deliver this atmospheric data in real-time to NOAA for weather forecasting purposes, and contracts with 12 airlines for communications and aircraft tracking services, including AirAsia, which is headquartered in Kuala Lumpur.
+
+PAC had originally contracted installation on 90 aircraft with AirAsia. One of the conditions we negotiated at closing was to amend that agreement to include an additional 100 aircraft with AirAsia, which brought the total under contract to 190. Overall, FLYHT acquired CAD 20 million in backlog along with these assets and established an 18-month transition period, during which PAC would pay FLYHT a subsidy between $3.3 million and $4.3 million for the acquisition of these assets. The transition period began in October of 2018 and runs through the period of March 2020.
+
+After the acquisition, our SaaS revenues grew sequentially from the third quarter of 2018 to the fourth quarter of 2018 by 97%, so 97% to be considered the inorganic growth rate in SaaS from this acquisition. The difference between that sequential growth and the growth that we realized in Q3 of this year, which was 131%, would roughly equate the organic growth rate. So organically, our SaaS revenues grew by more than 30% in the third quarter of 2019 relative to the prior year period. This growth rate is similar to what we saw in Q2 of 2019, and it certainly validates our current SaaS growth independent from the acquisition.
+
+On that note, I'm pleased to report that we have officially completed the OneFLYHT program. As a reminder, OneFLYHT refers to integrating the assets we acquired from PAC into our core business. As we demonstrated by the inorganic growth rate we just discussed, that acquisition has certainly been one of the factors driving our recent success and we expect it to continue to benefit our business going forward.
+
+I'm pleased to report that during the third quarter, we also began shipping units from the acquired backlog. During the quarter, we shipped 33 FlightLink and TAMDAR ship sets to customers that came online as a result of that acquisition, including AirAsia. The shipments immediately contributed to our hardware revenues for the quarter, but once they are installed, we expect these specific units to contribute more than CAD 600,000 in high margin SaaS revenues each year. Hardware that enables software is a key component of our long-term growth strategy, so these figures clearly demonstrate that the acquisition was not only immediately beneficial, but if it fits perfectly into our broader strategic vision.
+
+Until it expires in the first quarter of 2020, the subsidy will continue to help us ship units from the acquired backlog. It has been a useful tool in our arsenal, but it, by no means, is the long-term success of the program dependent upon its continuation. Due to the organic growth in our SaaS revenues since the acquisition, our ability to successfully deliver on orders in the acquired backlog and the potential for those orders to continue growing the top line after they have shipped, we believe these assets will continue to benefit FLYHT well beyond 2020.
+
+Before I go too far into the details of our operational progress during the quarter and our outlook for the rest of the year, I'd like to ask Alana Forbes, our Chief Financial Officer, to provide a detailed review of the third quarter financials.
+
+Thanks, Tom, and thank you all for joining us on this call. As Tom alluded to, we've posted another quarter of continued growth and expanding leverage in our operating model. Revenue from traditional sources increased by 68% to CAD 5.2 million in the third quarter of 2019, from CAD 3.1 million in the same quarter last year.
+
+SaaS revenues increased 131% to CAD 2.6 million, from CAD 1.1 million in the same period last year. The increase in SaaS revenues was primarily due to a higher number of aircraft producing recurring revenue, combined with existing customers expanding their usage of the company's value-added services and adding to the services they contracted with the company at the time of the original sale. SaaS revenue overall accounted for 51% of our total revenue in Q3 compared to 37% of total revenue in the same period last year.
+
+Hardware revenues increased 13% to CAD 1.9 million in Q3 of this year, relative to CAD 1.7 million in the prior year period. The increase here was primarily due to a larger number of installation kits shipped in the quarter, partially offset by a lower price per kit. We recognized revenues from 41 installation kits during the third quarter of 2019 compared to 24 in the same period last year.
+
+Q3 licensing revenues increased by 122% to CAD 590,000, from CAD 265,000 in Q3 2018, contributing to a year-to-date increase of 22%. This increase in licensing revenues was driven by differences in the number of modems and related license fees that were ordered in 2019.
+
+Gross margins in the third quarter were 48.5% compared to 56.5% in Q3 of last year. The change in gross margin mainly reflects differences in the mix of revenue sources in 2019 versus 2018, and the significantly lower hardware margins associated with the hardware backlog acquired from PAC. A contributor to those lower margins is the TAMDAR sensor itself. The sensor is shipped for free as part of the ship set but it will continue collecting atmospheric data in the future, which we envision will grow our SaaS revenue.
+
+Operating expenses have increased 48% from CAD 2.6 million in Q3 of last year to CAD 3.8 million in Q3 of this year. The main contributor was the increased scale in our operations resulting from the PWS acquisition in October of 2018. We continue to focus on controlling our expenses while we work on increasing revenues to obtain positive net income from scaling our top line.
+
+These increased operating expenses continue to be offset by the subsidy provided by Panasonic Avionics Corporation, which is broken out on our income statement as other income. This subsidy was designed to give us time to integrate the two businesses into a combined profitable organization, and we'll continue to support those efforts throughout the next two quarter.
+
+Payments are made quarterly on the baseline subsidy of $3.3 million. An additional $1 million may also be accessed depending on whether FLYHT's income related to the PWS assets exceeds or falls short of certain agreed upon thresholds. These potential adjustments are also evaluated on a quarterly basis. Our financial statements to date show a total accrued as of the end of Q3 2019 of $3.4 million, with two subsidy quarters remaining. We expect to see similar levels of subsidy accrued in Q4 and also in Q1 2020 compared to what we saw in Q3.
+
+Finance costs decreased over the same period in 2018, in part, due to the conversion of 16% of the outstanding convertible debenture so far in 2019, and partly due to the movement in the Canadian dollar and US dollar currencies, which contributed to foreign exchange gains in 2019 compared to FX losses in 2018.
+
+As we turn towards our balance sheet, the most obvious change is the impact seen from the January 1, 2019 adoption of IFRS 16. As discussed at our AGM and in prior calls, the adoption of that new standard added all leased assets to the balance sheet, which, for FLYHT, meant that on January 1, the remaining value of our two building leases and two photocopiers were added as leased assets in the non-current assets section, with the corresponding liability split into the current, meaning the amount due within the next year, and the non-current liability category. The September 30 balances show the depreciated net value of those assets, offset by the lease payments remaining in their respective agreement.
+
+What you do not see on the balance sheet quite yet is the financial effect of our latest private placement, as it was closed in November. The private placement was closed in series of two tranches. The first tranche was closed on November 15 when we issued a total of 4,792,400 units, pursuant to the brokered portion of the offering, for gross proceeds of just under CAD 6 million. This brokered portion of the offering was led by Canaccord Genuity Corp. and included PI Financial Corp. Lake Street Capital Markets acted as the US selling group member in respect of the brokered offering.
+
+On November 25, we closed the final tranche, issuing a total of 542,820 units, pursuant to the non-brokered portions of the offering, for gross proceeds of approximately CAD 680,000. Each unit consisted of one common share of the company and one-half of one common share of purchased warrants. Each full warrant entitles the holder to acquire one share at a price of CAD 1.75 per share for a period of 24 months following the closing date of the offering. The effect of those transactions will be reflected in our Q4 results.
+
+And with that, I'll now turn the call back over to Tom.
+
+Thanks, Alana. In my opening remarks, I focused on the OneFLYHT program and the benefits FLYHT has received from the PWS acquisition. But it should be apparent that while this acquisition has certainly transformed our business, there are a variety of other factors that have contributed to FLYHT's success over the past quarter and several months. In addition to the 33 FlightLink and TAMDAR ship sets I mentioned earlier, we shipped 8 Automated Flight Information Reporting Systems or AFIRS during the quarter, which brings the total number of units shipped during the third quarter to 41.
+
+Over the past nine months, we have shipped a total of 120 hardware kits. By comparison, in the full year of 2018, we shipped 99 hardware kits. The substantial increase in shipped hardware kits is predominantly a function of booked backlog becoming available to ship. A significant part of this year's shipments were made to China, and for a variety of reasons, we see those trends continuing.
+
+Today, we have now shipped over 2,600 units through our various channels. That equates to 2,006 aircraft – 2,600 aircraft out of a global fleet of 40,000 that currently have our products installed. Of those sales, approximately 900 were shipped directly to airlines and lessers of aircraft and approximately 1,700 were shipped through the L3Harris Airbus channel.
+
+As many of you are aware, L3Harris has been a valuable partner of FLYHT for several years. Over the course of this partnership, L3Harris has installed our products on the Airbus A320 and A330 to serve as the default satellite communications option. However, the recent expansion of this contract to include the A220, which was first mentioned in August, continues to be a growth driver for our business. As a reminder, we're now also providing Future Air Navigation Services (sic) [System] (00:15:57) or FANS Satcom for the Airbus A220. We have completed the development program for the A220, and unit licenses have already been shipped this year as part of the logistical buildup for their final assembly line operations.
+
+Airbus is very bullish about the future success of the A220. This aircraft is expected to be an extremely successful airframe that is well-suited for worldwide city-to-city routes, and whose range is being expanded by Airbus to accommodate transoceanic flying. At the Paris Air Show this year, they indicated that in the next 20 years, there will be demand for 7,000 aircraft with a seat range of 100 to 150 seats. The A220 has a seat range of 110 to 160 seats, depending upon the variant, and it is perfectly suited to this forecast. We expect the success of this airframe to contribute to FLYHT's future growth.
+
+Overall, commercial aerospace is growing at approximately 5% annually and the commercial fleet size of aircraft is expected to double in the next 20 years. FLYHT has an excellent presence in China and Asia-Pacific, both of which are growing markets, and we are well-positioned to capitalize on those macro trends. China is expected to be the largest aviation market by 2037, with 450 airports.
+
+Satellite communication in aviation is also growing. More and more aircraft are traveling beyond VHF coverage, and the industry is beginning to take steps to replace high frequency radios with Satcom solutions. Regulatory requirements, such as CCAR 121 Rev.5, which mandates [ph] check (00:17:52) Satcom in China, has helped and will continue to help FLYHT grow. ICAO Amendment 40 to Annex 6, which requires timely access to flight recorder data, will also produce important changes in the industry, and we believe that the triggered Satcom FLYHTStream patent that FLYHT holds will be an important solution for satisfying those new requirements.
+
+The growth in the connected aircraft space also serves as a tailwind. FLYHT was very early to market with many concepts that are now gaining traction, and are being recognized as efficiency multipliers for operators and maintainers of aircraft. We have a strong on-aircraft product offering and millions of flight hours logged on the enterprise servers that provide SaaS products from the real-time data available from the aircraft. We are diversifying our product offering to agnostically provide services over Satcom channels or over communication channels already available on the aircraft.
+
+Finally, with our new weather data revenue vertical derived from TAMDAR, we expect to see two dimensions of growth. The increased deployment of TAMDAR will create a more valuable data set to sell, and we expect to begin selling the data set to more meteorological customers beyond NOAA in the coming year. The data set we collect with TAMDAR is very valuable and the efforts we have made on the part of OneFLYHT to improve the quality of the meteorological data will facilitate additional revenue growth. It is our belief.
+
+Clearly, the success of the last few quarters and the large number of tailwinds that are continuing to push us in the right direction, this is an extremely exciting time for FLYHT. However, to effectively take advantage of the opportunities ahead of us, and to continue scaling this business to meet the growing demands that I just discussed, we identified the need to increase our access to capital. Therefore, we announced on October 15, 2019 that we would be pursuing a capital raise to help strengthen our balance sheet and to fund various development projects for our business.
+
+As Alana mentioned, we are pleased to report that we have successfully closed in the private placement. And despite it being a difficult market to sell for small cap equity financings in Canada, and particularly in technology, the private placement was actually oversubscribed. If we look at the macro environment, CAD 23.9 billion has been raised on the TSX and TSX.V to date in 2019. This is well below the CAD 30 billion raised during the same period in 2018. The average financing size on the TSX.V in 2019 was CAD 2.8 million compared to CAD 4.4 million in the same period last year. CAD 2.1 billion has been raised by technology companies this year versus CAD 3 billion raised by technology companies in the same period last year. So despite these headwinds, FLYHT was able to close on more than CAD 6.5 million.
+
+We are very excited to be welcoming several new shareholders to FLYHT today and we would like to thank our existing shareholders for their continued support. It is our intention to use this additional capital as a tool to both strengthen our balance sheet and provide additional fuel to certain departments that are critical to growing of our business.
+
+One of the questions that I'm frequently asked by investors and customers who are new to FLYHT is why aren't you more broadly deployed. Our solutions clearly solve critical issues in the airline industry and to do so while – and does so while saving our clients' money, so it's a logical question to ask. One of the reasons is that our sales and marketing departments have not had the necessary funds to perform as effectively as we would like. Obviously, we're making substantial progress as evidenced by our third quarter and our nine-month results, but we think we can do more. It's our intention to use these funds to accelerate our internal sales and marketing initiatives, as well as advertising, to better educate the broader market on the efficacy of our solutions and expand our footprint in current and new markets.
+
+Overall, the third quarter of 2019 was another successful period in the evolution of our business, the most consistent with the success we've already achieved in the first half of the year. As we turn towards the end of 2019 and we begin looking into the first half of 2020, we believe the prospects for our business are bright. We continue to [ph] main (00:22:51) a large and robust pipeline, and we're continuing to chase after larger airline operators. If we can continue to successfully execute on our strategic initiatives and capitalize on growing opportunities ahead of us, as more and more companies become educated on the value that we provide, we are optimistic we'll finish the year and begin 2020 from a position of strength.
+
+That concludes the initial component of our discussion. We'll now turn to some questions that were submitted by email.
+
+The first question that was submitted by email is, I read an article today that stated that Chengdu Airline (sic) [Airlines] (00:23:35) have 10 ARJ21 aircraft in service. Are we shipping on this platform finally or has our agreement been terminated?
+
+So, FLYHT is not currently shipping on the ARJ21, which is a regional aircraft developed in China by COMAC. Way back in December of 2013, FLYHT announced a contract with Datang Mobile to provide AFIRS for real-time data communications in Satcom. The contract with Datang actually expired before there was any significant production of the aircraft, and Datang was not in a position to renew the contract with their client, COMAC. We have never included any expected revenue from this customer in our backlog figures. We do continue to look at opportunities to provide services on the ARJ21 and we hope that we get the opportunity to do so.
+
+The next question was, can you discuss any follow-through regarding the CAD 2.5 million purchase of IP several years ago?
+
+In December of 2015, FLYHT announced the non-exclusive licensing of intellectual property to a technology company for $2.5 million. The license included the software and hardware technology that had previously been sold to an OEM in a product. The IP did not include any of the proprietary AFIRS embedded logic or the ground-based uptime services, which makes FLYHT's products truly unique. This OEM was to use the IP to develop a future Iridium Certus product, which FLYHT will have the right to resell. That product has not yet been brought to market.
+
+The next question is, are there any military business opportunities or leasing operators?
+
+On the military side, yes. FLYHT is pursuing military operators and we feel that we have a compelling offering for an existing large opportunity. We are pursuing military opportunities through other third parties. On the leasing side, we have several leasing operators as customers currently, and we continue to market – to gain more leasing operators in our portfolio.
+
+The next question says, will you be looking to expand the business into the business jet market?
+
+We have some current business jet customers. It is not our core business, but we feel we have a compelling offering for fleets of business jets or for individual owner-operators when we sell hardware through third parties.
+
+The next question was, any thought about giving Airbus-purchased boxes with operators by giving them their first three months of SaaS business free, and then, once hooked, charging them to continue? I know once they see how they will save, they will find it hard to give up.
+
+For this, I will just say that we continue to look to expand on how we sell and market our products. One of the use of proceeds that we talked about during the call and in the CEO letter, one of the use of proceeds will be, in the basis of the most recent raise, is to expand our sales and marketing team and to fund a marketing and advertising plan to accelerate our sales and to make our products and our brand better known in the industry.
+
+An additional question received. It says, what I don't understand and I perceived as a major negative is the gross margins are lower, while SaaS revenue is rising significantly, which is what we want to see. Frankly, it's not well-explained in the MD&A. Can you help me with this?
+
+So, I think that whenever we talk about margins on our product, and I'll answer this question and I'll give Alana an opportunity to augment it, but whenever we talk about margins of our product, which typically run at about 60%, the particular margin that we see in a given quarter is really going to end strongly on the mix of the revenues. Our primary revenue areas are SaaS, which typically have a gross margin of 70%; hardware sales, which, last year, had gross margins of 33%, but I'll come back to that; licensing and parts sales, which – it's called licensing now, and that's essentially a royalty or about 90% gross margins; and technical services, which is significantly smaller time and materials work, the gross margins on that – on those vary.
+
+On those quarters where we have a significant amount of licensing, which is 90% gross margins, it's going to drive the overall gross margins for the quarter. A little bit different this quarter is that we began shipping hardware that we acquired through the PAC acquisition, the asset acquisition, and that hardware margin is lower typically than the margins that we've been seeing when we've shipped AFIRS.
+
+Augmented, as Alana referenced in her comments, that we're shipping TAMDAR as part of that ship set, and that hardware cost is burdened in hardware, but we don't charge for the unit because it will produce future SaaS revenues. So, our SaaS revenues continue to grow. Our SaaS revenues continue to hold excellent amounts of gross margin, approximately 70%. The margins this time are down because there's less licensing this quarter and our hardware margins are smaller.
+
+Alana, anything that we should add to that?
+
+I think that captures it. Really, the variation in quarter-over-quarter gross margins is when I look at it, it's really as a result of the difference in the mix between hardware specifically and licensing revenue specifically.
+
+It's a good question.
+
+It is.
+
+Another challenge that we have – this is not a question but this is just a comment – another challenge that we have, our SaaS revenues are very steady. So, you can plot out the SaaS revenues quarter-by-quarter and you can see steady growth, particularly in the last few years. But if you look at the trailing 12 months of SaaS revenue, we're approaching CAD 10 million, about CAD 9.8 million. The trailing 12 months in – which happened to line up before the acquisition, was less than half of that, at CAD 4.3 million. So, we're seeing outstanding growth both from the acquisition and from the organic growth. But the hardware sales and the licensed sales are really lumpy. So, it will really depend upon the quarter how much of our backlog becomes available and what we can ship is dependent upon our customers, taking and making the aircraft available for installation and allowing us to ship that backlog. So, you'll see significant variation quarter-to-quarter on the amount of hardware that we ship. And there's even larger variations in the licensing component that we ship quarter-to-quarter. That licensing is very high margin and that licensing is completely dependent upon the channel where we ship licensed product through L3 to Airbus.
+
+Typically, what you'll see is a very large quarter followed by three smaller quarters. I would love to figure out a way to smooth that out so that the – there would be more consistency quarter-over-quarter. I don't know how to do that. We're extremely delighted that the revenues in licensing continue, and that this year, we will see a net increase in licensing revenue over last year, which will be the first time that that's happened since 2016. So, that's really positive.
+
+So that's, I think, something to consider when you look at our revenues, is that they come from distinct buckets. And it's really important, as you follow the FLYHT story, to take a look and see where we're reporting revenue from because it makes a big difference. And our gross margins and the variation of quarter-to-quarter will really be dependent upon how hardware and licensing occurred inside of that quarter.
+
+So, those are the questions that we had received by email. Claudia, are there calls that would like to ask questions?
+
+Yes, sir. We have two questions. The first question is from [ph] Bruce Krugel (00:32:55), a private investor. Please go ahead.
+
+Hey, Tom. Congrats on the private placement.
+
+Thank you very much, [ph] Bruce (00:33:06).
+
+You provided some tantalizing hints about some prospects, and I was just hoping to perhaps get into some granularity on stuff coming down the pipeline. I mean, if you look in the quarter, you only shipped eight AFIRS units, which doesn't – how to say, it doesn't bolster the thesis of this – the China CCAR 121 deadline at the end of this year. I would have expected an acceleration of AFIRS deployment Q3, Q4 for airlines to meet that deadline. Any update on what's going on in China and that deadline?
+
+Yeah. That's a great question. Before I answer it, I would like to say that [ph] Bruce (00:33:55) wrote some research on the company. The research that he wrote is published on the FLYHT website, in Investor Relations, Why Invest in FLYHT. He did a fantastic job, I think, describing an esoteric and somewhat complicated business in very straightforward terms. And so, we really appreciate the work that is there, and we recommend that you take an opportunity and read that work because it was really well done.
+
+So, China is really still a super-rich opportunity for FLYHT. We feel like we have enormous opportunities that continue to exist there. But we're also realists and we look at the economy in China and it's at its lowest output that it has been in 20 years. The last figure that I saw, China was growing at about 6%, which is probably twice that of the United States, which leads the rest of the world. So although it has slowed down significantly, it's still quite robust. But we look at the number of wins, the new customer wins that we've had this year relative to previous years and it's definitely slowed down. So, there's no doubt that there's some impact in the global trade activities that are seemingly slowing things down. But that's circumstantial because within our sales funnel, we still see enormous opportunities that exists and that we think that we will be able to capture.
+
+The CCAR 121 Rev.5 does have a deadline at the end of this year. We do expect that there will be full compliance to that regulation. We're not certain or we believe that there's going to be some additional time given, either because some of the participants, the airlines that have yet to comply, are either partially owned by the government or completely owned by the government. So, they are receiving additional time as a fellow branch of government, perhaps getting additional time to comply. And then, the other class of airlines in China that have not yet complied, that we expect will, are those that are financially stressed. So, one of the four major groups of airlines has been selling assets and raising cash. There's been provincial investments in several of the constituent airlines. And so, we expect and anticipate that the Chinese government is working with those airlines to allow them to recapitalize and perhaps providing them more time in order to do so, and therefore, subsequently requiring compliance.
+
+So that's a little bit of insight from our standpoint, [ph] Bruce (00:36:59). I think that we are bullish on what's going on there. And in particular, one of the elements that I hope to be able to report in 2020 is our activities in socializing TAMDAR in China and the ability to grow weather revenues in that country. We're bullish on that opportunity also.
+
+Okay. So, that feeds into the ICAO and expect deadline, which is the end of next year, the Amendment 40. Are you seeing any interest or movement from any OEM or airlines themselves with regards a solution that you might be part of?
+
+We have seen it from airlines. We've seen – we've announced one, which was Azur. So, they bought product and install it specifically to be compliant with elements of that forthcoming regulation, which was issued by ICAO. On the OEM side, there's certainly been discussions but there's nothing that I can really relay on this call with regards to opportunities FLYHT has in that area.
+
+Okay. There's been a number of aircraft having engine problems and it's fairly broadly spread. [ph] It will (00:38:27) be the A220 itself, the A320neo, the Boeing 787 and the 777X. Are you seeing any interest from any of the engine manufacturers, the aircraft manufacturers or the airlines themselves trying to help monitor these engine problems or taking it one step further to help reduce maintenance costs in general?
+
+We do. We have traditionally had conversations with engine manufacturers about augmenting the monitoring services they have with our product. Generally, though, we have had better success in selling our solution to airlines who want to utilize and better understand real-time anomalies onboard the aircraft and the engine.
+
+I've talked several times. One of our success stories is about a operator in the United States that installed AFIRS on some used Boeing 767s that went into service, and one of those aircraft had a in-service, high engine vibration fault. They pulled it out of service and they found a cracked fan in the hot section of the turbo fan and avoided a significant catastrophic event. That operator, I don't believe, will ever buy enough AFIRS and services for the money that they saved on that single incident.
+
+There's other scenarios where our product has been used to help understand and establish real-time access to engine issues. There are competing solutions from engine manufacturers themselves. The primary difference right now is that from our understanding, the majority of those solutions require the aircraft to land and to send data over terrestrial wireless networks versus a flight solution which can send it in real-time while the aircraft is still flying. So, we continue to see interest in this solution. I think, yes.
+
+Okay. Chinese validation of the A320neo, can we read anything into that?
+
+Well, we continue to hold a very, very rich portfolio of STCs. Number is approximately 100 at this point after we augmented our traditional library with the library that we acquired from Panasonic Avionics Corporation. I can't tie the – at least on this phone call, I can't tie the A320neo to a specific opportunity in China.
+
+Okay. Because that [ph] closes (00:41:52) the direction of the question. So, China set 18. As you know, it went down, and that enables Inmarsat to probably come back to China. Any progress or update on that front?
+
+You're talking about the Ka satellite?
+
+Yeah.
+
+Yeah. So, we have quite a bit of interactions [ph] and goings on (00:42:24) in China and we had actually intended to do some trailing and some data transfers over that particular satellite. So, we were disappointed when it did go down because that put a delay into some of the activities that we were planning with some partners there.
+
+But notwithstanding that, the activities that we were planning are, we think, are still on track. They will use different delivery mechanisms in country. Inmarsat is an established player in China. They have a gateway and they are actively selling their services there. We have an outstanding relationship with Inmarsat and we published that we were the inaugural selectee for their certified CAP provider program, and we've also established that we are doing trials with Inmarsat and we continue to look for opportunities to cooperate.
+
+Okay. And then, my last question, the TAMDAR rollout, you're shipping out the 33 units. I mean, you're talking CAD 600,000 of potential SaaS revenues once those items are deployed. Do you have a feel for rate of deployment of those units and/or – and what your rate of shipping of units over the next couple of quarters is going to be as well? I'm trying to ascertain how quickly you can reduce your burn rate from this source of revenues over the next year or so?
+
+Sure. Those are great questions. So, we included the expected SaaS revenues from those particular units shipped because we wanted to give the investing community an understanding of the types of revenues that we're looking for for this new newly acquired backlog. We felt it was fair to do so since the – since it's relatively new, and we were somewhat constrained by our agreements on what information we can provide. So, we wanted to kind of provide some general information that would allow you to figure that out. So, that was the purpose for that being included.
+
+The rate with which those are deployed, we have schedules that have been provided by the customers and we have schedules that have been provided for units that are currently in backlog that are not yet shipped. I don't feel like I can share those particular information. But suffice it to say that they took those shipments because they had scheduled activities to install them.
+
+Okay. That's great, Tom. Thanks a lot, man.
+
+You're welcome. Thank you, [ph] Bruce (00:45:38).
+
+Our next question is from Jaeson Schmidt with Lake Street Capital Markets. Please go ahead.
+
+Hey, guys. Thanks for taking my questions. Just firstly, when I look at the SaaS revenue growth, how should we think about the growth in that revenue stream being driven in 2020? Is it going to be primarily by new aircraft or expanding services at – on existing aircraft or a combination of both?
+
+Traditionally, it has been a combination of both. So, we aggressively pursue new airlines. We recognize that we would like to be reporting accelerated sales at this point and we're aggressively pursuing that. But we feel like we are on the trail of some really great opportunities that will manifest in the relative near term. So, that will lead towards the SaaS revenue growth.
+
+We have customers that are growing on their own as well. For example, in China, there's enormous opportunities for the growth of our SaaS product. We launched our data services in China in June of 2016. And by October of last year, which was just two years and a quarter, we had generated about 20% – we are generating 25% of our SaaS out of China. So, it went from 0% to 25% of our SaaS in little over two years. So, we see continued opportunity in China and we see opportunities elsewhere.
+
+We have customers that are taking additional AFIRS units every quarter and augmenting their fleets and rounding out their services. We send out a quarterly press release of sales opportunities that don't quite, on their own, merit press release, but we feel like together are quite substantial and we provide guidance to our investing public through those updates about the sales that we make. So, we typically see growth in new customers, augmentation by other customers.
+
+And just FYI, another really interesting source of new customers is the lease market. So, we are a SaaS company. We have, as I have reported, extremely low customer churn. So once we have a customer begin using our solution, those customers continue to use our solution unless they become illiquid or insolvent. But we do see churn of a different nature, which is the churn that is created by the leased fleet. So, about half of the fleet is leased. And that leased fleet – all of our customers have a combination – most of our customers have a combination of owned aircraft, augmented with leased aircraft. So, we end up in situations typically every month where a customer will be turning in an aircraft that may have revenue-producing AFIRS equipment onboard. That's a negative for FLYHT.
+
+The positive for FLYHT is that that aircraft goes into the leased pool and ends up at another customer site. We get a phone call. They're interested in what the equipment does. We turn it on for them, like you would – if you get a car with a SiriusXM radio. You get to try it out for free and see what kind of service it can provide. We, through that process, find internal champions. This – for example, Pacific Air Express, which there's a great – on our website, underneath Presentations and Webcasts, there's a great testimonial. This is exactly how we gained this customer as they receive leased aircraft and began using it and found that it satisfied many of their regulatory problems.
+
+That was a long-winded question – answer to your question. Alana, do you have anything to add to that?
+
+I don't think so.
+
+Okay.
+
+No, that's very helpful. Appreciate that. And then, just lastly, I know there's a lot of moving parts, especially with you noting expanding sales and marketing and advertising here coming up. But how should we think about your quarterly breakeven revenue run rate?
+
+So, the – that really is going to depend upon the revenue mix because of the gross margin differences and the different revenue elements. But Alana, [indiscernible] (00:51:07)...
+
+Absolutely. I think the higher licensing revenue that we see in a quarter and the lower mix that hardware is contributing to it, that will really determine what that number is. I mean, our growth – our G&A has been pretty consistent quarter-over-quarter for the last several. It was pretty consistent before the acquisition. It's at a higher level now but it's been consistently at that higher level since Q4 last year. So, I would say the differences are going to be at the gross margin level.
+
+If I was to give you a really simplistic answer, it would be about CAD 7 million. And again, that's making a lot of assumptions about revenue mix. But...
+
+No, I understood. That's helpful. Thanks a lot, guys.
+
+Okay. Thank you.
+
+There are no further questions registered at this time. I would like to turn the conference back over to Tom Schmutz for any closing remarks.
+
+Okay. Well, thank you for all of you for joining us today. We look forward to updating you again soon on our next call. Have a nice day. And for those of you in the United States, happy Thanksgiving week. Take care.
+
+This concludes today's conference call. You may disconnect your lines. Thank you for participating and have a pleasant day.

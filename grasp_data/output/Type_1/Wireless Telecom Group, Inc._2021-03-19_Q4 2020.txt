@@ -1,0 +1,250 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+Michael Kandell — Chief Financial Officer, Wireless Telecom Group, Inc.
+Timothy Whelan — Chief Executive Officer & Director, Wireless Telecom Group, Inc.
+Marc Wiesenberger — Analyst, B. Riley Securities, Inc.
+John Sturges — Analyst, Oppenheimer & Co., Inc.
+Michael D. Potter — Analyst, Monarch Capital Group LLC
+
+Management Discussion Section
+
+Question And Answer Section
+
+Good morning, ladies and gentlemen, and welcome to the Wireless Telecom Group Q4 2020 Quarterly Earnings Call. At this time, all participants have been placed on a listen-only mode, and the floor will be opened for questions and comments after the presentation.
+
+It is now my pleasure to turn the floor over to your host, Mike Kandell. Sir, the floor is yours.
+
+Thank you, Paul. Good morning, everyone, and thank you for joining us on today's conference call to discuss Wireless Telecom Group's fourth quarter 2020 financial results. With me today is Tim Whelan, the company's CEO.
+
+Before we begin, I would like to remind everyone on the call that our remarks today could include forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. In some cases, such forward-looking statements may be identified by terms such as believe, expect, seek, may, will, intends, project, anticipate, plan, estimate, guidance or similar words, as well as statements that do not relate strictly to historical or current facts. The company's forward-looking statements are based on management's current expectations and assumptions regarding the company's business and performance, the economy and other future conditions and forecasts of future events, circumstances and results.
+
+Forward-looking statements are not guarantees of future performance and involve a number of risks and uncertainties that could materially affect actual results. Important factors that could cause the company's actual results to differ materially from those in its forward-looking statements include those risk factors set forth in the company's 2020 Annual Report on Form 10-K. The company does not undertake any obligation to update or revise any forward looking information to reflect changes in assumptions, the occurrence of unanticipated events or otherwise.
+
+Also, we want to point out that in addition to GAAP information, we will provide information relating to certain non-GAAP measures. We believe that presenting these non-GAAP or adjusted measures provides additional meaningful information to investors, which reflect how management views the business. Detailed reconciliations of non-GAAP measures to GAAP measures are set forth in a reconciliation table in our press release issued earlier today and furnished with the Form 8-K filed today with the SEC.
+
+With that, it's now my pleasure to turn the call over to Tim Whelan.
+
+Thank you, Mike. Good morning, everyone, and thank you for joining us.
+
+I am very pleased with the progress we made in 2020 as we successfully navigated the impacts of the global pandemic, as well as sales declines from a large customer. During this year of unprecedented challenges, we closed and successfully integrated our Holzworth acquisition, we controlled our costs, we achieved success with our CommAgility offerings, winning new business and new customers, and we increased our gross margins through a favorable mix of software and test and measurement solutions. We expect our success with Holzworth and CommAgility to continue throughout this year and into next.
+
+So, while we started the year facing two incredible challenges, we exited the year with a list of accomplishments, including our strongest quarter of bookings in eight quarters, a growing backlog, a thriving test and measurement business with new Holzworth products, a new collaboration partnership with NXP, demonstrated wins of 4G and 5G software, and we added a new chief revenue officer and new board member.
+
+I must give credit to our incredible employees and management team for their dynamic and resilient responses to make the changes needed to help ensure the health and safety of all of our employees, while effectively serving our customers' needs. Throughout 2020, we also maintained our strong culture of customer service, while continuing to invest in our R&D activities, which increased 8% year-over-year, inclusive of Holzworth, and targeted IT spend. R&D activities were focused, meeting our commitments to our customers for forward-leaning solutions and aligning resources to meet the future needs for 5G, mid-band spectrum deployments, and private networks.
+
+Turning to some color on our three product groups. Our Microlab brand, or our RF components product group was hardest hit by COVID. In 2020, we realized a strong first half of bookings and revenues, but late in Q2, business started to slow down and bookings decreased in the second half of the year by 37% as compared to the first half, or nearly $4 million, which reflected the pullback of investments for empty venues, stadiums and buildings.
+
+The second-half decline contributed almost all of the year-over-year revenue decrease in RF components. Our Test and Measurement products realized a $7-million year-over-year revenue improvement, reflecting the nearly $9 million of revenue contributions from our acquisition of Holzworth. Recall that the Holzworth business generated approximately $5 million of revenue in the year prior to our acquisition. So, we believe our integration efforts were very successful, generating organic growth on top of the acquisition, growing the customer base and unlocking the potential of a larger sales channel.
+
+Holzworth products are also aligned to resilient customer spend, focused on the growth of Test and Measurement solutions, which enable the future of wireless technology in the semiconductor sector, in radar and satellite communications, the military and aerospace programs. Also within this Test and Measurement product group, our specialized Noise sources and instruments overall performed very well, while our Boonton power meters, on the other hand, were more significantly by COVID and we saw a slowdown in Q2 and Q3 sales. However, we are encouraged in Q4 as sales of the Boonton power meter solutions improved.
+
+Turning to our radio, baseband, and software solutions, which is our CommAgility brand, we continue to remain enormously excited by our progress on our R&D roadmap, the conversations and developments of our sales funnel, and the important new customers we won during 2020. Some additional highlights for the year for CommAgility Solutions: We signed six new customers in 2020, two in each of the second, third, and fourth quarters. Four of these wins included 4G software and services and two wins were for 5G software and services. This metric underscores two important themes: First, investments in 4G continue; and second, 5G investments are just starting to happen and our collaboration agreement with NXP and our R&D investments are yielding returns.
+
+CommAgility bookings in 2020 were nearly $7 million, almost twice the revenue recognized in the year, and more than half of that was in the fourth quarter. In total, just over half of the CommAgility bookings were for software and services, and just under half was for our hardware cards. Our software and service sales included LTE-over-satellite applications, LTE air-to-ground applications, LTE rail private network applications, 5G software for government labs, and 5G small-cell applications. The hardware card sales also underscores our continued healthy relationship with our large customer and continued demand for 4G hardware for base-station testing, and we have received additional hardware card purchase orders in the first quarter of 2021.
+
+In summary, we have made considerable progress throughout 2020 on our strategy and strategic goals, which we expect will provide foundations for growth going forward. First, we completed and successfully integrated our acquisition of Holzworth. This accomplishes several points on our strategy. We exceeded our first-year revenue expectations of Holzworth delivering on our commitment to organic growth in addition to acquired growth; we expanded our product set with the acquisition, aligning adjacent technologies which meet future growth drivers; and we expanded our total addressable market, which contributes to future growth opportunity.
+
+Second, we accomplished our long-term target of driving gross margins above 50%, and we accomplished this in three of the four quarters of the year. We believe this reflects our ability to add higher value-added solutions and more software in our revenue mix through our Holzworth acquisition, and our success realizing software revenue growth in CommAgility.
+
+Third, we remain committed to driving additional operating leverage and profits. We demonstrated this by reducing operating expenses by $3 million, before adding the effect of the Holzworth acquisition, excluding certain one-time charges.
+
+And last, we remain committed to the generation of cash and reducing debt. We generated $3 million of operating cash flow. We increased the cash on our balance sheet and we will be making a Q1 suite payment to reduce debt by approximately 5% in the first quarter of 2021.
+
+To summarize, 2020 was a year which started with uncertainty and concluded with strategic progress and accomplishments.
+
+With that, I'm going to turn the call back over to Mike to walk us through the financials.
+
+Thank you, Tim. Good morning again everyone. I'm going to walk through the results for the fourth quarter 2020 and then comment on our balance sheet as of December 31, 2020. All fluctuations are on a year-over-year basis, unless otherwise noted.
+
+Consolidated revenues for the fourth quarter 2020 were $10.4 million, which was approximately 11% lower than the prior-year period. Breaking this down by product group, we continue to see the impact of COVID-19 on carrier spending, specifically for large venue projects, as revenue in the RF components product group declined $2.2 million or 41%.
+
+Additionally, revenue in RBS product group declined $1.2 million, or approximately 64%, due to continued lower sales of our digital signal processing hardware cards. These declines were only partially offset by increased T&M sales due primarily to the contribution of Holzworth, which finished the year strong and has exceeded our expectations for all of 2020.
+
+Consolidated gross profit decreased $387,000 from the prior year, due to lower overall revenues. Consolidated gross profit margin however, was over 50% for the third consecutive quarter, at 50.4%, which was 20 basis points higher than the prior year, due primarily to the contribution of higher margin of Holzworth products.
+
+Turning to operating expenses. Consolidated R&D expenses were 3.8% lower than the prior-year period as the inclusion of Holzworth R&D expenses of $135,000 in the current year were offset by lower third-party R&D costs and lower salaries. Consolidated sales and marketing expense decreased $115,000 or 5.9% as the inclusion of Holzworth sales and marketing expenses of $589,000 was more than offset by lower commissions, specifically in our RF components product group and lower salaries and benefits due primarily to head count reductions.
+
+Consolidated general and administrative expenses decreased $248,000 or 8.8% from the prior-year period, as the inclusion of Holzworth general and administrative expenses of $242,000 was offset by a reduction in mergers and acquisition expenses. Also included in operating expenses in the fourth quarter are two one-time charges in the amount of $4.7 million and $1.1 million related to a noncash goodwill impairment charge and a loss on the fair value of contingent consideration, respectively.
+
+The goodwill impairment charge relates to our CommAgility reporting unit and is due primarily to the decline in sales of our hardware cards, the uncertainty of the future impacts on the reporting unit of the COVID-19 pandemic, and the uncertainty of the growth of our 5G software and services revenue due to the early stages of 5G adoption. The loss on fair value of contingent consideration is due to the better-than-expected financial performance of Holzworth, which required us to record an increase in the earn-out liability in the fourth quarter.
+
+Other expense decreased $209,000 from the prior year, due to lower foreign exchange losses, and interest expense increased $200,000, due primarily to our new term loan facility.
+
+Our net loss for the quarter was $5.5 million, due primarily to the one-time charges incurred during the quarter, specifically the noncash goodwill impairment charge and loss on contingent consideration related to the Holzworth earn-out. Non-GAAP adjusted EBITDA was $600,000 for the fourth quarter which was approximately $300,000 lower than the prior-year period, due primarily to lower gross profit.
+
+Turning to the balance sheet, consolidated cash as of December 31, 2020, was $4.9 million. Availability under our asset-based revolver was $7.2 million. Cash flow from operations was $3 million, and gross debt was $10.3 million. Included in our gross debt is $2 million related to the Paycheck Protection Program loan which we received on May 4. The funds have been spent on qualified expenses, primarily payroll, and our forgiveness application has been submitted to the Small Business Association, although there is no guarantee the loan will be forgiven.
+
+In February of 2021, we signed three significant amendments which are disclosed on Form 8-K filed with the SEC on February 25th and are further described in our Form 10-K filed this morning with the SEC. The first is an amendment to our term loan facility with Muzinich, in which compliance with certain covenants for the fourth quarter was waived; the definition of EBITDA for purposes of covenant calculations was amended; our interest margin was increased and we agreed to pay down $428,000 of our term loan. The second is an amendment to the Holzworth share purchase agreement, where we amended the payment terms of earn-out payments and deferred purchase price payments. And the third was an amendment to our Bank of America credit facility in which BofA consented to Muzinich and Holzworth amendments.
+
+We are very pleased with the outcomes of the amendments and we believe these revised agreements put the company in a position of greater flexibility and liquidity which will help drive growth and improve profitability in the future. This was a collaborative effort between the company Muzinich, Bank of America and the Holzworth founders, and we value their partnership.
+
+I'll now turn the call back over to Tim for some closing remarks.
+
+Thanks, Mike. At this time, there continues to be challenges providing guidance related to what a post-COVID business recovery will look like and importantly, the exact timing of how that translates to improving customer spend. A second challenge would add some uncertainty to our business forecasting is the very early stage we are at for our CommAgility RBS solutions, which have long sales cycles, more complex testing for customer acceptance and complex revenue recognition criteria.
+
+With that said, a few points of color about what we are seeing and some high level sematic expectations. We expect our consolidated Q1 2021 revenue and bookings to be comparable to our Q4 revenue and bookings. This includes assumptions around a number of large deals in final stages with some expected to close in March, others that are expected to close in our second quarter. We also expect CommAgility bookings in the first quarter of 2021 to reflect another strong quarter of bookings. This includes another new 5G software and services customer, as well as additional hardware card purchase orders from our existing large customer, which are expected to be delivered over the next three to five quarters, given the long lead times in the supply chain.
+
+Within RF components, we expect the Q1 bookings to reflect the sequential improvement to bookings in the fourth quarter, but still not at levels seen prior to the second quarter of 2020. We are not seeing many large deals yet in the funnel for RF components. Within our RF component business, we are expecting gradual improvements in bookings over the coming quarters, driven by two assumptions. First, we believe that over the course of the year, there will be an increased attendance in stadiums, large venues and buildings, which will be a catalyst for carrier spend specifically for larger in-building wireless projects. Second, now that the mid-band spectrum auctions have completed, we expect to see additional carrier spend later in 2021, as they deploy that new mid-band spectrum.
+
+To be prepared for this increase in spend, we have continued to invest in our RF component solutions to address this mid-band spectrum and we announced this new product set in July of 2020. Since then, we have invested meaningful internal efforts for customer training, engagement and demand generation. We are also very carefully evaluating and building our Tier 1 and Tier 2 inventory levels to ensure full stocking level, should the demand change suddenly.
+
+I will end with a note recognition and optimism regarding both our new Chief Revenue Officer, Alfred Rodriguez, and our new board member, Jennifer Fritzsche. Alfred is an incredibly talented executive and is already making a difference with his leadership, his network of contacts and depth of experience in wireless, semiconductors [ph] in design and (00:18:22) experience. He is a welcome addition to the executive team and I'm pleased to report his successful onboarding and contributions.
+
+We're also fortunate to welcome our new board member, Jennifer. She's a highly respected subject matter expert with 25 years of expertise as an award-winning analyst covering our customers and the sectors we serve and adds tremendous value and insight to the executive team and to the board.
+
+Thank you. And Paul, if you could please open the lines for questions.
+
+Certainly. Ladies and gentlemen, the floor is now open for questions. [Operator Instructions]
+
+The first question is coming from Marc Wiesenberger. Marc, your line is live. Please announce your affiliation and pose your question.
+
+Good morning. Marc Wiesenberger from B. Riley Securities. Thanks for taking my question. Tim, I'm wondering if you could start off with maybe talking about where the current 5G investment spending is happening and the prerequisites, timeline and expectations for it to broaden out and maybe match the kind of public perception that there is this fire hose of 5G money and just kind of square those two ideas.
+
+Yeah. So we think we're at the very front-edge of the investment. Keep in mind, the mid-band spectrums were a key component to the carrier strategy and they had to first understand what spectrum licenses they owned before they started spending money. So that's one key point. A second key point is, one of the carriers last week announced $10-billion increase over three years and that equates to assuming it's spread evenly about a 20% uplift to their investment. What's difficult is to understand the priority of that investment and whether that's at the core, and whether that's at the mobile edge commute – compute, whether that's in the fiber, and at what point that relates to the in-building environment that we address the most. And that's related to RF components.
+
+With regards to 5G spend on CommAgility, again, if you look at the balance of the metrics I called out, two of the six projects that we won in the year were 5G and that's at the very front end. Now, those two projects are expected to take approximately two years for those end applications to actually go through all of their trials and go to market with what their intended value-add and application is.
+
+So, I think we're at the very front-end of a long period of investment in 5G. I think providers are still trying to understand what the benefits of private network applications can provide for the enterprise, and that's where we're focused. Our platform, our 5G technology is a building block for those providers that are evaluating the value that 5G brings to primarily the enterprise. And now, with open RAN standards, the environment is broadening away from just the largest NEPs and we're seeing a lot more innovation and a lot more players and a lot more discussions around the dynamics and how 5G can be deployed to the market. So, I hope that's helpful, Marc. If I can expand in any area, please let me know.
+
+No. That was very helpful. I'm wondering how much of the sales in the fourth quarter and maybe 2020 in aggregate were for LTE versus 5G, and how should we think about kind of LTE spending going forward?
+
+I think we're going to see a balance. So, again, the metrics I called out is that more than half of our bookings were in the fourth quarter. There was a large order in the fourth quarter for the hardware card. So that is 4G. And then the balance on the other six projects we won, again, four of those were LTE – 4G, and two of the six where were for 5G. So, I think we're going to see, over the next two years, sort of a continued balance and we'll start to see even spend on 4G and 5G. And then as we get later into 2021 and 2022, we'll see more spend in 5G.
+
+Great. You did talk about this kind of resumption of hardware card sales with your existing customer. Do you expect that to just be a – you said it will be delivered over kind of multiple quarters, but, the purchases...
+
+Right.
+
+...do you expect to continue throughout the year, or is this kind of a one-time blip? And how should we think about that evolving?
+
+It's not one-time in the sense we received orders in Q4 and Q1, however, we're going to be conservative in our expectations about receiving more orders, because the large customer has realized spiky and lumpy demand from their customers, who are primarily the NEPs, and I think the NEPs have realized some spike in demand for their products because of the carriers and how they entered 2020, fairly robust, pulled back, focused on the spectrum auctions, and now I think the environment could smooth out in the future.
+
+But given the long lead times as a second factor, I think that these purchase orders in Q4 and Q1 anticipated – they had to anticipate the demand over a long period of time because the supply chains for all kinds of components have doubled. 12 weeks became 24, 26 weeks became 52 weeks. And so I think everyone is reacting to that and accelerating some of their orders.
+
+Got it. And then just last one for me, kind of a two-parter, the DOD has kind of been talking about accelerating their efforts to explore 5G for satellite communications and weapons systems and traditionally WTT has had strong military and defense ties, so I'm wondering if you could talk about opportunities with both cohorts there. And then I think on the last call, you talked about leveraging WTT's relationships with both government and defense to broaden opportunities with Holzworth. Any update there would be great, too. Thank you very much.
+
+Sure. So we've announced our participation in the National Spectrum Consortium and IWRP. We're enthusiastic about that, and those have certainly led us to participation in the bids and proposals for the 5G DOD trials. So we're excited about our participated – our participation in proposals there and we hope in the future we can announce that we've got some wins there, but there's some work to do. So that's one key point.
+
+A second key point is that when we think about our relationships, primarily within Test and Measurement and military and defense, they have certainly been leveraged for Holzworth, and there are very specific deal flows that came through one of our existing entities and existing customer-approved brands outside of Holzworth, that enabled the Holzworth orders to be received and taken. So we have certainly leveraged Test and Measurement to expand the Holzworth top line, number-one. Number two, our relationships within the DOD, the military and defense were also leveraged to participate in some fairly exciting 5G DOD trials.
+
+Excellent. Thank you very much.
+
+Great. Thank you, Marc.
+
+Thank you. And the next question is coming from John Sturges. John, your line is live. Please announce your affiliation and pose your question.
+
+Thank you. I'm with Oppenheimer & Company. The – just really two short questions. One is the − you had a contract you announced about supplying South Korea with certain modules that should have been completed in the fourth quarter. I'm just curious, was that completed? And the other question is, on the new business, how much of that, if you can add some color, was affiliated with NXP – your relationship with NXP? Thank you.
+
+Sure. So the EUCAST contract that we announced was completed. What's exciting about that is really the deployment and their success will continue to expand our success. So, the work that was done upfront is just a part of our arrangement, and if they continue to expand in volume beyond their trials, that will give us additional opportunity. The second point about the new business, NXP is aligned to the 5G roadmap we have, and so the 5G wins were aligned to the NXP relationship, and hopefully there's more to come from there.
+
+Terrific. By the way, I thought that you made excellent progress during the year, especially with what you had to deal with, so really a good end to a very difficult situation. So thank you.
+
+Great, John. Thanks very much.
+
+Thank you. And the next question is coming from [ph] Robert Marsin. Robert (00:27:58), your line is live. Please announce your affiliation and pose your question.
+
+Hi. [ph] Robert Marsin, Pent Capital (00:28:04). Hi, guys. Congratulations on, let's say, an interesting year. I'm concerned about Microlab. It was down in 2019 versus 2018. It was down a lot more in 2020 versus 2019, and that's despite a slew of new products and a significant investment increase in investment in R&D. Is there any issues with market share loss to Chinese due to price competition and/or technological obsolescence issues in the portfolio of products? Or are we just not getting the right bang for our buck in the R&D department there, as we try to avoid commoditization of the products?
+
+Yeah. So those are certainly – what you called out are certainly the – call it the risks and the threats in the business, the price commoditization, and the fact that the active technology will have some pressures on the passive RF conditioning. But we continue to evolve the product set to meet the demands, and those demands just take the mid-band spectrum, for example.
+
+So that requires completely different conditioning of different frequency and bandwidth at different power levels with different connection types and different carriers having to combine that as they deploy both [indiscernible] (00:29:25) and in-building. And so that's how we address the product set and that's where we point our R&D dollars.
+
+As I mentioned in my remarks, we actually had a very good first half we're encouraged by, and yet the entire decline was due to the fall-off of demand in the second half of the year. So that's a competitive space. We think we've done the right things to position our product set and our road map to capture both how we think about mid-band spectrum, as well as how we think about the NEPs going to market with the carriers, and what they expect to deploy and how we can keep – we can provide our RF components to be aligned to that solution, so call it the design-in. So, we've done some things to invest and grow that space, and I think we'll see as the carriers return to investing, we'll see what comes of it. But we've got our eye on it, and we're looking to ensure that every R&D dollar generates a return.
+
+All right. Thank you. And in Test and Measurement department, congratulations on a phenomenal acquisition and integration and synergy generation – revenue synergy generation of Holzworth. Other than that, the legacy businesses were a little on the soft side. Actually, take out $9 million of revenue for the year from Holzworth, and we did $32 million – $33 million in revenues, which, pick an adjective for that, but it was a very challenging year ex-Holzworth...
+
+Right.
+
+...without that deal. Some opposed it, but without that deal, [indiscernible] (00:31:16) argue that it sort of saved the year for us. And is there – and I think you guys really did bring a lot to the table in dramatically expanding the revenue there. So, kudos for that. Is there a chance...
+
+Thank you.
+
+Is there a chance that we continue to build on that? That's a semiconductor production product and obviously not just a pure R&D bench product. And I guess the question is, there's a – the beginning of a new CapEx cycle in parts of the semi – particularly in RF, automotive, industrial, power management. I have other companies that are starting to see very dramatic increases in orders and sales from that. Are you guys participating in that, and to the extent that for this calendar year, and how do you mitigate the deep cyclicality – do understand going into that, the deep cyclicality of that business? And what are your plans to mitigate that cyclicality if in fact it happens?
+
+Sure. So number-one, yes, I can confirm the Holzworth product set is certainly aligned to the market called ATE, automated test environment for semiconductors, but keep in mind as well, that we have a number of customers involved in military and aerospace programs that we also sell into. So we are not indexed exclusively to the semiconductor space, is sort of my first key point.
+
+As a second key point, yes, we're bullish on how we think about the cycle of CapEx spend and what's happening in the semiconductor space. And the third point, is how do we expect to mitigate the cyclicality of that and we're doing that through our product roadmap and how we think about announcing and launching our latest generation designs which provide even better measurements at a much better price point as compared to the competition. Keep in mind that others who serve that space are equally excited and equally energized to try and capture it.
+
+So, we think we're in a good space. We're not prepared to say yet. We're going to build upon and provide guidance on what we've done in the current year, but our product road map is looking very good and we expect to come out with new products over the course of the year that capture some of that CapEx enthusiasm.
+
+So I hope those three points help, [ph] Robert (00:33:42). Thank you for your comments.
+
+Yeah. Excellent. And finally on CommAgility. I think at the annual meeting last year you might have mentioned that the TAM is somewhere between $800 million and $1 billion. So, I guess our $3 million of sales has opportunity for growth here. I assume that's 4G and 5G, obviously, but we have opportunities for significant growth. Is there any way to – for us to try to model how CommAgility could grow in the next year or two considering the sales are so small, the efforts are so large, and the TAM is even larger?
+
+Yeah. So we're...
+
+Are you talking about $10 million, $15 million, $20 million in revenue over the next couple of years if you we execute well?
+
+Yeah. So we're keeping our eye on the – on that total addressable market as well and it's extraordinarily dynamic, especially now with the carriers embracing O-RAN, the Open Radio Access Network standards, and how that's changing how the market is defined and who has availability and addressability to that market. So we're actually quite excited and quite enthused as we think about our opportunity set. The challenge for everyone participating in the space is to break down all those billions of dollars to have the closest point of addressability and the value differentiation and the – first to market with the right solutions. So, we're going to continue working that. We do think there's growth opportunity ahead. And I think over the course of the year, we'll probably have a better idea of what that looks like.
+
+All right. That's...
+
+Thank you again, Robert.
+
+...not a numerical answer, but I guess that will have to suffice. Have you guys thought about holding an Analyst Day at some point in the next year?
+
+We are working with our IR firm as we think about building up a more active year in the year ahead. Certainly...
+
+All right.
+
+...I think the year past, we – like most companies with the COVID restrictions, it was – there was less to be done and we also had an environment where we had very disciplined approach to where we're spending. So we're working with our IR firm, and I do think there'll be other activities we participate in.
+
+All right. I don't know about anybody else on the call, but I look forward to an opportunity – any opportunity I get to visit Parsippany, guys.
+
+Great. Okay. Thank you, [ph] Robert (00:36:23). Appreciate it.
+
+You're welcome. Thanks.
+
+Thank you. [Operator Instructions] And the next question is coming from Michael Potter. Michael, your line is live. Please announce your affiliation and pose your question.
+
+Hi, guys. It's Michael Potter from Monarch Capital Group. Congratulations on a really strong end to the year, very impressive, and I'm glad to hear that that momentum is carrying into Q1. Can you give us some examples on CommAgility of how we're working with NXP and the go-to market strategy?
+
+Sure. So the most important activity we participate in are the joint sales activities, and we have weekly engagements for funnel reviews, and then obviously, from that, we're drawn into conversations and – we draw them into conversations, and they draw us into conversations. So that's where we spend the majority of our time. NXP gives us scale, they act as a force multiplier and they credentialize our expertise for large companies that might not otherwise be aware of us, or be willing to work with a smaller sized company. So, that's the biggest value proposition and there are a number of named funnel opportunities that are directly attributable to that relationship.
+
+In terms of go-to-market on other joint marketing, we do participate. They have a third-party collaboration website that we participate in as one example. A second example is that given NXP's use of the ARM core processor, we are also aligned to the ARM architecture and just very recently, we participated in the ARM 5G Virtual Summit where we both published articles for their blog, and we also provided technical demos. So, very active with NXP, focused primarily on joint sales pursuits, but – as well there's other various marketing venues to participate in.
+
+As the world returns to planning for trade shows going forward, I think there's more of an opportunity there, but there's still a great deal of uncertainty on trade shows and you've probably seen some of the headlines – despite Mobile World Congress moving from March to June, a large number of companies have already been pulling out of that. So, I think we all feel better about the world at large returning to normal, but it's still uncertain when the large trade shows will start hitting the calendar and be well attended.
+
+Okay. And the sales cycle in regards to these opportunities with NXP, I'm assuming we are – these are development programs that we hope will become commercialized. Am I looking at that correctly and therefore they will take some time to truly ramp to their hopefully much larger potential size?
+
+Yes. So, some of the contracts that we have are the sale of software for different development applications. Take the government lab. There's probably – unless they need additional support, there's probably not a lot of a back end to that. On other instances where there's a proof of concept and a trial, there is a back end to that and our contracts provide for those royalty license to be paid to those, should they accomplish volume. In a third instance, it's the sale of the software. It's a significant amount of customization to get to, call it, a launch, or a proof of concept, and there may be support that follows that, but it's – the application is not designed in volume and so it's more of support services that come in on the back end.
+
+Okay. Okay. Another question just on Microlab. Obviously a disappointing year and most affected by COVID. We went into 2020, I think we had about six, seven – seven-figure projects kind of going into the year that were in our funnel, and obviously a lot of those got canceled or pushed out, and now we're into 2021. I'm just curious. Are we seeing those prospects – those projects from 2020 kind of come back to life? And is that over and above some of these projects that were planned originally for 2021?
+
+Yeah. So those six or seven projects actually go back to 2019.
+
+Okay.
+
+And so, we did win a number of them, we delivered them in the second half of 2019. There was some delivery in the first quarter. We have not seen large projects of those size. What we internally typically define as over $500,000 opportunity for us, we've seen none of those over the last six months of 2020. So, we track those very specifically. We have not seen any in 2020 and nor have we seen there's the discussion of a single project that exceeds $500,000, but barely, at the very earliest stages with discussions and decision-making likely to be six months away. So that's the only one that showed up in the funnel. We have not seen any of the large stadium venues, that we have typically delivered anywhere from two to four in any given year, which helped drive those results.
+
+Now the carrier behavior is changing. Sometimes they were leading those projects. Now they are – now they are putting forth a system integrator or a neutral host provider to build them. Of course, they have specs that they have to meet. So, again, it's a very dynamic environment in that space and what we'll see in 2021 and 2022 will just look a lot different in terms of the participation and involvement as we thought about 2019.
+
+So, I mean, I have to assume and most of the large carriers had their Analyst Day last week and the week before, and they were all over TV and in the papers talking about an enormous CapEx spend for this year and obviously into next year as well. And some of them use the example of when people go back to college campuses in the fall, when they go back to – people go back to stadiums, to convention centers, they're going to expect that 5G is rolled out in these facilities come – as I said, come second half of the year. If that is the case, I have to assume that we're going to have to start seeing contracts I would guess sometime in Q2 in order to support a Q3 and Q4 rollout.
+
+Yeah. I think my comments that I made about our expectations, Michael, are very much aligned to the way you've described it. The difficulties and challenge now is we were in discussions with one football stadium, received initial order, and now the timing of that is highly uncertain. And what was described to us as I understand it was the shutdown at Duke University. Now, they're saying, we're not going to do it as earlier – as early as we thought. So there's still a great deal of uncertainty about that. I guess that's sort of one point.
+
+The second point going back to the data point that you raised about the carriers announcing enormous amounts of CapEx, one carrier maintained their CapEx guidance for the year between $17.5 billion and $18.5 billion. The extra $10 billion they announced would be spread over three years. Now, again, not knowing where that's going to be spent, it could be mobile edge compute, it could be the core, it could be laying fiber. They didn't get into that level of detail. If you assume that it's spread evenly over three years and it's spread evenly amongst every partition of spend then that would translate into 20%. That does give us hope. It's just when is the timing of that.
+
+And that's also coupled with comment that we're preparing now for that spend to be turned on somewhere in the midpoint of the year. Whether that's Q2 or Q3, it's very hard to determine, but we're preparing for it, we're addressing our Tier 1 and Tier 2 inventory levels, and we're continuing to promote and educate our ultra-wide band solution sets that address the very spectrum we hope we'll be deploying.
+
+Okay. All right. Terrific, guys. Congratulations on a good quarter and well done with the conference call.
+
+Thank you, Michael. Appreciate that.
+
+Thank you. And we did have [ph] Robert (00:45:59) come in with a follow-up. [ph] Robert (00:46:02), your line is live.
+
+Hey, guys. Obviously, we addressed, as you say, with Microlab, the small-cell market, but mostly in-building. Do we have products that would work outside in exterior or small-cell densification efforts in urban areas and not just in-building? And is there a chance that at some point the carriers decide to dramatically expand that part of their coverage, and – or are cities lost forever to the wireless company?
+
+Yeah. No, I think you touched on two themes there, outdoor and urban, or what I translate to millimeter wave and how the carriers think about the urban environment. So, yes, we have product sets that address both the higher spectrum – the higher frequency spectrum that is required for the urban dense environments. Number one. Number two, we do have a subset of our products that deal with outdoor environments. In fact, we've launched a series of what we call the Salt/Fog product sets and that's simply a level of rating that endures the needs of components that are outdoors. So, less around towers, but we do have outdoor, and the majority of ours are the in-building wireless.
+
+Well, the urban environment is moving outdoors. So, hopefully, the carriers decide to densify that as well and we get some business there. Thanks.
+
+We hope. We hope, Robert. Thank you for that.
+
+Thank you.
+
+Thank you. And there were no other questions from the queue at this time.
+
+Great. Thank you, everyone, for joining us today, and we look forward to speaking to you again very soon.
+
+Thank you. Ladies and gentlemen, this does conclude today's conference call. You may disconnect your phone lines at this time. Have a wonderful day. Thank you for your participation.

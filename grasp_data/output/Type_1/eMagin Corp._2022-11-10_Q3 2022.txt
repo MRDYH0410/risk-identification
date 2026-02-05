@@ -1,0 +1,187 @@
+Participants
+CORPORATE PARTICIPANTS
+Mark A. Koch — Chief Financial Officer, eMagin Corp.
+Andrew George Sculley — Chief Executive Officer & Director, eMagin Corp.
+Amalkumar P. Ghosh — Chief Operating Officer, eMagin Corp.
+
+Management Discussion Section
+
+Question And Answer Section
+
+Thanks for standing by, and welcome to the eMagin Corporation's Third Quarter 2022 Earnings Conference Call. At this time, all participants are in a listen-only mode. After the speakers' presentation, there will be a question-and-answer session. [Operator Instructions] As a reminder, today's program is being recorded. And now I'd like to introduce your host for today's program, Mr. Mark Koch, Chief Financial Officer. Please go ahead, sir.
+
+Thank you and good morning, everyone. Welcome to eMagin's third quarter 2022 earnings conference call. Before we begin, I would like to remind you that in the following prepared remarks and in our Q&A session, we will make statements about expected future results that may be forward-looking statements for the purposes of federal securities laws. These statements relate to our current expectations, estimates and projections and are not guarantees of future performance. They involve risks, uncertainties and assumptions that are difficult to predict and may prove not to be accurate, especially in light of the effects of the ongoing pandemic.
+
+Actual results may vary materially from those expressed or implied by these forward-looking statements, and we undertake no obligation to update these disclosures. These forward-looking statements should be considered only in conjunction with the detailed information contained in our SEC filings, including the risk factors described in our 2021 Annual Report on Form 10-K.
+
+During this call, we will also refer to adjusted EBITDA, a non-GAAP financial measure, to provide additional information to investors. A reconciliation of adjusted EBITDA to net income, which is the most directly comparable GAAP financial measure, is provided in the press release that we issued this morning. Non-GAAP financial measures such as adjusted EBITDA are not meant to be considered in isolation or as a substitute for our GAAP financial measures and financial statements.
+
+With that, I will turn the call over to our CEO, Andrew Sculley.
+
+Thank you, Mark, and hello, everyone. Thanks for joining us today. Our third quarter was highlighted by a 31% year-over-year revenue increase, leading to improved gross margins and positive EBITDA, along with new business wins and continued growth in our backlog of open orders.
+
+Our total revenue rose to $7.6 million compared with $5.8 million a year ago while our gross margin improved to 37% from 10% a year ago and our EBITDA for the third quarter of 2022 was a positive $0.7 million. This is the fourth consecutive quarter in which we realized year-over-year increases in throughput and product revenues of more than $7 million. This was the result of the new Title III and IBAS funded equipment in our production facility, along with improvements in our manufacturing operations.
+
+Our display sales grew during the third quarter, reflecting strong military shipments and increased medical segment revenues. As of the end of Q3, ongoing demand for our displays for use in thermal weapon sites, military night vision goggles and medical applications drove the increase in our total backlog to $16.6 million, from $14.3 million at the end of Q2. Approximately 93% of the total third quarter backlog is deliverable within the next 12 months.
+
+As we discussed last quarter, US Army's Program Executive Office for Simulation, Training and Instrumentation awarded us a $2.5 million two-year development contract to secure a US source for high-performance microdisplays that provide high brightness and visual acuity, even in bright daylight conditions.
+
+In the third quarter, we recognized $0.6 million of revenue under the initial phase of this contract, which was related to the design of a backplane that will allow for significantly higher luminance of our displays. In December, we will take delivery of the upgraded R&D dPd deposition chamber, which will mark the start of a new era in OLED microdisplay technology. We will use this chamber to make the displays [indiscernible] (04:44) by the last phase of our proof-of-concept work with a Tier 1 AR/VR customer. This upgraded R&D chamber will be used to fabricate sample quantities of disruptive, high-brightness dPd displays for both military and commercial markets. The design process for this R&D chamber has played a key role in defining the specifications for the large production capable dPd organic deposition tool purchased under Title III funding that is nearing completion.
+
+In September, as previously announced, we received our AS9100 Rev. D certification along with our ISO 9001:2015 certification. The AS9100D is an internationally recognized quality management standard that is specific to the aerospace, aviation and defense industries. These certifications strengthen eMagin's competitive position and standardize our quality, reliability and safety processes. Furthermore, we believe that our certified quality management systems, combined with the highly differentiated dPd manufacturing equipment and processes will continue to make eMagin the supplier of choice for the high-brightness and high-resolution OLED microdisplay solutions of the future.
+
+Regarding our Title III and IBAS funded programs, as of the end of Q3, we had added and qualified four new pieces of equipment to our production line and had received three additional pieces of equipment that are currently installed and are in the process of being qualified. As I mentioned earlier, this equipment has contributed to the improvements in our production process and we have seven more major pieces of equipment on order, including the production capable dPd organic deposition tool, which should improve device performance, yield and throughput of this innovative technology. Overall, we remain on track with the requirements of these important government grants and are beginning to realize the yield, reliability and throughput improvements that we expected.
+
+With that, I'll turn the call over to Mark for a discussion of our financial results.
+
+Thank you Andrew and hello everyone. Total revenues for the third quarter of 2022 increased 31% to $7.6 million compared with $5.8 million reported in the prior-year period. Total revenue consists of both product revenue and contract revenue. Product revenues for the third quarter of 2022 were $7.0 million, an increase of $1.7 million from product revenues of $5.3 million reported in the prior-year period. The year-over-year increase in display revenue was due to strength in military markets, including shipments of displays used for the ENVG-B program and higher revenue contributions from medical customers. Contract revenues were $0.6 million compared with $0.5 million reported in the prior year, reflecting an increase due to development associated with the high-brightness display designed for the Department of Defense and a proof-of-concept display for a Tier 1 consumer company.
+
+Total gross margin for the third quarter increased to 37%, resulting in a gross profit of $2.9 million compared with a gross margin of 10%, which resulted in a gross profit of $0.6 million in the prior-year period. The gross margin improvement resulted from several factors including higher yields, increased volumes, a more favorable product mix and the successful qualification and sale of a product that had been previously written off because of an initial quality issue that was ultimately resolved. This resulted in a savings of approximately $0.6 million in third quarter materials cost as compared to the expected cost of producing these displays. Excluding this positive impact, third quarter 2022 gross margin would have been 30% and gross profit of $2.3 million.
+
+Operating expenses for the third quarter of 2022, including R&D expenses, were $3.0 million compared with $3.9 million in the prior-year period. Operating expenses as a percentage of sales were 39% in the third quarter of 2022 compared with 67% in the prior-year period. Prior year R&D expenses reflected significant investments in high-brightness XLE and dPd processes. Operating loss for the third quarter of 2022 narrowed to $0.1 million compared with an operating loss of $3.3 million in the prior-year period, primarily reflecting the higher gross profit.
+
+Net loss for the third quarter of 2022 was $0.3 million or $0 per share compared with income of $1.3 million or $0.01 per share in the prior-year period. After adjusting for the net income allocated to participating securities of $0.3 million and a $4.7 million in change in the fair value of the warrant liability for the prior-year period, net loss for the third quarter of 2021 was a loss of $3.4 million or $0.05 per share on a fully diluted basis. Adjusted EBITDA for the third quarter of 2022 improved to positive $0.7 million compared with negative $2.1 million in the prior-year period.
+
+Turning to the balance sheet, as of September 30, 2022, the company had cash and cash equivalents of $3.9 million and working capital of $13.9 million. During the third quarter, the company repaid $0.6 million under its asset-based lending facility. Borrowings and availability under the facility were $0.7 million and $1.1 million respectively as of September 30, 2022. During the quarter, the company realized $1.5 million in net proceeds from sales of common shares under its ATM program.
+
+With that, we will open the call for questions. Operator, please go ahead.
+
+Certainly. [Operator Instructions] And our first question comes from the line of Kevin Dede from H.C. Wainwright. Your question, please.
+
+Hello. Good morning. Thank you for accepting my questions. This is [ph] Michael Donovan (12:14) calling in for Kevin Dede. First of all, congratulations on a great quarter. First question, now, the advanced dPd chamber that you're discussing that's supposed to arrive in December, is this the one that you referenced in Q2 that was arriving and – supposed to arrive in September or is this a different piece of equipment?
+
+No, it's the same piece of equipment.
+
+Okay. So, it's just a supply chain issues or...
+
+Yeah.
+
+...are there...
+
+No, there's no issue with it except for the work involved in getting it ready and there are some supply chain items in that, of course.
+
+Understandable. And now, how does this affect the timeline of qualifying this dPd chamber for all of your products that are currently being produced?
+
+Well, the – remember, this chamber is going to be a small R&D chamber, so it's only going to produce small samples and help us continue our R&D effort. For example, the – it'll help us also with the PEO STRI. That's the $2.5 million project that we mentioned. It'll help with that doing some work on that and the delay in getting the chamber in is going to affect things like that as well. But first, remember, it's not going to delay the $2.5 million program because the first thing we have to do is the wafer themselves and that we're working on. By that, I mean, the design of the wafers.
+
+Okay. That makes sense. Now speaking to competitive landscape, does your 10,000-plus-nit capability still put you somewhat in a league of your own?
+
+Yes, it does, because the – if you go back to May of this year and that's when the Display Week 2022 from the Society of Information Display (sic) [Society for Information Display] (14:22). So that's a major display industry conference. The best brightness we saw besides ours was 7,000 candela per meter squared or nits and that was – we actually could see the display, it wasn't running that bright, but that was an LG display and we, of course, showed our display. And when somebody came by the booth and went to see the 10,000-plus nits, we cranked it up for them.
+
+That's great. That's great. Then, the design of the backplane that you're referring to, does this allow you to go beyond 10,000? I think you – on the Q2 call, you briefly mentioned capability of getting close to 20,000. Does that help with the brightness or this backplane help with other aspects?
+
+Oh, yeah. Absolutely, we need – no, we need the backplane to help with the brightness. There are other things that we put in it to make it better. Every time we design a backplane, we improve it. So also those designs will be portable to the next generation of displays that we do and...
+
+Great.
+
+...20,000 is what we said before, and that's what we're looking at.
+
+Excellent, excellent. Now we see all these military grants. That's phenomenal. I know you cannot name specific names, but looking at composition of customers and potential customers, can you give a brief estimate of military versus medical applications versus consumer applications, how are you seeing this?
+
+Okay. If I can step back and just talk about display revenue for the moment, our – an estimate of military, now, we have to be a little careful because we can't say exactly what the military is because we have some customers that supply multiple markets and the military, we usually say, is somewhere between 65%, 70% of our total revenue, but I want everyone to be careful whenever we say that because I'm not talking about US military and I'm afraid that the audience always thinks that, oh, your US military is 70%, that's not true because half of our display sales on average, depends on what quarter, are outside the US. So, when we say military, we're talking about a much broader market than US military.
+
+Okay. That's an important note. Great. Well, that's all my questions right now. I'll jump back in the queue.
+
+Okay...
+
+Thank you.
+
+...unless you want to add.
+
+No, no.
+
+Okay. That's good. [Operator Instructions]
+
+And our next question comes from the line of [ph] Mike Willey (17:27) from – he's a private investor. Your question, please.
+
+Good morning, Andrew and Mark.
+
+Morning, [ph] Michael (17:33).
+
+Amal's here too Mark – or [ph] Mike (17:36), sorry.
+
+Oh, good morning, Amal.
+
+Hi, [ph] Michael (17:38). Hi.
+
+I wanted to start with a question on the CHIPS Act. I think back in September, I noticed the commerce department had released some guidance on that, and one of the key takeaways that I saw there was for large companies to look to form relationships with smaller businesses, to put themselves in the best position to receive funding. I was interested if anyone has reached out to you as part of that application process and looking to include you guys as – to try to get that funding?
+
+In times like this, let me say it differently, we always reach out to other companies where we do talk with foundries and talk to them about wafer supply and also combining with them for the CHIPS Act. We've talked to a number of companies about that.
+
+Okay. Do you think that's the way it happens or is eMagin also looking to apply directly for this funding?
+
+Well, yes. Remember, it's 50% funded by the government, 50% by the companies.
+
+Okay. Okay.
+
+That's roughly. It could be different, okay?
+
+Right. Okay. Well, my next question, a little bit on the potential manufacturing partner, but I was wondering if you could maybe share a little bit more on the depth of where those discussions have gone? I guess, specifically, I was interested if any or all of these potential partners have vetted your technology to the point where they might be confident today in making the big type of investment in tools and that kind of thing that would be needed to make this all happen?
+
+Well, we can't really say that because obviously we're under NDA with anyone with whom we're talking, but we have talked with a number of companies.
+
+Okay...
+
+And...
+
+...was there anything that...
+
+...just one other thing. We have displayed the technology at that Display Week 2022. We've taken a number of companies, both consumer electronics as well as others in to see our 4K display, for example. And that's directly patterned also. And the one that we had in the booth, we showed that to anybody who came by and we did win the People's Choice Award for the best new technology. And I should mention that when I say people's choice, I don't mean just the people on this phone call, it's the display industry that actually voted on this and told us that we had the best new technology. So it is getting a lot of attention.
+
+Okay. And not sure how much you'll be able to say here, but what do you think the timing looks like for getting a licensing deal done with one of these guys. Is that something that you could see in the near term or is that still kind of potentially a ways out?
+
+Well, obviously, we're working hard on that and we're working hard in both directions. One is the consumer electronics side. People interested in the technology always helps. So we're working both sides of that, but we can't give you a timeline on that because we haven't said anything to the outside world and we always respect – ...
+
+Okay.
+
+...we always respect the confidentiality of all of our discussions.
+
+Okay. Let's see. I think my last question has to do with just kind of your strategic vision for the company. I think the way that I look at it right now, you guys have such a tremendous opportunity on the consumer side and just looking at where the market is valuing the company, I don't really see a lot of recognition there. I was just interested in your thoughts on how you think that you best monetize that value for shareholders?
+
+Well, the monetization of that is obviously with success, and as we continue with the technology and talking to consumer electronics companies as well as potential partners, we can see that success is on the horizon and the – and I didn't say anything about the timing of that, the consumer electronics companies are very interested in AR/VR.
+
+Okay. And I guess I was interested if like you and the board would consider any sort of strategic alternatives that might kind of pull that monetization forward a little bit rather than – it seems like maybe these revenues – that opportunity is still a couple years out. And I guess what I was getting at is maybe some of these companies that you're working with have more appreciation for the value of the company than the market does right now. Is that something that you guys think about at all?
+
+Well, obviously, we look at any opportunity that makes sense to us [indiscernible] (23:39), and we want to move this technology forward and that's what we're working on right now. And I agree the stock price has two things. One is the market was very bad and therefore it was also reflected in us and it's important that the base business does as well as it has done now, because the base business is doing much better as you can see with the funding of the new equipment and given that, then we see the upside.
+
+Okay. So likely this manufacturing partnership if and when it comes to be that would really be an important catalyst in probably moving that stock price up, right?
+
+Oh, of course. Here we want to be the leader in this technology and I shouldn't say it that way, I should say we are the leader and that technology, for example, the display industry has said that with the Display Week 2022 award for the best new technology. And we are the only company that we have seen with 10,000 candela per meter squared or nit display in operation and we've demonstrated that and sold those displays to companies for their own evaluation. So there is interest in this technology, clearly.
+
+Right. All right. Well, thank you very much again for taking my questions and congratulations on all the progress.
+
+Thank you, [ph] Michael (25:29).
+
+Thank you.
+
+Thank you. [Operator Instructions] And our next question is a follow-up from the line of Kevin Dede from H.C. Wainwright. Your question please?
+
+Oh, thank you so much for accepting my follow-up question. Was wondering if you could speak more towards yields and how much of a catalyst higher yields are for gross margin improvement and kind of these margins are sustainable? And also for the really big machine that you'll be receiving that can increase capacity, where are you guys on that front? And yeah, so if you can unpack that, that'll be great.
+
+So, I'm going to start with the end of your question. The big machine is still on target for installation in the first half of next year, and start up in the second half. That's – that was the goal. That's still in – on that target. There are a few things that we have in – just to let you know, we have three different vendors working for us on this. So, it's not as easy as one person does the machine and it's in. It will do our direct patterning technology in production and we'll also do in production the capability of – as we mentioned with that $2.5 million project to get to 20,000 candela per meter squared or nits. This tool will be able to do that in production.
+
+So we're very excited about it. It obviously can also do any other display we make white with color filter, monochrome, white or green, et cetera. So it will be a great benefit for us. And the yield improvement, we expect to continue that as we install the equipment under the Title III and IBAS funding. We've already seen the throughput improvement and part of that is yield, of course, and the new machine will be even better.
+
+Very good. Now, you briefly discussed the consumer segments and consumer opportunities. Are you able to give us a number of how many consumer-facing brands that you're serving right now?
+
+I don't think we should give you the number, but there we've talked to a number of companies and there's interest in the technology. Some of them want it now, so it's very important for us to continue.
+
+Good. Good. Now we see some headlines that are maybe speculating if you're serving the likes of Valve or Meta, I don't want to say that you are right now, I did not want to allude to that, but at what point in the relationship with your consumer-facing brands would you be able to market yourself as serving such Tier 1 consumer-facing brands?
+
+Well, whomever we've spoken to and obviously a lot of companies, not only in the US but the company themselves, we respect what their desire is. If they want us to keep silent, which they do, then we keep silent. We want to...
+
+Okay.
+
+...serve our customers.
+
+That makes sense. Well, that's all my questions for now and appreciate your time and I'll turn it over to the next analyst.
+
+Thank you very much.
+
+Thank you. [Operator Instructions]
+
+And I'm not showing any further questions in the queue. At this time, I'd like to hand the program back to management for any further remarks.
+
+Thank you, Jonathan. This concludes today's earnings call. Thank you everyone for your interest in eMagin and have a great day.
+
+Thank you ladies and gentlemen for your participation in today's conference. This does conclude the program. You may now disconnect. Good day.

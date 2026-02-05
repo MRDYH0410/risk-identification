@@ -1,0 +1,150 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+Jerry D. Chase — President, Chief Executive Officer & Director, BSQUARE Corp.
+Marty Heimbigner — Chief Financial Officer, BSQUARE Corp.
+Adib Motiwala — Founder and Owner, Motiwala Capital LLC
+
+Management Discussion Section
+
+Question And Answer Section
+
+Good day and welcome to the Bsquare First Quarter 2016 Financial Results Conference Call. Today's conference is being recorded.
+
+At this time, I would like to turn the conference over to Jerry Chase, Bsquare Chief Executive Officer. Please go ahead.
+
+Thank you, and good afternoon, everyone. Before I begin, let me remind you that this call is being webcast and that a recording of the call and the text of our prepared remarks will be available on our website. During this call, we will be making forward-looking statements. These statements are based on current expectations and assumptions that are subject to risks and uncertainties that could cause actual results to differ materially.
+
+Please refer to the cautionary text regarding forward-looking statements contained in our earnings release issued today and in the posted version of these prepared remarks, both of which apply to the content of this call. All per share amounts discussed today are fully diluted numbers where applicable. As in prior quarters, I'm pleased to report that we continue to see solid execution across our traditional businesses, while we transition the company toward increased focus on DataV, our Internet of Things software offering.
+
+Revenue for the first quarter was $25.4 million. And, while making incremental investments in DataV, we were still able to deliver our eight consecutive quarter of profitability. Before getting into specifics on our third-party software and engineering services business, I'd like to provide an update on our progress with DataV.
+
+On that front, we are encouraged by a customer pipeline that is growing both quantitatively and qualitatively, representing opportunities across an array of industrial sectors. We spent a good deal of time over the last quarter communicating with industry analysts, as well as partners and prospective customers, and are encouraged by the reception we have received.
+
+Many of these parties have told us that the approach Bsquare is taking with DataV, our complete but modular software stack offered alongside comprehensive systems integration services, is both unique and compelling.
+
+We also announced two important new partnerships during the first quarter. Building on a long and successful relationship with Microsoft, we announced interoperability between DataV and Microsoft's Azure IoT cloud offering. We also announced the new relationship with Amazon Web Services, similarly focused on their cloud-based IoT services. Together, these announcements give us the ability to scale DataV IoT deployments over the largest combined cloud infrastructure in the world.
+
+We also see a strong and growing customer pipeline indicating interest in tangible business use cases that DataV can help address. These use cases, many of which contribute directly to asset uptime, include: The ability to accurately predict failures before they occur, which improves uptime for vital business assets; the use of data-driven diagnostics to speed repair times, further improving asset uptime while reducing service and warranty costs; enablement of condition-based servicing to improve asset longevity while further reducing service costs; and the application of data analytics to optimize the performance and efficiency of connected assets.
+
+You will recall that in the past we've stated that we would invest selectively in DataV until such time as we saw clear indications of market potential. As noted earlier, today, we see a customer pipeline that is growing quantitatively and qualitatively. That outlook, coupled with the belief that the response we are seeing to DataV from customers, partners and analysts, indicates that we have a very competitive product, leads us to conclude that now is the right time to invest more aggressively in DataV in order to capitalize on this opportunity.
+
+Toward that end, we anticipate incremental investments in Q2 in R&D, sales and marketing.
+
+Next, I'd like to move to third-party software sales under the leadership of Scott Caldwell. This business generated 78% of our Q1 revenue at 14% gross margin. As mentioned in our prior earnings call, we have taken a number of steps designed to provide greater stability in this portion of our business and feel confident that we can continue to deliver value to our Microsoft licensed customers.
+
+Next, I'd like to move to engineering services under the leadership of Mark Whiteside, which drove 21% of our top line in Q1 at 24% gross margin. As we've discussed in the past, our engineering services business provides engineering support to Fortune 500 customers such as Google, Coca-Cola, Hewlett-Packard and Mitsubishi.
+
+We expect gross margins for engineering services to be down slightly in the second quarter due primarily to transitions in the Ford SYNC project. We are also leveraging our engineering services business in the IoT market. Our ability to offer systems integration and application development services alongside DataV gives us a unique and meaningful differentiator.
+
+Finally, our proprietary software product revenue was $250,000 in Q1, at 56% gross margin.
+
+Next, Marty Heimbigner, our CFO, will address our financial performance during the first quarter of 2016.
+
+Thanks, Jerry. With that business overview, let me recap our financial results reflecting the continuing hard work and talents of the entire Bsquare team. We reported total revenue this quarter of $25.4 million, down 3% from $26.3 million in the first quarter of 2015 due to strong proprietary software sales in the prior year period. Revenue was up 2% sequentially from $25.0 million in the fourth quarter of 2015, primarily due to stronger third-party software sales.
+
+Third-party software sales were $19.9 million this quarter, up 1% year-over-year from $19.8 million. Compared with the prior year quarter, our Microsoft licensing revenues were up approximately $1 million, offset by reductions in MobileV and other third-party software sales. Third-party software sales were up 5% sequentially from $19.0 million from the fourth quarter of 2015, again driven by strong Microsoft licensing revenues.
+
+Service revenue was $5.3 million this quarter, up 18% year-over-year from $4.5 million, but down 4% sequentially from $5.5 million in Q4 2015. Service revenue was up year-over-year primarily due to stronger service revenue in North America.
+
+Proprietary software revenue was $250,000 this quarter, down 87% from $2.0 million year-over-year and down 55% from $558,000 quarter-over-quarter. As we have previously noted, revenue and gross margin from our proprietary software products can fluctuate significantly from one quarter to the next, and investors should not extrapolate individual quarterly results for future periods.
+
+Next, I'll turn to gross profit and margins. Overall gross profit was $4.3 million this quarter or 17% of total revenue, compared to $5.4 million or 21% of revenue in the year-ago quarter and $4.9 million or 20% of revenue in Q4 2015.
+
+Third-party software gross margin was 14% this quarter, flat with Q1 2015 and down slightly from 15% in Q4 2015. As you may recall, improvements in third-party software margin during the past year are not expected to continue in 2016 due to recently announced changes regarding pricing and distribution for embedded Microsoft Windows product. Although we have entered into transition agreements with Microsoft and the majority of our customers under substantially the same terms until December 31, 2016, there are going to be no assurance that our third-party software gross margin will remain at the level achieved in 2015.
+
+Service gross margin was 24% this quarter, 17% in a year-ago quarter and 29% in Q4 2015. The quarter-over-quarter decrease was due to a decline in utilization of engineering resources for the quarter.
+
+Proprietary software gross margin was 56% this quarter, down from 93% in the year-ago quarter, and from 80% in Q4 2015. Fluctuations in proprietary software gross margin are generally driven by changes in revenue, as the cost of sales is relatively fixed.
+
+Next, moving down the income statement to operating expenses. Total operating expenses were $3.6 million this quarter, essentially flat compared to $3.6 million in Q1 2015 as well as $3.6 million in Q4 2015. Stock-based compensation expense declined $80,000 quarter-over-quarter, but was offset by higher compensation cost for salary adjustment and seasonally higher payroll taxes. Stock-based compensation expense was $149,000 higher in Q1 2015 as a result of hires made during 2015.
+
+Now, I'll speak to our bottom line result. Net income for the first quarter was $500,000, or $0.04 per share, which included a $130,000 non-cash charge for an increase in the valuation allowance for deferred tax assets in Japan. This is compared to net income of $1.8 million or $0.15 per share in the year-ago quarter and net income of $1.1 million or $0.09 per share in Q4 2015 which also included $100,000 non-cash charge for an increase in the valuation allowance for deferred taxes in Japan.
+
+We generated adjusted EBITDAS of $1.2 million this quarter, down 47% compared to $2.3 million in the year-ago quarter due to strong proprietary software sales in Q1 2015, and down 38% compared to $1.9 million in Q4 2015 due to lower engineering services and proprietary software revenue. Adjusted EBITDAS is a non-GAAP measure defined as operating income before depreciation, amortization and stock-based compensation. The reconciliation to the comparable GAAP financial measure can be found in our press release and on our website at bsquare.com. We use this non-GAAP measure to monitor our ability to generate cash from the operations of our business.
+
+Cash and investments was $27.9 million as of March 31, 2016, an increase of $1.1 million from $26.8 million as of March 31, 2015 and a decrease of $2.1 million from $30 million as of December 31, 2015. Generally, adjusted EBITDAS has historically been a proxy for cash flow from our business; however, working capital changes impact the change in cash and investments as well. Due to the extended payment terms we provided to a highly creditworthy customer, our accounts receivable balance grew by $2.3 million from $19.0 million as of December 31, 2015 to $21.3 million as of March 31, 2016. This was a working capital change that had negative effect on our cash balance as of the end of the period.
+
+I will now turn the call back to Jerry to provide our outlook for the second quarter and also closing remarks.
+
+Thank you, Marty. We currently have the following expectations for the second quarter of 2016. Total revenue will be in the range of $23.5 million to $25.5 million. Gross margin percentage for engineering services will be down slightly. Increased investments in DataV R&D, sales and marketing in an effort to capitalize on a growing customer pipeline. Positive adjusted EBITDAS. And the accounts receivable balance, which has been growing due to extended payment terms granted to a highly creditworthy customer, is expected to plateau by the end of Q2.
+
+In summary, while we continue to focus on execution within our traditional businesses, we will begin to accelerate activity around DataV in order to capitalize on what we perceive to be a substantial market opportunity.
+
+Kevin, please open the call for questions.
+
+Thank you. [Operator Instructions] We'll take our first question from [ph] Chris Cox (13:28), he's a private investor. Please go ahead.
+
+Hi. Thanks for the time. Jerry, I have a quick question. I'm a little confused trying to follow the fact pattern on the Microsoft agreement. A more recent press release led me to believe that the incentive change that I think had been talked about in the last quarter or two had been pushed out about a calendar year, but then during Marty's commentary, led me to believe may be that's something different. Can you shed some light on that because I'm a little confused trying to understand the timing of the potential impact to the incentive changes on the embedded product?
+
+Yes. This is Marty. With respect to that, we referred to transition agreements that we put in place with the majority of our customers. That means that we still have customers that are operating under similar pricing terms that we had in 2015 and some that are operating under the new changes that Microsoft put in effect January 1. So, what that means is that there is a blended effect that's going on across our customer base.
+
+So, how does the recent press release talking about Microsoft extension to 2017, so is that an extension – are you following my confusion here? It's not clear whether the compressed margins that we can expect or that you continue to sort of allude to are those happening now or what we have now or we can expect for another 12 months. How does that check out? I'm having a hard time adding this up.
+
+So, the agreements that you're referring to is Microsoft licenses all their distributors, Bsquare is one of their distributors. And our distribution agreement that expires on June 30, we extended that out to June 30, 2017. So, that's just our basic agreement. When I'm referring to our pricing terms, those terms Microsoft made effective January 1, 2016. And we were able to enter into some transition agreements with the majority of our customers that kept the pricing changes under the same terms for all of 2016 that we had during 2015. So, what you are seeing is a blended effect of the changes that Microsoft put in place January 1, as well as continuation of the price we had with certain customers in 2015.
+
+Okay. Now, that makes sense. Thank you for clearing it up. Second question, with respect to DataV, Jerry, I appreciate the high-level overview. I guess, as a longer time holder of the stock, I mean, one of the concerns I've had is, and it's pretty clear in this quarter, that the proprietary software bucket really drives the profitability of the organization. The numbers are quite low this quarter, which I think makes sense, you're investing in the business, I understand that.
+
+But can you speak a little bit about the timing or the overall impact of what you think DataV could look like in the next quarter or two quarters? Understanding that it's a cycle, understanding that it's a ramp. It's just obviously so meaningful on the overall profitability of the business. I think investors would appreciate understanding a little bit more color around this. What you see as the opportunity in the near term, the type of customers you're talking to, when we can start to see meaningful revenue, that sort of thing.
+
+Sure. So, certainly understand the question. In previous quarters, we had – I personally had chatted, made a commitment to you and the other investors that we would only invest in R&D, I'm sorry, in DataV in a meaningful way when we saw appropriate customer and market activity. And we referred to our pipeline and prepared remarks. And so, what we're seeing is a good pipeline where we're pleased. Most of that pipeline is Fortune 500 customers. Actually, there's probably a few Fortune 100 customers in there.
+
+We do believe that DataV is a segment-leading product, and we have not given specific guidance on when that would take effect, but clearly we are investing now because we see the market opportunity. And a number of quarters ago, we had gone into record as saying that we believe the gross margins for DataV would be north of 70%. We still see that same profile. So, we're quite encouraged with feedback from customers, from partners, from analysts, and are investing commensurate with what we see in the market.
+
+And I appreciate that. And again, I mean, from my perspective, as a longer term holder of stock, I mean, your – I'm not going to put – I'm putting words in your mouth, I know this, but you're basically saying, as a business, our commitment was we weren't going to invest in it unless we saw the opportunity, and I'm telling you now that I'm investing in it. So, two plus two equals four. I'm just speaking as an investor, I guess, we're taking this on faith at this point. When we see the results again this quarter, we're obviously seeing the impact of not only investment cycle, but obviously I would imagine it would be the focus of your resources on proof of concept and working on that new product, it's just – the market is not giving a lot of upside, if you will, into what the opportunity this product did. And, again, it's a little bit of a kind of going on faith, if you will.
+
+And I guess, maybe more specifically, as you're talking with these customers and the level that you're speaking to them with, are we going to have an opportunity to see press releases around these engagements for them? I noticed that you're hiring, for instance, in Greensboro, which is [indiscernible] (20:11). I mean, anybody who's – we know that that's who that client is. Are you able to speak to these engagements once you start – again, that has the proof of concept into a sales relationship, or are you going to be able to let the market know? Because I think that, obviously, with the market cap of the company, nobody knows that this is happening unless you're really tuned into the story. And I think that communicating those types of things out would be tremendous.
+
+Yeah. [ph] Chris (20:45), these are just amazingly good comments and observations, and we see many of the same things that you do. I would agree with you that we'll be issuing press releases concurrent with customer engagements. In many cases, we probably won't be able to speak to you the specifics, the customer name, but we can talk about industry segment and what we're doing for them, and we certainly look forward to that.
+
+I think also what you're seeing here at Bsquare is there's a tremendous amount of hype in the market around IoT and, certainly, we view IoT as a subset, an important subset of Big Data market. And what you're seeing here at Bsquare is we'd rather talk about what we've done and what we're doing as opposed to what we're going to do. And you very accurately, in our view, just summarized that in the past that we said we would not invest until we saw the market opportunity, and we do see the market opportunity and we are investing. You can expect us to continue to be prudent with your investment in us, and we do understand that your patience is required here, and we certainly look forward to being able to report to you and the other investors when we can.
+
+Thank you. Last question. And I hope you're going to promise. In terms of just overall engagement to the street and to the analyst community, is that – I mean, you've done a lot more, I can tell, in terms of last quarter or two with respect to the IoT markets and becoming a little bit – from a thought leadership perspective and talking about the organization. Are there active programs or communications to be able to have some of the analysts, from the street as it were start to become a little bit more engaged in the story? I just – it's a bit of a struggle seeing so many plus names that aren't delivering at the level that you're delivering, and working with the customer that you're working with.
+
+You have a great story that nobody seems to really understand or know, and I think it's just a matter of not communicating it out. From an investor relations perspective, is that something that you intend to put any kind of priority on? I mean, you got a good story, we just need to hear it.
+
+Yes. Chris. And this is Marty. We have touched on this on prior, prior calls as well. We are systematically working on our investor outreach and we switched our investor relations firm to The Blueshirt Group. And with them, we're working on our plan for the balance of the year. Last quarter, in Jerry's prepared remarks, we touched on our outreach to market analysts and industry analysts. So, we're going to be doing a similar program along those lines with respect to investors. So, that is something [indiscernible] (23:56) forward in the coming quarters.
+
+All right. Well, look, gentlemen, I appreciate it. Jerry, we trust in you. Deliver the goods.
+
+Yeah, [ph] Chris (24:06). We really appreciate your comments. They are very, very appropriate. Thank you.
+
+Thank you.
+
+[Operator Instructions] We go next to Adib Motiwala with Motiwala Capital. Please go ahead.
+
+Yeah. Good afternoon, Marty. This is Adib.
+
+Hi, Adib. How are you doing?
+
+I'm doing good. Thank you. Just a question on the increasing accounts. We see your balance which are in the press release the last few quarters. You mentioned that it will plateau out. And when do we start seeing the cash collection happen and probably pile up on the balance sheet?
+
+So, as we indicated in our guidance, we're expecting that our accounts receivable balance will – that grew from year end to March 31 will plateau in the second quarter. And then you will start to see – instead of a negative working capital adjustment for growth in accounts receivable, you will see a positive beginning in the second quarter and later in the year.
+
+Okay. So, the cash flow from operations will also start turning positive then from the second quarter?
+
+Yes. So, definitely, the working – the negative working capital change will reverse in the second half of the year, for sure.
+
+Okay. And any updated [ph] products (25:37) on the use of cash other than obviously investing in the business right now? Any thoughts on that yet?
+
+No. So, we enjoy having a strong balance sheet. As I mentioned in earlier – response from earlier question, we are dealing with Fortune 500 customers as we roll out DataV. Having a strong balance sheet tends to be a positive. We don't have any specific plans for the cash at the moment, and we enjoy having it there and our being good stewards of the shareholders' investment.
+
+Yeah. I mean, [indiscernible] (26:23) the cash piles up, the value will accrue because then investors can see the cash building up from cash from operations. So, that's not bad, just the cash piling up. I think investors will take notice of that, so I'm okay if the cash is piling up.
+
+One more question, the legacy proprietary software obviously moves around. Is that in a steady decline now? Average $2 million to $3 million a year, was much lower this quarter, but do you still see that level of $2 million to $3 million a year or is it in a soft decline now? What can we read into that?
+
+So, if you look at several quarters, going back five, six quarters, you will see that proprietary software revenue has generally been in that $400,000 to $600,000 range with certain quarters, like first quarter of 2015 that went up to $2 million. That's the type of range in fluctuations we think you will see when you look at our proprietary software market from our traditional businesses. Obviously, DataV, the new opportunity will change that on a go-forward basis.
+
+Okay. And last question. On the DataV, obviously, we're looking forward to some revenue, but when we talk about the backlog in terms of what the backlog is and bookings and then revenues, you're going to give us those kind of details when you have that in the second half of the year?
+
+Exactly. I think we'll use the opportunity when we announce customer deals going forward, how we'll show those metrics to the investment community. It could be backlog, it could be some combination of bookings and backlog, no commitments. But we'll be expanding our reporting on DataV, and we'll have more detail around that in coming releases.
+
+Okay. Thank you very much.
+
+Thank you.
+
+[Operator Instructions] And at this time, there are no further questions. I'll turn the conference back over to your presenters for additional or closing comments.
+
+Before concluding the call, on behalf of the entire Bsquare team, I'd like to thank our investors and our customers for your interest and for your business. We look forward to reporting back to you next quarter. Thank you for joining us.
+
+Ladies and gentlemen, this does conclude today's conference. Thank you for your participation.

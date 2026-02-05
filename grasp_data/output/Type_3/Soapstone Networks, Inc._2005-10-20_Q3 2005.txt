@@ -1,0 +1,338 @@
+raw transcript
+
+
+Avici Systems, Inc.
+ 
+AVCI
+ 
+Q3 2005 Earnings Call
+ 
+Oct. 20, 2005
+
+
+Company
+
+ 
+Ticker
+
+ 
+Event Type
+
+ 
+Date
+
+
+
+www .Ca ll St r eet . com
+ 
+•
+ 
+21 2. 9 31 . 65 1 5 •
+ 
+C op yr i g ht © 20 0 5 C a ll S tr ee t
+ 
+1
+
+
+MANAGEMENT DISCUSSION SECTION
+
+
+Operator: Ladies and gentlemen, thank you for standing by, and welcome to the Avici Systems
+
+
+third quarter earnings conference call. At this time, all participants are in a listen-only mode. Later,
+
+
+we will conduct a question and answer session and instructions will be given at that time. If you
+
+
+should require assistance during the call, please press star then zero and an operator will assist
+
+
+you off-line. As a reminder, today's conference is being recorded. I would now like to turn the call
+
+
+over to our host, Director of Investor Relations Ms. Inna Vyadro. Please go ahead Ma'am.
+
+
+Inna Vyadro, Director, IR
+
+
+Thank you and good morning. Joining me today are Bill Leighton, Avici's CEO and Paul Brauneis,
+
+
+Avici's CFO. The third quarter earnings press release was distributed at approximately 7:00 A.M.
+
+
+this morning by Business Wire and First Call. A copy of the third quarter press release and the
+
+
+conference call are available on our website at www.avici.com. I would like to remind you that
+
+
+during this call we may be making forward-looking statements, including our expectations for
+
+
+product delivery, customer activity, financial performance and our plans and objectives for future
+
+
+operations. These forward-looking statements are neither promises nor guarantees, but are subject
+
+
+to risks and uncertainties that could cause actual results to differ materially from those contained in
+
+
+the forward-looking statements. Those risks and uncertainties are further described in our press
+
+
+release and presented in detail in our Form 8-K as filed with the SEC.
+
+
+Additionally in the call, we will also discuss various non-GAAP financial measures. A reconciliation
+
+
+of non-GAAP financial measures is provided along with the financial tables in our press release,
+
+
+which as previously mentioned, is available on our website. Our press release was also furnished
+
+
+to the SEC on Form 8-K this morning.
+
+
+Lastly, I would like to add that Bill Leighton will be presenting at Prudential Technology Conference
+
+
+on New York on October 27 and the Merriman Curhan and Ford's Annual Investor Conference also
+
+
+held in New York on November 1.
+
+
+At this point, I would like to turn the call over to Bill.
+
+
+Bill Leighton, President & CEO
+
+
+Thank you, Inna. Good morning everyone and thank you for joining us. Today we reported gross
+
+
+revenues of $8.7 million compared to $11.6 million during the second quarter, and $3.7 million for
+
+
+the third quarter of 2004. While we never beat most of our internal milestones for the quarter, we
+
+
+failed to achieve our objective of continued quarter-over-quarter revenue growth. This was due
+
+
+largely to being unable to recognize the differed revenue from SURFnet that we had anticipated for
+
+
+Q3 due to the application of acknowledged revenue recognition rules around certain future
+
+
+developments.
+
+
+We have now successfully completed pre production testing of the network, the network is in
+
+
+production mode and SURFnet has started to migrate their customer base onto the new Avici base
+
+
+SURFnet's net routing core. We are on track for Q4 delivery of the additional features and if
+
+
+successfully will recognize the topline benefit at that time. Also this quarter we saw a leveling out
+
+
+within quarterly revenue from AT&T. That's a large increases in Q1and Q2 following reduced
+
+
+spending in the second half of '04. I remain confident that the AT&T SBC merger represents a
+
+
+significant upside opportunity for Avici.
+raw transcript
+
+
+Avici Systems, Inc.
+ 
+AVCI
+ 
+Q3 2005 Earnings Call
+ 
+Oct. 20, 2005
+
+
+Company
+
+ 
+Ticker
+
+ 
+Event Type
+
+ 
+Date
+
+
+
+www .Ca ll St r eet . com
+ 
+•
+ 
+21 2. 9 31 . 65 1 5 •
+ 
+C op yr i g ht © 20 0 4 C a ll S tr ee t
+ 
+2
+
+
+Also during the quarter, we received a cash pre-payment from AT&T for over $3 million for certain
+
+
+services to be provided over the next two and a half years. In addition to the positive cash impact,
+
+
+the prepayment demonstrates AT&T's continued support of and confidence in the Avici product.
+
+
+Our non-GAAP net loss improved to $7.2 million, or $0.56 per share compared to a non-GAAP net
+
+
+loss of 9.8 million or $0.77 per share in the prior year quarter ended September 30, 2004. We used
+
+
+$200,000 in cash and finished the quarter with $62.1 million in cash. This low net usage is a result
+
+
+of strong receivable collections and the prepayment by AT&T.
+
+
+Paul will discuss additional details regarding our financial results later in the call. Our product
+
+
+revenue came from two customers, AT&T and IP-only, while service revenue was spread over four
+
+
+customers. Additionally, we shipped products to Limelight Networks this quarter and deferred the
+
+
+revenue of ending finalization of a maintenance agreement. Both IP-only and Limelight, had its
+
+
+revenue been currently recognizable, would have individually and in the aggregate been below
+
+
+10% of gross revenue.
+
+
+I am pleased to say this morning we announced Turk Telekom, the 13th largest operator in the
+
+
+world has chosen Avici System's DSR core routers for deployment in its new IP MPLS based data
+
+
+backed on network. This prime contract was awarded to Alcatel in response to a request to provide
+
+
+an end-to-end solution for Turk Telekom. The winning solution featured Alcatel's 7750 Service
+
+
+routers and Avici TSRs. Alcatel has turnkey responsibility for network design and planning,
+
+
+integration deployment, training and service rollout, and ongoing maintenance. This network
+
+
+upgrade and expansion will enable Turk Telekom to extend its service coverage throughout the
+
+
+country and further strengthen the operators' position in the marketplace by providing increased
+
+
+network capacity and reliability and meet customer demand for such services as high speed
+
+
+Internet access, Voice-over-IP, Virtual Private Networks, and video. This network will go live early
+
+
+in 2006 and we are shipping the first product deliveries today. Although as with SURFnet,
+
+
+recognition of revenue in this contract will be delayed due to the application of revenue recognition
+
+
+rules to our commitment for future deliveries.
+
+
+Cash collections are based on typical payment terms and our product will be deployed in collaring
+
+
+the Turk Telekom network. We are very excited to be working with Alcatel and Turk Telekom in
+
+
+building the state-of-the-art network. We are continuing to pursue our single strategy in the
+
+
+[indiscernible] results. Turk Telekom is an extra-based hit in that sense. Limelight is bringing its
+
+
+Avici-powered core network into service rapidly. IP-Only is already planning network expansion.
+
+
+And we have several other opportunities that we expect to close in the near term. We are seeing
+
+
+increased activity through our Nortel channel recently as our MTE product completes testing
+
+
+although we haven't closed any additional business in that channel yet. We only continue to discuss
+
+
+opportunities with Walway [ph]. Until we further expand our customer base and more importantly
+
+
+these new networks get deployed and operational, our revenue will likely remain somewhat
+
+
+uneven. And as in previous quarters, we will not be providing forward-looking guidance at this time.
+
+
+I will now turn the call over to Paul who will discuss our financial results in more detail.
+
+
+Paul Brauneis, CFO
+
+
+Thanks Bill and good morning. Today Avici reported gross revenues for its third quarter ended
+
+
+September 30, 2005 of $8.7 million compared to 11.6 million in the preceding quarter ended June
+
+
+30 and 3.7 million in the prior year's third quarter. Gross revenues for the nine-month period ended
+
+
+September 30 were 31.1 million, a 36% year-to-date increase over 22.8 million reported in the
+
+
+comparable nine-month period of 2004. Our GAAP net loss and GAAP net loss per share for the
+
+
+third quarter was 7.8 million or $0.60 per share, compared to a loss of 10.4 million or $0.82 per
+
+
+share in the prior year's third quarter. GAAP net loss and loss per share for the nine months ended
+
+
+September 30 was 16.1 million or $1.25 per share, compared to a loss of 25.7 million or $2.04 per
+
+
+share for the comparable nine-month period of last year. GAAP net loss in all periods presented
+
+
+includes charges for common stock warrant discount, and in both nine-month periods certain stock-

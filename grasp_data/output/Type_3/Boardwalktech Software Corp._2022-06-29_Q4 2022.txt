@@ -1,0 +1,190 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+Graham Farrell — Managing Partner, Harbor Access LLC
+Andrew T. Duncan — Chairman, President & Chief Executive Officer, Boardwalktech Software Corp.
+Charlie Glavin — Chief Financial Officer, Secretary & Director, Boardwalktech Software Corp.
+Mark Anthony Gomes — Analyst, Pipeline Data LLC
+Kris Tuttle — Analyst, SoundView Capital
+
+Management Discussion Section
+
+Question And Answer Section
+
+Ladies and gentlemen, thank you for standing by and welcome to the Boardwalktech Fourth Quarter Fiscal Year 2022 Conference Call. At this time, all participants are in a listen-only mode. After the speakers' presentation, there will be a question-and-answer session. Please be advised that today's conference is being recorded. [Operator Instructions]
+
+I would now like to turn the conference over to your speaker for today, Graham Farrell. You may begin.
+
+Thank you, operator. Hello and welcome, everyone, to Boardwalktech's inaugural quarterly conference call. This call will cover Boardwalktech's financial and operating results for the fiscal fourth quarter and full year ended March 31, 2022.
+
+Following our prepared remarks, we will open the conference call to a question-and-answer session. Our call today will be led by Boardwalktech's President and Chief Executive Officer, Andy Duncan; along with the company's Chief Financial Officer, Charlie Glavin.
+
+Before we begin with our formal remarks, I would like to remind everyone that some of the statements on this conference call may be forward-looking statements. Forward-looking statements may include, but are not necessarily limited to, financial projections or other statements of the company's plans, objectives, expectations or intentions. These matters involve certain risks and uncertainties. The company's actual results may differ significantly from those projected or suggested to any forward-looking statements, due to a variety of factors, which are discussed in detail in our regulatory filings.
+
+Today, we issued our fourth quarter and annual financial results, a copy of which is available in the Investor Relations section of our website, www.boardwalktech.com and posted on SEDAR. I would like to remind everyone that today's call is being recorded on Wednesday, June 29.
+
+I will now turn the call over to President, Chief Executive Officer of Boardwalktech, Andy Duncan. Please go ahead, Andy.
+
+Thank you, Graham. Appreciate it. Welcome, everyone, to Boardwalktech's inaugural quarterly earnings call to discuss the company's financial results for our fourth quarter and full year of fiscal 2022 ended March 31, 2022. We appreciate you taking time out of your day to join us and we're delighted that you are here. With me today is Charlie Glavin, our Chief Financial Officer, who will review our financial results followed by a Q&A. Before I begin, please make note that all dollar figures reported on today's call are in US dollars unless otherwise noted.
+
+We are pleased to report both sequential and year-over-year growth in our financial results for the fourth quarter and fiscal 2022 year. Since we've launched our SaaS model in 2018, revenue from contracts signed since 2018 have grown at a combined annual growth rate of 46% per year. Revenue from these SaaS contracts since 2018 now comprise 95% of our revenue. Thus, we are pleased to note that this means that we should no longer experience the headwinds of legacy contracts from perpetual licenses. And those customers have either migrated to new recurring licenses or stabilized.
+
+Please note that we could have taken a large impairment charge when we launched our SaaS model, but we opted to enable our older customers to migrate with us rather than just end of life these old products. However, this transition [ph] with PaaS (04:02) could be underlying growth of our SaaS model until now. So, this high margin Software-as-a-Service model is much more predictable and provides a solid foundation for the future growth of our business.
+
+I am excited to share that our business has already reached a critical inflection point based on our recent contract wins exiting the March quarter. This is not an inflection point based on optimism and potential. It's an inflection point based upon results. I am pleased to say that the company is now able to start issuing financial guidance due to the predictability of both the underlying business as well as new business that we see closing over the coming months.
+
+That said, I'd like to take this opportunity to clarify some misconceptions around our sales cycles. These cycles can vary from three to five months for most customers to longer periods for larger enterprise deals. Our recent banking deal could have closed faster, but rather than take a quick deal, this particular contract expanded in breadth and depth, resulting in a multiyear agreement that increases over time and ended up more than 5x of what we originally targeted in our pipeline.
+
+This deal is now projected to generate over $4 million of net proceeds in cash over the first three years of the contract. Had we closed a smaller deal last summer, we believe we would have left at least $2 million on the table. Therefore, it was well worth the added time as we now have a very exciting opportunity ahead to not only grow the revenue from this client even further, but to land more similar deals in the financial services market.
+
+Before Charlie dives into the numbers, I'd like to provide a high-level summary of our financial performance and key growth drivers for the business. We are pleased to report a 23% increase in year-over-year growth in the fourth quarter revenue of $1.2 million, which also represents a 13% sequential growth rate from the previous quarter.
+
+Total revenue for the full 2022 fiscal year was $4.38 million compared to $4.34 million in the previous year. A good portion of this sequential growth was driven by two new customers in the banking channel, who are both large global financial institutions with headquarter offices in New York City and Mumbai, India. Each customer engaged with the company at the end of the quarter, so investors will see the full impact of revenue from these new customers in the immediate quarters ahead, as these organizations fully integrate our platform into their organizations.
+
+Half of the remaining revenue growth, exiting fiscal 2022, was from new and existing customers adding new applications, epitomizing our land and expand strategy I've talked about a lot. In fact, during the fourth quarter, one consumer company added its third Digital Ledger application in less than 12 months since it signed its first license, with this latest application targeting better management of finished goods excess inventory, a very exciting application for them, and quite valuable and quite an interesting ROI. As a result, both gross margins and adjusted EBITDA improved due to higher sales volumes and a more favorable revenue mix from a higher contribution of recurring subscription licenses as the company's SaaS business model continues to grow. Charlie will give more details shortly.
+
+As I previously mentioned, the company will be providing revenue guidance for the upcoming fiscal year to the investment community. We are providing this guidance for several reasons. First, we believe that both our visibility and progress on contracts already closed and those in our control warrants such guidance. Second, we want to continue to be fully transparent to our investors, our prospective customers, and the financial analyst community.
+
+Third and lastly, we are also of the opinion of providing regular guidance will help investors and financial analysts properly model and value our business. As we feel that there is a significant disconnect between our market value and the true value of our business. I'm certainly aware that I sound like most other small cap CEOs when I say that, but instead of me doing the talking, we're going to let our numbers do the talking from now on.
+
+So, to take a deeper dive into the numbers, I'd like to hand the call over to our Chief Financial Officer, Charlie Glavin. Charlie, take it away.
+
+Thanks, Andy. Before I begin, I'd like to take a moment to remind our listeners that all figures reported on today's call are in US dollars and that our fiscal year end March 31 of each year with reported figures based on IFRS standards unless otherwise specified. Additional details can be found in our audited financial statements and MD&A which were filed today.
+
+Total revenue for fiscal 2022 was $4.4 million compared to $4.3 million for fiscal 2021. However, as Andy noted, revenue in the fourth quarter of fiscal 2022 ending March 31 was up 23% year-over-year and up 13% sequentially, reflecting the initial impact of deals closed late in March, the end of our quarter. The portion of revenue from new and recurring SaaS licenses in the fourth quarter of fiscal 2022 increased 31% year-over-year due to higher revenue from incremental licenses executed with both new and existing customers. Revenue from recurring SaaS licenses was 62% in the March quarter, up from 54% in the prior quarter, as expected to continue to increase as a percentage of revenue as new deals are recognized and revenue hits the top line.
+
+As Andy mentioned previously, the company implemented its SaaS business model in 2018, and total revenue from new contracts signed since 2018 comprised approximately 73% of total revenue for all of fiscal 2022 compared to 65% in the prior year. But nearly 95% of total revenue in the fourth quarter now came from the SaaS contracts signed since 2018 with revenue from those contracts expanding at a 46% compounded annual growth rate. And we have 100% retention of all customers signed since 2018. Revenue from new SaaS licenses signed since 2018 has grown at a 50% CAGR. This is further proof that the impact from legacy contracts is behind us.
+
+The company defines annualized recurring revenue, ARR, a non-IFRS metric, as a recurring revenue expected based on annual license subscriptions and recurring services. As a result of the new deal closings, ARR as of March 31, our fiscal year-end, was $3.7 million, a 30% year-over-year increase versus ARR of $2.8 million at the end of fiscal 2021. Exiting the June quarter, ARR has already exceeded $5 million. And based on our initial guidance range, we expect ARR at the end of this year to be projected closer to $6 million.
+
+It should be noted that the full impact of deals closed in the final months of last year were not fully reflected in the quarterly numbers. Boardwalktech receives payment at the beginning of each annual license term, and then the deferred revenue is recognized monthly over the remaining term of the license. Thus, fourth quarter revenue only reflects one month of amortized revenue from these recently announced large contracts. Thus while fourth quarter numbers were good, it was just the start, as investors should see the full revenue impact of these new licenses in the June and subsequent interim quarter financial results.
+
+Gross margin in the fourth quarter came in at 87.9%, which is a year-over-year increase of 2.2 percentage points. Our gross margin for the full fiscal year 2022 finished at 86.6%, which is an increase from 86.4% in the prior year. Gross margins are expected to stay at or above these high levels, as the company begins to recognize revenue from new deals. Resulting in a higher contribution of recurring subscription licenses both in terms of quantity and mix, as the business leverages its SaaS business model.
+
+Net loss for fiscal 2022 was a loss of $3.53 million or $0.08 per share, basic and diluted, versus a loss of $3.6 million in the fiscal 2021 or 15% per basic and diluted share. Adjusted operating expenses in fiscal 2022 were $5.5 million, a slight increase from the $5.4 million of adjusted operating expenses in the prior year as the company continues to control costs while leveraging external relationships to increase new revenue.
+
+Non-IFRS net loss for fiscal 2020 improved 14% as defined in the adjusted EBITDA and non-IFRS financial measures section of our filings, and this totaled a loss of $2 million or a loss of $0.05 per basic and diluted share versus a $2.4 million non-IFRS loss in fiscal 2021 or $0.10 per basic and diluted share with a 40% improvement in non-IFRS losses during the fourth quarter of this fiscal year 2022 over the prior year.
+
+Adjusted EBITDA for fiscal 2022 was a negative $1.9 million compared to $1.7 million loss in fiscal 2021. However, adjusted EBITDA losses improved by 24% in the fourth quarter of fiscal 2022 compared to the prior year even though the full impact of the new licenses that closed at the end of fiscal 2022 were not fully reflected as a full quarter of amortized revenue. Thus, the company's finished fiscal 2022 with what we believe is a strong balance sheet, both in terms of cash balances and over $2.5 million of receivables from new and renewing annual licenses.
+
+And, as we close new licenses and receive renewals of licenses in the upcoming months, the combined AR and cash balances will continue to grow. The company has no debt. These organic sources will and should enable the company to fund its current growth projections and achieve profitability this year.
+
+Cash burn also improved significantly exiting the year as the monthly cash burn, as defined by the average cash usage from operations, is now closer to $100,000 versus over $220,000 in the preceding quarters. As revenue continues to grow and as embedded in our new guidance, we expect to then pass through breakeven in the upcoming quarters.
+
+Now, let me turn to our new guidance. Based on the company's recent contract closings and those in process of closing are in the company's control, the company now projects revenue for the upcoming fiscal year to be in a range of $6.5 million to $7 million. This would equate into roughly a 55% year-over-year growth at its midpoint.
+
+Several important points to note, though, about this initial guidance; first, to emphasize, this initial guidance is based on what we have already closed or in control of, such as the two banking license deals closed in late March and the license deals approved or in process of closing. Second, over 95% of this $2.1 million to $2.6 million of incremental growth is expected to come from recurring license revenue. Third, this guidance does not assume any revenue growth based on professional services.
+
+However, this does not preclude any additional professional service revenue adding upside to this initial guidance range. Fourth, this initial guidance does not rely on any new conversions from our $7.6 million pipeline, so as our sales force, including two new experienced account execs with good Rolodexes, close any new deals that would be further upside to this initial guidance. Lastly, this means that investors should expect ARR figures to actually grow at a similar or higher rate with the top line revenue.
+
+In conclusion, given the company's growth outlook and that the company has sufficient funds and current receivables, it believes that it has such funds that it does not need to nor plans to do any equity financing events to achieve its guidance or upside growth, while reaching profitability during the upcoming year.
+
+With that, I will now turn the call back over to Andy.
+
+Thank you, Charlie. I'll now turn the call back over to the operator to see if we have any questions from people participating on the call.
+
+Thank you. [Operator Instructions] Our first question comes from the line of Mark Gomes with Pipeline. Your line is open.
+
+Hey. Congratulations on the progress, gentlemen. Looking at your guidance, so we're looking at 55%, maybe 65% growth this year on the strength, presumably, of obviously renewals and large deal in particular. What's your confidence level that this can start to become the new norm and looking out to 2024/2025 that we can see similar types of either dollar or percentage growth on your top line going forward?
+
+Yeah. Thanks very much for the question. We certainly are very bullish about where the company is headed. We have got a pipeline currently at [ph] $7.5 million (22:39). We are working toward closing those.
+
+We also are very excited about the opportunity in the financial services market to be able to continue to close larger bank deals with what we believe is a very unique solution in and around compliance for these banks. And so, I would say that while this is the first time that we've provided guidance to the Street, we're trying to be very conservative, but we are very bullish about the future of the company.
+
+Great. And what kind...
+
+[indiscernible] (23:19)
+
+My apologies. Go ahead.
+
+What kind of SG&A ramp should we be modeling in as you grow? Presumably, now you're seeing an inflection point in success here. You're bringing on new sales folks. What should we be looking at in terms of SG&A as a percentage of incremental revenue or how should we be looking at that?
+
+Yes. Go ahead, Charlie.
+
+So, for the sake of modeling purposes and I would assume that, well, first and foremost, you will not be seeing SG&A grow in a similar way to the revenue growth. One of the things I want to emphasize is that we do not need large teams to be able to ramp new customers. One of our first million-dollar customers, we only had four heads during the implementation phase and was able to do that in six weeks. So consequently, as you're modeling this out, you should assume to support say that 55% initial growth, something in the 10% to 20% range would be a prudent measure.
+
+Of course, out guys would always like to spend more in new developments. But the key areas that we're going to be looking at are those to make sure that we can close the pipeline quicker. We do not have technology risk. So the R&D should be in good control, but that doesn't mean we won't be doing additional enhancements that our customers would like. I think if you start with that sort of model and based on the organic plans that we do, that should be a good starting point.
+
+Great. I appreciate that color. Thank you. Final question, can you give us some kind of color, either qualitatively or quantitatively, obviously, you have an impressive 100% unit renewal rate going back 2018. How does that look on a dollar basis?
+
+I think the CAGR that I gave you is a fair representation. So, if you're looking either a total revenue or in terms of the recurring sort of that 45% to 50% CAGR on the contracts signed since 2018 would be a good NRR equivalency.
+
+Thank you.
+
+And this echoes, Andy's recurring comments, land and expand. It's not just a matter am I – it's also important that I reference to that one customer, three applications from the time that they signed the first deal. We don't think that's a one-off, but it has already proven to be a recurring trend.
+
+Great. Okay. Continued success. Thanks for the time.
+
+Thank you.
+
+Thank you. [Operator Instructions] Our next question comes from the line of Kris Tuttle with SoundView Capital. The line is open.
+
+Hey, guys. Again, congratulations on having some numbers to point to. It's a lot easier than having to talk about it. So, great job on the release. I had a question about distribution. So, I know you've landed some great contracts with some partners and you also have the ability right from your website for people to do a trial and play around with some components of your technology. So my question is what is your inbound sort of potential customer activity look like?
+
+Sort of, if you think about it, divide it up between leads that may come in from people doing trials in the website, and then, the companies in the channel that are working with the big customers like the banks? And do you have sort of an internal structure around – they usually call them like farmers and hunters. Like, if you could help me understand a little bit those parts of your go-to-market.
+
+Happy to do that. Thanks for the great question. So, there's really kind of kind of three pieces of that. We have account managers that you would classify as a farmer. After we land the deal and the land and expand strategy is mainly driven by these farmers that are working with the existing accounts to be able to get them to add additional applications on to our low-code Digital Ledger platform, which then increases the recurring revenue stream.
+
+So, the example of the customer that Charlie mentioned earlier where we started, I don't know, 13 or 14 months ago and we now are on our third – just finishing our or finished our third application with many more sitting in the pipeline with regard to this client, they're seeing tremendous value of leveraging the Boardwalk Digital Ledger platform to help them better manage their business. So, that is land and expand mainly driven by farmers.
+
+Second piece of this is that we do have hunters. We just hired two new very experienced reps. We now have five in total. And as we look at those, that particular crew, they are hunting certainly for large opportunities, and that's driven off of marketing leads that we're generating through multiple different channels, including going to conferences, doing webinars, outreach through various sources to drive interest to our website and leads.
+
+And then, we've got people that then go through those leads and verify them before they get handed over to the salesperson. Salespeople are also generating their own leads by going direct through their Rolodexes that, again, Charlie had mentioned earlier.
+
+And then the third piece of this is that, as we are really starting to leverage a channel strategy, specifically in the financial services market, where that's a difficult market to break into and you need to be a known entity in order to get in there, and so we've decided to leverage a lot of the IT services companies, where we've signed contracts, and we continue to expand on those relationships.
+
+We then have relationships with the financial services industry and can either take us into those banks or, when the banks come to them and say, we need to find a solution with regard to this, that we will be top of mind and they will call us and bring us into the deal. And we believe that this is a very highly leverageable model for the financial services market, in particular.
+
+Okay.
+
+If I could add to Andy's comment, one other important channel, which is very powerful and somewhat reflected in the financial services, but to other markets as well is referrals. We have existing customers who are advocates for us from referring into. We were able to secure Mars through a previous relationship with Coca-Cola existing customer. This new bank came from an existing customer of ours, HCL, a publicly listed India company as well. That is also a very powerful one. But, I think, equally important is it shows that these customers were satisfied with our solution and the higher ROI and became advocates for us to enable new customers as well.
+
+Okay. Thank you. And I just – sorry if I missed it, but did you talk about your mix of domestic or let's call it North America versus the other geographies like Europe and APAC? What that currently is, and then how you might see that evolving over the next 12 to 18 months?
+
+Yeah. We don't actually track by geography, in part, because our solutions are, in essence, global. We have a right to access license, not a right to use. So, the contracts themselves emanate out of California. But more importantly is many of our customers are multinational. And so, they're deploying it not by a particular nexus in a given region, but trying to enable the data lakes that expand globally. So, to state where we might be sending the invoices would be a misrepresentation of how the customers are using it.
+
+And I can't emphasize this enough; this consumer company involved everything from regional to shipments out of China. We have another Specialty Sekisui Chemicals (sic) [Sekisui Specialty Chemicals], also globally Japanese-based, but they're doing international shipments. And I think that's really the essence of it. So, if we were to do a global breakdown, it would really be by the invoicing, not by the actual usage of our Digital Ledger platform.
+
+Okay. Yeah, that makes sense. That makes sense to me. I'm going to jump off the box to let other folks get in. Thanks again, guys.
+
+Thank you.
+
+Thank you.
+
+Thank you. Our next question comes from the line of [ph] Julian Gotu (33:17) with Canaccord. Your line is open.
+
+Yeah. Hi, guys. Congrats to the strong end for the fiscal year. I guess my question is cash balance looks a little small. I know you have the decent size receivable there. And I was just wondering, do you guys think that you are, I guess – have the internal funds to sort of get you to breakeven, hopefully, sometime next year without having to tap the markets for additional funds?
+
+Yeah. The answer is yes. We do have additional funds. So, just coming out of the March quarter, we had $2.5 million in accounts receivable. We also have another couple of million that will be added onto the receivables and turn it into cash, which we could have collected the cash for the March.
+
+But between those, that existing cash and the ARs or the accounts receivable from both new and, again, renewable; so let me just – for anybody who's not as familiar, we have annualized licenses, which are paid up front and are effectively [ph] non-refundable (34:36) amounts through that term that are recognized monthly over the course of that term. So, as a result, that is effectively their organic financing.
+
+In addition, as you've seen, we've also cut the cash burn rate. So, we should be breaching the breakeven level as well. So, between cash, the AR, which turns into cash, as well as the improvement in terms of the raw fundamentals and the reduction in cash usage from operations, which we should expect become positive, we do have that. And, yes, we do not foresee any financing at this time.
+
+And I guess the last point that I would make on that is that, again, for those who may not be familiar with it, the model. If you take a look at the AR, there's a low risk on that. Over the past four years, we've only had one amount for $4,500 that we have not fully collected. So, there's a high confidence level on that.
+
+All right. Thanks, guys.
+
+Thank you. We have a follow-up from the line of Kris Tuttle with SoundView Capital. Your line is open.
+
+Yeah. I had one other question, which is now that customers are adopting and implementing. On the product side, my question is, what are sort of the top one or two sort of product requirements you guys see for delivery in the next fiscal year that is basically consuming most of your attention on the development and product side?
+
+Yeah. So, Kris, the platform that we have is quite mature. And I always like to talk about the fact that the technology risk is fairly low here. We are continuing to enhance the product, especially from a usability standpoint, to allow us to be able to provide a much better [indiscernible] (37:02) continue to enhance experience for our users.
+
+The second thing that we're working on when you look at our velocity product, which is the product that we've developed into the banks, but that is again based on our core technology. We're continuing to work on that to make it easier for adoption across the banking industry for people to be able to utilize the platform. And so, how do we speed adoption and set up with regard to these applications that are then being transformed over on to our platform, and that's the key part that we're working on now.
+
+Okay. Terrific. Thanks very much.
+
+Sure, Kris.
+
+Thank you. I'm showing no further questions in the queue. I would now like to turn the call back over to Andy Duncan for closing remarks.
+
+Thank you. So, again, everyone, I'd like to thank you for joining us on our inaugural quarterly earnings call today. To repeat myself, Boardwalk is at a major inflection point in the business as we will become profitable in the back half of this calendar year, and I foresee us winning significant new business in coming months as our low-code Digital Ledger platform continues to gain traction in several markets, our new partnerships in the financial services industry, and further penetration and helping companies in the supply chain market.
+
+We're also seeing a growing prevalence in the ESG which is the environment, sustainability, and governance area. And we see a really kind of broader market trend in this area as a real derivative opportunity for our solutions as well to address the risk management while enabling better decision-making effectiveness. And this is across multiple vertical markets, not only banking, but everyone is going to need to focus in on this ESG piece.
+
+So, while we look forward to meeting investors and telling the investment community about Boardwalk, our team will be very busy this summer. We'll be closing on new developments and that'll be a good busy summer, certainly. Thus, while today we announced a really good results. This is just a first step for us. As investors, you should expect further news and proof of additional progress in the months and quarters ahead and that's our pledge to you.
+
+Finally, I'd like to give a special thanks to all of the Boardwalktech employees. We would not be in this enviable position if it wasn't for your intellect, your hard work and your dedication to building the company the right way. We truly appreciate you and look forward to significant growth for the company in the future. So, I'd like to thank all of you for your interest in Boardwalktech and attending this conference call and we will now end the call. Thank you very much.
+
+Ladies and gentlemen, this concludes today's conference call. Thank you for your participation. You may now disconnect.

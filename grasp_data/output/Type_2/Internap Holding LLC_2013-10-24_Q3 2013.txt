@@ -1,0 +1,245 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+Michael Nelson — Senior Director-Investor Relations, Internap Network Services Corp.
+Eric Cooney — President, Chief Executive Officer & Director, Internap Network Services Corp.
+Kevin M. Dotts — Chief Financial Officer, Internap Network Services Corp.
+Mark D. Kelleher — Analyst, D. A. Davidson & Co.
+Dan L. Kurnos — Analyst, The Benchmark Co. LLC
+Gray W. Powell — Analyst, Wells Fargo Securities LLC
+Jason M. Kreyer — Analyst, Craig-Hallum Capital Group LLC
+Colby A. Synesael — Analyst, Cowen & Co. LLC
+
+Management Discussion Section
+
+Question And Answer Section
+
+Good day, ladies and gentlemen, and welcome to the Internap Third Quarter 2013 Earnings Results Conference Call. At this time, all participants are in a listen-only mode. Later, we will conduct a question-and-answer session and instructions will follow at that time. [Operator Instructions] As a reminder, this conference call is being recorded.
+
+I would now like to introduce your host for today's conference, Michael Nelson, Senior Director of Investor Relations. You may begin.
+
+Thank you, and good afternoon, and thank you for joining us today. I'm joined by Eric Cooney, our Chief Executive Officer; and Kevin Dotts, our Chief Financial Officer.
+
+Following prepared remarks, we'll open the call for your questions. The slides we reference in the call are available on our website in the Presentations section on the Investor Relations page. Non-GAAP reconciliations and our supplemental data sheet, which includes additional, operational and financial metrics, are available under the Financial Information, Quarterly Results section of our Investor Relations page.
+
+Today's call contains forward-looking statements, including expectations regarding future performance and the drivers for long-term growth in revenue and profitability, belief in our business strategy, including the benefits from investing in company-controlled colocation, hosting and cloud services, timing for bringing new and expanded data centers online, expectations regarding returns on capital and capital expenditures, because these statements are not guarantees of future performance and involve risks and uncertainties. There are important factors that could cause our actual results to differ materially from those in the forward-looking statements. We discuss these factors in our filings with the Securities and Exchange Commission. We undertake no obligation to amend, update, or clarify these statements. In addition to reviewing the third quarter 2013 results, we will also discuss recent developments.
+
+Now, let me turn the call over to Eric Cooney.
+
+Thank you, Michael, and good afternoon, everyone. We're pleased you could join us for our third quarter 2013 earnings presentation. I will start the discussion with a summary of our results and then turn the call over to Kevin Dotts, our Chief Financial Officer, to take you through our detailed financial results. From there, I will briefly wrap up our prepared remarks before we open up the call to take your questions.
+
+Beginning on slide three, you will see we delivered total revenue in the third quarter of 2013 of $69.6 million, representing an increase of 2% year-over-year and a decline of 1% quarter-over-quarter. Consistent with our strategic plan, we continue to deliver growth from our core Data Center Services business, including company-controlled colocation, hosting and cloud services.
+
+On a sequential basis, the growth in core data center services revenue was largely offset by a decline in partner data center services and in IP services revenue. In total, the data center services segment revenue declined $0.1 million, while the IP services segment revenue declined $0.3 million quarter-over-quarter.
+
+Segment profit of $36.8 million increased 6% year-over-year and declined 1% sequentially. Segment margin was 52.9%, an increase of 220 basis points year-over-year and a decline of 40 basis points sequentially. The primary driver for the strong year-over-year improvement in segment profit and segment margin was due to the favorable product mix shift of selling a larger proportion of higher margin company-controlled colocation, hosting, and cloud services. The sequential decline was largely a result of lower IP revenue and higher seasonal power cost during the third quarter.
+
+Turning to slide four, I'll cover segment results. Data center services revenue totaled $45.5 million in the quarter, an increase of 8% year-over-year and unchanged quarter-over-quarter. The revenue mix shift associated with the move away from partner data centers and into company-controlled data centers, as well as hosting and cloud services revenue, helped deliver strong year-over-year profitability growth. Data center segment profit increased 20% year-over-year and declined 3% quarter-over-quarter. Data center segment margin expanded 500 basis points year-over-year and declined 120 basis points sequentially to 49.1%. Higher seasonal power cost impacted the sequential change.
+
+In our IP services segment, revenue decreased year-over-year and sequentially to $24.1 million. The lower IP revenue was the result of per-unit price declines, which more than offset data traffic growth. IP segment margin decreased 140 basis points year-over-year and increased 100 basis points sequentially to 60%. The year-over-year decline was the result of lower IP transit revenue, while the sequential increase was driven by lower network costs.
+
+Despite the revenue headwinds created by the declining IP services revenue, the segment continues to deliver solid segment profitability and cash flow, which we leveraged to invest into more capital-intensive data center services segment. The IP business also provides the key element of competitive differentiation for our Data Center Services business, as it delivers our value proposition of high performance and low latency across our entire product portfolio.
+
+In the third quarter, churn in our data center segment increased 30 basis points year-over-year and 70 basis points sequentially to 1.5%, largely driven by disconnects within our partner facilities. Churn in our IP segment increased 40 basis points year-over-year and decreased 10 basis points sequentially to 1.8%. Total company churn increased 30 basis points year-over-year and 40 basis points sequentially to 1.6%. The increased churn was largely driven by business consolidation, as several of our customers rationalized their data center footprint due to internal consolidation.
+
+On slide five, you can see we delivered a solid quarter of adjusted EBITDA and adjusted EBITDA margin. Third quarter adjusted EBITDA was $14.2 million, an increase of 14% year-over-year and 1% quarter-over-quarter.
+
+Adjusted EBITDA margin increased 210 basis points over the third quarter of 2012 and 30 basis points sequentially to 20.4%. The improvement in adjusted EBITDA and the associated margin expansion was predominantly the result of favorable product mix shift towards core data center services and positive operating leverage in our business model. Cash operating expenses declined $0.7 million sequentially, largely due to lower G&A expenses during the quarter as we had better collections in the quarter, which resulted in lower bad debt expense.
+
+On slide six, I'd like to provide more color on the positive trends we are seeing in the data center services segment, which we expect to remain Internaps' primary growth driver moving forward. Our core data center services, which we define as company-controlled colocation, hosting, and cloud services revenue, remain the engine for long-term growth in revenue and profitability.
+
+Revenue from these core data center services has increased at a 24% three-year compound annual growth rate through the third quarter of 2013. Core data center services now represent 47% of consolidated revenue, as compared to less than 30% in the third quarter of 2010. Importantly, the favorable mix shift to core data center services has been a primary driver in our strong adjusted EBITDA growth and adjusted EBITDA margin expansion. Adjusted EBITDA has increased at a 16% three-year compound annual growth rate and adjusted EBITDA margin has expanded 520 basis points over the same timeframe.
+
+Moving on to slide seven, we thought it would helpful to provide some color on Internap's Bare-Metal Cloud, which is one of our most popular and fastest-growing products. Bare-Metal refers to the fact that the customer receives fully dedicated physical servers as opposed to virtualized servers on a shared hardware platform. Cloud refers to the capability to purchase, provision, and manage those servers in an on-demand and scalable manner.
+
+So with our Bare-Metal Cloud service, we are providing a dedicated server on a public cloud delivery model, where customers pay for what they use for however long they need it. Importantly, Bare-Metal can offer performance reliability and value advantages over virtual cloud environments, particularly for performance-sensitive and data-intensive applications.
+
+Cloud Spectator, an independent analyst firm, recently announced the results of its performance analysis testing and found that Internap's Bare-Metal Cloud scored eight times higher in price performance relative to two leading virtual cloud offerings. The ability to offer Bare-Metal Cloud, provision the service in minutes, scale that infrastructure on a global basis, and hybridize with colocation and/or custom-hosting solutions is a powerfully compelling solution.
+
+Simply stated, Bare-Metal Cloud is non-trivial in terms of competitive differentiation, and we find that customers purchase Bare-Metal Cloud for various reasons, including performance, security and service.
+
+Moving to slide eight, we provide an example of how Internap is providing our Bare-Metal Cloud to Onavo, a mobile data analytics company. Onavo provides data utility applications to help over 1 million users around the world manage their mobile data usage and protect themselves from malware. Given its large global customer base, it's easy to appreciate why Onavo relies on high- speed networks and reliable server performance with guaranteed uptime to meet their critical IT infrastructure requirements.
+
+Onavo migrated from a leading virtual cloud provider to Internap's Bare-Metal Cloud in order to meet their network and performance goals using dedicated physical servers, while also providing the on-demand scaling capability of a traditional cloud offering. With our Bare-Metal Cloud solution, Onavo gained better performance as well as more predictable [ph] costs (10:32) and Internap gained a key customer in the expanding market for mobile data analytics.
+
+On slide nine, you can see the occupied square footage trends in our company-controlled and partner data centers. Since the beginning of 2012, we have increased the company-controlled occupancy from 93,000 to 113,000 square feet, while decreasing our exposure to low margin partner occupancy from 56,000 square feet, down to 47,000 square feet. The shift towards higher margin Internap-operated data centers is a key driver in our continued profitable growth.
+
+We remain on track to open our new premium company-controlled data center in Secaucus, New Jersey later in the fourth quarter. The first phase of this expansion project will include approximately 13,000 net sellable square feet. This new facility will be our 12th company-controlled facility across eight North American markets and reflects continued strong demand for our core data center services solutions in the New York metro market. This new state-of-the-art data center will allow us to offer our customers the complete platform of hybridized IT services, and to do so in the important New York metro market.
+
+Now, let me pass the call over to Kevin Dotts, our Chief Financial Officer, who will give us a more detailed review of our financial results. Kevin?
+
+Thanks, Eric. I'll start my comments on slide 10, which covers our income statement comparisons. Third quarter 2013 revenue totaled $69.6 million, a $1.5 million increase compared to the same period last year, representing 2% year-over-year growth.
+
+Compared to the second quarter of 2013, total revenue declined $0.4 million. The year-over-year increase was the result of higher core data center services revenue, while the sequential decline was the result of lower IP services revenue and lower partner data center services revenue.
+
+Segment profit totaled $36.8 million, an increase of 6% year-over-year and a decline of 1% quarter-over-quarter. Total segment margin expanded 220 basis points year-over-year and contracted 40 basis points sequentially to 52.9%.
+
+Total segment profit and segment margin were positively affected by solid growth in data center services revenue and a larger mix of higher margin company-controlled colocation, hosting, and cloud services. Lower IP services revenue and higher seasonal power cost in our data centers impacted sequential comparisons in the third quarter.
+
+Total operating cash of $22.6 million increased – total cash operating expense of $22.6 million increased 2% year-over-year and decreased 3% quarter-over-quarter. The year-over-year increase was the result of an increase in head count and a modest increase in sales and marketing expenses.
+
+The sequential decrease was largely driven by better collections, which resulted in lower bad debt expense in the quarter. We remained focused on cost containment to help drive operational performance. Cash operating expense to revenue was 32.5%, roughly in line with the same period a year ago and down sequentially.
+
+Adjusted EBITDA totaled $14.2 million, an increase of 14% year-over-year and 1% quarter-over-quarter. Adjusted EBITDA margin was 20.4%, an expansion of 210 basis points year-over-year and 30 basis points sequentially. The solid performance was driven by a favorable shift to higher margin core data center services and the positive operating leverage we are building into the business.
+
+GAAP net loss in the quarter of 2013 was $4 million, or $0.08 per share, an increase year-over-year and sequentially, primarily a result of higher interest expense depreciation and amortization expense attributable to our capital investments. Normalized net loss, which excludes the impact of stock-based compensation and certain items management considers non-recurring, totaled $2.1 million or $0.04 per share.
+
+Cash flow and balance sheet summaries are shown on slide 11. Adjusted EBITDA, less capital expenditures and capital lease payments, totaled $3.1 million in the third quarter. We expect our capital expenditures to ramp in the fourth quarter as we complete the build-out of our new data center in the New York metro market.
+
+We continue to expect to spend between $60 million to $65 million of cash capital expenditures in 2013. We have a very disciplined approach to capital allocation and believe we have significant opportunity to invest in the business and generate returns well in excess of our cost to capital.
+
+At the end of the third quarter, cash and cash equivalents totaled $34.4 million. Funded debt totaled $112.9 million, an increase of $9.2 million from June 30, 2013 as we tapped into our revolving credit facility to support our data center expansions. As of September 30, 2013, our debt consisted of $62.4 million borrowed under our term loan and $50.5 million borrowed under our revolving credit facility. We also had $54.8 million in capital leases.
+
+Our announced data center expansions are fully funded with our current debt facilities, cash generation, and cash on hand. Our net debt to last quarter annualized adjusted EBITDA was 2.4x, unchanged from prior quarter. Days sales outstanding were 27 days in the third quarter, reflecting continued solid discipline in our collection procedures and pre-screening credit policies.
+
+Now, let me turn the call back to Eric for his closing remarks before we take your questions.
+
+Thanks, Kevin. Now, I'll briefly summarize on slide 12. We believe our third quarter results reaffirm both the strategic direction we have chosen for the company as well as demonstrate focused execution across the business. We continue to balance the solid growth we are experiencing in our core data center services with a decline in our IP services business.
+
+Our core data center services revenue has delivered growth at a 24% three-year compound annual growth rate and remains the engine for top line growth and profitability. On a year-over-year basis, the data center services segment delivered solid results with segment profit up 20% and segment margin up 500 basis points.
+
+Over the same period, adjusted EBITDA increased 14% and adjusted EBITDA margin increased 210 basis points, highlighting the successful execution of our data center services strategy and the solid operating leverage we are building into our business model.
+
+Looking forward, we remained focus on executing the strategy we put in place. We will continue to leverage our company-controlled data center capacity and look to fill this capacity with our full portfolio of hybridized IT infrastructure services, including colocation, hosting, and cloud offerings. We remain confident in the strategic importance of our whole suite of IT infrastructure services and in our ability to deliver long-term profitable growth for our shareholders.
+
+Now, we'd like to open up the call for your questions. Operator? [Operator Instructions]
+
+Our first question comes from the line of Mark Kelleher with D.A. Davidson. Your line is now open.
+
+Thanks. Thanks for taking the question. I wanted to look at the Bare-Metal Cloud that you're mentioning. Is there a way you can size that for us as to maybe the growth rates that it's experiencing or the percent of revenue that it represents?
+
+Sure. I can give you a little bit of color. Essentially, if you reflect on our core data center services, the segments we speak about are colocation, hosting, and cloud. And the market growth rates we ascribed to those three segments are 10% to 15% for colocation, about 20% for traditional custom hosting, and 30% to 40% for cloud services.
+
+And from our perspective, we judge ourselves against market growth rates and Bare-Metal Cloud, we would be judging ourselves against the 30% to 40% growth rates ascribed to cloud. And without giving specific numbers, I would say we feel comfortable where we compare favorably to market growth rates for our Bare-Metal Cloud offering.
+
+Okay. Looking at the Secaucus data center, you've talked about migrating some of your customers as the lease expires in your facility in downtown Manhattan. Can you just run through how that transition works? How much square footage are you migrating, and what's the timing of that?
+
+Sure. We have just over 20,000 occupied square feet in our 111 8th data center in New York Google building. So, that's the universe of opportunity for customers to migrate out of that facility before the end of calendar year 2014. And we are commencing that migration for some customers literally as they come off contract in the first quarter of 2014, and we would expect that to continue throughout calendar year 2014.
+
+So, you put in place another phase of Secaucus to handle more and expansion. As you put 20,000 square feet into 13,000 square feet, you'd need another phase, right?
+
+I'm sorry. I didn't quite catch that question?
+
+So, you've got 13,000 net sellable square feet coming on line in Secaucus?
+
+Yes.
+
+And you've got 20,000 square feet migrating. So, you're going to need possibly more space in Secaucus, so that would be a next phase, is that how to interpret that?
+
+Actually, let me correct. The 20,000 square feet – just over 20,000 square feet is total net sellable. The current occupied there is about 16,000 square feet. So, yes, one of two things will happen: either slightly less than the total current occupied will migrate, or we'll bring on incremental power and add capacity in that facility. So, we'll judge that as we move through the migration.
+
+All right, and just one last quick question. Do you have a capacity utilization of your footprint across the whole footprint?
+
+Yeah. We're approximately 58% today, and you can see that in our supplemental data sheets.
+
+Okay. Great. Thanks.
+
+Thank you. Our next question comes from the line of Dan Kurnos with The Benchmark Company. Your line is now open.
+
+Yeah, great. Thanks for taking my questions. Just first on the partner side, I know, Eric, you had called out to expect maybe a more normalized churn level. You talked before about rationalization of footprint. I think that the partner square footage leaked down another thousand this quarter. How long do you think that's going to persist, or do you think we start to flatten out in Q4?
+
+What we experienced in the third quarter was some fairly significant churn in our partner data center footprint. And as we alluded to on the call, the background for that churn was, in many cases, customer consolidation, business consolidation. So large company acquires small company, and if small company was our customer, we're seeing some churn as they consolidate their data centers, as an example.
+
+From a sales strategy perspective, our sales team is really no longer pursuing the sale of partner colo. So, in that sense, given that we're not really pursing it, we're essentially doing customer renewals as when they come up for contract. There is a net negative headwind there as things like business consolidation happens in that partner data center footprint. So our expectations are flat to slightly declining partner data center revenue for the foreseeable future.
+
+Got it. That's very helpful. Are there any major renewals that are due up in the near term, or is it pretty consistent in terms of contract renewal dates?
+
+We do have some significant, I would say, partner data center renewals coming up in fourth quarter of 2013 and first quarter of 2014. So there is, I guess, further risk of partner terms, subject to the outcome of those renewal discussions.
+
+Got it. But as an offset, we did see a really nice tick-up in the occupied controlled space. I'm curious if that was bringing the new capacity online, if you were just meeting that demand now that you had the additional available capacity, or what drove that?
+
+There were actually a handful of fairly sizeable company-controlled colocation orders in second quarter, early third quarter that perhaps caused a bit of a step-up, let's say, in terms of company-controlled occupancy.
+
+And as a follow-up to that, I mean, you just say in the press release that the churn, I think, on the partner side offset the growth in core data center, even though we saw that the occupied controlled square footage increased more than the partner declined. So can you maybe just walk through how the revenue worked there, were they smaller orders or maybe just a little bit of color there would be helpful? Thank you.
+
+I think the simplest way to describe that is probably just due to timing, right? As you can imagine, if the partner churned at the beginning of the quarter and we didn't install the company-controlled colo until the last day of the third quarter, you would see the square footage reflected exactly as we reported, but revenue might not – from company-controlled wouldn't obviously be able to offset the partner.
+
+Okay. Great. Thanks for all the color.
+
+Sure.
+
+Thank you. Our next question comes from the line of Gray Powell with Wells Fargo. Your line is now open.
+
+Great. Thanks for taking the questions. Just had a couple.
+
+Sure.
+
+So data center margins continued to show some pretty solid gains year-over-year. How should we think about that trend longer term? And do you see any [ph] gating (25:39) factors to getting margins up towards levels seen by peers, which is Rackspace and Equinix in the company-controlled data center side of the business?
+
+Short answer is no. We don't see any barriers to delivering segment margins in line with our peers. And in fact, that's quite specifically how we judge ourselves internally. So the dip, if you will, in third quarter, as we alluded to on the prepared remarks, was from our perspective attributable to seasonal power costs, local warmer summer months driving our cost up a bit. But in general, over the past couple of years, you've seen a pretty steady improvement in our data center segment margins and we would expect that to continue, both as we continue to move away from partner data centers, as well as we continue to benefit from the product mix shift associated with hosting and cloud, growing at a faster rates than company-controlled colocation and they – hosting and cloud tend to have higher segment margins than our company-controlled standalone colocation.
+
+Got it. Okay. That's helpful. And then on the managed hosting and cloud side, can you talk about the pace of new business or bookings that you all saw in Q3 relative to Q2 earlier this year?
+
+As I recall, in our prepared remarks for the second quarter, we suggested that sequentially second quarter we saw a pretty healthy increase in bookings relative to the first quarter. To continue that commentary, I would say third quarter, we maintained kind of Q2 level, which, I think, from my perspective, given the, let's say, typical summer slowdown and folks on holidays, we feel pretty good about that bookings level. The only offset to that is really, as we already suggested, the churn rate was a bit up due to some business consolidations in the quarter.
+
+Got it. Got it. And then just to make sure I understand correctly, were you referring to like data center colocation, managed hosting, and cloud, or just the managed hosting and cloud bookings?
+
+Actually, I was referring to total company bookings.
+
+Okay. Okay. I got it. Thanks.
+
+Sure. Thanks, Gray.
+
+Thank you. And our next question comes from George Sutton with Craig-Hallum. Your line is now open.
+
+Hey. Good afternoon, guys. Jason Kreyer on for George Sutton. My first question – so, the data center revenue came in just a little bit shy of what we were expecting and I did a little bit back-of-the-envelope math here, but it looks like maybe that would be attributed to lower pricing in the quarter. Can you confirm or maybe talk a little bit about the pricing trends that you're seeing?
+
+I guess with regards to pricing and specifically speaking to colocation, the simplest remark I can make is that I mentioned a handful of fairly sizeable company-controlled colocation orders in the quarter just based on big deals tend to be slightly lower priced than small deals on a per unit basis. The per unit or per square foot, if you like, sell price was likely a little bit lower on those larger deals.
+
+Beyond that, call it point impact, I would not suggest we have seen or are seeing, call it, market pricing pressure on company-controlled colocation. I think over the last 12 to 18 months from our perspective, competitive pressures as well supply-and-demand dynamics have been relatively unchanged.
+
+Okay. Thank you. That's helpful. And then, earlier in response to one of the questions, you just talked about the market growth rates in the three different segments inside the core data center. And just wondering if you can comment at all and if you've you seen any change in those trends, if you've seen accelerating growth internally on maybe the cloud side or any shifts that were notable that you can talk about?
+
+Really no substantive changes in, I would say, overall market growth rates. If there is one, maybe the colocation is a little bit slower than we've seen two years ago, i.e., today we're talking about growth rates in the 10% to 15% range. I think two years ago, we were probably talking about growth rates maybe in the 15% to 20% range, but no major changes outside of that.
+
+Okay, and then just one more for me, if I could. Just wondering if you can comment at all on the competitive environment within the Bare-Metal Cloud. So since you've introduced that solution and gone to market with that strategy, are you running into any different competitors now than before you were offering the Bare-Metal?
+
+As we alluded in the remarks, Bare-Metal Cloud is really an alternative in many application workload requirements to traditional virtual public cloud infrastructure. So I wouldn't say that our universe of competitors has changed, but we quite often see Bare-Metal Cloud positioned against public cloud providers, and as we suggested, the price performance comparison with Internap and our Bare-Metal cloud offering in very good light.
+
+Okay. Great. Thank you.
+
+Sure.
+
+Thank you. The next question comes from the line of Colby Synesael with Cowen & Co. Your line is now open.
+
+Great. Thank you. I had two questions. There's two areas of questioning. So, the first one has to do with the partner colocation space that you have. I mean, clearly, the company has chosen to stop strategically focusing on selling that and the aftersales people now have to focus on selling that on a go-forward basis. And we do see that that's the area of weakness in that data center business in terms of where you're offsetting some of your revenue growth in your direct business.
+
+Have you actually looked into potentially just selling that to the actual underlying owners of the colocation facilities, which are essentially your partners? It seems like the ability to potentially accelerate this transition opposed to bleeding it out every quarter will be to your benefit since you're already acknowledging you're going to let it go. And maybe there's an opportunity to actually monetize it before letting that happen than just effectively getting through it much quicker than what we're seeing.
+
+And then, the second area of question just has to do with the transition risk at 111 8th. You indicated that 16,000 square feet is currently occupied. You're transitioning to that through 13,000 square foot facility. It does seem like you're under the impression that some of that customer revenue is going to migrate off. I was wondering if you could quantify that for us, so we can get a sense of what the risk could potential be, even if it's not actually the number you think was going to ultimately be, maybe just a sense of what it could potentially be so we could start to factor that into our models as we look to next year. Thanks.
+
+Sure. So your second question first, the New York 111 8th, I guess, what I would suggest is, first of all, contemplate why a customer would churn. And the answer there is we have a quite compelling data center value proposition in our New Jersey data center. So from our perspective, given that customers have to move somewhere, i.e., staying in their footprint in that Google facility is not an option, they have to go somewhere, and to the extent Internap has been a good service provider for them and has a good alternative, we think there's a really strong probability that those customers remain with us.
+
+The exceptions to that will be customers that have, for whatever reason, a strong requirement to stay physically on the island of Manhattan. Most of our customer base within that property doesn't seem to have that rigorous requirement to stay literally on the island of Manhattan. So we are cautiously optimistic that we will be able to transition our customer base over to our Secaucus facility.
+
+That being said, the timing for subsequent expansion, as you can probably imagine, the lead-time to turn up a new facility tends to be significantly longer than the lead-time to bring on incremental power in an existing facility. So we are simply choosing to manage our cash flow and capital expenditures carefully and not build 20,000 net sellable square feet day one, but rather time our expansions in that facility to match the migration.
+
+We will, as I said, be migrating customers throughout 2014 out of that 111 8th property. So I guess bottom line, I would not encourage you to assume a massive churn from our 111 8th footprint and build that into your model for 2014.
+
+Okay.
+
+Your first question with regard to, have we considered packaging up and essentially selling the book of business that is our partner data centers, we definitely did consider that as an option three or four years ago when we initially went through a proactive partner churn program. And simply put, we concluded at that time that the cost benefit, let's say, just didn't make sense for us.
+
+Today, if you consider what's really going on, we have very little support cost for that revenue. It's not our data center. We're not operating it. We're not maintaining it. The support costs are really down to, let's say, customer relationships, and the billing, invoicing, et cetera, et cetera. So my point being the partner data center revenue that remains is reasonably profitable, reasonably cash flow generating. So there is just at this stage not a lot of incentive for us to sell it other than the optics of the revenue headwind that are created when we have churn events like this, which we certainly appreciate. But simply put, the cash flow is meaningful enough that we have thus far opted not to proactively package that up and sell it.
+
+Well, I guess, I mean, it's somewhat of a philosophical question in terms of how you want to run the company, which is, do you want this to be a faster-growing company? And do you think that that's the type of investor that you have in the business or in Internap, or do you think that it's more prudent to be conservative and effectively milk the cash flow to move it at a slower pace?
+
+I'm just curious, as you continue to – as you mentioned, you're now three to four years into this transition in terms of turning around the company, has that changed at all in terms of how you perceive what's the right move for the company, to be even perhaps more aggressive or simply to continue at the pace that you're going?
+
+I think from my perspective, I'm targeting the savvy investor who seeks out returns on capital and cash flow as the basis for their investments in the shares, and ideally spends the time to understand the financials of the business enough to appreciate that despite the revenue headwind, cash flow generation is, at the end of the day, what will drive the share price and the long-term value of the company. So, that's the approach we've taken and the strategy that we're executing on.
+
+And I would add that there are certainly certain customers who want one throat to choke. So, effectively, they will look to come to us for basically filling in what their needs are in our company-controlled facilities as well as [ph] those leased (38:02). So you'd put that at risk by selling those off.
+
+Sure.
+
+Great. Thank you, gentlemen.
+
+Sure. Thanks, Colby.
+
+And I'm showing no further questions at this time. I'd like to turn the call back over to Michael Nelson for any further remarks.
+
+Great. Well, that concludes our third quarter 2013 earnings call. Thank you for joining us.
+
+Thank you.
+
+Ladies and gentlemen, thank you for participating in today's conference. This does conclude today's program. You may all disconnect. Have a great day, everyone.

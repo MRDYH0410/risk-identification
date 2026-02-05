@@ -1,0 +1,170 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+Jerry D. Chase — President, Chief Executive Officer & Director, BSQUARE Corp.
+Martin L. Heimbigner — Chief Financial Officer, BSQUARE Corp.
+David L. Kanen — Analyst, Aegis Capital Corp.
+Kevin J. Lyons — Co-Founder & Manager, Moloco Capital Partners LLC
+Ryan Vardeman — Founding Partner, Palogic Value Management LP
+
+Management Discussion Section
+
+Question And Answer Section
+
+Please standby, we're about to begin. Good day and welcome to the BSQUARE Corporation Fourth Quarter 2014 Financial Results Conference Call. Today's conference is being recorded.
+
+At this time, I would like to turn the conference over to Jerry Chase, BSQUARE's Chief Executive Officer. Please go ahead sir.
+
+Thank you, and good afternoon, everyone. Before I begin, let me remind you that this call is being broadcast over the Internet and that a recording of the call and the text of our prepared remarks will be available on our website. During this call, we will be making forward-looking statements. These statements are based on current expectations and assumptions that are subject to risks and uncertainties that could cause actual results to differ materially.
+
+Please refer to the cautionary text regarding forward-looking statements contained in our earnings release issued today and in the posted version of these prepared remarks, both of which apply to the content of this call. All per share amounts discussed today are fully diluted numbers where applicable. Throughout 2014, by focusing and executing cleanly on our existing business, BSQUARE made good progress on our commitment to return to sustained profitability. This was shown in Q4 by a $1.4 million increase in net income, a $1.4 million increase in adjusted EBITDAS and $1 million reduction in OpEx from the year ago quarter.
+
+In 2015, we will continue to focus on profitability and cash flow and we will undertake new initiatives to grow shareholder value. More about that in a few moments, but first a few comments about each of BSQUARE's three revenue lines; third-party software sales, engineering services and proprietary products. Third-party software sales under the leadership of Scott Caldwell, are the main driver of our top line revenue, generating 78% of our Q4 revenue and operating at 14% gross margin. This is the group responsible for the launch of MobileV. Engineering services drove 20% of our top line in Q4 and operated at a 29% gross margin. Under the leadership of Mark Whiteside, we continued to focus on deepening and expanding our relationships with existing customers, selectively growing our customer base and adding to the sales team.
+
+Our proprietary product revenue represented only 2% of our top line in Q4, but with 85% gross margin. Our DataV and MobileV initiatives are targeted at growing this portion of our business. In 2015, we will continue to bring our three revenue lines together to mutually support and grow our business. For example, we believe that both MobileV and DataV will offer opportunities for BSQUARE to offer licensing, engineering services and products as part of the bundled solution. The team work amongst Scott Caldwell, Mark Whiteside and Chief Architect, Dave Wagstaff is a competitive advantage for BSQUARE and is key to achieving our long-term objectives.
+
+Now, some highlights from Q4 and some comments about our direction in 2015. Coca-Cola continues to be a key and healthy customer for us. Google has become a key account and we have now grown our engagement with Google beyond project Tango and the Ford SYNC project continues to be a steady engagement for us.
+
+Few comments about DataV, our Internet-of-Things offering. DataV is a combined offering of product and services that will turn raw device into useful, meaningful, and actionable information for business decision-making. 2014 was a building year for DataV and we expect to generate revenue from initial sales in 2015. DataV is initially finding traction with customers that manufacture and/or operate capital-intensive, mission-critical industrial equipment.
+
+We believe DataV will help our customers improve equipment uptime, automate their field support forces, lower operational costs, lower time to market risk and enable new revenue opportunities for them and for us. We began calling on customers in earnest with DataV in Q3 and Q4 of last year. Currently, we have a small, but growing number of customer prospects in our sales pipeline. We are engaging with customers to offer DataV as either a one-time sale with support or as a hosted solution using a Software-as-a-Service model. We look forward to reporting our DataV progress to you during the coming year.
+
+Now, turning to MobileV, through our partnership with Aava Mobile, we launched MobileV in October and this product contributed $1 million to our revenue in Q4. MobileV is targeted to OEMs building multiple device form factors to include durable and rugged-class handhelds and industrial tablets. MobileV combines Windows Embedded 8.1 along with cutting-edge Intel board reference designs from Aava Mobile and BSQUARE's proprietary software.
+
+In the future, MobileV will also support Android 4.4. MobileV offers a robust production-ready platform reducing time-to-market development risk and costs, while allowing OEMs to focus on their value-added features and functionality. MobileV is sold in two elements, for an upfront fee customers receive a package of production ready reference designs and licenses. As customers begin shipping their MobileV base products, BSQUARE will earn per device fees for Microsoft, Aava and BSQUARE licenses.
+
+Before turning the call over to Marty Heimbigner, our CFO, I'd like to express my sincere gratitude to Harel Kodesh for his services at BSQUARE Board member. Harel recently accepted the position of Chief Technology Officer and Officer of GE Software at General Electric. In this capacity Harel, will have significant leadership responsibility for GE's Industrial Internet business. Consequently, because of the potential for conflict of interest, Harel must step down from the BSQUARE Board. We look forward to hopefully working with Harel in his new role and congratulate both GE and Harel on this outstanding appointment.
+
+Marty Heimbigner, our CFO will address our fourth quarter and 2014 financial results. Marty?
+
+Thanks Jerry. With that business overview from Jerry, let me recap our financial results that reflect the restructuring that took place in 2013 and the hard work and talent of the entire BSQUARE team.
+
+We reported total revenue this quarter of $25.6 million, slightly down about 1% from $25.8 million in the same quarter in the prior year, and however, up 4% sequentially from $24.5 million in the third quarter.
+
+Total revenue for the year was $95.9 million, up 4% from $92.1 million in 2013. This growth in revenue was achieved while simultaneously reducing operating expenses and launching our new MobileV and DataV initiatives.
+
+Third party software sales were $20.1 million this quarter, down 5% year-over-year from $21.1 million. The decrease from the prior year quarter was attributable to a large Adobe Flash sale last year. Third party software sales were up 4% quarter-over-quarter from $19.2 million. The quarter-over-quarter increase resulted from the recognition of $1 million in sales of MobileV in Q4.
+
+Third party software sales for the year were $73.9 million, up 4% from $70.9 million in 2013. This increase in annual third party software sales was attributable to increased unit volumes of Microsoft licenses, initial sales of MobileV, and partially offset by a decline in average selling prices of Microsoft licenses.
+
+Service revenue was $5 million this quarter, up 17% year-over-year from $4.2 million and up 4% quarter-over-quarter from $4.8 million. Service revenue for the year was $19.7 million, up $1 million or 5% from $18.7 million in 2013. Service revenue was up year-over-year, primarily as a result of increased service revenue in Japan, offset by partially lower revenue in North America.
+
+Proprietary software revenue was $560,000 this quarter, up 26% year-over-year from $444,000 and flat quarter-over-quarter. Proprietary software revenue for the year was $2.3 million, down 8% from $2.5 million due to the continued decline in the sales of our legacy products.
+
+Now, turning to gross profit and margin. Overall, gross profit was $4.8 million this quarter or 19% of total revenue compared to $4.5 million or 17% of revenue in the year ago quarter and $4 million or 16% of revenue in Q3. Total gross profit for the year was $16.5 million, up 10% from $15 million in 2013.
+
+Service revenue in 2014 reflects revenue from two Japanese handset projects that increased service revenue gross margin in 2014 by 2%, and had a similar magnitude reduction in service gross margin in 2013.
+
+Third-party software gross margin was 14% this quarter, compared to 19% in the year ago quarter and 14% in Q3. The year-over-year decrease was due to a large Adobe Flash sale in Q4, 2013 that increased that quarter above average gross profit, we generated on third-party software sales. Proprietary software gross margin was 85% this quarter, 56% in the year ago quarter and 74% in Q3.
+
+Fluctuations in proprietary software gross margin are generally driven by changes in revenue as the cost of sales is relatively fixed. Service gross margin was 29% this quarter, 7% in the year ago quarter and 20% in Q3. The quarter-over-quarter increase was due to the completion of a Japanese handset project in recognition of the profit on that contract in Q4. The year-over-year increase in engineering services margin up 13 percentage points from 11% in 2013 to 24% this year, was primarily due to the completion of two Japanese handset projects in 2014, as well as improved utilization and an increase in realized rate per hour in both North America and Europe of approximately 4%. Without the benefit of the Japan projects, engineering services margin would have been 22% in 2014 and 13% in 2013.
+
+Moving down the income statement to operating expenses. Total operating expense was $3.5 million this quarter, down 23% year-over-year from $4.5 million and up 7% quarter-over-quarter from $3.2 million. The year-over-year decrease was primarily driven by the Q4 2013 restructuring that reduced employee head count and overhead expenses. Total operating expense was $14 million for the year, down $4.1 million or 23% from $18.1 million in 2013. This overall $4.1 million reduction in operating expense was consistent with our plan and we enhanced efficiency of our business as reflected in the growth of top line revenue.
+
+Now, I will speak to the bottom line results. We reported net income for the quarter of $1.4 million or $0.12 per share compared to a net loss of $23,000 or $0.00 per share in the year ago quarter and net income of $691,000 or $0.06 per share in Q3. We reported net income for the year of $2.3 million or $0.20 per share compared to a net loss of $5.3 million or $0.47 per share in 2013. The full year results in 2013 included the negative effect of a $2.2 million increase in our deferred tax asset valuation allowance, which represented in effect of $0.20 per share for the year. This improvement in net income reflects the company's focus on increasing the efficiency of our core business and commitment to sustained profitability.
+
+We generated adjusted EBITDAS of $1.7 million this quarter compared to adjusted EBITDAS of $345,000 in the year ago quarter and adjusted EBITDAS of $1.1 million in Q3. Adjusted EBITDAS is a non-GAAP measure defined as operating income before depreciation, amortization and stock-based compensation. The reconciliation to the comparable GAAP financial measure can be found in our press release and on our website at bsquare.com.
+
+We generated adjusted EBITDAS of $4.1 million for the year compared to negative adjusted EBITDAS of $1.5 million in 2013. Our cash and investments increased to $26.6 million at year-end from $21.1 million at the beginning of the year and $25.5 million at September 30. Our capital expenditures totaled $44,000 for the quarter and $320,000 for the year.
+
+I will now turn the call back to Jerry for our closing remarks.
+
+Thank you, Marty. Turning to Q1 outlook, historically the company's first quarter has had seasonal fluctuations resulting in lower revenues in subsequent quarters. We currently expect that revenue will be between $22.5 million and $24.5 million, and we expect to be GAAP profitable. You may recall that revenue for Q1 of 2014 was $22.7 million.
+
+Moderator, please open the call for questions.
+
+Thank you. [Operator Instructions] And we'll take our first question from Dave Kanen at Aegis Capital. Please go ahead sir.
+
+Good afternoon. First of all, congratulations on what was considered to be a transitional year that was pretty successful.
+
+Hey, Dave. Thank you.
+
+Okay. First question is on the MobileV shipment in December, did you quantify that? Was that – did you say that was $1 million?
+
+Yes. That was slightly over $1 million.
+
+Okay. How does that get allocated on a segment basis, is that partially between proprietary software and engineering services, can you tell me how that breaks out?
+
+Currently, it's all proprietary software. Going forward, we would expect – I'm sorry, I misspoke, currently it's all third-party software, going forward, we would expect it – we would include services and have a portion of our own proprietary product in there.
+
+Okay. And then what was the driver for the uptick in third – in proprietary software as well as the gross margin?
+
+So for proprietary software, we actually have a year-over-year decline. We have several legacy products that we have been selling and those have been slowly declining over the past several years. So from one quarter to the next, it's just fluctuations in the timing of purchases from customers. But it is an overall downward trend.
+
+Okay. And then my last question, then I'll step back into queue. What kind of excess capacity do you have within your engineering staff right now, in your Services division? What kind of – with the staff that you have, in other words, I should word it better, what kind of revenue could we get up to without adding any capacity?
+
+We generally look to – be able to generate around $5 million to $5.5 million with the staff that we have on hand. So we wouldn't need to add resources for that level of service revenue.
+
+Okay. Thank you.
+
+And we will go next to Kevin Lyons at Moloco Partners. [Operator Instructions]
+
+Hey, Jerry. Nice work on a continued progress to everyone at BSQUARE. Congratulations.
+
+Hey, Kevin. Thank you.
+
+Hi. Good. So my – that is very encouraging. My concern is the engineering services as we continue to talk about it, it seems to have kind of plateaued at that 19% to 20% range maybe worse. What is the plan there? It's dragged out for about three years or four years now underperforming, is that going to become a focus now. Now you've got sort of the basic operating cleaned up or what's the plan going ahead that you can share?
+
+So we do under Mark Whiteside's leadership, we have adopted land and expand strategy with customer. So for example with Coca-Cola, with Google and we would continue to do that. What you'll see us doing is focusing on a fewer larger customers and deepening our engagements. And then, we'll also be looking to wrap services around both MobileV and DataV going forward, and we believe that's a competitive advantage for us.
+
+Okay. So I mean what should we think of as the target there – for the target margin, because it's certainly not an acceptable range at the moment? 30% to 35% is sort of the norm in a business like that, but how do you think about that right now? The land expand as to my recollection, it was part of the reason why it deteriorated, so poorly in the past, so what's new this time? Would it be part two to that question?
+
+So what we will be doing is, I think in previous conference calls, Kevin you have done a good job of pointing this out that needs to be an area of management attention. And what you'll see us doing is gradually chipping away at that and increasing those gross margins, increasing the efficiency. We have not offered specific guidance on a target gross margin. But I think that the way we're going to improve that is as I mentioned deepening our engagements with lead customers and then wrapping services around a more of a product offering going forward.
+
+Okay. How patient should we be with that process, do you think? My last question.
+
+So, as I – as we mentioned in our prepared remarks, and I think as Dave Kanen mentioned on his – in his remarks, BSQUARE did have a transitional year in 2014. We believe that we do have additional work to grow to go to grow the shareholder value. We believe engineering services is a competitive advantage for us and certainly has laid the ground work for the discussions that we've had with our customers with DataV.
+
+Okay. Thanks very much and keep on trucking.
+
+And we'll go next to Ryan Vardeman at Palogic.
+
+Hey, guys. Thanks for taking the question. Congrats on what seems to be another good quarter, it seems like you've starting to get a three quarters of GAAP profitability here, which is – I mean it looks great and generated a significant cash flow last year.
+
+Hey, Ryan. Thank you.
+
+At what point in the future, do you think you're going to be able to quantify the opportunity that we've got as it relates to the DataV [ph] perspective (23:29)?
+
+So fair question. Actually a fair question. So we're still investigating with our customers what that looks like, and so we do have a small, but growing engagement with customers on turning their data into – their raw data into actionable data. We're having some discussions about whether that's sort of a large sale upfront with traditional support versus a SaaS model. And in the SaaS model of course we'd be more interested in design wins, socket wins if you will, and then monthly fees, monthly support fees et cetera. So we do expect to gain revenue in 2015 that's not your question, your question is okay, how much? We're not ready to talk about that yet. But, we will be forthcoming, we will – we do expect to recognize revenue in 2015, and we are engaged with customers in these discussions.
+
+What about looking out – it sounds like – how far out are we from having a true commercialized product with – [ph] that's functioning (24:44) and ready to deploy at a customer's site?
+
+We believe that we have a product now that we can engage with customers on proof-of-concepts. And the reason that's important is that our product depending on whether the customer is engaged in gathering the data or monitoring the devices or automating et cetera, it would engage our product at a different level. And then what we do in that case is, is work with that customer to round out the product offering. So, close. We are talking with customers and getting their direction in order to finalize the product and be ready to deploy. But, we are very close. We're being customer driven at this point and we do not believe that product availability would be in the way of revenue.
+
+Oh, okay. Great. If – once you have the specifications, you figure six months or nine months, you could have a production ready environment?
+
+I would say less than six months to nine months. I would say probably – I'd say less than six months to nine months.
+
+Okay. And then what about as it relates to the opportunity? I mean I guess you can define it either on a SaaS basis or on a traditional license maintenance model basis. But, when would you be prepared to put forth kind of your hopes and aspirations looking out two years or three years from a revenue perspective or something like that later this year or once you've got a production system deployed or I mean or just don't know yet?
+
+Well, we don't know with specificity. At this time, we are still working through with prospects that we are talking to and understanding their – timeline for their deployments. And the – essentially the economic model that they would be utilizing and how that impacts our revenues and forecast. It is certainly something that we're doing internally here probably it's going to be several quarters before we're in a position to share where we think the future is headed with respect to these initiatives at this point in time.
+
+Okay. So without holding your feet too close to the fire maybe Q3 conference call, we could maybe have a more substantive conversation relates to that?
+
+I think by Q3, Q4 timeframe, we will have much better understanding of where we are at with the customers that we're – are working with us at this point in time.
+
+Okay, wonderful. Thank you all very much and keep up the hard work.
+
+Thanks, Ryan. [Operator Instructions]
+
+We'll now take our follow-up from David Kanen at Aegis Capital.
+
+Okay, just a comment on the year, since the restructuring you've been at a run rate in terms of adjusted EBITDA of about $1.1 million per quarter, Q4 being the strongest one at $1.7 million. So you are at a run rate of like $4 million to $5 million, being over-capitalized as a shareholder something that I would like to see is returning some of that cash maybe $3 million a year, you'd still be building cash, you'd still have $26 million plus, I think it would be something that shareholders would welcome. So that's my two cents on capital allocation. And then Ryan pretty much posed the other question I was going to ask. Thank you.
+
+Thanks Dave. Yes, we are certainly looking at opportunities to enhance shareholder value and how we utilize that cash. Clearly, the initiatives that we had in 2014 with DataV and MobileV, we believe there will be opportunities related to those in the coming year. And so that is part of our thinking as we evaluate the usage of that cash. But, we definitely appreciate your suggestion there.
+
+Okay. Yeah. I mean maybe a better way for me to freeze it, I should have said this before is while we're waiting for the call option of the DataV, MobileV initiatives, I think it would be welcomed to return some of that cash. I think it would – it make the shareholder base more loyal, while we're waiting for that. Hopefully to ramp or to find out if it's truly going to be successful? Thank you.
+
+Yeah. Dave, I think those are fair comments. As we've discussed in the past nothing is off the table. We're running the company for you and the other shareholders. I'll just stay with that. Nothing is off the table. Your comments are well received and certainly, we understand it and stay-tuned, and we're running the company for the shareholders.
+
+Excellent. Thank you.
+
+And we will take another follow up from Kevin Lyons at Moloco Partners.
+
+Hi. Yeah, I just want to follow up on what Dave said. So we've talked about this a lot in the past obviously the different ways to return – of returning the cash to the shareholders and demonstrate a commitment to the profitability. I know Marty is new. The idea of spending more cash on really anything, I don't think we're quite there yet from a shareholder perspective, I don't think that's quite been earned yet. I would encourage you not to do that. Get everything completely in order, get all the easy fixes done, and then we can talk about what you might want to do next where there is some ROI going forward. But that would be a mistake. Doing anything with that cash other than growing at the time and proving that you can actually accumulate it over time and then return it to the shareholders in some fashion is would be my recommendation. So thank you.
+
+And there are no further questions in the queue. At this time, I will turn the call back to Jerry Chase for any closing remarks.
+
+Thank you, Blake. Before concluding the call, on behalf of the entire BSQUARE team, I'd like to thank our investors and our customers for your interest and for your business. We look forward to reporting back to you next quarter. Thanks for joining us.
+
+And that does conclude today's conference. We thank you for your participation.

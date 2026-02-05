@@ -1,0 +1,208 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+John W. Schoen — Chief Financial Officer, Secretary & Senior VP, PCTEL, Inc.
+Martin H. Singer — Chairman & Chief Executive Officer, PCTEL, Inc.
+Rishi Bharadwaj — Vice President & GM-Connected Solutions, PCTEL, Inc.
+Mike Crawford — Analyst, B. Riley & Co. LLC
+Matthew Robison — Analyst, Wunderlich Securities, Inc.
+
+Management Discussion Section
+
+Question And Answer Section
+
+Ladies and gentlemen, thank you for standing by, and welcome to the PCTEL Second Quarter 2015 Conference Call. At this time, all participants are in a listen-only mode. Later, we will open the call up for questions. Instructions for queuing up will be provided at that time. As a reminder, this conference call is being recorded for replay purposes.
+
+I will now turn the call over to John Schoen, Chief Financial Officer.
+
+Thank you for joining us today for the PCTEL financial results conference call for the second quarter 2015. On today's call will be Marty Singer, Chairman and CEO, and I am John Schoen, Chief Financial Officer.
+
+Our remarks today contain forward-looking statements and projections of future results. Please review the forward-looking statements section at the end of today's earnings release for various factors that could cause actual results to differ materially from projections.
+
+PCTEL reports its financial results in accordance with U.S. Generally Accepted Accounting Principles. Today's call will contain various operating results on an adjusted non-GAAP basis, which excludes items that affect comparability of reported results. Descriptions of these non-GAAP financial measures and reconciliations are included in today's earnings release, which is available on our website.
+
+Now, I'll turn the call over to Martin.
+
+Thank you, John, and good evening to all of you. Let me recap some of the non-GAAP highlights from the quarter. We achieved revenue of $27.6 million, an increase of $1.4 million over the same quarter of last year. Gross margin was 35%, reflecting the growth of services relative to higher margin products. Operating margin was 1%. Net income was $300,000 or $0.02 per diluted share. Cash and investments were $41.3 million, an increase of $2.4 million from last quarter. We repurchased 380,000 common shares during the quarter for $2.8 million, and we paid $929,000 in dividends.
+
+At this point, I will turn the call back over to John, who will discuss our financial performance in greater detail.
+
+Thank you, Marty. Revenues were $27.6 million in the quarter, up $1.4 million or 6% from the same period last year. Approximately $2.2 million of the growth is from the company's acquisition last quarter with the remaining $800,000 decrease coming from organic revenue. I will speak to the changes by reporting segment.
+
+RF Solutions revenues were $9.6 million in the quarter, up $1 million or 12% from the same period last year. The increase is a result of the recent acquisition of Nexgen in the first quarter this year, partially offset by a decline of over $1 million of scanner revenue in the Asia-Pacific region. Marty will speak to the market factors driving the trend later in the call.
+
+Connected Solutions revenues were $18.1 million in the quarter, up $400,000 or 2% from the same period last year. Revenue increased from growth in the OEM sales channels, which was partially offset by the completion of a large carrier project and weakness in the oil and gas market.
+
+Gross profit margin as a percent of sales was 35% in the quarter compared to 42% in the same period last year. RF Solutions gross profit margin as a percent of sales was 44% in the quarter compared to 62% in the same period last year. The decline in scanning revenue was the major contributor to the gross margin erosion. Also the inability to rapidly reduce service cost structure after the Samsung termination was another.
+
+Connected Solutions gross profit margin as a percent of sales was 31 % in the quarter, down 2% of revenue from the same period last year. Revenue was significantly higher in our OEM channel for Wi-Fi products, which carries less margin percent than our GNSS products.
+
+Now, let's turn to Non-GAAP operating expenses. Operating expenses were $9.4 million in the quarter. This is a $500,000 increase from the same period last year, with $1 million associated with the Nexgen acquisition, partially offset by a $500,000 decline in organic operating costs. The $500,000 organic expense reduction is primarily attributed to R&D related to the IBflex product launch being completed in 2014.
+
+Non-GAAP other expense was $9,000 in the quarter. As the amount is largely interest on our investments netted with miscellaneous expenses such as currency gains and losses, the number will continue to be small in the current interest rate environment.
+
+Non-GAAP income tax rate in the quarter and for the rest of the year was 18% -- is 18%, it's unchanged from 2014. Non-GAAP earnings per share from continuing operations were $0.02 in the quarter compared to $0.11 in the same period last year. Approximately $0.07 is attributed to lower gross profit and $0.02 is attributed to higher operating costs.
+
+Now let's turn to the balance sheet. Cash and investments ended the second quarter at approximately $41.3 million, about $2.4 million higher than the previous quarter. During the quarter, the company repurchased 380,000 shares for $2.8 million, paid $929,000 for the regular quarterly dividend and generated $6.1 million of cash and investments from all other sources.
+
+Cash flow from operations was $6.9 million, of which $3 million related to the Nexgen acquisition settlement. Capital spending was $933,000, bringing free cash flow for the quarter to $6 million.
+
+Now, I'd like to discuss the guidance for the third quarter of 2015. We anticipate third quarter revenue to be in a range of $27 million to $28 million. Gross profit margin is expected to be above 35%. Operating costs are expected to be approximately $9.2 million.
+
+For 2016, we anticipate $118 million to $124 million in revenue, which represents between a 6% and 11% growth over 2015. Approximately half of the dollar growth is expected from services and half from products and software, including data analytics.
+
+Gross profit margin as a percent of revenue for 2016 is anticipated between 37% and 39% of revenue. We view the margin profile for the second and third quarters this year to be at a low point for scanning products in data analytics software content, which carry our highest gross profit margin. We anticipate higher scanning and data analytics content in the total long-term revenue mix.
+
+2016 operating costs are expected to be between $36.5 million and $37.5 million.
+
+Non-GAAP effective income tax rate is expected to remain unchanged going forward at 18%. The fully diluted share account in 2016 and -- is expected to also be around $18 million as it was as we exited this quarter.
+
+This concludes the financial review. I'd like to turn the call over to Marty for his summary comments.
+
+Thanks, John. While PCTEL missed its financial objective this past quarter, we've made significant progress in advancing our products and developing new business across our product and service offerings.
+
+Before we review that progress, though, I'll discuss the revenue and cost issues that impaired our results, along with actions, many already taken, to address those issues. A shortfall in scanning receiver sales in China accounted for most of our revenue and gross margin miss. We generated about 20% less in scanning receiver revenue than forecasted.
+
+Administrative inquiries into the tender process for wireless network test equipment delayed procurement decisions, and we lost one tender at China Mobile, which impacted sales for the year. This decline is reflected in the guidance and the discussion that John just provided.
+
+Second, although our in-building engineering services business recovered from the dramatic drop in the first quarter from the fourth quarter, we are staffed to generate higher revenue levels. Our funnel supports restoration to target levels by the fourth quarter. Despite the short-term issues, we remain confident in our engineering services business and will continue to expand organically this operation.
+
+As you may have read, both Sprint and Verizon have announced aggressive small cell deployment programs. A third factor, and again related to an already established business, relates to the continued underperformance of mobile towers. The lack of demand from oil and gas and the thin margin on our suppliers' transfer costs have made this business unattractive to PCTEL. As we announced last week, we have successfully sold off our existing inventory to Northern Towers, and expect the third quarter this year to be the final quarter for mobile tower revenue. This is one facet of the cost-cutting measures that I will expand upon later during this call, but you should know that we have already reduced head count by five people.
+
+We have experienced challenges with our Nexgen acquisition, but the previously discussed shortfalls in scanning receivers, engineering services and mobile towers account for all of our revenue in non-GAAP earnings miss. With respect to our Nexgen acquisition, our costs have been higher than anticipated, but we are confident in the returns on net investment in 2016, as we secured new customers for Meridian.
+
+Let me briefly elaborate on our cost reduction actions, many of which we have already taken. We have embarked on a program to lower the 2016 cost structure of the company by $3.4 million from the current annualized second quarter 2015 levels. We should realize about $500,000 of these reductions in the fourth quarter of this year. We do not want the second quarter revenue and margin miss to obscure the progress that we made in several areas. I want to spend a few minutes on these highlights.
+
+Our antenna revenue was at its highest levels since the fourth quarter of 2012, when we had major orders for the high rejection GPS timing antennas. This past quarter, our growth reflected our increasing strength in OEM broadband applications in both Wi-Fi and LTE. We now sell directly to Huawei, Extreme, Cisco and Aruba and we expect these sales to expand. Extreme has established an extremely strong presence in stadium venues, and our antennas are designed into most of these solutions.
+
+Our GNSS product realized growth in fleet management, positive train control, and public safety through key OEMs and systems integrators. We believe that the focus on positive train control will result in additional antenna and design business. Probably, most encouraging were the relatively strong sales within China. We started shipments of our TDD small cell antennas to a major telecommunications OEM in China, and we are working on a qualification of our FDD small cell antenna products. This is a market in which we have had very little momentum in the past.
+
+Our international business development and sales successes went beyond China. We began shipping antennas into a major smart grid project in Mexico. This is a multiyear project that requires multiple antenna models and cable assemblies.
+
+Kitting, which includes our drop ship operations, performed at plan. This run rate is expected to increase as we enter 2016. This excludes mobile towers. Importantly, we started shipping DAS prep kits for a major carrier in the southeast region. With respect to new antenna products, we launched two new multiband mobile antenna platforms for broadband applications at Cisco Live. Our business development effort in the utility market for smart grid applications has started getting traction with product qualifications with key OEMs.
+
+Let me now turn to RF Solutions where we had most of our challenges. Setting aside the shortfall in China, scanning receiver sales were strong in other APAC regions and in the U.S. We have shipped more than 300 IBflex units in the first half of the year and our ability to download feature sets, updates and upgrades has captured new customers in engineering services who require lower ownership costs.
+
+Our super configuration option for IBflex has been popular with operators because it includes all bands and technologies, which futureproofs their investment.
+
+A workshop demonstrating the integration of the IBflex Scanner, SeeHawk Touch and iBwave Mobile Planner was well received in June at the DAS Congress in New Orleans. The close collaboration between PCTEL and iBwave has resulted in a unique solution which is valuable for effectively designing and testing of indoor wireless systems on a single platform.
+
+We continue to strengthen our business with Huawei in Latin America. We closed business opportunities related with the sale of several dozen of our EXflex scanning receivers that will help Huawei in projects like the one deploying a new network for a Tier 1 carrier in Mexico. We also closed scanning receiver sales in Uruguay and Peru.
+
+SeeWave is gaining traction with Tier 1 operators in the U.S., and we have built a global pipeline of more than 20 SeeWave customers, including Australia, China, Mexico, and Argentina. SeeWave will also be used to expand our portfolio of Network Engineering Services offerings to perform interference hunting as a service. This is a new practice area for PCTEL.
+
+With respect to NES, our teams completed work at many marquee venues throughout the U.S. including major educational institutions such as Duke, Harvard, Clemson and many others. We were also very active in many major sporting venues such as Churchill Downs, the Kentucky Speedway, Washington Nationals Park and many others where we launched our new
+
+PIM testing service.
+
+PIM or Passive Intermodulation can impact network performance. We completed several projects at some of the nation's largest transportation hubs such as the Metro Boston Transit Authority, DFW Airport and McCarran Airport. As announced yesterday, we completed a large global project for a Tier 1 airline that involved testing at over 200 domestic and 100 international airports. Incidentally that was one of our first international projects of any size. We also anticipate receiving more business with Sprint, once the network densification project launches.
+
+Since acquiring Nexgen, we have devoted considerable resources to both product and business development. Our highest development priorities include file format compatibility for major OEM infrastructure vendors, such as the type of compatibility that we have announced with Ascom.
+
+We're also working on broad improvements to the product family. These development efforts are going well and we expect to release the updated platform in Q1, 2016. At the same time, we are developing new business, we expect to launch revenue generating pilots in the fourth quarter of this year. We are working closely with the Tier 2 operator to support their network expansion project, applying Meridian analytic tools with a global OEM's infrastructure, this project will be devoted to network and site acceptance.
+
+So in summary, the revenue and margin shortfalls this quarter were in businesses that we understand and have successfully managed over the past several years. We have taken aggressive action to manage our costs, and we anticipate that both our product and business development efforts will result in a marginally better third quarter, a stronger fourth quarter and solid momentum going into 2016.
+
+We will continue to buyback our shares. This investment along with our 2.7% dividend provides meaningful return to our shareholders, while we navigate through our recovery and the integration of Meridian and related services.
+
+We're very confident about our future. We would remind shareholders that when we acquired the various Telworx assets, it took some integration effort and time to achieve the desired results. In the same way, our acquisition of the Nexgen assets was critical and remains critical to our ability to keep pace with wireless test and measurement. We anticipate that Meridian will become an important post-processing analytic tool for many types of data collection systems and that our strategic cooperation with Ascom, Enhancell, Acuber and others will position us in the broad network acceptance and system analytics business.
+
+We look forward to meeting with shareholders in industry events and during non-deal road shows over the next few months. We also look forward to updating you on our progress at our next earnings release conference call.
+
+With that, we've concluded our prepared remarks and have set aside 30 minutes for your questions. Operator, you can take questions. [Operator Instructions]
+
+Your first question comes from Mike Crawford.
+
+Thank you. One thing I think you're doing, Marty, is China look for ways to better utilize your engineering resources away from just carriers, is that something that to be more significant next year for you?
+
+Absolutely. This project that we did for a major airline shows how our engineering resources can be used to solve problems for very large enterprises and in new areas such as baggage handling. And in preparation for this meeting, I talked to Rishi Bharadwaj who you know is a General Manager of our Antenna business, and he also pointed out, there's been recent announcement on positive trail control where somebody realized $800,000 in antenna sales. Well, it turns out that this year we anticipate shipping more than $2 million into positive train control opportunities. And that gives us an opportunity, not just for product sales, but also for engineering services.
+
+We also believe that we can take the type of skill sets that we have in interference hunting, for example, and apply them to private networks as well as public networks, and we think that that's a market that is underserved.
+
+Finally, the transition to FirstNet, the implementation of LTE and private networks creates opportunities for our scanning receivers, for Meridian, for our combinatorial antennas and so on.
+
+Okay. Thank you. And then you mentioned that -- switching gears that you lost a tender at China Mobile. So do you think that was a pure competitive loss, or was there more of a political tinge to that, or what do you think happened there?
+
+It's absolutely political. We were rated number one technically. We were rated in the top three in price. And when the words came out, the scanning receiver tender was awarded to three local Chinese vendors.
+
+Now in that particular market, we are nonetheless making sales to the regions, but this took away the high volume, one-time sale that you can make when you win those bids. Now, we are going back after that bid. And there is going to be more trips to the plate for us.
+
+Remember that we are already well established at two of the operators, and we have a relationship with Huawei and others that provides us with access in there. But nonetheless, that and the delay in other tenders created the biggest miss and the biggest shortfall for us this year – this quarter.
+
+Just briefly, who brought you into the smart grid project in Mexico?
+
+We are working with a couple of system integrators.
+
+We can tell you, that's Rishi Bharadwaj who just joined us and so – we really can't mention the systems integrator's name, but we're working closely with two systems integrators in that opportunity.
+
+Okay. Thank you. And I guess the last question relates to capital structure. I think we have this conversation, it seems, every few months. I mean, the company even in tough times generated some nice cash flow this quarter. Historically, it's been a strong cash flow generator. Do you continue to believe that this is a business which should have negative leverage or would you be comfortable being more opportunistic with deploying capital to create value and maybe even taking out some debt?
+
+We have historically been willing to take execution risk, but not typically financial risks. That's just the nature of our company culture. However, your question is a valid one and the board is going to continue to look at opportunities to deploy its stock in a way that will increase the value of our shares and give greater return to our shareholders.
+
+Okay. Thank you very much.
+
+Sure, thanks. [Operator Instructions]
+
+Your next question comes from Matt Robison.
+
+Hi, good afternoon. Thanks for taking the question.
+
+Sure.
+
+So Marty, you mentioned the services versus products and software, are we going to be looking at a new segment model for 2016 based on that kind of commentary?
+
+No. We're still going to leave – we're still going to continue to hold the services within RFS, both types of services. But NES, which has focused on in-building and has more penetration into private wireless networks, has higher margin than the new macro engineering services that we acquired with Nexgen.
+
+Now one element that changes that dramatically is when we are selling software-as-a-service. And when the macro engineering services are sold along with Meridian storage and Meridian analytics of data that's collected, data that has to be optimized, data that has to be benchmarked then those margins will climb. And we expect to see those margins going in the direction of NES margins next year, and we're confident that our gross margins will start to climb in the direction of 40%. The other element there clearly is the recovery of scanning receivers. But I will tell you that gross margins in scanning receivers and gross margins in our antenna product portfolio continue to be quite strong.
+
+Hey John, do you think you're going to generate cash again this quarter or did you pretty much extract all you could out of working capital?
+
+I think I got most of – that I'm going to get out of working capital. I would think free cash flow in somewhere between $1.5 million and $3 million for the rest of the year is probably about right.
+
+Okay.
+
+And that's where we were able to get most of our headway this quarter and [indiscernible] (26:02).
+
+And you should mention that some of the cash flow came from the restructuring of the Nexgen deal.
+
+Yes. As we mentioned in the script, $3 million, but the other $3 million came from pulling out receivables and getting very aggressive with cash collections. And so, there still should be a little bit more of that to go.
+
+Okay. And what -- by getting out of the mobile tower businesses, what's the revenue impact of that?
+
+Well, let me give you the revenue impact versus our forecast and the revenue impact in reality. We had initially anticipated this year that mobile antennas would run at or near $1 million a quarter, and that just never materialized. We're running at less than $500,000 a quarter. So, the – I would say the realistic revenue impact for the remainder of the year is less than $500,000 because we are going to be able to sell off all of the inventory. We already had a PO for that. Most of that will occur in the third quarter. We'll have nothing in the fourth quarter, but if you look at the TowerWorx assets, we had reduced head count from 49 to approximately 19 people. And eight of those people were in the mobile tower business. So the revenue that remains and is related to next – related to the TowerWorx assets is going to be generated by about 11 people. So it's become a pretty efficient organization, and we're not going...
+
+So three months ago, did we think we're going to do $2 million with that in the back half of the year?
+
+Yes, yeah.
+
+Okay. Now, are you going to be able to – you mentioned these local vendors, one of these tenders with China mobile. Do you expect that you'd be able to sell through those guys or do we actually have products that work?
+
+We think we're going to be – we're going to be able to sell. We think our products will perform, other products won't. And we also believe that we have to develop new relationships that are more effective in the tender process.
+
+Okay. Thanks a lot.
+
+Thanks. [Operator Instructions]
+
+Your next question comes from [ph] Lewis Moser (28:38).
+
+Yeah, I'm sorry, guys. I just joined the call and I didn't hear very much, but I was wondering if those are the kind of projections made for the next quarter or for the year?
+
+We did provide guidance. You want to repeat that, John?
+
+Yeah, so we – let me just quick repeat it. And it's also, it will be – the script will be posted right after the call on our website.
+
+Okay.
+
+We forecasted – let me just pull it -- revenue between $27 million and $28 million for third quarter, gross margin had about 35% and about $9.2 million in operating cost.
+
+And we do not offer guidance on earnings as has been our practice.
+
+Okay. That's what I wanted to know. Thanks very much.
+
+Great. Thank you, [ph] Lewis (29:30).
+
+I'm showing no further questions at this time. I will now turn the call over to Marty Singer for any closing comments.
+
+Thank you and we appreciate your attendance at our earnings conference call and look forward to updating you at our next call and showing some momentum in all of our business areas. Thank you.
+
+This concludes today's conference call. You may now disconnect.

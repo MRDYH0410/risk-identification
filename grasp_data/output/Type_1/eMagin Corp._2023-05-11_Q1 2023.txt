@@ -1,0 +1,114 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+Mark A. Koch — Chief Financial Officer, eMagin Corp.
+Andrew George Sculley — Chief Executive Officer & Director, eMagin Corp.
+Glenn G. Mattson — Analyst, Ladenburg Thalmann & Co., Inc.
+
+Management Discussion Section
+
+Question And Answer Section
+
+Good morning, and welcome to eMagin Corporation's First Quarter 2023 Earnings Conference Call. Please note this event is being recorded. After management's prepared remarks, there will be a question-and-answer session. [Operator Instructions]
+
+I will now turn the call over to Mark Koch, eMagin's CFO. Please go ahead.
+
+Thank you. And good morning, everyone. Welcome to eMagin's first quarter 2023 earnings conference call.
+
+Before we begin, I would like to remind you that in the following prepared remarks and in our Q&A session, we will make statements about expected future results that may be forward-looking for the purposes of federal securities laws. These statements relate to our current expectations, estimates and projections that are not guarantees of future performance. They involve risks, uncertainties and assumptions that are difficult to predict, and they prove not to be accurate. Actual results may vary materially from those expressed or implied by these forward-looking statements, and we undertake no obligation to update these disclosures. These forward-looking statements should be considered only in conjunction with the detailed information contained in our SEC filings, including the risk factors described in our 2022 Annual Report on Form 10-K.
+
+During this call, we will also refer to adjusted EBITDA, a non-GAAP financial measure, to provide additional information to investors. A reconciliation of adjusted EBITDA to net income, which is the most directly comparable GAAP financial measure is provided in the press release that we issued this morning. Non-GAAP financial measures such as adjusted EBITDA are not meant to be considered in isolation or as a substitute for our GAAP financial measures and financial statements.
+
+With that, I'll turn the call over to our CEO, Andrew Sculley.
+
+Thank you, Mark. And hello, everyone. Thank you for joining us today. Our first quarter results were mixed due to the timing of orders under our ENVG-B, Enhanced Night Vision Goggle programs and $0.4 million of revenue that was delayed to the current quarter due to an unexpected manufacturing downtime with one of our legacy tools.
+
+Nonetheless, we are pleased with our total sales backlog, which remains strong at $16 million, reflecting continued strength in bookings for the military and medical markets. We expect to receive additional follow-on orders under the ENVG-B programs this quarter. We are excited to report that the upgraded Direct Patterning Display or dPd deposition chamber we received in December has already demonstrated the potential of this disruptive technology. This system will be used to continue our development efforts, and produce engineering samples for customers.
+
+As we recently announced, we use this R&D chamber to produce an ultra-high brightness display with maximum brightness of 15,000 candela per meter squared. This surpassed our previous OLED micro display maximum luminance record of 10,000 candela per meter squared, which we set 18 months ago. This milestone is beyond the threshold requirements for immersive AR and VR devices, and will help to overcome inefficient optics and alleviate motion artifacts. This higher level of luminance will enable our military consumer and commercial customers to implement new and advanced features that to this point have not been technically feasible. Moreover, existing applications will benefit from much better power efficiency, which results in extended battery life for mobile applications. At the same luminance, these direct pattern color displays will have much lower power consumption than a white with color filter display.
+
+Furthermore, the performance of the upgraded R&D chamber demonstrates the potential for a production capable dPd tool that we designed with similar specifications last year. This large 160 metric ton tool, which we expect will double our manufacturing capacity, arrived safely at the Port of Newark in late March, and is expected to be delivered this month to our newly expanded clean room. The vendor's team will assist with the installation and the start of qualification efforts, which we expect will be completed in mid-2024.
+
+As you may know, our proprietary dPd technology directly patterns primary RGB color OLED emitters on our silicon backplane, which creates ultra-high brightness, light output at ultra-high resolutions with brilliant colors. This is in stark contrast to competing products that utilize colored filters with white OLEDs that significantly degrades the light output.
+
+As we continue to advance our technology, future dPd milestones will include the addition of tens of OLED structures and other enhancements that will take the performance of AR/VR headsets and heads up displays to even greater heights. The dPd production tool will be able to manufacture direct patterned tandem color displays in 2024.
+
+In the second quarter, we expect to resume our proof of concept work for Tier 1 consumer company. In addition, we plan to continue work under the US Army's Program Executive Office for Simulation Training and Instrumentation Contract to provide high brightness micro displays and expect to produce several displays required by the next phase of this contract by the end of the second quarter. As previously announced, eMagin has ordered all equipment to be purchased under the $39 million in Defense Production Act Title III and IBAS program funding grants that were awarded to us in 2020.
+
+As of the end of the first quarter, the company had added and qualified four pieces of equipment to its production line, and had received three additional pieces of equipment that are currently installed and being qualified. This equipment has contributed to improve yields and reliability in our production process, and we have seven additional pieces of major equipment on order. We remain on track with the government grants and are beginning to realize the yield, reliability and throughput improvements we had anticipated. Looking ahead, we're excited to continue serving our important military and medical customers and presenting our dPd technology based products to customers building consumer devices.
+
+With that, I'll turn the call over to Mark for a discussion of our financial results.
+
+Thank you, Andrew. And hello, everyone. Total revenues for the first quarter of 2023 decreased 11% to $6.6 million, compared with $7.4 million reported in the prior-year period. As Andrew mentioned, revenue was affected by the timing of orders under the EMVG-B programs, and $0.4 million of revenue that was delayed to the second quarter due to unexpected manufacturing downtime on one of our legacy tools. Our total sales backlog remains strong at $16 million comparable to the end of Q4 2022 and reflecting continued strength in bookings for the military and medical markets.
+
+Total revenue consists of both product revenue and contract revenue. Product revenues for the first quarter of 2023 were $6.4 million, a decrease of $0.7 million from product revenues of $7 million reported in the prior-year period, reflecting the late deliveries due to production downtime and timing of military orders.
+
+Contract revenues were $0.2 million compared with $0.3 million reported in the prior year, reflecting a timing of phases and milestones of these contracts. We are continuing to work on the high brightness display design, and our proof of concept for this consumer customer, and expect ongoing contract revenue under these programs. Contract revenues are based on accomplishing specific milestones and are not uniformly distributed through the project's duration.
+
+Total gross margin for the first quarter decreased to 22%, resulting in a gross profit of $1.5 million, compared with a gross margin of 34%, which resulted in a gross profit of $2.5 million in the prior-year period. The gross margin decline was primarily due to production downtime, which resulted in a lower volume of displays produced and higher average product costs.
+
+Operating expenses for the first quarter of 2023, including R&D expenses, were $4 million compared with $3.7 million in the prior-year period. Operating expenses as a percentage of sales were 61% in the first quarter of 2023 compared with 50% in the prior-year period.
+
+Operating loss for the first quarter of 2023 was $2.5 million, compared with an operating loss of $1.2 million in the prior year period. Net loss for the first quarter of 2023 was $2.6 million or $0.03 per share compared with income of $0.1 million or $0.00 per share in the prior-year period. Adjusted EBITDA for the first quarter of 2023 is a negative $1.4 million compared with negative $0.2 million in the prior-year period.
+
+As of March 31, 2023, the company had cash and cash equivalents of $3.8 million and working capital of $16.1 million. During the first quarter, the company repaid $1 million under its asset-based lending facility. As of March 31, 2023, there was $2.4 million availability under the facility and no borrowings outstanding. During the quarter, the company realized $1.2 million in net proceeds from sales of common shares under its at-the-market program.
+
+Lastly, as Andrew mentioned we're seeing continued benefits from the Title III and IBAS funding grants and we remain on track and within the requirements of these programs. We look forward to updating you on our progress in the coming months.
+
+With that, we will open the call for questions. Operator, please go ahead.
+
+Thank you. [Operator Instructions] Our first question comes from the line of Kevin Dede of HCW. Please go ahead.
+
+Thank you, Andrew and Mark, for taking my question. This is [ph] Michael Donovan (00:12:02) calling on behalf of Kevin Dede. Can you add more color to the STRI program, and the current outlook for a full production follow-on?
+
+Well, let me say it this way. The program's going well. We do produce a number of displays shortly in this quarter. The idea is then to do new displays, and it is technology that will be able to be done in production with the new tool. So, that would be – the new production tool. So that would be in 2024 for production of large numbers.
+
+Yeah. And, [ph] Michael (00:12:46), the contract alludes to the possibility of a no-bid contract award at the end. But we can't say for sure that where that stands. But it is a very influential organization within the military and a very good program for us.
+
+And then, we have – we do talk to STRI on other potential programs, so it's very good for us.
+
+Excellent. Well, thank you for that detail, and congrats on the quarter.
+
+Thank you.
+
+Thank you.
+
+Please stand by for our next question. Our next question comes from the line of Glenn Mattson of Ladenburg Thalmann. Please go ahead.
+
+Hi, guys. Thanks for taking the questions. First, can you just describe the timing of orders on the ENVG-B for this quarter? Was it typical lumpiness that we should expect from quarter to quarter? Or is there something else that you're hearing from the customer that maybe why there was less revenue this quarter than you might have expected?
+
+Yeah, Glenn. I would say it is typical lumpiness. I mean, we have experienced that in the past under this program. We have received an order for one of the primes and we're in the process of negotiating a large order with another one. So, we do expect to receive that in the second quarter as well. But I would say it's fairly typical for the way the program has behaved over the last few years.
+
+Great. That's encouraging. Thanks. And then, congratulations on the deposition equipment arriving in Newark. And just curious if you can help us frame – you talk about that being installed and tested and up and running in full production I think in mid-2024, correct me if I'm wrong. And so, I just want to understand some of the thought process that goes into that estimated like, is it a conservative estimate? Can you describe maybe how much work needs to be done to get it installed, tested and up and running and everything? So, we in general can get a sense of the timing of that general.
+
+Yeah, I understand. Thank you. The tool is actually next door. It came from Newark already. And the only reason it's next door and not going in the clean room is, we need to finish the clean room before we put the tool in there. So, the tools are – clean room should be finished at the end of this month, and then we'll start installing the tool. At the end of the year, it'll be able to be started and running, and then we'll start qualifying it. And here, we're a little conservative, because we'll be able to produce products at the start of 2024. But we really need to run it enough and produce enough product to say, yes, it's working the way we expect it.
+
+Okay. Thanks for that, Andrew. And then I think the last one for me would be the – you said – you talked about having seen proof of concept work for your Tier 1 consumer customer ramping back up. I'm curious, is that a function of some of the equipment that you've installed already and increased kind of functionality that you have now or better yields or whatever? Or is that the function of the customer getting to a point where they're looking to move ahead faster or anything like that? That would be great.
+
+Well, on our side, it's the R&D equipment redesign was installed, as you know, in December and that we now have it up and running, as we know, 15,000 nets. It's amazing. It works very well. So, the design also – that design is in the new tool coming, so that tool be able to do that as well. And then, once we have done a number of displays that now we feel comfortable to use the wafers for the consumer customer displays and that's on our side. On their side, I think they might have been anxious before.
+
+Right. Okay. So, you're getting to a spot where you can now meet their needs in a better way, perhaps...?
+
+Yes. Because without the R&D equipment installed and up and running and doing well, we couldn't make direct pattern displays.
+
+Yeah. Okay. And then, just to round it out, can you just give us a sense of – what your thoughts are in terms of where we're at in the VR space. I mean, there's a lot of bad press lately, and I know that's kind of how technology advancements kind of come out like when they first start getting introduced, there's a lot of hype around them. And then over time, doesn't quite meet expectations in the early phases and people start getting down on the prospects, and then all of a sudden, it surprises to the upside. And it sounds like we're somewhere in the middle of that kind of adoption curve, when it comes to VR type stuff. Is that what you would say? And what's your sense that you're hearing from the – some of the Tier 1 customers that you talked to in terms of their enthusiasm about the opportunity over the next, I don't know, one to three years or so.
+
+Well, we do talk to many companies, as you can imagine, about the next generation design. And we do have a few that we're talking to seriously about another design, but we have to finish this one first. So, I think the space is heating up again.
+
+Okay. Thanks. I'll jump back in the queue. Thanks again.
+
+There is one other good piece of news. When we first started this design for displays, everybody wanted 10 microns plus or minus a little bit. And when you have a 4,000 resolution display and a 10 micron pixel pitch, you end up with a big display. And a big display means it's going to cost more, because you're using more of the wafer, for example.
+
+So, now, there are companies who are finally going below 8 microns and asking for that as the next design. A number of companies are looking at that. So, this is much better. It'll be a high resolution display and the size will be such that the cost is easier to get down to where they need it. So, we're very happy about that. And our direct patenting has no problem at all in handling that. We gave a – we were talking with a company, and they gave us a small number. It was well below 8 microns, and we told them what we could do, and we – they were satisfied that this would be a good project. So, we're happy to see that. That's the next step in making displays that are a very reasonable cost.
+
+Okay. Great. Thanks, guys.
+
+Thank you.
+
+Thank you, Glenn. [Operator Instructions]
+
+Ladies and gentlemen, this concludes the question-and-answer portion of today's call. I will now turn the call back over to eMagin's CFO, Mark Koch for closing remarks.
+
+Thank you. Thank you again for joining us today. Please visit our booth at SID Display Week 2023 Conference, the week of May 22. And follow our LinkedIn and Twitter pages for news of our attendance at future investment conferences and tradeshows. This concludes the conference call. Have a nice day.
+
+Thank you. This concludes today's call. You may now disconnect.

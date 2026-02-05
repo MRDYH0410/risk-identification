@@ -1,0 +1,185 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+Babak Pedram — Press Relations, MediaValet, Inc.
+Robert George Chase — Executive Chair, MediaValet, Inc.
+David Scott MacLaren — Founder, Chief Executive Officer & Director, MediaValet, Inc.
+Dave Miller — Chief Financial Officer, MediaValet, Inc.
+Christian Sgro — Analyst, Eight Capital
+Gavin Fairweather — Analyst, Cormark Securities, Inc.
+
+Management Discussion Section
+
+Question And Answer Section
+
+Good afternoon and thank you for joining us. Before we begin, I will read our cautionary note regarding forward-looking information. Certain information to be discussed during this call contains forward-looking statements within the meaning of applicable security laws, including, among others, statements concerning the company's 2022 objectives, the company's strategy to achieve those objectives, as well as statements with respect to management's beliefs, plans, estimates and intentions, and similar statements concerning anticipated future events, results, circumstances, performance or expectations that are not historical facts. Such forward-looking statements reflect management's current beliefs and are based on information currently available to management, and are subject to a number of significant risks and uncertainties that could cause actual results to differ materially from those anticipated.
+
+Also, our commentary today will include adjusted financial measures, which are non-GAAP measures. These should be considered as a supplement to and not as a substitute for GAAP financial measures. Reconciliations between the two can be found in our Management's Discussion and Analysis, which is available on sedar.com and our website.
+
+We are joined today by MediaValet's Executive Chair, Mr. Rob Chase; CEO, Mr. David MacLaren; as well as the company's CFO, Mr. Dave Miller.
+
+With that, I will hand over the call to Rob to provide his opening remarks.
+
+Thanks, Babak. Much appreciated. Hello, everyone, and thank you for joining us today in our earnings call. I hope everyone has already seen our press release and financial reporting materials for this quarter, but if not, they are available on SEDAR.
+
+Before I hand over the call to Dave and David, I would like to highlight a few key points that we hope you'll come away with from today's call. Point one, solid top line growth performance and resilience of the DAM market. We continue to deliver solid ARR growth, posting a record performance, with net new ARR growing 146% year-to-date and 89% in Q2 over the same periods last year. This brings our ARR to CAD 12.76 million, up 35% from Q2 last year, and attaining now a 44% five-year CAGR.
+
+We consider ARR to be our leading indicator of progress, as it determines our cash flow and forward revenues. Besides being exciting in its own right, we believe this performance illustrates a few key points: A, that our products and go-to-market strategies are effective. We are prudently deploying our growth capital to become a leader in the DAM market. And as we continue to outpace the growth of the DAM market, we believe it is clear that we are investing in the right initiatives and are well on our way to attaining our leadership mission. And B, the DAM market is resilient.
+
+Considering today's recessionary climate, this growth indicates the resiliency and adaptability of the DAM market as it – as digitization continues to be a critical initiative for organizations of all sizes. Not only is DAM critical to an effective digital strategy, it is also in – necessary in difficult times, particularly, as it helps to reduce costs, it requires less people to manage media workflows and it ensures operational continuity.
+
+And point two, the increasing confidence in our growth and capital plan. We exited Q2 ahead of our fiscal 2022 internal plan and are entering our third quarter with a strong pipeline and with existing customer net dollar retention at 100%. We are now seeing the impact of our step level expansion from 2021, and we're only just beginning to tap into that potential. This is important as we have calibrated our spend levels with our expected growth and access to growth capital, with CAD 3.36 million of working capital on hand and access to CAD 7 million of our revolving credit facility. And as we're heading into our seasonally strong billings quarters, we are in a solid financial position. At the same time, we continually reassess our position and have many directional spend levers ready to adjust, should market conditions dictate the need to do so.
+
+With that in mind, I'd like to pass the call over to David for a more detailed business update on the items identified. David, over to you.
+
+Thanks, Rob. Good afternoon, everybody. I'd like to start today by expressing how extremely proud I am of our team. After delivering a record shattering first quarter and quarter overall, our teams set two more records this past quarter, our best Q2 ever and the best H1 in our history. In the first six months of 2022, our net annual recurring revenue increased 146% over the first half of 2021.
+
+So, what's driving this growth in today's climate? To answer this question, I thought I'd take a little time today to provide, one, some insight on what we're seeing in the DAM market today; and two, elaborate on what our expanded team is up to. I'm pleased to report that we continue to see the DAM market show tremendous resilience and continued growth in the face of uncertainty. Based on our experience over the past 2.5 years, we expect the demand for DAM to continue, as we believe it is driven by a long-term trend towards organizational-wide digitization. For organizations to not only be competitive in the future but to also simply operate securely, continuously and cost effectively, their operations must be fully digital and all their workflows optimized.
+
+To achieve this, organizations will have to implement a digital asset management platform that manages media assets across their entire operations, both internal and external. Today, most organizations are still thinking of DAM as a solution solely for marketing and creative teams. But the organizations on the cutting edge, the early adopters, those that are always looking for new ways to enable their organizations to move faster, go further and achieve more, are already implementing organization-wide digital asset management platforms today.
+
+Earlier this year, we noted that analysts have been increasing their forecasts for the long-term growth of the DAM market. Certainly, what we're experiencing firsthand today is corroborating their view of the future. As further proof, even in the face of uncertainty today, we entered H2 with our strongest weighted pipeline ever. On that front, I really like what we're seeing in our sales pipeline today and how our deal flow is evolving over time.
+
+In the first half of 2022, we've continued to add a record number of new accounts – SMB, mid and enterprise – across a wide variety of industries, geographies and use cases. To this last point, our focus remains on addressing an enterprise DAM use case no matter the size, industry or location of organizations, as this is truly where we stand out.
+
+Now, over the last quarter, we've announced several of our new customers, but I wanted to highlight four of them, as well as a new emerging trend that we've seen. The first is our third NBA franchise. This team has a rich sporting history that includes some of the biggest names in professional basketball. Over time, building its brand and franchise with fans and audiences has become increasingly dependent on complex digital workflows that distribute its time-sensitive content from the stadium to TV screens and smartphones around the world.
+
+This reality led the franchise to conduct an extensive search for an enterprise DAM platform that could support their complex and increasingly global use case. The franchise started with CAD 103,000 annual license that includes our new Audio/Visual Intelligence module or AVI, CDN Linking that we also launched in the last 12 months, as well as Active Directory and our CreativeSPACES module.
+
+Second is a popular television series that has a significant amount of video content that needs to be distributed to a vast number of networks and partners. As a result, with the large file formats, extensive video processing, complex search requirements, high volume of daily transactions and global access points, the production team required a global enterprise DAM solution. After a formal review process that covered all the top DAM solutions, the customers selected MediaValet as their DAM of choice. The production company signed CAD 113,000 annual license that includes our AVI module, as well as our Hootsuite and monday.com integrations.
+
+Third is a global skincare company that has been a consistent high performer on the Inc. 5000 Fastest-Growing Companies list every year for nearly the last decade. Their award-winning science-based consumer products are backed by over three decades of research and nearly 100 global patents. As with most organizations today, they are increasingly relying on the fresh and consistently branded digital content that our teams are creating every single day to reach their customers and to continue attaining their growth objectives. At the same time, given the scientific nature of their products, they need to assure that their high value assets, that include product designs and information, patents, scientific papers, clinical studies and educational videos, is secure, accessible and properly used at all times.
+
+With the increasing requirement to be a digital-first organization and the proliferation of content to support their multitude of global initiatives, the customer needed to replace their legacy DAM system with a modern solution capable of meeting their rapidly expanding and increasingly mission-critical digital asset management needs. After a global search, the large selection committee chose MediaValet as their DAM for the future. The company signed CAD 133,000 annual license that includes our AVI module, as well as integrations into Salesforce, monday.com and Active Directory.
+
+And fourth is an award-winning brand agency that selected us to manage the digital assets of one of their major US tourism customers. As the agency of record for the large state tourism bureau, they were tasked with finding and managing a digital asset management solution that would support the complex and continuously growing digital content needs being driven by the bureau's aggressive digital strategy. The agency selected and signed CAD 139,000 annual license with MediaValet based on our industry-leading Audio/Visual Intelligence offering an unmatched scalability and continuity and the end-to-end customer experience that we're known for.
+
+As you may have noticed, across many of our large accounts today that we're signing, there's a trend emerging. We've always been extremely good at managing video content, but with the launch of AVI and CDN Linking over the past 12 months, it's hard to beat us today in the cloud-first video content management market. We expect this trend to continue as we lead further into video content management in the coming months.
+
+At the center of our success to date is our vision for DAM. Before I had things over to Dave, I want to take a few minutes to highlight three teams that are dramatically impacting our velocity and path towards this vision. The first is our customer success team. As many of you know, we officially launched this team in mid-2020 to help our customers through COVID. This team has now gone well beyond that initial objective. Since the team was created, our Net Promoter Scores and customer adoption rates have continued to increase quarter-over-quarter.
+
+And today, thanks to all of their hard work, we're upselling and expanding accounts more and faster than ever. Earlier this year, we added a team of digital asset management specialists to help our customers integrate MediaValet deeper and further across their organizations. Thanks to our CS team, our local churn rate remains roughly half of the industry average and our net dollar retention is over 100% year-to-date.
+
+Second is our go-to-market team. I'm extremely pleased with what I'm seeing on this front. With our expanded team, we now have the resources needed to broaden our market reach and reduce our time to money ratio of new initiatives. As an example, we recently launched integration with a new third-party application, and it was the most coordinated and honed feature launch I've ever seen our team plan and execute. This effort resulted in the shortest time to money period of any integration in our history.
+
+Third would be our product team. This includes product management, product design and engineering. As you've seen over the past 18 months, we've significantly increased our product spend. We've done this because of the opportunity we see in the DAM market and opportunities we see to further differentiate MediaValet, like our new AVI model. I'm extremely proud of our product team, as doubling in size is never an easy feat for any team.
+
+Six months following this expansion, we're seeing both our future velocity and our ability to innovate significantly accelerate. With all of this in mind, halfway through Q3, I have to say I'm very excited to see where the second half of 2022 takes us.
+
+Dave, over to you.
+
+Thanks, David., and good afternoon, everyone, and thank you for joining us today. As highlighted by both Rob and David, the company generated a record Q2 of net new annual recurring revenue of CAD 0.77 million, up 89% from CAD 0.41 million in Q2 2021, and a record first half of fiscal 2022 of CAD 1.91 million, up 146% from the CAD 0.78 million generated during the same period last year. This brings our ARR at the end of Q2 to CAD 12.8 million, up 35% from CAD 9.4 million at the end of Q2 2021. In USD, our ARR was up 38% to $10.1 million from $7.3 million in Q2 2021. In our view, the strong net new ARR performance in the first half of fiscal 2022 highlights our ability to continually add new clients based on the growing demand that David highlighted for our DAM solutions, even despite a challenging economic and business environment.
+
+We generated net billings for the quarter of CAD 2.78 million, up 51% from CAD 1.82 million in Q2 2021, and we generated CAD 5.96 million year-to-date, up 53% compared to the CAD 3.89 million for the same period last year. The strong performance in net billings year-to-date is a result of our record net new ARR achieved, as well as a third straight quarter of 100% net retention, and reflects the beginning of our plan towards positive operating cash flows.
+
+Turning to our operating results, I'm encouraged by the growth momentum in the first half of 2022, as a result of the increased investment levels we made in 2021. In Q2 2022, revenue grew 39% to CAD 3.1 million compared to CAD 2.2 million recognized in the same period last year and up 11% sequentially from Q1 2022. The growth is due to the increases in ARR and deferred revenue from ramping customer acquisition and net retention performance. Our gross margin in Q2 2022 and year-to-date was 82%, up slightly from the 81% achieved in Q2 2021 and for the six months then ended.
+
+Operating costs, which are a non-IFRS measure, equal to reporting operating expenses minus stock-based compensation and depreciation, and thus aligning with the expenses included in EBITDA, increased 25% compared to Q2 2021 and increased 2% sequentially compared to Q1 2022. As indicated in our Q1 earnings call, we are now seeing operating costs level off after completing our operational expansion in 2021.
+
+Headcount was at 95 at the end of Q2 2022 compared to 98 at Q1 2022 and up from 81 at Q2 2021. While these employees are still ramping up, we expect the second half of 2022 to be focused on unlocking the productivity gains to continue the solid growth trend and increasing our global market reach to attain our baseline growth targets for cash positive operations.
+
+EBITDA loss for the quarter totaled CAD 2.5 million, up 12% from CAD 2.2 million for the same period in 2021 and down 5% sequentially from the CAD 2.6 million in Q1 2022. We have calibrated our expansion plans to ensure we can deliver our objective within our available capital resources, and the record first half of 2022 has put us ahead of our internal plan. However, as many of our expenditures are discretional, we have the ability to quickly adjust spend levels, should the macroeconomic environment dictate the need to do so.
+
+We have proven to be dynamic in our approach, capitalizing on growth opportunities within our available resources, and this same dynamic approach will be used in assessing cost reductions as it is in expansions. With the market opportunity for DAM and the accelerating growth we've shown over the last year, we're excited what we can accomplish as our expanded team begins to reach their full capacity.
+
+We ended the quarter with CAD 2.1 million in cash and cash equivalents on hand and modified working capital of CAD 3.4 million. Our deferred revenue, which is comprised of the unamortized portion of revenue from invoice to subscription fees and is deferred and amortized to revenue over the license term, which is generally 12 months, ended the quarter at CAD 7.3 million, flat from December 31, 2021 but up 41% from the CAD 5.2 million balance at the end of Q2 2021.
+
+During the first six months of 2022, the company received an additional capital from the exercise of CAD 1 million in warrants, which enabled us to repay our CAD 1 million short-term debt in early April. And with the remaining warrant proceeds expected of CAD 1.2 million, combined with our undrawn CAD 7 million operating line, we are confident we have sufficient capital resources to fund our operations and calibrate our spending levels as necessary through to cash positive levels.
+
+With that, I'd like to thank you for listening in and pass it back to Babak to open up for questions.
+
+Thank you, gentlemen. [Operator Instructions] The first question is from Christian Sgro of Eight Capital. Please go ahead, Christian.
+
+Hey, Thanks, Babak. Can you hear me okay?
+
+Yes. Yes.
+
+Yes. Perfect.
+
+Perfect. Good afternoon, everyone, and congrats on the strong growth in the quarter. For the first question, I'll direct it to David. Just on the commentary earlier about entering the second half of the year with the strongest weighted pipeline, so that's encouraging commentary. I was just wondering if you could unpack that a little bit and maybe talk about where you're seeing strength.
+
+Sure. Thank you. Thank you. Great question. So weighted, first meaning that it's bottom of our pipeline. We actually entered into this year with a great pipeline but it was at the top of that pipeline. Weighted mean that it's further down of the sales process. So, we're entering Q3 with a lot of really good deals across a wide variety of industries and a wide variety of company sizes. So, we like the diversity.
+
+We also like where it's going because we're getting a lot of interest in AVI. So, a lot of video interest. A lot of the companies that are talking to us today have heavy video archives or percentages of their libraries are heavy in video, and as you see, this usually means larger deal sizes for us. So, it brings our average deal value up to those opportunities. So, that's looking really good.
+
+We also like that in Q2, our sales cycle came down to 62 days. So looking into Q3, being most of those opportunities be in the bottom of our pipeline, we're expecting a similar sales cycle. We're expecting or looking to see if it's the same. Q2 was good, and we're hoping that this is another trend that we're seeing in the market.
+
+I might just even expand just a little bit on that, too. I just want to – I think it's important, and well said, David, that I think it's important to also highlight that in Q2, the team had to do a yeoman's job to go and rebuild the pipe because Q1 was a monster and the deal cycle there was faster than expected as well. And so – and deals we thought were originally in Q2 became Q1.
+
+So, Q2 had a pretty weak pipe to start and the team did an amazing job maturing that pipe and getting a record Q2 out of it. But I think that's also part of why we entered Q3 with the most mature pipe we've ever had at this point in a quarter because the team did so much good work maturing the pipe in Q2. So, I just want to make sure that that isn't missed because it's amazing to think about the deals that are in there, but the team did an amazing job. So, I'd love to call out that out.
+
+Thanks for the color, Rob. And...
+
+Christian, one other thing I would add, because I think it's just interesting that we're seeing in the sales cycle right now, when in the beginning of 2020, like halfway through 2020, we saw the number of people within a buying committee expand significantly. And just the level of scrutiny that went to any new software acquisition increased dramatically.
+
+Now, with still uncertainty, again, another wave of uncertainty coming for what the future holds, we're not seeing that level of scrutiny. If anything, we're getting back to business as normal with the size of the decision-making committees that are looking at acquisitions, like a DAM for an organization. So, this is a nice trend for us to see. It's getting back to normal pre-2020 time.
+
+Yeah. That was my first observation probably. It looks like the sales cycle in days is going back to pre-COVID levels. And listening to some of our SaaS peers, they're experiencing the opposite in the face of, let's call it, recessionary pressures. So, I was just wondering – and you spoke to how mission-critical parts of sort of the DAM markets solution are becoming, but I guess to put any caution, if there's any, like are you seeing sales cycle – because you see them contract from here even as companies grapple with their IT budgets, or do you think that sales cycles could stay at these normalized levels and stay healthy for the balance of the year?
+
+What we're hearing from customers is that what's important to them right now is continuity of their operations. So as they contemplate uncertainty that could be coming at the macroeconomic environment, they're looking for solutions that are going to help them maintain their operations, increase productivity in case there is any contraction within their workforce, and DAM is really good at that. This is one of the things that we pride ourselves in at MediaValet, is continuity of business and creative operations. So we're not expecting a change, but at the same time, we're ready for a change.
+
+So to Dave's point, we're operating in a growth mode, and that growth from a sales standpoint mode is we're expecting the demand to continue as it is so far in H1, but we're also being cautious. So, you mentioned you made a comment with regards to we are seeing some contraction within the SaaS – some SaaS vendors now.
+
+When we started this year, we entered the year with the senior management team looking at potential growth for this year and what could it look like. And we were very conservative entering the year in our budget for 2022. So, we feel we've already done our contraction. And although it was – we never expanded for 2022, we decided not to do that expansion because 2022 and 2023 are really now our performing stages of that expansion that we did in 2021.
+
+Perfect. Can I ask one more question today before passing the line? And you sort of touched on integrations earlier. But my question is just an update on the partner channel, any ongoing work there with integrations or maybe co-marketing or anything else you want to pull out of the partner channel.
+
+I didn't mention partner channel this time because I always mention them. I wanted to give a little bit of a do to some other teams in MediaValet that are really helping drive our velocity. But the partner team continues to drive every single quarter more and more impact to our business. So Dave or Rob, I know we have a metric on the partnership increase the sales that they did in Q2. I don't have it top of mind.
+
+Yes. It's 61% increase in partnership – in partner contribution year-on-year.
+
+Q2 over Q2 last year. So a tremendous increase, right? And I apologize to the partner team that I didn't call you up this time. But partners continue to be just a big driving force of our velocity. And even this morning, I was on another partner call with a new global partner that we expect to have big impact on our business in future years.
+
+Perfect. And it may as well been a planted question. It'll come out at some point through the narrative here. Thanks for taking my questions. I'll pass the line.
+
+Thanks, Christian.
+
+Thanks, Christian. The next question comes from Gavin Fairweather of Cormark Securities. Please go ahead, Gavin.
+
+Hey. Good afternoon. Thanks for taking my questions. Dave, you've called out video a few times. Obviously, video has been a big part of a lot of your use cases for some time. But do you have any kind of metrics or feel for kind of how meaningful of an opportunity that is, and maybe could you just discuss kind of win rates in those type of scenarios versus use cases which don't have as much video on them?
+
+And you said, Dave, but I'm assuming you mean David.
+
+Yeah.
+
+Okay. So just for clarity, you'll notice even us, sometimes, we're like, who are you talking to? So, video is a really interesting opportunity for us. Now, in the Gartner world, there's enterprise video content management, and then just kind of outside the Gartner world, there's video content management. And altogether, it's just the management of video content either on-prem or in the cloud. We obviously specialize on managing assets in the cloud.
+
+So, it's more cloud-based video management for us. We see this increasing significantly for us. All of our – I would say, 8 out of 10 of our big six-figure deals in the last 8, 10, 12 months have been heavy in video. So, video drives our ADV up. And what we're finding, though, is that we're really good at DAM. If you have an enterprise DAM use case, thousands, tens of thousands of users, millions of assets, hundreds of terabytes or petabytes, [ph] we're a DAM (30:18).
+
+But what's really fun today to demo are our video capabilities. Because when you sit a customer down using Zoom and you show them what we can do – Zoom or Teams, to give Microsoft a little credit. If you're – to show them our video capability, they literally lean forward in what we showed, because it's one of those moments where the majority of people don't know what's possible today with MediaValet and video, and it's eye-opening. So it's really, really fun to demo our video capabilities. And AVI is our newest module for that, so Audio/Video Intelligence module.
+
+But that, combined with our video platform, how we actually distribute content, so that viewer that we're using is the same viewer that Microsoft used for the latest Olympics. It's the same viewer they used across all of their online platforms, HD, 4K, it's beautiful presentation of content. We dynamically package, we dynamically stream. We provide videos, transcriptions of videos in over 100 languages today, and we do it on the fly. It's really, really impressive. So today, when we're demoing anybody that has video, we're making the leap forward, and that's a great position to be when you're selling a product.
+
+That's helpful color. And then maybe just switching gears to the competitive environment, have you seen any kind of shifts in kind of competitive behavior or any trends in kind of your win rates that you're tracking?
+
+Well, there's definitely lots of [ph] foot (32:12) in the DAM industry. As you know, there's been consolidation in the industry. There's been expansion in different markets. We find that the DAM industry is growing at a really good clip, and that clip is allowing us to grow ourselves. But because of where we're innovating, like AVI, we're growing faster than the industry.
+
+Within that industry and the movements that are happening, I find that each DAM is finding the areas where they excel. For us, it's enterprise DAM use case in the cloud. So any assets, enterprise use case. And then from there, we sub-specialize in video. But out of any other named competitors, it's easy to see the area of the market that they're carving out. It's their specific area and their strategy for growing their businesses. So, it's a big enough market that we can all grow with a significant [indiscernible] (33:15) as you're seeing ours over the last five years.
+
+That's great. Then maybe just one for Dave, good to hear that you haven't seen any material changes in kind of demand levels or sales cycles. But just given the macro kind of uncertainty, you touched on being able to kind of recalibrate spend levels. Maybe you can just talk about how you're thinking about that and areas where potentially, you could have some savings if things do change here in this dynamic environment.
+
+Sure. Yeah. Sounds good. No, Gavin, as David and both – both David and Rob mentioned, we continue to be focused on this opportunity in front of us and we are taking a quarter-by-quarter view of it, just given the macro environment that we're dealing with here. But as we went into building out the teams, there was a good portion of our spend that we just – we couldn't ramp up our investment in R&D fast enough. And so, we had been utilizing some external QA teams, contract teams that – so, we do have the ability to scale those back fairly quickly as needed.
+
+As I've mentioned in the past, a good chunk of our investment to date is in head count. And you've noticed that we're continuing to manage that quite closely. It's down a little bit, mainly just due to making sure we have the right candidates, right team in seats. And so, it's just monitoring that plan very closely. And so, that's predominantly what we're doing. But as David mentioned, we're looking out at the quarter and the pipeline that's building and no indications at this stage that we need to scale that back.
+
+That's it for me. Thanks so much.
+
+Thanks, Gavin.
+
+Thanks, Gavin. There are no further questions. I would now hand over the call back to Rob for his closing remarks.
+
+Hey. Thank you, everybody. Appreciate you all listening in today. Am I on mute? Sorry.
+
+No, you're not. You're...
+
+[indiscernible] (35:48)
+
+Okay. No, remember that. We hope that it was informative and that it helped you better understand the opportunity for MediaValet. In summary, Q2 continue to build off the strong momentum from the first quarter of the year with record new ARR and overall ARR growth. And Q2 2022 has been a strong year to date, and our investment in our people will continue to pay dividends through the rest of the year.
+
+As mentioned previously, we have entered into the second half with a solid pipeline and operational momentum. Even though we are in a solid cash position and have access to additional capital through CAD 1.2 million of expiring warrants in September and a CAD 7 million credit facility, we do remain cautious on our spending and doing so without jeopardizing the execution of our growth strategy. And at present, we believe we've struck a good balance there, and I think hopefully, that was clear through the presentation today.
+
+And with that, I would like to thank you all again and hope to see you again soon, speak to you before the next call, if possible. Otherwise, we'll see you in November for our Q3 reporting. Thanks, everybody. Have a good day.
+
+Thanks, everybody.
+
+Thanks, everyone.

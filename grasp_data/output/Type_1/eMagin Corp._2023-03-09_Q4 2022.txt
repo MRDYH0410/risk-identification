@@ -1,0 +1,181 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+Mark A. Koch — Chief Financial Officer, eMagin Corp.
+Andrew George Sculley — Chief Executive Officer & Director, eMagin Corp.
+Glenn G. Mattson — Analyst, Ladenburg Thalmann & Co., Inc.
+Kevin Dede — Analyst, H.C. Wainwright & Co. LLC
+
+Management Discussion Section
+
+Question And Answer Section
+
+Good morning and welcome to eMagin Corporation's Fourth Quarter and Full Year 2022 Earnings Conference Call. Please note, this event is being recorded. After management's prepared remarks, there will be a question-and-answer session. [Operator Instructions]
+
+I will now turn the conference over to Mark Koch, eMagin's CFO. Please go ahead.
+
+Thank you and good morning, everyone. Welcome to eMagin's fourth quarter and year-end 2022 Earnings Conference Call. Before we begin, I would like to remind you that, in the following prepared remarks and in our Q&A session, we will make statements about expected future results that may be forward-looking for the purposes of federal securities laws. These statements relate to our current expectations, estimates, and projections and are not guarantees of future performance.
+
+They involve risks, uncertainties, and assumptions that are difficult to predict and may prove not to be accurate, especially in light of the effects of the ongoing pandemic. Actual results may vary materially from those expressed or implied by these forward-looking statements, and we undertake no obligation to update these disclosures. These forward-looking statements should be considered only in conjunction with the detailed information contained in our SEC filings, including the Risk Factors described in our 2021 Annual Report on Form 10-K and our 2022 10-K filed later this afternoon.
+
+During this call, we will also refer to adjusted EBITDA, a non-GAAP financial measure to provide additional information to investors. A reconciliation of adjusted EBITDA to net income, which is the most directly comparable GAAP financial measure, is provided in the press release that we issued this morning. Non-GAAP financial measures such as adjusted EBITDA are not meant to be considered in isolation or as a substitute for our GAAP financial measures and financial statements.
+
+With that, I will turn the call over to our CEO, Andrew Sculley.
+
+Thank you, Mark, and hello, everyone. Thank you for joining us today. We ended 2022 with another strong quarter. We achieved near-record revenues of $8.4 million in the fourth quarter and $30.5 million in revenue for the full year. This represents significant year-over-year growth for both the quarter and the full year. Moreover, Q4 was the fifth consecutive quarter in which eMagin achieved year-over-year growth in product revenue and exceeded $7 million in quarterly product revenue.
+
+Thanks to our improved performance, we generated $2 million of positive EBITDA for the fourth quarter and $2.2 million in positive EBITDA for the full year. We finished the year with robust shipments of displays used in the Enhanced Night Vision Goggle-Binocular, or ENVG-B, program; along with displays for thermal weapons sights and medical applications. Bookings for the fourth quarter were strong, including a $1.7 million order for the F-35 Helmet Mounted Display System and more than $2 million in medical applications. Our backlog of open orders as of December 31, 2022, and shippable within 12 months was $14.8 million.
+
+2022 included a number of contract wins and operational highlights. In June, the US Army's Program Executive Office for Simulation Training and Instrumentation, or PEO STRI, awarded us a $2.5 million two-year development contract to secure a US source for high performance microdisplays that provide high brightness and visual acuity, even in bright daylight conditions. Upon completion, this contract has the option of a follow-on production agreement. The developments in this project will allow us to produce a 20,000-candela-per-meter-squared display in the second half of 2024.
+
+In October, we achieved AS9100 REV D and ISO 9001:2015 quality certifications. These were important milestones for eMagin because these certifications are required by most customers in the aerospace, aviation, and defense industries. Throughout 2022, we improved our positioning as a supplier of choice to address the rapidly expanding AR/VR market with our patented direct-patterning technology, dPd. In April, we announced several patents related to this technology. In May, our dazzling full-color 10,000-candela-per-meter-squared WUXGA display with dPd technology won the People's Choice Award for the Best New Display Technology at Display Week, the annual symposium and tradeshow of the Society for Information Display.
+
+Additionally, we designed an improvement to the R&D chamber for our existing OLED deposition tool that will enable us to further enhance this technology. This improved R&D chamber was delivered in December and is currently being set up for dPd runs.
+
+The production-capable dPd organic deposition tool that we purchased last year under Title III funding has passed acceptance testing at the vendor's facility and will be delivered to our newly expanded cleanroom this April to begin the installation and qualification process. It is worth noting that this tool will be able to produce dPd displays, including the 20,000-candela-per-meter-squared display in production when qualified in the second half of 2024.
+
+We continue to be the only US manufacturer of OLED microdisplays, and our manufacturing operations in New York's Hudson Valley have benefited greatly from the equipment installed under our Defense Production Act Title III and IBAS funding grants. We are seeing increases in our manufacturing yields, throughput, and efficiencies. Furthermore, we anticipate continued improvements as we take delivery and qualify the remaining tools under the program, including the new dPd-capable organic deposition tool. We appreciate the continued support provided by these programs and remain on track and within the requirements of the Title III and IBAS funding grants.
+
+In the year ahead, we will present our next set of dPd technology based products for customers building consumer devices, a market in which we see great potential. Also, we will start the qualification process for our new production tool. We look forward to updating you regarding both developments on future calls.
+
+With that I'll turn the call over to Mark for a discussion of our financial results.
+
+Thank you, Andrew, and hello, everyone. As Andrew mentioned, total revenues for the fourth quarter of 2022 were $8.4 million, up 17%, from $7.2 million in the prior-year period and up $0.8 million sequentially. Total revenues consist of both product revenues and contract revenues. Product revenues for Q4 were $7.8 million, an increase of $0.7 million from a year ago and up $0.7 million sequentially.
+
+The year-over-year and quarterly increase in product revenue was due primarily to increased military market revenues, including shipments of displays used for night vision and thermal weapons sights, as well as increased industrial and commercial market revenues. Contract revenues were $0.6 million, compared with $0.2 million in the prior-year period due to development associated with the high brightness display design for PEO STRI and a proof-of-concept display for a tier-one consumer company.
+
+Total gross margin for the fourth quarter was 41% on gross profit of $3.4 million, compared with a gross margin of 24% on gross profit of $1.8 million in the prior-year period. The increase in gross margin was due in part to the successful qualification and sale of reclaimed displays that were previously written off due to an initial quality issue that was subsequently resolved.
+
+Total gross profit and total gross margin do not reflect costs associated with the production of such reclaimed displays. As such, these costs were recorded in prior quarters. Sales of previously written-off reclaimed displays had a positive effect on total gross profit of approximately $0.6 million.
+
+Excluding gross profits attributable to such previously written-off products, total gross profit would have been $2.8 million and total gross margin would have been 34%. While we may sell additional products in the future that were previously written off, the gross margin and yields may vary from current quarter levels.
+
+Operating expenses for the fourth quarter of 2022, including R&D expenses, were $3.3 million, compared with $3.5 million in the prior-year period. Operating expenses as a percentage of sales were 39% in the fourth quarter of 2022, compared with 49% in the prior-year period. R&D expenses as a percentage of sales were lower in the fourth quarter due to higher costs allocated to cost of goods sold for contract programs. SG&A expenses were higher versus the prior-year period due primarily to an increase in legal costs. Also in the fourth quarter, operating loss narrowed to $0.1 million, compared with $1.8 million in the prior-year period.
+
+Net income for the fourth quarter of 2022 was $0.8 million, or $0.01 per share, which includes $0.8 million of other income related to a claim for an employee retention credit filed in the fourth quarter of 2022. Excluding the impact of the change in the warrant liabilities, net loss was $1.9 million, or $0.03 per share in the prior-year period. Adjusted EBITDA for the fourth quarter was a positive $2 million, compared with a negative $0.8 million in the prior-year period.
+
+As of the end of 2022, the company's backlog of open orders scheduled for delivery over the next year was $14.8 million, which represented a 7% increase from the end of 2021. Revenues for 2022 increased 17% to $30.5 million from $26 million in 2021. Product revenues increased 19% to $28.8 million from $24.2 million in 2021. The increase was primarily due to higher military revenues, including shipments of displays used for the ENVG-B program and higher revenue contributions from medical customers.
+
+Contract revenues totaled approximately $1.7 million, representing a 10% decrease from $1.9 million in 2021. Contract revenues primarily reflect the development costs with a high brightness display designed for the Department of Defense and a proof-of-concept display for a tier-one consumer company. Contract revenues are milestone-based and are not uniformly distributed throughout the duration of the project.
+
+Gross margin for 2022 increased to 34%, compared with 18% in 2021. Gross margin was positively impacted by the aforementioned sales of reclaimed displays. Total gross profit and total gross margin do not reflect costs associated with the production of such reclaimed displays. These costs were recorded in prior quarters. Sales of previously written-off reclaimed displays had a positive impact on total gross profit of approximately $1.3 million. Excluding gross profit attributable to such previously written-off products, total gross profit would have been $9.1 million, and total gross margin would have been 30%.
+
+Operating expenses for 2022, including R&D expenses, were $13.3 million, compared with $14.6 million in 2021. The majority of the decrease was in R&D expenses due to significant investments in the prior-year periods related to the development and qualification of high brightness XLE and dPd processes and costs allocated to COGS in the current period. SG&A expense increased compared to 2021, reflecting increased in legal costs and noncash compensation.
+
+Operating loss for 2022 narrowed to $2.9 million versus $10 million in 2021. Net loss for 2022 narrowed to $1.1 million, or $0.01 per share. This compares with a net loss of $5.2 million, or $0.07 per share in 2021. Excluding the impact of the noncash change in the fair value of the warrant liability for both years, net loss for 2022 was $0.03 per share versus a net loss of $0.12 per share in 2021.
+
+Adjusted EBITDA for 2022 was a positive $2.2 million compared with a negative $4.1 million in the prior year. eMagin's financial position as of December 31, 2022, reflects a total of $4.3 million in unrestricted cash and cash equivalents, a year-over-year decrease of $1.4 million. This is in addition to $0.3 million of cash reserved for purchases of equipment under Title III and IBAS government grants.
+
+The company had $1 million in outstanding borrowings and $1.8 million in credit availability under its revolving credit facility as of year-end 2022. This compares with outstanding borrowings of $2 million, and borrowing availability of $2.3 million at year-end 2021. In 2022, the company realized $5.8 million in net proceeds from the sale of common shares under our ATM program.
+
+Lastly, as Andrew mentioned, we're seeing continued benefits from the Title III and IBAS funding grants, and we remain on track and within the requirements of these programs. We look forward to updating you on our progress on our Q1 call.
+
+With that, we will open the call for questions. Operator, please go ahead.
+
+Thank you. Ladies and gentlemen, we will now begin the question-and-answer session. [Operator Instructions] Our first question comes from Glenn Mattson with Ladenburg. Your line is open.
+
+Yeah. Hi. Thanks for taking the questions. Congrats on the quarter. I'm curious on the...
+
+Good morning, Glenn.
+
+Good morning, Glenn.
+
+...good morning. There seems to be a little bit of confusion about the F-35. Can you just give us a sense of a little bit more color on the background there as to the scope of your development work, and how you expect that to kind of play out over the next kind of year to two or so?
+
+Well, it's not in development. We have developed a product and it is in production for the F-35, our OLED displays. And I know you're probably referring to a press release I saw, but remember, those OLEDs are done in China.
+
+Right. Right. Okay, great. Thanks for the color there.
+
+Not ours; ours are made right here in the United States.
+
+I understand. Great. A question on the US – the US Army ordered a $2.5 million development deal that you talked about. Can you give us some sense of what the scope of that program could be? I understand that's sensitive to talk about or whatever, but just kind of a little more color on how the size of what that program could turn into over time?
+
+Yeah. There's two things to think about. One of them is the technology we're developing for that will let us get to 20,000 candela per meter squared. Just to give everyone on the phone a background, the best iPhone possible with an OLED display gets up to about 1,000 candela per meter squared. So, this is a very bright display.
+
+And the other thing to think about is the military came to OLED in the first place because of power efficiencies. So, even if you need to run this display at 100 candela per meter squared, the power will be 5 times better than an OLED display is today, using white with color filter. So it's a tremendous advantage. So that just gives you a feeling for what it is we're doing and why we're so excited about it.
+
+The other thing is we don't have an exact number of what this could be in terms of revenue. I'll just mention that our Chief Operating Officer was talking to a group about this in PEO STRI just, yesterday, yeah, the day before, and they're very excited about our technology and the brightness it could bring. So, I think this will be a great project.
+
+Yeah. And, Glenn, the contract references the potential for follow-on orders or actually like a no-bid. So, I mean, that's yet to be developed, but we think it's a very influential organization within the DoD and should lead to bigger and better things.
+
+Great. Great. Thanks for that. Do you care to update on any of the progress being made with the tier-one partner or partners that you've been discussing for a few quarters now?
+
+Well, the progress, when the R&D tool is up and running, we're going to do more OLED work on displays for tier-one customers, plural, because we still have some more things that we'd like to do with the 4K display.
+
+Great. And last one for me, Mark. Can you give us just a sense of the mix, on the military side, between US and foreign governments?
+
+Well, this quarter, Glenn, it was about – between around 65% to 70% on the US side; and remainder, foreign. It was higher on the US side because of the strength with the ENVG-B program which both primes are either in the US or have US operations.
+
+Right. Right. Okay, great. That's it for me. Thanks, guys.
+
+Thank you, Glenn.
+
+One moment for our next question. Our next question comes from Kevin Dede with HCW. Your line is open.
+
+Thanks. Good morning, guys. Thanks for taking the call.
+
+Good morning.
+
+Good morning, Kevin.
+
+I don't think I understood the timing on the tool. I think you said – and I apologize, Andrew – but I think you mentioned something about this April and then second half 2024 full qualification. Can you kind of run through where that process?
+
+There are two tools we're talking about. The first one is the R&D tool and I'm separating them. The R&D tool was in December and it's going to be running now. And the second one is a very large tool. I'll just give you a feeling, it's over 150 metric tons. So it's kind of a big tool. That one will be delivered in April, but it will take time to put it together here. Obviously, you can't ship a 150-metric-ton tool in one piece. So it'll get here in April, put in our cleanroom, put it together, and then start the run. And I said, the second half of the year, we're shooting for the middle of the year, literally, to get it qualified. And that's next year.
+
+Okay. Okay.
+
+And then just to make sure everybody understands that 20,000-candela-per-meter-squared display will be able to be done in production on that new tool. And by that, I mean that our normal volume and et cetera, whereas right now we have only an R&D effort in the direct patterning.
+
+Okay. So I think Glenn tried to hit on that. So, the 20 – I know you can't give us more insight on the – beyond the $2.5 million order that you have, but is there a way at all, Andrew, to size up what the follow-on option could potentially be? And then the next step further, which I think Glenn was trying to go to, is the potential for that type of display, right, outside of this particular contract.
+
+When you compare it to an iPhone display, it seems like most people are familiar with that brightness and they're used to dealing with it in a bright light situation. But maybe you could help us get our arms around that 20,000 cd/m2 difference or that 20 times difference when you go up to 20,000 [indiscernible] (00:23:59), and the potential applications there.
+
+Applications are – let's talk about applications non-military for just a second. So, everybody tells us for VR that the minimum is 10,000 candela per meter squared minimum, and most will go over that; I want 12,000 cd/m2, et cetera. So the our current display direct patterning will do that 10,000-plus cd/m2. As you know, we demonstrated 11,000 cd/m2 right now. So, that's for VR, and that could be passed through AR as well, camera-enabled in other words. But if you're doing AR with no pass-through, i.e., you're fighting the outside light, then more brightness is needed. So this is the only display technology I've heard of so far that will enable at least a step in that direction.
+
+Okay. Just a little deeper dive on the [indiscernible] (00:25:12) Andrew. Is this a single stack or a dual stack application?
+
+Well, there's a number of ways to get there. Everything that you've heard about with white with color filter like microlens array and tandem, et cetera will get us brighter. So, we can do everything white with color filter does and go beyond. To get to 20,000 cd/m2, a tandem stack will do that, right. 10 times two is 20. And the other thing is, just so everybody knows I talked about AR, but the other thing you have to remember is that, again, as I mentioned for Glenn's question, that if I'm running it at a 100 candela per meter squared, or 200 or 500, I get vastly better power efficiency. That's one.
+
+And the second thing is, very important, is OLED lifetime. So, I get vastly better OLED lifetime. So, if I have an icon in the upper right-hand corner of my screen all the time, that lifetime for that will be much, much better. We're talking 5 times, et cetera. So, that's why it's so important. And I mentioned power because many of them in military applications, they don't necessarily want to run around with a display that's on 20,000 candela per meter squared or even 10,000, but they want the power, less batteries for the foot soldier to carry. And they want the OLED lifetime. So it's very important.
+
+Okay. Any perspective on what the follow-on order size could be is? Would you expect it to be comparable to the $2.5 million that you received or larger? I guess, what I don't understand is this appears to be a training type of application and not like the ENVG-B where it'll go out to hundreds of thousands of soldiers.
+
+Remember, it's STRI, which is Simulation, Training, and Instrumentation. So, the instrumentation can be much broader. And that's on this particular project. But, obviously, when you get to this capability and you want a color display, this will have much, much more applications. The other thing to think about is, even for something like aviation, the reason we started down this path a very long time ago is because aviation wanted color, and they wanted high brightness. And getting to 20,000 cd/m2, we need another 8,000 cd/m2 with some of the other things that we're working on to get to about 28,000 candela per meter squared. And, there, we're good for aviation, too. That's why it's so exciting. And we haven't seen anyone else come even close to where we are. Best we've seen is 7,000 cd/m2 at SID by a major Korean display company best. And that's with three tandem stacks. We have one and get above 10,000 cd/m2.
+
+Right. But that's a dPd, that's not white with a color filter, right?
+
+Oh, that's right. dPd gets above 10,000 [indiscernible] (00:28:33). Okay. Yeah, I said no tandem. We have one stack I said and it gets above 10,000 candela per meter squared.
+
+Okay. Again on the PEO STRI program, can you give us some insight on timing when you think you'll have something to show them a prototype, and when you think that goes to volume? Any sort of rough ideas?
+
+Remember, there are milestones. We're going to show them things this year and we're going to show them the final product next year. Remember, it was a two-year program, and when you say in production, volume production, it's direct patterning. So, the new tool is important. So we're looking at mid next year, mid-2024.
+
+Okay. You mentioned plural on the consumer side, could you I mean maybe take a couple of minutes just to run through your customer portfolio?
+
+Well, I'm going to say that we have designed two displays for two different companies. You can guess who they are. One of them was the 4K that we demonstrated. In fact, we demonstrated Display Week this last May in the Society of Information Displays (sic) [for Information Display] (00:30:06). That was very attractive to customers. And you'll remember that, that also kicked off another design.
+
+So, with the new R&D tool that is in since December and we're working on it to get it up and running well using our other displays, WUXGA displays, those are the first ones. And then we're going to do the 4K and this other one. I can't tell you how big it is because the company will not let us. We're going to make many samples of those.
+
+Okay. All right. Any returned interest from some of the consumer developments that you had in the past, like, that program where you stitch two displays together?
+
+Well, when you say stitch, are you talking about because the size of the display is big...
+
+Yes. Yeah. Yes. Yeah.
+
+...it had to be stitched at the foundry. [ph] One of the (00:31:15) 4K has to be stitched at the foundry and also we have to stitch because we put down the anode. So, we believe that showing that display with the improved direct patterning will be a very exciting thing for many consumer companies. And the company that paid us to design that has been willing to let us show it to everybody. So we're doing that. That's the goal.
+
+Okay. Very good. Yeah. Thank you for taking my questions. Appreciate it.
+
+Well, you're welcome. Thank you, Kevin.
+
+Thank you, Kevin. [Operator Instructions]
+
+One moment for our next question. I'm not showing any further questions at this time. I'd like to turn the call back over to our hosts for any closing remarks.
+
+Yeah. I mean, that concludes today's call. We'd like to thank everybody for joining us. And looking forward to keep you apprised of our product on the next quarter's call and on investor conferences.
+
+Just one other thing. I want to remind everyone our goal of getting to EBITDA positive, we have done that, and we're working like mad on the new technology and we're very excited. And the F-35 is one example for our technology, but also the very high brightness of 10,000 candela per meter squared going to 20,000 candela per meter squared. No one else has touched that. Thank you very much, everyone.
+
+Thank you.
+
+Ladies and gentlemen, that does conclude today's presentation. You may disconnect and have a wonderful day.

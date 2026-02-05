@@ -1,0 +1,311 @@
+raw transcript
+
+
+Verso Technologies, Inc.
+ 
+VRSO
+ 
+Q1 2005 Earnings Call
+ 
+Apr. 25, 2005
+
+
+Company
+
+ 
+Ticker
+
+ 
+Event Type
+
+ 
+Date
+
+
+
+www .Ca ll St r eet . com
+ 
+•
+ 
+21 2. 9 31 . 65 1 5 •
+ 
+C op yr i g ht © 20 0 5 C a ll S tr ee t
+ 
+1
+
+
+MANAGEMENT DISCUSSION SECTION
+
+
+Operator: Ladies and gentlemen, thank you for standing by and welcome to the Verso
+
+
+Technologies First Quarter Earnings Conference Call. At this time, all participants are in a listen-
+
+
+only mode. Later we will conduct a question-and-answer session, instructions been given at that
+
+
+time. [Operator Instructions]. As a reminder, this conference is being recorded.
+
+
+I would now like to turn the conference over to our host, Director of Investor Relations, Mr. Monish
+
+
+Bahl, please go ahead.
+
+
+Monish Bahl, Director of Investor Relations
+
+
+Thanks. Good evening and welcome to the Verso first quarter earnings call. Before we start the
+
+
+call, let me remind the listeners that some of the statements in today's call will constitute forward-
+
+
+looking statements within the meaning of the Securities Act of 1933, as amended, and the
+
+
+Securities and Exchange Act of 1934, as amended. The Company intends that such forward-
+
+
+looking statements reflect the Company's current views with respect to future events and financial
+
+
+performance, that are subject to many uncertainties and factors related to the Company's operating
+
+
+and business environment, which may cause actual results of the Company to be different than any
+
+
+future results expressed or implied by such forward-looking statements. Please see the Company's
+
+
+section entitled "Risk Factors" in the Company's Annual Report on Form 10-K for the year ended
+
+
+December 31, 2004 for a list of such uncertainties and factors. Verso Technologies undertakes no
+
+
+obligation to publicly update or revise any forward-looking statements, whether as a result of new
+
+
+information, future results or otherwise.
+
+
+In this call, we will use EBITDA, which is defined as net loss before interest, taxes, depreciation,
+
+
+amortization of intangibles and amortization of deferred compensation. Additional information
+
+
+regarding EBITDA is set forth in the earnings release that we put out today at 4 PM and can be
+
+
+accessed through the Investor section of the Verso website.
+
+
+Steve Odom, Verso's Chief Executive Officer will start off today's call. Before I turn the call over to
+
+
+Steve, I would like to make mention of an event occurring this week. As many of you most likely
+
+
+know, we will be having a special shareholder meeting on Wednesday the 27th at 10 AM here in
+
+
+Atlanta. If any shareholders would like to attend the meeting and personally meet the management
+
+
+team, you are more then welcome. The meeting is required in connection with the $13.5 million
+
+
+convertible debt financing the Company recently completed. The Company agreed among other
+
+
+things, to use its reasonable best effort to obtain shareholder approval for certain proposals.
+
+
+For that meeting, we are still short of a quorum, meaning that we do not yet have a majority of
+
+
+shares voted outstanding yet. Although the vast majority of shares that have been voted have been
+
+
+in favor of Verso's recommendations, it is required that we have a quorum for the shareholder vote
+
+
+to count. If a quorum is not presented by the meeting, then the meeting will be postponed to solicit
+
+
+additional proxies and votes. Therefore, we would like to request anyone who has not yet voted to
+
+
+electronically vote as soon as possible. If you do not know how to electronically vote, please call
+
+
+our proxy solicitor which is DF King at the phone number 212-493-6992. There's also information
+
+
+on this posted on our website at www.verso.com. Thank you so much for your cooperation.
+
+
+With that I'll turn the call over to Steve. Steve, please go ahead.
+raw transcript
+
+
+Verso Technologies, Inc.
+ 
+VRSO
+ 
+Q1 2005 Earnings Call
+ 
+Apr. 25, 2005
+
+
+Company
+
+ 
+Ticker
+
+ 
+Event Type
+
+ 
+Date
+
+
+
+www .Ca ll St r eet . com
+ 
+•
+ 
+21 2. 9 31 . 65 1 5 •
+ 
+C op yr i g ht © 20 0 4 C a ll S tr ee t
+ 
+2
+
+
+Steven Odom, Chairman and Chief Executive Officer
+
+
+Thank you, Monish. I'd like to welcome all of you to our first quarter 2005 conference call. With me
+
+
+on the call today is Lewis Jaffe, our President and COO; Monty Bannerman, our Senior VP of
+
+
+Strategic Initiatives and Juliet Reising, our CFO.
+
+
+Before I pass the call over to Lew I will highlight some of the things that we've accomplished in the
+
+
+first quarter. Lew, Juliet and Monty will be discussing these in greater details later on the call.
+
+
+Again we've had another busy quarter at Verso. We completed our $13.5 million convertible debts
+
+
+financing. We completed the divesture of legacy non-core assets raising $4 million in cash and
+
+
+$3.50 million note due to Verso. We completed the acquisition of JTA which you will hear later on
+
+
+from Lew and Monty to be a key to our strategy going forward.
+
+
+We introduced our new GSM A.bis NetPerformer technology last quarter and the customer
+
+
+response has been significant. We have began an aggressive product development initiatives to
+
+
+add an enhanced feature server to our softswitching technology which I had focused a lot of my
+
+
+time and expertise personally to drive and ensure not divisional engineering cooperation, but an
+
+
+increased entrepreneurial spirit throughout the organization. I believe this new technology could put
+
+
+us ahead of our competition. And we received our new patent which expands our previous patent to
+
+
+include the technology and solutions aligned with our strategic direction.
+
+
+I feel like the pieces are finally in place and with the international economy now beginning to show
+
+
+signs of improvement, along with our new products and our new product development roadmap, I
+
+
+feel that the future of Verso is certainly broader.
+
+
+I'll now turn the call to Lew Jaffe. Thank you. Lew?
+
+
+Lewis Jaffe, President and Chief Operating Officer
+
+
+Thanks Steve. It is amazing how quickly the last few months have gone by. Today Monty and I will
+
+
+be reporting results on our first full quarter. From revenue perspective, this quarter fell short of
+
+
+expectations, yours and ours. With that said, we are making progress. Our goal on this call is to
+
+
+help you see the strides we have made and understand why we remained bullish about our future.
+
+
+Q1 is always a difficult quarter due to the fact that many of our end users are resetting their budgets
+
+
+and planning for the upcoming year. Additionally, the economy on a global basis was not helping us
+
+
+or any companies in the telecommunications sector, as evidenced by so may pre-announcement
+
+
+and lower than expected Q1 in our peer group.
+
+
+Our sales focus has been predominately on the international opportunities. As such, we did not
+
+
+enjoy the benefit of any domestic recovery that some of our peers did. The international economy
+
+
+has lagged behind with respect to the recovery. However, the good news is that there are signs of a
+
+
+recovery on international basis. Particularly, in the EMEA region we have been focused and enjoy a
+
+
+significant quantity of our technology sales today.
+
+
+We see our opportunity list and our qualified sales pipeline built which speak to the recovery
+
+
+starting in the international market. Our product have a 6 to 18 months sale cycle and many of the
+
+
+sales in this quarter were deals were started before Monty and I joined the company. I am not
+
+
+making excuses; however, because of the long sale cycle almost all of our deals that the sales
+
+
+team closed were ones that the previous sale management were driving towards. Going forward, it
+
+
+is our, meaning Monty and my pipeline that we will deliver against our revenue projection.

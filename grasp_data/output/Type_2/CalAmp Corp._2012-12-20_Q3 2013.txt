@@ -1,0 +1,411 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+Lasse Glassen — Director, Addo Communications
+Michael J. Burdiek — President, Chief Executive Officer & Director, CalAmp Corp.
+Richard K. Vitelle — CFO, Secretary, Treasurer & VP-Finance, CalAmp Corp.
+Mike Walkley — Analyst, Canaccord Genuity, Inc.
+Mike Crawford — Analyst, B. Riley & Co.
+Shai Dardashti — Managing Partner, Dardashti Capital Management
+Henry P. Castellanos — Managing Partner, Glacier Asset Management LLC
+Michael S. Needleman — Analyst, Preservation Asset Management LLC
+
+Management Discussion Section
+
+Question And Answer Section
+
+Greetings, and welcome to the CalAmp Third Quarter Fiscal 2013 Results Conference Call. At this time, all participants are in a listen-only mode. A brief question-and-answer session will follow the formal presentation. [Operator Instructions] As a reminder, this conference is being recorded.
+
+It is now my pleasure to introduce your host, Lasse Glassen with Addo Communications. Thank you. Mr. Glassen, you may begin.
+
+Thank you, operator. Good afternoon, and welcome to CalAmp's Fiscal 2013 Third Quarter Conference Call. With us to today are CalAmp's President and Chief Executive Officer, Michael Burdiek; and Chief Financial Officer, Rick Vitelle.
+
+Before I turn the call over to management, please remember that our prepared remarks and responses to questions may contain forward-looking statements. Words such as may, will, expect, intend, plan, believe, seek, could, estimate, judgment, targeting, should, anticipate, goal, and variations of these words and similar expressions are intended to identify forward-looking statements.
+
+Actual results could differ materially from those implied by such forward-looking statements due to a variety of factors, including product demand, competitive pressures and pricing declines on the company's satellite and wireless markets, the timing of customer approvals of new product designs, intellectual property infringement claims, interruption or failure of our Internet-based systems used to wirelessly configure and communicate with tracking and monitoring devices that we sell, the effects of the proposed automatic federal budget cuts if the scheduled sequester were to take effect in early 2013, the ability to finance and consummate the just announced Wireless Matrix acquisition, integration issues that may arise in connection with that acquisition, and other risks or uncertainties that are described in the company's annual report on Form 10-K for fiscal 2012 as filed on April 26, 2012, with the Securities and Exchange Commission.
+
+Although the company believes the expectations reflected in such forward-looking statements are based upon reasonable assumptions, it can give no assurance that its expectations will be attained. The company undertakes no obligation to update any forward-looking statement, whether as a result of new information, future events or otherwise.
+
+With that, it's now my pleasure to turn the call over to CalAmp's President and CEO, Michael Burdiek.
+
+Thank you, Lasse. Good afternoon and thank you for joining us today to discuss CalAmp's fiscal 2013 third quarter. I will begin today's call with a review of our financial and operational highlights, including a discussion on our pending acquisition of Wireless Matrix which was announced earlier today. Rick Vitelle will provide additional details about our third quarter results and I will wrap up with our business outlook and guidance for fiscal 2013 fourth quarter. This will be followed by a question-and-answer session.
+
+In the third quarter, our Wireless DataCom segment revenue increased 40% year-over-year as a result of continued strong demand for our Mobile Resource Management solutions and growing contributions from our public safety and energy verticals. In addition, we closed the quarter with a higher backlog level compared with the second quarter driven by strong bookings in MRM products, energy applications and international customer wins.
+
+Furthermore, we continue to see a healthy sales pipeline of new opportunities in our core segments that we believe should support ongoing growth in the coming years. In satellite, we continued to be pleased with our performance in the contribution of this business to the bottom line.
+
+In the move that builds upon our strong fundamentals and organic growth successes, earlier today we announced the signing of a definitive agreement to acquire the operations of Wireless Matrix. We believe this acquisition will help position CalAmp as a leading provider of integrated hardware and software solutions within our core verticals and accelerate our future growth prospects. I'll have more comments about Wireless Matrix in a few minutes.
+
+Consolidated revenue for the third quarter was $44.3 million, up 35% compared to the third quarter last year with Wireless DataCom revenue increasing to $36.3 million and Satellite revenue of $8 million. At the bottom line, we are in $0.14 per diluted share on a GAAP basis $0.17 on a non-GAAP basis. Both revenue and EPS results were at the upper end of our guidance range for the quarter. Cash flow provided by operating activities was $3.6 million, and we ended the quarter with a cash balance of $13.6 million.
+
+Now I would like to review our operational highlights for the quarter. Wireless DataCom segment posted record revenue in the third quarter with continued momentum across multiple market verticals. MRM products and services accounted for approximately two thirds of total Wireless DataCom revenue with wireless networks applications accounting for the remaining third. This is consistent with what we've seen in recent quarters. We're continuing to experience strong customer demand for our MRM products and fleet management, asset tracking, stolen vehicle recovery, and vehicle finance verticals.
+
+In addition, we are gaining traction from international expansion initiative in both our Wireless DataCom businesses. We are seeing good growth from key customers in Latin America and South Africa and are in the initial phases of expanding into the Brazilian market as more of our MRM products are type approved by Anatel, Brazil's national telecommunications agency. In addition, the Navman Wireless supply agreement that we announced early in fiscal 2013 generated $2.6 million in revenue in the third quarter, almost all of which was outside North America. At the end of the third quarter, we had $1.9 million MRM devices in service with our customers that are supported by CalAmp's PULS cloud-based device management platform, which is up from 1.7 million devices in service at the end of the second quarter.
+
+Our bundled network offerings for vehicle finance and remote start markets had 305,000 active subscribers at the end of the third quarter, up from 293,000 subscribers at the end of the second quarter. This subscriber base provides an ongoing subscription revenue stream for our Wireless DataCom segment.
+
+Turning to our wireless networks business, third quarter performance was better than expected driven by strengthened public safety and energy markets. We are well positioned to benefit from the recovering public safety market with both proprietary narrowband private networks, and more importantly, leading-edge LTE-based wireless products and solutions.
+
+During the third quarter, we added to our public safety backlog with the contract to deploy a mobile data network for the Emergency Services department of the City of Buffalo, New York. Project calls for CalAmp's latest generation IP mobile data system that includes base stations and dual-band modems. Our system will replace an aging private data system and support a variety of vital public safety applications via secure, redundant, private licensed data infrastructure.
+
+The energy sector continues to be a bright spot for CalAmp where we are seeing significant uptick in near-term opportunities. Late in our third quarter, we received an initial order as part of a large contract with one of the nation's largest energy delivery companies to supply wireless data communication devices, part of this customer's wide area communications network. This customer is in the early stages of a significant smart grid upgrade project for distribution automation and metering collection points and substations throughout the company's service area. This is one of several expected awards within the energy vertical that we believe will meaningfully contribute to CalAmp's growth in the coming quarters.
+
+Within our real transportation vertical, during the third quarter, we announced that CalAmp had been awarded a key contract to supply wireless data communication devices for an interoperable PTC system for the Southern California Metrolink Commuter Rail Network. As part of this project, we are providing the wireless communication radios and base stations under a contract with Parsons Corporation, the prime contractor for the Metrolink PTC system.
+
+Our PTC radios will provide this critical data link between locomotives, base stations, wayside switches and other railroad systems in an automated command-and-control network that will operate throughout the five-county, 500-mile Southern California commuter rail network. This project is part of a nationwide interoperable PTC network collision avoidance system that was mandated by the U.S. Congress in the Rail Safety Improvement Act of 2008.
+
+In addition to the strength we are experiencing domestically in wireless networks, we continue to gain traction on the international front. In the third quarter, we announced a contract award in conjunction with our partner, Rodnik SPE of Russia to supply the wireless communications and telemetry systems for a mining customer in Kazakhstan. As part of the overall solution, CalAmp will provide base stations and mobile radios that will be integrated into the onboard radio navigation system used to dispatch and remotely control mobile open-pit mining equipment.
+
+Overall, we are pleased with both the strategic direction and the growth trends of our Wireless Networks business. Our focus on machine-to-machine solutions targeting large multinational enterprise customers, leveraging CalAmp's unique portfolio of hardware, software and services content is gaining traction and positions us well for longer-term growth. Shorter-term, we expect the budding recovery in our public safety business, as well as further growth within core verticals to continue to benefit our top and bottom line results in the coming quarters.
+
+Turning to our Satellite segment, revenue in the third quarter was $8 million, an increase of 17% year-over-year. Third quarter gross margin of 17.7% improved both sequentially and year-over-year, reflecting the improved margin profile of our new products as well as operating efficiencies. We expect that our Satellite business will continue to generate gross margins in the mid-teens, and contribute meaningfully to our profitability going forward.
+
+Before turning the call over to Rick, I would like to discuss our announcement earlier today to acquire the operations of Wireless Matrix, a Herndon, Virginia-based provider of fleet tracking applications and satellite communication services to the utility, oil and gas, rail and municipal verticals, as well as to service fleets of large enterprise customers throughout North America.
+
+Its Software-as-a-Service-based, high-margin, recurring revenues account for 85% of their total sales, with total revenues of approximately $30 million a year based on their just announced second quarter results. This strategic acquisition will be a foundational component of our long-term growth initiatives, positioning CalAmp as a leading provider of integrated hardware and software MRM solutions within our core verticals. We are excited by the prospects of leveraging Wireless Matrix's robust mobile workforce management and asset tracking applications to build upon our current product offerings for customers in our energy, transportation and government verticals.
+
+We also see the opportunity to expand our turnkey offerings to global enterprise customers in new verticals such as construction, agriculture and mining equipment. Overall, this acquisition accelerates our development roadmap, enabling CalAmp to offer higher-margin turkey solutions for new and existing customers and increases our relevance with mobile network operators and key channel partners in the global M2M marketplace. We expect that the Wireless Matrix transaction will result in greater scale with an increase in our subscription and SaaS-based revenues to a level of approximately 20% of post-acquisition consolidated revenue.
+
+In terms of the definitive agreement provided, CalAmp will acquire all the Wireless Matrix U.S.-based operations for cash payment of $53 million. As part of the assets acquired, CalAmp expects to receive cash in the estimated amount of $5 million. We expect to finance the transaction using a combination of proceeds from an equity offering of approximately $35 million, a bank term loan and cash on hand. We expect this acquisition to be accretive on a non-GAAP basis in fiscal 2014 and beyond, while accelerating our growth prospects within our core markets and significantly enhancing our long-term competitive positioning. This transaction is subject to customary closing conditions and is expected to be completed in March 2013.
+
+With that, I will now turn the call over to Rick Vitelle, our Chief Financial Officer, for a closer look at our third quarter financial details.
+
+Thank you, Michael. I will provide a summary of our gross profit performance, income tax position, working capital management, and cash flow results for the fiscal 2013 third quarter.
+
+Consolidated gross profit for the fiscal 2013 third quarter was $14.0 million, an increase of $3.9 million over the same quarter last year, predominantly as a result of higher revenue and improved margins in the Satellite business. Consolidated gross margin was 31.6% in the latest quarter, compared to 31.0% in the third quarter of last year.
+
+Looking more closely at gross profit performance by reporting segment, Wireless DataCom gross profit was $12.6 million in the third quarter or 34.7% gross margin. Year-over-year Wireless DataCom gross profit was up by $3 million, while gross margin declined two points primarily because last year's third quarter was benefited by the development contract for positive train control radios.
+
+Our Satellite business had a gross profit of $1.4 million in the third quarter or 17.7% gross margin. This compares to gross profit of $666,000 or 9.7% gross margin in the third quarter last year. The significant improvements in satellite gross profit and gross margin are attributable to the conversion of this business to a variable cost operating model as well as the launch of new products.
+
+Next, looking at bottom line results, GAAP basis net income in the third quarter was $4.1 million or $0.14 per diluted share. Our non-GAAP net income in the third quarter was $5.2 million, or $0.17 per diluted share, non-GAAP earnings excludes the impact of intangible asset amortization and stock-based compensation expense and includes cash taxes, that is, income taxes actually paid or currently payable on taxable income generated in the period. For a reconciliation of the GAAP and non-GAAP financial results, please see our third quarter earnings press release that was issued today, which is available on our website.
+
+In the latest quarter, we recorded income tax expense for GAAP basis reporting of only $19,000, which represents minimum U.S. State taxes and New Zealand taxes. This same amount was reflected as cash taxes in our non-GAAP earnings results for the third quarter.
+
+No U.S. federal income tax expense was recorded in the third quarter for GAAP basis reporting purposes due to the existence of net operating loss in tax credit carryforwards. These NOLs and tax credits are expected to shelter substantially all of our taxable income for the next few years. Consequently, we expect that our actual cash taxes over this period will be very minor.
+
+We currently have a valuation allowance that offsets these future NOL tax benefits. As a result of CalAmp's return to profitability starting last fiscal year, this valuation allowance is being reduced as we generate taxable income and utilize NOLs. In addition, at the end of the current fiscal year, we expect to recognize an income tax benefit of roughly $25 million for GAAP basis financial reporting purposes that represents the tax savings associated with the remaining NOLs and tax credits carryforwards that we expect to utilize in future years.
+
+Beginning next fiscal year, we expect our GAAP basis effective income tax rate will revert to a more typical level of around 40% based on full U.S. federal and state statutory tax rates. The tax accounting rules that apply in this situation will cause our GAAP basis earnings results to not be comparable year-over-year because we expect to recognize a large tax benefit this year, which means that next year we would begin reporting income tax expense at full statutory rates, even though on a tax return basis our income will still be largely sheltered from taxation by these NOL and tax credit carry forwards.
+
+Our non-GAAP earnings method recognizes as a tax expense only the taxes paid or currently payable in cash, and for this reason, our non-GAAP earnings will not be affected by the year-over-year comparability issues that I just described. So we encourage our analysts and investors to pay particular attention to the non-GAAP results going forward.
+
+Now moving on to the balance sheet, our total inventory at the end of the third quarter was $13.2 million, representing annualized inventory turns of nine times. At the end of the immediately preceding quarter, inventory was $13.0 million, which also represented annualized inventory turns of nine times. The consolidated accounts receivable balance was $20.9 million at the end of the third quarter. This represents an average collection period of 41 days, which is slightly higher than our receivables collection rates of the past several quarters.
+
+As of November 30, 2012, cash and cash equivalents totaled $13.6 million, an increase of $3.4 million from the end of the second quarter. Net cash provided by operating activities was $3.6 million for the third quarter. In addition to cash generated by operations, our primary source of liquidity is the credit facility with Square 1 Bank. The unused borrowing capacity on the revolver portion of the credit facility was at full availability of $9.8 million at the end of the third quarter.
+
+Our total outstanding debt at the end of the third quarter was $5.3 million, comprised of a $2.2 million bank term loan and the $3.1 million carrying value of the non-interest-bearing note issued in May 2012 as part of the purchase consideration for the Navman Wireless product line purchase.
+
+The Navman note payable, which has a face value of $4 million, is payable in the form of sales price rebates as sales are made to Navman under the associated five-year $25 million supply agreement. Excluding the Navman note payable, we ended the third quarter with a net cash balance of $11.4 million versus a net debt position of $2.1 million in the year-ago period.
+
+With that, I'll now turn the call back over to Michael for our guidance and some final comments.
+
+Thank you, Rick. Now, let's turn to our financial guidance.
+
+Based on our latest projections, we expect fiscal 2013 fourth quarter consolidated revenue in the range of $44 million to $48 million. We anticipate Wireless DataCom revenue in the fourth quarter will be up significantly year-over-year and slightly higher on a sequential quarter basis. Satellite revenue in the fourth quarter is expected to increase on a sequential quarter basis. At the bottom line, we expect our fourth quarter operating results will be somewhat impacted for both GAAP and non-GAAP basis by acquisition-related expense arising from the Wireless Matrix transaction, as well as by higher R&D expenditures in support of our wireless growth initiatives.
+
+We expect non-GAAP net income in the range of $0.14 to $0.18 per diluted share and GAAP basis net income in the range of $0.11 to $0.15 per diluted share before the effect of the aforementioned income tax benefit. Fourth quarter tax benefit at its currently estimated amount would add approximately $0.83 to the fourth quarter GAAP-based EPS. Looking further ahead into our fiscal 2014, we expect continued strength within our Wireless DataCom segment applications and modest growth in Satellite revenues.
+
+And in closing, I'd like to recap some key points drawn from our recent results and latest developments. First, our Wireless DataCom segment once again posted impressive revenue growth with the 40% increase driven by strength across all of our core verticals with particular momentum in MRM.
+
+Second, our unique hardware, software and service portfolio supported by established channel partnerships with global reach has given us the leverage and scale to pursue increasingly larger opportunities. Third, we are operating from the position of financial strength. During the third quarter, we generated operating cash flow of $3.6 million and ended the quarter with $13.6 million in cash.
+
+Our strengthening balance sheet has improved our financial flexibility providing a solid foundation to execute on our strategic growth initiatives in core markets, as well as in new and emerging applications. And finally, the pending Wireless Matrix acquisition is expected to accelerate our growth prospects, strengthen our competitive position within key verticals and increase our subscription in SaaS-based revenue to approximately 20% of consolidated revenue.
+
+We are excited about the opportunity to leverage the strength of our two companies in addressing the needs of the rapidly growing MRM marketplace. Our competitive position continues to improve as we pursue opportunities for integrated hardware and software solutions for larger global enterprise customers. We have established a solid foundation and expect that our continued effective execution will drive profitable growth through the remainder of fiscal 2013 and beyond.
+
+That concludes our prepared remarks. Thank you for your attention. And at this time, I'd like to open up the call to questions. Operator?
+
+Thank you. [Operator Instructions] Our first question is from Mike Walkley of Canaccord Genuity. Please go ahead.
+
+Great. Thank you. Congratulations on the strong results and execution. Just on Wireless Matrix, can you help us understand just where you see the accretion coming? Is it just the scaling of business faster? And have you worked with them before in terms of a partnership in the past? Thank you.
+
+Hi, Mike. Let me start with the last part of your question first. The answer to that is, yes. We have worked with Wireless Matrix. In fact, we're working with them today. We're the exclusive supplier of MRM hardware to them currently. We aren't supplying Satellite products, but we are supplying all of their MRM related hardware products in support of their fleet outlook platform. And in terms of the accretion, we expect to see obviously elimination of public company expense as we integrate the Wireless Matrix platform into the CalAmp public company platform.
+
+We also will realize some contribution margin benefit from consolidation and the fact that we ship hardware to them today and there will be see some margin elimination there. We also expect to see at least a couple of million dollars worth of synergies in terms of expense rationalization and other opportunities to leverage resources across both of the businesses. So if you add all of that up and based on their trailing 12-month EBITDA contribution, we can see a clear path to accretion given an expected number of new shares outstanding as part of a $35 million equity offering.
+
+Great. Now it certainly makes a lot of sense. Any feedback from the customers in terms of the consolidation and this help with the combined companies go after much larger deals than Wireless Matrix is currently pursuing?
+
+Well, we have talked to some of their customers. But we weren't able to talk to them in context of an acquisition of Wireless Matrix into CalAmp for obvious reasons until the announcement was public. But our feedback was actually quite positive. We see a lot of opportunity to continue to nurture those key customer relationships and actually grow them over time. And we see little risk of churn-out at least in terms of the key customers that they have onboard or added recently. That was very positive.
+
+Great. Thanks. And Michael, Can you just help me a little bit. I missed some of your comments; you talked about some new verticals that it would help accelerate your R&D or just accelerate your roadmap into some of the new verticals. Can you maybe speak to those verticals and the types of growth opportunities you see in them?
+
+Sure. I mean, we alluded to construction, agriculture and mining equipment as a kind of key focus area for us.
+
+Okay.
+
+We see that as a great growth opportunity, not only in terms of supplying MRM-related hardware products, but also in terms of being able to supply more turnkey solutions into those market applications. We've always viewed our hardware business as kind of a point of the spear in terms of penetrating new vertical applications. We seem to be making some good head roads on the hardware front in some of those applications we just mentioned. And we hope to follow in the wake of that market penetration with some more of the software and service-related applications and revenue opportunities.
+
+Great. Makes a lot of sense spending some time with you in understanding where you want to go to. Congratulations on the great acquisition. Just moving to the core business, you talked about good visibility in the MRM. And could you just give us a little color on some of the different verticals in there? I'm up here in Minnesota and we're going to be negative 10 with wind chill tonight, so that remote car start certainly seems like a good idea right about now.
+
+Well, you need to run out and buy one.
+
+Exactly.
+
+Your question was more products-focused or solutions focused?
+
+Just sort of – in terms of your MRM, you talked about some strong visibility and maybe you can just...
+
+Yeah.
+
+Update us on the areas you've seen this – seen continued strength or new strength?
+
+Really across the board, and particularly on the products front. Our MRM products business has quite literally been on fire. We've seen great growth with core applications in existing customers, who seem to be buying more, which is – which is fantastic. We're also seeing opportunities for new applications such as insurance telematics. And then, actually, we're seeing some good advances there. And in fact, we're becoming quite optimistic that during the next fiscal year, we'll see some meaningful amount of revenue related to insurance telematics and usage-based insurance programs.
+
+We're seeing good opportunities and we're starting to receive really nice-size orders from some of our newer international customers and existing applications such as fleet management, asset tracking, and stolen vehicle recovery, so a lot of strength for MRM products across the board. It's been steady progress in the vehicle finance front in terms of our turnkey solution offerings there. And the remote car start season seems to be following historical trends. And so, we've seen a nice pickup in unit shipments over the last 30 to 60 days for that specific application.
+
+Okay, great. Thanks for the update there. And then just on the public safety, it sounds like you – good visibility on some new things developing there, can you maybe just update us on that, and then also just about the LTE opportunities with your proprietary products there?
+
+Sure. We've seen kind of a renaissance in demand for some of our legacy products' upgrade to older narrowband radio systems; obviously, we talked about the Buffalo project in our prepared remarks. So that's an example of an upgrade to an older narrowband wide-area data communication system. We're basically selling in a later generation of a similar type of product platform. So it's been nice to see some uptick in demand there. And that had been a very, very sort of dormant market for almost two years. But more importantly, we're seeing good demand, early demand, for LTE-based router platforms and support of FirstNet applications as they roll out in the coming years.
+
+And really, what's important to understand about the public safety market is it's going to create a whole new range of opportunities for us not just in terms of hardware, but in terms of our ability to deliver software solutions. And I think, again, Wireless Matrix has a key role to play there because as all applications migrate towards a broadband LTE-based infrastructure, obviously there's going to be a whole new range of applications that develop around that broadband infrastructure. And we think having an application service platform, like we will acquire through Wireless Matrix, is going to be quite opportune for us in terms of our growth prospects there.
+
+Okay, great. That's helpful. And then, just on the PTC, that's still kind of in a pause mode ahead of maybe calendar 2014 in terms of re-acceleration, so you're just still growing despite the PTC slowdown?
+
+Yeah. I wouldn't quite call it a pause, but we're certainly somewhere between the ramp-down of the development project, and a serious ramp-up in terms of mainstream radio deployments. So we expect the business to kind of dribble along at or maybe slightly below the level we saw in Q3 and expect in Q4. But we see signs that the rails are quite serious about the mandate, even though there's an expectation that might get pushed out a bit. And they're moving forward with their deployment plans. So I wouldn't expect to see very strong demand in the first half of the next calendar year, but potentially a very strong ramp thereafter up and through really the end of the deployment program.
+
+Okay, great. And one last question, I'll pass it on is just, Rick, can you provide just the breakout of your stock-based comp by the different OpEx line items?
+
+Yes, we do provide that breakout in the notes to our 10-Q, which we've just filed a couple of minutes ago.
+
+Okay, great. I'll find it in there, then that's no problem at all. Great. I'll pass it on. Thank you.
+
+You're very welcome.
+
+Thank you. Our next question is from Mike Crawford of B. Riley. Please go ahead.
+
+Thank you. Starting with WRX, so in the most recent quarters, the gross margin was 69% on the revenue, you think that – where do you think that can increase given that you'll be providing your own hardware once you own those assets? And then beyond that, can you comment at all on how many employees you might be taking, so we can get some sense of continuing operating expenses to be added with that incremental business.
+
+First of all the gross margin question, I would love to turn this one over to Rick Vitelle, but let me address it generally first. There is a slight difference in how we would classify Wireless Matrix revenue stream and cost of sales. So, our expectation is that that 69% is not a normalized CalAmp class gross margin contribution. But we do believe even through a reclassification of expenses into cost of sales, as CalAmp would approach it, we would still see gross margins more of 60%. So in that sense, we see the Wireless Matrix platform is highly accretive to CalAmp's consolidated gross margins going forward. We now view our opportunity to increase gross margins on a consolidated basis, approaching upwards of 40% two to three years down the line.
+
+Would you like to add any detail in terms of the cost of sales [indiscernible] ?
+
+No. You've covered it nicely.
+
+And the people you might be taking or how do think about operating expense increases?
+
+We haven't made absolute determinations in terms of which employees we'll retain. Obviously we will be going through that process as part of our integration planning over the coming months. But we do expect to see some absolute reduction in overall operating expenses, on the Wireless Matrix side, obviously a net increase to CalAmp on a consolidated basis.
+
+Okay, great. Look forward to hearing more about that. Turning back to your existing MRM business, which at two-thirds of Wireless DataCom revenue is in the third quarter that's aiming $100 million a year revenue run rate in and of itself, can you give a general sense of magnitude of which are the largest verticals that you are recognizing revenue within MRM today and then how you think that might change over the next couple of years?
+
+Sure. In terms of the hardware sales, which is about 80% of that figure you just quoted, the biggest component of that revenue stream is fleet management application. So similar to the types of products we sell to Wireless Matrix is an example. So that business has been solid, continues to grow domestically, but more importantly, it's growing very, very rapidly, as we develop some international customers and international sales channels. We expect fleet – the fleet application to remain the largest application for MRM products business for the coming couple of years at least.
+
+In Latin America, specifically we see growing opportunities and growing demand for lower-end, stolen vehicle recovery types of platform. So the bulk of our Latin American business from a product standpoint, we would expect to come from that MRM application. And then in terms of insurance, interestingly enough, we're seeing more immediate and larger opportunities with international customers in the EMEA region. So we expect that from an insurance standpoint, in terms of the needle mover activity will probably happen there before it happens domestically. And obviously, the insurance market could potentially be quite large. And a few years down the line, it could represent the largest application for our products business.
+
+And in Brazil, is Telefónica's Movistar, is that your main partner in Brazil or are there others that are significant as well?
+
+Well, Brazil is still in market penetration mode. Obviously, we just have one product that's currently type certified there. We'll be adding some additional ones over the coming months and quarters. We'll likely make some incremental sales and marketing investments in Brazil over the coming year. So it represents a big market, but right now very, very little revenue. Movistar is a key partner of ours in other parts of Latin America, in South America as well as some growing opportunities in Mexico. But Movistar isn't the only carrier partner we're cultivating in that region. We're talking to all of the major players there.
+
+Okay, great. And then on your Satellite business, it's nice to see the gross margin up in the high-teens. To what extent, do you believe this is the new norm that sustainable versus the prospect of product cycle kind of fading away and those revenues getting cut as much as in half the percent of where they are today?
+
+Well, 17.7% is certainly a high water mark in recent history. We don't expect Q4 margin to be quite that high, but we have stated many times recently that we expect the mid-teens to be a sustainable gross margin percentage for our Satellite business.
+
+Okay. Thank you very much. Look forward to seeing what happens with WRX.
+
+All right, thank you.
+
+Thank you. Our next question is from Shai Dardashti of DCM. Please go ahead.
+
+Hi, Michael. I just wanted to say it's phenomenal you've done with CalAmp since you've become CEO, and it's an honor to be – to watch you succeed over the years. I'm actually a shareholder in both [Auty Systems] and also in Telular. So I understand the fleet space a little bit. I'm wondering if the primary competitor is Broadcom, if it's SkyBitz, where you tend to price your product in the ecosystem? Then I have a few more questions as well, but let's please – who is your primary peer group at this point?
+
+In terms of CalAmp today or CalAmp three months from now as we consummate Wireless Matrix or...
+
+Both, actually.
+
+I knew you would say that. By the way, thank you so much for the credits you're giving me. Obviously it takes a team to make this happen and I would give credit to all my fellow executives as well as all of the dedicated CalAmp employees. But in terms of our current operating profile, really in some ways, we're sort of peerless. I mean, we have such unique set of capabilities and core competencies and scale both in terms of hardware and in terms of software and services. There really aren't many other companies in the MRM space that have that level of experience and scale both on software and in terms of hardware devices deployed with customers in a range of different applications. I suppose the only company that has a similar operating profile would be Trimble, but obviously they're substantially larger than us and I would be pleased to be in their category from a market capitalization at some point in the future.
+
+But looking ahead three months, I think in some ways Trimble remains sort of an example of a peer company because they have fleet management applications for very high end, high value industrial markets. They also have their own hardware that they've integrated into those applications. They have a pretty substantial recurring revenue and subscriber base. So I think they again would be a reasonable peer, at least in terms of operating profile not necessarily in terms of revenue stream, market capitalization. But I think Trimble would be a good example of that three months from now.
+
+If I could be very specific, I understand based on a video I saw on YouTube that FleetLocate seems to be using CalAmp hardware based on data from the video. Could you confirm that FleetLocate is a customer?
+
+That's correct.
+
+And so, I guess is FleetLocate somewhat a similar operation to Fleet Matrix? Are these similar mousetraps to Wireless Matrix?
+
+I'm sorry. Do you mean Fleetmatics or Wireless Matrix?
+
+You know what, Wireless Matrix compared to FleetLocate, are these similar operations?
+
+Well, I believe FleetLocate is Wireless Matrix application.
+
+Okay.
+
+FleetOutlook. I'm sorry. My mistake.
+
+So FleetLocate is what you acquired, is that correct?
+
+No, FleetOutlook is what we acquired.
+
+So how is FleetLocate similar to what you acquired? Is it the similar mousetrap or a completely different operation?
+
+I don't know all the intimate details in terms of that application. So I really can't accurately answer the question.
+
+And could you comment on the market share of Wireless Matrix, is it 5%, 10%, not really being disclosed?
+
+I can't estimate the exact market share. Depends on how you dice and slice the market.
+
+And then seeing the ARPU is publicly disclosed in the annual report, could you comment what type of savings people receive when they pay the ARPU and what kind of customers you tend to have?
+
+Well, we've done some analysis historically and the return on investment in terms of the fleet solution could be months, certainly less than a year. So even with ARPU service, software, hardware, bundled, amortized at $30 a month, ROI tends to be very positive and very short-term.
+
+But just to kind of really be specific, if someone is not purchasing a Wireless Matrix solution, who else will they be go into instead?
+
+Well, depends on the market segment. Enterprise customers, I mean, there are options such as SageQuest, which is part of Fleetmatics, WebTech, others. In terms of the small-medium business applications, which are kind of lower end, dot on the map types of fleet, [Ford Applications], Fleetmatics and a whole number of others.
+
+So you're not running into SkyBitz? You're pulling a different theme it sounds like?
+
+No. Again, we don't own Wireless Matrix yet, but to the best of my knowledge, SkyBitz has not been a major competitor on either the enterprise side or necessarily on the small and medium business side.
+
+All right. Thank you so much. Congratulations.
+
+Thank you.
+
+Thank you. Our next question is from Peter Castellanos of Glacier Partners. Please go ahead.
+
+Yeah. Hi. Thanks for taking my call. Just a couple of questions, first of all, does the Wireless Matrix acquisition give you any OEM sort of potential?
+
+It depends on what type of OEM. Automotive OEM? Unlikely.
+
+But I was thinking more about on the ag side and also on the mining side.
+
+There is some possibility that OEM opportunities are probably more likely with that type of fleet application or asset tracking application or portfolio. But we're already trying and working hard, and in some cases making progress in trying to cultivate some of the players in those markets with hardware devices.
+
+Okay. The other question is just to the quick check on this Wireless Matrix, just looking at it, and it looks like their revenues are down, the last reported number was down. And I think they lost a $1 million or $2 million versus $700,000 in the last reported number I saw. Is that – am I looking at the right company?
+
+Probably, they're public.
+
+Yeah.
+
+It's harder...
+
+It's $0.30 to $0.40 stock trades in Canada.
+
+Yes, it was listed on the Toronto exchange.
+
+Yeah.
+
+You really have to kind of break down those numbers and look at it in its piece parts. There are kind of three key components to the revenue stream – actually four. One is their application subscription revenue is basically the SaaS revenue. Another are wireless services in support of those SaaS applications, which they break out as a separate component, if you dig through the financial report. The third piece is amortized hardware revenue. And the fourth piece is data subscriptions to – for satellite subscribers.
+
+The subscription revenue, the SaaS revenues has actually increased on a year-over-year basis. And I believe it also increased on a sequential quarter basis. The hardware revenue has been declining. Once upon a time up in through I think 2010, they actually designed and developed their own hardware, relatively high-cost proposition. And so, they amortized that hardware across with those customers that utilized that hardware. And that hardware revenue has actually been declining.
+
+Yes.
+
+As they resell third-party hardware like CalAmp's hardware. They also have not been selling new installations of Satellite or even dual-mode Satellite cellular-based hardware to existing rail or utility customers because they've been going through a product line transition. And if you look at the airtime or the data services revenue, last year, they kind of had a one-off benefit in terms of airtime over – just one of their major rail customers. So it makes the year-over-year comparables look a little bit undesirable. So the key factors we're focused on are the market applications, the channel compatibility, obviously the margin accretion, the ability to eliminate certain operational expenses, including public company expenses. But one fundamental item that we're focused on is the opportunity to grow subscription revenues and they've been doing that.
+
+And then the – I think earlier in the call, you mentioned you could do about $30 million – I think that's what you – I think that was the number that you gave out...
+
+Yeah, that's approximately their trailing 12-month revenue stream.
+
+That is their trailing – because it didn't look like it was that high to me, but I just looked at it really quickly, and it wasn't penalized. So what sort of a growth rate do you think – I mean, is there – do you have an idea how fast you can grow that company...
+
+Well, I can give you just a number in terms of their application service revenue growth and year-over-year it was 14%.
+
+Okay.
+
+Given the amplification to channel access that CalAmp's going to bring to the party, we would expect to grow faster than that obviously.
+
+And once again not knowing a lot about these companies, but looking like, it's – it is not – it's a dollar stock and it's – then the chart on it looks like it just crashing, was the seller really motivated at this point or was it – or how – could you describe the negotiation.
+
+It's a good question. They had decided to embark on a strategic alternatives process almost a year ago. So they explored various options potentially breaking the company in two parts or selling the entire company and dissolving the corporate shell. I guess that the shareholders, the board of directors and the shareholders decided that it was best to consider transacting the entire company in dissolving the corporate shell.
+
+Okay. Thanks very much.
+
+You're welcome.
+
+Thank you. Our next question is from Michael Needleman of Preservation Asset Management. Please go ahead.
+
+Good afternoon. Just a couple of questions. On the expense aspect, you state in your comments that the fourth quarter that is going to be a little bit of higher expenses on twofold. One is from the acquisition cost, but the second is on the R&D. Should we kind of expect that level of R&D spend to stay at that level?
+
+We have talked many times in the past about the fact that 10% of Wireless DataCom revenue should be what we should be investing in R&D. Our revenue has been growing so rapidly in that segment. That it's really been hard for us to keep up in terms of filling open positions to support our long-term growth initiatives, product developments in that regard. So Q4 is going to be a little bit of catch-up in that sense, but we don't expect our R&D's percentage of revenue within the Wireless DataCom segment to exceed 10% of revenue. We've been a little bit behind that. And on a consolidated basis obviously we're a little bit less because we spend less than 10% of revenue in R&D in our Satellite segment.
+
+Just – and just to kind of come back to the gentleman's before me asked question, I thought you said that overall SaaS revenues for the company would be approximately 20% of the overall revenues. Did I hear that correctly?
+
+Yes, you did.
+
+Okay. And the margin of that business is for...
+
+Let me back up, subscription revenues...
+
+Okay, subscription revenues, not SaaS?
+
+Well, most of it's SaaS, but because of – there are certain customers that we're going to assume from Wireless Matrix that are pure data service customers, don't necessarily buy a software application.
+
+Yeah.
+
+Or subscribe to a software application, so when we talk about subscriptions, we're including the data services component. But most of that 20% will be SaaS-based revenue.
+
+And that revenue base, I think you just said grew north of 14% year-over-year and you think that that's going to, at least for Wireless Matrix, you believe that that's going to accelerate given the opportunities that you have at CalAmp, is that what I thought you said?
+
+They didn't grow more than 14%. They grew 14% per their...
+
+Year-over-year.
+
+Yeah, year-over-year. We believe that the significant channels that we developed that are highly compatible with the core applications that they serve from a fleet management and asset tracking perspective should amplify the number of opportunities that come in to that pipeline.
+
+Okay.
+
+So in that sense, yes, we believe we can exceed that 14% rate of year-over-year growth.
+
+Two last questions. What's the current head count of Wireless Matrix?
+
+Approximately 100 employees.
+
+And the last question is, the acquisition that closed I think about three quarters ago, and believe it was on track for north of $25 million, can you share with me the organic growth rate that happened in that business this quarter?
+
+Sure, well, first of all, that acquisition was the Navman Wireless Hardware acquisition.
+
+Yeah.
+
+It was roughly a $5 million acquisition.
+
+Yeah. $25 million in sales is what I meant, Michael, I'm sorry.
+
+Well...
+
+Five years.
+
+Over five years, yes, over five year...
+
+Five-year supply agreement, minimum five-year supply – minimum of $25 million of product purchases. So just in our third quarter, we realized about $2.6 million of revenue as part of that supply agreement.
+
+Great. Fantastic job, guys.
+
+Thank you.
+
+Thank you. Our next question is from Shai Dardashti with DCM. Please go ahead.
+
+Hi, Michael. I'm still – I'm at the wirelessmatrix.com website, I'm seeing Federal Gas and BP are both apparently customers. I'm wondering if you have the products specifically for tanks monitor – for tanks and for gas, specifically?
+
+From a hardware perspective?
+
+I think so. Are you targeting the tank space or is that coincidental?
+
+In the oil and gas space, our products are used in all sorts of different things. I mean, we – I know there is one application, it's fracking, hydraulics tank monitoring, it's pipeline flow monitoring, it's security, there's a whole range of applications or products support in the oil and gas space.
+
+And I think based on that question, I'm seeing the ARPU in the annual report has been declining over time. Is that because of price reduction or because of the client mix change over time?
+
+I think perhaps it's a little bit of both.
+
+Has there been any price increases in the past or is pricing power or not the first priority?
+
+I think as in all technology based application, you expect to see price declines over the lifecycle of opportunity. But they haven't been what I'd term precipitous. I don't see that that market is becoming aggressively more competitive.
+
+And can you comment on the cost structure of the service? Are you paying a wireless communication fee? I mean what is your cost of goods sold for the service component?
+
+That's a great question because we haven't talked about that yet, but we see an opportunity to bring a much lower cost kind of airtime package to Wireless Matrix offerings based on our substantial scale.
+
+Yeah.
+
+And so with mobile applications we currently serve, we think there's definitely some cost of sale economies to be realized there.
+
+Could you comment if it's over/under a certain price point. Is it $2.50 cost per month or is it a $4 cost per month? Is there a range of what the cost is at the moment?
+
+It really, really depends on the data usage profile.
+
+All right. Thank you very much.
+
+Thank you. We have no further questions in the queue at this time. I would like to turn the floor back over to management for any closing remarks.
+
+Well, thank you again for joining us today. We look forward to speaking with you at the end of the fourth quarter and happy holidays.
+
+Thank you. Ladies and gentlemen, this does conclude today's teleconference. You may disconnect your lines at this time. Thank you for your participation.

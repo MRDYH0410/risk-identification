@@ -1,0 +1,327 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+Jeffrey P. Lucas — Chief Financial Officer, eMagin Corp.
+Andrew G. Sculley — President, Chief Executive Officer & Director, eMagin Corp.
+Aaron Martin — Strategic Advisor, AIGH Investment Partners
+Michael Fawzy Malouf — Analyst, Craig-Hallum Capital Group LLC
+Nehal Sushil Chokshi — Analyst, Maxim Group LLC
+Kevin Dede — Analyst, H. C. Wainwright & Co. LLC
+
+Management Discussion Section
+
+Question And Answer Section
+
+Good morning and welcome to the eMagin Third Quarter 2017 Earnings Conference Call.
+
+All participants will be in listen-only mode. [Operator Instructions] After today's presentation, there will be an opportunity to ask questions. [Operator Instructions] Please note, this event is being recorded.
+
+I would now like to turn the conference over to Jeff Lucas, Chief Financial Officer. Please go ahead, sir.
+
+Thanks. Good morning, everyone. We are very glad to have you join us today for our third quarter 2017 earnings conference call.
+
+During today's call, we may make forward-looking statements as defined in the Private Securities Litigation Reform Act of 1995. These forward-looking statements are based on the company's current expectations, projections, and beliefs and are subject to a number of risks and uncertainties.
+
+Such statements include references to projections of future revenues, plans for product development and production, the company's ability to ramp up production, future contracts, product benefits, operations, future financings, liquidity and capital resources, as well as statements containing words like believe, expect, plan, target, et cetera.
+
+You should not place undue reliance on these forward-looking statements because they involve known and unknown risks, uncertainties, and other factors that are, in some cases, beyond our control. Please refer to our earnings release for the third quarter of 2017 and the company's filings with the Securities and Exchange Commission for information concerning factors that could cause actual results to differ materially from those expressed or implied by such statements. We undertake no obligation to update or revise any forward-looking statements to reflect future events or circumstances.
+
+With that, I would like to turn the call over to eMagin's Chief Executive Officer, Andrew Sculley. Andrew?
+
+Thank you, Jeff, and good morning, everyone. Thank you for joining us on the call today.
+
+We've experienced a heightened level of activity in the third quarter both in our commercial initiatives as well as in our military programs. While this was not reflected in our financial results for the period in part due to a manufacturing issue that we've resolved, our activities during the quarter enabled us to achieve major milestones towards the commercialization of our display technology in the consumer sector and positioned us well for the stronger performance in our military business in the quarters ahead.
+
+In particular, we believe our accomplishments with multiple consumer partners demonstrate the critical role eMagin's display technology plays in driving the AR/VR market to the next level. Based on the attention and feedback that we've been getting from consumer Tier Ones, chip companies and mass production partner prospects, I have heard and believed that our direct patterning technology which yields full-color, high-brightness and high-pixel density microdisplays is a key element for enabling the next generation of AR/VR.
+
+Display quality, as I'm sure all of you are well aware, has been a major impediment to delivering high-quality AR/VR for the mass market. We have the ability today to produce OLED microdisplays that solve this problem and are working feverishly with Tier One consumer companies, headset creators and volume manufacturers to enable this technology for the mass market.
+
+Also, we had anticipated a pickup in our military business and are very encouraged by the heightened level of activity in the third quarter and continuing in the current quarter. Overall, we've booked over 90 new orders, totaling $6.5 million in the third quarter. 60 were follow-on orders from existing companies and 30 additional orders from new and existing customers from new projects. As a result, we have a backlog today that's over 40% greater than we had at year-end and puts us in excellent position for fourth quarter and going into 2018.
+
+As we have said previously, we see aviation as a new and expanding market for us where we are gaining solid traction and establishing a strong presence as a key player. We completed the preliminary design review, as well as the Critical Design Review with a major aviation prime contractor for an OLED upgrade to a fixed wing production helmet that will eliminate the reported green glow problem.
+
+In fact, it was recently reported that test F-35C pilots reported that there was no green glow present in the new OLED helmet displays during evaluations done in September and October. Flight testing of the OLED helmet continues, and we believe that there are many other opportunities for us in aviation where our microdisplays will prove to be superior to LCD and CRT displays.
+
+From our press release today, you can get a sense of some of the other aviation programs that we are supporting with our extremely high-brightness and extremely high-contrast OLED microdisplays for aviation. No other display we have seen comes close to the combination of brightness and contrast that our displays exhibit.
+
+We continue to improve our product technology. I'm happy to say that we have been able to reduce our power consumption on high-brightness color displays by more than 20%, while increasing the brightness beyond 5,000 nits. We have a new VP of Operations and he has already made some important changes in our manufacturing processes. As well, we have new equipment on order that we expect will help us improve both yield and reduce cycle time.
+
+We believe, we can continue to support our military programs, as well as our R&D efforts on our current equipment and we are working towards agreements with respective manufacturing partners to support the future commercial demand when AR/VR become mainstream.
+
+As you know, we started a next-generation display design for future AR/VR devices earlier this year. While this effort is for a consumer electronics company, we believe that this design will enable us to serve the wider AR/VR market. We already have another company interested in helping us with this display and using it for their own reference design. This will move the display forward faster and result in multiple companies using a common display.
+
+Our relatively new Original Design Manufacturing or ODM program initiative focuses on this common display design as a means of enabling the reference design and ODM programs of multiple partners in the consumer and enterprise segments.
+
+We're also working on a compact interface for our 2K x 2K microdisplay for system integrators to quickly insert into optical solutions. This new hardware is expected to be introduced in the marketplace in the second quarter of 2018. It will enable our customers to more quickly use our displays in their HMDs. The 2K x 2K full-color microdisplay we demonstrated at SID – that's the Society of Information Display (sic) [Society for Information Display] (00:08:00) – is the highest-brightness, highest-resolution microdisplay we have seen. It also has capabilities that the consumer market requests of us like global addressing and moveable window.
+
+With that, I'll turn the call over to Jeff, who will review the financials with you, as well as highlight some of our recent wins that are contributing to our growing backlog. Jeff?
+
+Thank you.
+
+As Andrew mentioned, our overall performance this quarter was impacted by machine-related issue earlier in the quarter that has since been resolved. We have a new Head of Operations who is making significant improvements and upgrades to our processes. In addition to that, we have new equipment on order which we expect will be delivered by year-end and which will be fully integrated and operational in the second quarter. These upgrades should help us improve yields, increase production volumes and reduce downtime.
+
+Now, let's take a look at the financials. Revenue for the third quarter was $4.3 million, relatively flat with the same period of 2016. Breaking down the revenue components, product revenue increased by $500,000 or 14% to $4 million versus $3.5 million in the third quarter of last year. This increase was due to stronger demand by our international customers, as well as an increase in display revenues from our new U.S. military programs, offset somewhat by the previously mentioned production issues which has since been resolved.
+
+Contract revenue decreased to $266,000 from $769,000 in the third quarter of last year. This decrease was due to the greater volume of work performed in the prior-year quarter on military contracts particularly on the ManTech program. For the nine months ended September 30, 2017, contract revenue was up 15% compared to the same period in 2016.
+
+Gross margin for the third quarter was 7% on gross profit of $278,000 compared to a gross margin of 30% on gross profit of $1.3 million in the prior year period. This is primarily due to lower product revenues and gross profit resulting from volumes and higher unit costs associated with the production issues in the quarter. Contract gross profit was $66,000 or 25% of contract revenues as compared to $291,000 or 38% of contract revenues for the comparable 2016 period.
+
+Now, moving to our expenses. Total operating expenses for the third quarter of 2017, including R&D expenses decreased to $3.2 million or 14% from $3.7 million in the third quarter of 2016. R&D expenses in the quarter totaled $1.3 million or 30% of revenues compared to $1.7 million or 40% of revenues from the year-ago quarter. Selling, general, and administrative expenses or SG&A, decreased $71,000 quarter-over-quarter to $1.9 million compared to $2 million in the same quarter of last year.
+
+Operating loss for the third quarter was $3 million versus an operating loss of $2.4 million in the second quarter of last year. Net loss for the third quarter of 2017 was $3 million or $0.09 per diluted share, compared to net loss of $2.4 million or $0.08 per diluted share in the third quarter of 2016. At the end of the third quarter, the company had cash of $2 million, working capital of $10.6 million, and borrowing availability under the ABL credit facility of $3.8 million.
+
+Now, taking a deeper dive, we are pleased with our progress, signing agreements with multiple Tier One consumer products companies for the development and licensing of our technology. We are engaged in ongoing discussions with other Tier Ones as well as potential high volume manufacturing partners, some of whom have stepped up their interest after our recent announcement.
+
+So, while we are excited about where we are today, we believe there is much more to come with respect to the commercialization of our direct patterning technology.
+
+Now, I want to take a moment to review some of the recent wins that we outlined in the press release. The 90 new contracts we signed during the quarter were across a spectrum encompassing U.S. military, foreign military and commercial business. Among the larger wins in the quarter was a multiyear $1.7 million order from a European military prime contractor to provide displays for a see-through, augmented reality HMD to support airborne and ground mission requirements.
+
+Going to the fourth quarter, we are continuing to see strong bookings. We received a $1.5 million order to support the Light Weight Thermal Sight program with deliveries expected to begin in 2017. And we were just recently awarded a follow-on contract worth over $3.7 million for the Army's Enhanced Night Vision Goggle III and Family of Weapons Sight-Individual programs. We have participated in these programs in the past and are excited to have been selected again.
+
+As Andrew mentioned, we are making significant inroads into the aviation market. This has become a significant source of revenue for eMagin. In addition to the F-35 helmet upgrade incorporating our OLED displays, we are also supporting a major U.S. army helicopter helmet upgrade program and will retrofit our high-brightness microdisplays into the current fielded helmet.
+
+Finally, we are delivering our high-brightness 2K x 2K microdisplays to a major foreign contractor for use in a prototype aviation helmet, we received a production order for a multiyear program from a foreign aviation prime contractor to supply high-brightness microdisplays to upgrade an existing fixed wing helmet program.
+
+Overall, much was accomplished this quarter that positions 2018 to be a transformative year for our company.
+
+And with that, we will now address your questions.
+
+We will now begin the question-and-answer session. [Operator Instructions] Our first question comes from Mike Malouf with Craig-Hallum Please go ahead.
+
+Great. Thanks for taking my questions. I'm wondering if you can go just a little bit more into the issue of manufacturing. And I'm just kind of trying to understand how that is behind you and whether or not that there's any risk going forward on that. Thanks.
+
+That's an easy answer that I can give you here. We have a – for this particular tool, it's a little ways down in the process. There are actually two tools that we have, and one went down. And what we're doing now is – and it was hard to get the spare part. It was a long time to get the spare part.
+
+So given our new manufacturer, I know this seems obvious to him that we're looking at all the tools and saying, what spare parts should we have on the shelves, so it can just be put in immediately? And that's just one of the many things that he's doing for us.
+
+Okay. Great. That's good to hear. And then you talked about 2018 being transformative for the company. I'm wondering if you could just go through what kind of milestones as we look into 2018 that we should all be looking forward to?
+
+Well, we can't give you exact dates and forgive us for that, because – two reasons. One, we're not allowed, and they're also very hard to predict. But we are working on the projects with numerous companies. And you will remember that we had said that we signed an agreement with a company to design the display. So we will be much further along on that in 2018. And that display – we actually mentioned in the call that that display can be used for many different companies, and that's what we're going to do.
+
+The other thing is that we're working on a manufacturing partner which is important for us for mass production. And we have a number of companies we're talking to and we are getting close to that. But that's a difficult thing to set up, so we don't want to give you an exact date there.
+
+Okay. Great. Thanks for taking my questions.
+
+No problem. Thank you.
+
+Our next question is from Nehal Chokshi with Maxim Group. Please go ahead.
+
+Yes. Thanks for taking my question here, and congrats on signing that deal that you press released on October 31.
+
+Thanks, Nehal.
+
+On the last earnings call, you talked about having great confidence that eMagin will have an additional agreement by year-end with a major consumer electronics company. And I know you're working with many consumer electronics company, but does this agreement that you announced effectively put that stake in the ground that you did indeed deliver on that, or are you referring to something else?
+
+No, we actually – that's one that we mentioned. And actually, if I remember precisely in last conference call, we said we might have two, and that's still true.
+
+Okay. Very good. So the next thing is that, on that press release there, it said that you expect it will generate licensing revenue if the company commercializes eMagin's technology. And I guess the key issue here is that there's this if, and of course you have to have the if, but nevertheless it is there, and it goads uncertainty. So, I'd like to explore what are the elements of uncertainty, and perhaps you can help us also size up what's the probability of those risks playing out?
+
+Let me answer that one, you're absolutely right. We are – we have got to be very, very careful, of course, on what we say in these releases, because the other party wants to maintain as much confidentiality as possible. And quite frankly, there are a number of factors that can come into play, but these are all your standard factors, whether what happens to the market itself, what happens to various players in the market, what happens to requirements.
+
+But from the standpoint of what our technology provides and our displays offer, that's pretty clear, and these folks have all done very, very extensive diligence. It's been really a painful process in many respects, and they're going ahead [ph] with us (00:18:57).
+
+So, that speaks to a very high level of confidence, and I would argue, minimal risk from the standpoint of technology. The question more so is what happens with the markets overall and where they're going. That's why we put that in there.
+
+Got it. Understood. Last question on this topic, [indiscernible] (00:19:16) licensing revenue, but what about product revenue? Do you also would expect that to fall on as well, or is it just purely a licensing deal?
+
+The product revenue is a function of mass production partner. So, we don't want to guarantee anything in that press release, but we are working like mad to get a mass production partner and also get product revenue.
+
+Okay. And can you provide an update on the progress with getting that mass production partner?
+
+There's a few companies we are talking to, and there's great interest.
+
+Okay. [indiscernible]
+
+(00:19:53). And by the way, these are complex discussions that I'm sure you can appreciate, but clearly the success we've had signing on these Tier Ones so far, [ph] speaks (00:20:03) volumes and really heightened the interest among these mass production partners. But it's a long negotiation process with a lot of give and take, and we are in the midst of that right now.
+
+Sorry, I do have one more follow-on question. Do you think that your time to market as the customer comes to you and ask you to customize a particular design, would be improved with signing a mass manufacturing partner?
+
+No, that's plausible, because we could make it immediately, but the design – the long-term design item is really the backplane. And we've designed many different backplanes, and as we mentioned earlier, we are designing a backplane that can be used for multiple companies, and there is multiple companies interested in that display design.
+
+So, I think it would help us with a mass production partner to move forward on making samples, et cetera. But the design itself takes a little time.
+
+Okay. Great. Thank you very much.
+
+You're welcome. Thank you.
+
+Our next question is from Kevin Dede with H.C. Wainwright. Please go ahead.
+
+Good morning, gentlemen.
+
+Good morning.
+
+Hi, Kevin.
+
+Yeah. Andrew and Jeff, you quantified the backlog change versus end of the year. Just kind of a housekeeping question, I [indiscernible] (00:21:29) it, but I'm wondering if you could give us some insight on how it's changed since the June quarter?
+
+That was changed since when, I'm sorry?
+
+The June quarter. Just, how many – what was the increase in orders just through September, I guess, is the other way to look at it?
+
+Oh, we've had a substantial increase in orders and more importantly even the activity in large part, the size of those orders. So, we referenced the 90 new orders that we had during the third quarter itself. That obviously happened on June 30.
+
+But we're really seeing quite a change here, because we've talked many times over the past year about these military programs beginning to ramp up, and we are seeing that in hand right now, particularly the activity not only towards the end of the third quarter, but what we're seeing and reported upon so far in the fourth quarter, and that's continuing, [indiscernible] (00:22:20) a lot of activity there.
+
+On the same note, though, we're also seeing a great deal of activity happening on the foreign front as well, as a lot of our sales folks, our business development folks now are really beginning to expand upon their efforts and activities in the foreign markets, and that's creating a number of opportunities, many of which we reported, and hopefully we expect more to come.
+
+And as a part of that also, we are continuing to see a fair amount of activity on the commercial side as well, as we're continuing to explore, and these are long lead times. We've been working with these things for several months, in some cases more than a year, and now they're beginning to bear fruit. So, I'm pleased to say, quite pleased, that after all our efforts here, now we're starting to get the yields from that, and that's really beneficial for us.
+
+So, we are – we do feel it's been a bit of an inflection point from what we were in terms of our bookings in the first half of the year as things have picked up quite dramatically in the second half.
+
+Okay, Jeff. Yeah. Thanks. I appreciate that tremendously. I'm wondering if you're willing to add dollar terms to backlog? Can you give us that number for the third quarter and for the second quarter in dollar terms? And is that something you might consider offering going forward?
+
+I – we will gladly consider offering that going forward. I think at this point in time, I don't want to give the hard numbers here. I recognize that once we do that, we'll be committed going forward. And while we have a very positive outlook for the company right now, clearly, anything we do we want to commit to in terms of an ongoing basis with the investor community.
+
+So, at this juncture, no. We do talk about our backlog at year-end. We do a year-end reporting, and we will do that again. And we will take under consideration certainly your suggestion and we'll provide a little more detail there. But at this point in time, we've got a lot of very good things happening, we've communicated that in our earnings release, we feel there's more to come, but I don't want to actually just go to the point of giving you the hard numbers quite yet.
+
+Fair enough. Thanks, Jeff. Can you quantify maybe a little bit to Mike's question on the manufacturing issue? Is there – I mean, when did you notice it? How long did it take you to respond? I guess you won't be fully respond until the second quarter next year. Is that how I understand it?
+
+No. No. No. No. Not at all. It's a tool goes down, because of a part and it was down for about a month because of the difficulty getting the parts. And we now are putting those on the shelf as we speak, and we're going through every single tool we have to make sure that doesn't happen again. That's the advantage of getting a guy in who has 30 years' experience in manufacturing. And prior to this, he was a wafer fab manager. So he ran a 300-milimeter wafer fab. He's a good guy.
+
+And just to add to that a little bit here, it impacted us really in the month of July and the beginning of the month of August. So we're back up to speed now. We also have a second tool here as well. And what I think is critically important to speak to what our new VP of Operations here is doing, he's making a world of difference for us, is he is putting a lot of practice in place that he had established and he followed as a much larger predecessor company, that's really working in our favor here.
+
+And, Kevin, that is quite frankly key right now, because our orders are picking up, our customers are asking for shortened lead times, and thanks to the work that Joe is doing, our Head of Operations, we are able to meet that and achieve that with confidence, and that's why it's certainly important in terms of what he's doing.
+
+So, what is very problematic? As you pointed out, in the first month, primarily, of this quarter, but that's behind us, and we're taking a lot of measures now not only to upgrade our systems, but to ensure there [ph] won't be – to (00:26:04) minimize the risk of repeats of that.
+
+Okay. So you also mentioned that you have a new tool coming. Is that to run in parallel or...
+
+It's a different tool for a different purpose. As you can imagine, there are many tools in the line. This is going to do the following. I don't want to tell you what it is, so forgive me. But the tools coming in now, it's actually in now, and we're getting it up and running, is going to take a burden off, we're changing the process a little bit, and it's going to take a burden off of another process and make it cheaper, higher yield.
+
+Yeah. I'm glad you asked that. Let me clarify. My point being that we look at the whole production processes here, and we're actually taking measures, including that other tool, to avoid any other critical bottlenecks where there could be the risk involved.
+
+Okay. [indiscernible]
+
+(00:26:57) that other tool that was specific, it's an advancement of what we do today.
+
+Correct.
+
+Okay. So, in refining the manufacturing process and attempting to eliminate risk, do you think it makes it more transferrable? To me, that's the big question, right? You're trying to line up partners to help you manufacture to volume. And over the years, you hit a couple of spots here and there when you've gotten – you've had to work through manufacturing issues. And I'm just wondering, do you think you're at a point where you feel you could transplant that process into someone else's fab. And if so, when did you finally solidify that arrangement, how long do you think it will be – it would take you to get up and running?
+
+Certainly, we can transfer our manufacturing. We do have some different processes. So we would need to work with the mass production partner to put the tools in that could handle that. But I don't see that as a problem. I've been in a number of OLED efforts, and this one is certainly capable of being transferred somewhere else. It's not an issue.
+
+And how long does it take to build an OLED line is, you can go out and ask some of the people who build OLED tools, and that's 12 to 18 months. That's just an...
+
+Okay. So even if you were – Andrew, just as a ballpark, if you were to solidify an agreement with an outside manufacturing partner, it might not be until about the same time next year that they'd be up and running?
+
+Well, there's a – that's a rational statement, unless of course the manufacturing partner had tools that satisfy the same requirements as ours. Right?
+
+Fair enough. Okay. So, conceivably, it could move faster?
+
+Yeah.
+
+Okay. So you also mentioned that there's a huge opportunity behind the F-35. Could you help me sort of get my arms around it? Do you mean that, I guess all the – the opportunity there is with that plane, no matter where it goes to, I guess our allies around the world? I just – I was just hoping you can help. And then, does that mean it could also be transferred to the F-22 or F-18 or whatever else might be flying and sort of it's a more fighter category?
+
+So, usually what happens is the product is looked at and tested, obviously, lots of testing. And then, they'll retrofit all the particular planes with the new helmet. And, certainly, as you read what we have put in the press release, you'll see there are other aircraft, both fixed wing and rotary or helicopters, and that is a natural thing that would happen. And, yes, it would go around the world.
+
+Okay. Fair enough. Could you give us a ballpark number on the number of consumer-facing companies that you're working with now?
+
+Now, there's about five of them, not counting the mass-production partners.
+
+Five companies that we're working very closely with. We are in discussions with more than that, though, at varying stages.
+
+Okay. And, clearly, one or two of them you've been working with for greater part of 12 months, if I have my figures straight.
+
+I don't know about the – yeah, maybe that's true. I don't know about the greater part, but, yeah, something like that.
+
+Okay. All right, last question from me, sort of a housekeeping issue again. Inventories have remained high, Jeff, and I know we spoke about it last quarter. I guess, what I'm wondering is what do you have there? Is there any danger that it gets stale, and over what period do you think it turns to cash?
+
+No, there isn't a risk that it's going to turn stale. And part of the reason we actually have higher inventories is because, actually, our yields were stronger this quarter than they've been in previous quarters. And so, that's actually worked in our favor here. But, we've got a number of initiatives in place actually for utilization of this inventory. It's now become a conscious effort of our business development folks. So, I would expect it to come – turn into cash, I think, holistically, over the next 12 to 18 months.
+
+Okay. Fair enough. Thank you very much, gentlemen, for taking all my questions. Much appreciated.
+
+Yeah.
+
+Our next question is from [ph] Dennis van Zelfden with Brazos (00:32:15). Please go ahead.
+
+Thanks. Good morning, Jeff and Andrew. [ph]
+
+Hello, Dennis (00:32:22).
+
+What is the level of confidence in signing another Tier One company to a licensing deal in, say, the next two or three months?
+
+I think that – that's a tough one to answer. I'd rather say that we're likely to get another Tier One interested in that display that we are designing. That would be a very likely occurrence and that a mass production partner would help with either as a licensing agreement or a display [indiscernible] (00:32:54).
+
+Dennis, first of all, the reason we can't provide an answer to that is because these negotiations take a long time, elongated. Things happen along the way with them, as you've seen in the past.
+
+Secondly, we are being careful with whom we sign these licensing agreements with. So, we're not just looking to do that willy-nilly, and not any Tier One company is going to be the right answer for us, and we recognize that. So, we're also being pretty careful in that selection process.
+
+Okay. You also mentioned and everyone knows that you're trying to line up a mass production partner. Is there going to be a mass production partner for each Tier One that you sign up, or will one mass production company accommodate anyone that you've got that you're working with?
+
+I think it's easier that one mass production partner accommodates the displays that we produce. That would make it easier to take care of our transfer of technology we talked about and the dominance in the market.
+
+And that's been the tenor of our discussions with them.
+
+Okay. No, that would totally make sense. I was just concerned that one Tier One would say, hey, no, I don't want this other Tier One's materials being produced alongside with mine. So, that's great. Thank you very much.
+
+Yeah. No problem.
+
+Our next question comes from [ph] Tom Maguire with Retail (00:34:23). Please go ahead.
+
+Hey. Good morning, Andrew and Jeff.
+
+Hi, [ph] Tom (00:34:28).
+
+I think, we all understand that there's this big pot of gold at the end of the rainbow. It's just that it's a really, really tough road getting there. And with that in mind, regarding the press release with the Tier One that you recently signed, the lack of quantitative detail in the press release is a sore point with investors. And I do know you have to be very careful with what you say because of the confidentiality of the Tier One. But, how might we as investors ascertain how attractive this deal can be and who it is with?
+
+It's really a tough one because some companies, as you might guess, are very sticky on what you can say and that's where we are.
+
+I'll just add a comment, [ph] Tom (00:35:26). You mentioned about getting to the end of the road or the rainbow here, we've outlined a roadmap here. We've outlined some of the steps along the way including signing the Tier One this year, and I just want to point out that we've achieved what we said we're going to do toward that roadmap.
+
+Okay. My second question is, can you discuss what are the gives and takes regarding doing a front-end deal and a back-end deal with Tier One? What do you give up, if you take a front-end deal? And also going forward with these five customers that you're in discussion with, how important is getting a front-end deal with one of them?
+
+So, help me out, just to make sure I know what you mean by front-end and back-end.
+
+Sure. Sure, Andrew. An upfront payment on the front-end versus royalty on the back-end.
+
+Okay. I understand. Well, in this case, we have different things going on, right? Royalty in the back-end is very good, but usually there are some design efforts, so upfront – or as you do the design effort, you get paid for doing the design effort. And that's really what we're seeing in this type of thing. And the other one we're doing is very much a design effort. We're doing the design and they want mass production. They want us to bring it to mass production. Of course, with a mass production partner. [ph]
+
+Tom (00:37:02), actually, it's a two-step process here. The first step is we have to wait, all right. [indiscernible] (00:37:07) cash today versus the – whatever that residual royalty arrangement we have on the back-end is. And quite frankly, at this point in time, the delta has been quite dramatic in terms of the upside we get in the back-end has been great, and the sacrifice we'd have to make to that to get some cash upfront which may not be that much, if there's, and that was pretty dramatic. That's one part of the calculus that we do here.
+
+And the second point is, all right, now, how does that weigh against what we anticipate our requirements being – funding requirements being upfront and whether we get that from a strategic, any discussions here, in terms of compromising some of the back-end royalties or residuals, or are there other sources to getting those funding.
+
+So, those are the two steps that we do in the process here, and we're always doing that continuously with every discussion that we have with our existing Tier One customers and the other ones that we're pursuing there.
+
+Okay. Thanks, guys.
+
+Thank you.
+
+And our next question comes from Aaron Martin with AIGH Investment Partners. Please go ahead.
+
+Hi. Good morning, Andrew and Jeff. Can you help us quantify the impact of the manufacturing issues? And talking about it impacting revenue, what kind of quantifications should we take what – a third of the quarter and maybe one or two machines we'd say and just do the math there and say that you had an impact of about a sixth, or how should we think about it?
+
+That's a reasonable estimate. However, note that whenever you funnel two things through the same machine, it's a little more impactful than that.
+
+And I'll be more concrete here. But, frankly, I think it cost us about $1 million of revenue in the quarter.
+
+Wow. In terms of now that you have it back up and running, do you think some of that gets pushed into the December quarter? What happened with that?
+
+Yeah. The answer to your question, yes. As a matter of fact, we saw more activity and higher level of shipments in the first month of this quarter. And we've actually seen, well, I think it's in the past – well, I only looked back five quarters, more than we've seen in previous first months of – I should say, in the first months of the previous five quarters. So, yes, we are making up a lot of that in this quarter.
+
+Got it. In terms of the inventory which is overgrown, is this increased activity allowing you to start working down that inventory and converting it into cash?
+
+That's part of that. But in addition to that, we would argue even more importantly that we've actually launched an effort in our part to find opportunities to how we can better utilize our existing inventory that we have on hand.
+
+And there are circumstances where that may involve, for example, we're doing some work now with a prism company to create an overall optics for some of our displays. That can certainly be another channel, an outlet that we haven't used in the past. So, our business development team actually is working quite aggressively in bringing that inventory down.
+
+In a previous question, I responded, I would say 12 to 18 months. I mean, I want to give you a very safe number there [indiscernible] (00:40:26) number. Our internal targets clearly are more aggressive than that.
+
+Okay. When you say bring it down, what's the optimum level on inventory? Want to bring it down to 90 days or what is the level of that in terms of a target of getting it down to?
+
+I'll bring it down actually rather [indiscernible] (00:40:47), I think we can still bring it down by a couple of million dollars.
+
+Okay. All right. Thanks a lot.
+
+Sure. Thank you, Aaron.
+
+This concludes our question-and-answer session. I would like to turn the conference back over to Andrew Sculley, CEO, for any closing remarks.
+
+Just one thing I wanted to make sure everybody understands how very exciting this opportunity is for us. There's a lot of press out there on this market, a lot of companies putting money in, even recent articles. So, it is an exciting time, and the belief is, by our customers, that this market will happen, and we are in a terrific position.
+
+There is no other company today that can produce what is needed by the market besides eMagin. And that's also why these companies are coming to us, and that's why these – the mass production partners are coming to us. Our display is an enabler for the market, and it is because it produces the quality, high brightness, and the pixel density that is absolutely necessary. And again, it is the only display in the market that can do that.
+
+So, I want to thank you all for taking the time with us, and appreciate your questions.
+
+Thank you, all.
+
+The conference has now concluded. Thank you for attending today's presentation. You may now disconnect.

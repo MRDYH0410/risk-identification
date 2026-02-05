@@ -1,0 +1,173 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+Michael Kandell — Chief Financial Officer, Wireless Telecom Group, Inc.
+Timothy Whelan — Chief Executive Officer & Director, Wireless Telecom Group, Inc.
+Sam Rebotsky — Analyst, SER Asset Management
+Michael D. Potter — Chairman & Chief Executive Officer, Monarch Capital Group LLC
+
+Management Discussion Section
+
+Question And Answer Section
+
+Good morning, ladies and gentlemen, and welcome to the Q3 Earnings Conference Call. At this time, all participants have been placed on a listen-only mode, and we will open the floor for your questions and comments after the presentation.
+
+It is now my pleasure to turn the floor over to your host, Mike Kandell. Sir, the floor is yours.
+
+Thank you. Good morning, everyone, and thank you for joining us for our third quarter 2019 earnings call. Before we begin, I would like to remind everyone on the call that our remarks today could include forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. These statements can be identified by the fact that they do not relate strictly to historical or current facts.
+
+The company's forward-looking statements are based on management's current expectations and assumptions regarding the company's business and performance, the economy, and other future conditions and forecasts of future events, circumstances, and results. Forward-looking statements are not guarantees of future performance and involve a number of risks and uncertainties that could materially affect actual results.
+
+Important factors that could cause the company's actual results to differ materially from those in its forward-looking statements include those risk factors set forth in the company's Annual Report on Form 10-K filed with the SEC. The company does not undertake any obligation to update or revise any forward-looking information to reflect changes in assumptions, the occurrence of anticipated events or otherwise.
+
+Also, we want to point out that in addition to GAAP information, we will provide information relating to certain non-GAAP measures. We believe that presenting these non-GAAP or adjusted measures provides additional meaningful information to investors which reflect how management views the business. Detailed reconciliations of non-GAAP measures to GAAP measures are set forth in a reconciliation table in our press release issued earlier this morning and furnished with the Form 8-K filed this morning with the SEC.
+
+I will now turn the call over to Tim Whelan, our Chief Executive Officer.
+
+Thank you, Mike, and good morning, everyone. Thank you for joining us. Our Q3 2019 results were lower than expectations, reflecting both project timing pushes, unexpected large opportunities, as well as unexpected hardware decreases. With these adjustments in mind, and given there are only six weeks remaining in the year, we are revising our guidance, and Mike will expand more here in just a few minutes.
+
+Our lower revenues in the second half of the year also do not reflect some of the terrific progress we have made, positioning the company for the longer term future. We maintain our conviction in accomplishing our goals of $100 million of revenues in 2023.
+
+On a strategic and operational level, we remain exceptionally pleased with our accomplishments throughout the year, which will be drivers to future longer term growth opportunities. Our increases in R&D spend in 2019 reflect our confidence and conviction in the roadmaps, and last quarter, we called out these investments in our software stack and 5G solutions.
+
+Our recent announcement last month of our 3GPP Release 15 compliant software stack will enable 5G small cell solutions and is a significant milestone and one which we have been discussing with current and future customers since the middle of the year. Additionally, as we plan for bringing to market our 5G solutions, we have also made progress with respect to our partnership ecosystem to accelerate 5G platform advancement and allow for customized private network solutions. This will enhance our competitive positioning for affordable customer needs of private network deployments.
+
+Our R&D progress has also translated to customer opportunity. In the last four months alone, we have qualified over 10 new funnel opportunities, some of which reflect over $1 million of total contract value. We are highly encouraged by the level of engagement by these firms, the willingness to enter into NDAs, and by an early stage win and purchase order, which is less than $100,000, for our reference development platform. This early purchase order is expected to be a first step to what could possibly be a larger longer term commitment.
+
+As a cautionary note, these discussions could take a long period of time to come to conclusion. We will not win every opportunity and some could result in a no decision or a push of timing. These solution sales could also take multiple quarters or even multiple fiscal years to fully deliver. But our direction and our strategy are showing some green shoots and we expect success on this front will lead us to the potential for higher margin software and development revenues which would offset declines of lower margin hardware cards.
+
+Last, we are exceptionally pleased to announce today the signing of a definitive agreement to acquire Holzworth Instrumentation. Holzworth is a Boulder, Colorado-based provider of specialty phase noise analyzers and signal generators, with revenues for the nine months ended September 30 of approximately $4.4 million. Holzworth instruments are used on the cutting edge of high technology research, development and production in government, commercial and academic environments, and used by blue chip customers in research and automated test environments.
+
+Holzworth solutions are adjacent to many of our Test & Measurement products. They serve a common customer base and we have common channel partners. We are thrilled to welcome the incredibly skilled founders and employees of Holzworth and believe their product offerings are a perfect complement to our specialty noise generation and higher performance radiofrequency power and measurement solutions. The Holzworth acquisition is aligned to our focus on the growth of Test & Measurement solutions, which will enable the future of wireless technology in radar, satellite communications, 5G and beyond.
+
+This acquisition is expected to drive future growth and accretive profitability by the attractive margins of the business. We expect to close this transaction in the months ahead. At which time, we will discuss this further. Looking ahead in longer term, we continue to see acquisitions as an important part of our long-term growth strategy and we see strong potential in the future M&A pipeline.
+
+With that, I'm going to turn the call over to Mike to walk us through the financials.
+
+Thank you, Tim. Good morning again, everyone. As Tim mentioned, this quarter's overall financial results were impacted by certain unexpected project timing delays, downturn in government orders, and lower sales by Embedded Solutions to one of our largest customers. Consolidated revenues for the third quarter 2019 were $10.8 million, which was a decrease of approximately 23% from the year ago period. Embedded Solutions revenue decreased 38.8% from the year ago period, as shipments of our digital signal processing hardware to one of our largest customers have declined. The customer unexpectedly changed the demand forecast for shipments in the last four months of the calendar year.
+
+We are currently working with the customer to understand the changes to demand drivers and to establish a more accurate forecast for Q4 in the first half of 2020. We have been informed that our hardware processing cards are designed into their 5G base station testing solutions, but we expect a lower number of digital processing cards in that solution. We are attempting to understand the 4G versus 5G product mix to get a better understanding of the demand going forward.
+
+Network Solutions revenue decreased 14.1% on lower large projects. These reflect large stadium builds for which we have received verbal confirmation we are designed into the configurations. The timing of completion is subject to delays due to multiple contracts between carriers, stadium and team ownership system integrators, and general contractors. Once those all – are all agreed, we believe purchase orders will flow.
+
+And Test & Measurement revenue decreased 18.7% on lower government shipments due to a delay in expected purchase orders for products related to an underlying three-year Navy contract, which we have already been awarded. Until such time as the purchase orders are received, we cannot ship or record revenue under this award.
+
+Our consolidated gross profit for the third quarter was $4.8 million or 44.6% of revenue, as compared to $6.5 million or 46.1% of revenue for the same period last year. Breaking this down by segment, Embedded Solutions gross profit margin increased as compared to Q2 of 2018, from 45.9% to 46.5%, due to a more favorable hardware mix and supplier price reduction actions for our digital signal processing cards.
+
+Network Solutions gross profit margin decreased from 43.8% in Q3 2018 to 40.6% in the current year period due to the competitive pricing environment impacting the entire industry, as well as lower absorption of fixed labor and overhead. And finally, Test & Measurement segment gross profit was flat at approximately 50%.
+
+On a regional basis, the Americas, which we define as Canada, the US, and South America, accounted for 67% of our consolidated revenue, while EMEA and APAC accounted for 29% and 4% of consolidated revenues, respectively. This compares to approximately 64%, 30%, and 6% of consolidated revenues for the Americas, EMEA and APAC, respectively, in the prior year period. The decline in APAC revenues from the prior year was due to an Embedded Solutions hardware sale into the APAC region in 2018.
+
+Our consolidated operating expenses decreased approximately $42,000 from the prior year period. Research and development expenses increased $152,000, due primarily to Embedded Solutions head count deployment on product roadmap initiatives, specifically, the 5G roadmap. Sales and marketing expenses decreased slightly on lower external commissions, offset partially by head count expenses. General and administrative expenses decreased $152,000 due to lower bonus expense and favorable foreign exchange impact at Embedded Solutions related to the British pound.
+
+Other income increased $168,000 from the prior-year period on foreign exchange gains. Interest expense decreased $55,000 from the prior year period due to accretion expense recorded in 2018 on the CommAgility contingent consideration liability that was paid on March 31 of this year.
+
+Overall, we recorded a loss of $600,000 before taxes as compared to net income before taxes of $700,000 in the year ago period. The decline was the result of lower top line revenue and resulting gross profit, marginally offset by foreign exchange gains and lower interest expense.
+
+Turning to the balance sheet, we are in a net debt position of approximately $200,000, which compares to a net cash position of approximately $3 million at December 31, 2018. This was due to lower volumes, the final purchase price payments for CommAgility in the amount of approximately $2 million, and working capital investments. Company's balance sheet remains strong, with a current ratio of 2.2 times and shareholders' equity of $31.3 million.
+
+At this time, I would like to turn it back over to Tim for some closing remarks.
+
+Thank you, Mike. In closing, the company expects revenue of $49 million to $50 million for the full-year 2019, excluding the impact of any acquisitions, and remains committed to executing against its organic and acquisition growth strategy to accomplish $100 million of revenue in 2023. Our strategy remains focused on market trends of growth, including network densification and 5G deployment, private LTE network expansion, and increased military and defense sector spend.
+
+The management team and the board are aligned to shareholders in these common goals. We are committed to the execution of the strategic and long-term operational plans now in place, and we believe we are well-positioned for successful achievement of our long-term goals.
+
+Thank you. And Paul, if you could please open the lines for questions now.
+
+Certainly. Ladies and gentlemen, the floor is now open for questions. [Operator Instructions] And your first question is coming from [ph] Jennifer Wolfertz. Jennifer (00:12:28), your line is live. Please announce your affiliation and pose your question.
+
+Hi. Good morning. It's [ph] Jen Wolfertz with Comstock Partners (00:12:34). Over the past year, you've been doing a lot of business development around 5G. And I'm just wondering if you could give us any additional perspective in terms of the 5G rollout, and specifically, where WT fits into the deployment and that kind of thing.
+
+Sure. So we said in the past, we're in the early stages of 5G rollout and I'll address this with comment through each for segments. Within Network Solutions, what we're seeing is demand for ultra-wide band solutions, whereby the RF passive solution set is expanding now to the spectrum that each of the carriers is using in their 5G deployments. The demand is on the design and the configuration of those components into their current build-outs. We feel that being very responsive to the customers and agile, we're meeting their demands, and our product set is moving towards those spectrums required for both 4G densification and advance of 5G.
+
+Within the Embedded Solutions segment, we are certainly seeing, and I mentioned very specifically, the enthusiasm that we have for the funnel of opportunities which has emerged, which is both a higher number of customer opportunities, as well as a higher level of total contract value. In fact, we did see customers in that segment come to a no decision in 2019, which we and they have attributed to a preference to wait to see what the 5G solution set which emerges in 2020. So, we see them very enthusiastic about that and they're willing to wait to 2020 before they make those commitments.
+
+Within Test & Measurement, again, we've talked about the requirement for higher millimeter testing. Within that segment, we're seeing somewhat of a robust level of activity in terms of the entirety of the test and measurement market, from the research, to design, to prototype and automatic test stage. So, we are seeing it across each of the segments. It's slightly different in each segment but we are seeing early 5G energy spend in each of those three segments.
+
+Great. Thank you. That's very helpful.
+
+Thank you. The next question is coming from Sam Rebotsky. Sam, your line is live. Please announce your affiliation and pose your question.
+
+Yes. SER Asset Management. Good morning, gentlemen. I guess the $49 million to $50 million that you're projecting, what was the previous projection for the year and the sales that you lost in this quarter? Do you expect them to be all made up in the next quarter or will they be made up subsequently?
+
+Yeah. Our previous guidance was an expectation of growth in the low to mid-single digit percentages on last year's revenue of approximately [ph] $50 million (00:15:33)...
+
+$53 million.
+
+$53 million. So, this revision down reflects both project timing pushes. So, Mike mentioned three contributing factors to the change in the outlook. The reduction of hardware cards, we're not sure what that volume is going to look like in 2020, so I'm not going to say that that's something that's going to be made up.
+
+Certainly, with Network Solutions and Test & Measurement, we don't see those as lost opportunities. We've been confirmed. I've personally confirmed with the design firm that we've been designed into these solutions. And once those contracts are in place at the higher level, appeals will begin to flow. So, we do believe those projects will come to revenue in 2020.
+
+Within Test & Measurement, Mike also very specifically called out the fact that we have a Navy award. We've won the award. They have over three years to purchase on that award. Coming into the year, we expect some of those purchase orders to flow in the second half. We have not seen those purchase orders yet. So, we think it's prudent to revise guidance with only six weeks left in the year. So, we also believe that that order and that business will come to us in 2020, and potentially, in early 2021.
+
+And as far as with the expectation of future improvement of sales, do we expect profitability on a quarter-to-quarter basis going forward? Now that we have a handle on what's going on, do we have the numbers in place where we could be profitable on a quarter-to-quarter basis, and as we reach the $100 million that you're projecting more significantly profitable?
+
+Yeah. We certainly expect greater profitability and operating leverage as we think about the full year. The quarter-to-quarter is always a little bit more difficult to challenge based upon the timing of the projects when they expect shipment, when they need shipment, when projects come to conclusion and acceptance by the customer. So, that's a little bit more challenging for us. But certainly, the way we have positioned our operating model, our expense structure, as we drive higher revenue, we are well prepared to drive higher profitability.
+
+And relative to this acquisition, will they operate in the same facility they're operating or will they be integrated? And will the sales staff sort of cross-sell your products or how – do you have any expectation there?
+
+Yeah, absolutely. Absolutely. There's an integration framework in place. We fully expect much of the corporate structure. This is a small company but we do expect most of the corporate infrastructure to be fully integrated. We do expect to maintain the facility in Boulder, Colorado. There's a terrific customer and government presence out in that part of the country and we think it's important to maintain that physical presence.
+
+Our sales teams and sales channels will immediately be able to implement this product set and bring it to the very same customers we're talking to now. So, we're very excited about this and very excited about the leveragability of this model and the ability to drive revenue where the contribution margin and incremental revenue drops right to the profitability line. This is a terrific company with exceptionally skilled people and we're thrilled to be in this position today.
+
+Thank you very much. Good luck going forward and achieving the profitability that Wireless has achieved previously. Thank you.
+
+Thank you, Sam.
+
+Thanks.
+
+Thank you. [Operator Instructions] The next question is coming from Michael Potter. Michael, your line is live. Please announce your affiliation and pose your question.
+
+Hey, guys. It's Michael Potter from Monarch Capital Group.
+
+Hi. Good morning, Michael.
+
+Hey, Tim. Just on, I guess, on the operations, on our three segments, are we below budget on all three segments for the first nine months and what you anticipate for the year?
+
+I wouldn't say in the first half of the year, we were necessarily below our expectations. We came into this year believing there was some backend loading, too, and I believe we've made some commentary on that in the past. So yeah, the change in expectation really did come about late in the Q – late in Q3 in terms of what the timing were of these large projects, the timing for the Navy, and of course, the volume change from our largest customer. So, I would characterize the first half of the year as being where we expected and that the change all really happened late in Q3.
+
+No, no. I understand that, but it is across the board in Network Solutions, Test & Measurement, and Embedded Solutions.
+
+Correct.
+
+Okay. Understood. The acquisition – first, congratulations. I know you've been working very hard for a long time, I guess, since the CommAgility acquisition to get another deal closed, and hopefully, you close this soon. Can you give us a sense as – this deal is immediately accretive under its current structure?
+
+It will be immediately accretive.
+
+Okay. And it fits with our Noisecom and Boonton business lines?
+
+That's correct. It's a direct line into our Test & Measurement segment.
+
+Okay. But it doesn't cannibalize them in any manner?
+
+No. No. In fact, we get excited as we think about their product set with our product set, how much more we could potentially do with the combined technology going forward. That's a longer term play and a longer term roadmap. But we think that over the next two years, just the immediate insertion of that product set into our channels gives us a much bigger product set to go to customers with.
+
+Okay. And I guess this is a – with the earn-out, it's $10 million.
+
+The cash component is $8 million. The equity is $500,000. Deferred purchase price is $1.5 million. So, you get to the $10 million there.
+
+Got it.
+
+You'll see the details in the 8-K about a threshold of $1.25 million, where the sellers have agreed that there is actually a claw-back element below $1.25 million. And so, you would have to believe there is a confidence level to drive higher than that. As you think about the earn-out at $2 per above $1.25 million of EBITDA, if we could drive the EBITDA profitability from $1.5 million to $2 million, the math reflects a $1.5 million earn-out. That would be $11.5 purchase price on $2 million of EBITDA and a pretty favorable multiple as we look at it.
+
+Okay. So on that realm, can you just give us a sense what the revenue is, what the run rate is or – for the trailing 12 months and run rate revenue and EBITDA for Holzworth?
+
+Yeah. So we've called out in the 8-K that for the nine months ending unaudited September, they're at $4.4 million...
+
+In revenue?
+
+In revenue. We have not disclosed the specific profitability metrics. I do mention that it's immediately accretive to the Test & Measurement segment. So with the Test & Measurement margins, where you see them gross margins, we expect to be accretive on top of that, which should give you some indication of how we think about some of the profitability.
+
+Okay. Okay. It doesn't really kind of get me there, but hopefully, we can get some additional information. [indiscernible] (00:23:40) this is a small deal, obviously, but it seems like a very nice bolt-on. How does the rest of the acquisition pipeline look and are we looking at deals of similar size, larger? Can you give us a little sense how you're progressing with that aspect of our business.
+
+Yeah. I mentioned that we're excited about the future potential in the M&A pipeline. So as I've said on the call before, it's an active part of our strategy. We are very active. We are in discussions but we've been in discussions for two years, and in fact, we've been meeting with the Holzworth team over the better part of two years. The benefit there is driving to a good deal for both buyer and seller, as well as getting to know the company very well. I would characterize this acquisition on the smaller size of our range and we're optimistic that we'll be making progress on others but there is no certainty of timing.
+
+Okay. I'll get back in queue. Thanks, guys.
+
+Okay. Thank you, Michael.
+
+Thank you. And there were no further questions from the lines at this time.
+
+Okay. Thank you, everyone, for joining our call today and we're looking forward to speaking again in the near future. Have a good day.
+
+Thank you. Ladies and gentlemen, this does conclude today's conference call. You may disconnect your phone lines at this time and have a wonderful day. Thank you for your participation.

@@ -1,0 +1,27 @@
+nohup: ignoring input
+[Paths]
+  IN_DIR : /home/ubuntu/project/identification/output
+  OUT_DIR: /home/ubuntu/project/predict/output
+  LOG_DIR: /home/ubuntu/project/predict/output/logs
+  VERIF  : /home/ubuntu/project/predict/output/verification
+  A_MIJ  : /home/ubuntu/project/identification/output/a_mij__sentence_ctx.csv
+  SENT   : /home/ubuntu/project/identification/output/sentences_scored_llm_ctx.csv
+[JSON]  /home/ubuntu/project/predict/output/logs/selfcheck_inputs.json
+[SELF-CHECK][inputs] {'a_mij_company_count': 192, 'sentences_company_count_total': 192, 'sentences_company_count_by_z': {1: 81, 2: 95, 3: 16}, 'companies_intersection': 192, 'companies_union': 192}
+[WRITE] /home/ubuntu/project/predict/output/logs/a_mij_clean.csv rows=3528
+[WRITE] /home/ubuntu/project/predict/output/logs/s_ijz_pool.csv rows=144
+[WRITE] /home/ubuntu/project/predict/output/logs/s_m_ijz_agg.csv rows=34300
+[WRITE] /home/ubuntu/project/predict/output/logs/labels_y.csv rows=192
+[WRITE] /home/ubuntu/project/predict/output/logs/fijz_logratio.csv rows=144
+[WRITE] /home/ubuntu/project/predict/output/logs/features_X_base.csv rows=192
+[WRITE] /home/ubuntu/project/predict/output/logs/features_prior.csv rows=192
+[WRITE] /home/ubuntu/project/predict/output/logs/features_full.csv rows=192
+[JSON]  /home/ubuntu/project/predict/output/logs/split_meta.json
+[SPLIT] train=154 companies, val=38 companies
+[INFO] LightGBM 未安装，跳过 LGBM。
+[INFO] XGBoost 未安装，跳过 XGB。
+[JSON]  /home/ubuntu/project/predict/output/verification/metrics_summary.json
+
+[Done] ✓ logs→output/logs, verification→output/verification, figures→output/
+         preds_multinomial.csv → output/  (沿用旧名，默认使用 LGBM 概率)
+         model_perf_compare.png → output/  (两模型验证性能对比)

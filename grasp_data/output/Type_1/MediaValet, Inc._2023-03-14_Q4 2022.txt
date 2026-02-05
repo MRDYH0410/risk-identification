@@ -1,0 +1,201 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+Babak Pedram — Founder & President, Virtus Advisory Group, Inc.
+Robert George Chase — President & Chief Executive Officer, MediaValet, Inc.
+Dave Miller — Chief Financial Officer, MediaValet, Inc.
+Gavin Fairweather — Analyst, Cormark Securities, Inc.
+Kiran Sritharan — Analyst, Eight Capital
+Neehal Upadhyaya — Analyst, Industrial Alliance Securities, Inc.
+
+Management Discussion Section
+
+Question And Answer Section
+
+Good afternoon, everyone, and thank you for joining us. Before we begin, I will read our cautionary note regarding forward-looking information. Certain information to be discussed during this call contains forward-looking statements within the meaning of applicable security laws, including, among others, statements concerning the company's 2022 objectives, the company's strategy to achieve those objectives, as well as statements with respect to management's beliefs, plans, estimates, and intentions, and similar statements concerning anticipated future events, results, circumstances, performance, or expectations that are not historical facts. Such forward-looking statements reflect management's current beliefs and are based on information currently available to management and is subject to a number of significant risks and uncertainties that could cause actual results to differ materially from those anticipated.
+
+Also, our commentary today will include adjusted financial measures, which are non-GAAP measures. These should be considered as a supplement to and not as a substitute for GAAP financial measures. Reconciliations between the two can be found in our MD&A, which is available on sedar.com and our website. We are joined today by MediaValet's CEO, Mr. Rob Chase, as well as the company's CFO, Mr. Dave Miller.
+
+With that, I will hand over the call to Rob to provide his opening remarks. Please go ahead, Rob.
+
+Thanks, Babak, and hello from Vancouver, everyone, and thank you for joining us for today's earnings call. I hope you've had a chance to review our press release and financial reporting materials, all of which are available on SEDAR. And sorry – apologies for the late delivery, but the mechanical issues, they are now resolved. But with me today is Dave Miller, our CFO. And together, we will provide a business update and review of our key financial and Software-as-a-Service highlights. We'll then open it up for questions.
+
+At the end of our call, I hope you will come away with a few key takeaways. Takeaway one, we've continued to build on our solid performance track record, with 36% growth in ARR for 2022 and a 43% five-year CAGR, that this growth has been achieved in the face of multiple years of challenging macro events is a testament to the resilience of our team, business model, and the overall customer-focused strategy. Takeaway two, the DAM market has also continued to show resilience, with the need for DAM building as a result of long-term tailwinds from the digital transformation that organizations must embrace to be successful in today's digital world. Takeaway three, we have the right team, focus and funding in place to execute on our growth plan and are tightly managing and aligning our operating costs to attain cash flow-positive operations. On that note, we are well on our way reporting a billings-based cash burn of just CAD 373,000 in Q4.
+
+Looking at the DAM industry, we continue to be excited by the possibilities. It is clear to us, our customers, and our pipeline of clients that DAM is increasingly becoming an essential tech layer in today's digital-first world. At the heart of every digital strategy is creating content that needs to be dynamic, fresh, exciting, on point, and consistently distributed across all internal and external platforms at the right time and in the right format. Sounds simple enough, but the sheer volume, velocity, and value of this content make it near impossible to accomplish without a DAM. Generally speaking, it's pure chaos without one.
+
+As a result, we find that organizations of all sizes are looking for a DAM solution to extend the life and value of their digital content and to rein in the costs with a fast ROI. To-date, this has mostly been a greenfield market opportunity, but we believe we're going to see increasing opportunities to disrupt legacy on-premise DAM systems as they tend to carry too much technical [ph] debt (00:04:17) to be a viable solution for today's DAM needs.
+
+At the same time, the use cases for DAM continue to increase beyond marketing into corporate brand and knowledge management. Extending DAM to solve for these many different use cases is a core focus of ours, that requires managing all types of assets with the necessary workflows to extend the life and value of both the content and the tech stack of tools that utilize the content. Through such focus, we will further scale and diversify our corporate revenue streams and become more essential to the organizations that use our DAM. Out of 36% growth in ARR and 101% net retention in 2022, it's clear that this focus is working.
+
+While with every exciting market opportunity comes plenty of competition, and DAM is no different in this regard. Through clarity of vision and inspired execution, we believe we will continue to rise above the competition and successfully build on our leadership position in this market. Our ability to do so is apparent and that we have been consistently increasing our market share and growing at near double the rate of the underlying DAM market, and a key part of this success is our mid-market solution focus.
+
+As you can see from this slide, 20% of our ARR is from large enterprise, 73% from mid-market and 10% from the SMB space. It is our unrivalled support, ease of use and innovative solutions that have enabled us to reach and support customers of all sizes around the globe. Putting that in perspective, our annual recurring revenue spans from [ph] $6,000 (00:05:58) a year to over $700,000 a year.
+
+The key attribute here is that all of these customers require an enterprise use case DAMs that is isn't just delivering a plain vanilla set of features, and this is where we differentiate ourselves. We believe that if we can be number one in adoption, we'll continue to earn a leadership share of the market. Adoption rates are indeed at the heart of our core product principles for DAM, which all center around helping our customers win through unrivaled support, ease of use, and innovative solutions.
+
+Our focus on customer value and maximizing adoption is working. Our customer base is rapidly approaching 500 customers, a milestone we'll surpass in Q1 of 2023. Our ARR and revenue performance speaks for themselves at 36% and 37%, respectively. Our annual contract value is continuing to grow, up 5% from last year to CAD 23,000 and is up 45% from our 2018 average. And finally, our net dollar retention of ARR was 101% for fiscal 2022, a record level for us, thanks to our low gross churn rates and the growing expansion opportunities within our customer base.
+
+So, to close my opening remarks, I'll leave you with a few examples of recent customer wins. First is an auto parts manufacturer. The manufacturing sector accounts for about 9% of our customer base. DAM is integral not only for product marketing materials, but also for various internal processes and manufacturing specs. Our Azure infrastructure, unlimited support and ease of use, really stood out for this customer in choosing their DAM. In addition, this is one of the early wins for our professional services team who will be instrumental in helping ensure the customer realizes the value of DAM. In turn, we expect this to increase the stickiness and expansion opportunities for the future.
+
+A media agency located in South Africa, which highlights one of our advantages of being able to provide data residency guarantees in 61 countries around the globe. This opportunity actually relates to manufacturing industry as well as the agency was required to provide a DAM in support of a Japanese auto manufacturing plant.
+
+A telecom provider in Canada. You can imagine the complicated telco matrix for digital content with an omni-channel network of B2B, B2C and full retail outlets. This telco is leaning into their digitization strategy and identified DAM as a key part of their tech stack. After a full evaluation, MediaValet stood out as a clear and simple tool that integrates seamlessly into their ways of working and into their current tech style. And all of these examples of our competitive opportunities generated through our direct marketing and sales efforts.
+
+With that, I'll pass it over to Dave to take us through some of our key metrics and financial results. Dave, over to you.
+
+Thanks, Rob, and good afternoon, everyone. Thank you for joining us today. I believe our Q4 and fiscal 2022 results highlight the effectiveness of our growth and market strategy and our operational plan. In Q4 2022, our revenue grew 41% to CAD 3.6 million, compared to CAD 2.6 million for the same period in 2021, and was up 10% compared to Q3 2022. While our Q4 operating costs were up just 9% to CAD 5.2 million, compared to CAD 4.7 million in Q4 2021 and 4% sequentially from Q3 2022, primarily reflecting inflationary and payroll adjustments as well as variable spend associated with higher revenue.
+
+Revenue year-to-date grew to CAD 12.8 million, up 37% from CAD 9.3 million in fiscal 2021, reflecting record net new ARR, or annual recurring revenue, and deferred revenue growth from ramping customer acquisition and net retention performance. Our operating costs for fiscal 2022 were CAD 20.1 million, up 26% from fiscal 2021 as a result of the operating expansion carried out in the second half of fiscal 2021. We ended fiscal 2022 with 98 staff, down from 102 at the end of fiscal 2021. As mentioned, we have been diligently managing our cost line to level it off after our step function increase in 2021. This gives us confidence that we will continue to unlock performance gains in our operating structure and will grow to cash positive operations within our available resources.
+
+Gross margins remained strong at 81% in fiscal 2022, down 1% compared to 82% in fiscal 2021 and within our 80% to 82% range. Note that our revenue and margins were not materially impacted by the strengthening US dollar in the second half of 2022 as most of our revenue is recognized ratably through deferred revenue, which is recorded at the exchange rate in effect at the time of customer billings. In other words, new billings in Q4 were done at a higher exchange rate than Q4 last year, which will flow through future quarter revenue and margins as the deferred revenue is amortized.
+
+Net loss for Q4 2022 totaled CAD 2.9 million, down 4% compared to the net loss of CAD 3 million incurred during Q4 2021. Year-to-date losses were CAD 11.1 million, up 17% compared to CAD 9.5 million net loss in fiscal 2021. The increase in the loss was expected and is primarily due to an increase in operating cost in-line with the company's expansion completed in 2021.
+
+Looking now at certain non-IFRS measures. Our five-year compound annual growth rate for ARR was 43%, as Rob mentioned. And we reported ARR growth of 36%, finishing fiscal 2022 at CAD 14.8 million, up from CAD 10.8 million in fiscal 2021. Net new ARR in Q4 2022 of CAD 1.13 million increased 35% from CAD 0.84 million in Q4 2021, an increase of 27% sequentially from Q3 2022.
+
+Fiscal 2022 net new ARR was a record CAD 3.94 million, up 79% from CAD 2.2 million in fiscal 2021. The increase reflects the company's expansion completed in 2021, strong net dollar customer retention of 101%, the strengthening US dollar and continuing market demand for enterprise DAM solutions despite the current macroeconomic environment. As organizations continue to implement their necessary digital strategies, an effective DAM becomes critical to reducing costs, requiring less people to manage media workflows and ensuring continuity in difficult times.
+
+Importantly, the strong new customer and net retention performance led to fiscal 2022 total billings of CAD 15.5 million, up 41% from CAD 10.9 million in fiscal 2021, exceeding our revenue and ARR growth rates. This is important to note as billings gives us a better indication of the ramp in cash flow that we are generating, which is key to understanding our path to cash flow positive operations.
+
+Sequentially, our Q4 billings were up 49% over Q3 levels, reflecting our seasonally strongest billings quarter due to our renewal cycles and the [ph] culmination (00:14:22) of our annual new business initiatives. In fiscal 2022, our billings-based cash burn was CAD 7.8 million, up 10% from CAD 7.1 million in fiscal 2021. But importantly, as a strong – as a result of our strong Q4 billings, our Q4 2022 billings-based cash burn was just CAD 0.4 million, down 68% from a cash burn of CAD 1.2 million in Q4 2021. Further, with our current cost management efforts, combined with our continued growth profile, we expect to materially reduce our burn in the year ahead and are targeting cash flow positive in Q4 2023.
+
+We ended the quarter with CAD 0.2 million in cash and cash equivalents on hand, compared to CAD 6.7 million at the end of fiscal 2021, and had modified working capital of CAD 2.3 million, compared to CAD 9.2 million at the end of fiscal 2021. Our pro forma modified working capital of CAD 5.8 million, including the proceeds of the CAD 3.5 million private placement closed and announced after year-end, in addition to the CAD 9 million credit facility available, of which CAD 0.5 million was drawn at year-end and repaid in January, are all available to support our path towards profitability.
+
+We have leveled off our operating costs in fiscal 2022 and are focused on operational excellence and cost optimization through a disciplined approach to investment in high ROI, or return on investment, initiatives. We remain in a good working capital position and combined with a consistent track record of top-line performance despite macroeconomic conditions, we have a balanced approach to grow to cash positive operations.
+
+And with that, I'd like to again thank you for listening and open it up to questions.
+
+Thanks, Rob, and thanks, Dave. [Operator Instructions] The first question comes from Gavin Fairweather of Cormark Securities. Please go ahead, Gavin. Your line is open.
+
+Hi. Can you hear me?
+
+Yes.
+
+Yes, we can.
+
+Awesome. Appreciate you taking the questions. Maybe just on the bookings this quarter, can you discuss kind of the composition or mix of the bookings that you saw in Q4, specifically between SMB and enterprise?
+
+Yeah. It was much more focused on SMB this last quarter. As you know from our announcement, there was a couple of larger deals. But generally speaking, it was largely weighted towards the smaller-sized customer bracket. Just a timing issue on some of those, [ph] but (00:17:16) I think we'll see some of those opportunities from Q4 come close here in Q1 as well. But, yeah, definitely was a bit of a pause in that regard in the fourth quarter in terms of [indiscernible] (00:17:30).
+
+Okay. So pretty good bookings despite maybe enterprise deals pushing into the first half. So are you seeing those deals behave differently as we kind of enter 2023 here or just some of those larger ones that you are chasing you think [ph] one that's (00:17:49) getting across the line here?
+
+Yeah. A great comment. And as we've sort of mentioned in the past as well, obviously, 2022 had some challenges economically that certainly did result in some longer sales cycles. Again, we're pretty happy to have gone for a real balanced approach in our go-to market to make sure we're addressing the entire spectrum so that we're not wholly reliant on getting some of those large deals to still get to our numbers. So, it's good to know that they are still in the pipe and still working through the system, just taking maybe a little longer than they had in the past. So, these are the many challenges that we've had to face and all organizations are facing with the many disruptions starting from 2020 with COVID, but we continue to have the base and it certainly has made us much more resilient and much better able to face these challenges and navigate them with our digital-first strategy. And we're happy to see that our part of the market to be holding in pretty well despite those concerns or macro events. And we believe we'll see some of those deals to start to come through here in the New Year and some of the other ones from Q1 [ph] will push too (00:19:13), right? So, really, again, that balanced approach we have is pretty important to ensuring we're going to navigate the current climate as we have the past three years.
+
+That's helpful. And then maybe you just provide us with a bit of an update on the R&D side and specifically how you're kind of ordering your priorities on the roadmap, has that shifted around at all given kind of the macro climate, maybe any commentary that you could provide there would be helpful.
+
+I would say that the shift for us has really been not like – some with respect to the macro. Certainly, as you know, we've spent a lot of money on contractors in the past and we've definitely cut that back. So, you'll see that next year, some of those dollars. In order to hold our spend in check next year, obviously, there's inflationary pressures and things as there always are, right? So, we did have to reduce some spend somewhere. And certainly, those contractors were a natural place to go for that. But really from an R&D perspective, it's actually, for us, a pretty exciting time with our ARR now around that CAD 15 million mark and approaching 500 customers. There's a lot of opportunity to accelerate our customer adoption of DAM by building certain features and capabilities that will help them to adopt it even easier and get more value.
+
+I think we'll see us leaning in a bit more to some of that to really help get that net retention rate into that magic 105% to 110% level as they're a long-term goal. We're currently around 101%. But certainly, I would say, at this juncture of evolution as a business, that we're starting to get a little bit more balance in that regard because, of course, that's going to generate not only expanding customers and sticky customers, but great referenceable customers that can then obviously help us win in the market with new customer opportunities. And that's kind of really around our new Hot DAM! campaign that's just recently been launched. And it is addressing the adoption levels that I mentioned a little earlier, and we really do think we're positioned to be best in class for adoption overall. And I think that's a winning combination. So, to us, that's a hot DAM equation and we're pretty excited to have just launched that this last week. If you've not been to our website recently, go have a look. It's pretty exciting.
+
+Okay. I've got more questions, but I'll pass along and re-queue. Thank you.
+
+Thanks, Gavin.
+
+Thanks.
+
+Thanks, Gavin. The next question comes from Kiran Sritharan of Eight Capital. Kiran, please go ahead.
+
+Hi. Yeah. Afternoon, guys. Just to start off here. I'm curious how your upsell activity has been with customers. And as you look at growth for the year, how is this expected to trend against new logos? Thanks.
+
+Growth of [ph] expansion of (00:22:18) new customers you're talking about?
+
+Correct. Yeah.
+
+Yeah. So, yeah. I mean, we have an established sales team. We haven't increased it over last year at all, obviously holding our spend in check. They may have lots of excess capacity to deliver more than they did in the current year. Macroeconomic situations will determine how far into their capacity we reach as will some of the R&D road map that we have. But it's been an exciting year for customer acquisition for us, strong year obviously in maintaining that 36% growth level.
+
+And we really – as I mentioned in the call earlier, in Q1, we expect we'll pass through that 500 customer mark. We're currently about 485 and averaging sort of that 30-ish plus mark of new customers landed and signed [ph] for the (00:23:17) quarter, which I think is a cadence we can maintain.
+
+That's helpful color, Rob. Thank you. And to ask my second here, so now that you see Europe, are there any near-term changes to how you would organize the company? I'll leave it at that. Thank you.
+
+Yeah, great question. I think what you'll see most is increased focus and efforts to remove friction from the business so we can operate at the speed we need to win and realize the leverage in our scale. And so that's really the focus. There isn't a lot of concerns with the overall strategy or the direction. As I mentioned earlier, from a product roadmap, for example, making sure we're really balancing the efforts we do with respect to new customers, with those existing as well. I think just some more granular focus on who we are and what we can achieve will help us achieve our potential.
+
+And removing friction from the business is really a critical thing at this juncture. As you know, we doubled our staff in 2021. And as teams go through the storming, forming, norming, and performing phases, the focus right now is making sure that we get them firmly and our whole team firmly into the performing stage of development here. And that's where we'll realize the benefits and potential of this increased scale.
+
+So, that would be where the focus is, really around building the team we have and the opportunity we have into a high performance team that we can fully get the value out of, which again, when you double, it's really hard to do that without spilling some milk, right? So, we definitely have opportunities to streamline, be more efficient and effective in how we use our resources for a greater ROI on those investments, more clarity, et cetera. So, that would be my core focus.
+
+Thanks, Kiran.
+
+Thanks, Kiran. The next question comes from Neehal Upadhyaya from Industrial Alliance. Go ahead, Neehal.
+
+Hey, guys. Congrats on the new position, Rob.
+
+Thanks, Neehal.
+
+Can you talk about the newish professional services team and if they're seeing more momentum with current clients? And then have they been a differentiator in attracting new clients?
+
+That's a great comment, and obviously, an area that we're excited about. We did announce it in Q3. It's a small team at this point. We have eight contractors plus our esteemed leader. And it's definitely a key part of the business becoming that quickly. As I mentioned, one of the deals, the new deals there that had a nice little PS engagement with it. It's not for all sizes of customers, obviously, but the larger mid-market opportunities really is a great opportunity to work with them to improve their library services and how DAM works within their business, how integrated it is, how seamless it is in terms of really unlocking the potential of DAM.
+
+I get really excited about it because they can prove the potential. And once we have that potential proved, in addition to being a good thing for our customers, it becomes something that we can help other system integrators understand so that they can also understand how they can add additional consulting dollars on top of the DAM, which for us is pretty important to be able to convey because it is pretty easy to stand up DAM. Ease of use is one of our core tenets. And what we don't want to get lost in our message is that it is easy to get up and going, but you can make it as complex as you want in terms of integrating into your environment, leveraging all of our APIs and standard developer kits.
+
+So, our PS team is going to bring all that to light. And already out of the gates, they've had about five engagements already and just started in the fall. And so that can have a decent impact on our revenue going forward. But I want to be clear that we remain a focused product SaaS company and that still the lion's share of our revenue is going to remain recurring Software-as-a-Service revenue, which currently averages around that 95% mark plus. And so it'll still be in the 90s even with PS at this stage.
+
+Perfect. Thank you. And then maybe digging into a previous question that was asked. Can you talk about the product roadmap and then some of the specific features that you've been working on that may be ready for customers in the near term that can get you to that 105% retention mark that you spoke about?
+
+Yeah, certainly. Some of it is behind the scenes stuff. When we're providing DAM services to our customers, for example, all of it is hot storage is the highest cost, highest value storage type there is that we're managing for them, right? So, we're able to provide an intelligence layer that'll balance that across different types of storage. We can reduce the cost of ownership to the customer and also, of course, help to increase our margins. So, some of it is going to be margin-based and enable us to actually provide a better service to the customer as a result.
+
+At the same time, we're really leaning into video, and some of the video solutions we have in terms of our audio/visual index are in things [ph] of fabrication (00:29:28) of AI to video is really exciting. But if you're going to load a ton of video into the system, you got to make sure that the cost structure supports that as well to make it viable for customers. So much can be done once we have all of your content in one place. Just think of the opportunities with AI-generated content and things like that that we can do that become really exciting for customers to fully extend the lifecycle of their digital assets and the value they can create with each one over time.
+
+So, a lot of it's around that kind of stuff, Neehal. In terms of our new UX, as well as our user experience is being upgraded, we did – last year, we did a bit of a refresh in terms of the interface itself, but our UX capability is changing rapidly. It's a big area of investment and changing some of the structure within it as well so that we can add reactive type of features and things with things like [ph] app mentions (00:30:35) or what have you for trading better workflows in the environment as well. So, it's a lot of just good hygiene DAM things that we'll be doing to optimize the system and the experience for the customer that again really pushes adoption to then help with setting us apart in the industry so that we can win more on the incoming customer side as well.
+
+No. Perfect. That helps. And then maybe one last one from my end. Thus far, you've handled the macro headwinds fairly well. And you've kind of mentioned that you continue to – the customer pipeline is quite solid. But I was just wondering if there's been any change in the length of a [ph] CL cycle leaning (00:31:31) to SMB or the enterprise side. And then maybe are there some challenges that you've been seeing in terms of those conversations, or is it business as usual?
+
+Yeah. I mean, since you added with business as usual, I think that the moniker now is more business as unusual, and I think just from all the macro things that we've seen, but our pipeline continues to perform really well. We just finished – and when we track our pipeline all the way from the top down to our sales qualified opportunities and in the final one deals, up in the top of the funnel, for example, is demos, getting demos done and interest. I mean, we just had it come up two weeks are probably our strongest two weeks of demos we've seen in the past year. So, it comes and goes and a lot of it is around the what we're doing because, again, the DAM market does have great tailwinds. We just hired a new VP of Marketing in September, for example, and also she's rebuilt her marketing team, doing a great job. They brought out Hot DAM! here, which is already creating some excitement and more demo opportunities for us.
+
+So, a lot of it is around just the levers that we're pulling and that we're continually doing AB testing with them to make sure that we're doing things that give us the best bang for the buck, if you will, and create the biggest lead funnel we can create. And it's kind of operating like normal. Yes, the sales cycles vary. I mean, the telco one that we announced was a 67-day cycle, whereas the other one, the auto one I think was 200 days. So, there's enough things in the pipe. And the goal always is to have a nice thing – enough things in the pipe so that we can weather those things. There's going to be some moving faster and some slower.
+
+So again, I think we're in a fortunate position and that the DAM market itself has drivers that are long term that are resilient, we believe, knock on wood, to the current headwinds that the overall market is experiencing because going digital is one of the things that's going to help you be nimble and help you to chart and navigate through these challenging times. If you're not there with the digital-first strategy, it's going to be really hard to navigate all of the challenges that keep coming at us in business as unusual, right? So, yeah, I hope that that helps. But certainly, we're seeing good pipeline activity at this point for Q1 and it's kind of doing what we expect. So, we will see that through the year.
+
+No, no. Perfect. Thanks, guys. That helps a lot. I'll pass the line.
+
+Thanks, Neehal. There's a follow-on question from Gavin Fairweather of Cormark. Please go ahead, Gavin.
+
+Hey. You talked about maybe seeing more legacy...
+
+You muted yourself, Gavin.
+
+Can you hear me now?
+
+Yeah.
+
+Yeah.
+
+Okay. You talked about more legacy displacement opportunities versus greenfield opportunities. Hoping you could just expand on that. Is that a trend that you're seeing in the pipeline? And what's kind of the catalyst in those situations for some of these clients to ultimately look to upgrade to the cloud DAM?
+
+Yeah. Great question. And I think certainly, where we always see some, there's always some legacy displacement opportunities. But I'm really specifically more or less referring to a Gartner report, it's [ph] 20 (00:35:17) year old now, but finding – they're finding in over 400 enterprise accounts with respect to DAM was only 26% were happy with their adoption levels. I mean, this is a constant thing that we see. We just won another deal here, just selected against Adobe, happened in two or three account this – for Q1 have indicated selection versus Adobe.
+
+And, again, those large enterprise systems tend to be very complex, very difficult to deploy and install, lots of consulting required just to get them up and running whereas with a more nimble DAM like MediaValet, you can get up running quickly and start realizing the ROI almost instantly. So, I think we have a significant advantage, and winning against the larger, more complicated systems like that is testament to it.
+
+But when we think about that backlog, if you will, that is having dissatisfaction with the adoption levels, and then us really leaning into trying to be number one in adoption, I think we're going to be really well positioned as those organizations update their strategies with respect to their digital content. And indeed, the telco one that we announced, that was the same situation. I mean, they were trying to revamp their digital strategies to be more nimble and effective and be able to hit the market faster and more efficiently.
+
+So, indeed, while that one wasn't just specific displacement, that is the same trend. And I think we can't tell in the crystal ball when that's going to happen, but we believe it's on its way at some point here in the near future.
+
+Okay. And then just lastly for me, you touched on achieving cash flow breakeven within existing resources by Q4. And if I'm not mistaken, that's kind of the first time you kind of put a date around that. Just to be clear, are we talking about it on a billings basis given kind of the seasonality of...
+
+Yeah.
+
+...the billings? And then as you work into 2024, you're probably there on like a normalized billings basis. Is that kind of the way to think about it or...
+
+Absolutely, yeah. Yeah.
+
+Yeah, that's right. We're targeting 2024 on a full year basis, but Q4 2023 on the quarter basis. Yeah.
+
+Okay. [indiscernible]
+
+(00:37:52)
+
+And so the profitability generally lags a year behind because of the deferral over it.
+
+Got it. Understood. Thanks so much.
+
+Thank you, Gavin.
+
+Thank you.
+
+Thanks, everyone, for your questions. There are no further questions. I would now hand over the call to Rob for his closing remarks.
+
+Thank you, Babak, and thanks for the call. Awesome questions, everybody, and for tuning in. We really appreciate it. Hopefully, we did a good job of conveying the key takeaways that we had mentioned earlier in terms of resilient performance as a business and also the tailwinds for DAM and the balanced approach on costs. As you could see, obviously, the quarterly costs, OpEx, pretty steady over the last five quarters. So, we'll keep it at that. And thank you, everybody, for tuning in and look forward to talking to you in the months to come.
+
+Thanks, everyone. This concludes our call today. You may disconnect.
+
+Thank you.

@@ -1,0 +1,89 @@
+Participants
+CORPORATE PARTICIPANTS
+Leslie Phillips — Director, The Blueshirt Group LLC
+Ralph C. Derrickson — President, Chief Executive Officer & Director, BSQUARE Corp.
+Christopher Wheaton — Chief Financial Officer, BSQUARE Corp.
+
+Management Discussion Section
+
+Question And Answer Section
+
+Good day and welcome to the Bsquare Corporation Third Quarter 2019 Financial Results Call. Today's conference is being recorded.
+
+At this time, I'd like to turn the conference over to Leslie Phillips, Investor Relations. Please go ahead.
+
+Thank you and good afternoon, everyone. Before we begin, we'd like to remind you that this call is being webcast, and that a recording of the call and the text of our prepared remarks will be available on Bsquare's website.
+
+During this call, we will be making forward-looking statements. These statements are based on current expectations and assumptions that are subject to risks and uncertainties that could cause actual results to differ materially.
+
+During this call, management will refer to GAAP and non-GAAP financial measures. Please refer to the cautionary text regarding forward-looking statements as well as the non-GAAP reconciliation to comparable GAAP financial measures contained in Bsquare's earnings release issued today and on our website at www.bsquare.com under Investors.
+
+All per share amounts discussed today are fully diluted numbers where applicable.
+
+Now, I'd like to turn the call over to Ralph Derrickson, Bsquare President and CEO.
+
+Thank you, Leslie. Good afternoon, investors. It's a pleasure to speak with you today. It was a busy quarter for us at Bsquare and I look forward to sharing the progress we made.
+
+Before we get started though, I would like to take a moment to introduce Chris Wheaton, Bsquare's new Chief Financial Officer, who started with us in September. He brings to Bsquare a rich mix of financial and operations management experience. What I appreciate most about Chris, however, is that he is a fellow entrepreneur who sees the opportunity at Bsquare and can help us with our business rebuilding efforts.
+
+Now, let's get started. In May of this year, we announced a series of business rebuilding initiatives that I called One Bsquare that among other things included a renewed focus on operating excellence. Our results for Q3 2019 suggest that focus on operating excellence is starting to have an impact on our financial performance. Revenue was up sequentially 3% over Q2 2019 to $14.6 million. Gross margin increased by 100 basis points, and operating expenses excluding restructuring costs declined by $1.8 million. Adjusted EBITDAS was negative $0.5 million, an improvement of $1.8 million. Chris will get into the numbers further in a few moments.
+
+I'd like to turn our attention to the One Bsquare rebuilding initiatives and the progress we've made during the quarter. As a reminder, at my first earnings call in May of this year, we discussed five initiatives. I will speak to them today in this order; one, offering customers an edge-to-cloud product and service suite; two, revising our go to market strategy; three, retooling sales and marketing; four, strengthening our strategic partnerships; and five, focusing on operating excellence.
+
+Starting with the first three of these initiatives, we are going to market with an edge-to-cloud software and services suite, we call B2IQ. The software components of the B2IQ suite were harvested from our prior DataV efforts, but have been substantially retooled to exploit the capabilities of cloud services that weren't available when DataV was first conceived. The B2IQ software and services suite work with Microsoft Azure and AWS as well as on-premise systems. B2IQ accelerates the development of customer specific solutions that operate securely at scale. The B2IQ software components help our customers avoid the proprietary lock-in that plagued DataV and other IoT platforms. We expect these components will be licensed on a per device basis when deployed as part of a customer specific solution.
+
+In addition to the system design and software engineering services included in the B2IQ suite, we have expanded our services to include 24/7 support, DevOps and cloud management, the services that are critical when a customer puts an edge-to-cloud solution into production. Experience with our early IoT customers suggest that Bsquare's role will last well beyond the design and development of edge-to-cloud solutions, and continue into their ongoing operations. This role as an operating partner for our customer represents an opportunity for future collaboration and ongoing business in the form of monthly support and service fees to Bsquare.
+
+We have also productized two of the utilities we developed to support our Microsoft OS reseller business, the B2IQ Imaging and Recovery Tool, and the B2IQ Field Upgrade Tool address issues with deployment and upgrading operating system software. These utilities and our support service are a source of revenue and differentiation for Bsquare.
+
+I'd like to spend a minute or two on our One Bsquare product strategy. The objective of the strategy is to reinforce the connection between our Microsoft operating system business and our edge-to-cloud business. Anyone who is considering using IoT in any form to transform their business is considering the devices and components that make up the system. At the core of these devices is an operating system and some collection of edge-to-cloud software components. That operating system maybe Microsoft Windows, Linux, QNX, FreeRTOS or any of number of other operating systems.
+
+Bsquare has been putting OS software in devices since our founding. Our years of expertise and the revenue from this business is very relevant to our edge-to-cloud customers. It is also true that our OS customers and the devices they developed are being redesigned and enhanced to operate in a cloud aware world, and this too is an opportunity for Bsquare. We have one product offering. Connecting devices at the edge to the cloud, we meet our customers where they are in their IoT transformation journey.
+
+Returning to our progress, in September we launched our new website, and with it our new edge-to-cloud suite B2IQ branding and messaging. Our branding draws upon themes identified as we considered our 25-year history as a technology leader, our emerging role as an IoT system developer and operator and the importance of the connection. Bsquare has been at the intersection of hardware and software since our founding. Today that intersection is the edge where cloud-enabled devices connect, creating intelligent systems that share data, facilitate distributed control and machine learning, and operate security at scale. From the hardware to the operating system, to the edge-to-cloud software layers and cloud services that make intelligent systems possible, Bsquare's expertise, product and services are at the center of digital transformation.
+
+Turning to our strategic initiatives, we continue to expand on our technology partnerships in Q3, aligning them with our B2IQ suite and licensed software resale business. We signed an agreement with Synnex in the US and Arrow in Europe, allowing us to resell Azure cloud services to our customers, acting as what Microsoft calls a Cloud Service Provider or CSP. This allows us to offer a complete solution to our customers, including IoT system design, development, implementation and operation. We expanded our collaboration with Microsoft in support of their secure microcontroller initiative known as Sphere. We continue to partner with AWS and operate some of our largest edge-to-cloud customer implementations on the AWS cloud platform.
+
+Our progress on operating excellence can be measured in the numbers that Chris will speak to shortly. It can also be measured organizationally, and I'd like to highlight some of the non-financial progress we made. During the quarter, we took steps to consolidate engineering leadership to form a single worldwide organization. We also standardized on the technical project management approach developed in our ISO compliant UK operation. These steps eliminate layers of management, reduce unwarranted variation in process, improve quality and we believe will lead to improved utilization and management of our most costly and important resource, our engineering team.
+
+We substantially enhanced our executive leadership team in Q3. We added two more entrepreneurs, Chris Wheaton, as I mentioned during the introduction, and Steven Gottlieb who joined as our VP of Marketing in September. Steven led the rework of our messaging and branding, and you can see his handy work in our newly launched Bsquare website. These additions follow Mary Haggard, another entrepreneur who joined us in May and now leads our strategic partnership team and whose contribution is evident in the new partnerships we forged and in the improvement of our existing partnerships with Microsoft and Amazon. We now have a strong leadership foundation to build upon and that can help me accelerate our business rebuilding efforts.
+
+Before I turn things over to Chris, I'd like to speak about business building in general, beyond the scope of the One Bsquare initiatives and explain what I call my [ph] 3M (00:09:06) model for evaluating business. The first M is the market, is there a market for the product or service, and if so, how big is it and how do they buy? Said in other way, if we offered a certain product or service, would anyone care? The next M is model, is there a model or if you did the it, could you make any money? And finally, the last M is for management team, is this the management team that can build and grow the business.
+
+Looking at the three Ms for Bsquare, we have an enormous market opportunity. With DataV, we were too early for the industrial IoT market and we had the wrong model, but we had the right idea. We have corrected that with our modular B2IQ suite of software and services that builds on the offering of our cloud partners. We've adjusted our model as well in response to the market and believe our mix of revenue from professional services, software licensing and operating services will allow us to build a large and scalable revenue stream. Looking at our third M, we have substantially rebuilt our management team with entrepreneurs that see the opportunity and have the expertise to take advantage of it. Well, there is a lot of work yet to be done. There is reason to believe that our recovery is no longer a matter of if, but a matter of when.
+
+With that, let me turn things over to Chris now to discuss our third quarter 2019 financial results and share his observations of the business.
+
+Thank you, Ralph. It's a pleasure to join you and the Bsquare team. We've got exciting work ahead of us.
+
+Before I dive into the financial results for the third quarter, I'd first like to talk about the second M of the three Ms that Ralph mentioned, the model. The Bsquare business model is built on long-term relationships with our customers. That relationship typically starts with an engineering collaboration to address a difficult device issue or to understand the benefits of a potential technical solution and then generally leads to a software license and deployment. With that, we've established a foundation for an ongoing operating relationship between the customer and Bsquare. We've discovered that this sequence of engagements with our customers forms a replicable unit of commerce. It's this unit of commerce that forms the basis for our plans for growth.
+
+Bsquare's Partner Solutions and Edge to Cloud products and services lead to long-term relationships, where the solution that Bsquare developed becomes an essential part of our customers' ongoing operation. This relationship will allow us to develop software solutions that are based on real life customer requirements rather than on speculative investments.
+
+Now, let's turn our attention to some changes we made this quarter to our financial reporting. Our Third-Party Software operating segment has been renamed to Partner Solutions. Our Professional Engineering Service operating segment has been renamed to Edge to Cloud, consistent with the suite of software and services we offer. And finally, we no longer present separate information on Proprietary Software or DataV revenues. We've combined results for this segment with the Edge to Cloud segment with comparable prior periods restated for comparability.
+
+I'd like to point out that as we continue to retool the business, comparisons to prior year quarters will be less relevant. I am and will be focused on sequential quarter-over-quarter changes that reflect the work Ralph and I are discussing today.
+
+Now, let's take a look at our revenue for the third quarter. Total revenue was $14.6 million, up 3% sequentially compared to the prior quarter. Partner Solutions revenue was $12.6 million, up 7% over Q2 2019. Sequential changes to Partner Solutions revenue are attributable to customer ordering behavior related to their product shipments that vary throughout the year. Edge to Cloud revenue which totaled $2.1 million was down 16% sequentially due to the completion of projects that went into production in Q2 of 2019. We took steps to reduce engineering capacity in anticipation of this decline.
+
+Gross profit totaled $2.6 million during the quarter, up 9% sequentially. Partner Solutions gross margin was 14%, down sequentially. Edge to Cloud gross margin was 40% compared to 27% last quarter due to reductions in engineering capacity.
+
+Turning to operating expenses in our bottom line results in the third quarter, total operating expenses were $3.8 million, including a $300,000 charge for restructuring costs. The restructuring charge reflects severance costs associated with previously announced staff reductions. Excluding the charge for restructuring costs, operating expenses were $3.5 million, an improvement of $1.5 million over the prior quarter.
+
+We recorded a net loss of approximately $1.1 million or negative $0.09 per share for the third quarter of 2019. Excluding the $300,000 charge for restructuring costs, net loss for the third quarter of 2019 was $900,000 or negative $0.07 per share compared to a net loss excluding restructuring costs of $2.5 million or negative $0.20 per share for the second quarter of 2019.
+
+Moving to the balance sheet, during our rebuilding, Ralph and I will be emphasizing cash conservation and I will be taking additional steps to continue to preserve cash. Cash, restricted cash and investments totaled $11.6 million as of September 30, 2019, down $950,000 from June 30, 2019. This compares favorably to the cash burn of $2.7 million in Q2 of 2019.
+
+Our accounts receivable balance totaled approximately $8.8 million at September 30, 2019, about $1.4 million which is due from Honeywell. We extend 270-day terms to Honeywell and pay Microsoft for these products in 45-days, so approximately $1.1 million of this receivable will convert to cash.
+
+Moving to guidance for the fourth quarter of 2019, as noted in today's press release, we currently have the following expectations for the fourth quarter. We expect revenue in the range of $12.5 million to $14.5 million and we anticipate blended gross margin to be in the 14% to 16% range. Our gross margins will fluctuate quarterly during our rebuilding phase. We anticipate they'll improve as we transition our business in future quarters.
+
+I'll now turn the call back to Ralph for closing remarks.
+
+Thank you, Chris. Again, it's great to have you as part of the team. Well, I am pleased with the progress we've made on the One Bsquare initiatives, a lot of work remains. With Chris and the other members of the executive leadership team, I hope that we can accelerate our rebuilding efforts. With the three Ms model as a template, we will continue our efforts to rebuild our business based on trust, integrity, innovation and collaboration with our customers and our partners in the way that builds value for you, our shareholders. Thank you for your time and your attention.
+
+Moderator, please open the call for questions.
+
+Thank you. [Operator Instructions] It appears that there are no questions at this time. So, thank you for your participation on the call today. You may now disconnect.
+
+Thank you.

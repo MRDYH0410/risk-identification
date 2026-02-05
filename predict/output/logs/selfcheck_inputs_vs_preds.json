@@ -1,0 +1,10 @@
+{
+  "preds_company_count": 192,
+  "preds_by_z_star": {
+    "1": 84,
+    "2": 94,
+    "3": 14
+  },
+  "input_sentences_company_total": 192,
+  "input_a_mij_company_total": 192
+}

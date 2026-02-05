@@ -1,0 +1,264 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+Richard R. Ramlall — President & Principal, Ramlall Partners LLC
+Peter D. Aquino — President, Chief Executive Officer & Director, Internap Corp.
+Kevin M. Dotts — Chief Financial Officer, Internap Corp.
+Dan L. Kurnos — Analyst, The Benchmark Co. LLC
+Barry Michael Sine — Analyst, Drexel Hamilton LLC
+Jason Kreyer — Analyst, Craig-Hallum Capital Group LLC
+Frank Garreth Louthan — Analyst, Raymond James & Associates, Inc.
+Christopher Jason Marangi — Associate Portfolio Manager, Gabelli Asset Fund
+Aaron Moore — Analyst, Sound Point Capital Management LP
+
+Management Discussion Section
+
+Question And Answer Section
+
+Good day, ladies and gentlemen and thank you for standing by. Welcome to the Internap Third Quarter 2016 Earnings Conference. At this time, all participants are in a listen-only mode to prevent background noise. [Operator Instructions] And as a reminder, this conference is being recorded.
+
+Now, I would like to welcome and turn the call to Mr. Richard Ramlall, Investor Relations. You may begin.
+
+Good afternoon and thank you for joining us today. I am joined by Peter Aquino, our Chief Executive Officer; and Kevin Dotts, our Chief Financial Officer. Following prepared remarks, we will open up the call for your questions.
+
+The slides we reference in the call are available on our website in the Presentations section on the Investor Relations page. Non-GAAP reconciliations and our supplemental datasheet, which includes additional operational and financial metrics, are available under the Financial Information, Quarterly Results section of our Investor Relations page.
+
+Today's call contains forward-looking statements including expectations for our future performance, including our ability to leverage excess capacity in growing global markets, belief in our business strategy, including reorganizing into two pure-play business units, increasing presence in wholesale and enterprise business segments, and exploring alternatives to recapitalize the company, expectations for margins and levels in uses of cost reductions, expectations for revenue, adjusted EBITDA and capital expenditures for full year 2016, belief in our ability to drive long-term sustainable value and top line profitable growth.
+
+These statements are not guarantees of future performance. Because these statements are based on certain assumptions and involve risks and uncertainties, there are important factors that could cause our actual results to differ materially from those in the forward-looking statements. We discuss these factors in our filings with the Securities and Exchange Commission. We undertake no obligation to amend, update or clarify these statements. In addition to reviewing the third quarter, we will also discuss recent developments.
+
+Now, let me turn the call over to Peter Aquino. Pete?
+
+Thank you, Richard. Good afternoon everyone. I am very excited to speak you today in my first earnings call with INAP. Now that I've been on the job for about six weeks, I know many of you on this call and you probably know me as a straight shooter.
+
+So my first assessment of INAP's potential is very promising and I believe that we have significant upside. The company has invested significant capital over the years to build state-of-the-art data center facilities, the flagship of our company our Tier 3 data centers probably the best-in-class from my perspective. In addition, most of our controlled data centers, which are about 15, have excess capacity we can leverage to reboot our sales engine to sell our premier suite of services from colo to cloud.
+
+In my first week here I've traveled to many of our sites to meet employees one-by-one and conduct the town hall meetings. I quickly realized that we have a lot of talent and enthusiasm to get INAP back on track.
+
+Had a great first impression after visiting our Tier 3 data centers in Secaucus, New Jersey, serving the New York Metro and in Atlanta to London and Montreal where we have an iWeb leadership team that's on the leading edge of developing robust cloud solutions for future growth.
+
+The other great news is that we are in the growing internet infrastructure and cloud business. INAP is just one player in a global marketplace experiencing increasing demand for storage, access, connectivity, and virtualization. Our products and services are in this sweet spot, and I believe that this gives us long-term sustainable value as we improve operations. And this is why I took the job.
+
+As many of you know INAP delivers [ph] hard in (04:33) colo and managed services facilities. We serve customers requiring high touch solutions, as well as just-in-time access to bare-metal servers and virtualized storage with AgileCloud.
+
+As I look ahead I believe that with some tweaks we can reorganize better into two pure-play business units that our customers and the market will find easier to understand, as opposed to being considered just one hybrid company. Many of the identified initiatives to improve our business are already in progress this fourth quarter. With our reorganization effort underway, we expect to improve performance levels to help drive top line profitable growth more aligned to our peer group.
+
+I believe that if they can do it, so should we, especially given our quality of facilities and global IP network, we have a great platform to leverage. One of our goals is to increase penetration to the wholesale and enterprise business segments, capturing demand from customers who require solutions not just colo.
+
+Our suite of services include high-performance network connectivity and managed services for public and private clouds. In addition, we are capable to quickly migrate in either direction by offering both bare-metal dedicated and virtual solutions in many of our markets we can spin up new capacity very quickly.
+
+So, in order to get this company back on track, we have a short list of initiatives that we're executing on right now. First, we all recognize that the prolonged strategic process was a challenging time for the company. With that behind us, we are committed to a new path to operating the company for profitable growth and sustained performance over the long-term. With great teamwork and assets in place, we can be opportunistic from a position of financial strength and confidence.
+
+So step one in improving our financial results is to cut our costs. I've already launched an internal review of the cost savings opportunities we can now capture. And I view this as an opportunity to attack the low-hanging fruit of cost reductions and improve profitability in the market segments and locations where we can win.
+
+At a first glance, we are targeting about $5 million to $10 million in OpEx run rate cost savings going into 2017. Some of the savings will be reinvested back into marketing and sales, so we expect to capture most of it. And step 1A in this turnaround is to address the balance sheet. This is clearly the elephant in the room, and I view this as overhang on our undervalued stock price.
+
+INAP is clearly in the penalty box, and I understand that the market has been waiting for clarity in our direction and consistency in that growth. So today's call marks the beginning of this communication.
+
+We are creating our own catalysts. We're off to a fast start. In my early assessment, the operations turnaround must run parallel to a recapitalization of our balance sheet. We're now exploring ways to recapitalize to create the desired flexibility to grow our company organically and through potential strategic transactions that are accretive to our vision of a two pure-play business unit model.
+
+We will also consider selling non-core assets to pay down our debt, but we want to be smart about these opportunities. To this end we already launched an analysis of core and non-core assets in our portfolio. Clearly some of the 35 partnered colo facilities need to be addressed from a profitability standpoint.
+
+All else equal, we may end up with slightly less overall revenue, but be more profitable. The combination of optimizing the portfolio and targeting necessary cost cuts will help improve our run rate results going into 2017. We are incorporating all of these findings right now into our fourth quarter reorganization work.
+
+And finally given the preliminary thinking on the potential recap, we will not cover the details of the strategy today. So I ask you to give us some time to get back to you with more information. However, I wanted you to know that this is a top priority, and we will disclose the appropriate information in future filings.
+
+So with this intro, I would like to turn it over to Kevin and go through the quarter. Kevin?
+
+Thank you, Pete and good afternoon everyone. Before I go over the numbers, let me give you a high level view the results. I would characterize the quarter by saying the company realized relatively flat performance sequentially.
+
+We realized continue secular trends in IP connectivity pricing, somewhat offset by lower churn as anticipated and modest growth in the Agile bare-metal server product for the first time this year as well as continued focus on strong cost management.
+
+Starting on slide 5 of the presentation, approximately 56% of the year-over-year decline in total revenue is related to a few major churn events we talked about last year. While sequential revenue was slightly negative due to IP connectivity pricing and flat colocation results in the DCNS segment, we did see modest growth in the Cloud Hosting segment driven by Agile bare-metal server products.
+
+From a GAAP earnings basis, we recorded a non-cash goodwill charge of $78.2 million which is shown as a separate line item on our income statement. During the third quarter we began our annual goodwill impairment test. While the analysis and the process is ongoing based on our initial results we have recorded a goodwill impairment estimate of $78.2 million in operating expenses. As a reminder the goodwill impairment which has been discussed in our previous filings with the SEC is a non-cash item.
+
+Due to the goodwill impairment charge, the operating expense is much higher than normal and the GAAP net loss is significantly greater than the third quarter 2015. Normalized net loss decreased year-over-year and sequentially due to lower depreciation and amortization related to the 2015 acceleration of an intangible asset, as well as consciously reducing our CapEx investment to maximize returns on capital deployed over the past several years respectively.
+
+Year-over-year segment profit and adjusted EBITDA reflect the lower revenue somewhat offset by better cost control. Sequential results reflect the effect of revenue and higher seasonal power costs in the third quarter.
+
+Moving to slide 6, DCNS revenue totaled $49.8 million in the third quarter of 2016, a decrease of 5% year-over-year and 1% sequentially. Those decreases were primarily attributable to lower IP connectivity revenue related to the secular decline in pricing for new and renewing customers, the loss of legacy IP contracts and churn.
+
+Year-over-year DCNS revenue saw a decrease in partner colocation revenue, partially offset by an increase in company controlled colocation revenue. As we have previously discussed, a large social media company acquired one customer in DCNS which churned in the second half of 2015. Relative to the third quarter of 2016 revenue that churn event accounted for approximately a third of the year-over-year decline in revenue.
+
+DCNS segment profitability was $24.7 million. While the revenue declined by $2.7 million year-over-year for DCNS, profitability was only down $1 million due to lower direct cost of sales and services. The lower costs were driven by renegotiated vendor contracts and our focus on driving efficient business operations.
+
+Sequentially DCNS segment profitability was predominantly impacted by revenue declines in the IP service business and higher power cost in third quarter 2016, partially offset by the renegotiation of a partner colocation vendor contract.
+
+Long-term, we see opportunities to continue to further expand DCNS segment margins based on a mix shift for its higher margin services. In addition to mix shift benefits we also see the opportunity to expand margins increased utilization in our data center footprint.
+
+Moving to slide 7, our Cloud and Hosting segment revenue totaled $24 2 million, a decrease of 7% year-over-year and an increase of 1% sequentially. Churn associated with the acquisition of two customers, each by a separate large social media company accounted for the majority or approximately 94% of the year-over-year Cloud and Hosting revenue decline. We do not see the churn events as a fundamental change for our business, but rather a confluence of customer events which created [ph] unanticipated (13:41) headwind to revenue.
+
+Cloud/Hosting Services segment profit was $17.7 million, a decrease of 7% year-over-year and a 3% increase sequentially. The lower Cloud/Hosting segment profit is directly related to lower revenue. As I stated earlier the lower revenue is the result of a few customers that have been acquired by large social media companies and moved their infrastructure in-house.
+
+Our Cloud/Hosting Services continue to generate healthy margins that are accretive to our overall margin profile. As we sell more hosting and cloud services they take up a smaller physical presence that generate significantly higher revenue per square foot and increase returns on invested capital.
+
+Moving on to slide 8, cash flow and balance sheet summary, you will notice in the third quarter we have moved to a free cash flow calculation which begins with net cash flows provided by operating activities.
+
+Free cash flow defined as net cash flows provided by operating activities minus capital expenditures was slightly negative for the quarter. Capital expenditures for growth year-to-date were $34.4 million, primarily focused on adding additional power and cooling capacity largely at data centers where we offer performance colo and hosting products, success-based hosting in cloud and the rollout of our OpenStack platform.
+
+Total CapEx year-to-date for growth and maintenance was $40 million. We expect to spend $7 million to $10 million in the fourth quarter which would bring us to $47 million to $50 million for the full year 2016. As well as you can see we continue to generate meaningful positive unlevered free cash flow.
+
+At the end of the third quarter, cash and cash equivalents totaled $9.6 million. As of June 2016 total debt was $375.1 million and consisted of $284.4 million borrowed under our term loan at a rate of 7% and $35.5 million borrowed under our revolving credit facility at a rate of 5.96%.
+
+We also had $55.2 million in capital leases. As we've mentioned previously we amended the covenants of our credit agreement early in the second quarter. We do not have any near-term debt maturities with our revolving credit facility maturing in November of 2018 and our term loan maturing in 2019.
+
+Our net debt totaled $365.5 million, while our net debt to last quarter annualized adjusted EBITDA was 4.6 times. We are below the financial covenants in our credit agreement and our current capital deployment plans are fully funded with our current debt facilities which include approximately $10 million in borrowing capacity, cash generation and cash on hand.
+
+Moving to slide 9, [ph] to guidance (16:38) we are updating our full year 2016 guidance to reflect the results of the first nine months of 2016. We now expect to deliver full year 2016 revenue in a range of $297 million to $300 million, adjusted EBITDA in a range of $81 million to $83 million, and capital expenditures in a range of $47 million to $50 million. While we expect a reduction to capital as compared to prior years we do continue to deploy capital as we anticipate capacity needs or realize success-based demand.
+
+Now, let me turn the call back to Pete.
+
+Thanks, Kevin. In closing with our prepared remarks, if you turn to slide 10, I just want to emphasize that we're approaching the next chapter of INAP with urgency, confidence and enthusiasm to get the company back on track.
+
+As you can see from this chart the portfolio of assets are very impressive. We control enterprise class data centers located on the edge of highly populated U.S. cities and operate high capacity network connections between our data centers.
+
+In addition, we are focused on being on the leading edge with bare-metal dedicated and virtual servers for businesses and enterprise. We currently serve eight markets globally across North America, EMEA and the APAC region. This is a potential growth area for our company.
+
+And finally, in closing, we're working on a plan to improve our financial flexibility through a recap to run the company for the long-term and build significant value for our shareholders. I believe we have the right initiatives in place now for a successful 2017.
+
+So at this point, operator, we will take questions. Thank you.
+
+Thank you. [Operator Instructions] And our first question comes from the line of Dan Kurnos with Benchmark Company. Please go ahead, Dan.
+
+Great. Thank you. Good afternoon. Pete, obviously a lot on your plate coming into this, so I guess what really my questions are going to be centered around your initiative. Without going into too much detail, but if you can at least help us think through this, in terms of either sort of the revenue guide reduction and your cost savings, how much of that is to your prepared remarks how much of that is from reduction of unprofitable business in the partner channel versus cost side? And if you can just talk about retention of talent and sort of what OpEx bucket you're going to target, that would be sort of a helpful first step. Thank you.
+
+Okay, John (sic) [Dan] (19:35). Thank you. First of all, there's probably two categories of cost reduction. And because of the strategic process I would say a lot of these things were available to tackle, but it's kind of a hold and wait kind of attitude. So I think now is the opportunity to kind of take advantage of those things.
+
+So in the low-hanging fruit category I think there's some OpEx savings that we can look at that really affect the decisions that could have been made, some administration space, for example, some contracts that are coming up for renewal, are they really paying off for us. On the portfolio itself the analysis that we can do and are doing on the non-core assets, really look at the partner facilities. They're not all the same. They don't all produce equally and some of those contracts are coming up.
+
+I think those two categories, there's a lot of beef there, if you will. We talked about $5 million to $10 million run rate savings and I mean that's after six weeks of looking. I didn't find it all myself, the team here is all over it and they offered it right away. And you'll hear more about that through the reorganization announcements that come out down the pike.
+
+So I would say based on my background, it's not overly difficult to know that the team here already identified it. They have plans in place. They're very proactive when I got here to work with me to kind of tackle this. And again, I think it was just a little bit of a pause as to why didn't happen in the first place. So I kind of like that opportunity. It doesn't hurt the business at all. It actually improves profitability. It makes a whole lot of sense. So that's the good news.
+
+On the talent, I think there is a lot of talent here. I try to do the tour through the company as much as I could in the time I had and meeting the employees that are here and the passion that they have suggest that we have a great base of employees to build on. I want to invest in the talent that we have here. In some cases there's been what you would expect probably with a prolonged process, a little burnout and you get that type of feeling. But for the most part they're looking for leadership and a vision to go forward. A lot of my remarks center around building the company for the long term. It doesn't make sense at least in my experience to try to build it just to get to the next gas station. We got to build it for the long term and we got to make some decisions. And the team here is ready and willing to do that. So I'm very excited about that.
+
+Great. And then just on the revenue side of the equation, I mean you gave us sort of at least initial highlights on your thought process. Some of your predecessors have kind of laid out some areas to address in terms of channels to attack to reinvigorate revenue growth. And I'm just curious sort of understanding that you're not on the job that long but what you're seeing initially as sort of the low-hanging fruit on the revenue side and sort of what channels you might press in order to get growth back more in line with industry peers as you mentioned.
+
+Yeah, I think the devil is in the details here, because some of it is us in terms of structure which our team is working on which is reorganizing the sales force to go after the pure-play opportunities. So we have a colo network business and we have a cloud business and they're quite different I think when you approach the sales process. A lot more complexity in the cloud business, a lot more variability in anything virtual, a lot more software development on the virtual side. So if you think of the sales person and the talent that we have to try to attack from left to right colo to cloud, it could be really complicated.
+
+So our leadership team here is reorganizing around what talent do we have, putting them in the right bucket and then approaching the market in a way that I think is a little bit more logical. And I would say when it comes to talent we're probably short some a few good people to bolster what we want to accomplish. And ultimately we got to outrun churn because there's some natural tendency to churn even in the legacy businesses. Having a bit long network background there are certain things you can't stop from changing, and that's the trend in some of the IP pricing. And the good news that's going down from our cost perspective, but if we're selling it, it's also going down, so it's a double-edged sword.
+
+I think when you look at the revenue line here what we need to disclose as we go forward and I think Kevin has done a good job of this in the past and maybe we could do more, is look at the types of products that actually are growing and we're doing well at. And then try to tell the market, these are the products frankly we're harvesting and holding on to because they're very profitable as long as possible. It's quite the story in telecom anyway. But the goal is to outrun all of that by selling more.
+
+And I would say given the platform we have, there's no reason why we can't sell more. We have a great suite of products and we just want to organize better around that and go-to-market a little bit more aggressively than maybe we have in the last year.
+
+Great. Thanks very much.
+
+And our next question comes from the line of Barry Sine with Drexel Hamilton. Please go ahead, Barry.
+
+Good evening, a couple questions. First of all, you talk about separating the business into a couple of pure-play business units, wondering if you – hopefully you have a sense of what those would be. I'm assuming it's IP and data center and perhaps there's an opportunity to sell the IP business. But in the past, management has said that those two businesses are a bit inseparable. So that's my first question.
+
+Second question is on the recapitalization, why now, why not wait six months until you've got the business in a little bit better shape, generating more free cash flow and maybe you could generate a little bit lower interest rate as you recapitalize?
+
+And then my last question, this company has had an issue with churn over the last several years and that's almost inevitable, that's going to happen again in the future. And it seems like the sales force is not large enough or productive enough to replace churned off customers, so you're always in that situation. So how do you get [ph] out of that that left that (26:30) you're in, of always losing customers and not being able to outgrow the churn.
+
+Yeah, good question, Barry. Many different parts of your question, so let me tackle one at a time. I think when you sell colo, just in general, a lot of folks are selling connectivity with it and IP with it. The idea that it's not separable is a somewhat contractual nature as you approach the market. But I think [ph] if we do (26:58) with our eyes open going forward and I've talked to our guys about this, I think there'll be ways to not make that a constraint. But the fact of the matter is you're selling the customer connectivity to the data center and typically it's in the same deal. I'm probably one that's done a lot of separation in my lifetime, so never say never. But it's complicated for sure.
+
+On the refinancing, I'm not saying we're doing anything now. But we are exploring and exploring also includes timing. I think to your point on why now and when is a great question and we'll get the advice we need to make sure that whatever we do, we do it in the most smart way possible. So I can't really give you any more detail on that.
+
+On the sales force and on what I've known about the company even before I got here on the amount of sales people and the churn of the sales force and all of that was somewhat understandable, if you will, from the standpoint of the company being for sale maybe for a prolonged period of time. It's hard to keep talent sometimes when that's happening. So I think with the new path forward, I think we'll reenergize the sales force and we will attract talent to do what we need to do there.
+
+And I missed another part of your question, right? What was the other part?
+
+No, I think you've covered them all.
+
+Is that it? Okay.
+
+Yeah. All right. Thank you, Pete. Look forward to see how you're going to turn this around over the next several quarters. Thank you.
+
+Thanks, Barry.
+
+And our next question is from the line of George Sutton with Craig-Hallum. Please go ahead.
+
+Hi, guys. It's Jason on for George and Pete welcome to the call. One question here, so in the past we've – it seems like there's been a challenge that some of the data centers perform better than others and reach capacity which results in higher CapEx need, while some of the other data centers tend to run at lower utilization and that seems to be a trend that's kind of been in place for quite some time. And I hate to hit you with one of these questions after you've only been there a couple of weeks, but just wondering if initially – your initial reaction – if you have any thoughts on how you can address that.
+
+That's a good question. I would say the ones I've been in, and I haven't been in all of them yet, I see opportunities where we have raw space. We have unutilized space. And in where at least I've seen some [ph] cap (29:52) out, I think it is a CapEx issue. But there's also a scenario where some of the space we do have can be repurposed. There's a lot of changes going on even when you do churn a customer you actually get back equipment and space. So there's some natural tendency for pluses and minuses.
+
+But I would say – and I've been to Montreal and I saw what we have there. And I've been to Secaucus which is a great flagship data center for us. And I've been to Atlanta I see what we have there. I think it's a good problem in many ways to be close to capacity. But our team is always thinking about ways not to turn away business, because you don't want to do a tour of your data center and then find out that you lost a sale because you don't have enough space. So the just-in-time type of environment because it does cost you money to hold up empty space. But it's a case-by-case basis.
+
+And I think our controlled data centers for the most part, not to repeat the word, but are under pretty good control. Our leadership team understands the cost of the square footage that's sellable and unused and the raw space. And I would say in the past they probably, in many cases, have already over built it in the sense that we could really load it up. I'm really excited about that. I think some of the other problems that we're experiencing potentially are more in the category that you're concerned about is in the partnered locations. Because those could be upside down in some cases where you have contracts where you brought a customer in and years have passed and you're just scratching your head as to why you still own that footprint and not making much money.
+
+So I would say we're going to focus on the ones we control and make them more profitable, keep our eye on that just-in-time requirement. And I feel good about that. There might be only one or two out of 15 that are in the concern category that you're talking about, and that's something the guys are already focused on. I think the issue on what space we should be in or what the availability is more in the partnered locations that's the opportunity to focus on.
+
+Okay. Great. Thank you for the color on that. One other question, just to kind of piggyback on, I think it was Barry's question. So let me see here. If you look at kind of that the metrics that you guys gave out, if you look at the company controlled square footage over the past couple of years, it's been basically flat. And I know we've been impacted by several churn events over the last few years.
+
+But can you give any details on what the, I guess, the [ph] gross (32:54) sales would look like, so we have some idea of what the [ph] gross (32:58) sales trends are and perhaps what's left of the churn events so we have a better idea of how much churn is coming out over the next couple of quarters which would give us an indication of what the actual sales trends are that are going into the funnel.
+
+Jason, I think we have not historically provided, let's say, direct bookings numbers, although we have reported churn. I would say from the churn perspective at least on that side of the equation we saw all the improvement that we expected coming into the third quarter. If I kind of look down stream and I'll say that I think when we were realizing, let's say, greater than 5% churn rates hitting the Cloud/Hosting business in the first quarter, based on what we can see down the pipeline, our focus on our top 100 accounts which again covers about 35% of our total revenues, I don't think we see any levels of that. And I think we kind of get back down into those, call it, for the Cloud/Hosting business call it the relative 3% ranges plus minus. And then the colo IP business, the DCNS business, kind of in that kind of mid 1s plus or minus type of range. So, I think those are the type of ranges I would call it more normalized than what we've realized in the past 15 to 18 months.
+
+I think there's – as we talked about it, it's a little bit difficult at this stage to kind of prognosticate and certainly we don't want to give guidance today, as to what's going to happen on a bookings basis going forward. As Pete talked about there's work going on right now to effectively review sales productivity within the sales force, sales quantity, the number of sales heads and effectiveness, and so I think there's more to come there before we kind of are in a position, really to give any more detail there.
+
+Okay. Thanks.
+
+And our next question comes from the line of Frank Louthan with Raymond James. Please go ahead.
+
+Great. Thank you. So walk us through the changes to the guidance. Investors have seen quite a few changes there and I appreciate taking a chance to lower the bar bit, not too much of a change. But just want to see what – Peter what have you gone through that's giving you confidence that this is good guidance, this is where we're going to end up.
+
+And then as far as some of the assets for sale, maybe talk us through that, because I think – are you reevaluating them? Because I think there were already two or three assets that have been identified and you had some room in your credit agreement to make some sales. Have you just sort of put [ph] on hold (35:51) everything, go back on the drawing board to start over again, or how should we think about that?
+
+I think assets for sale are just good business decisions that we'll make – I want to determine whether or not they're core or non-core to what we're doing. And I think if you were sitting on this side of the table, it would be pretty objective. And so I would say we're not shutting anything down that doesn't make sense to do. And so have some ideas but we're working on them. But that's just makes common sense from a business perspective I think [ph] here (36:33).
+
+From a guidance perspective, I frankly have been focused on it for a little bit. I took the job a few weeks ago, several weeks ago now six-ish, but I've been following as you can imagine before. I think the guidance now reflects certainly where we're ending up. It's almost mapped now three quarters in you add the same quarter, what we did in the third quarter you're pretty much on the guidance we're suggesting. But I think the difficulty is in making a projection here probably lost small numbers is that there's some legacy or I would call non-core revenues that are in our body that probably needs to be – we need to take action on that would set a baseline potentially that's slightly less as I mentioned, but would be better.
+
+And I think the EBITDA guidance here along with the low-hanging fruit we're talking about is probably going to have a net effect of a better EBITDA margin and still kind of hold the line where we are any in the low 80s at least right now.
+
+I feel there's upside here, but there's a lot of work to do. And maybe by the next call we'll certainly have a better view into next year.
+
+Hey, Frank. This is Kevin. I would also add is, we have some seasonality in the results. So as Pete said, if you expect relatively same performance on revenue line, I had also talked about it in my prepared remarks the fact that in the summer – well, first of all in the spring or second quarter we start getting higher costs in COGS related to cooling capacity. It goes up even higher in the third quarter and that trails off normally in the fourth quarter. Although, temperature still remain kind of high. We're expecting some benefit from that and we also get a little bit of benefit because of some employee taxes would kind of cap out on social security and some things like that usually around this third quarter or so. So there'll where you'll see some higher EBITDA expectations coming into the fourth quarter, and if you look at all prior years, fourth quarter is always kind of our highest EBITDA margin quarter.
+
+Okay. Great. And just follow-up, you mentioned [ph] there are possibly (38:55) I think sort of the partner data centers. Do you have an idea of sort of the magnitude the number of those centers that you think are look like they may be less profitable? And then any other churn items that you might be aware of, other social media acquisitions, or other customers that either have announced, or pending M&A or you think we've seen the bulk of that kind of churn?
+
+I'll talk a little bit about the colo, the partner colo because that's a project we're just kicking off. I saw a list, Frank, but I would say it's early. I don't really want to give you a number. But it's not half. But it's a handful certainly that passed the test right away. The rest we have to do some analysis because it might be an area or a market we want to keep and just got to hold it up a little bit better. And it could be a sales issue too. So we haven't really finalized the list, but it's not a huge number. But it's got some beef there and we'll focus on it. Kevin, [ph] you can (40:10) handle the other one?
+
+Yeah, I'd say on the churn, Frank, from what I can see right now, I don't see any of that, call it one large significant customer coming down the pipe here in the fourth quarter versus third quarter, I can see churn rates right now maybe being up a couple hundred thousand, but not a significant [ph] return (40:31) to those. Like I said that it's much higher 5% in Cloud/Hosting Services business things like of that nature. We've actually had pretty good performance where our internal forecasting of second, third quarter [ph] erratically had us up a (40:44) little bit on higher churn and we've actually realized a little bit better. So all things being equal I would say this spring, now we're planning on slightly elevated churn, but again only a couple hundred thousand, and then assessing how the customers are looking for next year at this stage.
+
+Okay. Great. Thank you very much.
+
+And our next question comes from the line of Chris Marangi with Gabelli Funds. Please go ahead.
+
+Hi, Pete. Two questions for me. First almost three years ago, the company acquired iWeb for $145 million I think that was a 13 times multiple. Can you comment how that asset has performed since the acquisition?
+
+I've been up to Montreal. I talked to the iWeb team, Chris, that is the crack team that we have. We have a really good team up there. I think the guys have also been very creative on how to run their business. I think there's some work to be done that we'll work on together to evaluate what we can do from here on out. But the development that we're doing in the OpenStack platform with the team up there is very impressive. I think we have something here that I want to explore. I think it's attractive for our company. It's attractive and potentially for any company to have some relationship with us when it comes to, what I call iWeb and AgileCloud together. Because the team is actually programming the future for us in AgileCloud 2.0 which when you think about cloud from probably the lower end SMB customer to an enterprise customer, it all happens out of the same shop. So we have some value there and I need to learn more about it, Chris.
+
+But in the analysis I had put together quickly is I want to put all of those things under one umbrella. So AgileCloud and iWeb as our cloud business because the synergy even amongst the activity that we're working on is phenomenal. So I'm going to put some work on it to see how that stands on its own with a little bit more freedom, if you will, to produce more. I think it has a lot more upside than potentially it's produced in the past, so, more to come on that.
+
+Great, great. And the second question, understanding you're limited in what you can say about a potential recap. Does the range of options include issuing a convert into the company or a convert perhaps into the iWeb AgileCloud subsidiary?
+
+There's a lot of options on the table, Chris. And I think we're going to explore what the best way is. But I would say everything's on the table. We're going to look for ways to put us back into the game. So that if we want to buy a tuck-in or if we want to sell an asset, we need the flexibility. So anything that gives us that flexibility I'm totally open to and aggressively pursuing. So, I think that's what we got to do right now.
+
+Great. Thanks. Good luck.
+
+Thank you.
+
+And our last question comes from the line of Aaron Moore with Sound Point Capital. Please go ahead.
+
+Hey, guys, just a couple more. I know there's been a few recent product releases out in terms of the IP connectivity shifting away from contracts, in [ph] paying (44:39) as you go as well as the cloud option which seems to allow vendorless or agnostic performance in the cloud. So just curious how that's resonating with some of your customers, is that making you guys more competitive in terms of win rates, and just a general feedback on how it's tracking so far and the expectations for some of those recent announcements?
+
+So yeah, let me try that one. So I think on the IP connectivity, I think what we're seeing right now is, I'll call it activity that has not yet really come to, let's say, closing on those. So I would say that while we made those announcements, I believe I'm going to say kind of mid-quarter, mid third-quarter marketing qualified leads and things of that nature have actually picked up. And I think that's been a positive note. At this stage we haven't seen that go to revenue in the third quarter because of the timing of those offerings, so I think more to come as we get through the fourth quarter.
+
+Would you sit maybe more on the cloud option is that something that – I mean, this seems pretty strategic and maybe that came out of the review process or as a request by some of your customers. But do you see that reducing churn or increasing win rates, is that just sort of a, I don't know, necessary or critical evolution to the product set in your view?
+
+Yeah I think it is, because it certainly shows that our flexibility, our being open to our customers. It's certainly reflective of I think a lot of dynamics in the industry when you see other types of that where cloud providers and networking companies or – through networking are working more closely together. So from that perspective it's certainly, we believe that it's going to, A, help us be more attractive for current potential targets who are currently not customers. And B, as customers think about flexibility for cloud options it also gives them another alternative to continue to use us and our products while thinking about possible other options for technology.
+
+I would add that there are certain companies that are colo companies. There are certainly colo and network companies. And there's other companies [ph] which are (47:10) cloud companies. Having both in our body I think is interesting and potentially a distinctive advantage. When dealing with a customer that can go both ways, I think that's where you're leaning, and we have that. So I think it's up to us to try to leverage that that advantage, because customers are looking for both, I think, in some cases, right, especially in the enterprise space.
+
+Sure. And then just lastly if I can, just kind of a broad update maybe across some of your key verticals and some trends that you're seeing there, maybe with a focus on gaming where I think you guys are a strong player and just maybe a commentary across some of your largest verticals. Thanks.
+
+Sure. I would say in the past actually quarter we actually had some very nice performance pick up and I've got two names in my mind of new logo gaming customers. So I think good progress there from a more of a big data or ad tech type of focus I think we continue to play very strong there.
+
+So, I think from those two verticals in particular I think have actually been some good strong performance, some activity on the healthcare front for the HIPAA related capabilities that we do have. So from those perspective I think those verticals are continuing to perform reasonably well.
+
+Are there any verticals that have been underperforming, or are just down year-on-year?
+
+It's difficult to say on a vertical basis. I mean, inherently in the base you do have a I would call it, it's more of a technology issue than a vertical issue and that is IP specific where you have a history and the company was originally built upon IP-only type of products, let's say, [indiscernible] (49:12). It's more where our pressure really comes through is as [ph] contracts report (49:18). And again that's what we realized in this quarter was more pressure there. So less so on a vertical basis, little bit more so on just the pure-play technology.
+
+Great. Thanks a lot.
+
+Sure.
+
+And ladies and gentlemen, I would like to turn the call back to Mr. Peter Aquino for final remarks.
+
+Thank you operator, and thank you everyone for listening in today. We look forward to getting on the fourth quarter call and you'll probably see some work in the middle, as we get our initiatives. Thanks again. Have a great evening.
+
+Ladies and gentlemen, thank you for participating in today's conference. This concludes the program and you may all disconnect. Have a wonderful evening.

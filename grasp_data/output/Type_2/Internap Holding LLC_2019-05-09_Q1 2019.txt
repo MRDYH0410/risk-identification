@@ -1,0 +1,290 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+Richard R. Ramlall — Chief Communications Officer, Internap Corp.
+Peter D. Aquino — President, Chief Executive Officer & Director, Internap Corp.
+James C. Keeley — Chief Financial Officer, Internap Corp.
+Adam Kelsey — Analyst, Craig-Hallum Capital Group LLC
+Dan L. Kurnos — Analyst, The Benchmark Co. LLC
+Frank G. Louthan — Analyst, Raymond James & Associates, Inc.
+Jonathan M. Petersen — Analyst, Jefferies LLC
+
+Management Discussion Section
+
+Question And Answer Section
+
+Good morning, ladies and gentlemen, and welcome to the INAP First Quarter 2019 Earnings Conference Call. At this time, all participants are in a listen-only mode. Later, we will conduct a question-and-answer session and instructions will follow at that time. [Operator Instructions] As a reminder, this conference call is being recorded.
+
+And now I would like to turn the conference over to your host, Richard Ramlall, Chief Communications Officer. Sir, you may begin.
+
+Good morning, and thank you for joining us today. I'm joined by Pete Aquino, our Chief Executive Officer; Jim Keeley, our Chief Financial Officer; and Joe Dufresne, our VP, Corporate Development. Following prepared remarks, we will open up the call for your questions. The presentation and earnings release we referenced in the call are available on our Investor Relations page in INAP's website.
+
+During this call, we will present both GAAP and non-GAAP financial measures. A reconciliation of non-GAAP measures to the most directly comparable GAAP measures are included in today's earnings press release. Management believes that our presentation of non-GAAP financial measures provides useful supplemental information to the investors regarding our results of operations, and our non-GAAP financial measures should only be considered in addition to and not as a substitute for or superior to any measure of financial performance prepared in accordance with GAAP.
+
+Today's call contains forward-looking statements as described in page 2 of the presentation, which we urge you to read. These statements are not guarantees of future performance. Actual results may differ materially from these forward-looking statements due to assumptions, risks, and uncertainties that are described in more detail in our filings with the SEC. We undertake no obligation to amend, update or clarify these forward-looking statements made as of today, May 9, 2019.
+
+Now let me turn the call over to Peter Aquino. Pete?
+
+Thank you, Richard, and welcome, everyone. Today we will cover three main topics: our data center portfolio improvement and product upgrades; our new credit facility amendment accomplished this week; and our sales shift to retail plus wholesale. We also announced that we hired strategic advisers to help us explore opportunities to gain scale in an industry that continues to consolidate. INAP's platform has been optimized over the last two years and we're in position to get to the next level.
+
+So let's start with slide 4. INAP accomplished a major portfolio resizing and upgrade since 2016. By this first quarter, we added two premium colo assets in Phoenix and Atlanta, both high absorption markets, and swapped out six underperforming facilities. To-date, overall colo revenue is slightly lower, but we have a more attractive composition of core assets.
+
+In addition, we worked on product enhancements over the last year and now offer advanced cloud services enabled by our SingleHop acquisition. Advanced INAP cloud services are providing organic growth while we are harvesting some of the older SMB platforms that still generate positive cash flow.
+
+We also engineer network upgrades to provide our customers with better service and reliability. These efforts resulted in a new and improved INAP portfolio led by our data center flagships. And I admit that many of these asset additions and subtractions create a lot of noise in our P&L over the last year or so, but we are through it and positioned for the future.
+
+Year-over-year, first quarter revenue was flat at $74 million. But this quarter's $74-million product set is much [audio gap] (04:16). This is a platform that we can scale up and leverage for our customers. The available capacity in major markets is upside for our sales team as we aim for larger enterprise deals.
+
+Our expert operations teams provide great service in our Tier 3 data centers and partner with our customers to help them grow their businesses. In addition, INAP cloud is growing within the four walls of our flagships, and we are working on deals for customers and new pods in London, Seattle, and Ashburn where we have space.
+
+Customers are also attracted to our high-performance network as we successfully bundle our products in many cases to give customers a full solution. Our fiber rings and backbone network were recently upgraded to handle increasing bandwidth demand, which translates into a great closing tool for our sales team.
+
+Our pipeline is growing with larger deals, and our backlog is currently hovering around $12 million. We're also pleased to report that we reached agreement with our lenders to provide additional flexibility to match INAP's current portfolio set. The credit facility amendment is a follow-on to our recent equity raise to de-lever and begins to open up interesting opportunistic discussions to gain scale inside of 2019. The 8-K is available this morning.
+
+Generally, the amendment better aligns with our revised asset portfolio post data center exits and pushes out covenant step-downs to the back end of our term. Our cash interest rate goes from LIBOR plus 5.75% to LIBOR plus 6.25% with 75 additional basis points in PIK to conserve cash. This trade between rate and flexibility was expected, and we will utilize this runway to engage in discussions with customers, partners, and strategics in the upcoming months.
+
+INAP 2.0 is focused on both retail and wholesale deals that leverage our Tier 3 colo facilities. We now offer upgraded value-added services in private cloud and network connectivity that is attracting enterprises who often reside in multiple sites. And this is great for INAP. And our sales team is working to take advantage of our metro footprint.
+
+Our go-to-market strategy is to focus on winning core to edge latency-sensitive workloads, leveraging our network and facilities alike. In addition, INAP cloud is a great choice for those invested in multi-cloud hybrid platforms. Our win rates are up and our channel partner leads are growing. INAP's attributes at a glance promotes key benefits to our customers, including 14 INAP flagship data centers with over 1 million square feet that we control in major markets in North America.
+
+We invest most of our growth in maintenance CapEx in these facilities. This category comprises of a majority of our available power of over 111 megawatts and space capacity, and has the highest return on investment.
+
+Today, as we add new data center space by converting Phoenix and Atlanta from single tenant to multi-tenant sites, our available capacity is now about 60% with all of the data center asset improvements incorporated. We supplement these flagships with six turnkey facilities and Tier 3 data centers operated by other leading providers. We spend mostly success-based CapEx in this category as our lease cost typically includes maintenance. Our contribution margins are logically somewhat lower in these sites but our CapEx spend is also lower.
+
+The balance of the 53 data centers are smaller footprints inside of other providers' Tier 3 facilities around the world, and in many cases, these smaller sites are also colocated with our international POPs. We also embed cloud pods into strategic locations including Secaucus that serves New York and New Jersey, Dallas, and Santa Clara.
+
+And regarding expansion, we recently constructed an advanced cloud pod in our Colt facility in London, and we started selling there. In addition, we're competing for larger colo deals at that facility and gaining traction with a growing pipeline.
+
+All of these infrastructure assets in North America, Europe, and APAC are connected by our network facilities. INAP continues to attract customers given this connectivity reach through over 100 POPs worldwide.
+
+With this platform and attractive attributes, we are now engaging customers who require multiple INAP locations, and our low latency network enables that interest and is often a differentiator for those operating in a hybrid cloud and to our colo environment.
+
+So at this point, let me turn the call over to Jim Keeley to go over our financials.
+
+Thanks, Pete, and good morning, everyone. As previously disclosed, 2018 results include SingleHop operations beginning March 1, 2018 and are therefore not comparable to prior periods. Please turn to slide 6 now entitled quarterly financial summary.
+
+As we move into 2019, we have positioned INAP for growth after making positive strides towards improving each of our product categories. After accounting for the revenue loss from the exited data centers and the downsizing of our anchor tenant in Atlanta, both of which were part of our portfolio rationalization completed in 2018, colocation revenue would have been fairly flat in the first quarter of 2019 as compared to the first quarter of 2018. Cloud services grew year-over-year as we added SingleHop's advanced platform to our product mix while harvesting some of the legacy platforms.
+
+Each time we expand the SingleHop platform to a new flagship data center, generally the request of an existing customer with a signed contract, we create new opportunities for growth. Total revenue as reported was $73.6 million in the first quarter of 2019, relatively flat year-over-year and a decrease of 6% sequentially. Despite the loss of revenue from the exited data centers last year, we were able to keep total revenues flat year-over-year primarily from the benefit of the revenue from the SingleHop acquisition. The sequential decrease was primarily due to the anticipated resizing of our Atlanta facility and exited data centers along with churn late in the fourth quarter of 2018, all of which were expected and amounted to about $2.6 million.
+
+Adding back the negative impact of $1.4 million one-time adjustment in the fourth quarter of 2018 gets us roughly to the $77 million of Q1 revenue that we guided to on our last call. What was not anticipated was low non-recurring revenue of about $1.1 million, lower installs net of churn of about $1 million, of which about half was due to the delay of several large installations, and an adjustment to deferred revenue amortization of [audio gap] (12:04).
+
+Now, let's turn to the consolidated earnings slide, 7. Net loss in the first quarter was $19.6 million, including $3 million of other expenses such as $1.4 million from exit and restructuring activities and $900,000 of stock-based compensation. On a normalized non-GAAP basis, first quarter 2019 net loss remained relatively flat at $16.6 million compared to the prior quarter, and increased $6.6 million versus $10.6 million in the prior year. Sequentially, a decrease in income from operations resulting primarily from the revenue decline was offset by lower interest from a onetime cap adjustment in the fourth quarter of 2018. The year-over-year increase was primarily due to higher depreciation and amortization and higher interest expense, both of which primarily resulted from the SingleHop acquisition, as well as restructuring and exit activities associated with the final impairment of the exited data centers plus the impairment of two partner sites where we will be getting back unused space at the end of the term.
+
+Adjusted EBITDA in the first quarter was $23.6 million with adjusted EBITDA margin of 32.1%. Adjusted EBITDA decreased primarily due to the decrease in revenue both recurring and non-recurring, as well as some unexpected onetime adjustments. If you were to normalize EBITDA, there is about $1 million of EBITDA for [audio gap] (13:43) cost savings and installs coming back into Q2.Capital expenditures in the first quarter were $8.6 million, compared to $12.4 million last quarter and $6.4 million in the first quarter of 2018.
+
+The first quarter spend was predominately for success-based growth capital to fund customer installations and mean its capital in-line with the market. Our capital expenditures plan for 2019 will focus on growth, success-based growth capital and maintenance capital, in turn shortening our returns on capital investments and generating higher free cash flow.
+
+We do not plan to spend fund speculative large data haul build-outs unless we have an anchor tenant under contract. Our goal was to leverage the existing capacity in our flagship data centers to improve cash flow. As evidenced in the first quarter of 2019, adjusted EBITDA less CapEx was $15 million, basically flat compared with the prior quarter.
+
+Now let's turn to slide 8, our INAP U.S. business unit results. U.S. revenue of $57.5 million in the first quarter of 2019 was relatively flat year-over-year and a decrease of 6% sequentially. Year-over-year, revenue declines resulting from our portfolio improvement initiatives in colocation were offset by cloud revenues from the SingleHop acquisition.
+
+The sequential revenue decrease was primarily due to lower colocation and network revenues resulting from the planned data center closures and the expected resize [audio gap] (15:20) customer footprints, lower non-recurring revenues, lower amortization of deferred revenue, and lower installs net of churn as several large installs were delayed to the beginning of the second quarter.
+
+The U.S. business [audio gap] (15:36) 2019 contribution was $24.6 million, resulting in a 42.8% contribution margin. The year-over-year decline of $2.4 million from $27 million in the first quarter of 2018 was primarily due to loss of colocation and network revenue from the exited data centers, offset by increases in cloud from the SingleHop acquisition. The sequential decrease was essentially the same explanation as the total company changed in adjusted EBITDA since the majority of the portfolio restructuring occurred in the U.S. business unit.
+
+Now let's go to slide 9 to discuss our INAP international business unit. International's first quarter revenue totaled $16 million, a decrease of $900,000 sequentially and a decrease of $1.1 million year-over-year. The year-over-year and sequential decreases were primarily due to management's decision to harvest legacy cloud products in the SMB sector. The international business unit contribution of [audio gap] (16:38) increased sequentially and year-over-year as we continue to drive cost out of the segment. The first quarter international contribution margin increased 270 basis points sequentially to 39.6%and increased 460 basis points year-over-year. The increases in contribution were due to lower network cost and overhead cost savings resulting from our continued focus to drive inefficiencies out of the business.
+
+Moving to slide 10 entitled Cash Flow and Balance Sheet. Free cash flow defined as net cash flows provided by operating activities less capital expense was a negative $6.3 million in the first quarter of 2019, an increase of $700,000 from the prior quarter and a decrease of $3.6 million from the prior year. The sequential increase was primarily due to lower capital expenditures as we focus our spend on success-based capital and maintenance. Overall, cash flows were about $3 million lighter than we expected due to the delay of the cash receipts from one of our larger customers that came in the first week of April. Cash interest was $14.3 million in the first quarter, $1.7 million lower sequentially as we had several months of free rent on some of our finance leases. This brings unlevered free cash flow to $8 million in the first quarter of 2019, compared to $9 million in the previous quarter and $10.9 million in the last year.
+
+Total debt of $686.5 million includes $271 million in finance lease obligations which were previously capital lease obligations on our balance sheet, $169.1 million of our capital lease obligations are excluded from debt for bank covenant purposes as they were operating leases at the time of the refinancing. Our covenant-based leverage ratio was 5.7 in the first quarter of 2019, 5.4 in the fourth quarter of 2018, and 5.1 in the first quarter of 2018. Cash and cash equivalents were $8.3 million at the end of the first quarter versus $17.8 million in the prior quarter.
+
+The decrease of $9.5 million was primarily driven by the delay of the large vendor payment received in the first week of April of $3.2 million, about $2 million in CapEx paydown, a $1 million payment to increase our equity ownership in the Japan entity to 85% per the agreement, and the remainder is due to working capital timing. Several of the leases for the exited data centers have ended, giving us a nice bump in cash flow, as well as additional liquidity from the letters of credit held as deposits that expired. The majority of the remaining leases for the exited data centers will terminate by the end of the second quarter, in turn closing the chapter on our portfolio rationalization.
+
+Turning to slide 11, 2019 guidance ranges. As we complete the first quarter with the impact of our portfolio rationalization behind us and key initiatives under way, we are reaffirming our guidance revenue in the range of $320 million to $330 million, adjusted EBITDA in the range of $20 million to $130 million, and CapEx between $40 million and $50 million for the year.
+
+With the reset of our baseline and adjusted EBITDA in Q1, we have already taken actions to reduce our cost and manage capital expenditures and expect to produce meaningful cash flow from adjusted EBITDA less CapEx as we continue to drive cost efficiencies in the business. Now let me turn the call back to Pete.
+
+Thank you, Jim. Let's turn to slide 12 for our closing remarks. We worked very hard to groom our data center portfolio to land on 14 INAP flagships. The conversion from single tenant to multi-tenant environments in our Phoenix BofA flagship and the Atlanta [ph] Coke (20:42) data center may have taken a little bit longer than expected causing some delays but we've worked through all of those delays and timing issues. We have added fiber connections to bring those flagships on net and now heavily marketing those facilities with both our direct sales force and channel partners.
+
+We recently hosted a Data Center Investment Conference & Expo with Bisnow in April at our Phoenix flagship and which some of you may have attended. We had over 200 attendees from customer prospects to industry specialists. So you can see we're doubling our efforts to show off our flagship facilities with events like this. We also enjoy new booking success from our advanced cloud platform utilized by industry leaders in verticals such as ad tech, online gaming, and eSports, and shared services companies around the world.
+
+INAP has a great niche in these verticals and others, and work with our customers as partners to accelerate deployments in our markets. Adding cloud pods in London, Seattle, and Ashburn are either done or in progress. We still have plans on the drawing board for Toronto and Singapore and working with anchor tenant timing.
+
+Finally, we believe that the INAP platform is now optimized and positioned for the next step to gain scale. We have hired experienced financial advisors who know our space very well in Moelis and LionTree. Together we'll explore the best opportunities to maximize value for our shareholders, and we will focus the balance of 2019 to flesh out the best strategic initiatives to take INAP to the next level.
+
+So, operator, this concludes our prepared remarks. We're happy to take questions. [Operator Instructions]
+
+Your first question comes from the line of George Sutton from Craig-Hallum. Your line is open.
+
+Thank you. This is Adam on for George. A few quarters back, you were providing a sense of large deals yet to be implemented. Can you give us a sense of what that might look like today?
+
+Sure. We're really focused on selling more than 1 megawatt or thereabout to really step the company up from just pure retail to retail plus wholesale. We're not really talking about hyperscale, Adam. We're talking about just big enterprise requirements for literally 10,000 square feet and 1 megawatt. There's a lot of interest and frankly new interest in INAP in this regard because we weren't really known for those larger deals in the past and now we're getting traction. Our pipeline is bigger now than ever before with deals where customers are looking at the NFL cities and seeing our capacity availability knowing that we could turn it around quickly, and then giving us a shot at those. And those RFPs are coming in faster than ever before, and I think we're probably in five or seven of those right now. So we just have to have some constant pressure on those deals, try to really pull them over the line, and last year we did about three of them. This year we hope to do that or better. And frankly if we can score even more than 1 megawatt in one shot, it really covers a lot of ground in terms of organic growth. So that's our focus.
+
+Great. Thank you. And then also reflecting back on last quarter, you discussed how you wanted to plan for landing 1 megawatt deals on average each quarter. Do you feel like that's still proper projection?
+
+Yeah, I think so. I mean, the pipeline says it. We have a little delay from fourth quarter to first quarter, maybe slower than I would expected, but they're in the pipeline. So we have to work with customer timing, of course. We have the space ready to go, and we're really encouraging customers without pushing a little bit too hard on getting them to make that commitment. As you can imagine, those have longer lead times and investments of those sides for even some of these verticals we're working with require more diligence and support from their board, of course, to make those investment decisions. So these types of deals tend to have longer lead times, but once they prepare and make that decision, it's a great investment for both companies, really a win-win. So we're patient but pushing as hard as we can against other folks' time, we don't necessarily control the whole thing. So we're working with them closely.
+
+Great. Thank you.
+
+Your next question comes from the line of Dan Kurnos from Benchmark. Your line is open.
+
+Good morning. Maybe you guys can help us sort of understand the pace of play over the balance of the year, now, Pete, it obviously – it sounds like the whole space had some push outs in the second half of 2019. Sounds like you weren't immune to that either, but I don't know that we had all fully recognized the resize of, I guess, Coca-Cola, and I don't know if you're done with BofA.
+
+So actually let's make that a separate question. Just maybe – just start off with kind of – look, you're starting it 73.5, you didn't change your full year guide, so just give us some – kind of following on to what you just answered, give us some confidence – or how you have visibility that you get at least to the low end of that guide and how the year kind of shapes up based on what you're seeing in terms of when you expect revenue to start coming in.
+
+Yes. Good question, Dan. I mean, at the end of the day, timing certainly could affect the top line. We have an organic path. We have a pipeline that's – it's the best I've ever seen. So the only thing – our enemy is really time and calendar, but we're playing for four quarters, and this is one quarter with delay.
+
+The reset too is – I feel very confident that we finally got to the core assets we want to work with. We try to accelerate as much as we could into 2018 with some leftover, and regarding maybe your second point of your question, when you try to transition a single tenant building to mult-itenant, that did take a little bit longer than we expected. And some of it wasn't really in our control because our customers somewhat delayed leaving.
+
+It's kind of a good news-bad news story. The good news is that the revenue stayed on through 2018. The bad news is we couldn't get at that space to convert it. So we had a down quarter in that transition. So, somewhat expected and planned, but we had to overlay it a little bit better into 2018 if it happened on time. So that was a little bit of an issue in the first quarter, but the reset at the end of the day with Coke and BofA in place and converting to multi-tenant is where we had to get to anyway. So it took a little bit longer.
+
+The other good news I thought in the first quarter was that international profitability is up towards 40%, and we've been calling that out. That will help the overall EBITDA story for the end of the year. As Jim mentioned, we have some cost savings built in to the back half of this year that protects our guidance on EBITDA. And given the delays in some of the refurbishing, if you will, of these other flagships, no CapEx, even a little slower in the first half of the year. So we think EBITDA and CapEx are probably in good shape for guidance. And as I said with the pipeline that I'm looking at for the rest of the year, we just have to see what the timing of that is as we try to execute. Nothing's happening fast enough, as you can imagine, for us, but it's a little bit more difficult playing quarter to quarter, but these deals and the flagships that are in place are perfect for the pipeline that we have in place. So we're kind of psyched about that. We're optimistic. We don't love timing, but we're still focused on the same strategy and think we can get there.
+
+I think the other good news too is that the amendment that we announced this week gives us that flexibility in timing. We were very concerned about the overhang on the stock related to the covenants. I think that got swept away in this week's work. We appreciate the lenders working with us to get that done. So that was critical and gives us the runway to work with LionTree and Moelis to see what else we can do throughout the year to gain scale because as we all know, INAP is a really great platform but is still subscale. So we have to look at ways to get bigger, and I think LionTree and Moelis will help us do that.
+
+Just on that point, so a couple of things you said there, Pete. So just to be clear, so BofA and Coca-Cola are done, they're resized, I guess down, and you could sign a tenant today in either Atlanta or Phoenix?
+
+Yes. Yes.
+
+Okay. And do you have – I mean, I guess you can't – I don't know if you would be able to comment if – our understanding was there may have been some soft commits in either of those two markets. Obviously there's been interest in Ashburn, and maybe if you also want to touch on, Chicago has been an area of interest as well. I know you mentioned the pod, the cloud pods, but just any thoughts on those specific geos in terms of committed interest?
+
+Yeah. I mean, as you saw in our model, we haven't been out in the market buying very expensive portfolios that we had to fix again, so that hasn't been the idea of how to expand. The best way to expand, and we did it with the BofA building and the Coke building, for us is to make sure there's a market with high absorption that you need and focus on a triple-net lease with a partner in a quality Tier 3 building that you could put on that with your fiber rings.
+
+In the case of Atlanta, the perimeter data center where Coke is, is on a fiber ring with downtown Williams Street of our Atlanta data center. And that is an expansion strategy. From my perspective, that improves the portfolio while we're getting out of, as you know, the underperforming partner sites. These are our sites. They're on fiber rings. It's ubiquitous and the connectivity is on steroids. So that that's the way I like to do it as a standalone in our body where we pick a market and we find a good building and work with the commercial real estate group.
+
+Phoenix is also high absorption. That was the target market. And the other space we had in Phoenix, that's also on our fiber ring. We're running out of space with one of our largest customers. So we wanted to provide runway for them, and this Phoenix flagship is our biggest and it's a very exciting 15-megawatt-plus building that we could put in wholesale plus in here. So as one investor mentioned in last call, if we get lucky/hot and certainly we deserve it, in Phoenix, that could solve a lot of problems in terms of organic growth all in one shot. And that I think we have 4 megawatts or 5 megawatts ready right now. So we're promoting that as ready to go, bigger than a bread basket and that's our biggest.
+
+The other markets like Chicago and Ashburn, we already have network connectivity in both. We have POPs. In the case of Chicago, we have a partner site that's downtown Chicago. It's a good facility, great facility. Just a little bit more expensive for my taste and we don't really control it. So we will look towards other properties in Chicago to bolster that. We've been looking. We've been smart about picking wisely, and we haven't done anything quite yet.
+
+Ashburn is also on our list as is Toronto. We've been working with others to see a way in, but frankly it's been one of those situations we really like to have a contract in hand or some anchor tenant encouragement to take on a lease with revenue frankly or at least a prospect that makes it smart.
+
+So we've been picking wisely and frankly taking our time not to overdo it. But in this case, when you're talking about small cap infrastructure playing by quarter, it's a little difficult. But we've been patient. We've been disciplined and we will pick wisely.
+
+Got it. All right. I obviously have more questions, but I'll let other people ask. I'll get back in queue and ask some more then. Thanks.
+
+Thanks, Dan.
+
+Your next question comes from the line of Frank Louthan from Raymond James. Your line is open.
+
+Okay. Great. Thank you. So, talk to us about the guidance. With the lower results here, what are you looking at that's giving you the confidence to leave the guidance in place, that you can hit the first question? And then when you say you're exploring strategic alternatives to get scale, can you give us an idea of what that means? What exactly are you looking at? Are you looking at it to make large acquisitions to get scale or what does get scale mean?
+
+Sure. Thanks, Frank. On the guidance side, I mentioned earlier that I think on the cost side and the CapEx side, we have more in our control. And when we resize our footprint, there are some logical things we're doing just to get that back in balance. So I'm not as concerned about those components.
+
+On the revenue side, the delay in the first quarter, and like I said, we're playing four quarters here, provides a little bit of a timing issue on total revenue but the pipeline includes non-recurring revenue, better usage, and some bigger deals. The timing of those deals and the nature of how those deals come in could affect revenue guidance, but we see them and we have a path.
+
+So the question is, how are they going to come in? How soon can we log them in? And are they coming in via cloud, international, or colo? And each of those have different timing. So cloud revenue is immediate and that's helpful obviously relative to the calendar. Colo is lumpier, and we'll book it and it'll be significant but it may not bill in time for guidance to hit organically straight up. So we have to see a little bit more how these deals roll in and we'll know more certainly in the second quarter, and we'll talk to that.
+
+The thing that confuses matters a little bit is what are other ways to grow besides organic? Certainly, it's inorganic. And we're not advocating, as I mentioned, to Dan ridiculous tuck-ins that are not accretive. We want accretive deals. We'll be patient, and that's on the offensive side.
+
+On the idea of getting bigger other ways, certainly the industry is consolidating. We are a platform that is a perfect plug-in potentially either we initiate it or it's initiated on us, I guess, to take this platform and plug it into something else that's looking like needs NFL cities, Tier 1 and it's good for our customers. The biggest driver of interest by our customers are multi-sites.
+
+So the NFL cities that we have, and we talked about maybe some shortage in Ashburn in Chicago, is part of the whole go-to-market pitch. Let me look at the cities you're in. Let me look at the cities you're in, let me your connectivity, what can you offer me in value-added services and professional services because I need help?
+
+I want a partner. I just don't want a space and power. We're a great fit. And I think some of the peer group, I call it the $300-million, $400-million club, most of them private as you know, have similar issues where you're offering just a subset of a portfolio that customers need to go multi-city.
+
+So, Moelis and LionTree are just – they're expert at this, they know the market, they know all the players, we've known them for years, we've worked together for years, we think alike. So the question is how to gain scale mostly for the sales team to add more product and reach and markets, if you will, where customers want multi-site. How do we do that?
+
+So we're exploring the best accretive way for the benefit of our shareholders to gain scale in a smart way because where we are today at INAP with this new and improved portfolio which we're very proud of, it's still small relative to the enterprise demand for infrastructure, and everything is relative. But we know that we can max out the high absorption markets over time because we have interests there. But we want to get bigger, and bigger in scale and infrastructure is the name of the game.
+
+And my peer group, who we talk to often, they're all great leaders as well. I see their struggles and I think certain discussions just makes sense. So we're trying to get advice from smart people, and Moelis and LionTree are some of the best. And so we want to tell the market we're doing it. We want to attract folks to the idea and see what kind of discussions come out of it. And we reported that today to really be upfront with you know with the market.
+
+Okay. Thank you. Appreciate that. Pete, can you remind us what's your what's your contract is as far as your options? I believe there's accelerated vesting in an M&A situation. And how far does that extend to other C level officers? And has anything changed in that regard lately? Thanks.
+
+No. Nothing's changed. Our incentive program all the way down to everyone who owns stock is half time and half performance. The performance measures are very close to guidance and are driven by those metrics. From my perspective or my personal contract here was a three-year deal that ends in September of 2019. However, the board has created an evergreen clause for me. What that means is sometime in the fall we'll talk about go forward and I've expressed interest to continue to help INAP get to the next level. So the board and I are in discussions, not final yet. But there's no cliff to my contract.
+
+We could work together to an end. But everyone here on the C team is at will with incentives to perform and certainly down to everyone, like I said, everyone who has stock is half time, half performance, which is pretty unique to INAP.
+
+And there is accelerated vesting if there were some sort of deal scenario?
+
+Yes.
+
+Great. All right. Thank you very much.
+
+Thank you.
+
+Your next question comes from the line of Jon Petersen from Jefferies. Your line is open.
+
+Great. Thanks. Just one question for me. So just looking at the 8-K on the amendment you put out this morning, it gives you a little more flexibility on your net leverage ratio in the near term [ph] where there's (43:19) call for step-downs over the next three years. So maybe if you guys could just speak high level about your ability to grow and to spend CapEx over the next few years given these requirements to reduce your leverage.
+
+Thanks, Jon. Yeah, the amendment was basically near-term flexibility to continue to operate. If we start engaging in larger discussions to gain scale, more than likely it's a new facility. So this is designed really for the short term, to gain relief so that we can we can work with customers and partners and potential strategics without a whole lot of pressure, relatively speaking. The amendment also is a function of an older credit facility that didn't match any of the initiatives that we put in place in the last two years, really, from a size and production perspective. The resizing of the company's portfolio is better aligned with the amendment, but again it's an old credit facility that probably needs to be addressed at some point. The term ends in 2022. So we have time in the current facility but I think something is going to happen before that relative to our last conversation on gaining scale. So that's really – the tightness of it that you're pointing out, I think, is a temporary issue.
+
+Okay. And then I guess is it fair to gather from what the tone of some of these responses in terms of looking at strategic alternatives? And I guess we're just talking about with leverage that if in a year from now INAP doesn't look structurally different in one way or another, whether it's absorbed into another company or something large has happened to transform your portfolio that that would be a disappointing outcome?
+
+For me it would because that's not the plan. I mean, even two years ago when we came in, we knew we were small and we knew we had to fix the portfolio as a platform. We're basically right where we thought we'd be. But to be in this size as a public company, frankly the only public company, well, my peers are all private, it doesn't make much sense at least from an industry perspective.
+
+So we're going to do something about it to the extent we can control it or find the right answer for shareholders. But we're so small as a public company, I don't think it makes sense to stay as an infrastructure company at this level, again not so much for execution as much as it is an advantage for customers who need a bigger platform. I mean, the customers we're talking to that are enterprise customers, they need more infrastructure.
+
+And so we're finding that some of the larger deals, we may have two out of three locations, and it's always that third location that causes a little stress because now we got to partner with somebody to get that third. And that's not great for customers. So, ultimately we want enough footprint to handle larger customer requirements that need multiple locations. That's what's really – we kind of knew that upfront, but it's pretty obvious now as we have the connectivity, we have a premier private cloud service that we can tuck in, it comes down the colo footprint for some of the enterprise want to be some of the best markets. That's what's driving it, Jon.
+
+Okay. All right. That's helpful. Thank you.
+
+We have a follow-up question coming from the line of Dan Kurnos. Your line is open.
+
+So, Pete, just a couple of things, or maybe Jim, just on the cash flow uptick from the expiring leases, can you just give us a sense, and I know, Pete, obviously the focus seems a little bit more on what you were just talking about, but just short term, can you give us a sense of what's kind of free cash flow maybe looks like? Are you back to free cash flow positive in the back half of the year as a start in 2Q? If you have cash, I know before – I know you're going through the strategic alternatives so it may not matter. But obviously the stock is massively dislocated. Do you consider putting some cash to work there on a buyback versus growth initiatives? Just maybe address some of those things.
+
+Yeah. I think overall – I'll address the first one on the restructuring. So, our restructuring, as I mentioned in my script, a big chunk of what we are paying out on a quarterly basis was quite close to $2 million, $2.5 million in the third and fourth quarter. Probably half of that is out of our system and then the other half is coming out in the second quarter. We have a few small ones that will carry on into next year that we have sub leases on but it's under $20,000. It's small. So we'll be completely out of that and we've already started to see some of the impact of that cash flow.
+
+As far as on a go-forward, it really depends on some of these larger deals. If we were to land an anchor tenant who wanted to build out expense, that money would go to support that and that would be done under contract. Our customer success base and maintenance program, there's sufficient cash flow to control that throughout the year and through more free cash flow as we get towards the year and get out of this exiting. So I'm pretty confident in that respect.
+
+Pete, just to go back – and thanks, Jim. Pete, to go back to what you just said, obviously, it's been brought up before, but given what you guys have announced today, it sounds like you're more incrementally confident that this kind of announcement is a positive in terms of potential contract wins. I just want to make sure that you guys aren't concerned and/or, how you think about the impact of announcement timing based on what you said today, where the stock is and sort of whether or not that does have sort of a forward impact on your ability to land deals?
+
+Dan, are you talking about the stock price level?
+
+I'm just talking about either the stock price level, the strategic alternatives, announcement, I just want to make sure that you expect underlying business, as is, will be able to continue unfettered regardless of the announcements or whether the stock price level is. And I'd also be curious, Pete, if you would care to comment, because we know Zayo just sold for almost 11 times, just sort of compare and contrast because it seems like they were even in worse shape than you to an extent that there may have been some more real estate there. So just – if that's how you're kind of thinking about sort of the interest in the space.
+
+Yeah. And at the end of the day, the performance inside the company operations is just getting better. The sales team's getting better. The ops team is great. The cloud platform team is humming and getting a lot of interest for expansion. So, inside of what we do for a living, say we are private, we're just getting better every day because we're very optimistic. We're seeing a lot of pipeline deals that we haven't seen before from the largest companies. So it's frustrating for me to be doing what we do in the light. As I mentioned many times, getting this portfolio shaped up to offer it to our customers looks a little sloppy in the light but we had to do what we did in the last two years.
+
+But inside of our own company, as we go to market and some of the strategies as we said before, connectivity is important. Multi-cloud environments are here. Tier 3 data centers are needed. And so, we read so much about the movement towards what we already have that we're very optimistic with the platform.
+
+The issue is some of the messiness in the light is just noise to me. The stock price is unfortunately optically not helpful sometimes, but the customers are depending on us to perform, and we perform operationally great.
+
+So what we want to do obviously is remove any type of overhang that was putting pressure on the stock, i.e., the amendment. We did that. If we could have done it sooner, we would have. But we got that done to help the stock price which is somewhat of an optics challenge even for our own sales guys. We don't love it, but we're working on ways to relieve it, and I think today is a step in relieving it.
+
+When it comes to the opportunity set, the strategic initiatives we're talking about are only going to benefit customers. We're not doing this to make it worse. We're doing it to make it better. So the question is how what's the smartest way and what initiative is the best way for shareholders for the benefit of our customers too to get scale to help them grow their business because we're in the middle of an industry shift where the demand for infrastructure is just on fire, and we have to play in that in a way I think that is more of a plug-in to something bigger either on offense or as an exit to help our customers grow on time.
+
+The most frustrating thing is to be out of space of power where a customer wants you know wants to grow. And our customer base, 85% of our customers pretty much come back for expansion. So we have to be sensitive to size and scale in an industry defined as infrastructure which is driving, like I said, multi-location requirements, it's just the nature of the business. So we want to stay ahead of it. I mean, the announcement today is a callout to say we see our portfolio today is somewhat although it's great in NFL cities and Tier 1 markets where other people want to get to, we have it. The question is how can we get even bigger and leverage that and be smart about it.
+
+So we are we are in offense for the benefit of scale and the customer growth prospects to kind of fuel that and we're trying to be smart and stay ahead of it and in our own body in our current portfolio is going to be limited at some point, the excess capacity is great, we're selling that 60% to 65% excess capacity as an asset. So if you want to go large, you want to go large at INAP, we have space in the best markets that have high absorption requirement. We have that space, but you want to be able to provide runway for a large customer says, okay, I'll add 5 megawatts in Phoenix, that would be great. Okay. They don't want to keep testing our size relative to their growth potential. And I'm starting to see that as a limitation at some point.
+
+So how do I get ahead of that? Today is the day to think about how do we get ahead of that opportunity to capture it. I don't want to smother it. That's how we ended up in BofA to increase our runway there. That's how we ended up in the Coke building because we have traction in that market as well, it's a high absorption market. We have great vertical gaming potential in that market. We're trying to do the right thing and stay ahead of it. It's a little challenging sometimes with the size, but now we recognize size matters. So we're at a point where the work that we could do to clean up the portfolio is done. Now, what's next? And that's where we are.
+
+That's helpful. And just to be clear, it looked like there were some increased restrictions on asset sales within the credit agreement. Obviously, that's as you said, it's short term. It doesn't really matter. But given that you are going through the strategic process, it's either – it seems like an all or none or unless there are some small pieces that use cash flow, but as you've said in the past, I think some of the smaller stuff just might not make sense just based on the cash flow it generates. So this is kind of the – the whole portfolio goes one way or the other from here. Is that a fair assessment?
+
+Well, I think you're recognizing that this facility in the current amendment is just, in my mind, a temporary necessity, right? It's not going to solve the bigger vision of scale. We'll have to convert it into some other facility along – that matches who we're going to be when we grow up, so to speak. So what this facility does is take a lot of pressure off on the short strokes, gives us a lot of runway to do what we got to do to run our business the way it is as we're trying to figure out what is the scale idea. And so that's a long way of saying we're probably going to have another facility at some point and this will be what will work for us in the short term. And it's a short-term fix, but we're looking bigger. We've got opportunities that will actually recreate the company, and that's what we're working on.
+
+Perfect. All right. Thanks for all the extra time, Pete.
+
+Thank you.
+
+Your next question comes from the line of [indiscernible] (58:16). Your line is open.
+
+Good morning. Has there been anything signed in either one of those markets, Atlanta, Phoenix post the quarter or you're still out marketing all the capacity that you have there?
+
+There's a lot of preselling going on right now in both of those buildings, including working with the anchor tenants as to what their ultimate requirements are going to be. So the short answer is nothing's signed as long as it's a single tenant building because you have to convert it first. But we're basically right in the heels of locking in some deals for that space as we're converting at the same time.
+
+Okay. And if you lock-in something that's on the multi-megawatt part, that will give you, I'm guessing, some visibility into 2020 versus the timing on when revenue would be recognized in 2019. Is that safe to assume?
+
+That's right. Yeah. A 1-megawatt deal, for example, in Phoenix where we have space will materialize faster in terms of build revenue because there's not a lot of construction to do there to make it mult-itenant. So that's a positive thing. Phoenix is probably the best asset we have to go large fast. Secaucus is also very good in that regard. Dallas is pretty good. Seattle has great potential. And L.A. is great. So we have we have a bunch of big swathes of footprint that we can light right away, and those are the ones we're really pushing with customers right now in the pre-sell mode.
+
+The conversions of Atlanta took a little bit longer because the Coke exit took longer. So we couldn't reconstruct it while they were still there. That's part of the delay we were suffering in the fourth and first quarter. But with that done, the construction is in progress, but we can pre-sell before we finish.
+
+Okay. And then I'm guessing that if you can get something done but maybe not announced due to the customer sensitivity, does that make it easier – step two from this amendment to the next financing in terms of the terms?
+
+Well, the pipeline has many deals like that. It's not just in BofA of Coke. So all the pipeline execution, if you will, is going to be helpful. It doesn't really drive the bigger refinancing idea that we talked about before. That's part of the strategic initiatives process. That's probably bigger than a breadbasket, I would say, but the business as usual executing on the pipeline, we can do inside of the facility we have. That's what it's designed to do.
+
+Okay. So you've been working your tail off for the last couple years just getting the asset base and the infrastructure in place. Is that sales force if you changed out some folks, their morale and your opinion is like, hey, let's get this stuff sold?
+
+Oh, yeah. I mean, the sales force is very resilient. I mean, our leadership is very energetic. They're great leaders. They bought in to the INAP platform, and they're working with customers. They're doing well. There'll always be some upgrading of personnel inside of any sales force, but we have great leadership now. We've been working on that for the last year or two. And we've totally rebuilt it to be a sharp and professional experienced sales force.
+
+So we've recruited from the industry. We've got real players, and they like nothing more but to have NFL city data center power available. So they have enough inventory to go crazy. And I'm just trying to stay ahead of them because once they start hitting it, we have to provide more inventory.
+
+So, right now the inventory of 60% or so available, let's say, start really worrying about it at 75% to 80%, that's a lot of inventory for them to offer. So the morale is good. The leadership is great. The energy is awesome. The customers are focused on their requirements. We're focused on helping them. And our job here is really to provide them the runway through the capital structure to let them keep going.
+
+Okay. I don't know how long ago it was, a couple of months maybe, I was on their website and there was a video with a guy that I think is relatively new from Equinix that was talking about INAP 2.0 and it seemed pretty impressive. I didn't know that it had brought on some new folks.
+
+Yeah. I mean, that's why we built it. I mean, Rich O'Dea, who you're speaking about, came from Equinix. He was a regional vice president in fintech in the northeast of the country. He's a great leader. We're so happy to have him. And just like we thought, the leaders bring in their guys and their teams and they work with the sales guys that are here that are also very experienced and successful. So we had some really good talent inside the company already.
+
+So together, they've gotten better, they've gotten more disciplined. As you can imagine, from a sales perspective, they want inventory, they want cloud pods everywhere I can put them, and they want new colo Tier 3 facilities anywhere I can get them, right? And if it's in NFL cities, all the better. That's where they want to be. That's where the enterprise demand is. That's where the addressable market is.
+
+So it's always the case where if you have good people and they know the business, it may take time to run down these larger deals, but they have great traction. Our job is to support them, and the whole company is designed to support the sales team to be successful, and that's what we're trying to do.
+
+Okay. Great. That gives me confidence on that maintaining guidance in the revenue side. Great. Thanks, Peter.
+
+You're welcome.
+
+I'm showing no further questions at this time. I would like to turn the conference back to Peter Aquino.
+
+Thank you, operator, and thank you, all, for your attention this morning. We look forward to our next report. Thank you. Have a great day.
+
+Ladies and gentlemen, this concludes today's conference call. Thank you for your participation, and have a wonderful day. You may all disconnect.

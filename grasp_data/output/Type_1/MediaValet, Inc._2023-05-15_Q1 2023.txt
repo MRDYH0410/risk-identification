@@ -1,0 +1,223 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+Babak Pedram — Founder & President, Virtus Advisory Group, Inc.
+Robert George Chase — President & Chief Executive Officer, MediaValet, Inc.
+Dave Miller — Chief Financial Officer, MediaValet, Inc.
+Christian Sgro — Analyst, Eight Capital
+Gavin Fairweather — Analyst, Cormark Securities, Inc.
+Neehal Upadhyaya — Analyst, Industrial Alliance Securities, Inc.
+
+Management Discussion Section
+
+Question And Answer Section
+
+Good afternoon, everyone, and thank you for joining us this afternoon for MediaValet's First Quarter 2023 Conference Call. Before we begin, I will read our cautionary note regarding forward-looking information. Certain information to be discussed during this call contains forward-looking statements within the meaning of applicable security laws, including, among others, statements concerning the company's 2023 objectives, the company's strategy to achieve those objectives, as well as statements with respect to management's beliefs, plans, estimates, and intentions, and similar statements concerning anticipated future events, results, circumstances, performance, or expectations that are not historical facts.
+
+Such forward-looking statements reflect management's current beliefs and are based on information currently available to management and are subject to a number of significant risks and uncertainties that could cause actual results to differ materially from those anticipated.
+
+Also, our commentary today will include adjusted financial measures, which are non-GAAP measures. These should be considered as a supplement to and not as a substitute for GAAP financial measures. Reconciliations between the two can be found in our MD&A, which is available on sedar.com and our website.
+
+We are joined today by MediaValet's CEO, Mr. Rob Chase, as well as the company's CFO, Mr. Dave Miller.
+
+With that, I will hand over the call to Rob to provide us opening remarks. Please go ahead, Rob.
+
+Thank you, Babak. Much appreciated. Hello, everyone, and thank you for joining us today for our earnings call. I hope you've had a chance to review our press release and financial reporting materials, all of which are available on SEDAR. With me today is Dave Miller, our CFO. Together, we'll provide a business update and review of our key financial and Software-as-as-Service performance metrics and then we'll open it up for questions. We are excited about our progress and are hoping you'll come away from today's call with a deeper understanding of our results and of the opportunities ahead.
+
+On that note, I'd like to highlight a few key messages I would like to ensure we deliver on the call today. One, our DAM market fundamentals are prevailing in the face of the current economic headwinds. These headwinds have resulted in longer and more complex sales cycles as organization embrace the themes of consolidation and cost containment.
+
+For our larger opportunities, this has resulted in a more rigorous business case discussion with a broader executive audience. We applaud this increased rigor as it gives us a chance to showcase the value and fast return on investment we provide with a more senior audience. We also believe this will help to improve our already high net retention rates long term.
+
+Two, we continue to deliver high rates of annual recurring revenue and revenue growth despite the economic headwinds. We believe this is a testament to the importance of DAM and MediaValet's ability to provide impactful value to customers. It also reflects our go-to-market and product strategies as we execute with urgency on our HOT DAM! vision. These strategies resulted in a solid first quarter performance that included some sector-specific marketing initiatives that enabled us to win seven new education customers with first year billings of CAD 331,000 as announced earlier this month. They have also set the stage for our second quarter, generating good momentum and a strong pipeline.
+
+Three, we are well on the path to our targets for cash positive operations. As you can see from the charts, revenue continues to climb, growing 38% over the same quarter last year, while adjusting to operating costs are held in line. This is an important point of inflection.
+
+As for operating costs, we are not just holding them, we are optimizing them. That is, we are focused on ensuring our spend is focused on high impact initiatives. Our operations are streamlined, and that we are getting value from our investments. The result is that we continue to be on track with analyst expectations for cash positive operations by fourth quarter this year and overall for fiscal 2024.
+
+We believe our momentum reflects our best of breed customer adoption goals. We are focusing on providing unrivaled support and ease of use experience and innovation to deliver on this goal, which we believe will lead to continued high growth in the quarters and years ahead. Through clarity of vision and inspired execution, we believe we will continue to rise above the competition and successfully build our leadership position in this market.
+
+While from a go-to market perspective, we are focused on the mid-market, our best of breed security and scalability combined with our ease of use and ability to integrate into complex environments, means we can support customers of all sizes.
+
+And as you can see, this has led to a broad customer base with high adoption rates. In turn, this has enabled us to achieve customer net retention rates of 100%. This is where we differentiate ourselves. We believe that if we can be number one in adoption, we will continue to earn a leadership share of the market.
+
+Our product roadmap is built in support of our goals to be number one in adoption, to expand our market opportunity and optimize our cost structure so we can continue to add high value customers with a high gross margin profile. Our product and R&D teams have an exciting lineup of new releases and enhancements in the year ahead. This includes launches in the areas of user experience and new features to increase customer value and collaboration.
+
+In addition, we are continually enhancing our backend capability and optimizing it to handle larger customers and the massive volumes of data that we expect to see as DAM continues to rise in importance. We expect these initiatives will positively impact our sales growth, net retention rates and gross margin in the year ahead.
+
+I'll leave you with a few customer examples before I turn it over to Dave. Now, these were all from Q1 and are reflective of our go-to-market product and operational initiatives, I've discussed today. First is a world-renowned university. The education sector has been undergoing a digital transformation for the past number of years and continues to grow and now represents about 14% of our customer base.
+
+You can imagine the complexity of managing the vast content requirements of a multichannel university with global students, multiple departments, sports teams, large events, donors and industry-leading private sector partners. As is common, our unlimited support and ease of use really stood out for this customer.
+
+Two, a leading global industrial training and technology company. The digital challenges and needs of high ed customers equally apply to customers providing industry-specific training and safety programs. And both of these examples, the need for DAM goes beyond marketing to the actual delivery of high value content over their entire education platform. In this sense, not only is DAM helping to maximize the lifetime value of their digital assets, it is also helping increase the value of their educational programs.
+
+Three, an electrical construction company. We also have a significant number of customers in the manufacturing and construction sectors, which represents about 13% of our customer base. Like the educational sector, the need for DAM goes beyond marketing to include product design and specification materials.
+
+All of these examples were competitive opportunities generated through our direct marketing and sales efforts. They are also indicative of our typical packages that include a one-year subscription to our DAM, plus initial setup fees and various integrations into other tech stack tools that the customers rely upon.
+
+With that, I'll pass it over to Dave to take us through our key metrics and financial results. Dave?
+
+Thanks, Rob, and good afternoon, everyone. Thank you for joining us today. I believe our operating results for Q1 show a solid start to our fiscal 2023 year and highlight the effectiveness of our growth and marketing strategy, despite a tough economic backdrop.
+
+In Q1 2023, our revenue grew 38% to CAD 3.88 million compared to the same period in 2022 and was up 7% compared to Q4 2022. The increases are due to strong new customer acquisition, net dollar retention from existing customers, as Rob mentioned, and the impact of a strong US dollar. Gross margins increased 34% to CAD 3.11 million and remained strong at 80%, down 3% compared to the same period last year and flat from the 80% achieved in Q4 2022.
+
+The lower gross margins over Q1 2022 reflect higher cost of revenue associated with an increase in support personnel and the timing of customer adoption and utilization of new features like our Audio/Visual Intelligence solution in advance of the corresponding revenue recognition.
+
+We expect to continue to generate strong gross margins in the 80% to 82% range through operational efficiencies from product enhancements, process automation and customer management tools. As Rob pointed out, these initiatives are part of our current product roadmap.
+
+Moving on to adjusted operating costs, a non-IFRS measure, which the company defines as sales and marketing, research and development, and general and administrative expenses, excluding share-based compensation, depreciation and certain nonrecurring expenses such as executive restructuring. The company considers executive restructuring, which occurred in Q1 as detailed in our management discussion and analysis to be nonrecurring in nature and not indicative of continuing operations.
+
+Adjusted operating costs for Q1 2023 were up 4% to CAD 5.17 million compared to Q1 2022, reflecting primarily an increase in spend associated with higher sales and marketing personnel, variable costs associated with higher revenue achievement and demand generation programs expanded in support of higher sales objectives. This also reflects a shift of resources away from research and development as the company endeavors to manage and optimize total operating costs in line with the prior year. Our Q1 2023 operating costs were flat relative to Q4 2022.
+
+We continue to diligently manage our cost structure and are now at an inflection point where our revenue growth is significantly outpacing our cost growth, giving us confidence that we will continue to unlock performance gains in our operating structure and grow to cash positive operations within our available resources. This is further supported by the 22% reduction in adjusted EBITDA, which represents net loss adjusted for interests, taxes, depreciation and certain nonrecurring expenses in Q1 2023 to CAD 2.06 million, down from CAD 2.63 million in Q1 2022.
+
+We ended the quarter with CAD 2.0 million in cash and cash equivalents on hand, compared to CAD 0.2 million at the end of fiscal 2022 and modified working capital of CAD 2.4 million compared to CAD 2.3 million at the end of fiscal 2022.
+
+The increase in both cash and modified working capital is the result of the proceeds from the CAD 3.5 million oversubscribed private placement closed on January 16, which, in addition to the CAD 9 million credit facility currently undrawn, are available to support our path towards profitability in Q4 2023 and on an annual basis in fiscal 2024. We have leveled off our operating costs and are focused on operational excellence and cost optimization through a disciplined approach to investment and high return on investment initiatives.
+
+We remain in good working capital position and combined with a consistent track record of top line performance despite macroeconomic conditions, we have a balanced approach to grow, to cash positive operations.
+
+With that, I'd like to thank you again for listening and open it up to questions. Babak?
+
+Thanks, Rob. Thanks, Dave. As a reminder, if you have a question, please use the raise hand function at the bottom of the screen to indicate your interest. The first question comes from Christian Sgro of Eight Capital. Christian, your line is open. Please go ahead.
+
+Hi. Good afternoon. Thanks for taking my questions and congrats on the solid execution in the quarter on – on, I guess, our estimates and your own plan and expectations. For my first question, Rob, you mentioned that product updates coming to market. I think it's more formally [ph] UX V5 (00:13:44) that's expected to launch this year. A new – maybe be a bit of a facelift. The last time, I think there was a big upgrade like this was a couple years back. Do you want to walk us through some of the future upgrades you could expect when that comes to market this year?
+
+Sure. Actually, you can go back up to that slide, Dave, as well, but it had the roadmap discussion piece. Yeah. Absolutely, it's hard to see on the screen, but it's a little bit of teasers here for you. The one on the bottom right, you can see some in-app notifications going on, which is a new thing that we've just added for workflow, makes a big difference for customers obviously in how they collaborate. As you can see on the screen here, there's a bunch of things where items have been added and looking for people's approval and you get notification when it's been approved or moved to a new category, etcetera.
+
+So, little things like that that are like really impactful for customers and how they use the DAM. Also on the left, there's some more teasers on the actual [ph] V5 (00:14:39) itself as well. The search bar has been moved up more central and we've done things like enabling you to sort by relevance, for example, which will significantly increase your ability to discover and access the files that you need.
+
+So, all of these things – it's got a couple little examples there, but there's also a new mobile experience as well coming for customers, too. So, those will make a big difference, make it much more usable. It'll unlock the value and flexibility. But you can, for example, drag your cursor across or use the keyboard to navigate as well to select all these files and things and share them quickly out to your – people external to the company if you need to as well.
+
+So, anyway, but you touched on something there, which is you said, it's been a couple years. In actual fact, the UX is a huge endeavor for us and a big piece of unlocking the value for customers. It's gotten a bit old. We've been selling great relative to competition and things. But to be honest, our UX really hasn't been updated since 2015.
+
+And this is – so, this is a major refresh for the company and it's – I know we've unveiled some of it for our staff internally and things, and it's just created a lot of excitement. So it's a fresh, new look and experience. The last time that we did a major uplift like this really was in 2018, when we did our more of a backend uplift. And as you saw, 2019 was a banner year for us, not to say that this single thing will do that and takes a lot of market stuff as well. But this is an exciting for us to the similar magnitude that that was.
+
+Perfect. I'll follow-on, Rob, with one more product-related question. Artificial intelligence has been part of the roadmap and platform for years. I know there's a lot in the way of tagging another Audio/Visual Intelligence tools, but is there anything else you'd sort of tease us with in the way of AI, any products or solutions that use AI that are coming out through the year?
+
+Yeah. You'll see us release face recognition for the photo side of the DAM. That will be coming up shortly here this year. And we do have face recognition in our video piece, but this will also added for our stills and things, which is I think a lot of our customers are really looking forward to that. I mean, it's not for everybody like AI, as you know. In some cases, it's extremely valuable for customers and in some they may or may not use it.
+
+At the end of the day, what we're looking to do is improve the auto tagging and improve the meta tagging and improve your ability to find the assets you need when you need them, make them more discoverable.
+
+So, and also, we can use it to help give context around files as well, which becomes extremely important for making sense of what is in your library as well. So, yeah. We're really looking forward to it long term. I get really excited when we have an organization's entire foundational library across the entire organization in our DAM and are able to run AI generated content through the DAM with access to everything you've ever created. So, everything becomes recyclable. Everything is able to be accessed and reused in an exciting way using AI generated content to get you there. So, I'm looking forward to that day down the road, but we'll keep working toward that.
+
+All right. And one last question for me before I pass the line. This one related to the length of sales cycles. I think, the sales cycles shortened this past quarter, a lot of other SaaS peers are calling out the same things. It's tougher to get the sign off at the board level, etcetera. But, my question would be, what you're seeing into Q2? Those predictable growth, as you called out. But are you seeing those sales cycles sort of increase or decrease in time as you go through the year. And, I guess, what are you finding from your customers?
+
+Yeah. It's been – the last few years have been really interesting from a sales cycle perspective, because we've gone through these waves of extension and then contraction in the deal cycle length. So, it's been really interesting and this isn't the first time, obviously in 2020, people just didn't know what their process was going to be at all for buying stuff.
+
+And in the beginning of 2021, it almost felt the same – sorry, 2023 – it almost felt the same, right? For a different reason, obviously, because people were just wondering, oh, my gosh, what can we spend? And definitely cost containment and consolidation has been a big theme. Our people felt it internally as well as Dave's sharpened the pencils for optimizing all of our spend.
+
+And it's a natural step. It'll settle down again. I think, just like we saw last time. So, our sales cycles from Q1 over Q4 went up 60%. But we'll see them come back down the other side as they did last year. And what often happens at that point in time, and we can't guess which quarter will happen in, you get a rebound effect like we had in Q1 last year where you had sales cycles lengthening in 2021. And then, all of a sudden everything caught up in Q1 2022 where we had deals that were previously stuck becoming unstuck and at the same time cycles shortening within the same quarter and we have just such a banner quarter.
+
+So, well, I'm sure we're gearing up for another one of those down the road. I can't predict when they are going to happen, but what I can tell you is everything that we're seeing and what we're doing from a creation of pipeline perspective and building that flow of business, it's acting like we expect it to.
+
+So, the investments we're putting in or having the return we expect in terms of growing our pipeline, and it's – put us in a really cautiously optimistic position, that we enter our second quarter with a very strong pipe and enough room to make up for, should there be continued lengthening of sales cycles, you make up for that in a larger volume of pipe, and we basically have 25% more pipe going into Q2 than we had in Q1, so much more opportunity to excel as a result.
+
+That's all very helpful, Rob. Thanks very much for taking my questions. And I'll pass the line.
+
+Thanks, Christian. Next question. The next question comes from Gavin Fairweather of Cormark.
+
+Hello, Gavin.
+
+Gavin, your line is open.
+
+Hey. Can you hear me?
+
+Yep.
+
+Yes.
+
+Awesome. Congrats on all the progress. I was surprised by the contribution of the educational vertical this quarter, which, I hadn't – curious – I thought of as being a huge vertical for you. So, you touched on some maybe industry-specific marketing efforts on your end, maybe you can just kind of expand on that and discuss to what extent you see this momentum continuing?
+
+Yeah. I mean it really is. As you know, we're fairly general in our marketing approach. We're really going after that use case and intent, but we've layered in some industry specific marketing where it makes sense to do so as well. And we had a great response to it in the education sector. Q1 was the result of that. I was surprised too. I was excited to see it. But Q2 has a lot of high ed – and education sector customers in it as well.
+
+So, yeah, the effort we've done there to call out our strengths in the sector and that we have 14% of our customers represented by that sector is, it's been impactful and looks like we'll see hopefully knock on wood, another good educational showing here in Q2.
+
+That's good to hear. Any other – just building on that, any other sectors where you think maybe some more verticalized marketing makes sense given the success you've seen?
+
+>: Yeah. I mean, obviously, interesting on the – as I went through in my prepared remarks there, that manufacturing and construction's sector is also 13% of our customer base. So, definitely there's a lot of opportunity there for us to continue pushing there.
+
+But also, more and more consumer packaged goods and media entertainment as well, but I wouldn't say we need to necessarily do a concerted push in the same way we do in education, but we'll certainly layer more industry-specific stuff into our approach for sure.
+
+Education has more clear buying cycles than things that we can lean into. So, that drives the ability to target a bit more. But, we're going to stay fairly generalist and certainly do some tweaks for some specific industries, but not in the same way we would for education.
+
+Got it. And then maybe on the [indiscernible] (00:24:26), obviously the success that you had in education, probably had the enterprise segment coming back a little bit this quarter after kind of a slower 2022, given kind of sales cycles.
+
+And then on the flip side, maybe SMB was a little bit slower, if I'm reading between the lines correctly. So, if you can just kind of bifurcate sales and the sales environment kind of by-sector and how you're thinking about that for the rest of the year?
+
+Yeah. Interesting. Q1 last year was our best quarter ever for both small sized and large sized deals. It was, double-whammy. And in Q1 this year, that deal cycle plague, if you will, applied equally as well.
+
+Interestingly, last Q1, they all came back at once and this Q1 they all lengthened at once. So it wasn't – like one wasn't worse than the other per se. The only thing is that we did have a large deal that was supposed to close, but has now been delayed till Q2, because of those deal cycles and it's a bit more unique than maybe just the overall economic impact in that it's a company that's adopting a global DAM and it's the first time as a global entity they've adopted something. Usually it's been regionally they adopt this and that, right? But this is actually intended to be used globally.
+
+So, it's going through some extra paces as none of their software has been purchased like that before. So it's a bit unique outside of the normal what we're seeing overall in the economic situation. But yeah, so there could have been a little bit better of a large deal showing had that come across. But as I said, we'll keep working through with the customer and we'll bring it in time with what makes sense for them. But like I said earlier in my remarks, this has gotten us great exposure up the chain to that organization and I'm really excited for that.
+
+And maybe just touching on the base, can you discuss any kind of implications of the macro on renewal or pricing discussions? It looked like [ph] MDRR (00:26:56) was around 100%...
+
+Yep.
+
+...in Q1. I know you're looking to push that a little bit higher. How are the discussions going with renewal cycle?
+
+So far it looks like gross churn and expansion will be pretty similar on a percentage basis, pretty normal. And hence the 100%, we're still – we're tracking some opportunities and hopefully we can go and get that beyond. As you know, long term, we want to get into that 105% to 110% range. I think our gross churn is at a level where it's conducive to that.
+
+So, yeah, there hasn't really been – look, I would say that it's – in times of consolidation and cost constraint, we always have to be at the ready, particularly, it'll make us stronger and better. But we have to help our champions to, we have to think more about how our champions are able to convey the value that we're providing to the organization, so that it's managing that perception up.
+
+Because in these cycles, you just have to keep that top of mind as your champions can be surprised by changes just like your buyers can when they're in the buyer process, right? So we're aware of that and watching it closely. So far we haven't seen anything unusual, but we're trying to get out ahead of it and make sure we're arming our champions with the information they need to convey the value that's being delivered.
+
+Just lastly for me, you touched on kind of the backend optimization, it's up on the slide here. Obviously, you're hoping to leverage that to become more competitive in enterprise and with large accounts. Please remind us kind of the timeline to that work being completed and anything that you'd like to add on how impactful that could be for win rates in the larger segment?
+
+Yeah. I mean, there's many pieces to it, so it'll just continuous to be delivered over the next course of the year. But we're getting all of the fast value pieces that we can get done. Done as fast as possible. And already we've had a couple of those pieces start to impact in Q2.
+
+You know, some of how we manage our intelligence, manage the storage in terms of how we manage some of the ingestion processes and things. So, we've already started and also the level of redundancy that we provide globally.
+
+So some of those savings are already starting – going to start to impact Q2 and they'll build through the year. And we'll keep building on them. It's become – this becoming a mantra, right? Where we have to make sure we keep managing the tail and I think that we've just heightened the focus upon that in the last while here. So, we'll see that continuing to improve over time.
+
+Great. That's it for me. Thank you.
+
+Thanks, Gavin.
+
+Thanks, Gavin. The next question is from Neehal Upadhyaya from Industrial Alliance. Neehal, your line is open now.
+
+Hey, guys. Congrats on the quarter.
+
+Thank you.
+
+I just wanted to dig in a little bit on the R&D costs going forward. What do you think is the sweet spot as a percentage of sales considering they were the lowest they've been in a couple of years? And then, do you think a lot of that heavy lifting has been done for your product to be a fairly comprehensive solution at this point?
+
+I mean, there's a lot of roadmap stuff we want to get to, like we're never done. The question is what percentage are we willing to pay for it, right? So right now, I think, as you know, we've stepped out ahead. And industry average is more like 27% as opposed to the level that we're spending. And we've got to grow there. We've already cut back a little bit, as Dave mentioned in his slide, and reallocated some towards sales and marketing. So, that was largely with respect to third party contractors.
+
+And we'll keep working towards getting into that industry standard level over time. But at the moment, as we can afford it in our plan and our growth is there to support it, we just are so excited about what there is out there ahead for DAM that we want to invest as fast as possible and grow it.
+
+And the team has now had a year to get into that performing phase and we're now starting to see a much higher percentage of the investment in R&D going to new features and advancements as opposed to platform and maintenance, which I think in the past there was a little bit heavier waiting toward that.
+
+So, really excited to see the changes we've made in the team, also enabling us to now be much more offensively focused in terms of generating new features that are really going to make a difference in the market.
+
+So, we're excited to stay right here at this level right now and try to unlock some of those and maybe accelerate growth even more as a result rather than – and let that growth bring us into that industry average level.
+
+Got you. Now, that helps. And then look, the revenue growth was obviously impressive and you spoke about business cycles becoming more complex. Can you talk about your ideal client characteristics? Have they deferred because of these changes or are you still targeting the same types of clients that you were before?
+
+Yeah. I mean, largely we're still going after that marketing – predominantly marketing use case. But as you can see from the customer slides, right, I mean, you do get into these other use cases that really are beyond marketing and they're about increasing the value of other tech stack of tools that you rely on. By making sure that they've got – they're able to source and quickly and dynamically access fresh content for those systems to create more value.
+
+So, yeah, it broadens. It's just – over time I think we will start layering in more and more of a message for IT from that perspective because it really becomes much more of an infrastructure type of play over time. So, we'll keep adding to the messaging to bring that in. But right now, still the easiest way or the fastest way in seems to still be through the marketing vertical.
+
+Perfect. And maybe one last one for my end, Rob. You mentioned earlier on the call that the goal to get to positive free cash flow by the end of this year is still – you're well towards doing that. Can you provide any additional color on the cash burn over the next two quarters? And if at this point you're looking to tap into your debt facility until you transition towards positive free cash flow?
+
+I can jump in on this one, Rob.
+
+Yeah.
+
+So, yeah – no, Neehal. We will and was projected to dip into the line in Q2, Q3 as we burn ahead of hitting that operating cash flow positive number. So, it is expected we will be in likely a small amount at the end of Q2. But again, just due to the seasonality nature of our billing cycle and Q4 being the strongest billing, we'll end up being cash flow positive in Q4 this year.
+
+Perfect. Thanks, guys. I'll pass the line. Congrats on the quarter.
+
+Thanks, Neehal.
+
+Thanks, Neehal. There are no further questions. I would like to thank everyone for joining us for today's call. And I will now hand over the call back to Rob for his closing remarks. Please go ahead, Rob.
+
+Thank you, everybody. Hey, Dave, thank you as well. Babak, you as well, thank you. Appreciate it and looking forward to updating everybody in the months ahead here as we execute on Q2. I hope it was clear.
+
+From our presentation the fundamentals of the market appear to be in place, the high growth continues. And of course, the optimization focus for us regarding cost structure, making sure where we're spending, we're having impact.
+
+Dave is a big piece of that, driving that, of course. And we've got, as is the rest of our team, everyone's on board and focused on value adding and impact. So, excited to go and show the progress in the coming quarter.
+
+Thanks, Rob. Thanks, everyone. This concludes today's call. You may disconnect now.
+
+Thanks, everyone.

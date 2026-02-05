@@ -1,0 +1,220 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+Mark A. Koch — Acting Chief Financial Officer, eMagin Corp.
+Andrew George Sculley — Chief Executive Officer & Director, eMagin Corp.
+Kevin Dede — Analyst, H. C. Wainwright & Co. LLC
+
+Management Discussion Section
+
+Question And Answer Section
+
+Good morning, and welcome to the eMagin Corporations' Fourth Quarter and Full Year 2020 Earnings Conference Call. Please note, this event is being recorded. After management's prepared remarks, there will be a question-and-answer session.
+
+I will now turn the conference over to Mark Koch, eMagin's acting CFO. Please go ahead.
+
+Thank you, and good morning, everyone. Welcome to eMagin's fourth quarter and full year 2020 conference call. Please note that during today's call, we may make forward-looking statements as defined in the Private Securities Litigation Reform Act of 1995. These forward-looking statements are based on the company's current expectations, projections, and beliefs and are subject to a number of risks and uncertainties. Such statements may include references to projections of future revenues, plans for product development and production, the company's ability to ramp up production, the company's ability to reduce its cost structure, future contracts and agreements, product benefits, operations, future financing, liquidity and capital resources, as well as statements containing words like believe, expect, plan, target, et cetera. You should not place undue reliance on these forward-looking statements because they involve known and unknown risks, uncertainties, and other factors that are in some cases beyond our control.
+
+Please refer to our earnings release for the fourth quarter of 2020, along with the company's filings with the Securities and Exchange Commission for information concerning factors that could cause actual results to differ materially from those expressed or implied by such statements. We undertake no obligation to update or revise any forward-looking statements to reflect future events or circumstances.
+
+During this call, we will also refer to adjusted EBITDA, a non-GAAP financial measure to provide additional information to investors. A reconciliation of adjusted EBITDA to net income, which is the most directly comparable GAAP financial measure, is provided in the press release that we issued this morning. Non-GAAP financial measures, such as adjusted EBITDA, are not meant to be considered in isolation or as a substitute for GAAP financial measures and financial statements.
+
+With that, I will turn the call over to our CEO, Andrew Sculley.
+
+Thank you, Mark, and hello, everyone. Thank you for joining us today. We hope that you, your loved ones and work colleagues continue to stay safe. On today's call, I will provide some key takeaways from our quarterly and full year results and provide color regarding our end markets, technological advances and equipment schedule. Mark will then discuss our consolidated results in greater detail.
+
+In 2020, thanks to the courage and tireless efforts of our employees, [indiscernible] (00:03:08) forward on several initiatives, while increasing revenues despite the unfavorable conditions brought on by the pandemic. As you'll recall last year, we announced the award of more than $39 million in government funding for the purchase of factory equipment to protect and enhance our ability to manufacture in our Hopewell Junction facility. And we are proud to be the sole US manufacturer of OLED microdisplays. We greatly appreciate the support of the US military in helping to protect our vital US production line, as well as the US manufacturing jobs that we provide.
+
+In December, we signed a long-term lease and increased our manufacturing footprint by more than 25% to accommodate the new equipment and clean room funded by the US Department of Defense. Furthermore, we are hiring additional engineers to improve our technical capabilities and increasing R&D investment in our direct patterning, or dPd technology, which in the near-term should drive more contract revenue.
+
+Our proprietary dPd technology greatly enhances light output relative to competing products that require color filters with white OLED. Our roadmap targets full color displays in excess of 28,000 nits brightness by mid-2023, with an intermediate brightness of 10000 nits this year. This intermediate target brightness is approximately 20 times brighter than our current full color OLED microdisplays. Combining our roadmap for high brightness and the government funding we secured for equipment, we expect to enhance our technological edge and manufacturing capabilities to support our customer needs.
+
+As we announced earlier this month, we were granted a new patent that relates to the apparatus and method for direct patterning of an organic material. We continue to extend our technological leadership in brilliant, full-color OLED displays with our portfolio of 18 foundational dPd patents and utility applications for OLED patterning, processes and equipment.
+
+Turning to bookings, in the fourth quarter, we had strong bookings of $8.3 million, which led to a 22% increase in our backlog from the third quarter of 2020. We received significant orders from night vision, eye care, and veterinary customers. And as of the end of 2020, our total backlog of open orders was $12.2 million. In addition to strong bookings under the continuing programs, we received orders for 10 new programs in the fourth quarter, including thermal sights, thermal imaging glasses, and automotive manufacturing monitoring.
+
+At the same time, we supplied sole-sourced displays under the Enhance Night Vision Goggle-Binocular program as it continues to ramp to volume, along with other key military programs worldwide. Overall, we continue to see strong interest in our high-brightness dPd Technology and believe it is the best display solution for AR/VR applications. We are making steady progress with our dPd Technology and have developed and tested the color OLED device stacks consistent with the 10,000 candela per meter square goal I mentioned earlier. These stacks will be used in direct patterning of the prototype displays by Q3 of this year. Our dPd Technology directly patterns the OLED color stacks for the microdisplay. Future dPd roadmaps milestones can make use of tandem, or double, OLED structures for each color. Along with other improvements that we believe will enable us to stay ahead of the competition in providing the highest brightness displays to the marketplace.
+
+Moreover, our OLED microdisplays will satisfy the brightness, contrast, speed and resolution needed for AR and VR headsets. We expect our consumer contract revenue will continue in 2021 as we work with customers on continued development and scalability of our dPd technology to serve the consumer AR/VR markets.
+
+In parallel, with our dPd efforts, we continue to advance the state-of-the-art microdisplays that utilize white OLED with color filters. In the fourth quarter, we significantly advanced development efforts related to our XLE technology, which will give customers a sizable boost in luminance and/or lifetime over their current eMagin displays, and we shipped early samples to key customers. We expect to qualify initial products in the first half of 2021 with nominal luminance of 1,500 candelas per meter square, with a roadmap to even brighter color-filter-based displays to follow. We feel confident that further improvements in this technology will be manufacturable in volume in the near-term, and serve as a bridge to dPd technology as that continues to mature.
+
+With that, I'll turn the call over to Mark.
+
+Thank you, Andrew. Before I discuss our fourth quarter and full year 2020 results for the period ending December 31, 2020, I'd like to provide you with some key takeaways. Fourth quarter revenues were $7.7 million compared with $7.3 million in the prior-year period. Contract revenues were $1.5 million compared with $0.5 million a year ago, reflecting continued dPd development work for a Tier 1 consumer company. Fourth quarter 2020 display sales totaled $6.2 million compared with sales of $6.8 million a year ago, reflecting the timing of certain orders with large military customers. Full year revenues increased to $29.4 million compared with $26.7 million for 2019, reflecting increases in bulk product and contract revenue. Higher contract revenues of $4.4 million in 2020, primarily reflected development work for a Tier 1 consumer company for an advanced display design and proof-of-concept for a consumer AR/VR device.
+
+Drilling down to margins. Total gross margin for the fourth quarter was 17% on gross profit of $1.3 million compared to a gross margin of 37% on gross profit of $2.7 million in the year-ago period. The decrease in gross margins was a result of lower revenues and lower production and absorption of fixed costs into inventory due to equipment issues and repair delays related to COVID-19 travel restrictions. However, we expect a recovery in yields in 2021, thanks to the arrival of a key vendor technician plus the contributions of new equipment purchased through our government grants. For full year 2020, gross margin was 22% compared with 25% in 2019. The decrease was a result of issues related to the pandemic, including employee absences, stricter cleaning requirements and the repair delays I mentioned.
+
+Turning to expenses, operating expenses for the fourth quarter of 2020, including R&D expenses were $3.6 million compared to $2.8 million in the year-ago period. Operating expenses as a percentage of sales were 47% in the fourth quarter of 2020 compared with 38% in a year-ago period. Part of the increase was attributed to higher R&D expenses, including additional head count and internal costs related to the development of our dPd and XLE displays. SG&A expenses were also higher in the fourth quarter versus the year-ago period due primarily to increased legal costs related to our consumer contract work along with the arbitration of a dispute with a former contract manufacturer. We expect to see a reduction in these legal costs going forward.
+
+For a full year 2020, operating expenses, including R&D expenses were $13.3 million compared with $12.3 million in 2019. The majority of the increase was due to higher legal costs and planned investment in R&D expenses for dPd and XLE development along with improvements to our manufacturing process.
+
+Operating loss for the fourth quarter of 2020 was $2.4 million compared with $0.1 million in the year ago period. The result was mainly due to a decrease in non-military revenues, production equipment issues, legal fees plus increased investment in R&D. Net loss for the fourth quarter of 2020 was $3.7 million or $0.05 per share compared with the loss of $0.2 million or zero per share in the year ago period. Excluding the impact of the non-cash change in the fair value of our warrant liability, net loss for the fourth quarter of 2020 was $0.04 per share versus zero per share in the year-ago fourth quarter.
+
+Operating loss for a full year 2020 was $6.9 million versus $5.6 million for 2019. Net loss for 2020 was $11.5 million or $0.19 per diluted share. This compares to a net loss of $4.3 million or $0.09 per diluted share for 2019.
+
+Excluding the impact of the change in the fair value of the warrant liability, net loss for full year 2020 was $0.11 per share versus a net loss of $0.12 per share in 2019.
+
+Adjusted EBITDA for the fourth quarter of 2020 was negative $1.7 million compared with $0.4 million in the year-ago period. For full-year 2020, adjusted EBITDA was negative $4.4 million compared with a negative $3.1 million for 2019.
+
+Turning to the balance sheet, as of December 31, 2020, the company had cash and cash equivalents of $8.3 million compared with $3.5 million at December 31, 2019. As of year-end 2020, the company had working capital of $12.1 million, while borrowings and availability under our ABL facility were $1.9 million and $2.1 million, respectively. During the quarter, we applied for forgiveness of $1.9 million in PPP funding under the SBA loan program. Regarding our new equipment, in early January, we took delivery of $1.1 million of wafer inspection equipment, which was the first purchase under our $39.1 million in US government funding awarded to eMagin to enhance its manufacturing capabilities as the only US provider of OLED microdisplays.
+
+Lastly, as of December 31, 2020, the company's backlog of orders shippable within 12 months was $10.9 million compared with a backlog of $11.7 million as of December 31, 2019.
+
+With that, we will open the call for questions. Operator, please go ahead.
+
+Thank you. Ladies and gentlemen, the floor is now open for questions. [Operator Instructions] And the first question is coming from Kevin Dede. Kevin, your line is live. Please announce your affiliation and pose your question.
+
+Hi. It's Kevin Dede. Good morning, I'm with H.C. Wainwright. Andrew thanks for taking my call. Hi, Mark. Could you guys just let me know about the – a little bit more color please on the 10 new programs? Are those new, brand new? Are they development programs? Are you shipping real production orders? Can you give us a little more insight on that, please?
+
+Yeah. Thank you. Yeah. Those 10 new programs are shipping of displays for integrating into existing programs. And it's not like a development of a new display as we are in the consumer side.
+
+Okay. So they're all DoD-related?
+
+Actually...
+
+No.
+
+Yeah. I think Kevin, one of them is also for like a thermal imaging for industrial building heat leakage and another one is for -- in the factory automation field.
+
+We mentioned the automotive manufacturing.
+
+Yeah.
+
+Okay. So does that mean they're just taking stock parts off of inventory?
+
+Oh, they are taking regular production parts.
+
+Yeah. Okay. Okay. Okay. Andrew, you didn't talk to the F-35 at all and I'm wondering, given that there is a little controversy around who's going to ship what to where and how. I'm wondering if you think we should still consider eMagin shipping production for that helmet renovation project this year?
+
+Well, the F-35 has been delayed. In this case, we're still shipping parts for testing. And as you know, the Navy helmet is the one that is very interested in what we're doing. And so we're still working on it.
+
+Okay. Okay. Fair enough. Thanks. Could you talk a little bit more about the XLE development? How do you see that technology rivaling dPd and where are the advantages for you and your customers over time?
+
+Yeah. The advantage is very easy right now, because we can do that in production as we do any display today. Whereas as you know, the direct patterning is an R&D effort now until the new equipment that the government is funding comes in and we can do that in production as well. So the XLE is really a bridge to dPd. And I'll just mention that, as you know, the direct patterning eliminates the color filters, which throws away 80% of the life -- the light I mean. And in that case, you would ask the question, even if I don't need that brightness and I run at 150 nits, the power advantage will be significantly better, because it doesn't throw away 80% of the light. The other thing you have to remember is, why did the military come to eMagin in the first place. Size, weight and power. Power was a big driver. So dPd will be very important when this production equipment is in.
+
+Yeah. Kevin just one other thing are BD colleague mentioned it's the XLE is incompatible with existing designs. So it's considerably higher brightness of 1,500 nits or higher...
+
+Yeah. Nominal 1,500 and we're going up.
+
+...nominal. So it's – it makes a nice upgrade for existing designs -- existing devices of our customers.
+
+What Mark is saying is, in other words, the OLED stack is different and brighter. But the display itself is the same. So you just plug it into anything you're using today of our displays and run it.
+
+Okay, okay.
+
+Drop and replace.
+
+Well, then we have been shipping some to selected customers.
+
+Yeah.
+
+There is a great deal of interest because of the brightness.
+
+Yeah. I'll just mention one very important customer is taking samples.
+
+Okay. Then my standard question – yeah, my standard question for you, Andrew, is could you run through your AR/VR customer list again? Well, actually, it's more as a VR customer list. I know there have been projects that come in and out. And I have to – I appreciate that you've granted me exalted status and figuring that I know these things. And I know at one point I've asked you or at many points I've asked you, but unfortunately, I lose track of where we are.
+
+Sure. So last year...
+
+Yeah. If you wouldn't mind reviewing that. Thanks.
+
+So I'm going to do – to talk about two efforts we have here. As you know, we produced a 4K display. And actually, we have put the direct patterning on that now and we will be showing it to its owner in a moment. But also there are many other companies, a number of companies interested in that, that we've talked to. And here they're interested in high-resolution displays for VR and AR. And displays with high resolution, high brightness. So that's a very important display. And we were allowed to demonstrate that display to another -- allowed by the owner to demonstrate that display to another company. And that other company kicked off a design last year. And we've designed that display. So that's another high resolution. I can't tell you how high or what it is. Forgive me. We designed that last year. It's in the foundry. It will come back to us from the foundry. And then we will put the OLED on. And that'll be in Q2. And then there are a number of other steps, and the company that is paying for this design will use it as a proof-of-concept for an advanced device. And this company is very interested in the device. And we also have an effort going on, as you know, to demonstrate the scalability of our direct patterning and work together with the consumer company to get a mass production partner.
+
+Okay. Thanks, gentlemen. I'll hop back into queue. Otherwise I'll just keep going.
+
+I'll just let you one other one. We did have a – as you know, in the past, we had an effort and did a licensing agreement with a company. We've talked to that company again, and they are very interested in – when our dPd has a mass production partner. So there is three I mentioned.
+
+Three. Okay, three in total. Got you.
+
+So those are three real things that are going on now. And the other things as I mentioned there are a number of companies who have come to us and talked to us about the specs and what they need and can we do it, et cetera.
+
+So when you say three real things going on, you actually mean that there is money changing hands and contract signed?
+
+Well, the one is a licensing agreement, which until we have mass production partner, there will be no money. And the one obviously, you can look at our numbers, you see there is a lot of money from that one. And the other one we owe the demonstration of the display. That's the 4K.
+
+Okay, okay. Thanks again, gentlemen. Appreciate the color, and thanks for taking my question.
+
+Thanks. Thanks, Kevin. [Operator Instructions]
+
+And there were no other – oh, we did have a question come in. We had a follow-up come in from Kevin Dede. Kevin your line is live.
+
+Okay, I just thought I'd hand over the reins, so thanks for taking me back. Mark, you mentioned I think, increase in head count. Can you speak to the OpEx effect of that a little bit, vis-à-vis what you reported this quarter and how we should think about it during the current year?
+
+Well, it's a modest increase, Kevin. There were one or two people. We also added a person, a program manager to manage the government funding, which the $39 million, which we didn't talk about. And we're also looking at some people, some yield improvement employees as well. So we're – so it's a modest increase. Some of the head count also will be funded by the Title III programs. So as we're bringing in this new equipment over the next few years, we're just making a real effort to maximize the return on that, which is again quite significant for us. So we've done a lot with say, a relatively small base of capital equipment. Our book value was $9 million and now with the government we're looking at over $39 million in capital equipment. So we're quite excited about that and making sure we have the right resources to put that to productive use.
+
+So will that include, Mark expanding the facilities in Hopewell?
+
+Yes. Yes. So we did – we've expanded our footprint about 25%, although we did get a – we did get some good concessions from the landlords. So our rents will only increase very modestly and that does include another 8,000 square foot of clean room space. And we went out 10 years, that we have ample space, and we don't have to worry about, obviously, it'd be very difficult to move a business of this kind. So we're – we have plenty of protection for our equipment and room to house the new Title III and IBAS Equipment.
+
+May I also mention that the OLED equipment will be capable of producing every display we produce today, plus production -- real production of direct patterning. So that's an outstanding addition.
+
+How will that help you on the volume side, Andrew? Will you have two separate lines now for OLED, for dPd OLED?
+
+Yeah. We have two tools today, and this will be a third tool. The one can be devoted to R&D because the smaller tool can be devoted to R&D. So yes, absolutely, we'll have more capacity. And just think of it this way. This tool is – has more capacity than the one -- bigger one we have today. So to be [indiscernible]
+
+(00:28:11)
+
+...and be able to produce every product we do today.
+
+Do you have a timeline on full implementation for that?
+
+We like to be cautious. We think it will be sooner than but we're setting up and running in 2023, that's the idea. But it'll be here earlier and we will be qualifying it.
+
+Yeah. And Kevin, that's for the dPd tools. Other tools are coming online throughout that period. We already had $1 million piece of testing equipment. We took delivery and that's expected to be fully qualified in June and the [indiscernible] (00:28:50) about a dozen other pieces of key equipment for our process that will like automated, kind of reduce our sort of failure prone equipment, improve our yields, reduce the particles. So, getting quite a significant upgrade and we have a plan and analyze the expected yield improvements as these come online.
+
+Yeah. Again, the idea is greater throughput and greater yields. And the equipment as Mark said comes in – came in last year. 2020s, this year and 2022. The only -- the long tent pole is the new OLED machine.
+
+Okay. Okay. Was there anything specific during the regular production runs in the December quarter that, I don't know, hindered yield at all?
+
+Oh, not -- we had one issue that we solved due to the great work of the team under Amal's direction, one thing that worked very, very well. And then we simply had -- because the COVID, we couldn't get the person here who we needed to help fix a particular tool. And that was announced a large OLED machine that we have now. So that was an issue for us. So we didn't build enough inventory but we did shift to our customers. And we missed very little.
+
+Okay. So do you -- is your key guy on board now, Andrew. So we shouldn't expect that through March?
+
+Yeah. The key guy is onboard in March. He's from a different country. So that's part of the problem. He came here in March and we're going much, much better now.
+
+Okay. Remember the discussion, Andrew about working with the foundry partner on a VR display and mass production. Can you speak to the progress there or where that project is?
+
+Oh, well, we do have a foundry partner for the 4K display. And the other display we're making, very important foundry partner. And they're working as hard as we are to make sure this works out. So partner is a very good one. And it's a...
+
+Okay. So, so that agreement has been reached, and you believe that they'll be able to generate the scale that you might need to satisfy consumer demand?
+
+Oh, they have the capability to make the wafers for consumer demand. They're very interested in doing this.
+
+Would they also do dPd on site?
+
+I'm sorry, what did you say, Kevin?
+
+Yeah. I apologize, Andrew, would they also be doing a direct pattern deposition?
+
+I'm sorry. No they there would not be doing direct patterning. Remember I mentioned that we're working with a particular company. And actually there is more interested in making sure we have a mass production partner.
+
+Okay. Okay. All right, gentlemen...
+
+Let me just mention -
+
+...I went through my second list. Thanks very much.
+
+One other thing, Kevin, it's much easier to get a mass production partner with a consumer electronics company who wants to buy the volumes standing next to you. And that's the idea. We're going to do that together.
+
+Okay, okay.
+
+Once the [indiscernible] (00:32:49) concept comes out well, they're going to sit right next to us.
+
+Right. Right. Makes sense. Absolutely, makes sense. Okay. Thank you.
+
+No problem.
+
+Thank you, Kevin.
+
+Thank you. And there were no more questions in the queue at this time.
+
+Okay. Well, let me, let me say a few things just then, Mark, can say a few things as well. First of all, I appreciate all of you on the line. We have a lot of people. We have some follow-ups with you. So we'll answer more questions offline. And the employees have done a very nice job on the COVID side. We've gotten some great progress. The US government with $39 million, this will be an enormous advantage to our production in terms of throughput and yield and the – that program is going well. We're on time and on schedule and on budget and that's unusual.
+
+Sometimes we're told for these US government programs from the DoD, but we are moving forward with it. And we're very happy about the XLE, it's performing very well. And again one very important customer and another – a number of others are using it. So this will be a great step forward for us with white -- with color filter and the consumer direct patterning efforts are very important to us and going well at this time. Okay, thank you very much.
+
+Thank you.
+
+Thank you, ladies and gentlemen. This does conclude today's conference call. You may disconnect your phone lines at this time and have a wonderful day. Thank you for your participation.
+
+Thank you.

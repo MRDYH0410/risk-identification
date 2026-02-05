@@ -1,0 +1,344 @@
+raw transcript
+
+
+Verso Technologies, Inc.
+ 
+VRSO
+ 
+Q2 2005 Earnings Call
+ 
+Jul. 25, 2005
+
+
+Company
+
+ 
+Ticker
+
+ 
+Event Type
+
+ 
+Date
+
+
+
+www .Ca ll St r eet . com
+ 
+•
+ 
+21 2. 9 31 . 65 1 5 •
+ 
+C op yr i g ht © 20 0 5 C a ll S tr ee t
+ 
+1
+
+
+MANAGEMENT DISCUSSION SECTION
+
+
+Operator: Ladies and gentlemen, thank you for standing by. Welcome to the Verso Technologies
+
+
+Q2 Results Conference Call. At this time all participants are in a listen-only mode. Later we will
+
+
+conduct a question-and-answer session with instructions being given at that time. [Operator
+
+
+Instructions]. As a reminder this conference is being recorded. I would now like to turn the
+
+
+conference over to our host Vice President of Investor Relations Mr. Monish Bahl, please go ahead.
+
+
+Monish Bahl, VP, Investor Relations
+
+
+Thanks. Good evening and welcome to the Verso's second quarter 2005 earnings call. Before we
+
+
+start the call, let me remind the listeners that some of the statements in today's call will constitute
+
+
+forward-looking statements within the meaning of the Securities Act of 1933, as amended, and the
+
+
+Securities Exchange Act of 1934, as amended. The Company intends that such forward-looking
+
+
+statements reflect the Company's current views with respect to future events and financial
+
+
+performance, that are subject to many uncertainties and risks factors related to the Company's
+
+
+operating and business environment, which may cause actual results of the Company to be
+
+
+different than any future results expressed or implied by such forward-looking statements.
+
+
+Please see the Company's section entitled "risk factors" in the Company's annual report on Form
+
+
+10-K for the year ended December 31, 2004, for a list of such uncertainties and factors. Verso
+
+
+Technologies undertakes no obligation to publicly update or revise any forward-looking statement,
+
+
+whether as a result of new information, future results or otherwise.
+
+
+In this call we will use EBITDA, which is defined as net loss before interest, taxes, depreciation
+
+
+amortization of intangibles and amortization of deferred compensation. Additional information
+
+
+regarding EBITDA is set forth in the earnings release to be put out today at 4 P.M. and can be
+
+
+accessed through the Investor Section of the Verso website. Steve Odom Verso's Chief Executive
+
+
+Officer will start off today's call. So, with that, Steve I'll turn the call over to you.
+
+
+Steven Odom, Chairman and CEO
+
+
+Thank you, Monish. I like to welcome all of you today on our second quarter 2005 earnings call.
+
+
+With me on the call today is Lewis Jaffe our President and COO. Monty Bannerman our Senior VP
+
+
+of Strategic Initiatives; and Juliet Reising our CFO. Before I get pass the call over to Lou I will
+
+
+highlight some of the things that we accomplished in the second quarter Lou, Juliet and Monty will
+
+
+be discussing these in greater detail later on in this call. Again another very busy quarter for Verso,
+
+
+things are coming together and we are more focused now then we earlier have been. Economies
+
+
+are continuing to improve in markets to which we have a strong presence. We are feeling good
+
+
+about the future of Verso, I'll now highlight some achievements that we accomplished in the second
+
+
+quarter. We achieved 8.5 million in revenue up 29% over the prior quarter in the same quarter a
+
+
+year ago. EBITDA from continuing operations for the second quarter was improved by 1.2 million
+
+
+over the last quarter if you exclude the one-time charge related to the sub-lease space we inherited
+
+
+from the original all tracks [ph] merger. This improvement is due to an increased revenues – an
+
+
+increase in revenues and tightly managed operating expenses. We were successful in restructuring
+
+
+our 4.5 million in convertible debt that matures next November. Roughly 2.25 million will be paid by
+
+
+that due date and rest over the next 12 months. The cable and wireless installation of our new JCAI
+
+
+master solution has been very successful and they are already adding additional capacity with new
+
+
+features to that first installation.
+raw transcript
+
+
+Verso Technologies, Inc.
+ 
+VRSO
+ 
+Q2 2005 Earnings Call
+ 
+Jul. 25, 2005
+
+
+Company
+
+ 
+Ticker
+
+ 
+Event Type
+
+ 
+Date
+
+
+
+www .Ca ll St r eet . com
+ 
+•
+ 
+21 2. 9 31 . 65 1 5 •
+ 
+C op yr i g ht © 20 0 4 C a ll S tr ee t
+ 
+2
+
+
+Additionally we are now talking to them about providing similar solutions in other cable and wireless
+
+
+locations around the world and Monty will cover that in more detail in a moment. We began
+
+
+converting our trials from our NewNet product forma products into revenue last quarter and are
+
+
+continuing to add new trials as we go forward as you may recall we announced the release of our
+
+
+new GSM AB [ph] Smith form of platform last quarter, during the first quarter. Revenues from these
+
+
+products were responsible for more than half of our revenue growth last quarter, and we see that
+
+
+trend continuing. We completed the development of our new soft switch release that now includes
+
+
+GR 303 compatibility local number portability and E911 features, which now opens the market for
+
+
+us in the United States. We already have customers lined up for trials and expect to begin sing
+
+
+revenues in the fourth quarter on this initiative. We continue to work – 801 Patent issues, and
+
+
+continue to believe it will produce significant value for Verso in the future, additionally we have just
+
+
+been notified that we have been given the nod on a brand new patent. Lou will be providing you
+
+
+with much more color on this in a few moments. We are continuing to work on our new product
+
+
+initiatives and solutions for the future successful growth at Verso. This is what I am now focusing a
+
+
+lot of my efforts at Verso, initiatives that include negotiating potential partnerships, acquiring new
+
+
+products, and researching new technologies, then we may be able to build new products and
+
+
+solutions to grow our revenues. Some of the technologies that offer promise include applications
+
+
+such as a feature server which we believe will enhance our soft switching technology. Features like
+
+
+conferencing, the inside messaging, and host of PBX functional. Essentially we are exploring I-
+
+
+Master technology and we believe it is at the beginning of the book deployment cycle and we have
+
+
+already begun deploying with partners on I-Master technology. We have just scratched the surface
+
+
+on this and expect to deal with these technology solutions using this technology in the near future.
+
+
+Again I feel like the pieces are finally in place and with the international economy continuing to
+
+
+improve along with our products and product development road map Verso has a very bright future.
+
+
+I would now like to turn the call over to Lewis, thank you.
+
+
+Lewis Jaffe, President and COO
+
+
+Thanks Steve, I am pleased we are announcing the highest revenue quarter in the last five
+
+
+quarters. I want to publicly thank the entire Verso team for making this happen. It is nice to have
+
+
+both sequential and year-over-year growth. While we continue to be conservative with our remarks
+
+
+to the investment community and we will not be providing specific guidance on this call as to a
+
+
+revenue range, however, it is our firm belief based on our current pipeline and opportunity list that
+
+
+we will show quarter-over-quarter growth as we did this quarter for the balance of the year. This is
+
+
+supported by the metrics we now have in place to evaluate our opportunities as they have been
+
+
+reliable predictors and yielded good trend information.
+
+
+Our growth this quarter is the reason we are confident in trending up for the balance of the coming
+
+
+year. This comes from multiple sources, our vision and strategy is sound combined with the
+
+
+execution against our plans by the engineering and sales teams, we now bring a substantial value
+
+
+proposition to the marketplace. Our product line is robust. This is supported by the upside potential
+
+
+of the significant add on orders coming from initial deployments of some of our newer technologies.
+
+
+Our pre-sales responsiveness and our pro-sales service gets rave reviews by customers and lastly
+
+
+our road map continues to have us moving up into the more lucrative space of delivering
+
+
+applications rather than competing purely in a rapidly commoditizing environment. Having value
+
+
+added applications in our portfolio of technologies will allow us to pull our existing products by
+
+
+creating value added bundled solutions. For the balance of this year, we believe that big drivers of
+
+
+our business will be the net performer product line with GSM compression technologies and
+
+
+satellite solutions with 1 plus 1 redundancy capability. Along with having I-Master Solution which
+
+
+now will be part of our Clarent Softswitch product line or as a standalone product.
+
+
+It is important to note that these decisions of GSM and the I-Master Solution were made over a
+
+
+year ago and just now we are realizing those results. Our pipeline and trial list support our optimism
+
+
+and our belief that even better results in our near and long-term future. The value that can be

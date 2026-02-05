@@ -1,0 +1,246 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+Thomas R. Schmutz — Chief Executive officer, FLYHT Aerospace Solutions Ltd.
+Nola M. Heale — Chief Financial Officer, FLYHT Aerospace Solutions Ltd.
+Walter J. Winnitzki — Analyst, Buckley Capital Advisors LLC
+Alexander Harry Ruus — Portfolio Manager, Arrow Capital Management, Inc.
+Marc Berger — President and Financial Advisor, MKB Associates Inc.
+
+Management Discussion Section
+
+Question And Answer Section
+
+Thank you for standing by. This is the Chorus Call conference operator. Welcome to the FLYHT Aerospace Solutions Fourth Quarter 2015 Earnings Conference Call. As a reminder, all participants are in listen-only mode and the conference is being recorded. After the presentation, there will be an opportunity to ask questions. [Operator Instructions]
+
+Due to the volume of questions expected on today's call, we ask that you please limit your questions to three to allow others to ask. If there are any outstanding questions at the end of the call, the company will be happy to take them over e-mail at investors@flyht.com. That's investors @ F-L-Y-H-T dot com.
+
+[Operator Instructions] At this time, I would like to turn the conference over to Tom Schmutz, Chief Executive Officer of FLYHT. Please go ahead, Mr. Schmutz.
+
+Thank you, Anastasia. Format for this call will be that I'll provide a review of our 2015 results operationally and financially from a high level. And Nola Heale, our CFO, will provide a more detailed review of the financial results in the fourth quarter as well as for the year in total. We'll then discuss our 2016 goals and answer some questions that we received via e-mail prior to this call. And then, finally, we'll answer any questions that may be called in.
+
+So, I'd like to start off the call by thanking our shareholders and those who have dialed in to learn more about FLYHT. Our results in the fourth quarter were improved and produced best revenue records for our financial performance. We made excellent progress on our stated goals for the year. We enhanced our Board of Directors and sales team, and we won awards in the industry and the community.
+
+We also smoothly transferred executive control of the company and used that transition to review what we were doing and how we did it. Our focus is to improve our organization and our operational performance. So, we've distilled this effort into a high-level internal strategy that we call Adopt Excellence. This is our roadmap for becoming profitable and for increasing shareholder value. There is significant optimism within the company resulting from our improving revenue performance and the strong feedback that we're receiving from OEM and solution partners that we do indeed have a unique offering for this market and that it's timely.
+
+The 2015 year ended with a record revenue fourth quarter of CAD 3.8 million, which was 47% higher than our previous best quarter which was the first quarter of last year. Q3 was very close to Q1 in total revenues, so it was exciting that we had our three highest revenue quarters in our history and they're on the year 2015. The resulting CAD 10.5 million annual revenue for the 2015 year was also recorded. It was 52% better than 2014 and 31% ahead of 2013 which had been our previous best year.
+
+So, our financial progress has been made. And we have more work to do to fund our own operations. When we look closer at our own cash flows, though, there's optimism there also. Our company utilized CAD 2.6 million in cash last year because of the losses, but the cash balance reported at the end of the year was actually higher than September 30, quite progressively self-funded more of its operations, consuming less cash each quarter. So, in the first quarter, we used CAD 1.7 million in cash. In quarters two and three, we used CAD 600,000 in cash and we were slightly positive in Q4.
+
+Also a success, we added an additional board member in 2015. Mark Rosenker was the 11th Chairman of the NTSB. And he's currently a consultant to CBS News and appears on their network to discuss transportation safety issues. Mark served President George W. Bush as Deputy Assistant to the President until the President nominated him to lead the NTSB. I can tell you that Mark is extremely passionate about aviation safety, is a huge supporter of the AFIRS system, and he believes strongly that the solution that we've created at FLYHT is the solution that will make commercial aviation travel safer and more efficient for the carriers that install it.
+
+So, Mark's addition follows the previous year's addition of Barry Eccleston who is the President of Airbus Americas; and John Belcher, previous CEO of ARINC. These gentlemen, combined with the legacy members on our board, create an outstanding group with excellent market reach and wisdom.
+
+FLYHT spent a significant amount of time and energy participating in ICAO and IATA meetings and conferences last year discussing the aftermath of MH370 and what the industry responses should be. FLYHT continues to monitor the industry discussions on aircraft tracking and other safety-related industry initiatives. But the delays and the stonewall that we see in these efforts indicate there will not be any type of regulatory action in the next year or more.
+
+Most recently, ICAO adopted new provisions to include a requirement for an aircraft to carry autonomous tracking which will transmit location once every minute in distress circumstances. This is scheduled by year 2021 which is quite a ways from now. This new provision is separate from ICAO's proposal to require a standard of reporting aircraft position at least every 15 minutes when in oceanic or remote airspace, so this requirement, this latter requirement, is targeted for 2016 – originally targeted for 2016, pardon me, but it's been pushed to 2018.
+
+So, FLYHT stands ready with our solution. We're able to address these and other regulatory responses, but we are truly focused on as demonstrating how our existing field of proven solutions save our customers money today and dramatically enhance the safety and the situation of their fleet today and for the future.
+
+A little bit on research and development. The bulk of the research and development in 2015 was directed at completing our safety services TSO for the AFIRS product; continuing the expansion of the STCs for the AFIRS 228. And finally, we did a great deal of prototyping of a new cloud-based UpTime server.
+
+So, our development team completed and received the TSO-C159b for safety services for our AFIRS 228s product. FLYHT is the only company in the world to receive this TSO from any safety authority for a combined safety services voice and data product. We're really quite proud of this accomplishment.
+
+And practically, what this means from a business perspective is that it's easier for us to install AFIRS safety services in different aircraft in the future. Also, it will allow us to meet certain customers' requirements.
+
+Our STC creation continues to be a market differentiator for FLYHT. This is a real barrier to entry for potential competition, and we keep an excellent accounting on our website for customers to quickly review and to understand where we are in the process of achieving installation approvals. Right now, we're able to install on 95% of aircraft used for commercial air transport.
+
+The major development for us in 2015 was the prototyping of our next-generation cloud-based aircraft situational display and other related UpTime products. We spend a lot of effort and time understanding what features our customers are looking for and how best to incorporate the important lessons that we've learned from our legacy server-based applications that we currently provide, providing service in the connected aircraft space. This is a hard-won knowledge and a knowledge that is not generally held by others in the industry.
+
+At the end of 2015, we looked closely at what we were working on in our development areas, what the relative priorities were and what the products we're producing in the market. As a result of this review, we made a decision to stop selling the Dragon product. So, we'll continue to support our installed customer base and any contractual requirements that we have. However, we will not sell any product to new customers, Dragon product, and we will divest of the product line if we find the right opportunity. We feel like there are much better features to work on and better returns working on our core AFIRS product line at this time with the resources that we have.
+
+Moving on to the end of last year, we signed a technology licensing agreement in December with an undisclosed technology company. This licensing agreement is a win-win for both companies. For the technology company, they get a jumpstart on development using FLYHT's SATCOM IP, allowing them to focus on more applications, specific developments and less on a basic SATCOM, saving time and getting them to market more quickly.
+
+For FLYHT, the deal allows us to monetize our IP without losing what we consider to be core know-how, which is the monitoring and real-time elements on an aircraft, learning and alarming, operational monitoring and streaming of flight data. These elements that I just referred to are not included in the IP to be transferred. This agreement also gives FLYHT the right to resell the technology company's resulting product into our markets and to our customers.
+
+The signing of this transfer and subsequent payment was [ph] to have been in (09:30) the first quarter of this year. It's now been amended to the second quarter. Both companies hope that this agreement is executed as it's written, but there is some doubt due to the technology company having to achieve some approvals before they proceed. So, we will have to be patient and closely monitor what happens here. Internally, we're optimistic.
+
+So, reviewing the 2015 goals, we included expanding the sales team and capturing a major carrier. We did expand our sales team and we put in place standardized sales processes and materials. Also recently, David Perez, our VP of Sales, has established a partnership with Tri-Wing in Southeast Asia. This is a company that some of us have had excellent experiences with in past associations.
+
+We also had a goal to capture a major carrier. We did capture our largest customer to date, which was Avmax, who operates 146 Bombardier aircraft, operator-leased 146 aircraft. We began installation with this carrier and five units have been shipped with more on order. More units will be delivered and installed as their aircraft become available for installation.
+
+We had a goal for continued expansion in China and we won positions at five airlines and began the process of establishing a depot maintenance facility. We had goal of completing the MRO, the maintenance, repair and overhaul, depot was not completed, but that remains a goal for 2016. Jeff Brunner has been in China this year working on the MRO partner, and we plan on commissioning the depot this summer.
+
+We responded to a significant OEM opportunity for learning and streaming aircraft data, which was one of our goals. We remain hopeful that our outstanding technology will be selected. That opportunity is still being processed by the OEM, and FLYHT remains a strong option for this selection.
+
+So, overall, the company did a good job of meeting our goals that were established in the previous planning year, and the entire team is very proud of this.
+
+So, in addition to the ramping sales in China, we also saw significant increases in the parts sales portion of our revenues. This is where we recorded our license sales to OEMs and partners. This revenue increased from about CAD 720,000 in 2014 and nearly CAD 3 million in 2015. This quadrupling of revenue is very exciting for FLYHT and underscores the great work that was done by the team establishing this revenue source.
+
+So, now, I'd like to turn the call over to Nola, who will provide more our financial detailed results. Nola?
+
+Good morning, everyone, and thanks, Tom. FLYHT's fourth quarter results to end 2015 are certainly encouraging. This quarter was our best revenue quarter. In fact, I remember saying the same thing in May of 2015 that the first quarter was our record revenue quarter. But the fourth quarter has beaten that one by 47%.
+
+2015 had three record revenue quarters, as Tom mentioned, and established an exciting trend for FLYHT. All three revenue categories, the AFIRS sales, the recurring revenue and the parts sales which, of course, includes that license fee, were records for FLYHT. Shareholders will have taken the time to study our annual report. It does contain both good and bad news.
+
+The bottom line for the year and the fourth quarter was not a profit. We did end the year with a higher cost base and that with which we commenced the year. The staff head count remained approximately the same throughout the year, but their total cost is now higher. We also now have some additional consultants especially in the sales team. This is good news and should deliver results. And in the third and fourth quarter, we started to see increasing sales contracts, both closed and under negotiation. You can see this cost impact in the distribution expenses in the financial statements.
+
+Administration and the research and development expenses were both in line with the prior year. If you recall, the prior year research and development expense line item, as it appears on the face of the income statement, is actually lower, and this was abnormally distorted by that CAD 1.95 million SNC provision reversal in the 2014 year.
+
+The loss in the fourth quarter is attributable to the higher distribution expenses and especially, but not entirely, to onetime charges that will not recur. These being, in particular, attributable to changing our senior management of the company.
+
+Performance has definitely improved. You'll note that the fourth quarter was also operated at cash flow breakeven. Cash absorbed by operations improved CAD 3.2 million compared to 2014. In other words, we have succeeded in absorbing CAD 3.2 million less cash in the year. And as Tom mentioned, through the course of 2015, we absorbed progressively less cash as each quarter continued.
+
+At Q3, I reported that the China business was slowly beginning to flow at an increasing pace, as we had been anticipating over the prior couple of years would happen. We continue to report China is doing well. The Chinese airlines are installing satellite communication to meet their mandate and inspection deadlines, the sales of both through SKYBLUE, our partner, and direct sales customers.
+
+Investors will note that, in the customer deposits, we grew our paid backlog about the same amount as we had in 2014, CAD 230,000 increase in customer deposits. Deposits now are just over CAD 1 million. In the annual revenues, you'll see that our AFIRS units shipped and turning into revenue is more smooth than they had been in the past. [ph] This list (15:48) delay between the shipment and the recognition of the revenue.
+
+The AFIRS revenue recognized has increased CAD 984,000 in 2015 compared to 2014. A large part of this came in the fourth quarter, the AFIRS installations in process which are included in our inventory. Let's come back a little bit from the prior year. As we're seeing some movements towards payment after installation rather than in advance, this was expected as we move into larger airlines and in China. But the aging of our accounts receivable remains excellent.
+
+The working capital, of course, is significantly negative on this statement of financial position as both of the debentures, the CAD 2.3 million repayable in June and the CAD 3.1 million convertible or repayable in December of this year now appear in the current liabilities. Our executive management is very well aware of these liabilities and is working on their retirement.
+
+If we remove these liabilities from the working capital, we would be working-capital neutral, and the decrease compared to 2014 is attributable to the decrease in cash. This, in turn, ties to the operating loss in the year. So, we are literally utilizing cash to support the operating loss which has come back in comparison to prior years, and we are not growing our assets, which is necessary for a company like FLYHT. As we said on the third quarter conference call, the financial position and performance of FLYHT are improving.
+
+With that, I'd like to hand the microphone back to Tom.
+
+Thank you, Nola. Moving on to 2016, we're very excited about the developments that we have planned and the goals that we have established for the year. As I mentioned earlier, we're making significant investment in the redevelopment and rollout of an updated cloud-based implementation of the UpTime ground-based user software. This will be a suite of products including FLYHTVoice, FLYHTLog, FLYHT aircraft situational display or FLYHTASD, FLYHTMail, FLYHTHealth, FLYHTFuel and, of course, FLYHTStream.
+
+UpTime features will include an integrated user interface to this suite using the latest cloud-based application implementations, and this will enhance our service availability and will improve intuitive usability while providing some dramatic enhancements. We have a [ph] phased plan reenrolling (18:32) the elements of this new system out to our customers this year and beyond. So, in the second half of this year will be the initial rollout. Our customers will find significantly enhanced functionality in the releases, and we'll also find more control has been moved into the customer configuration portion of the server.
+
+We've created some other goals for 2016 including the launch of a 24x7 call center. This will enhance customer service. Internally, we've implemented our Adopt Excellence program which establishes our strategies to grow and improve our internal efficiencies, which will improve our financial performance and increase shareholder value.
+
+Furthermore, we've set very aggressive sales goals and budgets to control expenditures to continue our effort towards achieving profitability. We're currently engaged in activities associated with satisfying the June debenture. We have held discussions with several of the debenture holders who are individuals and are well-known to our company. These major holders, like our shareholders, are very much advocated to the products we have developed and the industry problems that we are solving. So, we feel like there are several options moving forward to satisfy this debenture. We'll have more information on this topic on the next conference call.
+
+So, the next portion of the call is going to be to answer some of the questions that have come in from e-mail.
+
+So, we do have a few questions. So, the first question discusses the number of units that we've sold through our relationship with an OEM and a European manufacturer requesting the number of units that were sold and the number of units that will be sold or that we anticipate will be sold in 2016.
+
+So, I think, as we've covered in the past, our agreements don't allow us to discuss the quantities and the numbers like that. However, these sales show up in our parts revenue, and I referenced there was like a quadrupling of that number or more than quadrupling from last year to this year. So, I think, if you look at that number, you can begin to understand the exciting opportunities that we have in this part of our business.
+
+There is a further question on Avmax and the rollout. I discussed that during my talk. We don't have a targeted date for completion. It really, in many ways, will depend upon our customers. Avmax is like all of our direct sale customers in that they've got a challenging schedule of aircraft checks and operating the aircraft and trying to manage their schedules. So, it's really difficult to anticipate exactly when these things will be taken out of service and when they'll be installed.
+
+In some cases, not necessarily Avmax, but in some cases, there's STC questions and we need to do minor mods [ph] to the STC (21:41) or things like that. So, once we make the sale, the real work begins on scheduling and getting all of the installations done. So, hopefully, our – I know our customers understand that hopefully our shareholders begin to understand the challenges that exist in trying to predict exactly when these things will happen.
+
+So, there was a question about the COMAC ARJ21 and the C919, when they would begin deliveries. So, we have signed an agreement with [ph] ATime (22:20) previously, and they were assisting us to get on the ARJ21. Exactly what the production rates of that aircraft will be is really unknown. It was pretty late in its delivery cycle, and whether or not they actually produced the quantities that they predicted is something that we'll all have to discover as time goes by. So, I don't have any real information to provide when we might be shipping units for that ARJ21.
+
+However, the C919 is a project that we're pursuing. We have a strong Chinese presence, and we are working very hard to get on that aircraft. So, hopefully I can provide information in the future.
+
+There was a question about the Canadian search and rescue aircraft. I think that was discussed previously. There's a bid out, and we expect – we're included in that bid. And we expect to hear back in the third or fourth quarter this year is the latest information on that particular project.
+
+There was a question when we achieved a 1,000-unit milestone and what were the criteria used to qualify the milestone. So, that's a good question. I mean, that would be certainly something that we would celebrate. I think I indicated earlier in the CEO Letter that we have begun writing that we had in January this year achieved a equilibrium of the units that we had sold directly and shipped directly to our customers along with the units that we had sold under license.
+
+So, right now, that brings us up to having [ph] fielded our ship (24:16) to an order of roughly 800 units, a little bit more, since that time has gone by. So, I would expect that, if we measured it in terms of unit shipped, we feel that we would accomplish that this year. So, I will certainly make you aware when we do accomplish that.
+
+There was a question here about the IP licensee. I think I answered that during the call. And I don't have any information other than what I said on the call. There was questions on the debenture, and I believe I addressed that on the call. I think that we said what we can on the debenture at this point.
+
+So, there's a question here that says, China does not have the best record of respecting intellectual capital. Can you discuss the management, ideas, risk and benefits of this business? What is the company doing to protect this vital asset?
+
+It's true. We don't currently manufacture our products in China. We manufacture them in the United States. So, we don't have the detailed build information or the software or any of the core IP that goes into making the product anywhere other than in our facility, at our contract manufacturer, and then add a select partner if that intellectual property deal goes through. So, we're very careful in controlling our intellectual property. There is the possibility that a company could, in some aspects, reverse-engineer a product. Quite frankly, there's not much you can do about that. I mean, you have to sell product to stay in business, and it's very difficult to reverse-engineer all aspects of the product. So, I think that we've done what is required from a due diligence standpoint to protect our IP.
+
+So, it says our Tier 1 airline is considering AFIRS, do you expect [ph] that way for (26:39) regulations to force them to install? So, we are pursuing Tier 1 airlines where it makes sense. We have pursued different opportunities. We're still in search of the win. They are a difficult win because of their integrated systems, their requirements, just the amount of requirements that they have make it difficult.
+
+So, we do continue to pursue the Tier 1 airlines where it makes sense. We do have our core focus, though, on those airlines that are currently not using ACARS that are operating without any type of data capability. We feel that, right now, those are the opportunities that hold the most success probability for us. So, we continue to pursue both. And so I hope to be able to provide more information on that as we move forward as well also.
+
+Are the new Chinese airline installations one-offs or the beginning of numerous installation? This is a really interesting question. When I arrived in October, the number that was reported to me was that there was 46 airlines in China. And the last count that I received was 52 or 53. So, just in the timeframe since I've moved to FLYHT, which is five months, there's been an increase of somewhere around the neighborhood of six or seven commercial aircraft companies in China. That's incredible. That's a really exciting opportunity for FLYHT. We are very, very much engaged in China.
+
+So, even when we make an announcement and say that we made an initial sale to a new start-up Chinese airline, they're growing rapidly. There's a huge demand for air travel there. And so getting our product in and becoming part of their operations is huge. And this is pretty much a true statement around the world is that once we get our product installed and our customers start using it, they continue to use it. They don't take it off the aircraft. In some instances, the company may dissolve, which means that they can no longer fund their operations. But once they start using our product, they pretty much re-up. They pretty much continue to use it. It becomes an important part of their operations. And that's, I think, a real strong, compelling takeaway that I've seen in the five months that I've been here. But we are selling to Chinese companies that are both large and small, and we think that there continues to be great opportunities there.
+
+Is the rate of installation AFIRS on OEM production line increasing, steady or decreasing? So, the answer to that question is an emphatic increasing. We see it ramping up dramatically. It's continuing to ramp and it's very, very exciting for us.
+
+So, I believe that that covers all of the questions that we received. Anastasia, if you want, you can work in whatever phone calls that we have.
+
+Thank you. We will now take questions from the phone. [Operator Instructions] Thank you. Our first question. Our first question is from Walter Winnitzki of Buckley Capital Partners. Please go ahead.
+
+Yes. Thanks. I actually have two questions. First, I'm trying to get at the underlying operating EBITDA in Q4. You had mentioned there were some retirement and other one-time charges. Could you give us an idea of what those were and it looks, if you extract those out, was operating EBITDA close to breakeven? So, that's the first question.
+
+And then second, Tom, maybe you can step back and discuss the overall go-to-market marketing strategy which has changed a lot in the last year or so with the addition of Ascend, Tri-Wing and Dave coming on board just to provide a little overview as to – of the logic behind the changes and how some of those initiatives like Ascend are going at this point in time. Thanks in advance.
+
+Okay. I'm going to let Nola take the first part and I'll handle the second.
+
+Thanks very much for the question, Walter. You are, in fact, correct. We were at operating breakeven. In fact, a little bit above if you remove those retirement one-off kind of charges that we included in the quarter that we do not expect to recur. So, FLYHT in the fourth quarter did achieve operating breakeven.
+
+Okay. From a marketing standpoint, I would say that the marketing strategy that was put in place by the team prior to my arrival was sound, and that was their initial efforts targeted getting our products installed on OEM production lines. That is reaping huge benefits currently for the company. We're currently a large European installation line as well as Bombardier. And so, we will continue to work to get our product installed with the airframers. Because when it comes out of the factory installed, it's much easier to pursue and get the recurring services than having to sell and install it and then work on the services. Common sense.
+
+Secondly, that doesn't mean that we're not actively pursuing direct sales. We are indeed, and that was the emphasis last year was to build up a team. So, David Perez is in charge of our sales team and he's doing a good job getting everybody aligned and making direct sales. We brought on Ascend last year. We have terminated our relationship with Ascend. So, they are no longer working for FLYHT. However, there was some good results from that partnership. We have recently, as I indicated, brought on Tri-Wing, which was bringing us good exposure into that Southeast Asia area. And I hope to be able to provide more indications of the successes of the sales team quite soon.
+
+Okay. Thank you. Maybe I'll squeeze one more in. Maybe you can discuss the prioritization of maybe beginning a relationship with the Boeing folks and if that's something that's on the radar screen for us to be thinking about over the next one or two years or so, how realistic that would be?
+
+Yeah. So, we are very interested in getting our product on all of the airframers, and that's a big glaring hold. We have significant STCs for Boeing aircraft, and we have installations on Boeing aircraft all around the world. We would love to have a FLYHT product coming out of the Boeing factory, and we're very much engaged in trying to make that happen.
+
+Our next question is from [ph] Fadi Benjamin (34:47) of Euro Pacific Canada. Please go ahead.
+
+Thank you for taking my question. Just quickly, I want to go back and I want to have a look at the number of kits that were deposited. I note here that – and per your comments that essentially you flat-lined underpayment received 2015 to 2014 for customer deposits. However, you have received payments for payments for 36 kits versus 57 kits from last year. So, just wondering, is there a change to your pricing strategy that's undergoing for the AFIRS? That's the first question.
+
+And the second one was with regards to the Avmax. Tom, if you could – and then maybe I missed that part, could you at least provide some quantitative measure to how many units have been shipped to Avmax and what's – and how many have been installed, if any, first off? So, go ahead.
+
+Okay. I'm going to take the last question first because I understand it will look a bit better. But the – I think I said during the thing that we'd shipped five, I think, three are installed, and we're working with that customer to continue to ship more. So, I think I said during the call that it's really a challenge for our customers to get their aircraft available and to do the installs. So, I don't really have any more information on Avmax. That program we consider to be going quite well.
+
+On your first question, it was confusing to me, but I will take it – use it as an opportunity just to explain a little bit of the complexity of the revenue recognition cycle that we have, and I know that you're aware of this, [ph] Fadi (37:00), but maybe everybody isn't. And so, we have this sales cycle where, for a direct sale that we're providing services to a customer, we sell the product, we manufacture the product, we ship the product, and it gets installed on an aircraft. All these things occur without our being able to recognize revenue. It's not until it's been installed and provided service for finite amount of time that we can actually recognize the revenue of that shipment.
+
+So, in that cycle between making the sale, receiving the deposit and actually turning on service, there can be quite a time that goes by depending upon the status of the STC, depending upon the availability of the aircraft, depending upon all the different things that go into these complex operations. So, it's really difficult for us to predict when sale will turn into revenue. And we have this challenge, and I know that the accountants that look at our books have this challenge trying to predict exactly where we'll be.
+
+I don't know, Nola, if you want to add anything to this that would help.
+
+No. I certainly agree. [ph] Fadi, (38:20) as I had mentioned, we are seeing that the customers are starting to install the boxes a lot faster than they had been. So, there is less of a delay between the date at which we ship the box and when it is installed and turned on, so that we are able to recognize the revenue. So, there is a bit of a distortion if one looks at it from that perspective and in terms of the number of units shipped and/or installed in the year versus the revenue that we've recognized. So, it's a bit of a funny ratio this year.
+
+My question was with regards to the customer deposits. You basically had about the same amount, about CAD 2.8 million, CAD 2.9 million on year-to-year. And you have received less in terms of unit – in terms of deposits for units. So, you've received – and I'm just reading from your MD&A – total payment for installation kits to 36 compared to a total of 57 in 2014, yet you have disclosed the same amount of payment. So, if I take the information at face value, you are getting more dollars per kit on a – at deposit. Is that a correct statement? Am I reading this the right way?
+
+At absolute face value, yeah, we're getting more. But it's not that we are actually receiving more per kit. That is very much dependent on the kind of kit that we are receiving the deposit on. There's a price difference in different regions, and there's also a difference between the various models of our AFIRS units. So, the mix of those units that are included in that payment that we received from customers will definitely distort it. I do recall that, late in 2014, we had relatively more by number of the less expensive units than we had in 2016 later in the year.
+
+Our next question...
+
+2015, sorry, I'm living ahead.
+
+Our next question is from Alex Ruus of Arrow Capital. Please go ahead.
+
+Hi, guys. Congratulations on the good quarter. I was just curious on the European OEM installations. Have you guys been able to translate any of those installations to ongoing service revenues yet?
+
+No. That's still work in progress, Alex.
+
+Okay. What odds would you give that now you'll be able to turn somebody on in the next 12 months?
+
+Well, there's several activities that we need to undertake before we'll be able to do that. So, it's an extremely high priority activity and one that we think that we will be successful accomplishing, but I can't really give a date on when that would be occurring.
+
+Okay. And the other question I had was the first geared turbofan engines are going out and the first LEAP engines are now going out, and part of what GE and Pratt talked about is the high level of monitoring in those engines and how important data is to the reliability of those engines. Like how are GE and Pratt obtaining data on their engines and is there any opportunity for you guys in that area?
+
+Yeah. We absolutely see opportunities with the engine manufacturers, and I think that the – a real verification of the work that has been done at FLYHT can be seen in the capability that exists in the new Boeing 787 and the Airbus A350 aircraft. So, those aircraft were designed from the ground up with significant real-time data capabilities through typically Inmarsat satellite communication means.
+
+Really what they've done in designing those aircraft is the same work that this company has been doing from day one on the legacy aircraft. Now, while that might sound ominous because the OEMs are actually building the capabilities into the aircraft, it's actually quite exciting because what accrues is that the type of services that we provide are essential and necessary that, as the operators get the Boeing 787s and the A350s, they'll begin to understand how to use and how important the data becomes. And then there's this enormous legacy fleet of aircraft that are existing in the world that are being flown and that are still being manufactured because all of the other aircraft that are being manufactured don't have this capability. We think that there's a huge market and that, again, the timing is right for FLYHT, and I think that this is really exciting for us.
+
+[Operator Instructions] The next question is from [ph] Hye Harran (44:06), a private investor. Please go ahead.
+
+Hi. Hello.
+
+Hi.
+
+Hi. Hello. Thanks for the opportunity given and I'm a student from India. I have few questions, few basic questions about AFIRS. What is the rate of the AFIRS normally and how sure that it will not affect the effectiveness of flying? And what is the antenna used for this so that you could overcome the signal disconnection during the streaming? And what are the parameters in which AFIRS will be triggered for streaming?
+
+Okay. They weight, it's about 6 pounds, I think, the antenna is a passive antenna that's used. We source the antenna from the antenna manufacturers, but it's a passive antenna. It's low profile, which makes it very advantageous to use on narrow-body aircraft because it doesn't take up a lot of room space or require a lot of challenges on installation.
+
+The triggered data really is configurable by the customer. So, there are certain parameters that we will recommend be used for the triggering. There's also a configuration that can be done so that customers can customize how they trigger and when they trigger. There was a question that you asked in the middle there that I don't think I captured.
+
+Yeah. The question in the middle was, what is the technology of antenna you used [ph] in this AFIRS (45:44) to overcome signal disconnection during the streaming process?
+
+Okay. Well, the antenna is a passive antenna. So, I think that's all I can say on that. In terms of disconnection, there is, of course, the possibility if the aircraft was in a very unusual attitude. During a serious event that you could have a disconnection, there was a evaluation done by the BEA after the Air France 447 crashed where they wanted to understand, if you remember that, I was part of those meetings. But after we went through and looked to the Air France 447, then we went to a triggered streaming set of meetings.
+
+And they did some tests where they put antennas, satellite – SATCOM antennas on a rotating barrel and they evaluated the probability that you would maintain a connection with satellites if you were rotating that barrel. And the result is captured inside of their report. It's really quite interesting. They did recommend that, for a complete connection surety that you would have two antennas, one on the top and one on the bottom of the aircraft. But the actual probability that you would disconnect with a single antenna was really quite a lot of – it was surprising to me. So, I think that we have in our black box streaming – FLYHTStream capability a real safety winner. I think that the probability that we get the data off the aircraft is pretty high. And I think that it's something that is quite frankly astounding that we haven't had more uptake on this from the industry. So, hopefully, that answers your question.
+
+The next question is from Marc Berger of MKB Associates. Please go ahead.
+
+Hi, guys. Thanks for the call. Good quarter. Are we going to soon target the leasing market? It seems like it's a perfect area that large fleets of planes, it's ideal for them to know where their planes are at all times that they're being maintained because that will – absolutely they're absentee landlords.
+
+Yes, Marc. Nice to talk to you. We absolutely are. We have this deal with Avmax. So, with that customer, they bought like the FLYHTLog and FLYHTHealth product which, like you say, gives them the opportunity to manage the fleet, to understand it, to be able to get real-time data, to understand how it's being operated. But then there's an opportunity as they lease those aircraft to their customers that we can go and upsell all the other services that we offer to those customers. And so those would then be layered on to the services that are done by the leasee. So, we see that as a great model. I think you're spot on, and we're pursuing it.
+
+Second question, on insurance. I know the operators don't share their costs with you, but perhaps we ought to come at it from a different direction. One, I go after the insurance company themselves, either pick one or two that wish to enter into the market space or ones that they want to expand their reach. If we can bring the operator to them if they give the operator a discounted rate, first, the insurance companies – first of all, the insurance companies should be able to look at this as a risk tolerance event. It would be an advantage to them to be able to sell to new clients while at the same time be able to receive revenues from a sort of like – if it's like an auto company giving a discount to good drivers and anti-theft devices.
+
+But I don't know the true numbers, but let's suppose an operator gets charged CAD 1 million a plane a year in an annual basis for maintaining and giving the insurance, and if they give the operator a 5% discount, that would be a CAD 50,000 savings per year, that would pay for the entire cost as well as recurring revenues for at least one to one-and-a-half years. After the operator is saving – after all, the operator was saving [ph] because it happens with the (50:28) savings for the life of the plane, that actually becomes an income-generating element, because after they finish paying for the service, they still have that cash flow coming through.
+
+So, thus, the results would be the operator gets top-of-the-line product, actually generates income while protecting the plane, also saves them additional cost of maintenance, the savings on monitors onboard their systems allows for tracking and streaming of the black box in case of emergency. The insurance company gets a new client which generates sales as well as an opportunity to upsell them that additional insurance products and also have a lower risk profile. And obviously, FLYHT gets to sell more systems, generates recurring revenues. And who knows? Maybe you can extract some additional fees from the insurance company as a onetime binder or recurring revenue fee as well.
+
+Yeah. Marc, I think your logic is right. I think it makes sense. And it's certainly something that we're pursuing. We do have evidence that customers have received reduced rates after installing our system. We haven't really been able to turn this into a sales opportunity. We're trying. We're working on this. You present some good ideas. We'll continue to work it and I agree with you. I think that there should be opportunity there and I hope that we discover it.
+
+We have time for just one more question, and it will be a follow-up question from [ph] Fadi Benjamin (52:06). Please go ahead.
+
+Thank you. Just quickly, it's for Nola. Keeping in mind that a lot of the installations in China are going to be on the voice side of it, and whatever you're having with factory install on Airbus is still going to be on very basic ACARS, could you go historically looking back at your voice and data services, is it possible for you to give us sort of a break for 2015 of how much of that recurring revenue was strictly on, call it, the lower end, just voice side of it and how much of it is tied up to the higher end getting more of the AFIRS functionality or related more to the AFIRS functionality to the different product lines that are on the AFIRS UpTime?
+
+[ph] Fadi, (53:11) I don't unfortunately have those numbers in the room with me at the moment, but I can comment that the mix between voice and data did stay approximately the same through the year compared to what it had been in prior years. Potentially, as we sign up more Chinese customers, if they were to stay with exclusively voice, the mix would increase. We'd have more of the voice-only customers. But at the moment, we haven't seen a significant shift.
+
+Although we are also, as we've mentioned in the past, we are pursuing data with Chinese customers. So, there is the possibility that we'll be able to sign at least some, if not all, of the Chinese customers for data as well, which will allow us to maintain or potentially even increase our average per customer rate because we would have both voice and data. But through the 2015 year, we didn't see terribly much of a difference in the exact split. I could get you the numbers after, if you would like.
+
+Much appreciate it. Thank you.
+
+This concludes the question-and-answer session for today's call. I would now like to turn the conference over back to Mr. Tom Schmutz for closing remarks.
+
+Well, I thank you very much, everybody, for dialing in and listening to the call. I'm quite proud of our year last year and particularly the fourth quarter. We remain very positive about our significant ability to improve operational efficiencies of airlines, and we're engaged as ever here at FLYHT. I'm really very personally happy with the way the company has welcomed me and my ideas concerning how we continue to build upon excellent work that was implemented before my arrival. So, I just want to say thank you for your support of our company, and we look forward to a very exciting and opportunity-filled 2016. Thank you.
+
+This concludes today's conference call. You may disconnect your lines. Thank you for participating and have a pleasant day.

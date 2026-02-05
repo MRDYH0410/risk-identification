@@ -1,0 +1,288 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+Christopher T. McKee — General Counsel & Executive Vice President, Corporate Development, GTT Communications, Inc.
+Richard D. Calder — President, Chief Executive Officer & Director, GTT Communications, Inc.
+Michael T. Sicoli — Chief Financial Officer, GTT Communications, Inc.
+H. Brian Thompson — Founder & Executive Chairman of the Board, GTT Communications, Inc.
+Jonathan Charbonneau — Analyst, Cowen & Co. LLC
+George Frederick Sutton — Analyst, Craig-Hallum Capital Group LLC
+Timothy Horan — Analyst, Oppenheimer & Co., Inc.
+Walter Piecyk — Analyst, BTIG LLC
+Mike McCormack — Analyst, Guggenheim Securities LLC
+James D. Breen — Analyst, William Blair & Co. LLC
+Brandon Nispel — Analyst, KeyBanc Capital Markets, Inc.
+
+Management Discussion Section
+
+Question And Answer Section
+
+Good morning, and welcome to the GTT Communications Third Quarter 2018 Results Conference Call. All participants will be in listen-only mode. [Operator Instructions] After today's presentation, there will be an opportunity to ask questions. [Operator Instructions] Okay. Please note this event is being recorded.
+
+I would now like to turn the conference over to Mr. Chris McKee, General Counsel and Executive Vice President of Corporate Development. Please go ahead.
+
+Thank you and good morning. I'm joined today by Rick Calder, GTT's President and CEO; Mike Sicoli, GTT's Chief Financial Officer; and Brian Thompson, GTT's Executive Chairman of the Board.
+
+Today's discussion is being made available via webcast through the company's website, www.gtt.net. A telephonic replay of this call will be available for one week. Dial-in information for the replay as well as access to a replay of the webcast is also available on our website.
+
+Before we begin, I want to remind you that during today's call, we'll be making forward-looking statements regarding future events and financial performance made under the safe harbor provision of the U.S. Securities laws, including revenue and margin expectations, projections and references to trends in the industry and GTT's business.
+
+We caution you that such statements reflect our best judgment as of today, November 8, based on factors that are currently known to us and that actual future events or results could differ materially due to a number of factors, many of which are beyond our control.
+
+For a more detailed discussion of the risks and uncertainties affecting our future results, we refer you to our SEC filings. GTT disclaims any obligation to update or revise these forward-looking statements to reflect future events or circumstances.
+
+During the call, we'll also discuss non-GAAP financial measures, including certain pro forma information, which were not prepared in accordance with GAAP. A reconciliation of our GAAP and non-GAAP results is provided in today's press release and is posted in the Investor Relations section of our website.
+
+I will now turn the call over to Rick Calder. Rick?
+
+Thank you, Chris, and good morning, everyone. Third quarter 2018 marked another good quarter of performance by GTT. We delivered revenue and Adjusted EBITDA growth of 121% and 93% from last year, respectively, and we made meaningful progress on the integration of our largest strategic acquisition, Interoute.
+
+We completed the organization integration in September and we expect the majority of those employees currently on transition to leave the company by year-end with the remainder leaving throughout the first half of 2019. The systems integration is also well underway as we consolidated all core business support systems to our Client Management Database, CMD, in October. Network integration is also on track for substantial completion in the next few months.
+
+We expect to complete the Interoute integration in early 2019, consistent with our prior estimate of three to four quarters post-close, and continue to expect to achieve at least $100 million in run rate cost synergies once the integration is complete. It is important to note that our $100 million target remains unchanged despite the recent weakness in the euro and the pound as we expect to outperform our initial estimates on a constant currency basis.
+
+Given our successful progress on Interoute integration, right after the quarter ended, we announced the acquisition of Access Point, a provider of communication services to enterprise clients throughout the United States. Access Point brings a growing roster of strategic U.S. enterprise clients, deepening GTT's presence in key verticals such as retail, manufacturing and energy, with significant upsell opportunities, complementary managed broadband, Internet and voice capabilities to reinforce GTT's market leadership in cloud networking, new partner relationships in the indirect channel, complementing GTT's expanding presence in the channel marketplace and a track record of serving clients with highly responsive support, aligning with GTT's core values of simplicity, speed and agility.
+
+Similar to our prior small acquisitions, we expect the purchase price of $40 million to represent a multiple of post-synergy Adjusted EBITDA of 5 times or less, with integration to be completed within approximately two quarters. We are excited about the benefits this acquisition will bring to GTT and our combined client base. And we welcome the outstanding Access Point team to GTT.
+
+Moving ahead, our acquisition funnel remained robust and our target selection criteria remained the same. To find opportunities that fit our strategy of providing cloud networking services to multinational clients can be integrated quickly and can be acquired at highly accretive post-synergy prices. In addition, we are committed to ensuring that any future acquisitions, like Access Point, will be delevering as we move toward our long-term leverage target of 4 times or less.
+
+In terms of rep-driven growth, we are excited to deliver positive net installations for the third quarter as churn returned to the mid-1% level and we installed more monthly recurring revenue than we churned, including some of our backlog of strong sales, one during the first half of the year. Positive net installs is a key component of organic growth and we expect our momentum continue in the fourth quarter and beyond as our backlog of new orders sold but not yet installed is the highest it has ever been at approximately $8 million of monthly recurring revenue.
+
+In addition, we continue to be encouraged by the activity in software-defined wide area networking or SD-WAN. The SD-WAN market is still in the early adoption phase, though awareness and sales are clearly picking up as SD-WAN is the fastest growing product in our funnel and backlog.
+
+We remain confident that GTT's unique value proposition in the SD-WAN market represents a significant growth opportunity for us, given our Tier 1 Internet backbone, deep experience offering diverse, cost-effective local loops to any location in the world and track record of installing, managing and maintaining over 200,000 managed equipment services worldwide.
+
+Our combined sales force now stands at around 300 reps after completing the organizational integration. We will continue to grow our quota-bearing rep base going forward, specifically targeting 50 more by year-end 2019, as we look to achieve our goal of double-digit growth from a combination of rep-driven sales and small acquisitions.
+
+Our recent acquisitions have now put us within reach of our previously announced next financial objectives, well ahead of the four-year timeframe we announced just a year ago. In keeping with our track record of consistently setting and achieving bold growth targets, today, we are pleased to establish our next set of financial objectives to achieve within three years, or the end of 2021, $3 billion in annualized revenue, $900 million in annualized Adjusted EBITDA and a minimum of $5 per share in annualized Adjusted Free Cash Flow.
+
+We have added a new cash flow objective this time to ensure balanced emphasis on both top line and bottom line metrics and tighter alignment with long-term drivers of shareholder value. As we close out 2018 and head into 2019, we remain focused on executing our balanced growth strategy of rep-driven growth and accretive acquisitions. We are well positioned to succeed on both fronts as the disruptor brand in a multi-hundred billion dollar cloud networking services market, providing our clients with a significantly better experience compared to the incumbent telcos, as we fulfill our purpose of connecting people across organizations around the world and to every application in the cloud.
+
+With that, I will turn the call over to Mike to provide more details on the numbers. Mike?
+
+Thanks, Rick. Third quarter revenue grew 121% year-over-year and 37% sequentially to $449 million. Third quarter Adjusted EBITDA grew 93% year-over-year and 45% sequentially to $108 million. Our growth was driven by acquisitions with Interoute and Global Capacity having the largest impact.
+
+Currency also had an impact on our reported results, specifically, unfavorable exchange rate movements for both the euro and the pound. Approximately 46% of our revenue is denominated in U.S. dollars, with 37% in euros and 13% in pounds. In constant currency, revenue grew 123% year-over-year and 39% sequentially, while Adjusted EBITDA grew 94% year-over-year and 47% sequentially.
+
+On a pro forma basis, including both Interoute and Global Capacity in prior period results and in constant currency, revenue grew 1% year-over-year and decreased 1% sequentially, while Adjusted EBITDA grew 2%, both year-over-year and sequentially. The sequential decline in pro forma revenue was due mainly to the pre-close trajectory of our recent acquisitions, including a decline in non-cash deferred revenue as well as the full quarter impact of higher churn from prior quarters, which is now behind us. The year-over-year increase in pro forma revenue was due mainly to our smaller acquisitions.
+
+Adjusted EBITDA margin increased by over 100 basis points sequentially, mainly due to synergy realization. In addition, we've addressed the process issues we discussed last quarter with regard to disconnecting inactive services and expect to realize those savings over the next two quarters. We estimate that we realized approximately $20 million of the $115 million in expected annualized cost synergies we noted on the last call, leaving a remainder of approximately $95 million to be achieved by mid-2019. We expect some additional synergy realization in our fourth quarter results, but even more in the first quarter, as many of our synergy-related activities are being completed throughout the fourth quarter.
+
+During the quarter, we incurred $11 million of transaction and integration costs, which are included in our reported SG&A, but excluded from Adjusted EBITDA. We also incurred $16 million of exit costs related to Interoute, mainly for severance. Over the next three quarters, we expect to incur an additional $20 million to $30 million in exit, transaction and integration costs related to Interoute, which would bring the overall total to $60 million to $70 million, consistent with the lower estimate we provided last quarter.
+
+Third quarter net loss was $23 million, compared to net loss of $10 million last year and net loss of $136 million last quarter. The net losses in each period were driven mainly by non-recurring costs associated with acquisitions.
+
+Capital expenditures in the quarter were $29 million or 6.4% of revenue, compared to $9 million last year and $19 million last quarter. We continue to expect our CapEx to be approximately 7% of revenue going forward.
+
+At quarter-end, our cash balance was $48 million and we had $179 million of availability under our revolving line of credit. Our outstanding debt balance was approximately $3.2 billion, consisting primarily of $2.6 billion of senior secured term loans maturing in 2025, of which nearly $900 million is euro-denominated and $575 million of senior unsecured notes maturing in 2024. We've entered into several interest rate hedges to mitigate the floating rate exposure of the term loans, resulting in an overall fixed-floating mix of 60% fixed for GTT.
+
+The term loans do not carry any material maintenance covenants unless the revolver is drawn by 30% or more, in which case the maximum net secured leverage covenant would apply, consistent with our previous credit facility.
+
+Our total net leverage ratio in the third quarter was 5.7 times, using pro forma combined trailing 12-month Adjusted EBITDA, including all acquisitions and expected cost synergies in prior periods. This ratio has actually increased slightly over the past two quarters, primarily due to the impact of exchange rates. Over time, we continue to expect to reduce leverage to our long-term target of 4 times or less through growth in Adjusted EBITDA, cash flow generation, and delevering acquisitions.
+
+This quarter, we've introduced two new non-GAAP measures, Adjusted Free Cash Flow and Adjusted Unlevered Free Cash Flow. Adjusted Free Cash Flow is calculated as cash from operations less CapEx plus acquisition-related costs, such as transaction, integration and exit costs. We believe this is a useful measure because it shows the recurring cash flow of our business without the impact of acquisition-related costs.
+
+Adjusted Unlevered Free Cash Flow is calculated as Adjusted Free Cash Flow plus cash interest, which we believe is a useful measure because it shows the recurring cash flow of our business without the impact of our capital structure or the timing of interest payments, which will change over time.
+
+Adjusted Free Cash Flow for the third quarter was $15 million, compared to $18 million last year and was $36 million on a year-to-date basis compared to $43 million last year. These figures are often influenced by the timing of interest payments. And to that point, I would note that our bond interest is typically due on June 30 and December 31 as long as those are business days. And since December 31, 2017 was not a Business Day, we actually paid our bond interest in January 2018. We typically pay our term loan interest monthly. However, in the third quarter, we paid four months of interest as we did not make a payment in June.
+
+Adjusted Unlevered Free Cash Flow, which normalizes for this impact, was $56 million in the third quarter compared to $27 million last year, and was $138 million on a year-to-date basis compared to $82 million last year. We hope these new cash flow measures will be helpful to investors in better understanding our cash flow generation over time.
+
+Before we move to Q&A, I want to provide some additional information regarding deferred revenue, which has been a source of several investor questions over the past few months. At quarter end, we had a total deferred revenue balance of $460 million, including both short-term and long-term, which represents amounts previously billed in advance, mainly from Hibernia and Interoute that will amortize into revenue over time.
+
+Of that balance, $103 million relates to amounts billed for one year or less, mostly one month in advance, which we expect to fully refresh through new billings and payments over time in the normal course of business. The remaining balance relates to amounts billed for greater than one year, including IRUs, which will likely only partially refresh going forward as we sell new IRUs and other prepaid capacity deals at a lower rate than Hibernia and Interoute did pre-close.
+
+While it's impossible to predict the exact timing and magnitude of future long-term prepaid deals, our current expectation is to sell approximately $20 million to $30 million of these deals per year going forward, which would only partially offset the amortization of prior deals.
+
+We've expanded the footnote in our 10-Q to better highlight changes in deferred revenue and expected future amortization, broken down by amounts billed for one year or less versus those billed for greater than one year, which we hope you will find helpful.
+
+Overall, we were pleased with our progress on a number of different fronts this quarter and we look forward to a strong finish as we approach the end of the year. This concludes our prepared remarks and we'll now open up the call for questions. Operator?
+
+We will now begin the question-and-answer session. [Operator Instructions] The first question comes from Jon Charbonneau with Cowen and Company. Please go ahead.
+
+Great. Thanks for taking the questions. Can you provide some more color on the trends you saw within the legacy GTT business during the quarter? Just trying to better understand the moving pieces to the 1% quarter-over-quarter pro forma decline in growth. And then, just how do you recommend we think about overall growth as we look into the fourth quarter? Thank you.
+
+Sure. I think if we look at a combined basis for – Jon, thanks for the question – look at a combined basis in the third quarter, as we mentioned, we're really happy to see progress towards net install growth for both. So we were net install positive and we saw both performing, both on the legacy Interoute side, which had been negative in the first half of the year and the legacy GTT side, which had been negative in the first half of the year. Both start to turn and, on a combined basis, be positive. And that gives us a lot of confidence, as we said on the last call, to grow into the second half of this year.
+
+So, we expect to grow in the fourth quarter on a combination of both the rep-driven side of our business, which stands at 300 reps with nice productivity and performance and a great backlog of sold but not installed services. And then we, obviously, reenergized our growth through acquisition as well by the addition of Access Point to our business on October 1. So the combination, we believe, of both rep-driven and small acquisitions will now start to show us growing fourth quarter and beyond.
+
+And I would say in the third quarter, the impact of the sequential pro forma decline was really driven by the trends from the first part of the year and kind of anytime you flip to net install positive, the first quarter that that happens doesn't typically all – produce revenue growth in that quarter. So, as Rick said, our expectation is that those positive net installs will deliver growth in the future, just wasn't enough to deliver growth in the third quarter.
+
+Right. And then, as we've talked about in the prepared remarks, Jon, this, the concept of having bought Global Capacity and Interoute, the last two major acquisitions, both which were on a declining path. We now feel that we've now rested that, the sort of the declining path of both of those in combination and that the combined business is now on a growth path moving forward.
+
+The other thing we noted is that the churn that we see, which is really the main driver of – one of the key drivers of rep-driven organic growth is back to that mid-1% level and we feel really good about that trend moving forward. So we have a lot of confidence moving into the fourth quarter and into 2019.
+
+Great. Thank you.
+
+Okay. The next question comes from George Sutton with Craig-Hallum. Please go ahead.
+
+Thank you. Having covered you for a long time, I'm intrigued by the new goals that you laid out for the longer term. Obviously, the market's focused more on the short-term now. I wondered if you could address some of your thought process around developing these goals. These are becoming very big numbers, obviously require availability of acquisitions. And within that context, I wondered if you could talk about the delevering that you referred to, which I believe means the sellers take shares.
+
+A couple of things. Yeah, thank you very much, George, for the question. I mean, you've been following us for a very long time. As we've said, these are our fifth (00:20:02) next financial objectives and we felt it was very important to reset expectations for where we're going, given the fact that one year ago we had set the expectation to grow to $2 billion in revenue over four years by the end of 2021.
+
+Sitting here right now at $1.8 billion run rate, we felt that that clearly was not the right longer term expectation for investors for where our business would be. So we felt it was very important to reset that expectation, that we would grow by 2021 to be a $3 billion business, that we would achieve the 30% EBITDA threshold that we have been talking about for several quarters. So, $900 million in Adjusted EBITDA.
+
+And as importantly, make sure that investors understand that we're very, very focused on producing Adjusted Free Cash Flow and making sure that we start to track that as a very key metric for our business. Equally importantly, as we said in the prepared remarks, we see us delevering from the 5.7 pro forma rate that we're on right now as we go forward.
+
+Clearly, delevering will come in several ways, inclusive of continuing to grow EBITDA and cash flow as part of our business as we continue to pay down debt over time. But as importantly, we see acquisitions as being delevering opportunities prudently, with a prudent use of equity and debt as we go forward in our business. So one of the reasons we put that cash flow metric in place and a cash flow per share is to make sure that we are prudent stewards of capital, which we have been over time.
+
+I believe also, lastly, that is a next financial objective. We don't talk about these as goals and endpoints, but we think over that three-year timeframe. That's the timeframe at which we can achieve this next step up in the growth of the business. We participate in a multi-hundred billion dollar market with incumbents who generally aren't focused on this market segment. So our ability as a relatively small player in this business to keep establishing and achieving next financial objectives we believe is right in front of us.
+
+Super. One other question if I could. The $8 million in MRR that has been booked, but not implemented, can you parse that into strength on the booking side versus any implementation timing changes?
+
+No. We see the strength on the booking side. I mean, our ability to install on our service delivery teams across our four divisions, two in North America, Americas and Carrier; and two in Europe, the UK and the Europe division, are all performing quite nicely. So we've seen really nice productivity trends in the first half of the year. And with churn back at that 1.5%, mid-1% range, we actually see the ability to grow nicely, again, as I said, to an earlier question.
+
+Great. Thanks, guys. Appreciate it.
+
+Okay. The next question comes from Tim Horan with Oppenheimer. Please go ahead.
+
+Thank you. How does that $8 million kind of compare to historical bookings do you think? And using the rule of 76, that's a pretty substantial run rate on a monthly basis. So how long do you think it will take to kind of implement that?
+
+Generally our backlog is refreshed over a couple of quarter period. So generally, we like to see install intervals anywhere from – for carrier-like services, wavelengths and transit and some of the higher capacity services we sell – within a month. And for longer implementations that have dual diverse last-mile access, which are staged, per se, SD-WAN implementations where clients are replacing some legacy technology they have with dual diverse access options. Those can stage out over a six-month period for clients as they go through a very detailed implementation plan across hundreds and hundreds of sites. But generally, it's a couple of quarters.
+
+We like to see that backlog continue to refresh. And I think, Tim, as I noted to the last question, it clearly is at its all-time high. And I think that's been driven by nice productivity gains in our sales force and the fact that we feel really comfortable with the 300-person sales force and the productivity that we've been getting out of them.
+
+We'll continue to grow that sales force. I mean, as we've said on earlier calls, we'll continue to grow and mature the sales force that we have, but we feel very comfortable. That's one of the strategic benefits we got from the Interoute acquisition, is actually having a very balanced sales force across some of the best geographies in the world at this stage.
+
+And just to be clear, Mike, when you calculate the sequential pro forma growth, do you normalize for accounting changes there, and I guess, I'd like to know what Interoute – did you have to write down much of the deferred revenue? Did that impact the quarter at all or do you normalize for that? And I guess in that regard, how much deferred revenue did you write down with the accounting changes with the acquisition on Interoute?
+
+Yeah, so maybe I'll just explain how the process works for us and then we can talk specifically about the numbers. But when you're doing a purchase accounting allocation, you have to fair value everything. One of the things you fair value is deferred revenue. Typically, you do write down some amount of the deferred revenue from the acquired company. In this case, I think we took about 15% of a reduction in what Interoute had carried previously, in the opening balance sheet.
+
+The pro forma numbers and the numbers we had put in the 8-Ks previously had made estimates around those things, but until you actually do the exercise post-close, those are just estimates and they do tend to change, not a ton, but they can swing by a few million in any given quarter.
+
+I would also note that the purchase allocation is open for a full year after their close date, so there will continue to be some adjustments to the purchase allocation, which could impact deferred revenue. Usually they don't. Usually by now, the deferred revenue is in pretty good shape, but I would say that some of these things can change over time.
+
+In terms of what was in the numbers previously on a pro forma basis, we did try to estimate what the deferred revenue haircut would be in performing the pro forma numbers for Interoute. We didn't get it exactly right of course and I think that contributed a little bit to the sequential decline as I noted in the prepared remarks. It's not all of the sequential decline, but it's definitely at least $1 million or $2 million of the decline. And that particular issue will not repeat, because now we don't – in the fourth quarter, we won't have a pro forma comparison to the third quarter because the third quarter is all fully in the numbers.
+
+Great. Lastly, can you give us some sense of the fourth quarter revenue, just given all the moving parts that we have out here, accounting changes, currency changes, the churn, the implementation of the backlog? Are we thinking 1%, 2% revenue growth flat or 1%, 2% decline? I mean, I know there's just a lot of moving parts.
+
+As you know, we don't provide quarterly guidance or specific direction around revenue or metrics. I think Rick indicated in his remarks that we feel good about the fact that we were net install positive in Q3, and that some of the things that we just talked about in terms of what drove the sequential number down on a pro forma basis are gone. So, all we can say is that our expectation is that it will be positive, and we're not giving a specific number at this point.
+
+Thank you.
+
+Okay. The next question comes from Walter Piecyk with BTIG. Please go ahead.
+
+Thanks. First question is I guess for Rick. Obviously, with it going net positive in terms of the installs, I guess, it gives you good visibility into the fourth quarter. You also talked about 2019 and having good confidence in terms of putting up organic positive sequentials. Can you just talk a little bit about your business and how it's put together and do you have that type of visibility to be able to give that type of outlook for 2019?
+
+Sure. I mean, I think if we think about the three key drivers to the rep-driven component of growth, it is churn rate, number of reps that we have and productivity per rep, and we feel all of those are in the right direction. So we like the trend that we've seen in churn rate. I mean, we had – it was a little bit elevated in the first half of the year.
+
+We think it's back to the mid-1% range, which allows us to actually grow nicely. We like the size and scope of the sales force. We're going to continue to grow it, I think as we said in our prepared remarks, from 300 to 350. But adding a whole series of very tenured sales force from the Interoute acquisition into the UK and Europe divisions, we think really allow us to start, continue that productivity growth and we've seen nice productivity gains this year within our North American divisions. And so, across those three, we see the ability to grow.
+
+The organic part of our business is also the combination of small acquisitions. And I think as we've noted in the prepared remarks, we see a very nice funnel of small deals that we think – and we accretively added to our business – just like we did with Access Point and earlier in this year, Accelerated Connections.
+
+We did pause for a brief period as we were integrating Interoute over the past six months, of doing any of those and sort of put those on the back burner. They're back on the front burner now, and we see an opportunity into 2019 and continue to accretively add clients, sales force, and business to our greater heft at this stage going forward.
+
+Okay. That's probably a good segue into a question for Mike, because obviously the rep-driven growth, you have some visibility. All you have to do is execute on this kind of 50 increase, but on the churn, I would think there's less visibility on. And just because it's 1.5% now, doesn't necessarily mean it doesn't pop back up in Q1 and Q2. Mike, you've talked about getting the mix of revenue on contract versus off contract down as far as the off contract stuff. Where are you in that this quarter and how long do you expect it to take to get to whatever your target is going to be, if you can restate that target?
+
+Sure. So we've consistently talked about the mid-1% as the run rate churn for the business. It was elevated from that first part of 2018. But as Rick mentioned, it's back down to those levels. And if anything, we feel like the bias for the outlook is that we might be able to bring that down as opposed to coming back up. You could always have unexpected events, like we had in the first part of this year. So that's always a risk in any business. But in terms of the specific things we're doing, that we've now been doing for several quarters, we feel pretty confident.
+
+One of the biggest ones that you mentioned is increasing the percentage of our revenue that is in term. We've made decent progress on that over the past quarter. It's come down a couple of percentage points. And our expectation is that every quarter, for the rest of the – certainly for the rest of this year, but every quarter into 2019 – we'll continue to chip away at that and keep bringing that balance down to the point where somewhere between 20% and 30% of the base would be out of term as opposed to the 30% to 40% that it's been historically.
+
+And so, good solid progress, but steady and these types of initiatives don't produce windfall benefits in any particular time period. They take time because it's – we have hundreds of thousands of individual services within our business. And when you're talking about getting things under contract, it's at the individual service level in many cases. So it does take a fair amount of time. But I'm pretty pleased with our progress on that and that's just one of the initiatives that we've had to lower churn.
+
+And the other point I would make is that legacy Interoute's historical churn was at or below that 1.5% level historically as well. And so, just folding them into the mix puts sort of good downward pressure on the pro forma rate.
+
+Okay. I think...
+
+Just to add color to your question, Walt, too, the important part is reinforcing our go-to market strategy of really devolving the authority and accountability at the division president level to manage those initiatives. So the out of term initiative, the churn reduction issue, the re-term activity with clients which is our single largest order type, is re-terming business existing base businesses, selling new into the base. So we have really decentralized the sort of client-facing piece across the four main operating divisions. And they are very, very focused on driving that rep-driven component of net installation growth, which starts with maintaining that good churn rate.
+
+And just a follow-up, I mean, on the on-term initiative, you – and I know in the past you said, well, we can touch the customer more, so maybe you get new business, but obviously the risk is on a re-rate. You're still comfortable that this initiative doesn't have like a re-rating negative revenue obvious impact on your business?
+
+Well, it's interesting, the re-term general trend because we have re-terms of both dimensions, and we track, and when we report and talk about our churn rate, it's inclusive of hard disconnects plus re-term downgrades, and we track in new orders – just the delta portion of re-term downgrade, and when we track new, we track new orders plus re-term upgrades.
+
+The balance of re-term downgrade and re-term upgrade is slightly positive because one of the real nice parts of our business is the fact that most of our clients need more bandwidth as they continue to grow. We've sort of outlined it in our current Investor Presentation as well to say as clients' demands grow and their use of the public Internet, their movement of cloud applications or IT applications to the cloud, and the general increase in file size across the organization, all of the locations need more bandwidth.
+
+So we generally see – and now we do deliver that at a lower price per bit on a continual basis, but we generally see that trend as being slightly positive. And so, on re-term, while we do have some that go down on a dollar-for-dollar basis, the general trend is neutral or positive. And as Mike said earlier, we want to be re-terming our business. So we want to get our business at 30% or less that's out of term. There will always be structurally some business that's out of term, and it's one of the key initiatives that our division presidents are focused on.
+
+Great. Thank you.
+
+Okay. The next question comes from Mike McCormack with Guggenheim Partners.
+
+Hey, guys. Thanks. Maybe you can just make a comment on what you're seeing out there from a pricing standpoint and demand. It seems like every peer that's reported so far has put up pretty disappointing results in the top line. And then, maybe, Mike, on the margins, the expectation for the $900 million of EBITDA translates roughly to about a 30% margin. What's the pacing to get there, and what's the expectation on the acquisition sort of component inside that, meaning are you willing to accept a slower growing acquisition in exchange for better margins? Thanks.
+
+You want to start with that?
+
+Yes, I'll start with the margin question. I'll let Rick address the industry stuff. As we've said before, if you just take the remaining synergies that we've yet to achieve from primarily the Interoute deal at this point, but even a little bit from prior deals, you're right at 30% in the middle of next year. And so, as long as we just execute on what we've talked about, we'll be there at some point in 2019. And our expectation would be that on a long-term basis, that's where we're going to be.
+
+The M&A that happens between now and three years from now will move that number around a bit. Generally speaking, the acquisitions that we do are not at 30%, at least the day that they close. So there's a little bit of a timing issue where you can go backwards for a couple of quarters while you generate synergies, but then after you generate the synergies you're back to the 30%. So that's kind of how we think about it. We think this is at least a 30% margin business long-term, and there could be some short-term noise, but that's our commitment to be at that level.
+
+Yeah. And in pricing, generally, I mean, the trend in our industry has always been price per bit comes down and it's counterbalanced by the fact that big growth is tremendous in our industry. And I probably separate it into the whole stack of cloud networking services that we sell. If you think about the very high capacity Internet backbone, IP transit services or wavelength services or dark fiber infrastructure services, those we see probably higher price per bit declines on those services. But bit rate and bit growth and demand actually grows probably the fastest.
+
+The bulk of our businesses in the wide area networking, which is more recently been software-defined wide area networking like on a historic basis is then MPLS, VPLS, IP VPN services and transitioning to software-defined wide area networking. There we see probably slower price per bit declines, given the fact that we have local loops and tail services diversely across multiple locations around the world. And those are harder and more difficult to transition from supplier to supplier.
+
+And so, our opportunity, particularly as we talk at length about SD-WAN, is the opportunity to go into some legacy implementations and offer significant price reductions with more capacity. And that's why one of the reasons we're seeing really compelling uptick in our funnel and our backlog of services for software-defined wide area networking, given the combination of price performance and a better network solution being able to deliver traffic to the cloud.
+
+The most important sort of point I'll make is the fact that in a multi-hundred billion dollar business, being a $1.8 billion player now, annualized growing to $3 billion, our opportunity to shift existing share in a nominally growing market is particularly compelling. And we see that as never probably stronger than it's been in the sort of almost 12 years that I've been here. The ability to take share from incumbents who have become less and less focused on what is critical infrastructure as CIOs understand how to connect their people in a growing bit demand market.
+
+Great. Thanks, guys.
+
+Okay. The next question comes from James Breen with William Blair. Please go ahead.
+
+Thanks for taking the question. Just one, on the FX side, obviously, you have a considerable money, revenue outside the U.S. now. Can you just talk about sort of near-term how you're seeing that impact revenue since the quarter ended, and how we should think about it into the fourth quarter? And then just overall, is there any strategy there from a hedging perspective you need to, given some of the volatility in that market?
+
+And then secondly on churn, can you just dig in a little bit deeper on where you're seeing the gains there? Is it customers taking more service, and so those customers – that type of customer bank is churning less? Is it relative to certain size of customers, et cetera? Thanks.
+
+Yeah. I'll start, and I'll let Rick chime in on the churn if he wants. So from the churn perspective, I just see us more returning to normal. The elevated churn in the first part of this year was abnormal. So, we're just implementing the initiatives that we've talked about for a while. We are having some success with those. Interoute was a lower pro forma churn rate business as well, which helps and then the absence of the unusual events that occurred in the first part of the year. So that's how I think about it.
+
+In terms of the FX, clearly, rates have come down a little bit after the quarter ended, relative to what the average rates were for last quarter. The average rate for the euro last quarter was about $1.17 or $1.16 to $1.17, and it's been below that so far this quarter. Obviously, there's a ways to go between now and the end of the quarter, but at least as of today, FX would be an additional headwind, maybe not quite as much as the last two quarters, but again, hard to say sitting here in early November. But at least as of today, they are down a little bit again.
+
+In terms of the strategy, while FX has a meaningful impact or somewhat meaningful impact on the top line, it doesn't really have an impact on the bottom line or cash flows. We have a similar amount of expense denominated in those other currencies as well. And so, the need to hedge is pretty diminished by the fact that we're naturally – or the need to put additional hedges in place is not really that necessary because we have a lot of natural hedges in the business. In particular right now, remember, we do have roughly $900 million of debt that's euro denominated, and also a higher percentage of the $60 million to $70 million and the cost to achieve the synergies is also euro and pound denominated. So in the near-term, there's no need.
+
+Over the long-term, as we're generating more free cash flow, we will be looking at more hedging at that point. But over the next several quarters, there's really no need.
+
+And then, just a little more color on service churn. It's important to remember that – and we track very carefully churn between voluntary and involuntary – voluntary where clients are leaving us to competition, and involuntary where the two principal involuntary service churn types are the client closes location, simply they're taking that location and closing it; or our carrier client, which is a big portion of our business, loses their end user and for whatever reason is not taking it to competition, but just losing it.
+
+And generally, we see that either half or less of our churn is competition and half or more is involuntary. And so, we're very focused, obviously, on the piece that is voluntary we're losing to competition, but we're, as Mike said, very comfortable with that, being able to manage and grow our business at that mid-1% churn rate.
+
+Great. Thanks. And just a follow-up as you're thinking about the long-term, the guidance and EBITDA and cash flow. Any sort of color on the assumptions you're thinking about in terms of CapEx-to-revenue levels out that far, three years out, and then what you expect sort of your cost of debt to be then?
+
+Yeah, I mean, I'll do the CapEx piece, and maybe cost of debt to Mike. I mean, clearly, over this next horizon for our next financial objective over this three-year period, we see CapEx as a percentage of revenue maintaining in that 7% range. And to be clear, the vast majority of that success base where we're putting new opticals, switch in router core cards in existing chassis across of our global network, buying customer premise equipment for managed CPE implementations for SD-WAN and other wide area networking services, and those are the principal drivers and that is almost entirely a success-based CapEx.
+
+To be clear, we own and control one of the most differentiated backbone networks in the globe at this stage, but it is built. And so, the need to continue to put significant CapEx into the business is not there, though we have a very, very differentiated backbone network around the globe to provide wide area services to both carrier and enterprise clients.
+
+Yeah. In terms of the cost of debt, it's slightly higher today than it was the last time we raised debt about six months ago, but still very favorable in long-term terms. And we'll be prudent, as we've always been, when opportunities arise to acquire accretive, strategic businesses in terms of the capital structure around that and debt equity mix. And then within the debt, secured versus unsecured and things like that.
+
+So we haven't made a specific assumption in there. But I do think over time, rates are expected to be a little bit higher over the next three years than they've been over the past couple of years. So, maybe some increase in that timeframe, but not a ton because we've already got the base of debt in place that we have today.
+
+Great. Thank you.
+
+Okay. The next question comes from Brandon Nispel with KeyBanc Capital Markets.
+
+Hey, guys. Thanks for taking the questions. Mike, I wanted to ask about gross margins. Continued decline quarter-to-quarter, I sort of understand the integration delay, but Interoute had 50%-plus gross margins and it really seems to be – the problem here is probably Global Capacity. So can you maybe talk, unpack the margins a little bit and where you expect them to go over the next several quarters?
+
+Yeah. The gross margin was flat quarter-over-quarter. I think it maybe down by 0.1% or 0.2%, but basically flat. And underneath that actually, the gross margin on our recurring business was higher. And there was some non-recurring business in the quarter that carried a little bit of a lower gross margin that sort of pulled it down a little.
+
+So, the fact that – long-term what will drive gross margin performance is the performance on recurring revenue – and that was better in the third quarter. And, therefore, we expect it to continue to improve over time, in particular as the $15 million that we talked about last quarter that was a little bit delayed in terms of disconnecting services, as those savings actually hit the P&L.
+
+And then did you guys provide where the quota-bearing heads were at the end of the quarter? I might have missed that.
+
+Yeah. We did, Brandon. We're right at 300. We've actually completed now the integration of Interoute and taken folks that were – and decided who's quota-bearing, who's staying within the organization – and the majority of the performing quota-bearing organization is now with us. We had, as part of the synergy, some termination of non-performing quota-bearing reps. We also moved several resources into what we call the client relationship management function, which is the non-quota-bearing, but tightly aligned against the client, has really focused on that churn, re-term and churn reduction initiative that we were talking about earlier.
+
+We do see growing from this point moving forward. Our objective will be to grow by 50 by year-end 2019 to grow from the sort of 300 that we're at today to 350. Pretty balanced across our divisions, probably with most in the enterprise-focused divisions of Americas, in North America and Europe and in Continental Europe. We see most of probably the growth coming in those two, given the sheer market opportunity across those two divisions.
+
+Got it. And then last question, the bookings for the quarter of $8 million on that 300 reps would seem to indicate that the average monthly rep-driven bookings is roughly $9,500 or so? Number one, is that somewhat correct? And two, is that a level that you feel like you can grow going forward? Thanks.
+
+So the $8 million was not a bookings number. It was our backlog of sold monthly recurring revenue that has not yet been installed. We did not provide a bookings number as you know and we haven't given additional commentary at this point on rep productivity, but our expectations are largely the same as they were before in terms of the productivity levels and the outlook for productivity increasing over time.
+
+Great. Thank you.
+
+Okay. This concludes our question-and-answer session. I would like to turn the conference back over to Mr. Rick Calder.
+
+Excellent. I'd like to turn the call over to our Chairman, Brian Thompson, for some concluding remarks.
+
+Thanks, Rick, and thank you all for your interesting questions and comments. I have just three simple things I'd like to add to the conversation. The first is that I think it's abundantly clear to me that over the past six months there's a real sense of what's going on in the impact of the Interoute acquisition from the standpoint of the change and the currency fluctuations. They have been quite significant. They are clearly coming from when we first started the Interoute acquisition at $1.24 to today's rate, which is about $1.14. Those are things that are obviously beyond our direct control, but they do impact clearly the top line. And I would hope that people would take that into consideration as we go forward.
+
+Very importantly also, I'd like to add that this acquisition is obviously the largest we've done, and I don't know how many of you are long-distance runners or long-distance swimmers as I was, but there is a time at which you do those events, and you'll find yourself at a point of, as I say, running, hitting a wall or in the case of swimming you get to a point where you finally break into a routine. What's happened in the acquisition of Interoute is we've gone through a lot longer period and a lot harder work over the past four to five months of trying to get our pieces together. And I think this team has done a magnificent job of dealing with that. And I think we're at the point now as we try to imply that we're past those difficult points. And we're now in the position of really taking advantage of every decision that has been taken so far.
+
+Our commitment has always been to create a single company out of every acquisition we do going forward. And that's so important to us and putting everybody on the same base, everybody on the same information platform and management platform. We are creating a company for the long run. It's a marathon and it's not a quarter-by-quarter kind of thing.
+
+The last thing I would add is – and I think it's very important from the perspective of our board, that we are at a stage in the company where our board, which is very much involved in decision-making processes that are critical to the strategy of the company, believes that not only are we at a point where we had expected to be sometime in the future in terms of the revenue stream and the EBITDA performance, but we're at a point where we believe we can commit to doing the things going forward that we have been trying to do in the past. And that is to create a further benefit to our shareholders from the standpoint of value.
+
+And one of those important factors, as Rick pointed out, in going forward and the measures that we're hoping to use that could be additional measure of free cash flow adjusted per share, which we think is really appropriate from the standpoint of now that we're at a size where we are we can take full advantage of all of those levers and create true value going forward over the next three years.
+
+With that, I'd like to say thank you all very much and turn it back to Rick.
+
+Great. Thank you, Brian. Thank you everyone for joining us and we look forward to reporting our next quarter and full year 2018 shortly. Thank you.
+
+The conference has now concluded. Thank you for attending today's presentation. You may now disconnect.

@@ -1,0 +1,133 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+Rachel White — Vice President-Investor Relations & Communications, ION Geophysical Corp.
+R. Brian Hanson — President, Chief Executive Officer & Director, ION Geophysical Corp.
+Steven A. Bate — Chief Financial Officer & Executive Vice President, ION Geophysical Corp.
+Colin Rusch — Analyst, Oppenheimer & Co., Inc.
+
+Management Discussion Section
+
+Question And Answer Section
+
+Greetings and welcome to the ION Geophysical Fourth Quarter Earnings Conference Call. At this time, all participants are in a listen-only mode. A brief question-and-answer session will follow the formal presentation. [Operator Instructions] As a reminder, this conference is being recorded.
+
+It is now my pleasure to introduce your host Rachel White, Vice President of Corporate Communications. Thank you, Ms. White. You may now begin.
+
+Thank you, operator. Good morning and welcome to ION's fourth quarter 2018 earnings conference call. We appreciate you're joining us today. As indicated on slide two, our hosts today are Brian Hanson, President and Chief Executive Officer; and Steve Bate, Executive Vice President and Chief Financial Officer.
+
+Before I turn the call over to them, I have a few items to cover. We'll be using slides to accompany today's call. They are accessible via link on the Investor Relations page of our website iongeo.com. There you will also find a replay of today's call.
+
+Moving on to slide 3, information reported on this call speaks only as of today, February 7, 2019 and therefore you are advised that any time-sensitive information may no longer be accurate at the time of any replay.
+
+Before it begin, let me remind you that certain statements made during this call may constitute forward-looking statements which are based on our current expectations and include known and unknown risks, uncertainties and other factors, many of which we are unable to predict or control that may cause our actual results or performance to differ materially from any future results or performance expressed or implied by those statements. These risks and uncertainties include the risk factors disclosed by ION from time-to-time in our filings with the SEC including in our Annual Report on Form 10-K and our quarterly reports on Form 10-Q. Furthermore, as we start this call, please refer to the disclosure regarding forward-looking statements incorporated in our press release issued yesterday and please note that the contents of our conference call this morning are covered by the statements.
+
+I'll now turn the call over to Brian who will begin on slide 4.
+
+Thanks, Rachel, and good morning, everyone. Today, I will cover our fourth quarter and 2018 financial results and operational highlights as well as our expectations for 2019. We've made significant progress on our strategic objectives over the last year. We met our target number of sanctioned multi-client programs, delivered on our higher return imaging strategy, and began diversifying our business into adjacent markets and commercializing our new ocean bottom technology, 4Sea. If there are any additional topics you'd like addressed, please feel free to raise them during Q&A.
+
+First, let's discuss the financials. Even though fourth quarter revenues increased 29% year-over-year, we didn't see year-end activity as strong as we had hoped. E&P Technology & Services was up 26% and Operations Optimization was up 43%. Our adjusted EBITDA for the fourth quarter grew 54% to $36 million compared to $24 million in the fourth quarter of last year. We generated $3 million of cash increasing our total liquidity to $76 million. There were special items in the fourth quarter of 2018 totaling $35 million, which are primarily associated with the impairment of our old cable-based ocean bottom technologies, which we will elaborate on in a few minutes.
+
+Despite the sequential quarterly improvement, I'm disappointed with how the year turned out. Our revenues of $180 million were down 9% compared to last year. There was no material year-end spending and deals continued to be pushed out due to geopolitical challenges and conservative exploration spending, which I'll discuss further.
+
+The previously anticipated improvement and deal flow in our E&P Technology & Services segment continued to be impacted by limited exploration spending and two key geopolitical factors, the Panama license round delay and the Mexican presidential election changing the E&P landscape. Panama, Mexico data sales were expected to contribute $30 million to $40 million in the back half of 2018. Based on recent meetings with the Panamanians, our expectation is that the license round will now be announced in the second half of 2019 after presidential elections in May.
+
+E&P companies pause spending on new acreage and seismic data in Mexico after AMLO was elected July 1st due to regulatory uncertainty surrounding international investment. After taking office in December, AMLO instated a temporary three-year moratorium on new license rounds in Mexico. While we don't envision the business being as strong as it was with the previous administration, we still see significant opportunities. 90 blocks have been awarded among 68 operators which creates data sales opportunities for farm-in activity where companies buy stakes of other companies' blocks to share the risk and cost of drilling wells and developing the resource.
+
+In addition, global exploration spending remains limited as E&P companies continue to prioritize cash conservation over the reserve replacement. In the latter part of the third quarter and into the fourth quarter, our customers indicated there would be year-end funds for multi-client purchases but this ultimately didn't materialize.
+
+Of the nine significant clients that indicated there would be year-end funds for ION data, one spent materially, two spent modestly and the remaining six didn't really spend at all. While we're in the middle of negotiating these deals during the fourth quarter, Brent oil prices slipped 42% from $86 to $50 a barrel and 18% in December alone, which likely played a major role in muting year-end spending. The deals we closed during the fourth quarter had already been in progress.
+
+While sales from our Panama and Mexico programs pushed out, we saw strong commitments to our Picanha 3D reimaging program offshore Brazil. The value of Picanha was demonstrated not only by exceeding our revenue targets, but also by our ability to maintain pricing throughout the year. We continue to benefit from our investment in multi-client data generating the majority of our revenue from new venture programs. In line with our expectations, we sanctioned seven new programs and invested $28 million in our multi-client data library in 2018 which should directly benefit 2019 results and beyond. Of the seven sanctioned programs, four were 3D multi-client reimaging programs and three were 2D multi-client programs. Our 3D data library increased 36% this year from 165,000 to 224,000 square kilometers.
+
+Our Imaging Services group continued to successfully focus on higher value technology-driven projects with better margins. We maintained our top tier imaging position by maturing our advanced full waveform inversion and ocean bottom nodal algorithms and workflows on proprietary projects. We developed a great collaborative relationship with a client who gave us three direct awards for this type of work. Right after the close of the quarter in January, Imaging Services backlog increased by $9 million. Our E&P advisors are receiving an increasing amount of reservoir services work and are well-positioned for upcoming license around management work.
+
+In our Operations Optimization segment, our software group's revenue and adjusted EBITDA was up due to more robust ocean bottom activity and increased Marlin deployments. We made three significant Gator command and control system sales; one, outfitting the largest Gator crew ever assembled involving 20 vessels. In addition, we extended a key Gator contract another two years to 2020 with one of the largest ocean bottom service providers. We also made significant headway accelerating adoption and advancing our Marlin operations optimization software. Marlin deployments nearly doubled in 2018 to 127 with 60 new deployments building a diverse portfolio of case studies where we added value across a vast array of operations.
+
+We helped crews proactively navigate to an operational area heavily congested with debris from the fishing sector. We coordinated operations with a producing oil field to avoid operational conflicts and associated costly downtime.
+
+And on another project, our playback feature resolved an insurance dispute by validating the vessel was nowhere near the alleged accident. We completed a second large office-based installation and mobilized Marlin for one of the largest, most complex offshore operations to occur in 2019. Our Marlin revenue continues to grow and our backlog remains around $2 million.
+
+To enable wider and more rapid take-up of Marlin, we moved the Marlin cloud hosting to a more scalable Amazon Web Service delivery, and at the request of our customers, fully virtualize Marlin to deliver the application under a Software-as-a-Service model where the software is available via a web browser. The fully featured SaaS application running in the cloud has already led to increased office and field-based opportunities.
+
+In addition, I'm especially proud that we secured our first projects outside of the E&P space supporting the management and protection of ports and harbors. We have seen continued strength in our offshore services primarily associated with supporting Marlin deployments.
+
+In the devices group of our Operations Optimization segment, we offset some of the decline in seismic revenues by selling new incremental offerings and existing technology to new customers outside the E&P space. We are close to commercializing SailWing, an innovative foil-based alternative to conventional bulky marine diverters. SailWing has the potential to be a significant growth area for ION, ultimately in the range of $3 million to $5 million a year of high margin, recurring lease revenue as we gain traction improving source vessel performance in the growing ocean bottom marketplace. This week we're conducting a pilot with a client and expect that to translate to the first commercial opportunity in the near-term.
+
+In addition, we work diligently to broaden and diversify our customer base for devices into adjacent markets. In 2018, we sold our existing compass technology for use in military GPS-deprived precision navigation applications. We believe the military provides the largest potential for our equipment outside the E&P space and has since embarked on the second project with one of our compass end users. Leveraging our existing technology and expertise, we are developing a novel acoustic communication system that enables naval diver teams to communicate critical messages underwater. Field trials have already exceeded our initial communication distance thresholds.
+
+The OBS market is projected to continue growing due to its value in optimizing production. The remaining elements of our next-generation ocean bottom nodal system, 4Sea will be commercialized in 2019. As a reminder, we are offering 4Sea components more broadly to the growing number of OBS service providers under recurring revenue commercial strategies that enable us to share the value our technology delivers. We believe this asset-light approach will deliver a higher, more sustainable return over the long-term for our shareholders.
+
+Next month, we plan to hold a second demonstration of our proprietary back deck system. This system has the potential to dramatically improve the economics of today's very expensive nodal surveys through automation and unique attachment. The 4Sea integrated QA/QC system will be delivered in the first half of this year and provides unique capabilities to centralize in-field data and seamlessly provide automated diagnostics in the field and in the office. Lastly, SimSurvey is being deployed with early adopter customers now. This technology allows multi-scenario computer modeling of operational time and motion and costs yielding a minute-by-minute model of complex OBS projects to optimize survey parameters.
+
+This quarter we wrote off $37 million of prior generation VSO and Calypso ocean bottom cable equipment sitting on the shelf. We will continue to look for opportunities to monetize this technology but no longer plan to put it to work ourselves as 4Sea is a much more efficient and advanced node-based alternative. This is simply a byproduct of the evolution of our strategy to empower the growing number of OVS service providers with the most advanced technology to improve the safety, efficiency and quality of their operations.
+
+With that, I'll turn it over to Steve to walk us through the financials and then I'll wrap up before taking questions.
+
+Thank, you, Brian. Good morning, everyone. Our total fourth quarter revenues were up 29% compared to the fourth quarter of 2017. Revenues in our E&P Technology & Services segment increased by 26% and our revenues in our Operations Optimization segment increased by 43%. Within our E&P Technology & Services segment, our new ventures revenues were $30 million, a slight decrease from the fourth quarter of 2017, our data library revenues were $25 million, an increase of 74%, and our Imaging Services revenues were $5 million, an increase of 79% compared to the fourth quarter of 2017. The increase in data library revenues was the result of sales of our recently completed programs particularly in Brazil. The increase in Imaging Services was driven primarily by a continued increase in proprietary ocean bottom nodal imaging projects.
+
+In our Operations Optimization segment, our optimization software and services revenues were up 43% due to continued increases in subscription-based software revenues and hardware sales of our Gator ocean bottom command and control system. Our devices revenues also increased by 43% partially driven by higher spares and replacement sales compared to the fourth quarter of 2017. Nevertheless, our devices business continues to be impacted by reduced towed streamer activity.
+
+As we have previously discussed, our ocean bottom strategy is focused on licensing 4Sea technology either as individual components or as a fully integrated system rather than a crew service model. Accordingly, we plan to discontinue reporting ocean bottom integrated technologies as a separate segment and moving forward revenues from 4Sea will be recorded in the relevant other segments.
+
+Overall, we reported a net loss for the fourth quarter of $19 million or $1.38 per share compared to a net loss of $1 million or $0.12 per share in the fourth quarter of 2017. Excluding special items in both periods, adjusted net income was $15 million or a $1.07 per diluted share in the fourth quarter of 2018 compared to adjusted net income of $5 million or $0.38 per diluted share in the fourth quarter of 2017.
+
+As Brian mentioned earlier, the combination of the evolution of our OBS strategy and the shift in the OBS market to nodal systems has limited opportunities to use our prior generation cable-based technologies. Therefore, we recorded an asset impairment charge of $37 million during the fourth quarter of 2018.
+
+Our adjusted EBITDA for the fourth quarter was $36 million compared to $24 million one year ago bringing our full year adjusted EBITDA to $42 million. Net cash flows from operation during the quarter was $14 million compared to $18 million during the fourth quarter of 2017 including both investing in financing activities, we generated total net cash flows of $3 million in the fourth quarter of 2018 compared to $12 million in the fourth quarter of last year.
+
+The overall decrease in our net cash flows compared to one year ago was the result of the $13 million increase in our accounts and unbilled receivables balance at December 31st. This increase in receivables should result in an increase in cash collections during the first quarter of 2019. Our total liquidity was $76 million at the end of the fourth quarter, a $3 million increase from September 2018 and an $8 million increase from one year ago.
+
+With that, I'll turn it back to Brian.
+
+Thanks, Steve. Before I get to our outlook for 2019, I'd like to spend a few minutes speaking about developments in the WesternGeco litigation. This past June, the Supreme Court overturned the Federal Circuit Court of Appeals ruling that threw out loss profits in our case. The Federal Circuit Court had taken a position in cases before ours, the foreign loss profits were categorically unavailable under the Patent Act and they applied that precedent in our case.
+
+The Supreme Court's decision ruled that, that was not the correct reading of the Patent Act. What the Supreme Court did not do was rule that loss profits were recoverable by WesternGeco in our case. The Supreme Court sent the case back to the Federal Circuit to consider some of our other arguments.
+
+As we've explained in some of our prior filings and press releases for the last few years, we've been fighting the loss profits jury award on two fronts. One front was the litigation that went up to the Supreme Court. The other front was an administrative process called an IPR, or inter partes review that was before the Patent and Trademark Office. In 2015, the Patent and Trademark Office ruled that four of the five patent claims that the jury could have found supported [ph] an award (00:17:43) of loss profits in our case were void because the patents underlying them never should have been granted to WesternGeco in the first place.
+
+The Federal Circuit Court's most recent decision in our case, the decision they issued on January 11 has joined together the two fronts where we were fighting loss profits. And that most recent decision, the Federal Circuit Court ruled that the jury's loss profits award in our case cannot stand if it could have rested on infringement of any of those four invalid claims.
+
+So, the Federal Circuit Court remanded our case, the one that went all the way up to the Supreme Court back to the district court to determine if we're entitled to a new trial on loss profits. In that same opinion, the Federal Circuit Court also held that the loss profits award can only be reinstated by the District Court if the existing trial record establishes that the jury must have found that the technology covered by the one remaining patent claim was essential for performing the surveys upon which loss profits were based.
+
+The other issue I would like to point out from the Federal Circuit Court's ruling is that if we get a new trial, we will be able to present arguments about apportionment. That's kind of a complicated legal issue, but the thrust of it is that in the new trial, WesternGeco wouldn't be entitled to any loss profits that were attributable to anything other than the one remaining claim, which covers a very particular method of steering streamers when the boat turns between acquisition lines. That means that any profits that are allocated to data processing or the use of the vessel or to the myriad of other things that go on during a seismic survey should not be compensable and we think that would present some real problems for WesternGeco.
+
+I'm not going to go any further into it as its ongoing litigation, but we are confident in our position that a new trial is appropriate and we are very pleased with the Federal Circuit Court's ruling. And I apologize in advance, but I will not be able to answer any further questions on this topic.
+
+I'd also like to briefly address the outstanding warrants that were issued as part of our equity raise in 2018. As I've discussed, there were a number of developments in 2018 that we didn't foresee that caused us to finish the year below our expectations. So we are planning to extend the exercise period for those warrants by 12 months. We will be reaching out to the warrant holders in the coming weeks to start that process.
+
+Let's wrap up with our outlook for 2019. While long-term oil and gas fundamentals remained strong, near-term exploration spending continues to be lumpy and unpredictable. We expect continued near-term volatility in oil prices and a cautious backdrop for E&P spending in 2019, especially in the early part of the year as customers evaluate their budgets. Analysts are projecting E&P spending to increase another 8% in 2019, following 8% growth in 2018 and 4% growth in 2017.
+
+At this point, we don't know the potential impact the commodity price volatility may have on 2019 budgets and are not going to know until late into the first quarter. However, early indications from our customers are that budgets will be flat or up so there should be an overall improvement. While we do not provide guidance, we currently anticipate 2019 will be a significant improvement on 2018 subject to E&P budget levels increasing as expected. Primary drivers in improvement include an increase in new venture programs as compared to 2018, any benefit of the 2018 program sales pushed into 2019, a software business that is experiencing solid growth, and the commercialization of several offerings we developed over the last few years.
+
+In our E&P Technology & Services group, our new venture program activity remains the best near-term indicator of the velocity of our business and we intend to increase the number of new sanctioned programs materially in 2019. We've already sanctioned a fourth 15,000 square kilometer phase of our Picanha 3D reimaging program offshore Brazil, now bringing us to 75,000 of the 100,000 square kilometer program. We also started Farofa, a 2D reimaging program and an underexplored area offshore Brazil and anticipate starting a second program in the next few weeks.
+
+In addition, our existing data library is well-positioned for upcoming license ran activity. ION programs are relevant to 46 of the 86 actives for anticipated offshore license rounds in 2019. Our Imaging Services and E&P advisors groups are executing their strategies to deliver higher potential returns.
+
+In our Operations Optimization segment, we maintained our core software and equipment businesses while positioning our offerings to excel in adjacent markets such as the military and port management. We are also commercializing new technologies that should positively contribute to 2019. We anticipate our software business growing nicely in both core and adjacent markets and our goal is to drive a significant amount of ION's revenues in five years through non-seismic markets.
+
+With that, we'll turn the call back to the operator for Q&A.
+
+Thank you. We will now be conducting a question-and-answer-session. [Operator Instructions] We do have a question coming from the line of Colin Rusch with Oppenheimer & Company. Please proceed with your question.
+
+Thanks so much guys. Can you talk a little bit about any movement you're seeing as you enter 2019 on the multi-client and image servicing (sic) [Imaging Services] (00:23:43) side at this point? Are you seeing things drift up, a little bit lower, how should we think about that?
+
+Yeah. Colin, it's Brian. On the on the Imaging Services piece, we were awarded a number of a number of projects just post the close of the year, so our backlog has increased $9 million on that side. So Imaging Services is strong. And from a multi-client perspective, we have a number of programs that have either been sanctioned or on the board. We expect this year that we'll actually conduct several more programs over 2018 levels. So I'd expect a pretty good year relative to conducting multi-client programs this year. The unanswered question that we're kind of trying to flush out right now is did the drop in the commodity price at the end of the year impact the setting of any CapEx budgets for our customers? And we're trying to get our arms around that now.
+
+Okay. That's super helpful. And then with the warrant extension, is there going to be any cash cost associated with that?
+
+No, there will not.
+
+Okay. Perfect. And then just a final question on the balance sheet. As you look at those 2021 notes, obviously there's nothing urgent that needs to be done there, but are you seeing opportunities to lower the cost of care in those notes? How are you approaching planning around what to do with that debt?
+
+Yeah. That's a great question. We still have three full years of life left in those notes but that's something we're going to take a hard look at this year.
+
+Okay, guys. I'll take it offline. Thank you so much.
+
+Thanks, Colin.
+
+There are no further questions in the queue. I'd like to hand the call back to management for closing comments.
+
+All right. Thank you for taking the time to attend our conference call. We look forward to talking to you on our first quarter call.
+
+Ladies and gentlemen, this does conclude today's teleconference. Thank you for your participation. You may disconnect your lines at this time and have a wonderful day.

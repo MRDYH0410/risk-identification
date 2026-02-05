@@ -1,0 +1,294 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+Thomas R. Schmutz — Chief Executive Officer, FLYHT Aerospace Solutions Ltd.
+Alana Forbes — Chief Financial Officer, FLYHT Aerospace Solutions Ltd.
+John Andrew Jerome Hass — Partner, Lightwater Partners Ltd.
+
+Management Discussion Section
+
+Question And Answer Section
+
+Thank you for standing by. This is the conference operator. Welcome to the FLYHT Aerospace Solutions First Quarter 2018 Results Conference Call. As a reminder, all participants are in listen-only mode and the conference is being recorded. After the presentation, there will be an opportunity to ask questions. [Operator Instructions] Due to the volume of questions expected on today's call, we ask that you please limit your questions to three to allow time for others in the queue.
+
+If there are any outstanding questions at the end of the call, the company will be happy to take them by email to investors@flyht.com.
+
+I would now like to turn the conference over to Tom Schmutz, Chief Executive Officer for FLYHT. Please go ahead.
+
+Thank you, Ariel. The format for this call is I'll provide an overview of our first quarter results operationally and financially from a high-level. Alana Forbes, our CFO will then provide a more detailed review of the financial results of the first quarter and the changes in our accounting due to IFRS Revision 15. I will then discuss some current activities at FLYHT and answer some questions that we received from email prior to the call. Finally, we'll answer any questions that may be called in.
+
+I'd like to thank all of you for calling in and listening and for those of you that access the recording after the fact online at flyht.com/pres.
+
+The FLYHT has reassessed the revenue categories from a reporting in tandem with the changes we have implemented for IFRS 15 as part of our Q1 financials. Alana introduced these categories at the Annual Meeting a couple of weeks ago and she will do so again later during this call. There's also a description in the Q1 letter to shareholders and in the MD&A. I will discuss the first quarter revenues using these new categories which are Software as a Service, AFIRS Hardware, Licensing and Technical Services.
+
+FLYHT's Q1 total revenue of CAD 3.3 million was down from Q1 2017 by 12% due primarily due to reduced Licensing revenue. This decrease was expected, is in line budget-wise with where we are expected to be at this point in the year and was forecasted on the Q4 conference call a couple of weeks ago.
+
+There's a few reasons for this reduction in Licensing revenues, but the primary one is that there are a fewer retrofit service bulletins being sold by the air framer that our OEM partner sells to. We believe that certain customers purchase retrofit packages to achieve commonality within their aircraft assets and that part of the demand is currently satisfied leaving the forward-fit aircraft business represented by the Q1 leasing revenue component – Licensing component, excuse me.
+
+This component has been and will continue to be uneven throughout the year, but we expect the annual revenue at the rate represented by the amount in Q1. On the last conference call, I reviewed, I referred to this Licensing revenue rate as the new normal.
+
+The good news in this quarter's financials is the increase in AFIRS Hardware sales which was up 46% compared to Q1 of 2017. We recognized revenue on 31 systems in Q1 of 2018 compared to 11 systems in Q1 of 2017. We believe this increase in hardware sales can ultimately improve the revenue in the Software as a Service category which was down 10% relative to Q1, 2017 due to customer insolvencies and other headwinds.
+
+Several of the systems that were shipped in Q4 of last year and Q1 of this year will be installed and turned on with Software as a Service revenues resulting from these installations. Those systems not currently contractually scheduled for Software as a Service are candidates for upselling of the services and the entire company is focused on this Software as a Service selling effort as our number one priority.
+
+FLYHT has also announced CAD 2.9 million in sales contracts in the first quarter which produced an end of quarter CAD 26 million in sales order backlog for AFIRS Hardware and Software as a Service. A good portion of these contracts was the renewal of quantity 10 of our existing customers who, in some cases, upgraded their Software as a Service contracts for UpTime services. Contract renewals are one of the best measures of customer satisfaction and the FLYHT team works very hard to keep our customer base satisfied with our products and services. [indiscernible]
+
+(00:04:57) sold AFIRS Hardware kits to a new aerospace customer who is integrating the product into an air frame which could produce future sales to a new global leasing company that wants better oversight of its assets, to an OEM which installs into their regional jet post-assembly line with our STC and prior to delivery to one of our Software as a Service customers. Also interesting in this set of sales is the launching of a [ph] paid trial (00:05:24) with a large global organization to monetize weather data from certain aircraft. Finally, FLYHT sold an existing OEM partner modems with the related license fees for delivery.
+
+Now, I'd like to turn the call over to Alana who will provide more details on the financial results. Alana?
+
+Good morning, shareholders, and thank you for joining us on this call. Before we get into the detailed financial results, I have a few comments on our revenue categories and our adoption of IFRS 15.
+
+First of all, you'll notice a change in our revenue categories. Over the past several years, we've received questions regarding what type of revenue was included in each of our traditional categories. As we examined our revenue streams during our evaluation of IFRS 15 and made changes accordingly, it was felt that changes in categorization would help to increase understanding of our revenue sources and their trends. And the timing seemed right, as IFRS 15 was requiring other changes that would also impact revenue effective January 1.
+
+So first of all, we renamed Voice and Data Services to Software as a Service or SaaS, to be more in line with the way this type of revenue is referred to within the industry. We eliminated our former Parts Sales category to isolate lease – license fees with modems and to move all spare parts, Underfloor Stowage Units and AFIRS unit sales without kits, together with kit sales into one new category that encompasses all [indiscernible] (00:07:04) of hardware called AFIRS Hardware.
+
+We renamed our former Services category to the more descriptive Technical Services to further distinguish it from SaaS revenues. So going forward, our four revenue categories will include SaaS, AFIRS Hardware, Licensing, and Technical Services.
+
+And now, looking back, although the IASB was thinking about large-scale revenue change for many years, IFRS 15 first appeared on our radar in 2015. We've been working through the impact on our revenue, our contracts and our systems, since that time with support from KPMG, culminating in full adoption, January 1, 2018.
+
+The new standard uses a five-step method to determine whether, how much, and when recognition of revenue is required. The main impact of FLYHT of adopting IFRS 15 has been to AFIRS Hardware. As revenue will now be recognized at time of shipment instead of waiting for the customer acceptance trigger that was such a large factor in determining our recognition under the former standard IAS 18.
+
+You'll notice four changes to our statements resulting from the adoption of IFRS 15. Firstly, note 3 explains in detail the accounting policy changes that have resulted together with a restatement of 2017 results so that full comparative information continues to be available throughout 2018. Secondly, additional required revenue disclosures have been included in note 7.
+
+Thirdly, contract assets have been [ph] carved (00:08:58) out of receivables to be shown on their own and this line item contains our unbilled receivables for which we have delivered hardware and services, but have not been able to build quite yet as contractually we are waiting for installation or for system testing. And then, finally, you'll notice the big impact for FLYHT with the absence of unearned or deferred revenue on our statements as hardware is being recognized upon shipment.
+
+And now, looking at our financial results, our first quarter revenues of CAD 3.3 million were in line with the average for the past three quarters, but were lower than Q1 2017 by CAD 330,000. SaaS revenues are down from last year's first quarter, largely due to the expiration in May 2017 of one customer through a third-party contract.
+
+AFIRS Hardware showed an increase over last year's first quarter due mainly to a larger number of kit shipments, which bodes well for future SaaS revenues, as their install base grows, opening the possibility for increased usage of the installed AFIRS solutions.
+
+Licensing revenues decreased from Q1 2017, as fewer modems with related licensing fees were ordered and shipped in Q1 2018. Gross margin was at 59.9% compared to 2017's Q4 of 76.4%, which is partially due to higher portion of hardware sales in 2018's revenue mix, but the other contributing factor is that Q4 2017's cost of goods sold contained recovery for FLYHT's warranty provision. As we are able to capture and access more information in our new ERP and we're developing a bank of this information over time, we have been able to refine our estimates and expectations of future warranty requirements, which have decreased due to the positive performance of our products in the field. These changes in estimate resulted in a cost of goods recovery in Q4 2017, and our requirements for warranty provision into 2018 and beyond as a proportion of revenue is expected to continue at a lower rate than in Q3 2017 and prior.
+
+Continuing with our recent trend and aligning with our desire to hold steady on G&A, Q1 distribution, admin and R&D expenses were comparable to both Q1 2017 and Q4 2017, which resulted in a net loss this quarter of CAD 582,000 compared to net income in Q1 2017 of CAD 119,000. Similarly, EBITDA also decreased by CAD 712,000 in the first quarter as compared to last year.
+
+And now, turning to the balance sheet, cash decreased throughout the quarter by CAD 1.38 million to close the quarter at CAD 630,000. As the customer deposits received throughout Q3 and Q4 2017 for hardware were shipped and recognized as revenue. And the parts required for those shipments required payment. We continue to receive funding each quarter through the Winn program and we have a CAD 1.5 million line of credit available to us should the need arise.
+
+The decreases in inventory balances are partly due to a concerted effort to reduce inventory on-hand together with the absence of installations and progress associated with the unearned revenue that is no longer a factor in 2018.
+
+I'll now pass this back to Tom for a discussion of current activities of FLYHT.
+
+Thank you, Alana. Moving on to 2018, we're very excited about the developments that we have planned and our goals that we have for the rest of the year. FLYHT has just received recertification according to AS9100 of our quality systems to comply with the new Revision D after completing the audit earlier this year. FLYHT achieved initial certification last year for the first time in its history. This quality system standard qualification is designed for aerospace customers and is essential for FLYHT to provide products and services directly to larger industry players.
+
+FLYHT has completed the flying portion of the Boeing ecoDemonstrator program where our AFIRS product provided real-time streaming of flight data recorder information over Iridium and Inmarsat with broadband safety as well as streaming cockpit audio from a digital cockpit area microphone in the flight deck. FLYHT claims many firsts in this trial.
+
+FLYHT has been the first and only company to stream the essential parameters from the flight data recorder over Iridium. The product FLYHTStream was commercially launched four years ago with the operator First Air. During this recent trial, FLYHTStream the entire blackbox in real-time, utilizing the significantly greater bandwidth available on the Swift Broadband-Safety network. This was the first.
+
+FLYHT also leveraged our triggered streaming patent issued now in the United States and China and pending elsewhere where we triggered the streaming of flight data based on flight data safety parameters and on operational control requirements, this was also a first.
+
+FLYHT also stream data backwards from the trigger point, which provides the data leading up to the trigger for aircraft investigators to gain an understanding of what caused the trigger. This is the first time any company has done reverse streaming from a trigger.
+
+Finally, FLYHT streamed cockpit audio forwards and backwards from a trigger simulating the streaming of cockpit voice recorder over Swift Broadband. This streaming of cockpit audio is also an industry first. To accompany these many firsts, FLYHT partnered to animate the streaming data to create a virtual cockpit on our UpTime server platform. The streamed flight data was used to create a three-dimensional animation of the Boeing, FedEx 777 which was shown flying over the actual [ph] train (00:15:40) model with an opportunity to select advantage from which the operator viewed the aircraft.
+
+Additionally, a 2D map showed detailed location and a set of cockpit instruments were driven in real-time to animate the cockpit instrument readings, simulating the environment that the pilot sees on board the cockpit.
+
+Linear plots display whatever sets of flight data parameters you wish to display in engineering units in real-time. In addition to this, the cockpit audio can be played to produce a virtual cockpit on the ground enhancing the situational awareness and creating an environment where third-parties can quickly understand what is happening on board the aircraft and can dramatically improve the situational awareness and reduce decision cycles dramatically.
+
+FLYHT and Boeing are capturing the results of the trial in a white paper and are planning our next steps in industry. Independently, FLYHT is going to show the capabilities of this virtual cockpit to industry including representatives from the NTSB and FAA very soon so they can understand first-hand the significant safety values that real-time streaming and that the cockpit virtualization brings to complement the significant operational interests that our solution has spurt across the industry. Everyone that we've shown this to has really been blown away at the results that we achieved.
+
+On the Investor Relations front, FLYHT recently hired Adelaide Capital Markets in Toronto to provide Investor Relations Services for FLYHT and announced those services in a press release on 15 May which we are required to do. Adelaide Capital Markets under the leadership of Deborah Honig and Jackie Kelly specializes in institutional retail and high net worth clients. Services offered include key message development establishing sell-side analysts coverage, investor days, national and international roadshows and conference opportunities along with communication support and crisis management. So we welcome Adelaide to the FLYHT team and we're excited to work with Deborah and Jackie.
+
+So at this point, we'd like to answer some of the questions that have come in from the emails.
+
+So the first of these were regarding Investor Relations. The question said, what were the lessons learned from Ivan Peill? Will the emphasis of Adelaide Capital be different?
+
+And so, the background on this is last year, we completed our relation with our previous IR firm, which was the Howard Group. We had a long and successful relationship with the Howard Group. And we, at that time, we're searching for a new CFO and a new Investor Relations representation.
+
+We thought that a strategy was to hire an individual that could do internal IR and marry that person with a CFO with capital markets experience. I had actually talked to Alana at that time about the CFO position, and we both felt like that it was perhaps a good time to bring in somebody with capital markets experience. And so, we ended up bringing in Derek Payne and hiring Ivan to a short-term contract.
+
+Unfortunately, the relationship with Ivan didn't work. It was not a good fit. And Ivan did not proceed on his contract past the initial three months. We had originally aligned Ivan to do IR, internal communications and some product marketing in order to fit him into the company. And so, ultimately, that didn't work. The contract with Derek, also Derek had some personal items that he had resolved. So, he ended up leaving the company.
+
+And so, earlier this year, we found ourselves in the same situation looking for a CFO and an [ph] IRR (00:19:54) representation. At that time, Alana discussed it and thought that it was time for her to become the CFO which I'm super pleased with her decision to do so. And we then look for representation in the market, somebody that could help us on the capital market side.
+
+We had received several recommendations about Deborah in Adelaide. So we engaged her, we spoke with others, but we're really excited about the energy that they brought. It's a new company. We felt like FLYHT needed somebody to help us [ph] bring (00:20:33) some freshness into our store and in the markets. We felt like they could do that. And so, we're really excited to work with them.
+
+They are going to focus primarily on Canada. We had discussed with some other [ph] IRR (00:20:46) firms, the possibility of looking more in the United States. But with the stock performance not doing as well in the last six months, we think it's right to focus in Canada and kind of get the stock performance – performing better, and then re-evaluate the United States down the road. So that's the sequence of events that occurred there. It's taken a little while to get to where we're at, but I'm very pleased right now with the team that we have assembled to move forward.
+
+The next question is, it seems like the stock price is not turning proportionally to the decline in revenues, 12% stock price. This – stock price last year at this time was CAD 2.30 versus yesterday's close at CAD 1.45, which was a 37% drop. How do you explain this variance?
+
+We're pretty much puzzled daily at the way that the market reacts to our stock. We know that fundamentally, it's a matter of us performing. And if we perform, then ultimately, the stock price will right itself. We had several back-to-back quarters of profitability when the licensing revenues were higher. Those have become losses since the licensing revenue has dropped. Despite the hardware climbing, the hardware hasn't climbed fast enough in order to make the quarters positive. So, I think that that's the primary reason of disappointment on our moving into the red.
+
+But, we're extremely excited with the sales order funnel that we have in front of us. We have – the types of opportunities that we are engaged with now, compared to the types that we were engaging with, when I joined the company, are night and day. So, the RFPs and the customers that we are currently engaging is just a completely different class of customers, so FLYHT has really moved up quite a few notches in the [ph] packing (00:22:56) order of sales throughout the company.
+
+All of that isn't necessarily demonstrated in our revenue performance to date, but I'm absolutely confident that it will be. We have enormous opportunities that continue to be presented in China and around the rest of the world. So, I think that's the best answer that I can give on the stock price.
+
+The research expenses increased 31% year-over-year continues to be a trend. Do you anticipate this trend to continue and for how long?
+
+The – as I mentioned a couple of calls ago, maybe last year, that the research and development will continue to be an expense [ph] as (00:23:44) this company incurs. This is not a product or a market where you can build the product and then go into maintenance mode and sell it. There's always – there's significant competition every step of the way. We have to continually add value to our products.
+
+We have a product that is installed on a large number of different types of aircraft, in a large number of different markets with operators that do a large number of different things. So that means that ultimately, when we engage with the customers, there's going to be unique and different – differences that they require. So there's always going to be a need for us to do research and development to add different values to our products.
+
+We are doing things in such a way that we are trying to push as much of the customization towards our customers as possible, which is something that we have introduced with the UpTime Cloud product and that is a development that continues.
+
+So in terms of what your expectations can be, the research and development run rate that we had in the first quarter, I think, is fairly typical for steady state on the company. We have run leaner in the past. However, in the past, what we have found is that, if you have an individual or two that decide to leave the company, then it disrupts your programs and deliveries to companies and we can't have that happen.
+
+So I was running as lean as I felt like that was practical to do. But at the end of last year, we decided to staff up a little bit and we did that in order to make sure that if there are changes in the workforce that it doesn't impact our delivery of projects.
+
+Ultimately, our workforce is really kind of determined by the industry that we operate in. So I've been in both the telecom and the aerospace areas in my career, there's far more regulation in aerospace. We have certification bodies from around the world that come to FLYHT and they do audits on our processes, they evaluate from a regulatory standpoint, how we do things, we have to have federal approval to even ship our product. If you contrast that with on the telecom world where you could kind of set up shop with a couple of folks and deliver product, the largest concern that you have is regulatory emissions in some cases which is just a significantly different paradigm.
+
+So we would love to – we run the company as lean as we possibly can and we have to make sure that we account for all of these regulatory requirements. We have to make sure that our product developments hit the [ph] mark (00:27:02) and deliver on time to our customers, even if we assume that there's going to be [ph] personal (00:27:09) turnover like there is in any business. So that's, I think, the best explanation that I can give in terms of our R&D.
+
+Do we anticipate new [ph] products (00:27:20) in 2018?
+
+We are continuing to flush out the capabilities in our UpTime Cloud product now. So we have – we had several years of the UpTime classic and capabilities that were built into that classic. We're migrating those into cloud. It takes some time to migrate those capabilities over. There's not only functions and products within the classic that need to be migrated, but there is uniqueness for different aircraft types. So, it will be a migration that will continue through this year and into next year.
+
+We are evaluating other strategic projects this year as well. And those strategic projects, when we launch them, they will have an impact on staffing levels. And so those are really still in the evaluation phase. But right now, our focus remains migrating the capabilities into UpTime Cloud. And we have several trials that are underway with operators that have asked for specific capabilities that we are building into the cloud that we think represent really exciting opportunities to serve fleets of specific types of aircraft.
+
+The next question is what are the sales backlog right now? How many AFIRS units are in the pipeline?
+
+So as I stated, the backlog is at CAD 26 million. We evaluate this in and presented quarterly in our end of the quarter sales report. And so, that's what I intend to do in the future is continue to update that quarterly. I don't want to give the number of AFIRS units that are in that pipeline, because I feel like that gives away some information, but it is a significant number.
+
+Setting aside the Software as a Service revenue, what is the approximate or average revenue for each AFIRS unit that FLYHT installs?
+
+So this is a great question. Unfortunately, I can't give that answer because there's a huge variance in the cost of kits that we sell. It goes everywhere from selling an individual AFIRS unit that an operator or a lessor may integrate on their own into their aircraft. So, they buy the majority of the shelf, the kits, the connectors, the antennas, all of the ancillary equipment that is necessary to install the equipment into the aircraft, all the way up into an operator that buys our equipment with the kit in total. So, that they receive everything that's necessary for us to install it under our STC to the – probably the top-level kit would be a kit that implements FANS, ACARS over Iridium capability and is certified to provide that service along with the kit.
+
+So, the variance between the most complicated kit down to the most simple kit can be – can exceed CAD 40,000, the difference between the cost of those two kits. So, we provide the number of kits that we sell in a particular quarter as part of our financial results in order to give insight to our shareholders around the number of kits that we're selling. But the – that's only a part of the story.
+
+So, if you looked at – for example, we had another question from a couple of our shareholders this year, which was that you sold 11 kits in the first quarter of last year and 33 kits this year, but your revenue from that component only increased by 46%. So, this was a case where in Q1 of last year all of those 11 kits were premium kits that had all of the associated hardware versus in the first quarter of this year, some of the kits that we sold were of the minimal type that I talked about, they don't have a great deal of the ancillary hardware with it.
+
+And another component that goes into our kit pricing is volume of the sale and then whether or not they buy Software as a Service products when they buy the hardware. If a customer buys Software as a Service products when they buy the hardware, then we're able to, from a sales return standpoint, become much more aggressive on the pricing of the hardware as part of that deal.
+
+So, the takeaway on kits is that there's a huge variation in the pricing that we sell various kits on. Every deal is different. Every deal is going to depend upon the type of functionality that's required, the type of aircraft that it's going to be installed on because there's different costs associated with the aircraft type, whether or not they buy the hardware services and then features and functions.
+
+So the next question is, is AFIRS available as an OEM option on Boeing aircraft at the moment, if not, is this expected to happen in this year? And would it involve L3?
+
+So we are not currently an OEM option on Boeing, we just finished the ecoDemonstrator flight phase. We're now engaging them in the engaging industry phase with the results. I'm optimistic that this relationship can lead to business, but I can't provide any guidance on that at this time.
+
+Right now, the work that we're doing with Boeing is direct, it does not involve L3. The only involvement in L3 was we did purchase a digital cockpit area microphone from L3 that we use as part of the trial. And that was a nice addition because it had a 429 interface so we could integrate it directly into our product in a pretty straightforward way.
+
+The next question says, following Boeing's ecoDemonstrator testing on one of their planes, has FedEx shown interest in AFIRS for its fleet?
+
+We've had a couple different meetings with FedEx. I can't provide any report at this time.
+
+Did anything further come from the two test units installed for Air Canada more than a year ago?
+
+This didn't happen on my watch. So this has happened at least three – probably three years ago. I don't have any feedback from that activity.
+
+How many of the 146 AFIRS units ordered by Avmax has been delivered to date, as per the contract on September of 2015?
+
+So units that have been shipped in an order number 30 at this point with Avmax.
+
+With the cost of aviation fuel on the rise again, has there been a corresponding increase in the interest in FLYHTFuel software?
+
+We're seeing some additional interest. This is not one of our big sellers, our biggest sellers are FLYHTLog, followed by FLYHTHealth. We would like to get more traction on FLYHTFuel and David Perez and his team are looking for opportunities. But I wouldn't say that we've necessarily seen an uptick yet.
+
+There's a question here that talks about Southwest Air and what happened there.
+
+I've got a closing statement on that so I will cover it at that time.
+
+There's another question that says, do we still presently have CAD 27 million of backlog that we have CAD 26 million at this point? How much of that number will we expect to drop in 2018?
+
+That's a great question. So, we characterize the backlog as a five-year backlog that's because we signed contracts in five-year increments. All of you that have been following the FLYHT story long enough know that the – it's a challenge, understanding how quickly our customers are going to take delivery of the product when we sell it.
+
+It goes everywhere from Azur which is on the one end, they signed the contract in October, and we've already delivered all of the units that were in that contract by this time. So, that was I think the fastest delivery of any customer that we've had. At least since I've been here for sure. Contrast that with customers that sign contracts and don't begin deliveries for a year sometimes.
+
+It really depends upon the customer upon their business plan, upon the availability of their aircraft, when their aircraft are going to be delivered. So, I would love to give very deterministic answers to this question and say that we expect that a certain exact number to come through in 2018. But the fact is – is that we oftentimes do not know and sometimes a customer that has been silent, drops us a PO, and it's out of the blue based on an existing contract and we're thrilled. But they didn't give us any indication that that was going to happen and by the way, they want the delivery tomorrow which is difficult for us to accommodate in many cases because there's a lead time to the product.
+
+And I think you've noticed that we try to – we've been improving the management of our inventory. We're improving the returns on our inventory and we're doing that in a systematic way. And so, it's a – and we would love to have a bunch of inventory on to hand, so we could always satisfy the orders as soon as they come in. But, then we end up sacrificing cash from inventory and that's a challenge as well so.
+
+It's the last question here says, with the China required mandate now moved to 2019, do we still expect a rush for operators to purchase equipment and will they also be required to retrofit their older planes? How's the China business doing?
+
+So, we have published the changes in the regulations in China where the requirement to have four-minute communication with aircraft was moved from a circular with the compliance date of 2017 into the CCAR 121 Rev 5 which is the Chinese regulation, so it was moved into a much stronger – it was essentially moved into law in China from a circular guidance with a date of 2019 – December 2019 for compliance.
+
+So, we expect this to have a stronger influence on the compliance within China. But China is a little bit of a different place so it does – it doesn't behave like the West. I mean, I don't really have the time to go into the details of how business occurs in China but there is give and take between the regulators and the operators, especially the large operators, in terms of how they comply. And so – but we are seeing a very significant large number of sales opportunities in the sales funnel. It has slowed down a little bit in terms of our closure of those sales. But the opportunities themselves have not slowed down.
+
+So we've been working on several for some time. I hope to be able to share those results soon. I know that it's difficult to wait sometimes but I mean that we have to get used to but I'm very, very confident in the team that we have there [ph] that's selling (00:40:18). I'm very, very confident in our solution and our ability to continue to win business there. Again, we've won 23 of the 57 and we have several that are very, very close and I think that those would be exciting when they finally close.
+
+Those were the questions that we received on e-mail. And so Ariel, if you would like to open it up to caller questions now?
+
+Certainly. Thank you. We will now begin the question-and-answer session. [Operator Instructions] Our first question comes from Jerome Haas of Lightwater Partners.
+
+Just a question for Alana. You explained some of the changes of IRS 15 (sic) [IFRS 15] (00:41:18) out on your balance sheet and income statement. Can you talk a little bit about what is defined as contract assets in your current assets? Because it seems to be you've had an impact on both trade receivables and inventories.
+
+Yes. So, contract receivables are basically unbilled receivables or contract assets are unbilled receivables. So, we've delivered the goods. They are receivable to us. It's an asset on our book, but for contractual reasons, we've been unable to bill until a future event. So, some of our contracts allow us to bill a certain percentage up-front and then second percentage after the fact, and it's generally dependent on either installation or system testing.
+
+Okay. And now, because you're using IFRS 15, will you – will your future contracts still be structured in the same way or will you amend them such to recognize the new realities of IFRS 115 – sorry, IFRS 15.
+
+I would say that our default payment terms are 100% prepayment up-front, and that's what our default would be? Certain contracts, I think our customers and our potential customers during negotiations, they are not going to – I don't think negotiations with them will change based on IFRS 15 necessarily. We still default to 100% prepayment, whenever possible.
+
+Okay. And a question for Tom. He didn't touch on it in his remarks but maybe give us an update on the trials in China and how those – when they're scheduled for?
+
+Yes. So we have several activities underway in China. We continue to progress with operators there. I have not talked in detail about those publicly and I don't intend to do so now.
+
+Okay. And you mentioned you had a new AFIRS client in Q1. Would you be able to indicate what region of the world they're from?
+
+Could you say it again? I didn't quite understand that.
+
+I thought in your remarks, you mentioned that you had a new AFIRS client that just started receiving shipments in Q1 that could potentially be a larger client. Can you indicate what area of the world they're from?
+
+Oh AFIRS, okay, a new AFIRS client. So I talked about in the sales release in Q1, that we had sold to a new lessor, I talked about that we had sold to a new airframer, I had talked – so we were deliberately vague for competitive reasons, Jerome, on where those go. I would love to be able to say who these individual companies are, but we don't feel like we can release their names. But the airframer is based in the United States, the lessor is international.
+
+And I hope that answers your question. I'm not sure if I did or not though.
+
+Yeah, that's fine. That's all my questions. Thank you.
+
+Our next question comes from [ph] Tom Baussmann (00:45:20), a private investor.
+
+Hello Tom. My question is how are you going to deal with short-term cash flow issues? Currently, your cash and cash equivalents are CAD 629,000. You lost a little bit less than that in the last quarter which says that you run out of cash by the next quarter unless some provisions are in place. So the exciting developments, the firsts are all fantastic, but how are you going to live through the short-term challenges of cash flow?
+
+So we have two large receivables that are imminent. We have a WINN payment that's due any day. And then we also have, we delivered a large number of our license units in last month. And so, that payment is due soon. So if you rewind and look at our cash position since we paid off the debentures at the end of 2016, we started 2017 with CAD 700,000. We've built that up through the year to CAD 2 million that we closed. And now as you saw, our balance is CAD 649,000. So we report our cash position just four times a year. It varies pretty dramatically in between those four points.
+
+And so right now, we're not in a different position right now than we [ph] haven't (00:46:59) been in the last five quarters. So we're managing it, we've managed it very closely. Again, we have cash coming in imminently. So, if things do get tight, we have the line of credit. So, we feel comfortable right now.
+
+Thank you. [Operator Instructions]
+
+Our next question comes from [ph] Bruce Kugal (00:47:31), private investor.
+
+Hey Tom. How are you?
+
+Good, [ph] Bruce (00:47:38), yourself?
+
+Yeah, [ph] no complain (00:47:39). Got a couple of administrative questions. The one is, this paid [indiscernible] (00:47:45) trial where do those revs included, are they in the SaaS revs or somewhere else?
+
+Those would be in SaaS.
+
+In SaaS. And this change to IF – to IFRS 15, if you compare it to your old accounting policy, it almost looks we could say that in the current quarter because of the change you might have to put forward some AFIRS sales i.e. that you got 31 recorded for revs this quarter? Is that the case or did it not really impact the number of AFIRS units sold in the current quarter?
+
+It definitely improves our ability to recognize. So, last year and previously depending – we had I think, correct me if I'm wrong and I have nine different accounting rules on – depending upon the specific contract type when we could recognize that hardware. And now all of the hardware is recognized on shipment. So, that aspect of IFRS 15 is definitely beneficial to us.
+
+Also, we're now able to – on our technical services, say if we're performing in STC, paid STC for a client. We can claim revenue on work performed. And that's beneficial, because that will distribute the recognition of that revenue throughout the quarter as the work is done rather than at the end, when the work is completed. So those are a couple of examples of where we really like the changes that are introduced with IFRS 15.
+
+Okay. And so, a follow-on from that would be, what is the Q2 looking like with regards to AFIRS shipments?
+
+It's been strong through this month. So we are likely to looking forward have probably stronger licensing performance in the second quarter and a little weaker AFIRS Hardware sales in the second quarter compared to the first.
+
+Okay. I think you said in your remarks that you were going to make a reference to the Southwestern Airlines (sic) [Southwest Airlines] (00:50:18) dynamic, if I misheard you that my question is, have you done – have you made any follow-up to Southwest with regards to your company's services and products you could deliver to Southwest Airlines?
+
+We have reached out to Southwest and will continue to do so both. It's not only Southwest, most of the operators that operate that CFM engine that will require significant inspections. I will close with a discussion about this. And so, if it's okay, I'll include my comments at that time.
+
+Sure. [indiscernible] (00:51:11) I know you've been [indiscernible] (00:51:11) by some other people and I'm going to ask the same thing. I mean, [indiscernible] (00:51:15) some – you talk about some pretty significant opportunities and I guess, it boils down to the timing of when you think we'll see evidence of these opportunities coming out. Yet anything with regards timing was on a significant [indiscernible] (00:51:37) significant contracts you mentioned earlier?
+
+Well, never as fast as you want them to come out. The opportunities with an operator like Boeing or more specifically the opportunity to [ph] parlay (00:52:01) what we've done on the timely access to flight recorder data is really targeting this 2021 and beyond requirement. ICAO has indicated that new airframes in 2021 and beyond have to account for timely access to flight data. And that was the basis of our demonstration on the Boeing ecoDemonstrator.
+
+So if you work backwards from 2021 for an air framer, these are all Tom Schmutz's guesses. These are not any indications from airframe manufacturers. But my experience tells me that in order to be ready and into market at that timeframe, then there needs to be procurement in the industry for those elements starting next year. And by procurement, I mean, vendor selection programs kicked off, qualifications done so that you can meet the 2021 timeframe.
+
+So if that 2021 timeframe stays in place, then I would expect that they will start to be news around these selections and how they're going to deal with this beginning early next year. That would be the timeline that I would expect the industry [indiscernible] (00:53:23).
+
+Those are only the part of the – when I said that we're seeing significant contracts. Those are not all associated with Timely Access to flight data. We're working on other significant contracts now with a range of operators and several of those are in the queue to decide starting this summer through the end of the year.
+
+Okay. So I guess, just to finish off. With regards, for instance, Boeing and the 2021 deadline, the way we as FLYHT investors would see it would be perhaps that you are now in the trial [indiscernible] (00:54:10) demo trial or would it go straight to purchase order from your side?
+
+I can't speak for Boeing and how they're going to proceed. All I can say at this point is that we had a tremendously successful trial with them. The resulting virtual cockpit that we created and streaming that we did is blowing away everybody that we show them and by blowing away, I mean, showing people that have been in the industry for years and they've never seen anything like it. To me, that's exciting.
+
+Now, it's up to myself and my team to take that excitement and turn it into purchase orders and I think we can. But it's not going to happen immediately. It's going to be the – unfortunately the aviation space does not move super rapidly, but it moves. And so, we have really, really elevated FLYHT as a company in the eyes of people in the industry around the world with what we're doing. I know that that's a consolation right now to a shareholder that wants the stock price to rise. But in my mind, its untapped value that we're taking to the market and that untapped value will ultimately result in higher stock price.
+
+That's great. Thanks, Tom.
+
+This concludes the question-and-answer session. I would like to turn the conference back over to Tom Schmutz for closing remarks.
+
+Well, thanks [indiscernible] (00:55:47). As I stated earlier, we're very excited about the opportunity that we're currently pursuing and the potential that continues to exist in our technology. I wrote in the CEO letter to the shareholders that one person was killed and seven other passengers sustained minor injuries on April 17 on a Southwest Airlines flight from New York to Dallas.
+
+One of the aircraft engines exploded during the flight and shrapnel caused the window to shatter and partially sucked the passenger out of the window. The preliminary investigation indicates that there is evidence of metal fatigue in the turbofan blade which caused the engine failure. We still don't know all the facts surrounding this. It's being investigated. But the terrible incident sounds a lot like a situation that FLYHT's AFIRS systems prevented in one of our customers.
+
+Last year, I described that incident in a success story on the fifth edition of my investor letters, which is on our website. Not only did our customer potentially avoid such a tragic accident, the loss of life and injury along with the impending litigation, but they ended up saving millions of dollars by using the real-time exceedance monitoring to shorten their decision cycle.
+
+So by shortening their decision cycle, what I mean by that is they were able to receive an instantaneous report and make a decision to pull the aircraft out of service versus probably the couple of weeks that it would take for ground maintenance to download the data, cycle it through FLYHT operations quality assurance cycles and then bring it back to the operational crew to make a decision.
+
+So it's a dramatic difference in what FLYHT can provide. I'm currently reaching out with the help from our board members and others in the industry to carefully follow this up. We're reaching out with emails to make sure that to some of these senior members that some of these large operators that they understand that there's a solution available now that can help resolve this.
+
+And so, I talked earlier about what we did on the ecoDemonstrator and how we kind of painted a picture of the future, how our system provided ultimately what we think is the situational awareness that's required in the future to help operators control and operate their fleets. But this is capabilities and functionality that we have had in the field now for quite some time that can help these operators now and help them with real world issues that, although these – an engine problem like this doesn't happen very frequently. When it does happen, it's catastrophic.
+
+And our operator was able to use our system to prevent a very, very similar incident like this from occurring. And so, we are actively reaching out both to operators as well as to press. I did an interview, I hope to do some more and hopefully that shows up soon in periodicals on the industry and that will continue to raise the awareness of what FLYTH can do both for operators now and in the future.
+
+So with that, we thank you very much for your time and thank you for supporting FLYHT. And we'll talk to you again in three months.
+
+This concludes today's conference call. You may disconnect your lines. Thank you for participating and have a pleasant day.

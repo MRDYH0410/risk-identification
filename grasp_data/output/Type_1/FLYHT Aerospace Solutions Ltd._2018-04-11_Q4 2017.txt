@@ -1,0 +1,146 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+Thomas R. Schmutz — Chief Executive Officer, FLYHT Aerospace Solutions Ltd.
+Alana Forbes — Chief Financial Officer, FLYHT Aerospace Solutions Ltd.
+John Andrew Jerome Hass — Partner, Lightwater Partners Ltd.
+
+Management Discussion Section
+
+Question And Answer Section
+
+Welcome to the FLYHT Aerospace Solutions Fourth Quarter and 2017 Year End Results Conference Call. As a reminder, all participants are in listen-only mode, and the conference is being recorded. After the presentation, there will be an opportunity to ask questions. [Operator Instructions] If there are any outstanding questions at the end of the call, the company will be happy to take them by e-mail at investors@flyht.com.
+
+I would now like to turn the conference over to Tom Schmutz, Chief Executive Officer for FLYHT. Please go ahead.
+
+Thank you, Ariel. So the format of this call is that I'll provide a review of our 2017 results operationally and financially from a high level. Alana Forbes, who has been our Controller for the last 10 years and has been promoted to CFO, will then discuss in more detail the financial results of the fourth quarter as well as 2017 in general. I'll then discuss some objectives that we have for 2018, answer questions that we received via e-mail, and then answering questions that might be called in. I'd like to start by thanking the shareholders and those who have dialed in or accessed through online recording to learn more about FLYHT through this call.
+
+The 2017 year ended with a fourth quarter revenue of CAD 3.6 million, which was an increase over Q3 of about 8% but was down from Q4 of last year by about 13%. The trend of the last couple quarters has been decreasing in revenue in the parts revenue category and an increasing in revenue in the AFIRS hardware revenue category, with both the voice and data services and the technical services categories remaining flat. We think this is a bit of what we call a new normal since we have grown a reasonable sales order backlog, and the forecast for license sale through our partner for Airbus A320 and Airbus A330 assemblies has been reduced.
+
+Q4 of 2017 was a very solid quarter for our AFIRS hardware kit shipments. We shipped 25 kits, which represented our second best AFIRS hardware shipment in terms of value in the history of the company, and the AFIRS hardware recognized during the quarter was 76% better than Q4 in 2016. We also shipped about 90 AFIRS units in 2017, which was 25% more units than we shipped in the previous year. So trends are definitely up in the AFIRS hardware sales and several of these shipments will be providing recurring service revenue when they are placed into service. So we also believe there will be a corresponding rise in the recurring data services revenue which I stated earlier has been flat.
+
+The voice and data services revenue growth has been elusive. We are adding new customers and expanding fleets but we also encounter customers who become illiquid, stop operations, or swap out aircraft with installations within their lease agreements. In general, the fleets of the operators around the world are quite fluid, change constantly, and therefore we must continue to accelerate the fitment of our customer fleets to grow the software as a service revenues.
+
+The trend for license revenues for units sold through our partner for installation in the Airbus A320/Airbus A330 production line or for retrofit is down since the peak in 2016. We have built our plan this year around a lower quantity of license revenues in this parts category. We consider this again to be the new normal, that the levels that we published in the first quarter results this year is what we plan to be the trend in this overall revenue category.
+
+The resulting CAD 14 million annual revenue for 2017 was within 2% of what the company posted in 2016, this despite being down 15% in this parts category year-over-year. The AFIRS hardware sales for the year definitely made up that difference. FLYHT has built a sales order back large (sic) [backlog] (00:04:35) that's large enough now that we could begin to count on filling a decent part of our budgeted quarterly shipments from this backlog and we don't have to generate all of our shipments from book and ship.
+
+FLYHT has been announcing the sales order backlog for almost two years now, and the intent of these announcements is to give our shareholder base better visibility into the unfilled contracts and the purchase orders that can convert into revenue in the future. This backlog figure now stands at CAD 26 million and it includes only the direct sales of AFIRS hardware and the corresponding voice and data services that are undelivered. This figure does not include any back ordered modems of license fees or technical services that are yet undelivered.
+
+Technically, we project this backlog over a future five-year period since it is typical of the contract length that we sign. The reason that this backlog order exists is for a variety of reasons. We may be working on a necessary supplemental type certificate, or STC is we call it, which gives FLYHT the right to install. We might be waiting for an aircraft to become available for a C check for installation. We may be waiting for a customer to take delivery of the aircraft that they signed for instead of a contract. In the case of outstanding voice and data services, we are typically waiting for the AFIRS equipment to be installed. We focus our customer engineering resources to get ordered voice and data services turned on as quickly as possible once the equipment is installed, so it's rare that backlog voice and data services are waiting for anything other than an installation or an aircraft availability.
+
+FLYHT has kept its expenses controlled over the past year as well. Overall, the 2017 expenses were flat compared to 2016, which means the totality of distribution, administration, and research and development were flat year-over-year. Our primary expense is in labor, and so this means that we are – have through my two and a half years here, anyways, essentially preserved or kept our labor rates flat or grown in a minor fashion while dramatically increasing revenues from 2015 forward. Our gross margins for the year at 62% was down slightly from 2016 at 68% because the revenue mix was a little different than we talked about earlier. Also, 2016 showed a profit while 2017 fell short in this category largely because of the one-time license IP fee that we collected in 2016 which was absent this past year.
+
+In terms of changes, we changed the organization of the company and we modified the facility last year to prepare for growth. We moved most of the day to day activities into a single organization under the Chief Operation Officer, Mat Plamondon; this streamlined our customer fulfillment activities. We created a strategic products group organized under Derek Graham, who's the Chief Technical Officer, to help create a strategic approach for our future growth and opportunities with larger partners that we are engaging. We also brought on Steve Newell in the role of Vice President of Business Development to help mature opportunities with OEMs, airframers, and other technology partners so that we could focus David Perez and his sales team on selling AFIRS and UpTime voice and data services to airlines and lessors.
+
+A final organizational change has been made this year with the promotion of Alana Forbes from Controller to Chief Financial Officer. FLYHT also invested in the shipping, receiving, and kitting area of the Calgary facility in October of 2017 by tripling its size to handle the growth of our AFIRS shipments. This really help the operations team process the increased number of units that we reported this quarter and should be adequate facilities for the next couple of years as we continue to grow in that area.
+
+On the research and development front, the major development thrust in 2016 was the continued development of our UpTime cloud server and the development of new features for our trials with Boeing and other customers. The Boeing ecoDemonstrator Program started flying in March and continues into April. FLYHT has been streaming flight data from the FedEx Express Boeing 777 Freighter to an UpTime Cloud animation which simulates the flight deck instrumentation, displays the position of the aircraft on a map, and creates a flying aircraft visualization. By streaming the flight deck audio, FLYHT has virtualized the flight deck environment on the ground, enhancing situational awareness and potentially satisfying future regulatory requirements. The animation and the visualization is developed by our partner, Flight Data Services, and is integrated into our UpTime server display.
+
+We believe that FLYHT is the first company ever to stream cockpit audio in real time. This was accomplished using a digital cockpit area microphone that we sourced from L3 Technologies. The data was routed through our AFIRS unit and it utilizes a satellite connection in the Inmarsat SwiftBroadband-Safety network.
+
+FLYHT was the first company to stream essential parameters from the flight data recorder, and now we are the first company to be streaming an entire data recorder frame. Combined with our streaming now of real time cockpit audio, this is consistent with FLYHT's position as the leading provider of real time streaming technology for aircraft.
+
+FLYHT has received keen interest in this demonstrated capability to satisfy upcoming ICAO requirements for timely access to flight data requirements and for autonomous distress tracking. We feel extremely well-positioned with our broad supplemental type certificate library which, with now over 90 certificates, is the most extensive for commercial satcom in the world. Our AFIRS and our triggered streaming data patents position us well. And the maturity of our products, as we have just announced, the 3 million flight hour and the 2 million flight that was recorded by our UpTime ground server.
+
+Now I'd like to turn the call over to Alana who will provide details on the financial results. Alana?
+
+Thank you, Tom. Good morning, shareholders, and thank you for joining us on this call. Looking at the fourth quarter, we saw an increase over both Q2 and Q3 in revenue while decreasing from Q4 2016. Voice and data services are down from last year's fourth quarter largely due to the expiration in May 2017 of one customer through a third party contract. Modem and IP sales are also down but AFIRS hardware sales have been taking off through Q3 and Q4, which has been making up for decreased modem/IP sales and which bodes well for future ability to grow our voice and data revenue as our installed base grows.
+
+We saw a flurry of activity in Q4 with hardware revenue as we recognized 27 installation kits versus 17 in 2016's fourth quarter. There will be cyclical changes between quarters but the overall trend is improving from midyear. Gross margin was at 56.8% compared to 2016's Q4 unusually high 74.9%, which is a direct result of a higher portion of hardware sales in 2017's revenue mix.
+
+Continuing with our year-to-date trend and aligning with our desire to hold steady on G&A, Q4 G&A expenses were comparable to Q4 2016, which resulted in a net loss of CAD 520,000 compared to net income in Q4 of 2016 of CAD 79,000. Similarly, EBITDA also decreased by CAD 640,000 in the fourth quarter compared to last year.
+
+And looking at 2017 results, revenue remained constant from 2016 while the mix changed as hardware sales increases made up for the decrease we've seen in sales of IP licenses. In terms of geographic split, we saw increases in revenues sourced in Asia with a corresponding decrease from North America, and both of those areas continue to be our largest revenue regions. We held the line on G&A expenses accordingly, with both years around the CAD 10.6 million mark. Finance costs have decreased as the accretion relating to the retired debentures has not been a financial factor for us in 2017. 2017's bottom line shows a net loss of $1.8 million compared to net income of $1.7 million in 2016, a difference of $3.5 million. And similarly, EBITDA decreased by $3.7 million, of which $3.2 million can be attributed to the one-time IP license income in 2016.
+
+And now turning to the balance sheet, increases in customer deposits and WINN contributions plus decreases in inventory contributed to an increase in cash reserves. Cash increased throughout the year by CAD 1.3 million to close the year at CAD 2 million. We also have a line of credit available to us through a major Canadian bank which is currently undrawn. The decreases in inventory balances are partially due to a concerted effort to reduce inventory on hand together with reductions in the installations and progress associated with decreased unearned revenue balances.
+
+I will now pass it back to Tom for a discussion of our 2018 objective.
+
+Thanks, Alana. So moving on to 2018, we're very excited about the developments that we have planned and the goals that we've established for the year. We expect to be very active in committee discussing the results of the ecoDemonstrator Program. We have received interest in what we are doing with Boeing from the industry and we expect to conduct similar but focused demonstrations and trials for operators that are looking for specific capabilities and have become interested in what we're doing because of the publicity around this activity.
+
+FLYHT has just completed an AS9100 Quality Recertification to comply with a new revision of the AS9100 audit document after having achieved a certification last year for the first time in the company's history. We also have new products and product augmentations planned that will support our current offerings and begin to look towards future enhancements of these products. More information will become available on these activities in the future. However, our primary objective remains to grow the top line and to grow the recurring revenue category. We believe we have the products to do this, and we are very focused in this objective.
+
+So with that, I would like to answer a couple of the questions that we received by e-mail, both leading up to this call, and then we'll turn it over for any calls that might be called in.
+
+The first question I think I answered in part during my conversation which was what is at the end of the rainbow for the Boeing and Inmarsat trials.
+
+So our objective is to demonstrate that streaming is the method of meeting the timely access to flight data requirement that goes into effect for new aircraft types in 2021 and beyond. We're accomplishing everything that we set out to do inside of the trial thus far as it moves forward. There's other potential ways of meeting this new requirement. However, none seem to FLYHT to be as straightforward as streaming the data over satellite communications capabilities. So we're quite excited about our opportunity to leverage the maturity of our products, the patents that we have, our position in the community, and importantly the STCs that we have to take the product that we have now and to meet these regulatory requirements moving forward. So obviously, the end of the rainbow for us means turning these trials into business.
+
+The second question is who is the partner behind the new agreement with a large global organization to monetize weather data from certain aircraft?
+
+So we entered into a short-term paid agreement to demonstrate the quality of data that we can provide from certain aircraft types located in certain regions. Once we demonstrate the quality of the data that we can deliver then there is an opportunity for us to expand the amount and types of data and the locations that we provide that data from. And I'm unable to speak more about that opportunity at this time.
+
+The next question says to-date how many leasing companies have signed with FLYHT? And grouped together, approximately how many planes of interest do they have in their fleets?
+
+So thus far, we've signed three different lessors and delivered AFIRS equipment to them. And in the aggregate, the aircraft that we think we can target in their fleet number over 400 aircraft.
+
+The next question is a lofty one. It says where do you see FLYHT at one, three, and five years? Is the model of direct service provider and recurring services revenue changing? If so, what will it become?
+
+The last part of this question I think I addressed during the call. We don't believe that there's a decrease in opportunities for positioning of FLYHT to provide these recurring data services; this remains our number one objective. We have encountered through the last couple years situations where we're signing and installing and bringing onboard new operators and new levels of service but at the same time losing through the companies becoming insolvent or changing out their fleets, aircraft, or as Alana mentioned earlier, we had a third party contract that expired. We did win back a good portion of that contract earlier this year that we talked about in the first quarter revenues, but these are things that happen. So there's what I would refer to as churn in the customer base for these recurring services. However, we think that we have now a method to get in front of this and hopefully we demonstrate that both this year and moving forward.
+
+Where I see FLYHT in the future at one, three, and five years is in a position of growth; we have to grow. So we're definitely going to grow organically, and we're demonstrating that. Although we were flat year-over-year, we picked up significantly in one area of the business when we had an unexpected downturn in the licensing area. So that was very fortunate that we had the backlog in order to do that. We will continue to grow that area. We want to grow inorganically as well, so we're aggressively looking for strategic fits that we can enter into agreements where one plus one equals three. And we feel like this capability that we have with real time data can light up many different kinds of capabilities that exist that will benefit operators in both their operations and maintenance areas. So where I see FLYHT is continuing to grow.
+
+There's a question about updates on specific programs. Boeing, Inmarsat, Bombardier, we have agreements with all of these carriers and operators. I don't have any new information to provide in those areas. However, I will as soon as we have something that we can share.
+
+There's a question on whether or not there's been any shares already exercised in the warrants we repriced. Some warrants that were in our portfolio from the raise that we did two years ago, they were part of a unit deal and we have not exercised any warrants that were part of that raise.
+
+So I think that those are all of the questions that I can answer that were sent to us in the e-mail. So at this point, Ariel, I'd like to ask if there's any callers that have questions.
+
+Certainly. We will now begin the question-and-answer session. [Operator Instructions] Our first question comes from [ph] Bruce Krugel (00:23:25), a private investor.
+
+Hey, Tom. How are you?
+
+Well, [ph] Bruce (00:23:31). Thank you. How are you?
+
+Can't complain, man. Just given some back of envelope calculations, your Q4 net loss was CAD 520,000. So I was working out how many acreage units would you have to sell to achieve breakeven on that front? So it basically turns out to be about 21 additional units per quarter, which you sold 27 in Q4 and you have to sell an additional 21 for the quarter, that on annualized basis is about 192 units, so that's more than double number of units what you sold in fiscal 2017. Where are you with regards getting to, let's call it, 192 units or breakeven given that you've expand production threefold as you mentioned earlier?
+
+Right. So we see excellent opportunities for that AFIRS hardware quantities to continue to expand. We've got an excellent backlog. As I mentioned earlier, there's certain impediments that stand in our way to converting some of that backlog into revenue. We're aggressively working on those. We are not limited in any fashion by our supply chain or are we limited in any way by our facility to deliver on those. In our plan this year, we have significantly higher levels of AFIRS hardware to ship.
+
+Okay. And what are the numbers that would impact that volume of production? Would it be the take-up rate to voice and services? And again, back of envelope, it takes roughly about 83 units on a full annual basis to generate an additional CAD 1 million in rates, bearing in mind that's almost 95% margin business. What is your take-up rate roughly in terms of the contracts you have in your backlog for voice and data services?
+
+Yeah, so that's a good question. Traditionally, virtually all of the sales outside of China that we have made have been sales that we have done inclusive of voice and data services. China was the exception because of the mandate in China that requires that the aircraft operation centers contact the aircraft within 4 minutes, and that has driven a requirement for satcom because of the lack of infrastructure in China for traditional VHF communications. So this is what has been driving the growth in China. I didn't mention it during this call, but in the letter I mentioned that we closed four additional Chinese operators last year and have increased the number of operators now to 23 out of a total of 57 that exist in the country. So we continue to have a very large sales funnel in China.
+
+The original requirements that mandated those operators be deployed by 2017 were changed from what was the equivalent of a Chinese circular into a Chinese regulation, in what they call a CCAR-121-R5, and that requires now that all of the operators be equipped by 2019. So we expect and we are seeing a continued migration in the country towards compliance. That's creating opportunities for us. We launched voice and data services in China in June of 2016, so up until June we had zero operators using our voice and data services there. Now we have over 55 aircraft that we're providing recurring data services in China. So that's exceptional growth in that area and we expect that to continue.
+
+So your question was basically where do we see growth? We definitely see continued growth in China for the units that we've sold and the units that we have in backlog. And we continue to see compelling opportunities outside of China where, again, I say typically we make the sale up front with data services included.
+
+Okay, and just expanding on accelerated deployment and sale of AFIRS. You sold 17 in Q2; 22, Q3; 27, Q4, so a fairly decent upward slope. What are we looking like for Q1?
+
+Q1 so far has been in that same trend.
+
+Okay. So is it fair to say Q1 you'll sell more AFIRS than you sold in Q4?
+
+Yeah. I don't think that I can provide that information on the call, but we will say that the trend started, as Alana said, in the third quarter and we see that continuing.
+
+Okay. And then just finally, you received your STC for the Embraer EMB190. Any update on any contracts on that front? And also there's Hong Kong Airlines where you're looking for STCs for the Airbus 319, 320, and 321. What is the size of that fleet and when do you think you could start rolling out products for that contract?
+
+Yeah. So I don't think that we've announced a Hong Kong contract by name. We do have some business in that region and we are hopeful that we begin installations and provide services in that area, but we have not made any formal announcements in that area. In terms of the Embraer E190, we've deployed equipment in China on the Embraer E190 STC that we gained through Transport Canada. We do have opportunities in that part of the world that also are requiring, for esoteric reasons, an FAA Embraer E190 STC which we have put quite a bit of work into, and we're working with a customer to finalize the installation and get the inspections completed. So there's a bit of unfinished work in that area that we've been working on with that customer and continue to do so, but I am hopeful that that will come to fruition quite soon.
+
+Okay. That's all the questions from me. Thanks, Tom.
+
+Thanks, [ph] Bruce (00:30:49). [Operator Instructions]
+
+Our next question comes from Jerome Hass of Lightwater Partners.
+
+Tom, in a letter to shareholders that was dated at July of last year you wrote, "Moving FLYHT from a penny stock to a company that will be properly assessed on its fundamental performance and the accompanying attractiveness to institutional investors." At the same time, we have a difficulty in reconciling this statement with the recent announcement on April 2 that you'll be arbitrarily reducing the strike price of warrants that were originally issued in May 2016 from CAD 2.50 to CAD 1.60. So we have trouble reconciling this action with your stated goal of improving the company, and we find this behavior of arbitrarily moving the share price to be behavior that's more characteristic of penny stocks quite frankly.
+
+Okay. That seems like a statement, Jerome. Do you have a question or...?
+
+Yes. Do you intend to reverse your initial intention to reduce the exercise price of these warrants?
+
+Well, we have submitted that request to the TSX. We've not yet received back any final word from them. Just to give you an idea on the motivation behind this, those warrants were established in the raise that we did two years ago. We had assessed that income that we would derive from those warrants could be put to work on specific programs that we feel could build some particular value in the company. So when the share price shrunk away from the strike price of CAD 2.50, we saw the opportunity to reprice those warrants to get in a fraction of the money that otherwise would've come in.
+
+So in setting the price at CAD 1.60, we set the price at market at the time. So on Thursday, before Good Friday, the stock price closed at CAD 1.60. And when we came out with our announcement on Monday morning before market, we repriced the warrants. Our request to the market is to reprice the warrants at CAD 1.60, and the stock has been trading in that range. Since that time, it's been up a little bit, but yesterday it was down below that price. So we feel that we're essentially doing a market offering at this point, and that's really the rationale behind it. You can, I guess, form your own conclusion as to whether or not that's good or bad behavior, but that's our rationale behind it.
+
+Well it certainly doesn't treat all shareholders equally. And also, we note from your most recent comments that you have interest-free funding available under the Western Innovation Initiative of up to CAD 2.35 million and as well you quote having commercial lines of credit available from top tier banking at good rates. We would far rather see you do that rather than arbitrarily rewarding some shareholders over the objections of other shareholders frankly.
+
+Thanks, Jerome. Your objections are noted.
+
+Okay. Thank you. [Operator Instructions]
+
+This concludes the question-and-answer session. I would like to turn the conference back over to Tom Schmutz for closing remarks.
+
+I'd like to say wrap up and thank everyone for their interest in FLYHT. We're excited about the opportunities that we're pursuing, and the potential of that continues to exist in our technology. I was on the phone the other day with an industry insider, and this gentleman was very complementary about the space that FLYHT currently finds itself in. He indicated that he didn't know too many companies that were operating in a space that included aviation which has been a growth area, the Internet of Things which is a very large growth area, a company that provides software services and a company that provides real time communications. So all of these areas are sweet spots for current entrepreneurial activity, and all of these areas are areas that are growing currently. So despite the long runway that we've encountered as a company to this point, I do feel that FLYHT is extremely well-positioned to participate in the growth, and the team and I are working very hard to realize that growth. So with that, I wish you all to have a great day. Thanks.
+
+This concludes today's conference call. You may disconnect your lines. Thank you for participating and have a pleasant day.

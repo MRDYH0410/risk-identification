@@ -1,0 +1,214 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+Atif A. Rahim — Senior Vice President-Investor Relations & Business Development, R1 RCM, Inc.
+Joseph Gerard Flanagan — President, Chief Executive Officer & Director, R1 RCM, Inc.
+Rachel Wilson — Executive Vice President, Chief Financial Officer & Treasurer, R1 RCM, Inc.
+Sean Dodge — Analyst, RBC Capital Markets LLC
+Donald Hooker — Analyst, KeyBanc Capital Markets, Inc.
+Stephanie Davis Demko — Analyst, SVB Leerink LLC
+Eugene Mannheimer — Analyst, Colliers Securities LLC
+
+Management Discussion Section
+
+Question And Answer Section
+
+Ladies and gentlemen, thank you for standing by and welcome to the R1 RCM Q1 2021 Earnings Conference Call. At this time, all participants are in listen-only mode. After the speakers' presentation, there will be a question-and-answer session. [Operator Instructions]
+
+I would now like to turn the conference over to your speaker today, Mr. Rahim, Head of Investor Relations. Please go ahead, sir.
+
+Good morning, everyone, and welcome to the call. Certain statements made during this call may be considered forward-looking statements, pursuant to the Safe Harbor provisions of the Private Securities Litigation Reform Act of 1995. In particular, any statements about our future growth, plans and performance, including statements about our strategic and cost saving initiatives, our liquidity position, our growth opportunities and our future financial performance are forward-looking statements. These statements are often identified by the use of words such as anticipate, believe, estimate, expect, intends, design, may, plan, project and similar expressions or variations. Investors are cautioned not to place undue reliance on such forward-looking statements.
+
+All forward-looking statements made on today's call involve risks and uncertainties. While we may elect to update these forward-looking statements at some point in the future, we have no current intention of doing so, except to the extent required by applicable law. Our actual results and outcomes could differ materially from those included in these forward-looking statements, as a result of various factors, including, but not limited to the potential impacts of the COVID-19 pandemic and the factors discussed under the heading, risk factors in our Annual Report on our latest Form 10-K and in our latest report on Form 10-Q.
+
+We will also be referencing non-GAAP metrics on this call. For a reconciliation of the non-GAAP amounts mentioned to their equivalent GAAP amounts, please refer to our press release.
+
+Now, I'd like to turn the call over to Joe.
+
+Thanks, Atif. Good morning, everyone, and thank you for joining us. We issued three announcements this morning which will be the basis for a substantial portion of the agenda on today's call. In addition to Q1 earnings, we announced an agreement to acquire VisitPay, a leader in healthcare consumer payment solutions that simplify and modernizes the payment experience for patients while driving improved financial outcome for providers.
+
+The transaction provides a tax benefit valued at approximately $40 million, equating to an effective purchase price of approximately [indiscernible] (02:42). We also announced the strategic expansion of our agreement with Ascension along three broad categories; deployment of our PX solution architecture across ambulatory [indiscernible] (02:53) care, expansion of services performed out of the global shared service centers, and expansion of automation use cases across key functions. The new agreement also extends our Master Services Agreement to 2031, effectively a 10-year term.
+
+Let me start with a brief recap of Q1 earnings. I'm pleased to report that 2021 is off to a strong start. Our team continues to execute exceptionally well, and we are seeing this manifest itself in the results [indiscernible] (03:23) our customers. First quarter revenue, up $342.6 million and adjusted EBITDA of $80.4 million were both ahead of the expectations we communicated on our last earnings call. The upside was driven by higher incentive fees and lower operating costs.
+
+While patient volumes in aggregate remain below pre-COVID levels, we have successfully navigated the environment over the past year and believe we are very well positioned to serve our customers and the broader end market in the post-COVID environment. The tone and quality of discussions with prospective customers on our pipeline is very encouraging and gives us a high degree of confidence [indiscernible] (04:03) signing $4 billion in new end-to-end NPR in 2021. Technology is increasingly becoming the differentiating factor in many decision-making [indiscernible] (04:12). Our patient experience or PX platform is gaining prominence as providers are increasingly inclined to make revenue cycle sourcing decision based on what's best for their patients over and above other criteria.
+
+Additionally, automation presents an opportunity to fundamentally transform the nature of our industry and reduce the heavy reliance on labor that exists today. Our operational control across the entire revenue cycle process provides a unique lens and significant competitive advantage to drive this disruption. These two factors are the driving force behind our continued heavy investment in technology and the strategic rationale for the VisitPay acquisition.
+
+Before I discuss VisitPay in detail, let me provide some background on our PX platform. When we embarked on our PX journey [indiscernible] (05:02) we had two important ideas in mind; one, ease the burden on patients when they access healthcare; and two, provide a seamless intuitive journey across all care settings. At the time, the strategic potential of a solution such as this was clear. Patients are generally highly dissatisfied with their scheduling, billing and payment experience, and any transformation of the patient experience could potentially be a meaningful competitive differentiator for us as well as for our customers.
+
+Fast forward to today, I'm pleased to say we believe we have the most advanced, comprehensive technology solution to transform the patient experience. Our PX platform is integrated across care settings ranging from primary care to outpatient settings such as imaging, labs, same-day surgery, all the way through to inpatient surgery. With the acquisitions of SCI Solutions and Tonic last year, we significantly enhanced our in-house ability to digitize order intake, scheduling, registration and the authorization process, thereby delivering a robust cost-effective digital [indiscernible] (06:12) our customers.
+
+As we've deployed our PX solution to customers, we've seen several transformative results. More than 60% of the patient registration [ph] encounters are on self-service basis (06:22), NPS scores are above 75. And we have cut time spent on administrative tasks in that.
+
+We've also seen an improvement in collection rates and a decline in the percentage of patient accounts that progressed to late-stage collection activities that are a well-publicized [indiscernible] (06:44) for patients. These results have fueled our conviction to continue to invest heavily in PX. The next logical capability to bring it in-house is the technology to modernize the consumer payment ecosystem in healthcare.
+
+VisitPay is the leading consumer payments platform with a proven track record of driving improved payment experience and improved financial outcomes for providers. VisitPay makes the healthcare financial experience simple and efficient for both patients and providers in several ways. Let me provide a few examples.
+
+First, patients can digitally view simple, modern, and unified statements at the guarantor or family level across care settings. This is a critically unmet need in the market today. Second, patients receive coordinated tailored communications throughout their healthcare journey. These communications which are driven by machine learning and adapted for patient preference keep the patient informed and in control of the financial experience.
+
+Third, deep integrations with both health plans and HSA administrators offer [indiscernible] (07:52) and align 360 degree view for patients. Fourth, patients receive financing options that anticipate their need for payment flexibility. Advanced machine learning creates personalized payment recommendations that work for each patient's unique needs while improving provider revenue. And finally, with 10 years of curated data, from 300 million visits, we believe VisitPay has the most AI-ready dataset for patient payment behavior, a vital differentiator as we think about our broader investments in digitization.
+
+The patient satisfaction, loyalty, and retention driven by VisitPay's platform are significant. Two of the most important outcomes are a 40-point improvement in Net Promoter Score and a 35% improvement in patient yield, which is increasingly important given the increase in patient payment mix over the past several years. By combining VisitPay's capabilities with R1, we expect to have the richest payment related functionality healthcare providers can offer their patients, from pre-service through final bill resolution.
+
+We're excited about these capabilities, which will round out our PX offering to cover all patient access components, including integrated order and referral management and real-time scheduling with booking and appointment, comprehensive pre-registration, pre-authorization, and price estimation before patients arrive for their appointment, contactless check-in, and digital pre-service forms when they arrive for the appointment. And seamless digitized bill visibility and payment options pre-visit, at the point of care and post-visit with visibility across care settings and intuitive payment choices.
+
+We expect to formally launch this comprehensive solution [ph] mid-year (09:43) and we'll showcase it at the HIMSS Conference in August where we also hold an investor event to highlight this and other technology initiatives underway at R1.
+
+In addition to rounding out our PX platform, VisitPay allows us to establish a leading position in the consumer payments area. Healthcare consumer debt is arguably the largest and most inefficiently managed liability in our [ph] services economy (10:06).
+
+As we seek to solve high value problems to create a competitive advantage for providers, we can't think of a better space for disruptive innovation. And we believe we will be rewarded well for our investments in this area. VisitPay will also advance our technology platform with both access to a robust dataset to enhance our AI-based automation roadmap and patient contact capabilities which will enable us to reduce friction in the patient access and denials management domains.
+
+R1 will also gain substantial technical engineering talent as part of this acquisition which accelerates our technology roadmap. In addition to VisitPay's impressive standalone growth trajectory, we are also expecting meaningful costs [audio gap] (10:53) by deploying VisitPay's deep functionality across the $40 billion of NPR we have under management. Over time, we also see significant revenue synergies. Of note, our sales team is excited to communicate our enhanced end-to-end value proposition, since much of VisitPay's install base lies with large health systems similar to our target base of end-to-end customers.
+
+In summary, the rationale for bringing together R1 and VisitPay's capabilities was clearly compelling, further fueling our conviction were the results at some of our common customers where we've been able to generate value beyond what either company on a standalone basis would have been able [indiscernible] (11:33) We believe these proof-points are replicable across our customer base and a broad set of healthcare providers.
+
+Next, let me provide [audio gap] (11:42) focus on the Ascension agreement and ongoing deployment activities at LifePoint. I'm pleased to announce the strategic expansion of our revenue cycle services agreement with Ascension. This expansion can be broadly categorized into the following three areas; one, comprehensive deployment of our PX technologies solution across the acute and ambulatory environments; two, expansion of our scheduling scope and certain patient-facing services through our global delivery centers; and third, approval around a broader application of technology and use cases for automating key functions within our operations.
+
+As noted in my first point, Ascension will be standardizing its technology footprint for digital engagement and will now utilize R1's complete PX technology solution for both the acute and the ambulatory settings of care. Important to note, this technology expansion also includes a full suite of patient payment capabilities.
+
+In addition to the strategic expansion, we have extended our Master Services Agreement with Ascension through April of 2031. We expect this extension to be net favorable over the term of the agreement relative to our prior contract. In addition, the weighted average contract life for our end-to-end contracts is now nine years. This gives us a high degree of visibility as we think about making long-term investments to support future growth.
+
+Turning now to LifePoint. Onboarding continues to progress on schedule. We initiated Phase 1 onboarding in January and commenced Phase 2 in April. To date, we have welcomed over 700 employees from LifePoint to R1 and technology integration for Phase 1 hospitals is currently underway. We expect to commence Phase 3 in July with a goal of completing all deployment activities in mid-2022.
+
+On a related note, we are pleased to have welcomed David Dill, LifePoint's CEO and President to R1's Board, deepening our strategic partnership. His depth of healthcare expertise and broad vantage point will be invaluable to the company.
+
+Next, I'd like to turn to our automation efforts. We are highly committed to this effort as it presents an opportunity to fundamentally transform the industry by reducing the latency and inefficiency that exists in the revenue cycle management infrastructure today. The 15 million tasks we automated by early 2020 delivered approximately $20 million in EBITDA benefit last year. We now have 40 million tasks in production, up from 30 million as we exited 2020.
+
+These 10 million incremental tasks cover 8 new routines and demonstrate an accelerated development pace. The modular nature of our development approach allows us to develop new routines at a faster pace, by reusing and adding to existing automation code. Additionally, the investments we have made in additional core capabilities beyond just RPA, including optical character recognition, natural language processing, expert rules and machine learning, workflow integration and analytics have expanded our automation coverage of any given workflow.
+
+In closing, we remain very excited about our business prospects going forward. To recap the key messages from today's call; our team continues to perform exceptionally well, and this is translating directly to our financial performance. With our Q1 results, we are off to a strong start for the year and look forward to continued strong execution going forward.
+
+End-market dynamics remain very favorable and we have a high degree of confidence in adding $4 billion in NPR from new end-to-end deals in 2021. VisitPay rounds out our PX platform via a market leading consumer payment platform and establishes a leading position in the broader consumer payments ecosystem. Our expansion of the Ascension agreement is a meaningful validation of our PX technology solution and the expansion is net favorable vis-à-vis our prior agreement. We continue to invest heavily in automation and the modular nature of our development approach allows us to develop new routines at a faster pace.
+
+Now, I'd like to turn the call over to Rachel.
+
+Thank you, Joe, and good morning, everyone. We're pleased to report strong first quarter results with revenue of $342.6 million, up 6.9% year-over-year, and adjusted EBITDA of $80.4 million, up 30.5% year-over-year. Adjusted EBITDA margin for the quarter was 23.5%, up [ph] 430 (16:23) basis points from 19.2% in Q1 2020 driven largely by significant higher incentive fees.
+
+Reviewing the first quarter results in more detail, net operating fees of $286.1 million increased 1.9% or $5.2 million year-over-year primarily driven by revenue from new customers and partially offset by anticipated COVID-related volume pressure. On a sequential quarterly basis, net operating fees increased $14.7 million driven by continued recovery in patient volumes.
+
+Incentive fees of $29 million were up $12.2 million over the prior year and $1.6 million sequentially driven by strong operational execution. Other revenue of $27.5 million increased 20.6% or $4.7 million year-over-year driven by contribution from SCI, which was somewhat offset by lower revenue from physician advisory services due to COVID-related volume decline.
+
+The non-GAAP cost of services in Q1 was $242.8 million, compared to $237.6 million last year driven by costs associated with serving new customer and onboarding LifePoint. Importantly, our automation and digitization efforts continued to drive efficiency, which helped keep costs of services flat sequentially and down 330 basis points year-over-year. Non-GAAP SG&A expenses of $19.4 million were down almost 9% year-over-year, primarily due to lower travel and marketing costs as well as corporate cost control actions. On a sequential basis, SG&A costs decreased $3.4 million as Q4 results included $1.6 million in payroll taxes related to the vesting of employee stock awards.
+
+Adjusted EBITDA for the quarter was $80.4 million, up $18.8 million or 30.5% year-over-year. This increase was largely due to higher incentive fees further magnified by our automation and digitization efforts helping lower costs. Lastly, we incurred $13 million of other costs in Q1 related to the rationalization of our real estate footprint, ongoing COVID-related expenses, and costs associated with strategic initiatives including the VisitPay acquisition and the capital structure simplification transaction, which we completed in January.
+
+Turning to the balance sheet. Cash and cash equivalents at the end of March were $103.5 million compared to $173.8 million at the end of December. Use of cash in the quarter was largely due to the $105 million payment for the conversion of preferred shares to common as well as CapEx of $9.6 million. We generated $46 million in cash from operations in Q1 driven by adjusted EBITDA growth in the quarter. We remain focused on generating strong cash flow from operations. And one of our focus areas this year is to carefully manage our AR days, which increased last year primarily due to AR associated with the RevWorks and SCI acquisitions. We also expect our other expense line to moderate excluding expenses related to M&A activities.
+
+Net debt at the end of March inclusive of restricted cash was $444.1 million compared to $379.8 million at the end of December. The increase was driven by use of cash for the capital structure transaction. Available liquidity at the end of Q1 was an excess of $130 million, consistent with commentary on the Q4 earnings call. We believe our liquidity is sufficient to invest in and grow the business while navigating the current environment. In order to provide additional flexibility and to fund the VisitPay acquisition, we intend to refinance our current credit facilities concurrent with the completion of the acquisition and expect improved liquidity and pricing as a result of the refinancing.
+
+Turning to our financial outlook, we continue to expect revenue of $1.41 billion to $1.46 billion and adjusted EBITDA of $315 million to $330 million for 2021. We continue to assume the patient volumes remain at 90% to 95% of pre-COVID levels in line with our experience year-to-date across our customer base. We expect to update our guidance after completion of the VisitPay acquisition.
+
+R1 will acquire the business for approximately $300 million in cash in a transaction that provides a tax benefit valued at approximately $40 million, equating to an effective purchase price of approximately $260 million. To give you a sense of VisitPay's financial profile, the growth is strong with greater than 70% compounded in annual revenue growth over the 2019 to 2021 period and comes with a very compelling gross margin profile. Beyond 2021, we expect VisitPay to be accretive to growth and margin.
+
+Consistent with my comments on our last call, we expect Q2 revenue in the range of $335 million to $345 million and adjusted EBITDA of $65 million to $75 million. As previously noted, the anticipated sequential decline in adjusted EBITDA is largely a function of upfront costs associated with onboarding the LifePoint contract.
+
+Before I conclude, I want to briefly touch on our ESG initiative. We published our inaugural ESG report in March and we are pleased to have received a lot of positive support and feedback. [ph] We take to enhance (21:57) the interest of all of our stakeholders through our ESG commitments that are centered on innovation, integrity and inclusion. Our report can be viewed at r1rcm.com/esg, and as always, we welcome your perspectives.
+
+In closing, I'm pleased with our continued execution, that delivered Q1 results ahead of our expectations. The fundamentals of our business remain strong and we look forward to maintaining the momentum demonstrated in Q1 as the year progresses.
+
+Now, I'll turn the call over to the operator for Q&A. Operator? [Operator Instructions]
+
+Your first question comes from the line of Sean Dodge with RBC Capital Markets.
+
+Thanks. Good morning, and congratulations on the quarter. On the revenue outlook, Joe you mentioned a high degree of confidence in your NPR target. Maybe digging into that a little bit more, you've said before, you've been very active on the RFP front, including a handful of several large ones. Can you give us a sense of how those are progressing? Are all of them still active? Have some been decided now? And then maybe anything else you can kind of share about the sales pipeline, sales outlook and how we should think about you hitting that $4 billion over the coming quarters?
+
+Yeah. Thanks, Sean. Just a couple of comments to provide additional color on progression of pipeline. The first thing is, I would say, linking to your question, I would say, yes, the RFP activity is active and we are progressing that nicely through the different phases of the pursuit process, commercial pursuit process. The second thing I would say is our in total active end-to-end pipeline is up 175% since the start of the year. So, we're also seeing – we're seeing active opportunities progress to later stages which underpins some of our view on the year. And then in totality on end-to-end basis, we're seeing the total pipeline in aggregate grow nicely.
+
+So, we continue to feel really good about the end-to-end offering, the end-market receptivity, and we're seeing that across the board in that overall commercial pipeline dimensioning. In addition to that, and I think another indicator of the flexibility we have in our offerings, we booked 24 new modular agreements with new customers in Q1, and the overall revenue bookings was 74% ahead of our internal target. So, we continue to see just broad-based positive activity in the end market and that's some of the dimensioning that I'd show, Sean.
+
+Okay. Great. And then, maybe along the lines of what you just announced here with the Ascension and the complete adoption there now of your PX solution. If we think about the cross-selling opportunity across the other parts of your current base, can you give us an idea of what proportion is currently using all the components of your PX platform? Maybe just kind of how we should be thinking about the size, the potential around cross-selling into the other parts of the kind of the non-Ascension space?
+
+Right. Yeah. The way I would describe that is with our two probably most mature deployments, that being Ascension and Intermountain. And Ascension and Intermountain have a little bit different strategies as it relates to their digital intake, but we're pretty penetrated with this announcement on Ascension across those two customer bases. There's some opportunities on the edge, but what I would really point to is the book of business outside of those two anchor customers, obviously LifePoint, Quorum, AMITA, Rush, Penn State, et cetera [indiscernible] (26:28) significant white space for us to expand into.
+
+And as I said, increasingly our goal is seamless integration across care settings, so that's ambulatory, acute, and increasingly based on our development roadmaps, post-acute setting. And then as well as seamless integration across the workflow, and what I mean by it in terms of workflow, by the order intake, the referral process, scheduling signals, financial clearance, i.e., the registration off-trade, et cetera, and that process, and then finally the payment process. So, that overall value prop is resonating and we see strong receptivity to that in our captive end-to-end customers.
+
+Okay. That's very helpful. Thanks again.
+
+Great. Thanks, Sean.
+
+Your next question comes from the line of Donald Hooker with KeyBanc.
+
+Great. Good morning. I understand the acquisition of VisitPay, but I was curious if you all could provide any detail on VisitPay's financials itself, like what exactly are you acquiring financially? Is it the company [indiscernible] (27:44) Kind of what kind of revenue should we start building in and EBIT – are there other large EBITDA losses? Can you elaborate on some of the financials of the company you're acquiring?
+
+Yeah. What I would say Don is, I'll just use a full-year kind of basis. So we look to – if we look to 2022, we would expect this business to do about $41 million, $42 million in revenue, and we would expect it to contribute conservatively $7 million to $8 million in EBITDA. As Rachel mentioned in her commentary, this business has been growing at 70% compounded over the trailing three years. So, it's got a very high-growth profile, and it's got a very compelling gross margin rate that comes with that growth.
+
+But maybe equally important, there are significant what I'll call, captive operational synergies. And what I mean by that is that's where we're not dependent on the external markets for growth. We're just to a large degree in control of fully deploying the VisitPay platform across our contract and book of business. And those synergies come in the form of digitizing interface with the patients around the payment process, which allows us to lower our cost structure.
+
+The second thing is improving the yield, which contributes to our KPIs. And the third thing is we think over time, we will be able to materially shift onto the VisitPay platform digitized statements or online bill presentation. And today, we have a significant amount of cost that still exists in print statement operations. Somewhat tactical, but it's without a doubt from our standpoint, a synergy that we have a high degree of confidence in. The collective bulk of that is probably at maturity more than twice VisitPay 2022 contributed EBITDA.
+
+So, when we roll all that in, not even counting for net new growth, we think we can go get – we think, on a synergized basis with only assuming our operating control synergies, this is a very accretive transaction for us.
+
+Got it Joe. Okay. That makes sense.
+
+We're taking a very strategic – a very strategic technology capability in the eyes of the end-market.
+
+Got you. I mean, just to be clear, so there's the synergies which make a ton of sense, that'll probably phase into your P&L over the next few years. And then if – just on a stand-alone basis, you're saying $41 million, $42 million of revenue next year, obviously high growth. It would just be clear if...
+
+Yeah. Growing at – yeah. Growing at 70% trailing. That growth will come in as the business grows. But still in any scenario, going to be from our standpoint looking out past 2022 off of that basis, a very high growth business and a very high margin business.
+
+Sure. And then maybe just as a follow-up. Also would love to hear – I mean VisitPay has been around for a while. I think I'm just looking at their – not familiar with them, obviously. But it looks like they have some nice logos on their website, of different health systems they work with, some of which are RCM's clients and some which are not. Can you just talk about kind of any maybe client introductions or kind of overlap or what their client base looks like?
+
+Yeah. No, one of the things that as we looked at the different targets in the patient payment ecosystem, one of the things we really liked about VisitPay's platform is they've actually served some of the most sophisticated health systems. And you can see that in their logos as you referenced, Don. And from our vantage point, that's a really important capability – demonstrated capability that we liked about their profile. We know how hard it is to serve some of the leading health systems, and those are health systems that are run very, very well.
+
+So when you see a technology that's driving incremental improvement, whether that be in the patient experience or in the financial outcomes, that is a true proof-point from our standpoint to the leading position that VisitPay has. That's the first point.
+
+The second point is, right after this call we've got probably 20 calls with prospects, meaning not current customers where we're really excited to introduce this acquisition, talk with those potential net new customers about the enhanced value prop we're bringing to the market. And that's an indication Don of some of the growth synergies that in my prior comments I didn't even include. But we do think there's potential over time for those to be significant and potentially outweigh the captive operational synergies that we used in our underwriting case.
+
+Great. Well, sounds interesting. Good luck, and thanks for taking my question.
+
+Thanks, Don.
+
+Your next question comes from the line of Stephanie Davis with SVB Leerink.
+
+Hey, guys. I echo my congrats on a very busy quarter.
+
+Thanks, Stephanie.
+
+Kind of following on the last question, I was hoping to hear about how you chose VisitPay among the many payment providers in the health tech universe. And just given some of your prior investments on the patient experience platform, what nudged you closer to [ph] buy over build (33:46)?
+
+Yeah. One of the things – as I mentioned, one of the factors for us choosing VisitPay was their demonstrated value prop into our target customers. So again, that was without a doubt a factor in terms of our calculus.
+
+The second thing is, we have had an opportunity over the past couple of years to have a part – buy-sell partnership with VisitPay. Now what I'll say is, we have not taken full advantage of that, you know just because of all the priorities that we've had ongoing around deployment and growth and absorbing those things. But we know via that partnership and we saw firsthand the results that we could generate.
+
+The third thing is, as we got into deeper discussions with VisitPay, we were really, really impressed with the human capital or the talent they have in the company. And I would particularly emphasize along the following three lines; their growth, their sales team, and their channel for growth. The second thing is their marketing and some of the commercialization and productization skills that they have. And then finally and most importantly, with the technology development profile. And so, you know, talent was a big factor for us.
+
+And then the third or final thing is really just the advanced analytics and algorithms they have around serving the patient with very tailored financing options, and we think that's a key differentiator above and beyond just a bill presentation platform, which obviously is very, very important. But at the end of the day, those deep insights and the analytics that they've built over the past 10 years, we think are compelling and differentiated to their peers.
+
+Understood. So kind of that's your PX development capabilities going forward as well?
+
+Yeah. I don't think – I think we're in really good shape from [indiscernible] (36:10) capability in every one of the workflow stats. There are call it, organic investments have been and are going to continue to be around the deep integration across the process flows, so across that workflow continuum and deep development work to ensure we seamlessly integrate across care settings.
+
+So, I mentioned ambulatory and acute. That was a big strategic driver in our discussions with Ascension. And then I would say looking forward, we anticipate making significant investments organically via our technology teams around extending that workflow continuum into the post-acute setting of care, which we think there's a significant opportunity.
+
+And then the final thing is from our standpoint, off of the PX platform, we think there's a very logical extension of some of these services to better serve the clinician or the provider. So, those are some areas on our internal development roadmap looking forward that we're very focused on.
+
+Just one last follow up for me. Just given this acquisition and the extended extension contract, how does it change your relationship with Phreesia if at all? And do you know if Ascension is still interested in expanding the hardware component given kind of the changing views on that with COVID?
+
+Yeah. I really don't want to get into – it wouldn't be within my perspective to get into Ascension strategies from an IT standpoint on hardware. But I would – what I would say is we're very focused on solving a very complicated problem, which is, and I'll keep referencing this, the integration – the seamless integration in the eyes of the patient across care settings and across workflow. And for us to solve that problem, we have to go very deep on the integration of technology. And that underpins kind of all of our bias and our actions.
+
+Now, there will be different personas of customers and there will be customers that don't necessarily want to embark or they're not prepared at this point in time to embark on that journey. And they just need a very compartmentalized solution set. And so I think our focus and what I would draw your attention to is our focus is along those lines, and we feel and we're hearing from our current customers as well as target customers who by our own admission are the larger kind of integrated health systems that they really would like us to bring that value prop to the market. And so, that's where our internal efforts lie, which is maybe not the same end market as some of the intake companies.
+
+That is a super helpful clarification. Thank you, and congrats again.
+
+Thanks, Stephanie.
+
+There are no further questions at this time. I would now like to turn the conference back to Joe Flanagan – we do have a question. I'm sorry...
+
+Go ahead, Gene.
+
+Thanks, Joe. Good morning, everybody, and congrats on this quarter. Did you talk about the client overlap with VisitPay? In particular the – maybe quantifying the market opportunity of the cross-selling into your base and vice versa – excuse me – maybe RCM into their base? And up to this point, do you have any of your own patients' functionality that maybe is going to be replaced either self-developed with your script library or are your customers' generally using third-party applications for this function now? Thank you.
+
+Yeah. So, let me first cover – just give a little bit more color on client overlap. VisitPay serves Intermountain. So, we work with them in that setting. And as I mentioned before, they're personally deployed at Ascension. We will fully deploy the platform at Ascension. And then in our captive book of business outside of those two anchor clients, there are significant white space for us to deploy. Now, as part of that deployment, we will be displacing third-party patient payment platforms that exist in that third-party spend that with our contractual frameworks and transition to our control. And that's very much in line with comments that I've had in the past where we have an internal technology platform and we have very broad coverage of the process with our captive technology. We displace and insource, integrate and simplify for our customers their technology ecosystem, and that will occur with VisitPay.
+
+If you look at VisitPay outside of primarily Intermountain, and you can see some of their logos on their website, whether that be Inova, Carilion Clinic, Geisinger, Henry Ford, you start to get a sense that from our standpoint, they've done the hard work of trying to penetrate the leading integrated delivery systems. And that's squarely in our strategic focus from a growth standpoint. It's early innings, we're just starting the process. But I'm generally optimistic that those discussions were received well and we'll have a lot of focus from our commercial teams, securing those relationships and look to convey the value on a broader basis that we can deliver via the partnership.
+
+So, that's how I would characterize, Gene, kind of the spectrum of call it install base and client potential synergy.
+
+Very helpful. Thank you.
+
+Thanks, Gene.
+
+Angie, if we don't have any more questions, just a thank you for your help today moderating the call. And thanks to everybody for joining us today. We are very excited about the developments that we're announcing and look forward to updating you on progress on an ongoing basis in future calls. Thanks again for all your participation.
+
+Thank you for participating in today's conference call. You may now disconnect your line at this time.

@@ -1,0 +1,162 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+Arden Xia — Director-Investor Relations & Communications, HollySys Automation Technologies Ltd.
+Baiqing Shao — Co-Founder, Chairman & Chief Executive Officer, HollySys Automation Technologies Ltd.
+Steven Wang — Chief Financial Officer, HollySys Automation Technologies Ltd.
+Kevin Luo — Analyst, Morgan Stanley Asia Ltd.
+Alex Chang — Analyst, Citigroup Global Markets Asia Ltd.
+Jacqueline Du — Analyst, Goldman Sachs
+Ling Xin Kong — Analyst, China International Capital Corp. Ltd.
+
+Management Discussion Section
+
+Question And Answer Section
+
+Ladies and gentlemen, thank you for standing by, and welcome to the Hollysys Automation Technologies Earnings Conference Call for the First Quarter of Fiscal Year 2020 ended September 30, 2019. At this time, all participants are in a listen-only mode. There will be a presentation followed by a question-and-answer session. [Operator Instructions] Please be advised that this conference is being recorded today, November 14, 2019, Beijing Time.
+
+I would now like to hand the conference over to Mr. Arden Xia, the Investor Relations Director of Hollysys Automation Technologies. Thank you. Please go ahead, Mr. Xia.
+
+Hello, everyone, and thank you for joining us. Today's speakers will be Mr. Baiqing Shao, CEO of Hollysys Automation Technologies; Mr. Steven Wang, CFO of Hollysys Automation Technologies; and myself, the IR Director of Hollysys.
+
+On today's call, Mr. Shao will provide a general overview of our business, including some highlights for the first quarter of fiscal year 2020, Mr. Steven Wang will discuss our performance from financial perspective, and we will answer questions afterwards.
+
+Before getting started, I would like to remind everyone that this conference call may contain forward-looking statements within the meaning of Private Securities Litigation Reform Act of 1995. Forward-looking statements are the statements that are not historical facts, including statements relating to the expectation growth of Hollysys' future product introductions, the mix of products in future periods, and future operating results. Such forward-looking statements based upon the current beliefs and expectations of Hollysys' management are subject to risks and uncertainties which could cause actual results to differ from the forward-looking statements.
+
+The following factors, among others, could cause actual results to differ from those set forth in this statements: Business conditions in China and in Southeast Asia, continued compliance with government revelations, legislation or regulatory environments, requirements or changes adversely affecting the businesses in which Hollysys is engaged, cessation or changes in government incentive programs, potential trade barriers affecting international expansion, fluctuation in customer demand, management of rapid growth and transition to new markets, intensity of competition from or introduction of new and superior products by other providers of automation control system technology, timing approval and the market acceptance of new product introductions, general economic conditions, geopolitical events or regulatory changes, as well as other relevant risks detailed in Hollysys' filing with Securities and Exchange Commission.
+
+The information set forth herein should be read in light of such risks. Hollysys does not assume any obligation to update information discussed in this conference call or in its filings. Please note that all amounts noted in this conference call will be in US dollars, unless otherwise noted.
+
+I'd now like to turn the call to Mr. Baiqing Shao. Please go ahead, Mr. Shao.
+
+Thank you, Arden, and good evening to everyone. I would like to discuss some key events during this quarter.
+
+IA business finished the quarter with a revenue and a contract at $64.6 million and $84.0 million, achieving 12.0% and 4.6% year-to-year growth, respectively. Under the guidance of our 3+1+N strategy, we continued our effort in market penetration in different industries. In our power business, we signed a contract to provide a control solution to urban heat supply network, which is the first project of this kind for Hollysys. In chemical business, we have officially completed the milestone Zhong'an coal-chemical project and will continue to provide maintenance and other services afterwards. The project is one of the largest MAV-DCS projects for Hollysys, and we provided total solution covering the integration of up to 10 systems including control system, asset management systems, alarm system, gas detection system, et cetera.
+
+In the petrochemical industry, with our DCS and SIS being certified by CCS, China Classification Society, earlier this year, we are better qualified in providing control solution in offshore oil related business. Our strategic relationship with CNOOC, China National Offshore Oil Corporation, proceeded further as we signed several contracts with them in providing control solution to their offshore oil platform this quarter.
+
+Besides the market penetration through the newly-built projects, we have kept leveraging on our national-wide network to respond to the aftersales demand of different industry, especially as the control products are approaching the end of life cycle. We maintained a close relationship with our existing customers through various types of aftersales service, while also exploited the opportunity in obtaining new clients through replacement and upgrade project, especially in the chemical and the petrochemical industry.
+
+We are also build up our capability in providing more comprehensive solution covering full life cycle of the project. With the recently completion of the acquisition of a small pharmaceutical and chemical design institute, we are able to get involved in potential projects at earlier stage of the future for better opportunity. In our smart factory solution, following our previous breakthrough contract in the power industry, we have signed several contracts this quarter with a both existing and a new customers from the chemical industry. Such will be long term cooperation so as to turn their products smart comprehensively step by step. We have also broadened with our industrial software solution matrix, as we launched a new solution that help to optimization emission control and signed the first contract with a client from the power industry.
+
+Railway business finished the quarterly with a revenue and a contract at $44.6 million and $21.0 million, recording 11.5% and 70.6% a year-to-year decreases, respectively. In the high-speed railway business, the bidding pace of CRC has not met the expectation of the market. We continued to provide aftersales service on our high-speed railway signaling products covering software upgrade, spare parts sales, maintenance and replacement. Meanwhile, we are also actively preparing ourselves for new products and service in the aftersales high-speed railway market.
+
+In the inter-city high-speed railway business, we signed contracts to provide ATP with automatic train operation function to the Pearl River Delta region. In subway business, the subway line for the new Beijing Daxing Airport commenced business operation in September, with Hollysys being the provider of SCADA solution that supports driverless operation.
+
+Going forward, our rail business will continue to adhere to the diversity strategy for stable and healthy growth and to improve our local service network for more value-adding and differentiated services. With urbanization as ongoing process, we will keep – keeping leveraging our strong R&D capacity and prepare for the application of various types of railway transportation system in the future.
+
+M&E business finished the quarter with revenue and contract at $14.0 million and $33.6 million, recording 54.2% year-to-year decrease and 128.0% year-to-year increase respectively. Given the macro economy in Southeast Asia and the Middle East, risk control remains to be the key focus of our M&E business. In IA oversea business, progress is constantly made in terms of establishment of the new cooperation with new key EPC players, as well as ongoing cooperation with existing partners. Going forward, we will continue our effort in developing partnership with key EPC players and strengthen localization in manufacturing, marketing and services in oversea business.
+
+With that, I'd like to turn the call over to Steven Wang, who will read the financial result analysis.
+
+Thank you, Mr. Shao. I would like to share some highlights for the first quarter and in September 30, 2019. Comparing to the first quarter of the prior fiscal year, the total revenues for the three months ended September 30, 2019 decreased from $138.7 million to $123.2 million, representing a decrease of 11.2%. Integrated contract revenue decreased by 10.4% to $104.5 million, product sales revenue decreased by 23.8% to $6.1 million, and services revenue decreased by 9.9% to $12.6 million.
+
+The company total revenues can also be presented in segments as follows. For the first quarter, industrial automation revenue achieved $64.6 million, Rail Transportation Automation revenue $44.6 million, Mechanical and Electrical Solution revenue, $14 million. Overall non-GAAP gross margin was 37.7% for the three months ended September 30, 2019 as compared to 37.2% for the same period of the prior year. The non-GAAP gross margin for integrated contracts, product sales and services were 32.6%, 79.9% and 59.5% for the first quarter compared to 30.8%, 75% and 67.9% for the same period of the prior year respectively. The gross margin fluctuation was mainly due to the different revenue mix with different margins.
+
+Selling expenses were $7.3 million for the first quarter representing a decrease of $0.4 million or 5.6% compared to $7.7 million for the same quarter of the prior year. Selling expenses were 5.9% and 5.6% for the three months ended September 30, 2019 and 2018 respectively.
+
+Non-GAAP G&A expenses were $10.6 million for the first quarter, representing an increase of $2 million or 23.6% compared to $8.6 million for the same quarter of the prior year. Non-GAAP G&A expenses were 8.6% and 6.2% for the quarters ended September 30, 2019 and 2018 respectively.
+
+R&D expenses were $8.9 million for the first quarter, representing an increase of $0.1 million or 2% compared to $8.8 million for the same quarter of the prior year. Presented a percentage of total revenues, R&D expenses were 7.3% and 6.3% for the quarter ended September 30, 2019 and 2018, respectively.
+
+The VAT refunds and government subsidies were $3.5 million and $3.5 million for the quarter ended September 30, 2019 and 2018, respectively. The income tax expenses and effective tax rate were $6.2 million and 17.3% for the first quarter as compared to $5.5 million and 16.3% for the comparable prior-year period. The effective tax rate fluctuation was mainly due to the different pre-tax income mix with different tax rates, as company's subsidiaries are subject to different tax rates in various jurisdictions.
+
+The non-GAAP net income attributable to Hollysys was $29.8 million or $0.49 per diluted share. This represent a 6.1% increase over $28.1 million or $0.46 per share for the comparable prior-year period. On a GAAP basis, net income attributable to Hollysys was $29.7 million or $0.49 per diluted share, representing an increase of 6.4% over $27.9 million or $0.46 per diluted share reported in the comparable prior-year period.
+
+Contract and backlog highlights, Hollysys achieved $138.6 million of new contracts for the first quarter ended September 30, 2019. The backlog of September 30, 2019 was $578.9 million. The detailed breakdown of the new contract and backlog by segments is as follows. The new contracts achieved the first quarter ended September 30, 2019, industrial automation new contract, $84 million; rail transportation, $21 million; mechanical and electrical solutions, $33.6 million. Backlog as of September 30, 2019, industrial automation backlog $195 million; rail transportation $288.9 million; mechanical and electrical solutions $94.6 million.
+
+Cash flow highlights, for the first quarter ended September 30, 2019, the total net cash inflows was $15.3 million. The operating cash flow was $39 million. The investing cash flow was $8.1 million and mainly consists of $31.9 million of matured time deposit and $4.5 million of proceeds received a disposal of an equity investment, which was partially offset by $27.8 million of time deposit placed with bank. The net cash used in the financing activities was $20.3 million and mainly consisted of $20 million repayments of bonds payables.
+
+Balance sheet highlights, the total amount of cash and cash equivalents were $340 million, $332.5 million and $276.9 million as of September 30, 2019, June 30, 2019 and September 30, 2018, respectively. For the three months ended September 30, 2019, DSO was 204 days as compared to 170 days for the comparable prior-year period and 160 days for the last quarter. The inventory turnover was 56 days as compared to 51 days for the comparable prior-year period and 40 (sic) [42] days for the last quarter.
+
+Operator, please.
+
+Thank you. Ladies and gentlemen, we will now begin the question-and-answer session. [Operator Instructions] Your first question comes from the line of Kevin Luo from Morgan Stanley. Please ask your question.
+
+[Foreign Language] (00:19:29)
+
+[Foreign Language] (00:19:33)
+
+Hi. It's Morgan Stanley, Kevin.
+
+The first question for – about this quarter compare the railway transportation compare decrease, so what about this quarter will deliver – delivering of the ATP contract? And also at end of this year in December around that, could you give us some hint about the delivering timeline within from your side of the ATP on the Rolling Stock timeline and also the differences between the Rolling Stock delivery and your ATP signaling control system delivering differences. I mean, it's well after for one month after delivering of the Rolling Stock or what kind of timeline?
+
+And the second question for you, industrial automation backlog and current position is compare high within history and could you give to us the proportion breaking down by different sub-verticals like the thermal, the coal power, the chemical, petrochemical et cetera? And also please give us the prediction for the future trend within IA of the backlog. Thank you.
+
+Let me finish the translation.
+
+The first question about the ATP and actually it really depends on the CRC, China Railway Corporation's speed to require us to deliver sometimes at the end of this year would [ph] catch up this spring cash flow (00:25:57), sometimes not. So this really depends on the situation. And currently this year, the CRC open meeting for 146 sets of ATP and we get 40 set ATP, 30%. And also it will be delivering for the coming months.
+
+The industrial automation actually we've not provided the breaking down proportion for the backlog. But generally speaking, for the new contract, to separate by different industry, like the power, we take around 40% to 45% chemical – petrochemical, take around 40% to 45%. And a future trend that we see you thinking that industrial automation will keep growth.
+
+And also, we discussed just about the ATP whether or not we'll finish the delivery for the 40 sets of this time, but it still depends. And finally, CFO mentioned about if considering the first quarter of this year and the second quarter together, we think the first half year of fiscal year 2020, the railway transportation should be compare increase, because based on current backlog and the potential delivery, we think the revenue catch up positive growth.
+
+Thank you, Kevin.
+
+Operator, next one, please.
+
+Your next question comes from the line of Alex Chang from Citi. Please ask a question.
+
+The question is for about railway transportation segment and also mentioned by Kevin, I want to continue to ask about the prediction for the performance of railway transportation for fiscal year 2020, because currently, the CRC bidding process enter the market acceptance – expectation. So what about the prediction for this fiscal year performance of railway transportation?
+
+At the end of this calendar year and at the beginning of next calendar year, it would have the ATP bidding for the new sets of the high-speed rail signaling control system. And based on current backlog and the prediction, we think in the whole fiscal year performance for the railway transportation could keep – I mean compare just make – compare the same or just a little bit increase, [ph] we will through (00:30:24) the aftersales services, aftersale revenue to catch up the potential and expectation of the bidding process. So, the railway transportation would still performance good.
+
+I still want to ask about the new products like the Track Circuit, like the subway CBTC system and for the future, of the whole fiscal year how much percentage within the backlog contribute come from these new products and also when the subway CBTC system could start the first the contract?
+
+The Track Circuit is still within test procedure. So it will not contribute too much within the backlog for the fiscal year 2020. And the CBTC systems is still on the rail side for the small project, but not too large contract. So it is either not to contribute to the railway transportation revenue within the 2020, but we will try our best to get the first large contract from this CBTC system.
+
+The last one more question relate to the P&L. The P&L shows two new items. Gain – one is gains on disposal of investments in equity investee, around $5.8 million and another one for the equity investee also right – booking around $1.5 million. What about the things behind of these two items?
+
+Okay. Let me finish translation.
+
+The first one for the $5.7 million about gain on disposal of investments in equity investee, that represent the IPE company. We sold our shares in one of our joint stock company called IPE and the difference between the price sold and our share original book value is recognized as gain.
+
+And also, Alex further asked about what kind of background of this company. And this company is focused on the biotech related testing. And also, Alex asked about why you sold this company because you are – announced you also got a pharmaceutical design institution. Is this any conflicts between – to each other. The answer is no because the IPE is really focused on the bio testing. But what we knew acquired the pharmaceutical design institution is for our big comprehensive solution, because it can take full cycle of the pharmaceutical industry process control and it can support the business, have the synergy for the future. But the IPE joint stock company is not. So this is the first one.
+
+The second question relate to the $1.5 million, that would be cost to equity investee and we get the dividend, is a kind of investment gain. And also Alex asked about whether or not it's sustainable.
+
+It's not sustainable. It just depends on different quarter performance by the companies itself. So it could fluctuate over time. Thank you.
+
+Your next question comes from the line of Jacqueline Du from Goldman Sachs. Please ask your question.
+
+The question is about industrial automation, and we could see the company put a lot of resources within the chemical, petrochemical industry. And I also – we mentioned about Zhong'an coal project and this time, you mentioned about the new project for the [ph] COOPC (00:41:41) and is it the same project? And also, I want to know about what the capability you are increasing within the chemical, petrochemical? And for the fiscal year 2020, is there any other new large project that will join?
+
+And thank you for your questions. Actually, we really put a lot of resources within the chemical, petrochemical. We'll hire the experts and also even the very famous ones within the industry, and to increase – set up our brand name and let the customer know us. And right now, the Zhong'an project is not the same as this time we said about the CNOOC project. The Zhong'an project that is the largest one chemical project within China, and we finished the whole project right now, and got the admission by these customers, and this can demonstrate the Hollysys' capability. And then the CNOOC project is also very important because we finished certified by CCS. If you're certified by CCS, you can participate in the offshore oil platform project. So this has created new one for the Hollysys. And we will continue to sign the large project with the large state-owned enterprises within the chemical, petrochemical industry for this year, and we think the next half we could contribute more to this industry.
+
+I want to make a supplement, ask question about, if from the competitive thinking, what about the current market share for the chemical, petrochemical, and what about the future, the market share you want to achieve?
+
+The chemical, petrochemical [indiscernible] (00:46:05) actually for the former years, we were focused on the power and not put in more – enough resources within chemical, petrochemical. So we're behind that. And right now, we are catching up and we think we will very quickly to penetrate the market. But from the market share to say it's hard to give you the data, because there is no statistical bureau and also is very fragmented within the sub industry. And maybe in future, but right now, we have no data on hand. Thank you.
+
+Because of the time constraint, the last one question. Thank you, operator.
+
+Your final question today comes from the line of Kong, Ling Xin from CICC. Please ask your question.
+
+Okay. The first question, I want to ask a detail about your set, the ATP, when and 40 sets? The 40 sets means how many trains actually?
+
+And that this answer, the sets, each train, rolling stock train, have two sets of ATP. So, it should be 20 rolling stocks.
+
+Okay. [Foreign Language] (00:48:16-00:49:42)
+
+And let me finish the translation. Sorry.
+
+Okay. Sure.
+
+This question about Mr. Kong said, actually the CRC, the open bidding for the trains, more than 100 trains. So if calculated by your side, you have 20, it's not one-third of market share. And I want to make a clarify that we see the one-third market share, no problem, but maybe whether or not 20 rolling stock or 40 rolling stock, we have to double check, because the data right now, we're not – as the same, but we based on the press release by the CRC. So, no matter what kind of numbers, we get one-third the market share, have no doubt.
+
+Okay. Thanks. The second question about the railway transportation new contract, then CFO Mr. Wang said the performance revenue for the railway transportation for the Q1 and the Q2 was – turns to positive. But I want to ask this from the new contract aspect, could you give some prediction for the new contract of railway transportation for the first half fiscal year compare increase or decrease?
+
+And in the revenue, we give the prediction is based on the execution of the projects and backlog. So, this is through the achieved, but based on the new contract, it's hard to say, it's really depends on CRC bidding process.
+
+Okay. And for the sort of gross margin, the last question for the gross margin, I tell the first quarter gross margins increased 0.5%. And also I noticed that the structure, like three different types of contracts, the integrated contract, the product sale [indiscernible] (00:54:08) and internally the integrated contract compare increased 2.6%. So, would you talk more about the integrated contract internal, what kind of changing?
+
+From the operation business effect, the company always does not control the gross margin and that used to improve the contract and show at first time and delivery in quality to manage the range. And you could see our range prediction for the gross margin always awaiting the range, what we said, like the whole business, 35% to 40%. And the fluctuation, specific like 1%, for example, it's hard to say internally which part contribute, but what we can focus is the whole management efficiency improvement. So this part is what we want to emphasize, and then we will continue to control the expense, everything, to improve the gross margin and to lock up the net income.
+
+About the gross margin, we will lock up with the health range, and you see the revitalization itself, is hard to use one quarter to show about the whole performance, represent the whole gross margin. Actually, we recommend to see the railway transportation should – based on a whole year, because the quarterly fluctuation we did very sharply. Thank you.
+
+Okay. Thank you. [Foreign Language] (00:58:10)
+
+Okay. Thank you, everyone, for joining us on the call today. If you haven't got a chance to raise your questions, we'll be pleased to answer them after the call. We're looking forward to speaking with you again in near future. Thank you.
+
+[indiscernible] (00:58:28)
+
+Ladies and gentlemen, that does conclude our conference for today. Thank you for participating. You may all disconnect.

@@ -1,0 +1,110 @@
+Participants
+CORPORATE PARTICIPANTS
+Ralph C. Derrickson — President, Chief Executive Officer & Director, BSQUARE Corp.
+Christopher Wheaton — Chief Financial & Operating Officer, BSQUARE Corp.
+
+Management Discussion Section
+
+Question And Answer Section
+
+Good day, and welcome to the Bsquare Corporation's Second Quarter 2022 Earnings Call. Today's conference is being recorded.
+
+At this time, I'd like to turn the conference over to Ralph C. Derrickson, President and CEO. Please go ahead, sir.
+
+Thank you. Good afternoon, investors and welcome to the Q1 2022 Bsquare Quarterly Earnings Call. Joining me on today's call is Bsquare's CFO and COO, Chris Wheaton. Chris and I appreciate your interest in Bsquare and thank you for taking the time to be with us this afternoon.
+
+Before we begin, we'd like to remind you that this call is being webcast, and that a recording of the call and the text of our prepared remarks will be available on the Bsquare website.
+
+During the call, we will be making forward-looking statements. These statements are based on current expectations and assumptions that are subject to risks and uncertainties that could cause actual results to differ materially. In our commentary, we may also refer to GAAP and non-GAAP financial measures. Please refer to the cautionary text regarding forward-looking statements contained in Bsquare's earnings release issued today and on our website at www.bsquare.com under Investors. All per share amounts discussed today are fully diluted numbers where applicable.
+
+We will be taking questions after our prepared remarks. For anyone who would like to arrange a follow-up conversation with us, please send an email to investorrelations@bsquare.com. This mailbox is monitored regularly and you will get a response within one business day.
+
+With that out of the way, let's get started. We're going to do things a little differently today in response to questions we've gotten recently from shareholders. As usual, we start with a review of the Q2 2022 financial results. But after that, we will cover more deeply than we have in the past our plans for driving organic growth with an emphasis on our SquareOne product offering. Following that, we will make some remarks regarding cash and thoughts on the potential for inorganic growth. Finally, we will close with some general updates and governance matters before opening up the line for questions.
+
+To turn our attention now to the second quarter of 2022, revenue was up again quarter-over-quarter. Gross profit improved and operating expense decreased. Our operating loss improved as well over the first quarter of 2022. Our operations did use cash during the period, but our balance sheet remains strong with significant cash reserves and no debt. Q2 2022 was our second quarter of execution against our ongoing plan to drive organic growth and return Bsquare to profitability. After Chris takes us through the Q2 results, I'll be back to talk more about our plans and our progress.
+
+Over to you, Chris.
+
+Thank you, Ralph; and good afternoon, investors. Let's jump right into our second quarter financial results. Most of my comparisons will be to the first quarter of this year, and if not, I'll indicate where I'm comparing to other periods. Total revenue for the second quarter of 2022 improved $600,000 or 7% over the first quarter, with both the Partner Solutions and Edge to Cloud segments contributing to the increase. Within the Partner Solutions segment, revenue increased $200,000, or about 2% with a large one-time order and one additional shipping day in the quarter driving the improvement.
+
+While we have recorded two consecutive quarters of revenue growth in our Partner Solutions segment, we know that our volumes are still well behind those we saw prior to COVID. Our average monthly revenue is about $1.5 million less than it was before the onset of the pandemic. It remains uncertain how long the effects of COVID and other looming economic issues will impact our Partner Solutions revenue.
+
+In the Edge to Cloud segment, a $400,000 increase in quarterly revenue stemmed primarily from a renewed relationship with one of our largest and most important customers. Our contract amendment both extends the relationship and stabilizes revenue recognition from this customer, albeit at a quarterly rate lower than we recorded in the second quarter of 2022.
+
+Contract renewal is an important outcome for the quarter and we believe it further increases the stability of this business segment.
+
+Total gross profit for the quarter also improved as we achieved a $100,000 quarter-over-quarter increase, driven by the Edge to Cloud segment. Gross margin rate for the Partner Solutions segment was 13.3% in line with recent historical averages. That rate is, however, a decrease from the first quarter when we closed a large one-time order with an above average margin.
+
+Q2 gross profit in the Partner Solutions segment decreased to $300,000 quarter-over-quarter. As we discussed previously, the cost of revenue in the Edge to Cloud segment tends to be fairly stable, resulting in gross profits moving commensurate with revenue. This remained true for the second quarter of 2022, as both segment revenue and gross profit were up $400,000 compared to the prior quarter.
+
+Moving on, total operating expenses in the second quarter were $2.3 million, a decrease of $100,000 compared to the first quarter. The decrease was driven by reduced selling, general and administrative or SG&A expenses as research and development expenses remained flat. The SG&A decrease was driven primarily by reduced personnel-related costs and professional fees. Spending on third-party services was down quarter-over-quarter as these expenses are typically highest in the first quarter of the year, driven by fiscal year end audit and tax services.
+
+While some of our expenses like professional fees fluctuate quarter to quarter based on seasonality, our operating cost structure is relatively stable and has recently only increased because of planned investments in sales and marketing.
+
+During the quarter, we also continued to develop and enhance our product portfolio. In the first half of 2022, our product development investment totaled $700,000; of which approximately $300,000 was capitalized on our balance sheet as internally developed software. The remaining $400,000 is shown on the income statement as research and development expense.
+
+Overall loss from operations for the second quarter of 2022 was $700,000, an improvement of $200,000 compared to the first quarter. Net loss for the quarter was $600,000 or $0.03 per diluted share, an improvement compared to net loss of $900,000 or $0.05 per diluted share in the first quarter of 2022.
+
+Turning quickly to the balance sheet. Our liquidity position is healthy. The vast majority of our receivables are current and we have no debt. As of June 30, 2022, our cash totaled $37.8 million, a net use of $2.2 million since December 31, 2021.
+
+And with that, I'll turn it back to Ralph.
+
+Thank you, Chris. I'm pleased with the improvements in revenue and stability of our expense, allowing us to maintain reserves. In Q2, we continued our efforts to drive organic growth based on the business opportunities we described on previous calls, serving customers that are manufacturing, deploying and operating IoT products. The opportunity is a natural outgrowth of the OS licensing and system software business we are in today and that we have been in since our founding more than 25 years ago. In that time, we have helped thousands of OEMs ship millions of purpose-built devices.
+
+The opportunity also builds on years of experience implementing and operating custom IoT systems for large companies. We believe that our expertise, particularly at the point of interaction between the operating system and the device hardware is a core asset and a point of competitive differentiation.
+
+Our new product offering, SquareOne, is central to our plans for organic growth. As a reminder, SquareOne is our recently announced product offering that provides secure remote device management for manufacturers and operators of IoT products. I believe it is critical that investors understand our product strategy. And for that reason, I'm going to turn it back to Chris now, this time in his role as our Chief Operating Officer to take us through SquareOne in detail. Chris leads our product management, engineering and operations teams that are building and operating IoT infrastructure for our customers.
+
+Thanks again, Ralph. I'm pleased to be able to go a bit deeper into SquareOne and the role it will play in our plans for Bsquare's future. In some of our more recent earnings calls, we've touched on the SquareOne product and the value it can provide. We've described it as a natural extension to the relationship we have with many of our IoT customers. We've alluded to the business opportunity and to SquareOne's contributions to the evolution of our plans for growth.
+
+However, on today's call, I'm going to lift the hood and begin to answer some of the most important questions that investors and observers are likely to have about the product and the strategy we've built around it. SquareOne is a complete solution for companies that are manufacturing, deploying and operating IoT products.
+
+Based on the input from customers, we now offer SquareOne in two packages. SquareOne Essentials is for companies that are seeking to manufacture and support more resilient and more manageable devices. SquareOne Premier is for companies that are already managing and monitoring the operations of a fleet or fleets of devices.
+
+Let's start with SquareOne Essentials. The requirements for Essentials came from our Microsoft OS licensing customers, who were looking for ways to make their new devices IoT-ready or to extend the operational life of their previously delivered products. We use the term resilient to describe how SquareOne Essentials helps OEMs build devices that are secure, can recover to a known state in the event of a failure or breach, and whose OS can be upgraded in place without a loss of device settings or configurations for other previously installed software.
+
+These requirements for resiliency, which are common to nearly all of our OS licensing customers, are not trivial. SquareOne Essentials directly addresses this need for resilience, allowing our customers to easily incorporate it into their new products, and to add it to previously deployed devices. Because the functionality of SquareOne is configured into the OS image itself, the customer doesn't need to change their product. They can simply enable the capabilities when ready.
+
+SquareOne Essentials was designed to work with Microsoft Windows IoT products. It sold on a per unit basis as an incremental software license fee for each enabled device. It's a natural product for our existing OS customers and can be readily added to a licensing order. [indiscernible] (10:16) customers decide to bundle their OS purchases with SquareOne Essentials both our per unit revenue and gross margin increase. In addition, SquareOne Essentials can also be easily upgraded to SquareOne Premier if and when our customers need to turn on active device monitoring and management. The upgrade from Essentials to Premier is another source of potential growth.
+
+So let's talk about the SquareOne Premier package. The first and biggest difference between Essentials and Premier is that Premier provides continuous monitoring of the device as well as active remote management of its participation in a system of IoT devices. It is a multi-OS, end-to-end solution that can be configured to securely monitor key device telemetry, set alerts, diagnose issues and deploy fixes all remotely and in real time.
+
+By multi-OS, we mean it supports devices running Microsoft Windows IoT, Linux and Android. It can operate fleets of devices running a mix of operating systems. SquareOne Premier is sold as a subscription, where customers pay an amount per month based on the number of active devices under SquareOne management.
+
+We anticipate customers will use SquareOne to lower the cost of support, reduce the cost of downtime and to create new revenue streams from new services. SquareOne Premier is easily configured to support unique hardware requirements, using industry standard protocols. It can be easily integrated into existing business systems via robust [indiscernible] (11:32) APIs.
+
+SquareOne Premier also incorporates the remote device management and security features of Intel's vPro technology. As previously announced, our integration of Intel's out-of-band management technology reduces onsite service costs, simplifies routine operation tasks and minimizes downtime during maintenance.
+
+SquareOne Premier is the complete solution for companies that participate in or are directly responsible for the operation of connected IoT systems. Many of our existing customers are such companies, but not all. Our initial marketing efforts will focus on these existing customers. And as we gain experience and traction, we'll broaden our marketing reach. Attracting and retaining new customers can be expensive. So we're designing our messaging to land first with our existing customer base before launching cash-intensive marketing campaigns to those that might not yet be aware of Bsquare or SquareOne.
+
+Through this two-state strategy, we think we can create meaningful organic growth with an entirely manageable cost of customer acquisition. Importantly, SquareOne Premier is a SaaS-based subscription model, creates opportunities for recurring revenue, something that not – that has to-date not been part of Bsquare's business model.
+
+As our customers subscribe to the service, reap the benefits of its inherent value and then extend [indiscernible] (12:44) deeper into their operational environments, our revenue builds on itself. Bsquare's long history of high quality customer support and systems expertise should not only encourage long-term relationships, but also help accelerate our customer successes. When our customers win and grow, we will win and grow.
+
+Why do we think this strategy will work? First and foremost, SquareOne taps into our history as a reliable source of system software expertise, device management knowledge and world-class IoT operations. The product was designed to address the problems that our customers are living and describing every day. The path from OS licensing to SquareOne Essentials to SquareOne Premier is natural, easy and tuned to the needs of our customers.
+
+It's important to note that we aren't the only company who's identified the need to better manage fleets of IoT devices and the business opportunity that it creates. Such competition is an indicator that we're on to something. In addition, there appear to be a number of competitors exploring the market, but no clear winner yet. We have the chance to build something new and to become a dominant player.
+
+And we believe we have a significant advantage over our competition. First, we know that our solution is more comprehensive than our competitors with a depth of features and breadth of operating system support not available elsewhere. Second, our solution is based on years of real-world experience and a multi-decade legacy of deep operating system software expertise. Finally, we already have the customer relationships. We know what those customers need and we've developed a product suite that we believe will cause them to buy.
+
+I'll turn it back over to Ralph to round out today's call and to discuss how this product-led growth strategy fits into the bigger Bsquare picture.
+
+Thank you, Chris. I'm very excited about the prospects of SquareOne and look forward to reporting more as those products contribute to our revenue story.
+
+I want to call your attention to the close coupling of SquareOne and our Microsoft OS licensing business. SquareOne builds naturally on our OS licensing customer relationships. Now and into the future, licensing will remain a key offering within our suite of products for device makers. And while SquareOne revenue is ramping, licensing will provide the lion's share of our revenue.
+
+Okay. I'd like to switch gears to address a question that has come up during investor conversations. That is, how we plan to deploy the capital we raised from the ATM in 2021. Clearly, we have the financial ability to invest in organic growth and we are doing just that. So far this year, we have used $2.2 million in cash. If we did nothing to improve this burn rate, we have more than eight years of operating runway. Obviously, doing nothing is not an option. We are laser-focused on organic growth with SquareOne as we discussed on this call. That said, we are evaluating all avenues to accelerate growth. There aren't any specifics to share today, but we believe that the changing market conditions and our available cash could put us in a unique position to create opportunities for inorganic growth.
+
+Turn our attention now to some governance matters. I am thrilled that Bernee Strom has joined our Board of Directors. If you missed it, we announced on Monday that Bernee would be joining as a Class 3 Director, and she will serve on the Governance and Nominating Committee. I have known Bernee from the Seattle entrepreneurial community for many years, and I'm grateful for the opportunity to work with her in a formal capacity. Her experience on public boards and her entrepreneurial expertise will be invaluable to us as we seek to grow organically and consider inorganic growth options.
+
+In addition to bringing a wealth of business experience, Bernee also helps us realize our diversity objectives on the board. Adding Bernee takes us to six Directors, four men and two women.
+
+Before we wrap up and take questions, I want to call out that our Annual Shareholder Meeting is set for Thursday, November 29 at 10:00 AM at Bsquare's office in Seattle. We put that information out in an 8-K but I wanted to call that out as it's a little later in the year than typical.
+
+Okay. With that, operator, please open the line for questions because we don't often get many questions on our calls, I will remind you that if you would like to arrange a follow-up conversation with us, please send an email to Investor Relations at bsquare.com.
+
+Thank you. [Operator Instructions] And with no questions in the queue, I will now turn the call back to Ralph Derrickson for any additional or closing remarks.
+
+Thank you, operator, and thank you investors for taking the time to participate in our call. We appreciate your interest in Bsquare. See you at our earnings call and shareholder meeting in November.
+
+And this concludes today's call. Thank you for your participation. You may now disconnect.

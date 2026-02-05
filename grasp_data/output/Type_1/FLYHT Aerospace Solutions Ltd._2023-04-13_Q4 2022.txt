@@ -1,0 +1,337 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+Matt Chesler — Partner, FNK IR
+Kent Jacobs — Interim Chief Executive Officer, FLYHT Aerospace Solutions Ltd.
+Alana Forbes — Chief Financial Officer, FLYHT Aerospace Solutions Ltd.
+Jaeson Allen Min Schmidt — Analyst, Lake Street Capital Markets LLC
+Richard Ryan — Analyst, The Oak Ridge Financial Services Group, Inc.
+Kris Tuttle — Analyst, IPO Candy
+Marc Berger — Analyst, MKB Associates Inc.
+George John Melas-Kyriazi — Analyst, MKH Management Co. LLC
+
+Management Discussion Section
+
+Question And Answer Section
+
+Thank you for standing by. This is the conference operator. Welcome to the FLYHT Aerospace Solutions' Fourth Quarter and Year-End 2022 Results Conference Call. As a reminder, all participants are in listen-only mode, and the conference is being recorded. After the presentation, there will be opportunity to ask questions. [Operator Instructions] Due to the volume of questions expected on today's call, we ask that you please limit your questions to three to allow time for others in the queue. If there are any outstanding questions at the end of the call, the company will be happy to take them by e-mail to investors@flyht.com.
+
+I would now like to turn the conference over to Matt Chesler, Investor Relations. Please go ahead, Matt.
+
+Thank you for joining our fourth quarter and full-year 2022 earnings call. On the call with me today are Kent Jacobs, President and Interim CEO of FLYHT; FLYHT Chief Financial Officer. On our website, flyht.com, we posted a press release covering the information we will review today, as well as a webcast of today's conference call. An archived version of the call will be posted on the Investor Relations section of our website as soon as it is available from the conference call provider.
+
+Before we start, I'd like to remind everyone to read the forward-looking statements and non-GAAP financial and other information that we have included in our 2022 annual report. Certain of the statements made today may constitute forward-looking statements, and these statements are our present expectations. Relevant factors that could cause actual results to differ materially are listed in our earnings materials and in our SEDAR filings, including our annual report, which should be filed today or which is already filed. During the course of today's call, we will also discuss certain non-GAAP financial measures. You can find the reconciliation of these to the nearest comparable GAAP measures in the 2022 annual report.
+
+With that, I would now like to turn the call over to Kent.
+
+Thank you, Matt. Good morning, everyone, and thank you for joining us today. My name is Kent Jacobs, and late in 2022, I was appointed to the expanded role of President and Interim CEO of FLYHT. Bill Tempany, our CEO, passed away unexpectedly on December 20th of last year. It is with both a heavy heart and an unwavering commitment to his vision and legacy that I speak to you on this regular earnings call. Bill is deeply missed by everyone at FLYHT and by me as a colleague and mentor and a friend. When Bill returned to FLYHT as our CEO in 2020, he set the tone for our software-focused vision and formed the team that successfully continues his work today. I am proud to lead that team. But this is no ordinary time for FLYHT.
+
+2022 was a year of exciting accomplishments and opportunities. As I consider my 20 years at FLYHT, I have never been more optimistic about our current state and future opportunities. With the strong execution of our strategy, we delivered record revenue of nearly $24 million, representing a doubling of our 2021 revenues, while also generating positive EBITDA in the second half of 2022 and on a full-year basis. The continued recovery of the airline industry coupled with FLYHT's approach has placed us in a strong position to benefit from the ongoing robust demand for our legacy products and surging interest for our new and innovative solutions.
+
+FLYHT's vision to become a global force in providing innovative aviation and environmental solutions for our customers is coming to fruition. We are on the verge of obtaining the initial Supplemental Type Certificates of our newest innovation, the AFIRS Edge. The 5G-enabled AFIRS Edge utilizes cellular, Iridium Certus, and Wi-Fi capabilities to provide powerful situation awareness by delivering data in real time. Its light-weight form and versatility bridge the end-to end digital divide, makes narrow body connectivity a reality. Our STC rollout strategy is to first address the Airbus A320 and Boeing 737 fleets around the world.
+
+By focusing on these narrow body fleets, we are targeting roughly 70% of the commercial aircraft worldwide. We envision an addressable market of approximately 25,000 aircraft with the Edge poised to become the dominant avionics of choice for Wireless Quick Access Recorders and Aircraft Interface Device functions, thereby enabling operations in finite airspace and in a progressively carbon-free environment. Building upon the AFIRS Edge infrastructure, weather and environmental services are becoming an increasingly important component of our SaaS operating model. As presented in FLYHT's recent testimony to the Subcommittee on Environment of the United States House of Representatives' Committee on Science, Space, and Technology, FLYHT's WVSS-II water vapour sensor system installed on aircraft with an AFIRS Edge is a critical component of weather Aircraft Based Observations for meteorologists and airlines.
+
+Weather is constantly changing, making real-time ABOs a prime source of recurring revenue in support to weather forecasting models and aviation operations. As part of the global focus on environmental impacts of aviation, researchers have projected that clouds formed from contrails, that contrail cirrus cloud, are responsible for approximately half of aviation's climate effect, making contrail detection and avoidance programs a priority.
+
+The FLYHT-WVSS-II sensor provides accurate water vapour detection thus providing valuable data and services regarding aircraft induced cloudiness and contrail avoidance. Initially, these services are expected to support the research community and governments, with airline and military operational applications to follow. Validation of FLYHT's environmental strategy was received last year, as the United Kingdom's Meteorological Office announced their intent to purchase FLYHT's WVSS-II water vapour sensor system.
+
+While the AFIRS Edge is our new flagship offering, demand for the complementary AFIRS 228 Satcom remains at an all-time high. In 2022, FLYHT landed and fulfilled our single largest licensing order, totaling more than $7 million. The success of Airbus' A220, A320, and A330 aircraft means we fully expect additional orders to continue from our licensing agreement with L3Harris. Additionally, with its proven track record, the AFIRS 228 has allowed us to maintain our base of loyal customers.
+
+Over the years, we have developed a library of more than 100 STCs, which we continue to expand in concert with new airliner development including the Airbus NEO and Boeing Max fleets. In addition to the AFIRS 228 and the AFIRS Edge, both supporting all our products and services, we have also developed standalone SaaS offerings as part of our recurring revenue strategy. The recent introduction of ClearPort, our aircraft turn management tool, represents FLYHT's latest standalone SaaS product. As we expand into artificial intelligence and machine learning models, and further develop into our data warehouse capabilities, we look forward to reaching our full SaaS revenue potential.
+
+As in any year, 2022 is all about the people who make it happen. As we moved forward from development to market introduction, we brought on board four new members with a combined 75 plus years of skill and experience in the aviation industry. These team members bring with them a sterling track record of success and an elite professional network, thereby enhancing FLYHT's reputation and improving our time to market. Our innovative technologies and vision were paramount in attracting such talent to our organization. Their impact has been immediately felt and will be reflected in future results.
+
+I'd also like to highlight key changes to our board of directors, which we announced this morning. I am privileged to announce that Captain Mary McMillan, a current Independent Director on the Board, has been named as Non-Executive Chairman of the Board. Captain McMillan succeeds Nina Johnson, who's ceding the role of Chair due to external commitments. Based in Virginia, Mary is a true pioneer of women in aviation, with decades of leadership experience at major companies such as Inmarsat.
+
+Her knowledge of airlines, aircraft products and aviation safety makes her a key part of the FLYHT family in helping steer us to solutions that are attractive to airlines and related service providers. She is currently President of Cashel Aviation, a consulting company dedicated to the development and implementation of aviation safety and environmental strategy. Captain McMillan began flying in 1982 and has over 12,000 hours flight time under her belt.
+
+I also want to extend my heartfelt gratitude to longtime Board Member, Jack Olcott, who has stepped down after 15 years of service. Through periods of rapid growth and challenges such as COVID-19, his deep understanding of business aviation and steady guidance to Bill Tempany and more recently to me have helped to build FLYHT into the leader that it is today. Thank you, Jack.
+
+As we accelerate out of COVID-19 and honor Bill's legacy, we remain steadfast in our execution of FLYHT's vision. I would like to thank our dedicated staff for their hard work and perseverance, our loyal shareholders for your continued support, and our customers for allowing us to continue to provide service and value.
+
+I'd now like to turn the call over to Alana for a review of our financial performance.
+
+Thank you, Kent. I will begin by reviewing fourth quarter and full-year 2022 results, and then we'll discuss key operating metrics and highlight the tremendous operating leverage our company enjoyed this past quarter as revenues grew much faster year-over-year than expenses.
+
+Looking at Q4, we achieved record high revenue of CAD 7.2 million, representing 186% increase over the CAD 2.5 million reported in Q4 of 2021. All of our operating segments contributed to this growth. SaaS revenues increased 50% year-over-year to CAD 2.3 million, which was in part due to the addition of CrossConsense's SaaS revenue. Hardware revenues doubled to CAD 1.2 million from CAD 591,000 reported in Q4 of 2021. We shipped 16 kits in Q4 of 2022 compared to 9 in Q4 of 2021.
+
+Licensing revenue increased 751% to CAD 3 million compared to just CAD 356,000 reported for Q4 2021 due to increases in the number of modems and associated license fees ordered for delivery in comparative periods as we delivered on the largest licensing order we've received to-date. That order was valued at over CAD 7 million and was received in Q2 of 2022. As of December 2022, we have completed all shipments for this order.
+
+Technical services in Q4 increased over 800% to CAD 740,000 as a result of the addition of CrossConsense services to this revenue category. In terms of profitability, we reported another strong quarter of margins with Q4 gross margin of 67%, increasing 1,700 basis points year-over-year compared to 49.5% reported for the same period in 2021.
+
+The increase in licensing, our highest margin revenue line, drove the margin expansion again this quarter. Operating expenses increased 24% to CAD 3.9 million, as 2021 fourth quarter did not include CrossConsense. With revenue scaling faster than OpEx, we therefore reported an operating profit of CAD 900,000 in 2022 fourth quarter compared to a loss of CAD 1.9 million reported in Q4 2021.
+
+EBITDA was CAD 1.2 million compared to a loss of CAD 1.7 million reported in the same period of 2021, which was an increase of CAD 2.9 million. Likewise, net income was positive in Q4 of 2022 at CAD 700,000 compared to a loss in the prior year or in the prior year's fourth quarter of CAD 2.4 million, which was an improvement of CAD 3.2 million.
+
+I would now like to turn our attention to full-year 2022 results. For the full year, we achieved record revenues with a 111% increase year-over-year to CAD 23.9 million compared to CAD 11.3 million reported for 2021, growth again came from all of our operating segments. SaaS revenue increased 36% year-over-year to just over CAD 8 million, compared to CAD 6 million reported in 2021. The CrossConsense acquisition closed at the end of quarter one in 2022, so its SaaS revenue has contributed to our consolidated results for a little more than three quarters of 2022, which has provided a boost to our SaaS revenue.
+
+Hardware revenue increased 39% year-over-year to CAD 4.7 million as compared to CAD 3.4 million reported in 2021. This was a result of a total of 69 installation kits being shipped in 2022 versus 54 in 2021. Licensing revenue jumped by 487% for a total of just over CAD 9.1 million compared to CAD 1.6 million in 2021, due to the previously mentioned delivery of our record licensing orders. Technical services revenue increased almost 400% year-over-year to CAD 1.9 million from CAD 380,000 as a result of the addition of CrossConsense services to this revenue category.
+
+In terms of profitability, full-year 2022 gross margin was 63.7%, an increase of over 650 basis points compared to 57.2% reported for 2021. Operating expenses increased by 33% to CAD 15.6 million in 2022, compared to CAD 11.7 million reported for 2021. The largest contributors to this increase were the addition of CrossConsense personnel and associated expenses, multiple 2022 sales hires, as Kent mentioned, to support our growth initiatives, and increased associated costs to support hardware product [indiscernible] (00:15:38) and certification processes and development of new SaaS solutions to support our customers in their post-pandemic recovery efforts. 2022 EBITDA was a positive CAD 250,000 compared to a loss of CAD 4.5 million in 2021, which was an improvement of CAD 4.8 million. 2022 net loss was CAD 1 million compared to a loss of CAD 5.9 million in the prior year, also an improvement of CAD 4.8 million.
+
+Looking at the balance sheet, we generated CAD 900,000 in cash from operations in Q4, ending the year with CAD 2.6 million in cash and equivalents, compared to CAD 1.8 million reported in Q3 2022. Our receivables balance at year end showed some impact from our Q4 deliveries, which should come in, in the early part of 2023 and which has contributed to healthy cash generation in our first quarter. You will also notice increases on the balance sheet in the goodwill, intangible assets and contract liabilities categories, all of which relate to the CrossConsense acquisition in March of 2022.
+
+And finally, it's worth noting that revenue from all of our major geographic regions increased year-over-year, with the exception of China, the Middle East and Africa. As the recovery of the airline industry in those regions has lagged the Western world, our mix of revenue shifted to 51% from the US and Mexico in early 2022, compared to 39% in the same period last year. The large licensing order delivered in the second half of 2022 accounted for most of the year-over-year increase in US revenue.
+
+We expect over the coming years, Edge platform sales will drive increased hardware sales. And with the recovery ongoing in China, the Middle East and Africa, that SaaS revenue will likewise show continued growth. A second phase of SaaS growth should occur as the installed base of Edge platform increases, and customers recognize the tremendous value our software solutions provide to their operations.
+
+Looking ahead, we expect continued growth in our business, driven by the ongoing recovery of the global aviation industry, as well as the execution of our strategy. Last week, the International Air Transport Association, IATA, announced continued strong growth in air travel. February 2023 revenue passenger kilometers or RPKs rose 56% compared to February 2022 and now stands at 85% of pre-pandemic levels, measured as opposed to February 2019.
+
+Domestic travel rose 25% year-over-year, representing 97% of pre-pandemic levels. And international traffic rose 90% year-over-year, representing 78% of pre-pandemic levels. According to IATA, despite uncertain economic signals, demand for air travel continues to be strong across the globe and, in particular, in the Asia Pacific region.
+
+At FLYHT, our backlog, which includes contracted business of CAD 25 million at the end of Q4 2022, gives us good visibility on revenue over the coming quarters. Additionally, our pipeline, which includes uncontracted opportunities for newer offerings such as the Edge, sits at more than CAD 70 million and is the most robust we've ever experienced. As we obtain STCs on our Edge platform, we expect our [ph] pipe (00:19:28) of opportunity will continue to grow over the course of time.
+
+And with all of that said, we'll answer the questions that have come in via e-mail to investors at flyht.com.
+
+We have quite a list. Kent, now that the modem order is delivered, should we expect to see licensing revenues go back to the level they were running at before?
+
+We expect continued licensing revenues. Our agreement and our cooperation with L3Harris, we don't expect it to go away. We supply that product to support the Airbus family of aircraft. It's most successful line of aircraft on the planet. We expect it to continue and we expect it to grow.
+
+Might there be additional modem orders that would result in this list in licensing revenues again? [indiscernible]
+
+(00:20:23).
+
+Yeah.
+
+Yeah. Kind of the same question. Yes, we are expecting continued growth there.
+
+In terms of the STC, can you talk about the sequences of approvals? Is Canada first and which airframes would that cover? Will it go something like Airbus model 1, 2, 3, and then the same for Boeing models, or is it more of a blanket?
+
+Yeah, it's an interesting question. And different companies that build avionics and get STCs before they can put those products on the planes approach the challenge of getting STC in different ways. FLYHT is taking the approach for the Edge of completing the A320 and the 737 at the highest, at the most modern level of the airliner that we can. So for the 737, we're completing it on the MAX model as quickly as possible. That will cover us on the lower models, such as the 737NGs and the 737 Classics.
+
+We can then take those STCs and familiarize them into other jurisdictions, such as the US through the FAA or EASA into Europe. So we've got a very structured strategy for dealing with the STC process. It's a challenge. We have the same challenge with the AFIRS 220. We have the same challenge with the AFIRS 228 and now with the Edge. It's just the matter of getting through the paperwork, getting the government agencies to support us and get those initial installation.
+
+Great. What is the process to get the Canada STCs approved in the US and Europe, and how long does that take?
+
+It's a process called familiarization. So there are bilateral agreements between groups like our agencies like Transport Canada and the FAA, Transport Canada and the EASA. And once we have a complete STC in a jurisdiction like Canada, we can familiarize that package, familiarize that STC into those other jurisdiction. We would gather up all the documentation – once the STC is complete in Canada, we gather all the documentation, all the test results, everything that went into the approval, and Transport Canada will submit that on our behalf into the FAA. It then becomes an exercise between Transport Canada and the FAA. We don't play a large role in it. We support any kind of additional questions that may come along. But it's primarily then a government agency to government agency.
+
+We don't have any control over the time that, that takes. Right now, the FAA is running quite slow, much more than they were before COVID. In Europe, it's much better. So as we get those STCs done in Canada, we will familiarize them into other jurisdictions as quickly as possible. There's a bit of an element there where we don't control the time.
+
+New aircraft today, are they rolling off the line with the AFIRS 228 Satcom products?
+
+Well, if it's an Airbus, A320 family or A330 aircraft, is a very, very good chance of rolling off the line with an AFIRS 228 Satcom product provided through to the L3Harris agreement. That is our only line-fit opportunity right now or engagement that we have. But if the best line I've had with one line of aircraft on the planet that's the one I would want the most successful aircraft. So that – yeah. That [indiscernible] (00:23:49) AFIRS 228 Satcom.
+
+And a follow on, who else is offering the competitive option to [indiscernible] (00:23:56)?
+
+Well, from a Satcom standpoint, there is competition in that space; the Collins, Rockwell, Avionica. They have competing Satcom products not only with Iridium, but also with satellite network like Inmarsat. But that's not new. FLYHT has been in that – competing in that space for 10, 15 years. So nothing new there. We do very well in that space.
+
+In terms of the Edge product, can a customer – Oh! No, we answered that one. Do the contracts for the SaaS offerings have price escalation options for inflation over the term? They did.
+
+Yeah.
+
+Those escalations are [indiscernible] (00:24:40) in all of our contracts. Over the long term, do you expect to launch additional software and data applications that would ride on top of the Edge SaaS platform that would result in additional SaaS revenue opportunity?
+
+Yeah. That is exactly the model that we are taking, that the approach that we are taking. The Edge is the platform that provides the access to the data on the aircraft. We have the most efficient way to get that data off the aircraft. And then we have the ability to analyze, to do what we will with that information, that data, turn it into knowledge, turn it into actionable intelligence. That is the vision that Bill brought to the company two-and-a-half years ago. That is what we are focusing on.
+
+Will the Edge STCs be received in Q2?
+
+The answer is yes. We have provisions on the A320. We're expecting provisions on the 737 MAX very, very soon. That will allow us to then do those initial installs and turn those into activation STCs. I – just want to clarify something. Sorry, I read that wrong. I thought I said in the 2023, in Q2. We still expect to have the provisions in Q2. Absolutely.
+
+Great. Have there been any presales of the Edge ahead of receiving STC?
+
+Not yet. Can I just [indiscernible] (00:26:14). Yeah. Can I just...
+
+Oh, yes. Thank you.
+
+Sorry. We don't have any presales. We're in active discussions with several airlines about this right now. Look, there's a challenge, and there are additional steps that the airline have to go through if they are the first airline to put the product on their aircraft and to provide the flight test and the ground test. And that's the stage that we're at right now. The product becomes much easier to sell, much more attractive to an airline, the moment that those STCs are available. We have experience with the [ph] A220 on this, with the A5020, with the A5028 (00:26:49), and now with the Edge, same thing. We're just going through those initial phases with them.
+
+Great. Have there been any sales of the partnership product with MBS? Will it work with AFIRS as well as the Edge?
+
+Yeah. The partnership with MBS is on the data loading, airborne data loading functions. There have been no sales yet. We're in discussions with more than one airline regarding that capability right now and that partnership that MBS and FLYHT would have. Will it work with the AFIRS as well as the Edge? That data loading functionality works with the Edge only. It doesn't work with AFIRS 228. So, it's an AFIRS Edge and then MBS combined solution.
+
+Can it be said that FLYHT's Actionable Intelligence software is presently producing SaaS?
+
+Absolutely. There are – when Bill made the decision and brought the vision that we were going to focus on SaaS and Actionable Intelligence, we tweaked and we completed some of the programs on the AFIRS 228 platform that allow us to provide Actionable Intelligence. And we are doing that right now for several of our customers. The new product, such as ClearPort, they're rolling out now. They'll just be adding to that SaaS opportunity.
+
+Great. What are the expectations for AFIRS L3Harris Airbus licensing in 2023?
+
+It's a little bit tricky to answer that. That revenue is very lumpy. Those orders come in, in big chunks, and then we can go up to one or two quarters where we don't have any additional sales or additional licensing revenues there. It is the A320 line of aircraft. And we absolutely expect more orders to be coming in, in popular airplane, most aircrafts that are [ph] coming offline or (00:28:42) taking the Satcom product, widely successful product.
+
+Have there been presales of the [indiscernible] (00:28:50). Oh! We answered that one. Okay. Where does the sale of the WVSS-II sensor [indiscernible] (00:29:00)?
+
+We're in contract negotiation right now. Like today. [indiscernible]
+
+(00:29:08).
+
+Yeah.
+
+Can you provide updates for the activities with the ECCC, formerly Environment Canada and with [indiscernible] (00:29:15)?
+
+So – yeah, we're continuing to provide ECCC with AMDAR data from our aircraft leasing in Canada. We expect our relationship to continue and grow as we add new aircraft and as we bring the WVSS-II online.
+
+Okay. Those are all the questions that we received in advance. Shia, I'd like to turn the call back to you now, and we'd be pleased to take questions from callers.
+
+Thank you. We will now begin the question-and-answer session. [Operator Instructions] The first question comes from Jaeson Schmidt from Lake Street. Please go ahead.
+
+Hey, guys. Thanks for taking my questions. I know you guys don't provide guidance, but just curious if you could comment on what you're seeing from an order pattern standpoint year-to-date here.
+
+We see an increasing – that the pattern is increasing. It's something that we monitor and, yeah, it's [indiscernible] (00:30:40) recovery. The recovery of the industry is demonstrating that.
+
+Okay. And curious if you could provide color on what your expectations are from a supply chain standpoint. Are you expecting any significant friction or headwinds there?
+
+No, that has been something that we have been constantly monitoring over throughout COVID and into the following years. Right now, we're very confident that we're in a very good [indiscernible] (00:31:11) for our supply chain. It's something that we are actively working continuously in the organization making sure that we're not caught off guard.
+
+I would also say, we did take extra time to redesign several portions of the Edge to account for anticipated supply chain issues. So we've increased – we've spent a lot of time and effort in increasing the resilience of that product in particular and the supply chain for the other product lines are pretty stable.
+
+Okay. That's helpful. And then just the last one for me and I'll jump back in the queue. Gross margin was obviously strong in Q4. I assume partly that was due to mix, but how should we think about gross margin trending here in 2023?
+
+I think it'll all depends on if we are able to receive further licensing orders through 2023, the gross margins for that product line is in the 80 percentile range, and so it really increases our gross margin when we have a significant portion of our revenues derived from licensing. SaaS revenues are increasing. The bigger they are, the more lift we get off of our fixed costs in that category. And we're seeing it around 60% for that category. Hardware is a bit more challenging. We do take lower gross margins just to get the real estate on the aircraft so that we can start the SaaS pipe and start providing data services to our customers. Hardware revenues are carrying about 30% gross margins at this time.
+
+Okay. Appreciate the color. Thanks a lot, guys.
+
+Thanks, Jaeson.
+
+Thank you.
+
+The next question comes from Dick Ryan from Oak Ridge Financial. Please go ahead.
+
+Thank you. And congratulations on a strong finish to 2022 guys. Hey, Kent, when you look at the – and there was a lot of commentary on STC. But I guess I just want to go back to the 228 STC on the MAX. You've got a launch customer there. You know, with the Airbus side, you've got the relationship with L3 that pulls that through. Do you need an L3 version on Boeing to help pull that through, or will that be more direct between just you and Boeing in the airlines?
+
+Look, having a relationship with Boeing similar to the one that we have with Airbus would be great. But you mentioned the 228 and the MAX. It's not – we're not going to get that relationship with the 228 on the Boeing fleet, if that's what you're asking. That opportunity for the [ph] lines at Satcom (00:34:18) is over on the Boeing product. The 228 MAX STC that we just received with the take provisions on a MAX aircraft and install the Satcom system directly into those provision. I'm not sure if that... [indiscernible]
+
+(00:34:35)
+
+Yeah. It...
+
+Yeah. Yeah.
+
+Okay.
+
+Yeah, that, that clarifies it. Okay. What – you announced a couple board openings. What's the process and where do you stand to fill some board seats, or are you going to leave it at the current configuration?
+
+A week from now, there's an information circular that will address that. Any concerns about the board, it will all be covered in that. The board is going to remain extremely strong and potentially stronger.
+
+Okay.
+
+But that will come up – yeah. You'll be able to see that in [ph] April 30 (00:35:18), a week from today.
+
+Okay. You know, you've had some strong industry hires from Teledyne to push the 5G that it gets through the certification process. Can you just kind of subjectively talk about – you've had these guys on board for six months. What are you seeing now that six months after they're hired, what kind of progress are you seeing, you know, touch points with airlines, whether that's domestic or international? Can you just kind of give us a sense of the progress you're seeing there?
+
+Yeah. It's a great point. So the – and I did talk about the addition of the sales team there. It's been a great experience for FLYHT. That the first thing that's really obvious about that is that the [ph] UK map (00:36:10) program is moving ahead so quickly and so actively. It's really – that is directly related to the input from that new team [indiscernible] (00:36:24) FLYHT.
+
+The other part really, really obvious to me about the way that, that team is influencing us is that the [ph] focus (00:36:33), to be a little bit careful with the word, but the quality of the airlines, the importance, the value of the airlines that are coming to the table now that we are dealing with has changed significantly. FLYHT is – we've had a long history of working with great companies but the – we're moving into a different tier with the airlines, with the people that we have on board. And we're responding to RFPs. We're responding directly to airlines that we wouldn't have been dealing with before. That's a testament to the people that we've brought on board.
+
+Great. Thank you.
+
+The next question comes from [ph] Bruce Krugal (00:37:19), private investor. Please go ahead.
+
+Sure. Hi, Kent, Alana. A couple of follow-up questions, specifically on the weather. So, per my research, I understand now that you own probably the weather devices for aircraft. Now, you've got the UK Met contract, which you've commented on. You had the opportunity to go down to the United States and present in the Congress. Are you seeing any traction on the weather front outside of UK Met?
+
+Oh, yeah. Absolutely. And the experience working with UK Met. Thanks. Thanks, [ph] Bruce (00:38:00). The experience working with UK Met has showed us that it is the government agencies that are the primary user of that initial set of data that we collect. So, with the relative humidity sensors that FLYHT owns, and we have the TAMDAR product and we have the WVSS, we turn those aircraft-based observations into something that is completely different in the industry. We add relative humidity, the most important value that is not inherently collected off in aircraft.
+
+So, our ABOs are that much better than anybody else that's putting them out there. UK Met was the first government work in – well, UK Met and [ph] NOAH (00:38:34) are the two – and Environment Canada, are the three government agencies that have started taking that data, and have been taking it for years, and that's opened up all the other Met agencies around the world, whether it's in Australia, whether it's in China, whether it's in Germany, parts of Southeast Asia, all of those Met agencies are now paying attention to what FLYHT is able to do, and how we're able to produce the best ABOs with relative humidity.
+
+Okay. Just another question on the Edge STCs. If when you get your – the Edge STCs, would you expect to have clients to sign immediately [indiscernible] (00:39:20) relatively immediately, or would these clients have to then go out and test the product first before they commit themselves to the Edge device?
+
+Well, from the perspective of testing the product in their aircraft that the STC is available, then no. The airlines would have absolute confidence in the product functioning and working the way that it would be intend to do. That is the – that's the idea, part of the idea behind having to obtain the STC. So that's what makes that second airline customer that much easier to get than the first one, you have to go through the process of doing all the testing with flight and doing certification. We expect those sales to come much quicker, once we have the STCs in place. It's – yeah. That's where we expect it to be, much quicker, much easier. It's why we're targeting A320 in [indiscernible] (00:40:11). [indiscernible]
+
+(00:40:12). And then my final question. Any update on China and the Chinese domestically produced aircraft?
+
+No. Yeah. So the two aircraft, the ARJ21 and the C919 aircraft, we're actively installing on the ARJ21 through long-time customer, China Express. We're continuing as they expand their fleet. We're installing on every ARJ that they bring in. The C919 is still going through some development. It's a slightly delayed program, probably not a surprise, but as that aircraft continues to be developed and go through the certification process, we're right there, right there ready to be installed on it. It's a little out of our control right now as we wait for them to complete that product [indiscernible] (00:41:03).
+
+Right.
+
+Yeah.
+
+Right. Thanks, man. Thanks a lot. [ph]
+
+Thanks, Bruce (00:41:08).
+
+Thanks, [ph] Bruce (00:41:09).
+
+The next question comes from Kris Tuttle from IPO Candy. Please go ahead.
+
+Good morning. You've answered pretty much all my questions. So, thank you very much for taking this one. I was just curious now that – I mean, you're growing very rapidly and you didn't have the jump in receivables. It sounds like it's coming down. But it just prompted my question. Do you guys have – do you feel like you're set up with enough liquidity for your working capital needs as we go through what will be a bigger year for you 2023 and beyond?
+
+We do. We generated cash in Q4. Some of those receivables have been collected through the first part of 2023. We've had healthy cash generation in the first quarter. We've really done a lot of work throughout the pandemic and particularly lately even into Q1 in adjusting our cost base just to make sure that we can sustain ourselves with the cash balances and receivable balances that we do have coming in. We're pretty comfy. We're definitely keeping our eye on it. I'm always concerned about cash, of course, but we're doing well. We don't anticipate a working capital need.
+
+Okay. Terrific. Thanks very much.
+
+The next question comes from Marc Berger from MKB Associates. Please go ahead.
+
+Morning, guys. Great quarter. Great year. To [ph] spend (00:42:59) on the question that [ph] Bruce (00:43:01) had with regard to China and the airlines there, is the C919 the airline that has about 1,200 orders in backlog?
+
+I don't know for sure. I don't believe that it has 12 – did you say 1,200? Yeah. Yeah.
+
+Yeah.
+
+But the numbers that we had out of...
+
+Yeah.
+
+You can imagine that they're a little bit secretive. We don't always get – FLYHT is not privy to that information of the direct number of orders. It's going to be a very successful aircraft. The Chinese government will make sure of that. And it will be sold a lot in China and that part of the world.
+
+And will we be on each one of those? Is that a done deal?
+
+That is not a done deal. FLYHT is working with COMAC. We are working on the process to be the Satcom or a Satcom provider for them. But no, there is no formal decision there.
+
+Okay. And AirAsia has the business starting to ramp up there?
+
+AirAsia is continuing to accelerate out of the pandemic. We have a lot of our product that was parked and was not generating revenue. We're seeing those numbers pick up.
+
+We are – they were down to about 6% at the low. And right now, they're up back to about 60% operational of the aircraft that are installed with our product. So, we're seeing some really good recovery with AirAsia.
+
+Okay. So, that should show up in the first quarter of 2023?
+
+Marc, you know we don't give guidance. Nice try, though.
+
+All right. Also, with regard to the 5G and all these telecom companies switching to it, what kind of timetable do you expect that airlines are going to have to make that switch to a 5G product one way or another?
+
+Yeah. We see the airlines in that mode right now. So the airlines, when they make a decision to swap a product like we believe that they're going to be doing, they don't make that decision. And then, two weeks later, start swapping it out on their aircraft. This is a – it's a fairly lengthy exercise. The airlines are booking one, two, even three years out.
+
+They have to coordinate their fleet in through maintenance opportunities to get – to swap product out. And I'll temper that just a tiny bit the quick replacement of the existing 2G, 3G product that we anticipate doing, large addressable market, is a much, much easier swap. It's not a full installation. We would be using the provisions that were already on the aircraft.
+
+But it's – yeah, it'll be happening. The airlines are making the decisions now and we're seeing that in the discussions that we're having with them. It's active with many airlines and our sales team right now.
+
+So, if there, what 20,000, 25,000 opportunities out there, it would mean, what over three-year, four-year period of time that they have to swap that out?
+
+Yeah, that's correct. Because as the networks go down around the world, as the older cellular networks go down around the world, and airlines choose not to replace with the – to not – to keep going with a wireless QAR functionality when 5G is the only option, they need to be looking to a product like the one, like the Edge, that FLYHT has. And we expect that – well, those towers are being retired now around the world. It's happening at different rates around the planet and it's not going to go back. So, it's just a matter of time before the 5G is the dominant technology for our cellular providers around the world.
+
+And would you be able to meet that demand based on what we have in place infrastructure already?
+
+It's something that we consider and the answer is yes. We're making sure that, that is a capability that we have as we move forward. Yeah. Absolutely. We're planning for that.
+
+Great. Thanks. No more questions. Thank you.
+
+Thanks, Marc.
+
+The next question comes from George Melas from MKH Management. Please go ahead.
+
+Thank you. Hi, Kent. Hi, Alana. Congratulations on a great year. I have a follow-up regarding the question on the Edge. You're providing a 5G sort of replacement upgrade to an existing product, primarily the Teledyne product? Are there currently – so, from the point of view of the airline, what are the options that they have now? I mean that the Edge is not available right now, what are the opportunities – what are the options they have now and maybe what are the options that they will have a year or two from now?
+
+Well, the option they have now is to ride out whatever product they have on the aircraft right now as long as they can. So, as long as there are capable towers that can handle things like the Teledyne product, they'll continue to work, but some of those Teledyne products are so old that they're going back to 2G, 3G technology. So, an airline would need to make a decision and to plan for the retirement of those networks and the fact that their avionics in that regard would not work after those hours are down, after those networks are down.
+
+They always have the opportunity to manually retrieve the data. We know that this is not going to happen. We know that airlines are not going to go backwards. But if we're talking about all the options that they have now that, that is something that they could consider.
+
+Looking out one, two, three years, airlines will definitely have the option of the Edge. Right now, we still don't see any competition in the space. We don't know of anything that is coming along and being developed in the 5G space the way that we are. So, I'm going to say that, you know, taking into account the development cycle, how long it takes to bring a product through development, through testing, get the STCs done, the good news is that other companies would have to go through the same process that we are. I can imagine that for the next few years we are the product. We're the option.
+
+Okay. If it means that if the Teledyne sort of try to upgrade from 2G and 3G to 5G, do they have to go through the same STC certification process that you do now given that [ph] is their (00:50:31) product?
+
+Yeah, it's a fair question. I don't know for sure because I don't know the inner workings of the Teledyne product. I do know that the Teledyne product, I believe – the Teledyne product is 20 years old. It's very old and I don't believe that they – I think it would be a big challenge for them and I don't know if it's possible to incorporate a 5G radio into that platform, into the existing Teledyne product. They were able to do it with the LTE. They were able to upgrade that product with the LTE radio. They – I don't think it's an option for the 5G.
+
+Okay. Great. So it means that right now the airline is really – if they want to upgrade their products, I mean, until we get the STCs, they have no real options, right?
+
+Yeah. First, there is no product out there that is where we don't see any competition. We don't – in 5G, that's correct. We don't see a 5G enabled wireless QAR. When we talk to airlines, we're not compared to other product out there. We're the one. So, yeah, that is correct.
+
+Okay. Great. And then just a question on the licensing. You expect that to grow, I mean, as the A320 family keeps growing and production still keeps increasing. Do you see 2020 – but I guess it's not terribly smooth, right? You have big orders that come from time to time and it seems like Airbus is actually sort of inventorying some units just to facilitate their supply chain. Would that be – is that how you would see that?
+
+Yeah, that's accurate. And we expect our future licensing revenues to be mainly tied to the production lines at Airbus of the A220, A320, A330 line.
+
+Okay. Yeah. And overall, that just keeps growing, yeah?
+
+They're certainly doing well.
+
+Yeah. That's it.
+
+Yes.
+
+It's good part [indiscernible] (00:52:54). Okay. Great. Thank you very much.
+
+Thanks, George.
+
+This concludes the question-and-answer session. I would like to turn the conference back over to Mr. Kent Jacobs for any closing remarks.
+
+Thank you. So, thank you, everyone, for joining us on the call. 2022 was a great year for FLYHT. It was a tough year with [indiscernible] (00:53:25). It was a tough year for the company in that regard and for me, but it was a very successful year in the end. And it set us up very well for 2023. We look forward to keeping you updated on our progress. We appreciate your time and interest this morning. And we appreciate you continuing to follow FLYHT. Thank you for your time.
+
+This concludes today's conference call. You may disconnect your lines. Thank you for participating and have a pleasant day.

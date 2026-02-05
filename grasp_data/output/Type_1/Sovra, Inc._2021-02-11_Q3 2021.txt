@@ -1,0 +1,314 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+Luc Filiatreault — President, Chief Executive Officer & Director, MDF Commerce, Inc.
+Deborah Dumoulin — Chief Financial Officer, MDF Commerce, Inc.
+Amr Ezzat — Analyst, Echelon Wealth Partners, Inc.
+Deepak Kaushal — Analyst, Stifel GMP
+Nick Agostino — Analyst, Laurentian Bank Securities, Inc.
+Martin Toner — Analyst, ATB Capital Markets
+Richard Tse — Analyst, National Bank Financial, Inc.
+
+Management Discussion Section
+
+Question And Answer Section
+
+Greetings and welcome to the mdf commerce Third Quarter 2021 Results Conference Call. At this time, all participants are in listen-only mode. A question-and-answer session will follow the formal presentation. [Operator Instructions] Please note that this call is being recorded.
+
+I will now turn the conference over to our host, Luc Filiatreault, President and CEO for mdf commerce. Thank you. You may begin.
+
+So just as a reminder, mdf commerce is a developer and operator of the digital commerce platforms. Our platforms facilitate billions of dollars of transactions per year of digital commerce for well over 300,000 end user companies mostly in North America. We have made great progress in transforming mdf commerce into a high growth, fast digital commerce company with the potential to dominate key market segments.
+
+As part of our transformation, we are adjusting our leadership team to align to our five-year transformation plan and we are continuing to invest in people and processes along the way. With that in mind, I wanted to take a moment to welcome Deborah Dumoulin as our new Chief Financial Officer. Deborah was VP Finance and Financial Reporting at Fiera Capital Corporation. And prior to that, she was a partner with PwC. Deborah brings very strong capabilities and experience to the role that will help us to manage our accelerating scale over the next few years.
+
+Additionally, as we announced last week, we have also added Nicolas Vanasse as Chief Legal Officer to help us facilitate our planned mergers and acquisition strategies. Nicolas brings over 20 years of experience in various chief legal and corp dev roles in high-growth companies such as Lumenpulse and E Data Structures (sic) [eStruxture Data].
+
+As we have noted in our previous conference calls, we are investing in two core growth platforms of our business because we believe that there are large opportunities to gain market share in both. To successfully compete, we are investing to scale our sales and marketing capabilities to align with our peers who typically allocate approximately between 30% and 40% of their revenue to this function, which is critical to further accelerate growth.
+
+As we commenced our transformation about 15 months ago, we had less than 10% of our resources dedicated to sales and marketing. I am pleased to report that since then, we've doubled our sales and marketing team, and our intent is to continue to invest in our capacity to capture market share. The first growth platform that I want to discuss is Unified Commerce. It represents approximately 44% of our third quarter revenue base.
+
+This platform offers end-to-end commerce including supply chain for thousands of midsize and large enterprises – large enterprise customers globally. As announced in January, during the third quarter, we successfully deployed a significant grocery e-commerce project for over 200 stores.
+
+To put that undertaking into perspective, we implemented one of our largest grocery projects in less than three months, all that in the UK and in Ireland, during the pandemic and entirely virtually. We never saw anybody physically from our customers.
+
+Due to the intensive deployment concentration associated with this and many other concurrent projects, our gross margins were temporarily compressed. Also, because of the increased professional services billing which is not recurring, total revenue in Unified Commerce increased faster than monthly recurring revenue rent. As a result, recurring revenue as a percentage of total revenue declined. This is temporary and we're confident that this big deployment will result in faster growth of future recurring revenues.
+
+To give you some context regarding the performance of the Unified Commerce Platform, revenue grew by 54% compared to last year, which is really solid. However, if we isolate the performance of our two e-commerce solutions, Orckestra and k-eCommerce, their combined revenue growth was actually 126% year-over-year. This growth is really exciting and this doesn't include revenue associated with our recent deployment which will be recognized in future quarters. So we are confident about future growth in these platforms. This is great progress but we're not satisfied.
+
+We are investing in sales capabilities and channel development to expand our pipeline. We are investing in deploying – in deployment technology and partnerships to more efficiently convert our pipeline. We would like investors to know that we're not sitting on our laurels. Instead, we're leveraging our recent successes to further exploit general upturn in demand for online commerce.
+
+The second growth platform that I want to highlight is Strategic Sourcing. This procurement and tendering platform accounts for approximately 39% of our total third quarter revenue. Over 3,500 government agencies and large enterprise buyers rely on our strategic sourcing platform to procure and tender from a North America-wide network of over 300,000 suppliers.
+
+These totals include network gains from the acquisition of Vendor Registry during the quarter. Vendor Registry expanded our reach to 10 more states in the US, increased our supplier networks by 70,000 and added 400 procuring entities. Our primary strategy for this platform is to consolidate a fragmented market in North America by acquiring assets similar to Vendor Registry to improve our geographic reach, expand the platform and deliver pricing power by cross-selling and upselling more services to the network. We are executing on this as we had announced prior.
+
+Finally, our eMarketplaces platform enables everything from wholesale diamond purchasing to job searching. Collectively, these online marketplaces account for approximately 17% of total revenue. Due to the growth rate of Unified Commerce and Strat Sourcing, eMarketplaces' revenue will be declining as a portion of total mdf commerce revenue over time.
+
+I'd like to provide a high-level review of our performance in Q3 2021. Overall, we are pleased with our performance in the quarter. Total revenue, CAD 12.4 million, was 18.4% higher than the CAD 18.1 million reported in Q3 2020.
+
+Our Q3 recurring revenue grew by 9% to CAD 16 million compared to CAD 14.7 million for the same period last year. Recurring revenue of – equates to approximately 75% of mdf commerce's total revenue of CAD 21.4 million for Q3 fiscal 2021, generally in line with the 81% reported in Q3 2020 with the Strategic Sourcing Platform recurring revenue representing 92% of total revenue which we believe is close to the maximum recurring revenue available to that line of business.
+
+And now, I will turn the call over to Deborah Dumoulin, our new CFO, to discuss our Q3 fiscal 2021 financial results in more detail. So welcome, Deborah, to your first earnings call with MDF.
+
+Thanks, Luc, and good morning, everyone. Bonjour à tous. Here are the highlights of the third quarter fiscal 2021 results. Total revenue was CAD 21.4 million, which was up 18.4% from the CAD 18.1 million reported in Q3 2020. Total monthly recurring revenue, which we'll refer to sometimes in this call as MRR, was 76% of total revenue at CAD 16 million. This percentage is consistent sequential in comparison to the second quarter of fiscal 2021.
+
+When compared to the third quarter of the previous year, total MRR increased by 9% from CAD 14.2 million. In comparison to last year, MRR as a percentage of total revenue dropped by 5 percentage points from 81%. As Luc pointed out earlier in this call, this shift was mainly caused by an increase in professional services billing associated with large deployments during the quarter.
+
+Now, I'd like to outline MRR for each of our main platforms. For the Strategic Sourcing Platform, recurring revenue was 92% of total revenue, which was stable on both a sequential and year-over-year basis. Unified Commerce recurring revenue was 57% as a percentage of total revenue, down 1% sequentially and 6% in comparison to last year.
+
+Looking at actual dollars of MRR revenue, Unified Commerce MRR for the quarter was CAD 5.4 million, compared to CAD 4.4 million reported in the previous-year quarter. That's an increase of 23%. Strategic Sourcing MRR was CAD 7.6 million, compared to CAD 7.1 million reported in the third quarter of last year, a 7% increase. To wrap up the MRR discussion, I want to point out that based on MRR existing at Q3, the implied annual recurring run rate for MDF's MRR is approximately CAD 65 million.
+
+Now I'll cover off total revenue contribution by each of our platforms. The Unified Commerce platform, which includes supply chain management, generated CAD 9.4 million of revenue, which is a 54% increase over the CAD 6.1 million reported last year. It's also a 4.1% sequential increase over Q2 of 2021.
+
+I'd like to highlight that our e-commerce solutions, particularly Orckestra and k-eCommerce, produced year-over-year growth of 126% compared to the previous year. I should, however, note that we only recognized six weeks of k-eCommerce revenue during the third quarter of last year as it was an acquisition. The strategic sourcing platform generated CAD 8.3 million of revenue for the quarter, a 9.2% increase over the 7.6% reported for the previous quarter and a 2.9% growth sequentially.
+
+Turning to eMarketplaces Platform, it contributed CAD 3.7 million of revenue or a 13.9% decrease from a CAD 4.3 million reported in Q3 of previous year and stable compared to Q2 2021. As a percentage of total revenues, eMarketplaces revenue declined to 17.3% in Q3 2021 in comparison to a 23.8% share reported in Q3 of 2020. As revenue scales in Strategic Sourcing and Unified Commerce, eMarketplaces will continue to become less impactful on performance during the future reporting periods.
+
+Turning now to gross margin, operating loss, adjusted EBITDA, and net profit or loss. Total gross margin was 62.7%, compared to 70.4% reported in Q3 2020 and 66.7% for Q2 2021. As mentioned earlier, the decline in gross margin percentage is associated with the service mix and lower margin professional services revenue that we recognized on major deployment contracts that we initiated during the quarter. We anticipate that gross margins will remain compressed temporarily until the ongoing deployments in e-commerce are delivered.
+
+Operating loss for the quarter was CAD 2.7 million in comparison to an operating loss of CAD 1.8 million in Q3 2020 and a CAD 0.1 million operating loss in Q2 2021. The decline in operating profit flows directly from the professional services expenses, restructuring costs, and transaction costs associated with the acquisition of Vendor Registry.
+
+Total adjusted EBITDA loss reported for the quarter was CAD 0.1 million, compared to a positive adjusted EBITDA of CAD 0.2 million reported in Q3 2020. Although the investments in sales and marketing and R&D expenses during the quarter, decline in adjusted EBITDA is primarily due to two items. First, increased professional services expenses required to support deployments of multiple contracts. And second, restructuring costs, acquisition-related transaction costs totaling approximately CAD 1.1 million related also to the acquisition of Vendor Registry and some management changes that occurred in the quarter.
+
+I'd like to note that mdf commerce definition of adjusted EBITDA does not make adjustments for acquisition-related costs and transaction costs. Net loss for Q3 2021 was at CAD 2.9 million or a CAD 0.14 loss per share, both basic and diluted, compared to a net loss of CAD 1.1 million or CAD 0.13 loss per share which was reported in Q3 of 2020.
+
+Finally, turning to year-end to date results, total revenue for the first nine months of fiscal 2021 was CAD 62.9 million (sic) [CAD 62.7 million], representing an 11% increase over CAD 56.5 million reported last year over the same period. The nine months year-to-date revenue reported for fiscal 2021 includes a disposed asset that represented CAD 2.2 million of recognized revenue. If we adjust for revenue for this disposal, year-to-date revenue growth would calculate at [ph] 15.5% (16:05). Year-to-date net loss was CAD 4.7 million or CAD 0.26 loss per share, both basic and diluted, compared to net profit of CAD 1.1 million or CAD 0.07 per share both basic and diluted in the previous period.
+
+For the first nine months of fiscal 2021, adjusted EBITDA was CAD 4 million, compared to CAD 8 million reported for the first nine months of 2020. The decline in adjusted EBITDA is attributed to professional services associated with the acceleration of our deployments along with investments in sales, marketing and R&D. And as I noted earlier, this also includes restructuring and transaction costs that are not adjusted in our definition of adjusted EBITDA.
+
+Finally, I'd like to review some progress we made during the quarter on strengthening our balance sheet and that helps us execute our strategic plan going forward and positions us favorably to take advantage of the opportunities ahead. During Q3, we executed a CAD 50 million senior secured credit agreement based on recurring revenue and repaid the full amount of our debt under a previous credit agreement. We also closed a bought deal public offering with net proceeds of CAD 47.8 million. And the company had CAD 38.8 million (sic) [CAD 39.3 million] in cash and cash equivalents on its balance sheet at December 2020.
+
+With that, I'll turn the call back over to Luc.
+
+Based on our growing sales pipeline, the management believed that much of the shift in preference towards digital commerce caused by the COVID-19 pandemic will be permanent. This is reflected in the growth trajectory that we reported this quarter, and we plan to exploit the market trends to accelerate future growth of recurring revenue for the two core platforms of Unified Commerce and Strategic Sourcing.
+
+As mentioned at the beginning of the call, we are preparing for that with investments in sales and channel development to accelerate our pipeline growth and implementation capabilities. Although we consider professional services revenue to be a lead indicator of future growth in recurring revenue, we also recognize that it could be a drag on our ability to effectively deploy contracts as we convert our growing top line.
+
+As a result, we are actively pursuing partnerships to help us deploy contracts. We've recently announced partnership agreements with third parties including KPMG, Valtech, Logic, [ph] Innovate (00:19:31) that will help us to scale deployment capabilities while also positively impacting the mix of recurring and non- recurring revenue. Our objective is to remove scaling barriers and also to ultimately expand our gross margin in the Unified Commerce platform.
+
+Before I wrap up, I wanted to comment again on how pleased we are to welcome Mr. Clément Gignac to our board of directors. He is recognized internationally as an expert in the field of economics and finance and currently holds the position of Senior Vice President, Investments and Chief Economist at the Industrial Alliance Financial Group.
+
+He's a former minister for economic development and minister of natural resources for the Quebec government. We are confident that he will bring enormous value to our board, our leadership team, and the company as we accelerate scale and become more global.
+
+And finally, I would like to leave you with two key takeaways that I believe summarize our transformation journey to-date. First, we've entered the first leg of our aggressive growth strategy. You can begin to see in this quarter's revenue performance. However, I want to stress that we are just starting. We are investing now to be able to build a sales pipeline multiple times larger than that. We will continue to invest in sales and marketing resources to form mdf commerce to effectively compete for market share in multiple verticals especially in the Unified Commerce platform.
+
+We are evolving our foundation and our partnerships in order to increase our capabilities both in number and size of projects, allowing us to better convert our sales pipeline and draw higher margins. As for this quarter, while deployment had a dampening effect on our quarterly margins, we are confident that significant contracts will prove rewarding in the quarters and years to come.
+
+Secondly, by all measures, mdf commerce remains undervalued in comparison to its close peers. We are pleased to see growing interest in the company from both institutional and retail investors in Canada and in the US. To our new shareholders, some of whom have joined us on the line today, we extend a warm welcome, and to our existing and loyal shareholders, we thank you.
+
+And with that, I would like to hand over the call to Diego to open up the line for questions. All yours, Diego.
+
+Thank you, sir. And at this time, we'll be conducting our question-and-answer session. [Operator Instructions] Our first question comes from Amr Ezzat with Echelon Partners. Please state your question.
+
+Hey, guys, can you give us a high-level update on your large e-Comm projects? You mentioned 200 stores rolled out. What is the plan over the balance of 2021?
+
+Thanks for that, Amr. Things are going well in the UK. I believe the count is exactly at 226 currently. We saw an enormous amount of demand flowed through our platforms during December and a significant increase during January. We still have approximately another 1,000 stores to roll out, for which we're basically dependent on the ability of our customer the ability of our customer to handle all of the physical and logistics aspects, right? This isn't just about implementing software. It's also about making sure people can obtain the various goods that they order online because they need to do the click-and-collect.
+
+As you're aware, the pandemic and the restrictions throughout the territory in the UK are particularly severe, if not some of the most severe in the world. And that is, I would say, slowing down the speed at which physical infrastructure can be deployed. Nothing to do with us but has to do with the restrictions and how people can move around. So we are looking with our clients for ways to continue to roll out at the same speed as it is of the utmost importance for our clients to be able to offer this service because it's really an essential and critical service for the people of UK and Ireland to have the ability to order and collect their groceries in a as efficient and as fast as possible process. So things are going well. We're seeing immense amounts of traffic flow through our site, immense amount of orders, and so far so good.
+
+Great. So, okay, I guess, like the third national lockdown in the UK is hampering, I guess, some of the implementation ability. But let's say we get out of that lockdown in the summertime, things look a little bit like the December quarter. Do you anticipate you'll be able to implement like the 1,000 stores in 2021? Is that fair to assume?
+
+That was what's – that is the plan that is in the books for now, right? It's really a question of our customer adjusting themselves to the requirements because they – not only do they need to implement software but they need to do a lot of physical stuff to modify their – or sorry, to create temporary storing space or the goods that are ordered to hire and train the people that are doing the collecting through the aisles in the stores. So all that is going as fast as possible right now.
+
+Great. Then, if I'm thinking about maybe your first few stores, I know it's early days, but with that national lockdown throughout England, how does January – how do January volumes look relative to December? Is there like strong momentum there?
+
+Yes, definitely strong. Well, of course, I'm not going to comment on specific volumes today. But I've learned that watching online grocery ordering at the same time as you're watching prime television from the UK, whenever Mr. Johnson starts to speak and starts to turn a few notches of locking down a bit further, you actually see the amount of orders just increasing by the second on the platform. It's a good proxy, I guess, for measuring effectiveness of these measures, anxiety of people. It's quite extraordinary, yes. And the volumes in January were very high. We're already higher than the highest volumes that we've ever had on any of our other customers.
+
+That's great to hear. Okay. So let's move on like beyond ALDI. I'm just wondering how's the sales pipeline looking in e-Comm specifically. Are you guys like speaking or engaging with a lot of customers or any of them of, I don't want to say, similar size to ALDI, but like good size?
+
+Absolutely. Through our various partners that I mentioned, we are in basically a sales pitch mode at multiple customers. And, of course, most of them do not want us to talk about them not only at the point of signature of contract, but they usually like to wait until stuff is actually up and running at least on a portion of the places. So, yes, our pipelines are strong. Demand for e-commerce in general is very strong coming both from customers who had existing but obsolete platforms, customers who have nothing, and wants to quickly embark on selling through online channels.
+
+And right now I have to say that the limiting factor is not the ability to capture customers, but the ability to get them up and running fast enough. Our customers, as you know, are typically in the B2B space and of larger nature. So this isn't the kind of website that a small, two, three, four people operation can install in just a week and have a storefront. These require integration with complex ERP systems, financial systems, warehouses, in many cases, multiple delivery channels, multiple curbside pickup systems and constraints. So these implementations just take time.
+
+It's not a click here to hit three or four buttons, choose the background color and off you go. So, that's why, right now, we're hiring. You see a lot of hiring going on. If you go on our website, you'll see that we have lots of position open, even our partners. And some of them are like hundreds of thousands of people, even our partners are struggling to get enough people on e-commerce demand.
+
+Okay. I'd like to switch gears and talk about your EDI platform. I know you're overexposed to retail and apparels, but I would have expected the number of transactions to increase in the December quarter relative to September. And I think the implied number for EDI that it's down sequentially. Just wondering, what am I missing here?
+
+You're probably thinking of Black Friday and Christmas ordering. Now, remember that supply chain is the back end of the platforms, right? So this isn't about B2C. It's not used by consumers buying these products. It's the retailers order in most cases very much in advance of Black Friday and Christmas. And all of that stock is in warehouses, so that when consumers hit the front-end websites and order right on those shoes, dresses, skirts, whatever else, then they get delivered to your home. But the EDI transaction has already happened long before, right?
+
+So there hasn't been any replenishing is what you're saying?
+
+Yeah, correct. And a lot of the retailers are, as you know, in economic uncertainty is probably the best way to describe it. Our supply chain platforms have held up. They have been significantly stable, and that was a lot better than what we could have expected in the earlier days of this pandemic, at least during the first wave.
+
+So we were able to completely pick up back to where we started but, of course, have not unfortunately enjoyed growth. We did onboard a significantly new large customer on our supply chain platform that was Indigo which we released probably a month ago or so. And we're starting to see some of the volume there starting to happen as we're converting and onboarding the various suppliers. But we're not seeing any significant growth at this time. But I would say that on the supply chain side, holding up is good.
+
+Yeah, yeah, definitely. Okay. One last one and I'll pass the line on Vendor Registry. Can you just update us on how the migration of suppliers and buyers through your network is going? Have you seen any losses as a result? Then maybe you could touch on the pace of deploying some of that capital you have into M&A and to Strat Sourcing.
+
+So the integration of Vendor Registry is going extremely well. It's our second transaction in the year. We had k-eCommerce about a year ago, Vendor Registry a few months ago. And our integration playbook is now quite efficient. We're probably a little bit in advance of what we had envisioned to do the conversion from the customer's vendor registry. From a financial perspective, our models show that we're ahead of our initial plan. So things are really rolling very smoothly, very nicely. We had carefully planned that integration.
+
+And we have a specific person in the company handling that integration project. At some point, I would like to present this person. But she manages it not by the day or the week. I think she manages it by the second. When the clock comes to the second that this event is supposed to happen, it happens. So we're very tight on the integration of Vendor Registry going well.
+
+We're currently in contact and I would say direct contact with multiple other platforms of the Vendor Registry types. And as you know, these transactions are a little harder to predict in terms of timing, especially related to the fact that we've never had any physical meetings with these folks. Many of them are private – many times single owner owned businesses. And to just have Teams and Zoom with these folks, which are typically a bit more mature is a bit of a challenge.
+
+It's hard to establish a good relationship. So we do have a few bigger ones that we're in touch with. And if you follow the market, you know that one of them was acquired very recently. So the market is quite hot to consolidate those strategic sourcing e-tendering platforms, but I think we're very, very well placed here.
+
+Merci beaucoup.
+
+[indiscernible] (00:35:36), Amr.
+
+Thank you. Our next question comes from Deepak Kaushal with Stifel GMP. Please state your question.
+
+Hi. Good morning, guys. I'm hoping that you could help me quantify some of the opportunity with both the new customers and in the pipeline. Specifically starting with the ALDI deal, do I understand it correctly that you have not yet started revenue recognition for this? And I'm just trying to understand how you expect that to ramp up. And are the expenses for that going to level off here as you continue to deploy new deployments or is this kind of a lump sum to get you started and then it should decline from here? Any color on that will help.
+
+Well, thank you, Deepak, for that question. So the way it works is that we obviously need to deploy the software, do whatever customizations are required, integrate with the various systems that need to be integrated. And if you remember, we indicated that we have the ability to integrate every store's planogram. So the packing of the grocery is very efficient and well ordered. So we started to do that with those 200 and plus stores roughly in September. Prior to that, it was pretty much some piloting and experimenting.
+
+So we have recognized the services associated with doing all of that implementation, customization, et cetera. Up to now, we have very little recognition of, what I would call, platform revenue simply because we activated those stores pretty much during the month of December. But it was, of course, towards the end of the month that we're all on. And there's also the fact that for ALDI, this is a new service. So whenever they advertise that, oh, the store on the corner of such and such street is now able to take click-and-collect, it obviously takes a bit of time for that customer base of that store to start using the service.
+
+So, it's ramping up. It's ramping up very fast. But you should see more platform revenue, recurring type of revenue will start to click in, in the coming quarters. And we do expect that the professional services will gradually taper off as we complete those installations. But we still have a few quarters to go.
+
+Okay. And when we think of the 200 stores or 1,000 stores, any kind of metric you can give us of potential revenue per store or can this be a 10% of your overall revenue or 10% of your overall Unified Commerce revenue in the next year? Any kind of thoughts...
+
+I'd love to answer that for you, Deepak. But as you know, we've signed some very strict call them, the NDAs with our customer. And that would be disclosing information about our customer that they do absolutely not want us to disclose. So I can't give you that specific level of answers.
+
+Got it. So maybe if I can just back up and look at it more aggregate, can you guys give us a sense of what your backlog is, your pipeline is and kind of what your conversion rate of that is? Anything that can help us kind of track how you guys are progressing on the top line.
+
+I guess the best indicators that we have currently would be the difference between the professional services and the recurring revenue. If you – and I have a graph of that, I'm sure we'll have a chance to meet in the next little while. And you see a very sharp increase in the services which is – and there is a lag in the increase of the recurring revenue.
+
+If you go back I'd say six, maybe nine months ago, that lag was very small because we were pretty much on top of all the implementation. So all of the business that we acquired over the last six, nine months has not fully yet started to generate recurring revenue. And I'm looking at the graph but it's hard to give you a number like this on the phone. I think we need to sketch it out. In terms...
+
+So generally speaking – go ahead. Sorry.
+
+I was the one. You go, go ahead.
+
+Revenue can support CAD 10 of license revenue, recurring revenue or CAD 40 like how – or CAD 4. How should we think about that?
+
+That's an interesting question. Maybe, Deborah, we could try to figure something out. But I've never calculated it that way. And I think what we try to do look at really carefully is the lifetime value of a customer versus the customer acquisition costs. And those professional services revenue will have something to play in the customer acquisition cost.
+
+And, of course, a contract like a – not only contract or almost any e-commerce contract has a very long lifespan right? So the revenue will be collected over a significant period of time. We'll talk, we're talking about multi years. Because it's a pretty complex application to install, it's also pretty complex application to remove and replace. So you don't do that unless there is a really, really good reason to do it.
+
+But it's an interesting question. I haven't looked at it. If I looked over how much revenue we would hope to get from any particular accounts and figure out the proportion between the professional services and the recurring revenue over a call it a three year timeframe, I think we could get some interesting data there.
+
+Okay, great. Well, maybe I'll just leave it there and welcome Deborah to the team and I guess in the to-do list for me on some KPIs. But I have some more questions but I'll jump back in the queue and see who else is online. Thanks.
+
+Thanks, Deepak. Looking forward to meet soon.
+
+Thank you.
+
+Thank you. Our next question comes from Nick Agostino with Laurentian Bank Securities. Please state your question.
+
+Yes. Good morning. My first question just sticking with the grocery theme but not talking about ALDI. Can you discuss maybe some of your other legacy clients in Canada for sure how the click experiences looking like now that the pandemic is about one year of age? And also, I believe one of your clients Sobeys is talking about expanding their virtual experience throughout Canada into [indiscernible] (00:43:04), can you maybe talk about the timelines for that deployment if it's going to happen?
+
+Thanks, Nick. Good question. Well, the way Sobeys has shared with us their intent, right, we continue to see very strong volumes flowing through our platform. They are – they're implementing, I think, they call the service Voilà, which is through a very centralized, robotized warehousing delivering system.
+
+So I believe they're actually doing this thing, the Toronto and GTA Area and they're trying out this system to serve very dense, centralized cities. They don't seem to want to go to the franchisees to do that because, obviously, it creates the click-and-collect out of the store, doesn't remove business from a franchisee, but the delivery from that central system completely takes the business out of the franchisees.
+
+So they're sort of balancing – there's a balancing act there to do which we're not privy to all of their details. We are aware that they're talking about building a second center like that in Montréal. I think it's in two years according to the latest I have heard. But we're in good communication with them. Of course, they see some value in centralizing some things where it's possible. And if you come to that Grocery Conference that we're speaking next week, we will be addressing these types of differences.
+
+There seems to be a continuum in the world where it goes from a very highly centralized such as what Ocado is trying to offer versus just very little bits and pieces of e-commerce through something like Instacart, which requires no investment, no infrastructure, basically nothing, you just drop 10% of the order and Instacart takes care of it. And you have all the way to the very centralized warehousing automated model, which probably takes hundreds of millions of capital to build but, obviously, offers probably some pretty strong economies of scale.
+
+Our model right now is a little bit in the middle. We have the ability to centralize but we don't have robots. It's not – we don't sell any hardware or any devices that walk around the aisles of stores yet. But we do have systems that people used to do that. We've even added some watches now in order to scan directly the products that need to be brought to the Click & Collect service. So we're about in the middle.
+
+And depending on – and we're in contact with lots of grocers in multiple countries. And there's a big element of culture that needs to be brought into this. If you go in Europe, if you go in Asia, in North Africa, generally, populations live in much smaller areas than they do in North America or Western Europe. Refrigeration and freezing is not something that is used everywhere in the world.
+
+People in France, for example, still have the habit of going to buy their food every day. In very, very densely populated areas in Asia, in Africa, and even South America, a lot of people do not have the ability to store a large amount of food in their homes. They just don't do that. And the Click & Collect service for these folks really works well because it does save them time.
+
+So the world is sort of experimenting with grocery and the pandemic has definitely very much increased the amount that is ordered online. We think it created behavior that stays and there are multiple areas of I would say bettering the consumption of various food products that we're taking advantage of in our platform and we have the ability to adjust to these things. So it's really a developing industry. It's not yet baked fully what will be and I don't think there will be a unique model. Feeding is one of the most basic human reflex I guess or – and it's highly, highly cultural. People don't buy their food the same way everywhere in the world and they don't even buy the same stuff.
+
+So I think we have to have a lot of flexibility in those systems. And one of the main reasons why we win business in grocery is the large amount of flexibility that we have in our platforms. So we think we're well-poised to take a good chunk of that grocery business which we estimate on supplying technology to grocers worldwide we currently have estimates that come from Gartner I believe at CAD 57 billion yearly of technology. So still early days.
+
+Okay.
+
+Sorry. That's a long-winded answer but I'm pretty passionate about ordering groceries online.
+
+Passionate about food, that's always a good thing.
+
+Oh, I'm very passionate about food also. Yes. That's...
+
+I guess switching gears on the supply chain side. You said earlier that market has kind of stayed stable for you which is, obviously, a good thing. Given that we saw you announce the Indigo win, I'm just wondering, again, going back to the pandemic, the fact that we're one year into it, hoping 2021 is a year where we can get out more, what is your pipeline looking like when it comes to new potential wins within the whole supply chain, InterTrade, EDI space?
+
+Since we've welcomed Clément Gignac on our board, maybe we should have asked him the question because, ultimately, this is an economy question, right? When is the economy going to resume to where it was? And right now, I mean, we do have – we keep finding new customers but we have lower volume than usual on the existing customers. Neiman Marcus just doesn't sell as many fancy shoes as they did a year ago. How and when will it recuperate? We don't know.
+
+We do know, however, that we are a, I would say, a future for all of the retailers that we have. We're in direct contact with all of our customers at the executive level. We've had no write-downs even though many of them went under bankruptcy. And although we had a little bit of a delay in obtaining our payments, I believe we obtained 100% of what was owed to us, even from folks who went under bankruptcy. And they kept telling us that this would come because we represent such a strategic element in their future I would say popping back up in business once consumption starts to resume because, let's face it, and then you read more and more pieces about this, the stock market is doing extremely well, but the economy, the world's real economy like we like to call it is slow. It's not going at the same pace.
+
+And until that resumes, something like supply chain especially since we're mostly in the general apparel – general merchandise and apparel sector is – the way we're able to keep it stable on our end is because we're adding new customers. But each customer is consuming a little less than they were before. So, as soon as consumption starts to pop back up to a reasonable growth rate, we will rise with the tide. But I don't have that crystal ball yet. And we only saw Clément yesterday at our board meeting and he didn't give us the full picture of how he sees the economy picking back up.
+
+Okay. And then one last one for me, you spoke earlier about having several, I guess, Vendor Registry type discussions in the marketplace. Certainly, your share price, your multiple, you have a higher currency than you had, say, a year ago. I'm just wondering, what kind of multiples are you observing in the whole Strat Sourcing marketplace at present versus a year ago? And are you in a position to transact far better than you were, say, six months ago? And I'll leave it there.
+
+Well, a year ago, I would have a hard time answering. I could look it up, but we did not do transactions a year ago, but I know of some firms that did. Multiples did go up a bit like many other in the – anything to do with digital commerce. You noticed we paid about 5x sales Vendor Registry, the Negometrix transaction that was announced two days ago or one day ago was also in that range.
+
+It seems to be where the prices are. As we indicated in our remarks, we keep being undervalued compared to some of our peers and when you look at the guys who bought Negometrix, I'm not going to give any airtime to my competitors, but their trade – just their strat sourcing portion is trading at a multiple that if you applied it to our Strat Sourcing portion, it would give zero to our Unified Commerce today. So there's definitely a lot of room for growth there.
+
+And, yes, as we are acquiring, we have CAD 38 million, CAD 39 million or so of cash on the balance sheet that we can use. And should we be interested and using a little bit of equity to complete those transactions, I think we have a vehicle today that is of much more attraction than it was just six or nine months ago, right? Remember, the low in April was about CAD 2, CAD 2.5.
+
+Okay. Great. Thank you.
+
+Thank you. Our next question comes from Martin Toner with ATB Capital Markets. Please state your question.
+
+Good morning, guys. Thanks for taking my question and congrats on a good quarter.
+
+Good morning.
+
+Thanks, Martin. Appreciate the nudge there.
+
+My first question, when do you think professional service partnerships might help speed up the time to bring customers online?
+
+I'm sorry. I'm not sure I got your question. You asked why we think that?
+
+When.
+
+Oh, when.
+
+No, no, just wondering when. Yeah.
+
+Oh, when. Well, it's already helping, right? We're using our partners right now through – some of the partners will be selling with us. For example, we are – well, I'm not going to name any customers, but we are pitching today at some customers where it's actually the partner who's going to be really getting the contracts using our technology.
+
+So there's some of that that will be coming quite soon, I believe. And we are today using some people from all of the partners that I mentioned to execute on certain contracts because that enables them to start training a workforce. So that once we have a sizable number of people trained, they become the trainers of the next wave of guys. And that's how we gradually add people to the ability to deliver and implement those systems. So it is currently the case we have on our current customers. We are using, as much as we can, people from our partners so that it gives them the ability to learn and deploy faster later.
+
+Super. And the growth rate for Unified Commerce ex professional services at over 100%, is that a good proxy for growth rate of your ARR method?
+
+Let me make sure I – because I see Deborah is adding numbers here frantically. But are you trying to imply that our annual recurring revenue in e-commerce would grow 100% next year?
+
+Just trying to get a feel for what the run rate is right now.
+
+Well, if I remember well, I think our recurring revenue in Unified Commerce is, call it, 60% or 57% – I believe 57% on our quarter. And we think that's going to gradually increase as a total of – I'm sorry, as a percentage of total revenue. And once we really gain momentum in activating those clients, there should be a sharp increase on a, call it, quarter-to-quarter sequential. But we're obviously not forecasting numbers with the Street. So, expect growth, but I can't...
+
+Okay. So the recurring as a percentage of Unified Commerce is about 60%?
+
+57%. Yeah.
+
+57% to be precise.
+
+For the quarter, yeah.
+
+And at what rate they'll be growing?
+
+The recurring revenue, quarter-over-quarter according to – I haven't calculated this but when I look at my graph, it's about 4%, 5% quarter-over-quarter.
+
+Okay. Super. Thank you.
+
+Thank you. And our final question comes from Richard Tse with National Bank Financial. Please state your question.
+
+Hey. Thank you. Hey, Luc. How is it going?
+
+Very good, Richard. Good to talk to you. Looking forward to spending a bit of time.
+
+Good to talk to you. Yeah. Listen, a lot of questions today. One of them was around sort of the acquisition question looking a little bit differently. Do you think there's an opportunity here to pair off the e-commerce – eMarketplaces segment. Obviously, it's a bit of a drag on the business and it would certainly kind of amplify sort of the headline growth rates to be able to do that.
+
+Well, as you probably remember, when I joined, the company had just sold off one of those eMarketplaces which was APAC. And it had tried to sell off both Jobboom and Réseau Contact and we were unsuccessful. To be completely blunt and very transparent, these marketplaces are very, very niched, right, very niched and significantly small, right? When you add the five of them together it was, what, CAD 3 million, CAD 3.5 million during the quarter. So you're talking about CAD 12 million, CAD 13 million on a yearly basis approximately. So that gives you properties of a couple million of revenue, super niched, most of them in Québec and Québec only. They're profitable though. They are producing some nice margin.
+
+But for an acquirer, honestly, the reason why these properties are declining right now is they've been sort of hit with the large think about LinkedIn for recruiting. Think about Tinder, TikTok and whatever else for dating, right, say even Facebook. So for those guys who wants to buy a property like that, it's irrelevant, right? This is a rounding error on their numbers. So they're not even going to bother. So there's no strategic buyers and they're too small to be of interest for a private equity guy, just too small.
+
+So the only potential buyers are basically private individuals. But given the space of what's happening right now, it's not a good timing to go and do that. So we're keeping them but we have really, I believe, found a productive and efficient way to manage them. We've brought them all under one single leader. There basically is sales and there's significant sales and marketing done there because these properties need to sell to continue to maintain their margins and their numbers. But there's very little investment. Those platforms are mature. They're working and they're being liked by their customers. I mean, we have a lot of volume on Jobboom, on Réseau Contact, on Polygon, the diamond thing. But there's not enough growth to think about investing significantly in the properties where we're just operating them.
+
+But you're right it's somewhat of a drag. I wish – if you take that off, we could announce a bigger growth in percentages. However, I know you'd hit me back saying, well how come you decreased this year compared to last year? And then I had to go and tell you, well we had CAD 13 million of revenue from these guys and now we have zero. But I think with the growth rates we're having in Strat Sourcing and in e-commerce, come next year same time, this will be the rounding error on our total numbers. So I think the growth rates will catch up, right?
+
+In Unified Commerce, we're growing at 50%, so just – with that assuming it's maintained. In Strat Sourcing, we're growing at 25% in the States and that's without that acquisition yet. It hasn't kicked in enough to do the number. In Canada, MERX is – there's not a lot of growth space because I think MERX is already a very prominent property in Canada. But there's a heck of a lot of white space in the States and we're taking really giant steps towards achieving those. So given another year, I think the eMarketplaces will be a small enough force in their revenue that they won't materially change the KPIs.
+
+Okay.
+
+And there's a high amount – there's a high amount of recurring revenue. So it keeps things stable at the same time.
+
+Right. Okay. And just one last quick one from me and welcome, Deborah, to the company. As we sort of model out the rest of the year just from an OpEx perspective, I know you talked about having to certainly beef up with some investments. Can you give us maybe some color in terms of how those OpEx costs will scale through the year?
+
+Right. Well, we're going to – we're continuing to do quite a bit of hiring. So we're going to see some increased OpEx expenses relating to hiring. Volumes will bring on extra costs like web hosting costs and things like that. So as we continue to scale up, there will be some net increases in terms of those costs, but we would expect that probably as a percentage of total revenue, we can expect around the same types of ranges.
+
+Okay. Great. Thank you.
+
+Thank you. No further questions. I'll turn it back to management for closing remarks.
+
+Well, thank you, Diego. [Foreign Language] (01:04:28). Thank you for being with us. Thank you for your support. [Foreign Language] (01:04:34-01:04:47) So thank you, everyone, and don't hesitate to come see us on our website and we'll be seeing you soon.
+
+Thank you.
+
+Thanks very much.
+
+Thank you. This concludes today's call. All parties may disconnect. Have a great day.

@@ -1,0 +1,248 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+Todd Kehrli — President, MKR Group, Inc.
+Joe Bergera — President, Chief Executive Officer & Director, Iteris, Inc.
+Andrew C. Schmidt — Chief Financial Officer & Vice President-Finance, Iteris, Inc.
+Jeff Van Sinderen — Analyst, B. Riley FBR, Inc.
+Michael Latimore — Analyst, Northland Capital Markets
+Jon Fisher — Analyst, Dougherty & Co. LLC
+Joseph Osha — Analyst, JMP Securities LLC
+
+Management Discussion Section
+
+Question And Answer Section
+
+Good day and welcome to the Iteris Fiscal Third Quarter 2018 Financial Results Conference Call. Today's conference is being recorded.
+
+At this time, I would like to turn the conference over to Mr. Todd Kehrli of MKR Group. Please go ahead, sir.
+
+Thank you, operator. Good afternoon, everyone, and thank you for participating in today's conference call to discuss Iteris' financial results for its fiscal 2018 third quarter ended December 31, 2017. Joining us today are Iteris' President and CEO, Mr. Joe Bergera; and the company's CFO, Mr. Andy Schmidt. Following their remarks, we'll open the call for your questions.
+
+Before we continue, we'd like to remind all participants that during the course of this call, we may make forward-looking statements regarding future events or future performance of the company, which statements are based on current information, are subject to change, and are not guarantees of future performance. Iteris is not undertaking an obligation to provide updates to these forward-looking statements in the future. Actual results may differ substantially from what is discussed today, and no one should assume that at a later date company's comments from today will still be valid.
+
+Iteris refers you to the documents that the company files from time to time with the SEC, specifically the company's most recent Forms 10-K, 10-Q and 8-K, which contain and identify important risk factors that could cause actual results to differ materially from those that are contained in any forward-looking statements. I'd like to remind everyone that a webcast replay of today's call will be available via the Investor Relations section of the company's website at www.iteris.com.
+
+Now, I'd like to turn the call over to Iteris' President and CEO, Mr. Joe Bergera. Please go ahead.
+
+Great. Thank you, Todd, and good afternoon, everyone. Thanks for joining us today.
+
+As you saw at the close of the market, we issued a press release announcing the financial results for our fiscal third quarter ended December 31, 2017. In Q3, Iteris recorded total revenue of $26 million, representing 15% year over year growth. The result was due primarily to three factors. First, we continued our strong execution across all of our segments. Second, we realized a rebound following Hurricane Harvey that pushed some Roadway Sensors sales from Q2 into Q3. And third, we also realized the replacement of some equipment damaged by that hurricane. I will discuss those weather-related dynamics in more detail in a few minutes. In any case, our year to date consolidated total revenue was $78.5 million, representing an 11% year over year increase.
+
+Due to a deliberate decision last year to reserve our tax loss carryforward, we sustained a benefit under the new federal tax law, which resulted in the net profit of $343,000. Andy will discuss the Q3 mechanics in more detail, as well as comment on any potential implications going forward.
+
+On an operating basis, we realized a Q3 loss of $1.1 million versus a $1.5 million loss in the same prior year quarter.
+
+In Q3, the Transportation Systems segment recognized revenue of $13.6 million, which represents 14% growth versus the same prior year quarter. This performance is consistent with the segment's first half rate of growth. And on a year to date basis, the Transportation Systems segment recognized revenue of $41.4 million representing 13% growth over the same prior year period. The Transportation Systems segment ended the third quarter with $46 million in backlog. This backlog figure does not include over $9 million of the $9.5 million IDIQ contract that the Federal Highway Administration or the FHWA awarded Iteris in November.
+
+On a related note, we received notice in December of VDOT's intent to award its new traffic services contract, including its transportation operations and their management activities to our team, led by AECOM as the prime contractor. As AECOM has not finalized contract negotiations with VDOT, the value of the contract renewal is also not reflected in our backlog figure. In any case, recent notable wins, including the first task order under the FHWA contract [indiscernible] (00:05:10) $450,000 are reflected in the backlog. Additionally, we have an exciting connected vehicle concept of operations project for the Pennsylvania Turnpike in the backlog, and we also have several large orders for our IPAMs and ATIS software applications.
+
+Going forward, we expect our focus on project mix to continue to benefit the financial performance of the Transportation segment. That said, we may continue to encounter project timing issues that produce material margin fluctuation within a given period. And in Q3, the segment level operating income margin was 16.3%. However, while this is in line with the same prior year period, you'll note that the margin represents150 basis points sequential increase, reflecting the potential for that quarter to quarter fluctuation.
+
+For Q3, the Roadway Sensors segment recorded $11 million in revenue versus $9.4 million in the same prior quarter. This represents an 18% year over year rate of growth, which exceeded our expectations. While most of the pickup was due to the resumption of projects delayed in the prior quarter, we did fulfill some replacement units and also associated third-party equipment damaged by Hurricane Harvey. Outside of Texas, we also experienced strong product sales in Northern California and Arizona, and we also continued to experience favorable adoption of VantageLive!, that's the software-as-a-service solution that we released in May.
+
+On a year to date basis, our Roadway Sensors segment realized 9% growth against the same prior year period. As discussed on prior calls, our gross margins tend to be lower in Texas due to the mix of third-party distribution revenue in that state. And during Q3, the Roadway Sensors segment realized a 210 basis point decline in its segment level operating income, and that margin compression is due to the associated increase in revenue contribution from the State of Texas.
+
+In Q3, ClearAg continued to experience strong year over year revenue growth; in fact, with over 50% year to date growth against the same prior year period. That said, the Agriculture and Weather Analytics total rate of revenue growth was only 2%. This was due to our decision to eliminate ClearPath Weather's dependence on a third-party royalty. This move affects our ClearPath Weather business model in the short-term by reducing our gross revenue. This will affect revenue comparisons for the next three quarters. However, it will materially improve our gross margins and create positive pricing flexibility. In fact, in Q3, the Agriculture and Weather Analytics segment's gross margin increased 1,100 basis points year over year and 1,500 basis points sequentially.
+
+Notwithstanding the revenue headwinds from ClearPath Weather in Q2 that you may recall were due to a delayed contract renewal that we discussed on our last call and then the business model changes which we incurred in Q3, the Agriculture and Analytics (sic) [Agriculture and Weather Analytics] (00:08:40) segment as a whole still recorded 11% year to date revenue growth against the same prior year period.
+
+During Q3, we closed several noteworthy ClearAg deals. To give you a flavor, I'll briefly highlight three of these deals. First, we expanded our relationship with Bayer CropScience, which has embedded ClearAg into its digital farming solutions [indiscernible] (00:09:06). Second, we entered into a resell agreement with Gylling Data Management. GDM is the gold standard software application used by crop science companies, universities and other scientific R&D organizations to manage field trials worldwide. And third, we secured an OEM deal with Ag space, which provides agronomic services to growers, agribusinesses, and research institutes across Europe and Africa. Under the terms of the agreement, Ag space will embed ClearAg in its web-based contour platform.
+
+So, looking ahead, we remain very enthusiastic about the opportunity for Agriculture and Weather Analytics segment. We believe that this model change to ClearPath Weather will expand our addressable market and enhance our market differentiation. And additionally, we are introducing enhancements to our ClearAg value offer, and we expect to improve our opportunity conversion, account penetration and price model scalability. And I'm going to discuss those initiatives in more detail in a few minutes.
+
+But in the meantime, I'd like to turn the call over to Andy to walk through our financial results in more detail.
+
+Thank you, Joe, and good afternoon, everyone.
+
+As Joe outlined in his introduction, we've had a very nice recovery from the externally driven challenges that affected our second quarter results. That said, we also saw other positives, including positive impact from the recent tax law change, as well as other favorable operating metrics that I'll discuss in more detail.
+
+As Joe previously covered, our Q3 revenue of $26 million was a record quarter and benefits somewhat from the pushout of second quarter revenues specifically in our Sensors business. That said, we had strong performance in Sensors despite the revenue catch-up, as well as strong performance in our other two BUs.
+
+Considering our business units individually, let me start with those Systems business. Accompanying solid revenue of $13.6 million, we saw good gross margins of 33.4% as compared to 30.5% last year. The year over year change is attributed to favorable job mix. Year to date revenue of $41.4 million saw gross margins of 31.8%, which is consistent with our prior your gross margins of 31.7%.
+
+In terms of contribution margin, Systems posted Q3 CM of 16.3% as compared to 16.1% last year. Year to date contribution margin of 15.6% compares to 18.6% from the prior year period. The year over year decline in CM is primarily driven by marketing activities, which can vary year to year depending on the timing of large contract opportunities. Our current fiscal year includes several large procurements that include the current topic, VDOT TOC recompete.
+
+Looking at our Sensors business, as Joe noted, we saw several key drivers that led to current period revenue of $11 million, which compares very favorably with $9.4 million last year. As has been discussed, a key driver to revenue uptick is the resumption of projects delayed in Q2 due to weather events in Texas and [indiscernible] (00:12:17) Florida.
+
+Considering gross margins for the segment, the key area affected by weather delays, the State of Texas, is also a region for which we have very strong third-party product distribution business. Our distribution business operates at about a 14% to 20% gross margin level depending on product mix. That compares to 45% to 50% gross margins for core products. Comparing fiscal year 2018 Q3 with fiscal 2017 Q3, our current year Q3 revenue distribution business was 15% of total segment revenue as compared to 8% of total segment revenue for the prior year.
+
+This resulted in a segment gross margin of 42.7% for the current year Q3 as compared to 47.4% for the prior year period. Year to date, the distribution mix variation is less pronounced and resulted in gross margins of 45.1% for our current fiscal year as compared to 47.1% in fiscal 2017.
+
+Looking at our Ag and Weather segment, our ClearAg product line continues to grow. However, as Joe mentioned, our ClearPath Weather was subject to a change in business model, which was an elimination of a third-party royalty responsibility which affected segment revenues for the period. While we feel this is a positive change, revenues for the product line were reduced about $200,000 this quarter as we had previously negotiated the royalty as a pass-through to customers.
+
+The key is cost of sales is also reduced by the same amount, resulting in improved gross margins. And as Joe commented earlier, this is a net positive for Iteris as our pricing flexibility has been enhanced for the product line.
+
+Overall, current year Q3 revenues for the segment of $1.4 million resulted in gross margins of 49.6% as compared to revenue of $1.4 million last year at 38.5% gross margins.
+
+Continuing on, current year quarter contribution margin for Ag and Weather segment was a negative $1.8 million as compared to a negative $1.9 million for the previous year. In terms of year to date results, revenues in our Ag and Weather segment of $3.5 million showed gross margins of 43.5% as compared to revenue of $3.1 million at 42.5% for the prior year period. Contribution margin of negative $5.9 million for year to date fiscal 2018 compares to a negative $5.6 million for the prior year period.
+
+At the enterprise level, for Q3, current period total revenue of $26 million compares to $22.7 million for the prior year period. Gross margins of 38.2% compares to 38.0%. Total corporate expenses of $3.5 million compares to $3.4 million in the prior year period. Current quarter operating loss of $1.1 million compares favorably to an operating loss of $1.5 million last year. In terms of net income, Iteris benefited from the recent tax law changes, specifically in regard to the [ph] E&T (00:15:26) credit.
+
+As Iteris had previously reserved its tax assets, the tax law change benefit, $1.1 million, which is cash-based benefit, is fully realized in our current quarter. Due to the tax benefit, Iteris reports net income of $343,000 or $0.01 per share as compared to a loss of $1.4 million or $0.04 per share in Q3 of fiscal 2017.
+
+Looking at year to date results, current period total revenues of $78.5 million compares favorably with last year's results of $70.7 million. Current period gross margins of 38% compares to 38.9% last year. Current period operating loss of $2.8 million compares to $1.7 million last year. And net loss of $1.1 million or $0.04 per share compares to a net loss of $1.4 million or $0.05 per share last year.
+
+From a balance sheet perspective, we ended the quarter with cash at $16.8 million, an increase of $1.9 million from last quarter and a $1.4 million reduction from the beginning of the fiscal year. Current period cash performance was primarily attributed to strong accounts receivables collections. Otherwise, of note, cash flow from operations is positive year to date. And we have invested approximately $2.4 million year to date on CapEx, which includes investment in upgrading our corporate ERP system. Finally, deferred revenue remained at $4.7 million at December 31, 2017 versus $4 million at the beginning of the year.
+
+This concludes my prepared remarks. And as a final note, we expect to file our 10-Q today, close of the business day. At this point, I'll turn the call back to Joe.
+
+Great. Thanks, Andy.
+
+So, let me start. Iteris continues to benefit, we believe, from consistent solid execution and also, of course, from favorable trends in transportation and agriculture. While, we expect the rebound from Q2 weather events to taper in Q4, we still continue to expect growth across all of our segments in the fourth quarter even against very challengeable – challenging prior year revenue comparisons due to the continued strong execution, and again the benefit of those favorable trends.
+
+Our Transportation Systems segment continues to experience an increase in demand for programs related to smart cities, data analytics, connected vehicle advisory services, and vehicle to infrastructure planning and design. We believe that Iteris is uniquely qualified to address this market demand. That said, while we continue to develop our still relatively small portfolio of multimillion dollar projects, the anticipated reduction and scope of our VDOT TOC contract will create some near-term headwind for the Transportation Systems segment, and that could occur as early as the middle of the current quarter or in other words Q4 FY 2018.
+
+Despite this headwind, we remain confident that we'll continue to convert our historically large sales pipeline and sustain solid above-market revenue growth over the medium- to long-term. Though, as we have stated on prior calls, we would anticipate the revenue line for our Transportation Systems segment to move in stair steps rather than a linear function due to the timing of new contract awards and contract renewals in FY 2019.
+
+With respect to our Roadway Sensors segment, we would anticipate to continue to benefit from ongoing product innovation, including the evolution of our cloud-based intersection analytics platform, VantageLive!, which we just launched in May 2017. In fact, in Q4, we're bringing two new noteworthy innovations to market. First, one new innovation is our SmartCycle Bike Indicator, which received the 2018 BIG Innovation Award from the Business Intelligence Group just today.
+
+The first of its kind product is a mountable, easy to install device that alerts bicyclers that they've been detected by a traffic signal. The other new innovation is our SaaS-based Signal Performance Measures or SPM application, which we launched in January and is now being delivered on our VantageLive! platform. Over time, we expect to release several new modules on our VantageLive! platform which could more than double the segment's current $350 million to $400 million TAM.
+
+In Q4, for our Roadway Sensors segment, we anticipate a slower rate of growth than we saw in Q3 due to the segment's tough prior year comparison. Having said that, we continue to expect the Roadway Sensors segment to realize an increase in segment level operating income dollars even as we continue to make some modest investment in our customer success activities for VantageLive! In fact, we continue to believe that VantageLive! as a product line will realize substantially higher gross margins, we'll realize on our Sensors as the segment's new SaaS solutions reach maturity, and hence the decision to continue with this modest investment.
+
+Now, let's discuss our Agriculture and Weather Analytics business. The segment continues to experience growth and adoption of ClearAg by seed and crop protection companies, as well as Ag software and Ag service providers who embed ClearAg into their solutions. Initially, our customers have consumed ClearAg's smart content in the form of APIs or components. This has been an effective way to sell to early adopters, and we'll continue to use that approach. That said, we now have sufficient in-market experience to begin to productize our base content to address specific critical business problems across the agriculture value chain. So, at this time, we're starting to organize our go-to-market activities against three distinct new solutions.
+
+First is a product validation solution that is designed to help seed and crop protection, as well as integrated food companies, improve their product efficacy, product development and product marketing investments. Second is an irrigation solution that will help irrigation service providers, water districts and Ag service providers better optimize water use. And third is a harvest solution that will help Ag equipment manufacturers, Ag service providers, and grain and food processors reduce the cost to harvest, store and process crops.
+
+We'll introduce these solutions in phases starting in early FY 2019, and we expect to sell the solutions to a line of business owners as opposed to the technical buyers who traditionally purchase our smart content. So, by reducing or even eliminating some of the previous technical dependencies by transitioning to the line of business buyers, we expect to be able to sell the solutions more effectively to Tier 2 and Tier 3 crop science companies than we've been able to sell our base smart content alone, again because of the requirement that IT and other scientific technical experts are involved in the integration into our customers enterprise applications stack.
+
+In addition, we believe the solutions expand the set of targets agribusinesses to whom we can sell ClearAg, and hence we believe it will increase our total addressable market.
+
+Now, to be clear, we expect to continue to secure additional orders at the operating company level of our Tier 1 crop science companies, and we continue to believe the single biggest near-term lever to accelerate revenue growth will come from converting these accounts to enterprise agreements which, of course, we've talked about on prior calls.
+
+Given the current timeline for M&A activity in the agribusiness sector, we would continue to expect to begin to realize the potential of some of those enterprise agreements in FY 2019. That said, a secondary benefit from our new solution strategy is it does reduce our dependency on the timing of crop when science company is converting to enterprise agreements.
+
+As discussed earlier, we're making a business model change to our ClearPath Weather product line. This will continue to improve our gross margins and provide more pricing flexibility. However, for the next three quarters, the business model change will likely reduce our gross revenue for ClearPath Weather as we migrate customers to the new model. And thus it will depress the rate of growth for the Agriculture and Weather Analytics segment.
+
+Despite the gross revenue impact to ClearPath Weather, we do expect – we expect ClearAg to show – to continue to realize healthy adoption and to show double-digit growth – and to drive double-digit growth for this segment even while the ClearPath Weather business model change depresses revenue while, on the other hand, improves our gross margins.
+
+Although we expect to realign some resources to execute our enhanced go-to-market strategy for ClearAg, we believe our scientific and engineering capacity remains sufficient to meet current product roadmap requirements. And likewise, we believe our current total sales and marketing resource level is sufficient to support our near- to medium-term requirements. Therefore, we do not anticipate any increase in the segment's annualized cost base through the balance of FY 2018 and at least the first half of FY 2019.
+
+So, in summary, Iteris continues to execute well. Q3 was a very solid quarter. We anticipate that market conditions will remain generally favorable in all of our end markets through at least a medium-term horizon. And further, we believe the product go-to-market and other operational enhancements that we're making will strengthen the performance of our Roadway Sensors and our Agriculture/Weather Analytics segment, while our Transportation Systems segment works through some short-term headwind due to the anticipated reduction in scope of our VDOT TOC contract. Therefore, we continue to anticipate second half organic revenue growth from each of our reporting segments, with consolidated operating margin rates similar to our first half.
+
+With that, we'd be delighted to respond to your questions and comments. Operator?
+
+Thank you. [Operator Instructions] We will take our first question from Jeff Van Sinderen with B. Riley FBR. Please go ahead.
+
+Good afternoon, and let me say congratulations on continued progress in all your segments. Maybe you can just speak to the business in Texas, you saw a pretty good rebound in Q3, and I'm just wondering, do you anticipate more follow-on business in Texas as a result of the hurricanes over the next couple of quarters? How are you thinking about that?
+
+Yeah. Jeff, this is Joe. Thanks for that question. [indiscernible] (00:27:20) been thinking about a lot, it's hard for us to, at this point, understand how much of the demand that we are already seeing this quarter is a function of kind of regular business or previously planned new initiatives versus pickup from projects that were previously delayed. It was a little bit easier in Q3 to kind of understand that breakdown, but as we're getting farther away from Q2, it's getting a little bit harder. So, I don't know how to quantify that. I will say that we are continuing to see a lot of activity in Texas, which is a huge market for us, and we think that that is obviously a good place to be about half way through Q4.
+
+That being said, as we've mentioned, Texas is unique in that our gross margins are a little bit lower in Texas than in some of the other regions, so we'll have to see how that balances out. And then the second thing that I just want to remind everybody of is that Q4 last year, up to date, was our Roadway Sensors' biggest quarter ever. So, we do have a really, really big prior year comparison that I want everybody to keep in mind.
+
+Okay. That's helpful. And then I think you mentioned on the VDOT contract, that that hasn't been finalized yet. Is there anything more you can tell us about that and, I guess, what the timeframe is?
+
+Yeah. I mean, we don't have perfect visibility and, in fact, that – and public procurement information is restricted and really only channel through public sources. So, we pretty much have access to the same information that you guys would be able to get access to on the VDOT website. But that being said, our understanding is that the next step is for the Virginia Department of Transportation to take their final recommendation to an internal committee. We'd expect that to occur sometime the end of February, although I don't have a precise date.
+
+And then following that, we would expect VDOT to commence contract negotiations with AECOM. Unfortunately, I don't have any visibility beyond that. I don't know what transpires between the committee meeting and actually getting to the final contract execution. That's something that could take a matter of days, but it could potentially stretch into weeks. Obviously, as we have more information, we'll certainly share that with everybody.
+
+Okay. And then one more if I could squeeze it in. Just wondering how you're thinking about the broader domestic plans for increased infrastructure spending as that relates to your business. Just, I guess, wondering how you think that might evolve for you.
+
+Yeah. So, today, our business is really funded by state and local revenue sources. And I think that's a good thing because we're not highly impacted to the downside by the budget issues, challenges in getting to, like an annual budget at the federal level. So, I don't see a lot of downside from the continuing resolutions at the federal level and the difficulty in getting to a national budget. Now, that being said, if there were a nationwide infrastructure spending initiative that increased total aggregate infrastructure investment, that would certainly help us. We haven't factored that into our plans at this time because, as I said, today really all of our businesses is funded by state and local revenue sources.
+
+Okay. Good to know. Thanks for taking my questions, and continued success.
+
+Thanks.
+
+We will go next to Mike Latimore with Northland Capital Markets. Please go ahead.
+
+Yeah. Great. Thanks a lot. Yeah, very nice quarter. On the ClearAg business you mentioned there, but any other renewals in the quarter, I guess, or you're still at close to 100% renewals on your ClearAg customers?
+
+Yeah. Certainly, there were other renewals in Q4; and yes, I believe our quarterly renewal rate on ClearAg was 100% or near 100%. I don't have the list in front of me, but to be clear, there certainly were other renewals in the quarter.
+
+Yeah. All right. And then there was one of your customers in ClearAg, [indiscernible] (00:32:18) buying SST. Is that meaningful or are those pretty small customers?
+
+I don't know that – I can't really comment on the implications of that. There's obviously a lot of consolidation going on, broadly speaking, in the agricultural sector. In some cases, it's material and causes – has caused delays. At this point, I wouldn't expect the potential combination of those two companies to have much of an implication, but so – the answer would be no. I'd say I don't expect it to be – to have much of an implication.
+
+Yeah. Okay. And then just on ClearPath specifically, I understand the change that's going on there. Are you still – I mean, is there a good pipeline for ClearPath or are you promoting that or is that more sort of SaaS growth [indiscernible] (00:33:13)?
+
+Yeah. Actually what we're kind of alluding to when we talked about a business model change, and I think I did mention that we expect the elimination of the third-party royalty to give us more pricing flexibilities and improve our market differentiation. What that – what's going on behind the scenes, like what that really means, is that we think that there are potentially smaller customers who were priced out of ClearPath Weather previously that we could now address. We also think that even some of the larger customers will potentially buy additional ClearPath Weather modules from us because they have the existing budget that they previously spent against the third-party royalty product that can now be used to acquire additional functionality that we deliver directly.
+
+So, we expect it to increase our addressable market and also increase our account penetration, at the same time improving our gross margins immediately. Now, that being said, I think it's going to take some time, right, before we can convert – like basically cross-sell the existing customers to these new features that we're introducing and also convert new accounts. And therefore, for the next couple of quarters, I think you're probably going to see a revenue reduction because the gross revenue is going to decline on our current ClearPath Weather customers. But after some period, certainly after three quarters, it will be beyond this cycle, you'll start to see growth but it could happen sooner than that. It's a matter of how quickly we can use the strategy change or the business model change to our advantage.
+
+Makes sense. Thanks.
+
+[Operator Instructions] We will go next to Jon Fisher with Dougherty & Company. Please go ahead.
+
+Thank you. Good afternoon. Very good quarter. I just wanted to start with one of the last comments you made in your prepared comments where you were referencing second half performance versus first half performance. When you were comparing second half to first half, are you talking about just margins being similar between the two halves or growth rates in the segments being similar between the two halves also?
+
+Well, I'll comment briefly, and then let Andy add some additional color. What I was trying to say is that despite the fact that our prior Q4 was a huge quarter and despite all the puts and takes, there are a lot of dynamics that work in our business. And what I'm saying is, despite all that, we would expect to see growth in Q4 in all of our segments; and I was also saying that at the highest level, I'd expect that our operating margins would remain basically the same in the second half as they were in the first, but Andy can probably better characterize that.
+
+Sure. So, Jon, if you consider, it's nice being three quarters in as I call out the year to date numbers, there is a consistency between years and again it's either an uptick or basically predictable. Quarter to quarter, there are variations as we described in our Systems business. Job mix is going to drive anywhere between 29% and could be 34% or 35%, but [ph] we intend the (00:37:01) level set down at about 32.8% to 33.0%. When you consider Q4, consider a total year overall number. Again, as we get into a year or quarters we have under our belt, the more you see the consistency and less reliance on quarter to quarter variations.
+
+Same is true in Sensors when you look at them year to date. We'll continue moving back to more of a normalized 45 point gross margin. Right now, again, that great recovery in Texas, we're going to see a little bit heavier reliance on the distribution business there, which is great business, but that's your big driver in your comeback. When we get into a Q4, again we're expecting more normalized patterns. And so the total year for year over year will look very consistent.
+
+Okay. Thank you. I appreciate that color. And moving on to Transportation Systems. One of the comments that you had made on the prior quarter is you were seeing or there was some potential risk where moneys would be deferred from Texas-Florida budgets for kind of new innovative, more Iteris-type investment project spending, and towards more just basic rebuild, reconstruction from hurricane damage. And based on the performance of Transportation Systems in Q3, it doesn't really look like that kind of budget deferral risk actually occurred. So, just wondering if you can revisit that topic, that point, and talk about Q3, how things played out and maybe the current quarter, if that risk is still there or if you've got enough information and insight now that there really isn't any of that risk there.
+
+Yeah. So, Jon, you have a very keen memory. And this is a kind of complicated topic, so I'll do the best that I can here. What I was trying to say last quarter is that there was a – obviously a significant impact for Roadway Sensors business in the prior quarter, less of an impact to Transportation Systems. But to the point you brought it up, I did say that we felt that some of the RFPs had been delayed in being distributed and therefore it could have some future knock-on implications for Transportation Systems. And I would say that, at this point, it seems that TxDOT and then all the major local municipalities seem to be back to business, and I'm not aware of any RFPs being delayed at this point. So, I think our Transportation Systems business is probably on track.
+
+But now, that being said, this point about how much of it is recovery-related or catch-up on like projects were delayed in Q2 versus new spending, that nuance also applies to Roadway Sensors. So, I just wanted to come back and be clear about that. And because our Roadway Sensors business is bigger in Texas and then the nature of that business where they don't have such long procurement cycles, the projects tend to be conceive the plan, the materials procured, and then they move into implementation in usually much shorter cycles.
+
+I would say that we still don't have that visibility, and that goes back to the point I was talking about earlier when I tried to respond, I think it was Jeff's question, which is that we're not sure right now how much of the immediate orders that we're discussing with Roadway Sensors customers in Texas are related to catch-up and how much of it's new. We just don't have that fidelity right now at this point for Q4. And I would expect that by the end of this quarter, that will be sort of sorted out and we'll be able to be much more specific in Q1. But I don't have that visibility for Roadway Sensors quite yet.
+
+Okay. Thank you. And then final question. You made reference to – again, on Transportation Systems, you made reference to business development investment spending, a lot of RFP activity out there, a lot of opportunities out there that you're participating in, that you're chasing, for lack of a better verb right now. You mentioned that last quarter, mentioned it again this quarter. I guess, just from a persistence standpoint, just given the type of business the Transportation Systems is and just kind of some forward thinking, I would think the amount of RFP activity would only increase. Should we think of kind of this opportunity RFP investment spending is more normalized and not something that's short-term or temporary? Or if you're still willing to categorize it as kind of just temporary, how much – how many more quarters do you think this have [indiscernible] (00:42:14) intended spending will continue?
+
+Yeah. That's a really good question, Jon. So, there are a couple of things that are underlying that. First, which I think I may have mentioned in passing on prior call, we have traditionally executed what I would call kind of a traditional consulting sales model. Everything is very relationship based. The people who sell the business have [indiscernible] (00:42:50) account managed and project managed implementations. It's a very classical consulting model. As our consulting business is matured and we've made a strategic decision to kind of try to balance our sales pursuits to include some number of very large multi-million, in some cases tens of millions of, dollars a year in annual revenue for a given project, we have made a strategic decision to create a centralized business development team. And so, we are – in fact, we've made recently, just in the last couple of weeks, a strategic hire as a fully dedicated business development resource. And we – I would expect to add one or two more individuals like that.
+
+So, when we talk about increase in business development cost, part of that is due to we're standing up this dedicated business development team, which we've never had. We're standing that up, and I would expect us to continue to maintain that. But I think it's one of those things where you get sort of the key positions in place and then you start to – that starts to scale, you get leverage out of that model.
+
+The other element is there are a lot of RFPs that we get and so we redirect staff that otherwise would be on billable projects to help write those proposals because they got the technical expertise to help respond. That shows up in our marketing costs, and we'll talk about that as a business development expense. And I'm actually going to ask Andy if maybe he wants to comment on what we would expect that – how that would expect to look going forward from a financial reporting perspective.
+
+Sure. And so I think Joe hit the nail on the head and that is – what we see right now in absolute dollars will continue forward, but we expect it to leverage. Again, we're looking at a design, as Joe described, where we have dedicated resources at our particular size where we should gain efficiencies from that set-up; in other words, as we continue to grow and as we continue to pursue larger pursuits, as we continue to add new geos that require pursuit. Instead of having to add incremental expense to it, we should be able to basically say we have a reasonable base to work from. So, as we sit today, probably the same absolute dollar level, but we should leverage out of this and over the next – in our next fiscal year.
+
+Okay. Great. Thank you.
+
+We will take our next question from Steve Dyer with Craig-Hallum Capital Group. Please go ahead.
+
+Hey, guys. [ph] Ryan (00:45:28), on for Steve. I'm trying to bifurcate the benefit from hurricanes versus the underlying strength in the Sensors business. Do you have revenue growth excluding Florida and Texas?
+
+Absolutely. Yeah. Well, I'll let – I'll make a high-level comment; and, Andy, you can comment on it. But to be clear, we had very strong underlying performance in Roadway Sensors and that – I'll let Andy [indiscernible] (00:46:00) wants to characterize the actual impact there. But I would just say that the rebound exceeded our expectations. It was certainly positive and it helped, but we had very strong underlying business performance regardless. Andy, how do you – what's the best way to characterize that?
+
+Sure. So, again, if you consider the comp that both Joe and I threw out there in terms of $11 million and how it compares to $9.4 million last year, not all of that was Texas recovery. Again, it's growth across all geos. As far as the specific call-out of what might have been existing project that we – that did not get deferred and what was the recap or re-catch up, we really can't put a finger on that, but when you look at that big of a delta year over year, it's certainly not all just due to catch-up. So, again, it's a nice growth in the overall business.
+
+The key message though is every quarter is a little bit different. When you look at that business for the full year, when we close our Q4, I think everything will make a lot of sense in a year over year perspective, but as Joe already cautioned, even though we expect to see strong performance in that segment in Q4, we do line up against a tough comp which was a seasonally high number in Q4 of last year. So, once again, it's – we're performing well across all geos. We expect to perform well in Q4, but we are kind of marching up against what was once the record of all time for that business, so just kind of stay tuned on that front.
+
+And [ph] Ryan (00:47:40), one thing that might be helpful too is I shared the year to date revenue figure for the Roadway Sensors segment, which is 9% growth. And maybe the simplest way to think about it is that we had obviously negative impact in Q2 and then positive in Q3. You could kind of think about that sort of being normalized over the two quarters. And so kind of think about that 9% growth rate as being representative of the underlying core business. Although to Andy's point, we can't specifically quantify what was catch-up and what was core or underlying business in Q3. But that's kind of the way I would look at it.
+
+Great. That's helpful. Thanks, guys. Switching gears to Transportation Systems. As you look at your backlog and the various awards in your pipeline, is it reasonable to assume – or do you guys think that you can grow that segment year over year next year even with the lost revenue from Virginia DOT?
+
+Yeah. So, it's all going to come down to timing on new contract awards and then the actual renewal date on VDOT. And then we don't have anything else of that size, but potentially some other smaller projects and how the renewal dates work out on that. But – so, right now, I don't know. We're going through our planning process to formulate our FY 2019 plan. As you know, our fiscal year starts on April 1, so we'll certainly have more to share with you guys soon. But I would say, just because we want to be as open and transparent as possible, that I think as I previously said, someone asked me on the last call, if you were – if you didn't win this TOC deal, what – how long would it take you to grow out of that, and the answer was about 12 to 18 months. Now, we think that we're going to retain, let's say, about half-ish, about $5 million of the $11 million, but I think that means that we have probably about 6 to 12 months to grow out of that.
+
+So, to be clear, I think H1 of next year, you're going to have – Systems is going to see some headwind. There's no doubt about it. What that looks like – how to quantify that and what that looks like for the full year is going to take us a little bit more time to work through that. We'll have better visibility, of course, as to the timing of the VDOT contracts and other contracts that are pending plus all the benefit of finalizing our revenue plan by the time we talk to you next.
+
+Great. Thanks, guys. That's it for me. Good luck.
+
+We will take our next question from Joseph Osha with JMP Securities. Please go ahead.
+
+Hello there, and thank you. If I could, I wanted to return to some of your comments about the new go-to-market strategy in agriculture, and I guess I'm trying to understand whether this is entirely additive to some of the plans and aspirations you had around enterprise level subscriptions or whether this represents perhaps a small retooling of the aspirations for that business?
+
+That's a great question. So, it's absolutely additive. But I would say that there's an element of retooling because, remember, we have just recently entered the market, we've been in a little over two years, and I think this is a very classical product evolution cycle where, as an enterprise software provider, you provide kind of essentially a platform solution, you'd sell to the early adopters who are willing and in fact want to put technical resources on these projects and help you flush out that solution.
+
+And ultimately, those platforms evolve into an application suite. And that's the evolution that we're going through. And as you get to that point and you've got more kind of purpose built, more productized features and functions, then it's easier for you to sell to the next set of prospective buyers who are less willing to make that internal investment and in some cases tend to be smaller organizations as well. So, you're selling to more companies smaller bite-sized solutions. So, this is a natural part of our evolution.
+
+The other thing that I would note is if we think we've found opportunities to address some other prospective customers that weren't – they're part of the Ag value chain but we didn't necessarily consider target customers in the first space of our evolution. Those would include like integrated food companies, for example, which were not, again, in the first phase of our rollout. We weren't targeting them, and now we see them as prospective customers.
+
+And just to – what Joe has talked to, [indiscernible] (00:53:06) retooling. I think a bit more of it is refining, but some – the very basics of pursuing a large enterprise is enterprise-looking type software deals. This is all still exactly the strategy. There's a new GM in place that's hit the ground running, that has a lot of agribusiness experience, that's just bringing further thought to what was already applied for and put in place. And as Joe said, different market opportunities, whether it's like you talked to the large food agribusinesses or it could be irrigation, [indiscernible] (00:53:43) whatever. It's always been in the playbook. It's just a matter of what's the smartest place to go first.
+
+So, [indiscernible] (00:53:52) you did say that it would be reasonable to expect maybe one of these larger deals to come in over the transom in 2019, but I also believe I heard you indicate that we could expect, based on this new strategy, that you're undertaking some additional growth in the business off of this Q3 run rate.
+
+Yeah. That [indiscernible] (00:54:20).
+
+Even [ph] ex-(00:54:21) factoring in any big subscription agreement.
+
+Yes. The execution of strategy has the secondary benefit of buffering us or making us less dependent on getting those enterprise agreements or the timing of those enterprise agreement. But to be clear, we still expect to get those enterprise agreements.
+
+Okay. Thank you. I'll – I appreciate. I'll go back in the queue.
+
+Okay. Thanks.
+
+At this time, there are no further questions. I will now turn the conference back over to management for closing remarks.
+
+Awesome. Great. Thank you. So, we appreciate everybody's support and good tough questions as always.
+
+On the Investor Relations front, we'll be presenting at the JMP Securities Technology Conference in San Francesco on February 26 to February 27. We'll also be at the 30th Annual ROTH Conference taking place in Laguna Niguel on March 11 through March 13, and the 19th Annual B. Riley FBR Investor Conference taking place in Santa Monica, California on May 23 and May 24. And last, but certainly not least, the Craig-Hallum Institutional Investor Conference in Minneapolis on May 30. If you're attending any of these conferences, I would love to see you. We'd encourage you to come sit in for our presentation.
+
+In the meantime, we look forward updating you again on our continued progress when we report our FY 2018 fourth quarter and our full year results. So, with that, this concludes today's call, and thank you.
+
+Once again, this will conclude today's conference call. We thank you for your participation, and you may disconnect at this time.

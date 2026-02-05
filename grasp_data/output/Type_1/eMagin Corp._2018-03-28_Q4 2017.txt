@@ -1,0 +1,433 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+Jeffrey P. Lucas — Chief Financial Officer, eMagin Corp.
+Andrew G. Sculley — Chief Executive Officer, President & Director, eMagin Corp.
+Michael Fawzy Malouf — Analyst, Craig-Hallum Capital Group LLC
+Kevin Dede — Analyst, H. C. Wainwright & Co. LLC
+Nehal Sushil Chokshi — Analyst, Maxim Group LLC
+Orin Zvi Hirschman — Analyst, AIGH Capital Management LLC
+
+Management Discussion Section
+
+Question And Answer Section
+
+Good morning and welcome to the eMagin Corporation Fourth Quarter 2017 Earnings Conference Call. All participants will be in a listen-only mode. [Operator Instructions] After today's presentation, there will be an opportunity to ask questions. [Operator Instructions] Please note, today's event is being recorded.
+
+I would now like to turn the conference over to Jeffrey Lucas, CFO. Please go ahead, sir.
+
+Thank you. Good morning, everyone. We are glad to have you join us today for our fourth quarter and year-end 2017 earnings conference call. During today's call, we may make forward-looking statements as defined in the Private Securities Litigation Reform Act of 1995. These forward-looking statements are based on the company's current expectations, projections, and beliefs and are subject to a number of risks and uncertainties. Such statements include references to projections of future revenues, plans for product development and production, the company's ability to ramp up production, future contracts, product benefits, operations, future financings, liquidity and capital resources, as well as statements containing words like believe, expect, plan, target, et cetera.
+
+You should not place undue reliance on these forward-looking statements because they involve known and unknown risks, uncertainties, and other factors that are, in some cases, beyond our control. Please refer to our earnings release for the fourth quarter 2017, our 2017 Form 10-K, which will be filed by the April 2 deadline and the company's filings with the Securities and Exchange Commission for information concerning factors that could cause actual results to differ materially from those expressed or implied by such statements. We undertake no obligation to update or revise any forward-looking statements to reflect future events or circumstances.
+
+With that, I would like to turn the call over to eMagin's Chief Executive Officer, Andrew Sculley. Andrew?
+
+Thank you, Jeff, and thank you, everyone for joining us on the call today. First, I want to say that we made some significant progress on many of our strategic objectives in 2017 and are very well positioned going into 2018. We signed several top-tier partners to work with us on the design of the next generation AR/VR displays and the development necessary to bring our new technology to mass production. We've signed an agreement with a U.S.-based chip manufacturer who is very interested in the display for AR/VR reference designs. They're assisting us in sourcing and other aspects of this unique display. The display is designed to meet both AR and VR requirements, as well as needed cost objectives when in mass production.
+
+We're currently talking to potential mass production partners and hope to come to agreement with one of them in the near term. This would enable us to commercialize our display technology for the mass production in the consumer market of AR/VR. And we recently completed an upsized public offering of common stock and warrants, giving us the financial resources to continue development of our leading-edge technology.
+
+We expected and experienced a strong rebound in our military programs, demonstrated by a 40% revenue increase from the fourth quarter of 2016 and a sequential increase in revenue of 49% from the third quarter of 2017. We delivered displays for the low rate production phase of both the U.S. Army's Enhanced Night Vision Goggle III and Family of Weapon Sight-Individual programs during 2017, and have been awarded follow-on contracts worth over $3.7 million. Additionally, we delivered prototype systems for the Family of Weapon Sight-Crew Served program to two defense contractors and certainly anticipate further contract work related to this program. In addition to these programs, we continued to secure contracts for both domestic and foreign military programs.
+
+As we discussed last quarter, our work in aviation, both domestically and overseas, is growing. As it has become apparent from flight testing that our high brightness OLED microdisplays are superior to the LCD displays currently used in existing helmets for fixed wing aircraft. You may have heard of the LCD green glow issue, which is not a problem with our OLEDs. We are delivering displays under a couple of programs for both helicopter and fixed wing aircraft and anticipate that there will be further orders during the year. These programs are both foreign and domestic.
+
+Turning to our efforts in the commercial market for AR/VR, we have several strong partnerships with tier-one consumer electronics companies. We underwent extensive and rigorous diligence to win these programs. We succeeded in demonstrating our technological superiority and consequently are developing advanced microdisplays for use in head-mounted device applications. Our technology, including our direct patterning, gives us a tremendous competitive edge, as we have the display quality that is needed to bring AR/VR into the mainstream market. Our direct patterning technology is the only one that gives the brightness, contrast, color gamut and high pixel density needed for both VR and AR displays.
+
+The majority of the consumer electronics companies with whom we have spoken give us similar requirements. Ours is the only display technology that we have seen meeting these requirements. In order to scale the technology to high volume, we plan to work with mass production partners. We have ongoing discussions with prospective partners. We believe that a mass production partner combined with our development partnerships and recent agreement with the U.S.-based chipmaker to support our supply chain development will enable AR/VR for the mainstream market with displays that meet the consumer electronic companies' requirements.
+
+Underpinning all that we do and plan to accomplish is our ongoing R&D efforts. Our R&D efforts are key to advancing the leading edge of microdisplay technology. We have achieved displays of brightness over 15,000 nits in monochrome and those were obviously the ones we're using in the aircraft, and over 5,000 nits in color and then just to give you a basis to compare, your television might be 300 to 400 nits or maybe your cellphone, if you dial up as bright as possible, it's 500. Our next target is over 10,000 nits in full color and we are well on our way to achieving this goal.
+
+Finally, to support our long-term success, we are working diligently to make operational improvements and enhance our productivity. As you may recall, we have a new team member to help support these efforts. We are making improvements in yield and capacity utilization. We initiated a program to selectively make capital expenditures to address single point failure risks. So, I hope you'll share our enthusiasm and appreciate that we're in a much better position today than we were a year ago and we hope to improve a little more as the year progresses.
+
+Now, I'll turn the call over to Jeff for a review of the financials. Jeff?
+
+Thank you, Andrew. So, as Andrew mentioned, we made terrific progress in 2017 capped off by a strong performance in the fourth quarter. Revenue for the whole year 2017 was $22 million, up 3% over 2016. Excluding $1 million of non-recurring license revenue earned in the first quarter 2016, the year-over-year increase is 8%. For the fourth quarter, our revenue was up 40% to $6.4 million from $4.6 million a year ago and up 49% sequentially from the third quarter where we had production issues earlier in the quarter that were successfully resolved. Our operations and engineering teams continued to make improvements in our production processes to ensure a better throughout and attain higher production yields.
+
+Breaking down revenue components, product revenue increased by almost $2 million or a 51% to $5.6 million versus $3.7 million in the fourth quarter of last year. This increase was due largely to the higher volumes from new military programs. On an annual basis, product revenue in 2017 of $18.6 million (sic) [$18.7 million] (00:09:17) increased by 8% or almost $1.5 million over 2016.
+
+Contract revenue decreased to $787,000 from $905,000 in the fourth quarter of last year. For the full year, contract revenue of $3.3 million was up 7% over the prior year. The lower year-over-year contract revenue in the fourth quarter was driven largely by lower government and military work. This is due to the higher level of activity performed last year on the multi-year ManTech project which is nearing completion. Offsetting that decrease was commercial contract work performed during the fourth quarter, of which there was none in the prior year's quarter.
+
+Gross margin for the fourth quarter was 28% on gross profit $1.8 million compared to a gross margin of 11% on gross profit of $490,000 in the prior year period. The improvement in gross margin was due primarily to greater production volumes in this year's fourth quarter and also the benefit of lower unit material costs from higher production yields. The margin includes by the way an approximate $270,000 charge for obsolete inventory, as we further rationalize our product offerings in our drive to improve profitability by minimizing lower volume production runs.
+
+For the full year 2017, gross margin was 23%, down from 30% in 2016. This year-on-year decline was due to a number of one-off factors, including $1 million of license revenue recorded in 2016 with no associated cost, equipment issues in the third quarter 2017 which impacted our production volumes, and the fourth quarter 2017 inventory charge I just mentioned.
+
+Now, moving to our expenses, total operating expenses for the fourth quarter of 2017, including R&D expenses, decreased to $3.4 million from $4.3 million in the prior year period. During the fourth quarter 2016, the company incurred development expenses related to the launch of the consumer night vision products as well as non-recurring expenses associated with the consolidation of the company's administrative operations.
+
+For the full year 2017, operating expenses decreased by $900,000, that's $13.9 million from $14.8 million the year before. The decline was due to lower R&D expenses in 2017 and, to a lesser extent, consumer night vision product development costs that were incurred in 2016. This decline, however, was partially offset by an increase in spending for professional services and travel expenses incurred as we accelerate the pace of negotiations with prospective consumer electronic and technology customers and high volume manufacturing partners.
+
+Operating loss for the fourth quarter narrowed to $1.6 million versus an operating loss of $3.8 million in the fourth quarter of last year. The full year operating loss was $8.7 million compared to $8.3 million in 2016. During the fourth quarter of 2017, the company reported other income below operating income, but other income of $616,000 for the reduction in a liability associated with the change in the fair value of the warrants issued in the May 2017 equity raise. This is by the way a non-cash item. And also during the quarter, the company recorded a $212,000 tax credit as provided for under the Tax Cuts and Jobs Act of 2017 that was enacted this past December.
+
+Net loss for the fourth quarter 2017 decreased to about $875,000 or $0.03 per diluted share, compared to a net loss of $3.5 million or $0.11 per share in the fourth quarter of 2016. Net loss for the full year of 2017 was $7.8 million or $0.23 per diluted share, compared to a net loss of $8 million or $0.27 per diluted share in 2016 on a weighted average share count of approximately 33.7 million shares in 2017 and 30.2 million shares in 2016.
+
+Earnings before interest, taxes, depreciation, amortization and non-cash compensation expense or EBITDA was negative $1 million for the fourth quarter of 2017 in comparison to negative $3.2 million in the fourth quarter of 2016. For the full year, EBITDA was negative $6.3 million in 2017 and negative $5.9 million in 2016.
+
+Turning to the balance sheet, the company had approximately $3.5 million of cash and cash equivalents at year-end compared to $5.2 million at the end of 2016. Borrowings under our asset-based loan facility at December 31 totaled $4 million and we had unused borrowing availability of $1 million. On January 29 of this year, we raised net proceeds of about $11.9 million from an offering of common stock and warrants.
+
+In concert with this offering, we also raised $270,000 in a private placement of common stock and warrants from certain directors and officers of the company on the same terms as the public offering. Overall, we believe we are well positioned financially entering 2018 as we've continued to advance our strategic goals. We are encouraged by the rebound in our military business and the advances we had made in our consumer electronics initiatives.
+
+We expect product shipments in the first quarter to be down slightly from those in the fourth quarter 2017. However, we anticipate improved financial performance for the full year 2018 with a target of achieving breakeven revenues later this year. Finally, we are very encouraged by a backlog of $9.8 million at year-end, that is up more than 50% from 2016 and which has continued to grow nicely into the first quarter.
+
+With that, I'll turn the call back to our operator and entertain your questions.
+
+Thank you. We'll now begin the question-and-answer session. [Operator Instructions] And today's first question comes from Mike Malouf of Craig-Hallum. Please go ahead. Mr. Malouf, your line is open, sir.
+
+Hi, guys. Thanks for taking my questions.
+
+Hey, Mike.
+
+Let me start with the manufacturing partner, I know that you've been working on that for a while. Can you give us a little bit more color on how that's going, what you're looking for in the manufacturing partner and what some of the potential outcomes could be with regards to that?
+
+What we're looking for is someone to work with us on our technology to take this to mass production. We're obviously talking to more than one company here. And the way that could look is many different ways as you can imagine and one of them is, for example, a licensing type agreement. Our goal is always to bring this to mass production and we need a partner we know because we're a very small volume company. But we believe...
+
+As far as timing goes, what are you thinking right now as we stand here at the end of March?
+
+Well, we are looking to this year, of course, sooner the better for us because it takes little time to get it aligned, up and running.
+
+Yeah.
+
+So, Mike, we've indicated in the past, we are targeting the first half of this year. So far, our discussions are on track. But I also want to point out, as I'm sure you can appreciate, these are very complex discussions involved and many parties involved there. So, we're actually making great progress and great strides here. We're working very diligently on this. And that's what our plans are. And again, things are moving ahead pretty consistent with our expectations.
+
+Okay, that's helpful. Thanks. And then with regards to the comment about breakeven, what kind of revenue number are you expecting that that would take place, and are you talking breakeven on a operating earnings side, is that sort of what you're focused in on?
+
+Yes, given the fact that we had the sort of warrant accounting that comes into play, we're really focused more on the operating income level, and we anticipate achieving that. In the past, we haven't really given our hard-and-fast number, but we feel generally that breakeven can be achieved anywhere from $7.25 million to $8 million, in that range.
+
+Okay. That's helpful. And then, with regards to the heads-up display with regards to the 10,000 nits, is that something that's driven on the consumer side or is it more on the commercial side or military side that's driving that demand for such high brightness?
+
+Certainly, the military wants that to put color displays and helmets for aircraft. On the other hand, more ability in terms of brightness also if you run at a lower brightness, you get much more power-efficient displays, and so that's useful for everything. The other thing it gives you the ability to have a less efficient optic, if you're on the consumer or military side, and that less efficient optic then still does well if the display is bright enough. So, it's a goal for everything. However...
+
+And it sounds like – go ahead, sorry.
+
+I just want to mention that the brightness we have today is good for the AR/VR market as we see it.
+
+And it sounds like the military all over the world are sort of embracing this new technology. Can you give us a sense of what the market size is as you look out over the next couple of years for that particular product?
+
+No, I think you can see that, you can read many, many different estimates of this and if I pick on one someone that we all know, I'd said that in 2025 there'll be 125 million units sold and if there are two displays per unit, that's 250 million displays. That's enormous for the near-eye microdisplay market.
+
+Okay. Actually I was more commenting on the military side.
+
+Oh, on the military side.
+
+Yeah.
+
+Oh, oh, sorry. Yeah. That was the consumer side, obviously.
+
+Yes. I understand.
+
+Well, the military side, if you look at our history, you'll notice that we have ramped up in the past for new programs like Enhanced Night Vision Goggle II program. When the military buys enough of them, it's maintenance mode, if they break one, they buy more displays, but now we're ramping up again and the good news is there are more programs. And we are now stepping into the both, we're in a fixed wing, working in fixed wing and we are working in rotary-wing aircraft. So, the market is much better for us.
+
+Mike, we're currently involved right now pretty actively in six programs that vary in volumes, but these programs individually over their lives have expectations of anywhere from 3,000 to as many as 21,000 displays. So, obviously, they can be quite impressive and then some, actually more than that – I'm sorry over the program life. So, there's quite an opportunity here with all of these programs.
+
+Okay. Great. Thanks a lot for the update. Appreciate it.
+
+Thanks, Mike.
+
+And then our next question today comes from Kevin Dede of H. C. W. Please go ahead.
+
+Hi. Good morning, gents. Thanks for taking my call.
+
+Hey, Kevin.
+
+Andrew, just kind of a top-level question, I was wondering if you could sort of speak to the tone of business on the consumer side. I'm just wondering if you thought that since the CES show, you still see as much interest in the AR – well, I guess more particularly the VR market and on the consumer side and whether or not you still – I mean, I know you just spoke to 250 million displays, I'm just wondering if you still see the same type of interest that you did see, say, through 2016 and maybe the beginning of 2017.
+
+Well, really we get our information from two different sources, one is shows like CES, Consumer Electronics Show, the other is the Society of Information Display (sic) [Society for Information Display] (00:22:17), but very importantly we also get our information from the consumer electronics companies and technology companies with whom we talk. There is great interest. In fact, I would say that it's even better now and, by the way, one of our 2K displays was at the Consumer Electronics Show, but you had to be taken in a back room to see it, I'm not allowed to say who had it there. So, I see the desire for the next generation display to get out there, the one that we're building with some partners is going to be a great success.
+
+Kevin, one thing we are seeing happen now is I think as you could argue that this is sort of beginning to mature here a little bit. We're seeing a convergence of some of the projections overall, so fewer and fewer of these outliers, but we are pleased to see and Andrew mentioned the number earlier is that a lot of latest projections that we're seeing now are actually a little above, they're above what we actually have as part of our original plans and projections. So, we're seeing some of the coalescing, I think, of what the expectations are for the market overall and we're pleased to see that those numbers are actually coming out a little higher than we are.
+
+Okay. I guess, I had just sitting from my perch, I thought we would have seen sort of a greater uptake and use on the consumer side than I think what we're experiencing, and I'm wondering if you think it's technology related or maybe there isn't much as hype surrounding the opportunities in full immersion, in gaming or perhaps your view is just completely different than what I perceive.
+
+Well, I think our view is tainted by these companies with whom we're talking, and they are very excited about getting the right display. And again with most of the major companies we've talked to, they all say the same things, this is the – I'm not telling you what it is, but this is the type of display we need and that's the one we're designing. And the designing of the display, we're going to have prototypes at the end of the year, beginning of next year so that our display will not be in use until then, and so what you see now are gen two items coming out and our display will be in gen three. So, we do, again they're very interested in getting those display going. And we...
+
+Okay. Could...
+
+Yeah. Go on.
+
+Yeah. I'm sorry. Could you speak to – I know in some cases you had thought that you'd see NRE revenue in conjunction with agreements, and I'm wondering if those agreements have to be signed and finalized or if you still have interested customers offering development funds. And if so, can you speak to what you recognized in the fourth quarter versus, say, a year ago?
+
+Yeah. I'll let Jeff tell you the number. But, yes, we are designing a display and being paid NRE funds to do that design.
+
+So, in the fourth quarter, actually last year we didn't have very much in the way of what was going on in the commercial side. And I think in the quarter that – this quarter, we actually had roughly about $500,000, a little more than $500,000.
+
+Okay. Well, money talks, so that helps. Thank you. Jeff, you mentioned $270 million inventory charge-off in the fourth quarter, did I get that number correct?
+
+Oh, thank god, you didn't. $270,000.
+
+Oh, okay.
+
+I mentioned the million, forgive me, but no, it's $270,000. Let's talk of that for just a moment, I'm glad you raised that question. We've actually been – one of the goals we have here, we've talked about this, particularly our new VP of Operations is [ph] working to (00:26:25) improve the production performance that we have with our facilities here. And one of the key challenges we've had is from all our production runs in the past.
+
+So, we've been working for several months now with the focus on our business development side here in terms of rationalizing our product offerings, working very closely with our customers so that by reducing the number of offerings, we can therefore maintain fewer SKUs, stock and keep the units, work towards our inventory reduction plan, and at the same time have higher and longer production runs that would result in much higher yields and certainly improve margins. So, that's moving along pretty well. This is just in concert with that.
+
+Okay. So, do you have a comparable figure for that, say, last year and was that for just a quarter or for the full year?
+
+That's actually – that amount pretty much – there have been some small adjustments throughout the year, but the obsolescence effort there, we always take a look at obsolescence as we're required to do every quarter. But the higher charge that we had in the fourth quarter was because of this particular effort. Last year we really didn't have an obsolescence, we didn't have much of an obsolescence charge [ph] and something not (00:27:34) associated with this rationalization effort.
+
+Okay. Could you, gentlemen, give me an idea just how many military projects you are involved with? I mean there are quite a few in the press release, certainly Andrew you spoke to many, offering the financials around them as well, so thanks for that. But I was just wondering if you could speak to, say, the number of contracts the end of this year versus last year.
+
+Well, the major contracts, major, because there are a lot of little ones that are going on as well, they're about – well, there's seven on the foot soldier and two major – well, actually, three major on the aircraft right now. But there are other ones, for example, we're in other countries that you can imagine are starting soldier modernization and just to give you an example, India is one that we're in several programs there.
+
+So, Andrew mentioned seven programs, we're actually going to be deriving revenues from military programs, from nine different military programs this year, we're going to have varying levels of inventory. But [ph] they are not inventories by (00:28:46) revenues, but those are the nine projects and programs in which we're working in addition to the ones he mentioned for aviation.
+
+Okay. The press release spoke a little bit to the headset for fixed wing aircraft and perhaps ramping in volume in the second half this year. I was wondering if you could speak to a little more color on that and my understanding is that there is an opportunity both domestic and foreign for that project is – I'm wondering how clear your crystal ball is in anticipating how that develops.
+
+Well, again, our crystal ball is in talking to the customers and listening to the feedback on the performance. So, here the example and somebody asked about it last time, so we mentioned we are in the F-35 testing – our display in the F-35, we get wonderful feedback from the pilots that this is the display that they want. So, the company to whom we're supplying the displays is very interested in getting our display in there.
+
+And we believe that the volumes will come and that we will retrofit. We are also flying in an overseas aircraft, that program that is very interested and a very large helicopter program in the U.S., which we'll have overseas as well. So, the good news about all of this is that will be retrofit into past helmets to upgrade them all, then we'll also see other aircraft helmets wanting our display.
+
+And, Kevin, as you can surmise, we're very excited about the [ph] F-39 (00:30:40) program here. We've been working with the prime contractor for quite some time and they try to move as quickly as practical in terms of making the transition from the older technology to our technology. They're working very closely with us. And we expect on that effort alone to generate north of $1 million this year in revenue, and that should ramp up pretty dramatically as production increases next year.
+
+Okay. I guess that's sort of where my question is, Andrew, Jeff, on just the timing. Now granted you are getting feedback, but that leads you to believe that you'll see the numbers that you mentioned. I guess, I'm just kind of curious as whether or not you think that the bigger contractors sitting behind that are in – I mean granted your interfaces with your direct customer, I'm just wondering if the larger customers that sort of oversee the whole overarching program are onboard with that or how you expect that interchange to work.
+
+Our direct customer obviously knows very well what the manufacture of the airplane and the final customer of the airplane says, the pilots say our display is the one to use and therefore, that feedback is from the end customer, goes right to the manufacturer of the aircraft and comes back to us. And we do also talk to others besides our direct customer. The feedback is great.
+
+Okay. Okay. Well, congratulations on that. Jeff, you mentioned $7.25 million to $8 million, is that sort of a revenue number that you need for a positive EBITDA?
+
+That's correct. That's the number that we're seeing for that. That's right.
+
+Okay. And could you just give me a rundown on what you expect the share count to be at the end of the March quarter coming up here and then the end of June.
+
+Yeah.
+
+Just because I wasn't clear on that exactly how many shares went through on that deal and obviously a weighted average.
+
+March quarter you're saying reflecting the offering you're commenting that within January. Yeah. So, that...
+
+Right, right, right. And then the resulting figure that would show up fully for June.
+
+Yeah. I think our expectation is roughly around 45 million.
+
+Okay. So, that's what you expect you'll see as the weighted average for March?
+
+I don't have the exact number on me, but I can definitely get back to you on that.
+
+Okay. All right, fair enough. Thank you very much, gentlemen. Real appreciate you handling my questions. Thank you.
+
+Thanks, Kevin.
+
+And our next question comes from Nehal Chokshi of Maxim. Please go ahead. Of Maxim Group, I apologize.
+
+Thank you. Three questions. Follow-up on prior person's question, 45 million shares outstanding [ph] as per the (00:34:02) deal, does that include [ph] this function that (00:34:06) warrants were exercised or not exercised?
+
+No, those are common – that's common shares outstanding.
+
+Okay. And then, I think on the last call we talked about the ASIC that you guys are developing that should hopefully lead to just engagement to design in time and I was wondering if we could get an update on that effort.
+
+I'm sorry. There's a lot of background noise. Could you say part of that again?
+
+Yeah. Sorry about that. So, the question is that on the last call we talked about the ASIC that you guys were designing to help reduce the cycle time from the point of engagement to design in, i.e., a more flexible ASIC that can accommodate many different resolution configurations. And so, do you have an update on that program that you can share with us?
+
+Actually, I think you probably mean the board on which the display goes, a smaller board, we're working with on a program for that [ph] would be helpful to (00:35:21)...
+
+Of course.
+
+...many people and that's going well and still on track for coming out shortly.
+
+Okay. So, within the June quarter, I guess, [indiscernible] (00:35:31)...
+
+Oh, yeah. Yeah.
+
+Okay. All right. And then I believe there was a report from Bloomberg mentioning Apple was, I think, going to do a pilot production line of microdisplays. I was wondering if – what's your perspective on that development? What's eMagin's perspective on that development there?
+
+That company is very future looking. Micro LED or inorganic LEDs we have actually done a program with that with a university that I can't name. So, we're very well aware of that technology. I would suggest that if you want to see how far along this is, this technology, there are two places. One is CES, and the other is SID, the Society of Information Displays (sic) [Society for Information Display] (00:36:24) .
+
+If you look at CES, in 2016 there was a television, Sony did that. And if you look at last year – or this year, sorry, 2018, there was a television, a huge display that Samsung did. Now this was 146 inches in diagonal and it was – this is a quote for the guy who is there, he said we are saying it's 8K in the horizontal direction. So, that's 64 pixels per inch. So, I think you can see the televisions are possible now to demonstrate.
+
+But if you go to Society of Information Display (sic) [Society for Information Display] (00:37:01) and look at the microdisplay attempts there, none of them are display looking yet, they're very crude things coming out. So, it'll take a long time for them to get to a reasonable demo and then a long time after that to get to mass production. So, I think the microdisplays are tough, and I can go into detail around the technology as well, but there are two different technological directions to go on this. So, I think there is a lot of work that has to be worked on. I think the first thing you'll see as you read the documents is you'll see a bigger display come out, so I think microdisplays will be longer term. And so that OLED is here for a very long time.
+
+Okay. Great. Thank you very much.
+
+You're welcome.
+
+And our next question today comes from [ph] Tom McGuire (00:38:02), a private investor. Please go ahead.
+
+Hey, good morning, gentlemen. My question is regarding the – reaching the operating breakeven point, do you think that could be sustainable with eMagin if the military continues to hold up and the consumer applications that you're working on continue to progress as planned?
+
+Yes, absolutely.
+
+Okay, because it's been quite a while since we've had some profitability as you all know.
+
+No, we are aware of that.
+
+Yeah, so anyway.
+
+Everybody here is well aware of that, trust me on that.
+
+Okay. Good. And then my other question was answered on micro LED, so thanks.
+
+Okay.
+
+Thank you, Tom.
+
+Thanks, Tom. [Operator Instructions]
+
+Today's next question comes from [ph] Dennis Van Zelfden of Brazos Research (00:39:08). Please go ahead.
+
+Good morning guys.
+
+Good morning.
+
+Is the manufacturing partner that you expect to sign here in the near term, the last element that you need to complete the ability for mass production or after you do that one, is there one other [ph] cog (00:39:26) that you might need?
+
+No. No, actually the last one.
+
+Okay. So, everything will be set once you sign that manufacturing partner?
+
+Yes.
+
+Okay.
+
+Yeah.
+
+Moving on, it's been several months since you've signed a tier one to a development contract at least that we know of. Do you expect more to be signed or has everybody signed that's going to sign, do you think?
+
+Well, we're very happy with what we have today, but we are talking to other companies because the one display that we're designing, for example, the company is willing to allow others to use it, so we're talking to them about that. And there's interest beyond the ones that we have signed today.
+
+We are entertaining a lot of discussions, but as you hope you can appreciate right now, our energies are really focused on moving forward there with the manufacturing partner.
+
+Okay.
+
+And completing the display that we signed up to do.
+
+That is correct and that's moving along well.
+
+It's a next generation display.
+
+That's right.
+
+Absolutely.
+
+Okay. And then the last question I think is for Jeff. Jeff, can you kind of reconcile your comments today about the inventory write-down and the possibility of having fewer SKUs, with the comments several quarters ago, if I understood correctly about maybe building inventory of lower volume displays in order to have them like on the shelf to – so that you won't have to interrupt production?
+
+Well, that's a good question. It was a very – the build that we had talked about on previous quarters was a very selective build, the lower volume, higher margin units. Where there was a situation where we had a relationship with the customer that we wanted to be in a position and it was to our advantage to be in a position to respond with a very short lead time when someone submits an order. So, we are continuing to do that and explore that, but on a selected basis, because as you may also recall, we made the statement at our previous earnings calls that we also have a goal over the next 18 months, for now it's 15 months of reducing our inventory anywhere from $1.5 million to $2 million and that's in process as well.
+
+So, we really almost had three different initiatives here going on with the inventory. One is sort of a rationalization to remove some of these lower profit, lower volume products that we have here. Secondly is to definitely have on hand those higher margin products that our customers are particularly demanding on relatively short notice. And then thirdly, though, is to go over all of our existing inventory to find where there can be opportunities for pretty significant reductions in sales over time. So, those are on track and they're all moving ahead pretty much as planned.
+
+Okay. All right, guys. Thanks a lot. Appreciate it.
+
+Sure.
+
+Thank you, [ph] Dennis (00:42:13).
+
+And our next question comes from [ph] John Pearson (00:42:16), a private investor. Please go ahead.
+
+Hello, Andrew and Jeff. Thanks for taking my call.
+
+Sure. Go ahead.
+
+My first question, I wanted to ask you a little bit about if you still are thinking that VR market will come first. And along those lines, should I be viewing the VR market and the AR market as basically – are they converging into more or less a single market or are you seeing different requirements, different size displays for each one or is one display going to be sufficient for both?
+
+It depends on what real market you are talking about, and I'll give you examples. So, the AR market there, two uses for that, one of them is an industrial use and that it depends on what it is, but informational. I want to wear a headset while I'm working on the line to see how the line is performing. So, those displays are likely to be smaller and informational, whereas then I'll move to a mixed reality as the industry calls it, it's an AR display that I can look through and digitally put something right in my view and I really believe that it's the thing that I'm seeing is there, but yet I can see the room as it is.
+
+So, that particular market, which I'll call mixed reality again and the VR, those will have similar type displays. Obviously, anything fighting outside light has to be bright, but the VR wants it to be bright as well because they want to have absolutely no motion artifacts and, therefore, the display has to run only a short time, it has to be very bright. So, I think for mixed reality and virtual reality, the displays will be the same, similar. And its industrial type informational applications, you can have a different display. Follow on question with that?
+
+Yeah. So, are you still expecting VR first and...
+
+Yeah. We do talk to again here, it's the companies we're speaking with. On the consumer side, VR is moving along very nicely, but there are a number of companies interested in a mixed reality situation and you can read about them in the news. I don't need to mention them, so that we're working with them as well. But VR, I think we'll be first and it's the mixed reality maybe one step behind.
+
+Okay. And so with VR, I'm getting the impression it's going to be a larger display for you guys to address the field of view that's needed for the VR. And traditionally in the past, it's been very expensive to get the field of view with the microdisplay. So, I guess I want to ask you expect that your product will actually be cost competitive with other VR products without – I guess, I'm concerned about two things in particular. With the larger display, I think your yield is probably more important than it has been in the past. And two, the optics for a microdisplay, I think, have been traditionally a lot more expensive than the other optics for the competition.
+
+Let me take that question and break it up into a few pieces. So, the first one is, if I want a 100-degree field of view and I want to match the human eye in terms of the ability to resolve pixels, I need maybe one to two arc minutes, sorry for the technicals, and I'll use just 1.5 arc minutes of resolution. I don't know if my eyes are quite there yet. But if I need a 100-degree field of view in that, I need about 4,000 pixels. Therefore, it's going to be either a biggish display or very densely packed and we can go either direction.
+
+Now on the bigger display side, we've actually done a design that's different than what we do today. And therefore, the yield will be better because of the different design. And that's one of the reasons we mentioned this chip manufacturer helping with sourcing, we're also working on sourcing to make sure the cost of this new design gets to where it needs to be. So, it's a different design, it's bigger, yes, not enormous like a cellphone, of course, but we have strict requirements on cost in mass production, and these are the companies with whom we are speaking and we have the sourcing effort and the design and we've done mass production estimates on cost of manufacturing, which we've shown to many people and we're on target.
+
+Okay. Great. I have one last question. I guess I'd like to – if you will make a comment on any developments in the commercial aviation markets and also the medical surgical equipment status of that market with a major medical device company you had mentioned for your WUXGA display, if that was progressing.
+
+Yeah. That's actually progressing, that's doing very nicely. They did have a device prior to that of a lower resolution, so it makes us feel very good that they're going to a higher resolution. On the commercial aviation, companies we're working with in the military, also there's one in particular wants to go into the commercial aviation and we're very interested in working with them on both.
+
+And I know that you're hard-pressed to see that guy sitting in the front of the plane that you and I ride in wearing one of these, but you have to think, there's two things. One is helicopters land in nasty conditions, so not taking your eyes off the – using an AR device and not taking your eyes off where you're landing through the windshield is very important.
+
+And the same thing will be true when you're landing a fixed wing aircraft in nasty conditions, it would be nice to have those icons right in front of you, so that you don't have to take your eyes off. And you can even have night vision items, if needed. So, we are interested in going into commercial aviation with the companies that are working on that.
+
+Okay.
+
+Okay?
+
+Thank you.
+
+Good questions, [ph] John (00:49:42).
+
+Thank you, [ph] John (00:49:43).
+
+And our next question comes from Orin Hirschman of AIGH Investment Partners. Please go ahead.
+
+Hi. How are you? And congratulations on the progress.
+
+Hi, Orin.
+
+Hi, Orin.
+
+Hi. In terms of – somebody asked this question, in terms of the missing piece that's left, the American semiconductor companies for an ASIC, the American semiconductor companies we're helping with the actual screens themselves. And then, it's only on the ASIC side where a driver would – what can you tell us about in terms of getting that last piece in terms of timing for a manufacturer for the actual screen part? You need dual manufacturing in order to satisfy the customers or not necessarily? And then one follow-up.
+
+Okay. On the chip – to help on the chip side, we obviously have wafer needs, right? And I'm not going to tell you – forgive me, I'm not going to tell the world how we're designing this, but they're designed to be a lower cost and we are getting help from the chip manufacturer and we have a wafer manufacturer, who can make this design for us in a price range that we need. So, that's – the manufacturer that we're interested in working with is actually going to help us with the OLED, the line of OLEDs for putting the OLED on the displays, et cetera. That's where we're interested. That's the missing piece. Now, I'm not saying that that chip manufacturer doesn't have high volume manufacturing experience, they do, but we really think we need a high volume manufacturer beyond the chip company. Next question...
+
+Does the chip company actually have the ability to make the OLED display as well?
+
+Oh, no, they don't, but you could argue, I don't want to imply that to the chip manufacturer. Some of them, we've talked to chip manufacturers who want to extend beyond what they do today, and there are some who would be interested, but it's probably easier to talk about a display manufacturer as opposed to a chip manufacturer to do the OLED. With us, we believe a chip manufacturer can do it, but it's easier to think about a display manufacturer.
+
+And what we do say just in a general sense is delay in getting the final piece in place and do we think that this is something that's imminent?
+
+Well. Yeah, it will come as we said in the first half was our target to hit, and it's just a complicated thing to go through.
+
+Yeah. It's not being delayed, [ph] it's ongoing (00:52:28), this is just not a quick exercise of any means whatsoever.
+
+Okay. And last question if you do hear me, I know it's not a great connection, so I apologize. In terms of milestones that we should be looking for [ph] besides standing up (00:52:45) the manufacturer to go to mass production, what are some of the other milestones we should be looking for in the commercial side on the AR/VR side?
+
+Well, in terms of one other milestone I'll mention is the chip that we are designing or display that we're designing, actual have that out, I would hope we can announce when the company makes a headset with it, and that as I mentioned earlier, we expect prototypes around the end of this year, beginning of next, that's a very important milestone.
+
+Is it important because manufacturers want it, the big volume guys want it? I would assume that they're using their own drivers, or something they design themselves.
+
+Well, remember, what I'm really talking about is the thing which drives the OLED.
+
+Okay. Fine. A lower level driver.
+
+Well, yeah, but think for a minute, when you make an OLED display, you have this backplane, it's called in the display industry, and you have that passive backplane such that you can turn on this particular pixel to whatever brightness you want, and that's what we're designing. On top of that, we will put the OLED. So, we're designing a display backplane. I'm sorry if that's...
+
+Got it.
+
+Okay. And that's that other people don't design on, [ph] so can – except a very few (00:54:10). Okay, anything else, Orin? Sounds like you're in a windy place.
+
+Yeah. I apologize. I'll do more offline with you. Thanks so much.
+
+Well, no problem.
+
+Thank you.
+
+And our next question comes from [ph] Tom Rath of Salzer (00:54:30). Please go ahead.
+
+Hi, [ph] Tom (00:54:32).
+
+Hey, [ph] Tom (00:54:33).
+
+Hi, Andrew and Jeff. Thanks for taking my questions. I got a couple of quick ones for Jeff, and then maybe one for Andrew. On the gross margin, so if I add back the charge, it looks to me like product gross margin was approaching 29% in the quarter, is that – am I doing that correctly?
+
+Yeah. That's correct. That will be something, you would certainly add that back, that's correct.
+
+Okay. And then a question on backlog, I know you guys historically have not disclosed backlog on a quarterly basis. But I was wondering qualitatively if you can say, do you expect backlog to continue to increase as we move through 2018?
+
+Yes.
+
+Okay. And then, Andrew, the technology question. I have the follow-up on the micro LED
+
+Yeah.
+
+And I understand that's a – I think that's a more complex process. I think it's on a different substrate, is that correct?
+
+Yeah, and there are two very basic ways you can do this. You can grow again our gallium nitride on a wafer or you can grow it on glass. The tough part is trying to grow it on a silicon wafer. So, if you grow it on glass or something like that, then you can put the silicon that will drive it on top of it. So, think of low-temperature polysilicon. And if you do it a different way and grow it on again wafer, then you have to pick and place.
+
+So, I just remind you that the 2Kx2K display that we have has 4 million pixels or 12 million sub-pixels and the displays we're making with higher resolution have even more. So, picking and placing gets very difficult. That's why you only have seen a few displays out demonstrated, then they were all TVs, the Sony display that was in 2016 – I think it was 2016, yeah, and the Samsung last year or this year at CES. So, it's a tough process and a long way to go. On the microdisplay side, let me just mention that the process isn't there for reasonable demos yet; ones that you would say, hey, this is a demo, I like it. It's not there yet.
+
+Okay. So, I guess my real question for you is, do you envision your company being involved in that area at all in the distant future or does your – and I guess more specifically does your direct patterning technology apply here or not?
+
+Well, our direct patterning is actually on the OLED side, but we do have expertise in some of the things needed for this. We have some IP that's patent and know-how. We did work with a university on it. So, the good news is doing this makes us see the path forward and therefore, I can speak more reasonably about how long it's going to take and we do have the ability to do some work in this field.
+
+Okay. All righty. Well, thanks for the time. I appreciate it.
+
+Thank you, [ph] Tom (00:57:52). Thank you.
+
+No problem.
+
+And ladies and gentlemen, this concludes our question-and-answer session. I'd like to turn the conference back over to Andrew Sculley for any closing remarks.
+
+I just want to again mention that we're very enthusiastic about this year, very enthusiastic about the progress that we have made in 2017 and the goals we have set for ourselves in 2018 and getting this display design will be an outstanding success for us, and also continuing our effort on direct patterning that made every company that we've spoken with knock on our door. So, I want to thank you all for spending the time with us and thank you for the large list of questions until next time.
+
+Thank you all.
+
+Thank you, gentleman. Today's conference has now concluded. We thank you all for attending today's presentation. You may disconnect your lines and have a wonderful day.

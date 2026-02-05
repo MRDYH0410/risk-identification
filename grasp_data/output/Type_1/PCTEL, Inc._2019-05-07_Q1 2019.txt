@@ -1,0 +1,138 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+Kevin McGowan — Chief Financial Officer & Vice President, PCTEL, Inc.
+David A. Neumann — Chief Executive Officer, PCTEL, Inc.
+Mike Crawford — Analyst, B. Riley FBR, Inc.
+Jaeson Schmidt — Analyst, Lake Street Capital Markets LLC
+Tim O'Connell — Analyst, Chain of Lakes Investment Fund
+
+Management Discussion Section
+
+Question And Answer Section
+
+Welcome to the PCTEL First Quarter 2019 Earnings Release Conference Call. At this time, all participants are in a listen-only mode. At the conclusion of our prepared remarks, we'll conduct a question-and-answer session. As a reminder, this conference is being recorded.
+
+I will now turn the call over to Kevin McGowan, company's CFO.
+
+Thank you for joining us on today's conference call to discuss PCTEL's first quarter 2019 financial results. With me today is David Neumann, the company's CEO.
+
+Before we begin, let me remind you that this call may contain forward-looking statements. While these forward-looking statements reflect PCTEL's best current judgment, they are subject to risks and uncertainties that could cause actual results to differ materially from these forward-looking projections. Risk factors that could cause PCTEL's actual results to materially differ from its projections are discussed in the earnings press release, which was issued today and in our most recent annual report on Form 10-K, both of which are available on our website.
+
+Additionally, our commentary will include reference to the following non-GAAP measures, non-GAAP earnings per share and adjusted EBITDA. We believe these non-GAAP measures facilitate comparability of results over different periods. A full reconciliation of these non-GAAP measures to our GAAP measures is included in our quarterly earnings press release that was issued earlier today.
+
+With that, it's now my pleasure to turn the call back over to David Neumann.
+
+Thank you, Kevin. I'm pleased with our results and the momentum we maintained coming into 2019. First quarter gross profit margin, adjusted EBITDA and non-GAAP earnings per share all improved both sequentially and compared to last year. I'll provide an overview of opportunities in our recently redefined three market segments for antennas and scanning receiver products. Kevin will then discuss our financial results in more detail and he'll provide guidance for Q2.
+
+We issued a press release after the market close, announcing our results for the first quarter ended March 31st, 2019. For the first quarter 2019, our revenues are $20.6 million, the strategic realignment and cost reduction actions that we took in 2018 improved gross margins for antennas and increased sales of higher margin scanning receivers contribute to improved non-GAAP earnings per share for the quarter. We achieved $0.04 in non-GAAP earnings per share for the first quarter and gross margins of 42%, up 1.1% over the fourth quarter and up 5.8% over last year.
+
+Our scanning receiver business has improved considerably over 2018, driven by early deployments of 5G infrastructure in the U.S., Europe and Asia. The antenna business is more project driven, and although the first quarter didn't meet expectations, we believe this business has strong long-term growth prospects in our target marketed segments.
+
+As we discussed in our last call, our long-term strategy is to leverage our wireless product and RF expertise to enable industrial IoT solutions. Historically, we define our business in four markets. In building enterprise Wi-Fi, 4G, 5G, public safety fleet and industrial IoT. We recently redefined these four markets into three segments, enterprise wireless, intelligent transportation and industrial IoT. We combined enterprise Wi-Fi, 4G, 5G and public safety networks into the enterprise wireless market segment. We created an intelligent transportation segment to address smart cities and fleet, and we defined industrial IoT to include wireless automation and industrial applications.
+
+Let's take a look at each of the defined markets in more detail. In our enterprise wireless market, PCTEL RF products are used in three types of networks, Wi-Fi, cellular and public safety. For Wi-Fi applications, we design and manufacture industrial antenna systems and ruggedized radio solutions. We provide our external and embedded antennas to two of the largest Wi-Fi access point OEMs and we want a significant Wi-Fi embedded antenna project in the first quarter.
+
+For cellular markets, our small cell antennas are used by two of the largest infrastructure providers and our scanner receivers hold the leading position in the market. Sales of our 5G scanner receivers will test both legacy sub-6 GHz bands and millimeter wave spectrum remains strong from the fourth quarter of 2018 through the first quarter of this year. We believe the demand for 5G test equipment will continue as handsets become available later in 2019 and into 2020.
+
+Public safety is the third application within our enterprise wireless market. We provide both antennas systems and scanning receiver solutions for critical public safety communications. PCTEL is the leading provider of single and multi-mode vehicular broadband and GNSS antennas for police and fire emergency vehicles. To test and building networks for public safety, our scanning receiver systems are used to verify FirstNet, P25 and LMR networks to ensure first responders can communicate in challenging RF environments during emergencies.
+
+We believe this is a growth area across the U.S. as government regulations expand to require testing of most large public buildings. Our second defined market is intelligent transportation which focuses on smart transportation and industrial fleet applications. Smart transportation for roadways connects disparate systems to improve safety, reduce congestion, and provide a holistic view of our roadways and highways. As an example, PCTEL recently won a bid to provide ruggedized high performance antennas to link all traffic signals in a major U.S. city via the public cellular LTE network.
+
+Smart rail is another key segment for us within intelligent transportation that requires wireless solutions for passenger wireless access, security and train control and operations. With respect to intelligent fleet applications, our antenna systems are engineered to maximize gain, minimize interference and operate in demanding environmental conditions. Typical vehicular fleet applications include antennas for guidance systems and precision agriculture, autonomous mining and construction applications.
+
+Our third defined market segment is industrial IoT and includes applications such as utility smart grids, factory automation, remote monitoring, asset tracking and machine-to-machine or M2M communications. Products to this market include omni-directional, low profile multiband, yagi, and embedded antennas. This market also includes customized industrial IoT devices which include the radio hardware, software and antenna systems. By expanding our product capabilities to provide industrial IoT devices whether organically or through acquisitions, we create additional revenue potential with attractive average selling prices and gross margins.
+
+Looking ahead, we continue to see strength with our 5G scanners for both millimeter wave and sub-6 GHz networks in North America, Europe and Asia. We're building momentum with our scanners for public safety P25 testing where we utilize the same scanning hardware that we use for LTE networks.
+
+Our antenna sales and public safety also remain strong. We anticipate key design wins in our intelligent transportation and industrial IoT markets in the second half. As we have mentioned before, small cells within enterprise wireless is a long-term growth area for us, where we supply two of the three major OEMs. Although small cell antenna sales had a slow start for us this year, we are focusing on longer term design wins. As previously discussed, we are addressing our challenges in the China market through driving cost reductions and leveraging contract manufacturers. We expect our manufacturing transition to be substantially completed in late 2020. PCTEL's high quality engineered products, our technical expertise and established positions in our selected market segments will drive growth and increase value for shareholders. With that, I will now turn the call over to Kevin for a closer look at our first quarter. Kevin?
+
+Thank you, David. I will address the financial results for the first quarter ended March 2019 and I will provide second quarter 2019 guidance. Revenues were $20.6 million in the first quarter, down 5% compared to the first quarter of 2018. In the first quarter, higher test and measurement revenues offset lower antenna product revenues compared to the first quarter last year. Test and measurement revenues were $5.5 million in the first quarter, our highest revenue quarter for this product line since 2017, driven by strong sales of 5G scanning receivers, revenues for test and measurement products were 38% higher in the first quarter of 2019 compared to the first quarter of 2018. Antenna product revenues were $15.1 million in the first quarter, 15% lower compared to the first quarter of 2018. A portion of this decrease resulted from a $2.3 million enterprise Wi-Fi project that was completed at the end of the second quarter 2018.
+
+The first quarter 2019 gross profit margin improved to 42% due to favorable product line mix as well as benefits from the cost reduction actions taken in 2018. The first quarter gross profit margin was 5.8% higher compared to the first quarter 2018 due to a higher ratio of higher margin test and measurement revenues, and an improvement in the gross margin for antenna products. The gross margin percentage for antenna products was 2.9% better in the first quarter of 2019 compared to the prior year due to a more profitable mix within the product line and because of the cost reduction actions taken in 2018.
+
+Adjusted EBITDA and non-GAAP earnings per share improved both sequentially and compared to last year, primarily because of higher gross margins but also due to lower operating expenses. Adjusted EBITDA margin as a percentage of revenue was 7% in the first quarter compared to 2% for the first quarter of 2018, and 6% in the fourth quarter of 2018. Non-GAAP earnings per share improved to $0.04 in the first quarter compared to negative $0.01 in the first quarter of 2018 and $0.03 in the fourth quarter of 2018.
+
+Cash and investments were essentially flat at $35 million as of the end of the first quarter 2019 as cash from operations funded the quarterly dividend, capital expenditures and payments for withholding tax on stock-based compensation.
+
+Now let's turn to second quarter 2019 guidance. We expect second quarter revenues will be between $22 million and $23 million with higher sequential revenues forecasted from both product lines. The gross margin percentage is projected to be between 42% and 43%, and the non-GAAP earnings per share is projected to be between $0.07 and $0.08.
+
+Before we take questions, I would like to turn the call over to David to make a few closing remarks.
+
+Thank you, Kevin. We're pleased to have another solid quarter with improved earnings. The advancements in Wi-Fi, in 4G, 5G networks will drive the uptake of industrial IoT and PCTEL is well-positioned to serve these markets. We're confident that PCTEL's capabilities and our focus on enterprise wireless, intelligent transportation and industrial IoT markets will provide growth opportunities and increased value for shareholders.
+
+As previously mentioned, Kevin and I'll be attending the B. Riley Investor Conference on May 22nd in Beverly Hills. We will also be attending the East Coast IDEAS Investor Conference on June 12th in Boston. We look forward to meeting with investors at these conferences.
+
+With that, Kevin and I are available to answer questions. Operator? [Operator Instructions]
+
+Our first question comes from the line of Mike Crawford from B. Riley. Your line is open.
+
+All right. Thanks. It's amazing what a nice test and measurement revenues mix does to the bottom line. With the projects begun in various markets on 5G driving demand for your scanning receivers, do you see that it is growing sequentially from here or is it something that could still be up and down in waves depending on pace of deployments?
+
+Yeah. Mike, that's a good question. So far the demand for the scanning receivers has been pretty strong. And if you look historically at roll-outs and to make the argument that it'll continue to be robust, there are already about 100,000 base stations deployed for 5G. So, we do believe at least through the remainder of this year that it should be a solid business. The other factor that will help drive the uptake is the handsets are going to come out most like or more handsets will come out in the second half of 2019.
+
+The initial applications are really to increase coverage in dense areas to provide enhanced mobile broadband, longer term the drivers are going to be ultra-low latency and massive machine type communications that's probably not going to – really come in and really take – really start driving scanner sales probably until 2020 or into 2020. So I think for the short-term in the next couple of quarters, the scanning receivers should be fine. But then it comes down to how fast are the applications driving the need for latency, and the machine type or IoT applications.
+
+Okay. Thank you. And then regarding, I think mostly our industrial internet of things business, you have this new business development team that is really going out and hunting up new markets for the company which could provide some incremental top-line growth. So, are you seeing success with that effort or how would you characterize that?
+
+Yeah. So we mentioned in the call that we just won a relatively significant win in a major U.S. city to connect all the traffic signals, our component of that of course is the antenna, a very ruggedized antenna running out on the LTE networks. So that was a good win.
+
+And we also mentioned, we have a couple of others that are close to being announced. So probably in the second half of this year, the antenna business in the IoT space is strong for us one because not only the RF performance but you need the mechanical expertise and the experience with dealing with the environment to be able to manufacture the enclosures for the specific purpose. So these are not commodity antennas, they're designed specifically for that application.
+
+Then in addition to that and we've talked about this before that we're developing some new radio type products out of the team in Akron, Ohio. So once those are released later this year, we'll be able to put together a more complete ruggedized turnkey IoT systems going from the radio to the antenna and actually the radio interface card as well.
+
+Okay, great. And then just one final question, given your business is global and much of the global 5G deployment will be in China. What – how do you assess your – I guess risks and opportunities in that market?
+
+China is a real risk and there is a trade negotiations going on this week as long as that's still hanging out there. We're at a disadvantage of doing business in China as an American company. You have to keep in mind though that most probably 70% of our sales are in the U.S. and we hold a dominant position with all four of the operators here in that business in itself is significant. We're going to have to wait and see how some of these negotiations go in China. Historically, we've done fairly well in China, but the trade issues could complicate that. It's a real risk but I don't think it's a short-term risk given how aggressive the U.S. operators are rolling out 5G.
+
+Okay. Great. Thank you.
+
+Thanks, Mike.
+
+Our next question comes from the line of Jaeson Schmidt from Lake Street. Your line is open.
+
+Hi, guys. Thanks for taking my questions. Just curious, when you look at the antenna product segment for this year, how should we think about the growth drivers within that segment. If you could sort of rank order the enterprise, wireless, the intelligent transport and the industrial IoT.
+
+For the antenna business, probably the weakest antenna line would be the small cells within enterprise wireless. But we're working on a larger – larger bids but they're not going to – they're not going to come any time soon. So, enterprise Wi-Fi or enterprise wireless for small cells is a bit of a challenge for now. The Wi-Fi component within enterprise wireless is very project oriented and we have some relatively significant projects deploying those antenna. So, I think that's solid. Industrial IoT space probably has the most upside given some of the recent wins and the projected wins that we will have later this year IoT space probably has the most upside given some of the recent wins and the projected wins that we'll have later this year. And in the industrial IoT space, it's also a more attractive gross margin profile. So, I think that'll help maintain or improve gross margins going forward.
+
+Those are probably two most important, the intelligent transportation, this recent win in for the traffic signals is important there. We're not necessarily in the autonomous vehicles for cars, but we do – do precision agriculture, mining applications. So it's a solid business. And if I had a rank order I think industrial IoT is probably the best growth prospects, intelligent transportation is probably second for growth, and then the enterprise wireless is a solid business and a decent business, but probably lower growth.
+
+Okay. That's very helpful. Thank you. And looking at the antenna market, I know in the past you've mentioned some pricing pressure, any update on sort of the pricing environment within antennas?
+
+The most significant pricing pressure is with the small cell antennas specifically in China, it's one of the reasons to that we're focusing more and more of our efforts in industrial IoT space and intelligent transportation, because those are more purpose built solutions and are more complicated, there is – it's not a commodity product. So we're able to maintain margins better on those customized antennas.
+
+Okay. And the last one from me and I'll jump back into queue. Obviously, really strong gross margin in Q1, your guidance for Q2, sort of 52.5% at the midpoint, is this sort of a new level for you guys just given the expected mix?
+
+For Q2, I mean we definitely see an improvement from Q1 based on a little bit again higher percentage of test and measurement. We haven't put out a guidance for the rest of the year, but we see – we currently see those margins consistent at this point.
+
+Okay. Thanks a lot, guys.
+
+Thanks, Jaeson. [Operator Instructions]
+
+Our next question comes from the line of Tim O'Connell from the Chain of Lakes Investment Fund. Your line is open.
+
+Hi David, hi Kevin.
+
+Hey, Tim.
+
+So I know you've already commented, my first question was around China and tariff situation, and you've already commented on that. Anything specifically on Huawei and what's going on there?
+
+Huawei is still a very important customer for both the small cell business and for our scanning receivers. Huawei is a very important customer globally, although they're banned in the U.S., so they have like a majority of the infrastructure – 4G infrastructure globally and I think that's going to put them in a very good position for 5G. We have as you – I think we have a dedicated team to serve Huawei based out of Beijing, our manufacturing's in Tianjin, in many ways we're viewed as a Chinese company when serving those accounts. We've good relationships with the trade issues, geopolitical situation makes things a bit more complicated but from our perspective, Huawei is important and we will continue to treat them as an important customer.
+
+Okay. Thanks. And then as 5G is obviously helping scanners sales, when do you see 5G really contributing to the antenna business?
+
+Well, 5G has two main frequency bands. The millimeter wave bands and then the sub-6 GHz. So for 5G that's upgrading 4G networks and then the sub-6, a lot of the existing antenna technology doesn't change.
+
+For some of the other applications in 5G I think there is – the important area for us is embedded antennas. So we're doing more and more designs for embedded antennas in different types of devices. And as 5G supports the massive machine type or the – think of it as a larger scale IoT applications, embedded antennas are going to be important. So I think we're positioning for that.
+
+And then the only other comment that I want to make with the antenna or that the scanners contributing from 5G, we're also seeing some good growth for scanning receivers and public safety. So there's initiatives U.S. wide, state-by-state, county-by-county where to support first responders, building owners need to test their – the infrastructure within the building to make sure that P25 network, LTE network, LMR networks all work, so that the first responders are safe when they're responding to emergencies. We've been able to adapt our scanning receiver given it's a software defined radio, it's not terribly hard to do. We put a lot of investment in the software package to make it easier. And with that package, it's saving a factor of 10 times of what do we take to test these buildings manually. And we're seeing some good growth there, and I think that will continue going forward as well.
+
+Okay, great. Thanks.
+
+Thank you, Tim. [Operator Instructions]
+
+There are no questions at this time. I would now like to turn the call back to David Neumann.
+
+Okay. Thank you. We're pleased that we're building momentum in 2019 from our solid finish in Q4 2018. The PCTEL team is working hard to take advantage of growth in the three defined markets which we mentioned during the call. And I'd like to take this opportunity to thank them. We're in the right markets, we have the right products. I'm confident that we have the team and the proper organizational alignment to execute on the opportunities and to build value for all stakeholders. And I'd like to thank you. And have a great afternoon.
+
+Ladies and gentlemen, this concludes today's conference. Thank you for your participation. And have a wonderful day. You may all disconnect.

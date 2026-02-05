@@ -1,0 +1,320 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+John W. Schoen — Chief Financial Officer & Secretary, PCTEL, Inc.
+Martin H. Singer — Chairman & Chief Executive Officer, PCTEL, Inc.
+Matthew S. Robison — Analyst, Wunderlich Securities, Inc.
+Christopher Sigala — Analyst, B. Riley & Co.
+Andrew Thomas Flis — Analyst, Robert W. Baird & Co. Equity Capital Markets
+Brian T. Horey — President, Aurelian Management LLC
+Mike Crawford — Analyst, B. Riley & Co.
+
+Management Discussion Section
+
+Question And Answer Section
+
+Ladies and gentlemen, thank you for standing by and welcome to the PCTEL First Quarter 2012 Conference Call. At this time, all participants are in a listen-only mode. Later, we will open up the call for your questions. Instructions for queuing up will be provided at that time. As a reminder, this conference call is being recorded for replay purposes.
+
+I will now turn the call over to John Schoen, Chief Financial Officer.
+
+Thank you for joining us today, April 26, 2012, for the PCTEL financial results conference call for the first quarter 2012. On today's call will be Marty Singer, Chairman and CEO; and I am John Schoen, the Chief Financial Officer.
+
+First, let me read the Safe Harbor statement. Today's call will contain forward-looking statements within the meaning of the federal securities laws. Comments concerning our future financial performance, new products and product development and expectations regarding the future growth of our wireless RF business are forward-looking statements within the meaning of the Safe Harbor.
+
+Actual results may differ materially from those projected as a result of risks and uncertainties, including the ability to successfully grow our wireless products business, implement new technologies and obtain protection for the related IP.
+
+Additional discussion of these and other factors affecting the company's business and prospects is contained in our periodic SEC filings. These statements are made only as of today, and we disclaim any obligation to update information to reflect subsequent events.
+
+I would now like to turn the conference call over to Marty Singer.
+
+Thank you, John, and good afternoon to all of you. For those of you who have not had a chance to read our press release, I'd like to recap some of the non-GAAP highlights from the quarter.
+
+We achieved revenue of $17.2 million, a decrease of 6% over the first quarter of 2011. Gross profit margin was 42%. Operating loss was 1%. Our net income was $105,000 or $0.01 per diluted share. Cash and investments were $67.9 million.
+
+I'd like to turn the call back over to John Schoen, who will discuss our financial performance in some detail. Later, I will comment on some of our business development, engineering and marketing efforts over the past quarter as well as some of our current activities.
+
+John?
+
+Thank you, Marty. Our investors will note that the company presents non-GAAP financial information in its earnings releases. The company believes that presentation of gross profit, operating profit and net income, excluding restructuring charges and non-cash based expenses, including stock and stock option-based compensation, amortization and impairment of intangible assets and goodwill related to the company's acquisitions, gains or losses on the sale of product lines and related notes receivable, and non-cash based income tax expense provide meaningful supplemental information to both management and investors. The non-GAAP financial analysis reflects the company's core results and facilitates comparisons across reporting periods.
+
+For more information on our non-GAAP financial results and reconciliation to GAAP measures, please refer to our earnings release that has been filed under Form 8-K with the SEC. The release can also be found on our website at pctel.com under "Investor Relations". My discussion of results will be based on our non-GAAP financial results.
+
+So let's turn to revenue. First quarter 2012 revenue was $17.2 million, a decrease of 6% from the same period last year. Carrier spending delays resulted in lower revenue compared to the same period last year. Antenna revenues were slightly higher than the same period last year, even though the first quarter of last year included our initial deployment of the company's high rejection GPS antenna product.
+
+With regards to gross margin, non-GAAP gross profit margin for the first quarter was 42% as compared to 45% in the same period last year. The change reflects the decrease in revenue mix of the company's scanning products with their higher margins relatively to antenna products.
+
+Now, let's turn to non-GAAP operating expenses, which were $7.4 million in the quarter, a decrease of approximately $100,000 from the same period last year. The decrease from first quarter last year reflects lower variable compensation expense on lower revenue and operating results partially offset by an increase in the expense portion of our ERP implementation costs, which we'll record in G&A expense.
+
+Non-GAAP operating loss in the first quarter was $120,000 or negative 1% of revenue compared to operating income of $794,000 or 4% of revenue in the same period last year. The change is the result of lower gross profit on lower revenue partially offset by lower operating cost.
+
+Non-GAAP other income was $34,000 in the first quarter. As the amounts are largely interest on our investments, the number will continue to be small in the current interest rate environment.
+
+The non-GAAP income tax rate in the quarter was 18%, unchanged from last year. Non-GAAP net income for the quarter was $0.01 per share compared to $0.05 per share in the same period last year. The decrease is attributed to lower operating profit on lower revenue.
+
+Now let's turn to the balance sheet. Cash and investments ended the current quarter at approximately $68 million, about $900,000 lower than the previous quarter. Approximately $3 million is classified as long-term investment securities, with maturities ranging between 13 and 24 months.
+
+In the quarter, the company generated $39,000 of cash from operations as compared to using $1.3 million in the same period last year. The company is historically a net user of cash in the first quarter of each year as that period includes the payment of annual accruals from the previous year as well as the withholding tax on an annual investing of employee restricted stock for the current year.
+
+This year, those expenditures were offset by reductions in working capital, primarily in inventory and accounts receivable, as a result of lower revenue in the quarter. Capital expenditures in the quarter were $696,000, which is within our long-term historical spending pattern of 3% to 4% of revenue.
+
+The company paid a regular cash dividend in the quarter of $545,000 or $0.03 per common share. For those of you that track EBITDA, our depreciation in the quarter was $586,000.
+
+Now, I would like to discuss the guidance for the second quarter 2012.
+
+We anticipate second quarter revenue to be in a range of $19.5 million to $21.5 million, about 7% higher than the second quarter 2011 at the midpoint of guidance. The revenue guidance anticipates a recovery in carrier spending for the company's scanning receiver products.
+
+Gross profit is expected to be in a range of 46% to 47%. Non-GAAP R&D and SG&A in the second quarter are expected to be about $7.2 million, about $200,000 less than the quarter just ended. The first quarter of each year includes higher payroll taxes related to the payment of the previous year's annual bonuses as well as the current year vesting of restricted shares.
+
+Other income is expected to be about $25,000 in the second quarter. The elimination of non-controlling interest in PCTEL Secure is expected to be about $150,000. The non-GAAP effective income tax rate is expected to remain unchanged going forward at 18%. The fully diluted share count in the second quarter is expected to be about 17.8 million shares.
+
+That concludes the financial review. I'd like to turn the call over to Marty for his summary comments.
+
+Thank you, John.
+
+Despite the disappointing first quarter revenue numbers, we see strong indicators that scanning receiver sales will rebound in the second and third quarters and will remain robust throughout the year. That confidence, coupled with the continued strength of our antenna business and the release of the PCTEL Secure ProsettaCore Software Developer Kit, supports our revenue guidance of $85 million for 2012. As John has already mentioned, we believe that our second quarter will be much stronger and that we will generate between $19.5 million and $21.5 million in revenue.
+
+I'd like to spend some time this afternoon reviewing our marketing and sales progress and our success in delivering new products into our markets. This is particularly true for our scanning receiver business.
+
+In the first quarter, indeed at the Mobile World Congress, we launched our new SeeGull CX platform that targets price sensitive markets with a set of capabilities currently not available in the market.
+
+The CX configuration focuses on WCDMA/GSM and TD-SCDMA markets worldwide. It competes directly with [ph] a Knight FSR1 (09:50) scanning receiver.
+
+In addition, we now offer an EX+, which provides our customer base with an upgrade path from their current EX scanning receivers. The EX+ supports up to six frequency bands and protects our customer's investments in our EX scanning receiver as they migrate to LTE. We have high expectations for our OEM resellers to benefit from both of these new products.
+
+We've been active in marketing our scanning receivers and our direct strategy with carriers should result in strong demand for our products once their budgets are fully released and allocated. We were successful in adding two new OEMs in China and renewed five OEM agreements.
+
+We are in the process of establishing our first Taiwan-based reseller, which is consistent with our focus on this rapidly growing wireless region. We also added a new OEM reseller of our scanning receiver in Spain.
+
+When we acquired Envision Wireless last October, we mentioned that we thought there were strong synergies between their engineering service offerings and our in-building antenna initiatives in our scanning receiver business. We are pleased to report that our scanning receiver sales organization has proved itself to be highly effective in promoting our new engineering services.
+
+In the first quarter alone, we introduced our Network Engineering Services team and products to 22 potential U.S. based customers. Again, we believe it will take another one to two quarters to demonstrate the results of these business development efforts.
+
+We have mentioned our RF ancillary initiative at investment conferences and on earlier quarterly earnings calls. Specifically, we pointed out that an increasing percentage of our antenna sales are actually sales of products or components which are related to or bundled with antennas.
+
+During the first quarter, we received our first volume orders for cable assemblies for an important railroad communication project and we signed an OEM agreement to procure surge arrestors. We intend on becoming increasingly active in RF ancillary and bundled or kitted solutions.
+
+We continue to make progress in several of our key vertical markets. During the first quarter, we delivered Smart Grid antennas to Cisco, expanded our line of stadium and train-control antennas, and received an important order from a defense systems integrator for ManPack antennas.
+
+Our new patent for Vandal Proof Mounts will be crucial to our efforts to expand our public safety mobile and kiosk-bases antenna business. A year ago, we introduced our High Rejection GPS antenna for timing applications in cellular. We had a very strong start to our HR GPS business early last year, but it slowed in the second half of 2011.
+
+During the first quarter, we saw a resurgence of orders for the HR GPS antenna and we anticipate a strong year in that product area. Later this quarter, we will be releasing a new wideband antenna for public safety, railroad and defense applications that replaces 16 of our narrowband models with a single SKU, although large the antenna design allows for easy disassembly and shipment in a compact package that is field-assembly friendly.
+
+PCTEL Secure continues to make progress. We have had a number of inquiries and discussions from defense related customers. Indeed, we are anticipating our first orders in the second quarter. We're making good progress reviewing and testing the software development kit code.
+
+We plan on delivering the SDK Beta release next week to select semiconductor, government and defense systems integrators. The SDK allows Android developers to incorporate ProsettaCore and other PCTEL Secure technologies into their devices.
+
+The solution is based on the patent pending ProsettaCore technology, addresses the needs of the Federal smart phone and tablet user to deploy mission and theater-specific security policies to commercial mobile devices. This also applies to tactical radios and other specialized equipment.
+
+Enterprise users can also benefit from the multiple distinct policies, which allow deeper, more robust separation between personal use and business use then is possible with conventional solutions.
+
+I would like to mention that we're extremely active at various industry trade shows and conferences this year. We recently exhibited at the Healthcare Info and Management Systems Society, IWCE, and The Aruba Partner Summit, all held in Las Vegas.
+
+In the second quarter, we already exhibited at LTE Latin American Conference held last week in Rio de Janeiro and will exhibit at ENTELEC in Houston, the Railroad Systems Supplier show in Cincinnati, RSSI, and the LTE World Summit in Barcelona.
+
+We will be presenting as well at the DAS Congress in Las Vegas, CommunicAsia in Singapore, and Cisco Live in San Diego between now and June. PCTEL was also selected to participate in expert panel discussions for both LTE Conferences and will present at the DAS Congress in May.
+
+During the next several weeks, I should have the opportunity to speak with many of our shareholders and the analysts who write about PCTEL. I'm pleased to be presenting at the Baird Conference on May 8 in Chicago, the Jefferies Conference on May 9 in New York and the B. Riley Conference on May 22 to 23 in Los Angeles.
+
+At that time, I will provide updates for progress with PCTEL Secure, our growth activities, and efforts to expand our vertical and regional markets with our antenna and scanning receiver products.
+
+Thank you for your time this afternoon or early evening. And with that, we are prepared to take questions. We have set aside 30 minutes for a general Q&A session.
+
+[Operator Instructions] . Your first question comes from the line of Matt Robison with Wunderlich.
+
+Hi, guys. So Marty, what are the reasons why this is only a one-quarter problem with the scanners. I heard you say you have two new OEMs and I know some of your OEMs over in Europe seem to think that the delays amongst European operators in putting up LTE are going to last for a while, because they are trying to extract more out of the HSPA networks. Is there share gain here with these new two new OEMs that helps you get through in one quarter or any helps with that?
+
+That's a good question. I think the European situation is real, but I will point out that 95% of the miss that we experienced in Q1 is related to two large operators in the United States. So, while those delays in Europe and the general recession in Europe caused broad concern, those macro trends for regional issues are more than offset by the growth that we anticipate and are seeing in China and Latin America.
+
+For every dollar we are losing in Europe, those will be offset by the gains that we experience in two other regions. Make no mistake about it Matt, you know, you had a breakup of our proposed mergers that took $4 billion out of the pocket of one carrier and caused the other carrier simply to delay structuring their entire budget and there are just enormous problems that have been associated with those events and a delay in the allocation of capital and OpEx budget.
+
+So, have you seen these guys comeback already?
+
+We have seen some of it comeback already, but there is no question we will have a stronger quarter in the second quarter, but we think it will take two quarters to fully recover from the miss that we had in the first quarter.
+
+Are you still talking about this big sequential increase in revenue, and so does the antennas make it up for some in the current quarter?
+
+The antenna business is doing great and we also are going to get some reasonable revenues from our new network engineering services organization and we plan on posting some revenues believe it or not from PCTEL Secure in the second quarter.
+
+Wow. Okay and so, presumably those will be pretty good margins?
+
+Yeah, those would be nice margins, but it will be still relatively small as we are just launching the SDK.
+
+Does SDK purchases for development, not yet licensing, is that the way to look at it?
+
+That's exactly right.
+
+So with the High Rejection GPS what's the application now that we have got issues with the original user about Spectrum that was a problem?
+
+Well, there are lots of timing applications that the High Rejection GPS is associated with and what we are finding is that there is a general demand for High Rejections GPS, simply as an insurance policy. If you're going to have a cellular system budding up any sort of area with a high density of GPS antennas, you'll opt for a High Rejection Antenna simply to protect against future engineering costs or future troubleshooting costs.
+
+So, we're seeing nice gains. The other thing that has happened for us and I can't give you them by name, but we've picked up another infrastructure vendor who was incorporating the High Rejection GPS antenna into their base station deployments.
+
+Okay. One more question, I'd like to ask, I was a little bit surprised to see the sequential uptick in G&A?
+
+Yes Matt, this is John. Unfortunately, we're in the phase of the ERP implementation where the expensed portion is higher, because of the – we're doing data conversion and under GAAP you can't capitalize that. So, we actually had about $350,000 in G&A this quarter in ERP cost and that's largely responsible for the sequential decrease and then, by Q3 it will be out of the run rate.
+
+Okay. Thanks guys.
+
+Thank you, Matt.
+
+Your next question comes from the line of Chris Sigala with B. Riley & Company.
+
+Yeah, hi. Thanks for taking my questions.
+
+Hi Chris, how are you?
+
+Good, how are you guys?
+
+Good.
+
+Just wanted to drill down a little bit on the verticals and kind of curious, maybe you can talk a little bit about where you're seeing the most growth in your antenna business by verticals. Obviously, Higher Rejection GPS sounds like it's doing pretty well, but maybe you can kind of rank those for us and give us a better understanding of what's growing now and what you expect to grow going forward?
+
+Sure. The strongest area for us is the broadest area and that is SCADA or broadly industrial wireless, supervisory control and data analysis. So, if you include in there, the management of utilities, if you include in there, waste water management, if you include in there, oil and gas, SCADA is doing quite well for us, in part, because we have such a strong YAGI product line that has some unique characteristics. And also, because we've been able to bundle our solutions with other providers, so SCADA would be number one.
+
+Related to GPS's fleet management where we are selling Multi-band GPS antennas that incorporate Wi-Fi and other technologies so that not only are you helping with navigation and tracking, but you're also able to transmit data once you get into an appropriate area.
+
+Our third area that has turned out to be pretty strong for us is health and information management. So, we actually have one of these on display, where you look at mobile pharmacy cards, you look at the wireless system within hospitals, you look at tracking of expensive assets within hospitals as well as communication, that's doing very well for us.
+
+And then finally, defense is doing reasonably well for us. And you can't associate that with a specific antenna, but rather with groups of antennas; GPS, Mesh, Flat Panel, the ManPack and so on. So, we continue to advance our interest in defense-related applications. I will say disappointing for us is that public safety continues to be a tremendous drag. I think if you look at Motorola, they just announced and their dominant growth is from mission critical applications within enterprises and not within public safety. So, as the state and the local budgets for public safety continue to be squeezed, we do not see a return to growth in that segment anytime soon.
+
+Okay, that's actually a great segue into my second question. You wouldn't expect growth anytime soon, but when you consider those comments up against some of the recent developments that the release of the D Block and some comments coming out from Washington that could accelerate the build out for a nationwide interoperable network, how would you look at that as an opportunity for PCTEL and...
+
+It would be a terrific opportunity and we think that that is going to happen, but really the question Chris is on the funding. If this is a national network and it's associated with federal funding, I think that opportunities for us are terrific. Our antennas are tailor-made for this type of application. At the state and local level, however, public safety is going to continue to be a challenge.
+
+Okay, all right. And then, I also wanted to ask you about any activity you guys are seeing now with the positive train-control, it sounded like you have a new product coming out designated for rail, but are you working on that project now and...?
+
+We are working on it now. We actually have a company that is bundling our products for BNSF and we've had some direct shipments to BNSF, but there are other railroad projects in addition to that. And we believe that railroad is going to be a – whether it's positive train-control or for general purpose communication, we believe that railroad is going to be a strong vertical for us over the next few years.
+
+Yeah, would you characterize sort of the state we are in now as PTC is sort of a development phase. And then, the anticipation is that we're moving to more of a full production phase maybe later in the year?
+
+I think that...
+
+Any color there?
+
+Although we are seeing shipments now, but I would describe it as a beta test phase rather than a development phase with full commercial release later in the year.
+
+Okay, great. And then just finally, how should we think of seasonality through the rest of the year and would you attribute any seasonality to the weakness you saw this quarter in scanner receivers?
+
+I will tell you that for one of our major OEMs, the first quarter has been historically weak and the third quarter has been historically weak, because three of our resellers are European and there is a lot of vacation time during that period. This year, however, if I had to make a prediction, I think we're going to go sequentially up every quarter in scanning receivers. Second quarter will be stronger than first, third stronger than second and I think it will be very strong in the fourth.
+
+In antennas, I think it'll be more gradual. I think the second-half is always a little stronger for us than the first-half. But we're going to have a nice second quarter here. We have lots of visibility into the next six months. And so, I expect the same sort of thing that will go sequentially up in antennas, but it won't be nearly as dramatic as it will be with scanning receivers.
+
+Okay, thanks. That'll do it for me.
+
+By the way Chris, I think one positive outcome, scanning receivers growing more rapidly or changing more rapidly from quarter to quarter to quarter, some acceleration and a positive momentum for our gross margin.
+
+Great. Thanks a lot.
+
+[Operator Instructions] Your next question comes from the line of Andrew Flis with Robert W. Baird.
+
+Good morning John. Thanks for taking my call.
+
+Sure.
+
+Just going through your CX, new CX Scanner in China, I know Huawei in the past has been or in 2011 grew really strongly. And it is difficult to determine exactly how much product to revenues come out of each geography or maybe just give us kind of a flavor for how China and the whole Asia-Pac region grew this year versus last year at about the same time?
+
+China was our fastest growing market this year, but you can't really do much with that information, because we had such disappointing results with two of our primary carriers here in the U.S., so a little bit of that is artifactual. I will tell you that of our four major OEMs, Huawei a few years ago was fifth or sixth and now it's third. So it is climbing.
+
+And what's really important about Huawei to us is that, just as with our other infrastructure vendors, it takes us into different regions. And I didn't mention this earlier, but I was in South America all last week, which meant I spent almost all of my time in Brazil and a little bit of my time in Argentina. Now, those markets are so dominant in wireless.
+
+And I talked to several people who do engineering services. And it was actually shocking to me. Every once in a while you come across a set of data that's really surprising, and this was the surprising piece of data. It's Ericsson or Huawei, number one or two in every major country in Latin America.
+
+You think about the traditional guys – Nokia, Siemens, Alcatel-Lucent, a long time ago Motorola – and what is absolutely astonishing is the strength of Huawei globally and how rapidly that's changed.
+
+So I was looking – I was representing our scanning receivers to one of these companies that does engineering services work on behalf of the infrastructure provides for carriers, whether it's benchmarking or redesign or any number of activities. And in their data, they showed the rising importance of Huawei as a direct customer, because they've established such a strong business.
+
+So when we talk about Huawei, one of the points I would make, Andrew, is that we are not simply talking about China. We're talking about what that OEM reseller can do for us on a global basis.
+
+Got it. Thanks for clearing that up. And then maybe just a housekeeping question.
+
+This means it's for John and not for me.
+
+Yes, that's correct.
+
+Good.
+
+The provision benefit for taxes this quarter, can you just walk me through again on a GAAP basis, how that works?
+
+Yeah, well on a GAAP basis, the provision looks kind of wacky, because of the consolidation accounting for PCTEL Secure, the joint venture.
+
+Okay. That's right, yeah.
+
+That's what's making it look like a ridiculous rate.
+
+Got it. Thank you.
+
+Okay.
+
+That's all from me. Thanks guys.
+
+Thanks Andrew.
+
+Your next question comes from the line of Brian Horey with Aurelian Management.
+
+Hey Marty.
+
+Hey Brian.
+
+How are you doing?
+
+Good.
+
+I was wondering if you could just give a little color on the DAS market and what you have seen in the last 90 days or so on what's going on there?
+
+DAS market is really taking off. We are selling a fair number of antennas in the in-building, I don't call it out as a vertical, because as it fits into other verticals.
+
+But even if you look at – and I won't mention these companies by name – even if you look at some of the weaker companies in our industry that sell a broad range of antennas and RF products, the one area that's sort of bright for them will be DAS.
+
+And I will also tell you at Mobile World Congress and also down at this LTE show in Rio, there is so much emphasis on in-building.
+
+I think you and I have discussed in the past Brian that historically 90% of investment in engineering went into the outdoor cellular network, and today 90% of the use of cellular phones is indoor. And in our own area, the Network Engineering Services group, 95% of their work is doing engineering design for in-building.
+
+So I think the DAS story and the in-building story is going to be an important story for 5 to 10 years, associated with doing – not [ph] enclosed (34:45) but high-density venues like stadiums.
+
+And one of the reasons we're so interested in expanding what we do in RF ancillary, is we want to be able to provide all of those elements that reach from the radio to the tip of the antenna in in-building applications.
+
+Okay, makes sense. And then, I just wanted to follow-up on the PCTEL Secure. Can you give a little color on how many SDKs you think you are going to ship? What's the vertical for the first sale? Which verticals do you think are going to be the most productive for you from a revenue standpoint?
+
+The first vertical I'm shipping too is a secret vertical in government. Two of the shipments – there's actually going to be four in total. Two will go to defense systems integrators, and a third is going to be to a semiconductor provider that provides core systems for mobile devices. And these core systems go across a variety.
+
+So we will get early revenue in May I believe from the first customer, and then we'll have to see the results of the beta test evaluation for these other three. But I'll tell you, we're getting a lot of confidence in this area.
+
+Okay. Can you make any guesstimates at this point about, if you think about your typical government agency that would have a lot of sensitive information, I mean, is this – do you think the penetration is going to be dozens of people or is it hundreds, thousands? I mean can you just give us some sense as to how big you think the deployments are going to be?
+
+I think when you talk about individual government agency, you're talking about thousands. You're not talking about tens or hundreds, you are talking about thousands, but you're not typically talking about ten thousand.
+
+So they are relatively small, discrete markets, and you have to make sure that you get enough value in upfront licensing fees and royalties.
+
+For the real home run, which is to get this into a semiconductor company that sells into mobility solutions, then you're talking about volume. It would be a slightly different business model.
+
+Okay. And do you have any export restrictions on this?
+
+Well, we're not aware of any at this time. I mean, it's not on a state department list of any type. And we have satisfied all of the requirements we need to sell into target government agencies. We've taken great pains [ph] and fast (38:12) on the first and second quarter, we had some duplicative development cost, because of our care in that area.
+
+Okay. Thank you.
+
+Thanks a lot, Brian.
+
+Your next question comes from the line of Mike Crawford with B. Riley.
+
+Hey, Mike, how are you?
+
+Hi, good. Brian stole my thunder on PCTEL Secure, but I want to talk about that. Maybe we could go just a little bit further.
+
+So you have two software development kits going to defense integrators that are bringing them into an agency and one semiconductor company. And what was the fourth?
+
+Well, the way I'd say it is, we've got two that are going into defense systems integrators; one that is going into the government; and the fourth is going into semiconductor.
+
+Okay. And as far as timing, I mean, when would you expect to see some unit volume for royalties? Is this something where they're going to – you would expect them to evaluate it for a month and say, this is great? Or this is something that could drag on for a year or two or...
+
+No. I'd say we'll start to get pretty complete evaluations by the end of the second quarter. And we will have a pretty good idea of whether we have a meaningful sale or not with this select group. But by that point, we'll also have a commercial grade product. We're getting some benefit out of these beta releases. And we'll expose it to a much broader audience at that time.
+
+Okay, great. Thank you very much.
+
+Thanks Mike.
+
+And there are no further questions at this time.
+
+Okay. Thank you. And we'll look forward to speaking with you at the investor conferences that we'll be attending and at our next quarterly earnings call. Thank you.
+
+And ladies and gentlemen, with this we conclude today's presentation. We thank you for joining. You may now disconnect.

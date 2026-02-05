@@ -1,0 +1,375 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+Graham Farrell — Managing Partner, Harbor Access LLC
+Andrew T. Duncan — Chairman, President & Chief Executive Officer, Boardwalktech Software Corp.
+Charlie Glavin — Chief Financial Officer, Secretary & Director, Boardwalktech Software Corp.
+Mike Stevens — Analyst, Echelon Wealth Partners, Inc.
+Kris Tuttle — Analyst, Blue Caterpillar LLC ·
+George John Melas-Kyriazi — Analyst, MKH Management Company llc
+
+Management Discussion Section
+
+Question And Answer Section
+
+Good afternoon, ladies and gentlemen, and welcome to the Boardwalktech Software Corporation Fiscal Full-Year and Fourth Quarter 2023 Conference Call. At this time, all lines are in a listen-only mode. Following the presentation, we will conduct a question-and-answer session. [Operator Instructions] This call is being recorded on Wednesday, June 28, 2023.
+
+I would now like to turn the conference over to Graham Farrell. Please go ahead.
+
+Thank you, operator. Good afternoon and welcome, everyone, to Boardwalktech's quarterly conference call. The call will cover Boardwalktech's financial and operating results for the full-year and fourth quarter of fiscal 2023 period ended March 31, 2023. Following our prepared remarks, we will open the conference call to a question-and-answer session. The call today will be led by Boardwalktech's President and Chief Executive Officer, Andy Duncan, along with the company's Chief Financial Officer, Charlie Glavin.
+
+Before we begin our formal remarks, we'd like to remind everyone that some of the statements on this conference call may be forward-looking statements. Forward-looking statements may include, but are not necessarily limited to financial projections or other statements of the company's plans, objectives, expectations or intentions. These matters involve certain risks and uncertainties. The company's actual results may differ significantly from those projected or suggested and any forward-looking statements, due to a variety of factors which are discussed in detail in our regulatory filings. Today, we issued our fourth quarter and annual fiscal 2023 financial results, a copy of which is available in the Investor Relations section of our website, www.boardwalktech.com and posted on SEDAR. We'd like to remind everyone that today's call is being recorded on Wednesday, June 28, 2023.
+
+So we now turn the call over to the President and Chief Executive Officer of Boardwalktech, Andy Duncan. Please go ahead, Andy.
+
+Thank you, Graham. I would like to welcome everyone to Boardwalktech's quarterly earnings call to discuss the company's financial results for the full-year and fourth quarter of fiscal 2023 ended March 31, 2023. As we close on another fiscal year, our fifth as a public company, 2023 has proven to be the inflection point in the business that we have been discussing for some time. Our digital transformation business and land-and-expand strategy continues to yield results. The banking channel remains very active with our Velocity product. We added new Fortune 100 logos to our client list. The pipeline continues to expand and replenish. We hit our annual revenue growth targets that we presented to you at this time last year.
+
+That said, while we achieved our goals, we are still not satisfied and look to continue growing the company as quickly as we can. This new fiscal year is about execution and growth. Every day, my entire team wakes up thinking about growth and adding ARR. At the Gartner Supply Chain Conference last month, we began customer demonstrations of a new supply chain visibility product called Radius Control Tower based on our core technology stack. While we were quite pleased by the level of interest that the conference and subsequent prospect engagement since then, we aren't surprised the current solutions can't manage, search, curate and present timely information across the enterprise. The Boardwalk Radius Control Tower can identify and resolve issues as they unfold, not after the fact, and this will prove to be an important part of many enterprise environments going forward.
+
+On a macro level, the past 12 months have been quite eventful in the technology sector. Rapidly rising interest rates, economic uncertainty including layoffs and reorganizations and banking failures have led to dramatic challenges within our customers' respective markets. As it relates to Boardwalktech, the company has been largely unscathed. However, one area where we have seen an impact is we experienced timelines being pushed out with respect to closing of certain contracts. As an illustration of how layoffs created delays or timing issues for us, you may have seen a temporary drop in our sequential ARR. This was due to one existing contract in particular, which we have previously referenced who had an internal delay getting their contract extension signed off due to several new out-of-scope requests. So even while we had approval to issue the invoices, we had full agreement with legal and our customer and we still had us – and the customer still had us in their budget, we did not have all of the requisite paperwork needed or that we were expecting, which would have allowed us to recognize the revenue under IFRS 15. Therefore, to be clear and based on what this customer told us as recently as this week, we did not lose this contract but rather this is a timing issue. So, we do expect all of this revenue to catch up in subsequent quarters. Generally, we are not overly concerned with some of the delays we are experiencing as our pipeline is robust and our clients remain quite engaged. However, this does offer some explanation as to why we've seen contract negotiations extend further than anticipated, especially as we expected some of these agreements to be closed and announced. Key financial metrics to share with you include a 50% year-over-year increase in annual recurring revenue from fiscal 2022 and a 105% increase in revenue from licenses. We hit our previously stated guidance and have increased our guidance for fiscal 2024. Charlie Glavin, our CFO, will get into more detail on our results after my remarks.
+
+As we look ahead to fiscal 2024, we remain enthusiastic at what we see on the horizon. We anticipate closing more deals in the banking channel by year-end, our land-and-expand strategy will continue to thrive as we go deeper with our Fortune 500 client base and we plan to further expand our new and existing client base with our Radius Control Tower product later this year, which will further drive revenue and ARR growth.
+
+With that, I will pass the call over to Charlie to walk you through the company's financial performance. Go ahead, Charlie.
+
+Thanks, Andy. Before I begin, I'd like to take a moment to remind our listeners that all figures reported on today's call are in US dollars and our fiscal year ends March 31, with reported figures based on IFRS standards unless otherwise specified.
+
+The total revenue for fiscal 2023 was $6.5 million compared to the $4.4 million reported for fiscal 2022, which is a 48% year-over-year growth. The portion of revenue from new and recurring SaaS licenses in fiscal 2023 increased by 105% year-over-year due to higher revenue from incremental licenses executed with both new and existing customers. Revenue from recurring SaaS license in the March quarter grew 75% from March of the previous year. Consequently, our annualized recurring revenue or ARR as of March 31, 2023, our fiscal year-end, was $5.5 million, which is up 50% over the $3.7 million this time last year. As a reminder, we calculate ARR based on the trailing past three months of recurring revenue, so this reflects our rate exiting the fiscal year. It should be noted that the current ARR growth level for fiscal 2023 is actually higher than 30% year-over-year growth we experienced when we reported to investors this time last year. As we exit the June quarter, that ARR is closer to $6 million.
+
+Gross margin for fiscal year 2023 was 90.6% – excuse me, 90.6%, which also increased from the 86.6% in the prior fiscal year. The gross margins are expected to stay at these high levels going forward, especially as we grow revenue levels further. I'd also point out that we exceeded the 90% gross margin level in each and every quarter of fiscal 2023, primarily due to higher revenue levels and a higher concentration and contribution from recurring subscription licenses. Net loss for fiscal 2023 was $3.6 million or $0.08 per basic and diluted share versus a similar net loss of $3.6 million for fiscal 2022, which was also $0.08 per basic and diluted share.
+
+Adjusted operating expenses in fiscal 2023 to $7.5 million versus the $5.7 million of adjusted operating expenses during fiscal 2022, as the company was able to opportunistically hire personnel that came available to help fuel our future growth. As Andy has mentioned in prior calls, our goal is to achieve profitability by the end of the year but not at the expense of curtailing long-term growth efforts and opportunities, which that hiring was didn't necessitate. Non-IFRS net loss for fiscal 2023 improved 17% as defined in the adjusted EBITDA and non-IFRS financial measures section of our filings, thus totaled negative $1.7 million or a loss of $0.04 per basic and diluted share versus a loss of $2 million of non-IFRS in fiscal 2022 or a loss of $0.05 per basic and diluted share. The adjusted EBITDA for fiscal 2023 was $1.3 million compared to an adjusted EBITDA loss of $1.9 million in fiscal 2022, thus adjusted EBITDA losses improved by another 5% in the fourth quarter despite the quarterly drop in professional services. The company finished fiscal 2023 with a strong balance sheet with $2.2 million of cash balances and another $1.3 million of trade receivables from new and recurring annual licenses for a total of $3.5 million in organic resources to help fund our growth. As we closed new licenses and received renewals of licenses, the combined AR and cash balances are also expected to grow and the company still has no debt. That EBITDA improvement can be seen in our cash burn as we have improved significantly during the year. Cash from operations was a positive $1.1 million for all of fiscal 2023 and overall cash improved by $1.3 million during fiscal 2023, even without a financing or reliance on warrants. As revenues continued to grow in fiscal 2024, we do expect that cash position to improve. So, as we do have annual license contracts, it will fluctuate quarter-to-quarter.
+
+Now then let me turn to our new guidance for fiscal 2024. Based on the company's recent contract closings, the timing of current deals in process of closing and our visibility, the company now projects revenue for the upcoming fiscal year to be in the range of $8.5 million to $10 million. This equates to roughly 45% year-over-year growth at its midpoint, which is consistent with the organic growth in our SaaS business over the last three years.
+
+Several important points to make about this guidance: First, the preliminary guidance range for fiscal 2024 equates to that 45% and while that is consistent with the SaaS growth over the last three years, this is not our actual target. We will be looking to increase that – excuse me, increase that, as Andy alluded to. Second, while this guidance does not rely on any revenue growth from professional services, we do expect professional services business to grow in absolute dollars, though fluctuate quarterly. Third, as a reminder, we factor our projections, so our pipeline is weighted by the stage of closing and probability, meaning there is both upside and a buffer to this initial guidance. Based on these factors, we believe this is a good conservative place to start as a basis going into fiscal 2024. Further, these factors mean that investors should expect the recurring revenue figures to grow at a similar or higher rate than what we just reported in fiscal 2023.
+
+In conclusion, given the company's growth outlook, the company still has sufficient funds and current resources to achieve its guidance, though we do not believe that – though we do believe we could have grown or grow faster if we had additional available growth equity.
+
+With that, let me now turn the call back over to Andy.
+
+Thank you, Charlie. Last year, I told you that we would let our numbers do the talking. While we did achieve our goals, we did not exceed them as much as we wanted. The Boardwalktech team will remain hard at work, continuing to strive toward exceeding our goals and providing exceptional value to our customers and investors. Once again, I would like to thank everyone for taking time to join us here today and we truly appreciate your support. We look forward to giving you additional updates on our progress in the future. And we're happy to take calls now or questions now in the Q&A session.
+
+Ladies and gentlemen, we will now begin the question-and-answer session. [Operator Instructions] Your first question is from Mike Stevens from Echelon Wealth Partners. Please ask your question.
+
+Yeah. Hi. Good afternoon and thanks for taking the time to answer a few questions here. With regards to – I appreciate the commentary around the ARR and that customer delay in the contract. I'm just wondering in terms of Charlie mentioned the updated ARR, if you were to take the trailing three months here in June at about $6 million. Are you able to give a sense of whether that would represent that kind of customer that continues the contract, or is that new customer and whether there's still some catch-up to be done on that reference customer there?
+
+Sure. I'm happy to answer that. It's a combination of both, Mike. And again the referenced customer, I'll point out that – we did – we definitely have some culpability with regard to the fact that things were delayed in being able to deliver what they were looking for. However, the goalposts continue to move and this particular company is a very dynamic company that went through multiple rounds of layoffs here in Silicon Valley and those layoffs hurt our ability to be able to work with their team, to be able to have them provide us information which then allowed us to be able to deliver the product as we had contracted. So not only were the goalposts moving but we had people that were getting laid off that were in charge of working with us.
+
+And so because of that, there was a delay. We really don't believe that the contract is at risk. And we believe that they are – and they continue to move forward positively. And we think that this will all be made up once we get to a final agreement with them.
+
+Okay. Great. No. That's helpful. Sticking with the pipeline, like obviously it sounds very positive in terms of your outlook for the year and what could come in above and beyond that. Just in terms of that confidence, like it – Charlie also mentioned how there are deals in late-stage, in the process of coming in the door, any sort of detail or insight?
+
+I know you probably can't say too much but in terms of what provides that confidence for such strong growth in 2024? Is that things that could be more near-term that we can expect to hear in the next six months or so, or like just any detail on that confidence level, obviously it seems very strong.
+
+Yeah. Mike. Let me – Mike, let me address that and I just want to be clear when we're giving sort of the projections and when we refer to sort of a weighting. So if you take a look at our total pipeline, which is much higher than the figures that we mentioned, we then factored or we weighed it by probability.
+
+Sorry. Sorry, Charlie...
+
+Yeah.
+
+Yeah. Sorry. No. I was actually – I meant the guidance. I'm sorry. I apologize. Your guidance that you referenced having obviously confidence in that $8.5 million to $10 million range [indiscernible] (00:20:19).
+
+Right. So where that factors then is the probabilities, our level of confidence by stage as well as visibility. So if you take a look at the highest visibility, that would be with, let's say, over the next 3 to 6 months, which may have a higher probability. And I can tell you that if roughly two-thirds of the pipeline may involve new logos, by the time you actually factor in, it's close to the 53% of the amount is coming from new or from existing customers. So when you have an existing customers, they have that much more visibility particularly in the near-term. You have a higher confidence level off of that. So what we didn't do and to the point is we did not rely upon landing big elephants or big logos for driving that. So, the vast majority of the upside is coming from existing customers, really that land-and-expand, more the expand aspect overall, and what we see in terms of visibility. Which is why when we're taking a look at should we get more momentum, then the upper side of the range or even exceeding the range then becomes more plausible and that's when we would tend to increase the guidance.
+
+But at this standpoint and quite frankly the reason for the wide areas of ranges, we are expecting a couple of big deals potentially during the year, hence the increase. The lower end of the range is where we have the confidence level, start at the base, go forward, and add on top of that with the ultimate target of exceeding that obviously.
+
+Okay. No. That's super helpful. Thank you. And also on with regards to your – obviously you're not in the need for capital which is great with your cash, your ARR and then some of these deals coming in the next six months. But you do reference the – how capital can provide some growth and chase opportunities that you otherwise may not be able to. So any sort of anecdotes on how – where that capital could be deployed and what it can allow you to do with some growth capital with no doubt on the balance sheet, et cetera?
+
+Yeah. Yeah. So growth capital can be a little bit, I don't want to say a misnomer but two aspects within it. So, if we were to raise it, like someone that would be placed on to the balance sheet because one of the things that we do face as a smaller company is optics. But it's not just a matter of having idle cash but rather we've already been pre-approved for, say, the QX. And if we have a sufficient balance of net tangibles, we can actually complete that uplisting. Same thing as far as being invited to the TSX but that would be some money that would be essentially be parked. And the optics of that would also provide a quicker due diligence potentially with new and prospective customers as well. Then, if you're taking a look at the actual disbursement or use of funds relative to the working capital, that would be more in the marketing and professional services side. The professional services help ramp up and then maintain and expand our customers overall. So less in terms of investment within R&D, which you've heard Andy mentioned is a low-risk situation.
+
+But it doesn't mean that we won't be investing some within R&D for additional enhancements. If it wasn't for some of those enhancements, we would not have been able to bring out Velocity, getting us into the banking sector or the Radius Control Tower which was very well-received at the Gartner Supply Chain Conference, which Andy can expand upon further.
+
+Sure. Mike, one of the – as you know we have kind of three core areas that we're focused on right now, which is the Radius Control Tower for supply chain visibility. I could use another five salespeople selling that product. We also have our digital transformation business that includes land-and-expand and we're actually quite involved with a couple of our existing customers with the Radius Control Tower product, one in particular that is super-enthusiastic and moving quite rapidly. So that's another example of needing additional resources to continue to land-and-expand and sell into new products, and land-and-expand on the existing products within these large companies.
+
+And then the final is the Velocity product within the banks. One of the things to shore up the balance sheet on is these banks are very wary as you know about who they work with and they want to make sure that we're financially stable. And while we were able to land a couple of banks last year, one – really big one in particular, the reason that we were able to land that bank was because our technology was significantly better than the alternative technologies that they were either using or looking at. so they went with us and we've been able to prove that out. It just makes it easier and we think we'll be able to close more deals, especially in the banking industry if we had a shored-up balance sheet. But I will tell you that, that is not holding us back from pursuing the biggest of the big banks...
+
+Right.
+
+...and the medium-sized banks. And we're going full tilt on that. And we're not certainly using our balance sheet as any type of an excuse. We think we can be able to sell through it. I'm just saying that if we decided to raise additional capital, that that is an area that we think would be helpful from closing deals faster by having an enhanced balance sheet.
+
+Okay. Great. No Appreciate that. And just while we're on the topic of those offerings in terms of your Radius Control Tower and the momentum that you've seen on the back of the Gartner symposium, it just seems like there's definitely a lot of momentum in that vertical that you've touched on, compare and contrast to the banking vertical that's a bit slower moving. But once you do pick up momentum, it could generate some pretty big contracts. I'm just looking for in terms of your pulse on those verticals, the opportunities that you're seeing maybe in your fiscal 2024, the degree of confidence that you think – which one could end up being the leader exiting this year or representing more of your pipeline in terms of Charlie's confidence reference and how you calculate that, et cetera?
+
+Yeah. Mike, so the banking contracts are basically contracts that take longer-term or a longer time to close. But I will tell you that just over the past four weeks, we have seen a marked increase in interest with regard to what we're doing including engagements with several new banks that heretofore we have not connected with that's primarily driven by a higher level of interest. Now, that the scrutiny is even more on these banks after the Silicon Valley Bank and First Republic Bank and Signature Bank collapses. So, we're starting to see pressure now coming from some of the regulators and the banks are really starting to pay much more attention to this. So, while this was a horrible thing that happened with regard to these banks, at least no one got hurt as a depositor, then that is a positive for Boardwalk because there is more scrutiny. But those deals are bigger and take longer to close but we are seeing enhanced activity there.
+
+With regard to Radius Control Tower, those will be shorter contracts to close compared to the banks. And then although it is a new product now, we are seeing again quite a bit of activity but we're working primarily with our existing customer base to continue to prove this out and to validate the technology beyond the first customer that we have, which is Meta that we had announced at the Gartner Supply Chain Conference. And so we're learning every day with regard to the Radius Control Tower and the ROI and value proposition that it delivers to these customers and we are quite enthusiastic about the opportunity in front of us with regard to Radius. And I would say that as you ask me to kind of put my – wet my finger and put it in the air and say which one is going to be the winner this year, I would say one of the good things about Boardwalk is that we are diversified with regard to the markets that we're going after. When you look at Radius Control Tower and Supply Chain, you look at our digital transformation business and the land-and-expand, and when you look at Velocity with regard to the banking. And that should be viewed, we believe, by the investors as a positive because there can be – two out of the three could be on fire and really growing fast. And that's – and the other one very steady. So, let's see what happens as we continue to get these to market and as the market continues to mature around both of – all three of these areas that we're focused on now.
+
+Hey, Mike. If I could chime in. One thing and, first of all, my apologies for coughing before. Allergies picked up or something. But rather than view these as essentially three markets or verticals or silos overall, something that we've heard, as you know and Andy has spoken about, one of the big advantages that our Digital Ledger and core technology provides is a single point of truth in data management. When we have been engaged and I recently talked with a colleague who was a officer at one of the larger banks on the East Coast, and I asked him about the EUC remediation, he echoed the same thing, which was a lack of solutions that could provide a single source of truth as well. And it's the reason why so many banks out there have tried a variety of different areas. It's really about the quality and reliability of the data, which is what our core technology allows overall and again we can go into more detail offline on that.
+
+But that's where, whether it's supply chain or Velocity and the visibility and remediation of the EUC or digital transformation comes back to our core technologies. What we're doing is we're refining those into the different markets overall but it's kind of the same problem across all of these different verticals, which is why we're able to go into these tangential markets and present this solution to them with higher ROI, including with those really large customers. They've tried other solutions and it hasn't gotten there. Something else just – and I think I've referenced to you is there's a guy at – who's the Head of Data Management at JPMorgan's, Steve Turk, who does a video piece called Tech Trends. And he laments about the problems that they're experiencing at – within the bank including their growth efforts, which so easily could apply to a supply chain customer. It's different markets, different semantics, same problems. They're having problems in terms of data management, the quality and reliability of that data. And that's really what Boardwalktech's presenting to any of those markets.
+
+Okay. Thanks for all your insights. That's all for me.
+
+Thank you. Your next question is from [indiscernible] (00:32:52). Please ask your question.
+
+Hey. Good day, guys. Just – I know your amortizing contract costs and that's really holding back the profitability. So I think the number was [ph] $626 (00:33:09). I looked in the report today. How long do you amortize these contracts for?
+
+In terms of the – if you're talking about the teaming fees associated with a associated amount, those would be commensurate with the license itself.
+
+Okay.
+
+In the case of last year, it started to be amortized when final acceptance occurred only in the initial year. For others, assuming that there is a teaming fee associated within subsequent years, that would be amortized over the period of the license itself. You are correct. So that was one of the – yeah. I wouldn't say hold back on it. The other one was not – some other non-cash amounts, including share-based compensation relative to our...
+
+Right. [indiscernible]
+
+(00:34:00)
+
+Right.
+
+That's a big one too, which is kind of another discussion. I don't even want to touch here but – so is that the right amount, about [ph] $626 (00:34:09) for...
+
+I'm not going into – yeah. It's essentially the correct amount, which would again be coming off of that first year. I think something we mentioned last year when we first disclosed that was after the first year, those amounts and the percentage of would decrease in subsequent periods, assuming that there was a fee associated with renewals.
+
+Okay. So it depends on the length of the contract. So what is the typical length or what is the range I guess of contract lengths?
+
+So in the case of – some of these banks but also with some of the other large entities, we may lock down a multi-year agreement with them as far as agreed upon license prices but they renew each year. So we don't have any contracts that are locked for two years for example but rather they renew for annual terms, every anniversary.
+
+Okay. So are you implying that the [ph] $626 (00:35:18) won't be there in – this year or that's gone?
+
+Yeah.
+
+...or.
+
+What...
+
+For new teaming fees?
+
+So without giving too much guidance as far as any renewal amounts or others, yes, the [ph] $625 (00:35:35) will decrease this year as it pertains to existing customers. Yes. That amount definitely will decline this year.
+
+Okay.
+
+And [ph] Ed (00:35:44), I'd like to comment on these teaming fees. As we continue to mature relationships into this market, in selling Velocity and teaming with IT services companies to provide the delivery of this and we just get the license. We're getting better and let's say a little bit more conservative or competitive with regard to the teaming fees that we're engaging in now, which will continue to improve as we get a bigger foothold in this market.
+
+All right. Okay. So, without giving guidance, you said it will decrease but it won't – like what's [ph] directly (00:36:38) the decrease, I guess from existing customers?
+
+Well, remember, the amount is paid to a partner and that we went in. And without disclosing too much because there was more than one partner last year. So rather than get specific and mention each one of the partners and their amounts, again, what I would restate is from those amounts which were both renewed this year, the teaming fees will decline this year by a material amount.
+
+Okay. Material. Okay.
+
+Yes.
+
+Okay. Okay. Well, that's good. I mean this is part of – these partners they helped you put up incredible growth over the last – in 2023 as well. So totally justified, right? And especially given your Software-as-a-service model. Okay. And then...
+
+And [ph] Ed (00:37:41) as Andy has alluded to, we are adding on new teaming partners and generally those teaming partners would be added as they get closer to – with prospective customers. So we have discussions early on. Those agreements tend to occur when somebody thinks they've actually got a bite on the line.
+
+Right. And it sounds to me, as we progress in time, like, if you look at 2023, the teaming fees is about 10%. So a pretty significant amount, [indiscernible] (00:38:14) on $6 million, right? And now – and as it declines and as the company grows, that you can add some new teaming fees, so maybe it stays at $626 but the company – your guidance is $8.5 million to $10 million. So it's going to decrease as a percent of overall revenue. I would...
+
+Yeah. Twofold, [ph] Ed (00:38:35). So, one, it will decrease – for the amounts from last year, they will decrease in absolute dollars. So automatically they would be decreasing as it is renewed as a percentage plus. As we grow revenue, it would decrease again. So, yes, you're going to get double benefit off of that.
+
+Yeah. Yeah. Okay. And then I wanted to – Andrew talked about the delayed – that there's a delay in Q4 that affected the revenue in terms of customers' layoffs. So – and I guess you're referring to someone – a tech company and they've all been laying off I would think. And – but what is the magnitude of that, how much of that affect the Q4 basically?
+
+Without giving too much detail, [ph] Ed (00:39:37), you can extrapolate that the sequential decline in our revenue was primarily from that delay in terms of the extension or renewal.
+
+Okay. So – and that revenue now is coming into Q1 or what is the state of it now?
+
+Well, I'm not going to pre-announce Q1, [ph] Ed (00:40:11). [indiscernible]
+
+(00:40:13) [indiscernible]
+
+(00:40:15) status of it.
+
+We do expect to catch up, including the amounts that were deferred from the March quarter, [ph] Ed (00:40:28). We do expect to catch all that up. So nothing – we do not believe it was lost but rather just altered. And again this is really outside of our control. We lined up the ducks. But given the circumstances within the customers, having a potential joint release with somebody at the same time they're completing layoffs, they have an internal optic issue as well. So during that window of opportunity, they asked for some new enhancements and other [ph] judgments (00:40:56) because basically they knew that we weren't going to cut them off and vice versa. This is an existing relationship. But unfortunately, relative to the limitations we have with IFRS 15, we didn't have everything necessary to be able to fully recognize and present that to investors.
+
+Right. And I would like to point out that we took the uber-conservative approach here with regard to this.
+
+All right.
+
+We think it is the right thing to do.
+
+Okay. So it sounds like the way you're claiming it that there's a [indiscernible] (00:41:30) like when the catch-up hits, it could be more than the amount that was lost in Q4, right? Because there's the catch-up – there's the existing and the – there's – it's double-whammy again?
+
+Yeah. And we just don't want to give any sort of specifics on that amount or commit customers. But, yeah, I like your logic, [ph] what we're seeing overall, Ed (00:41:53).
+
+Well but it sounds like now – it sounds like it may slip into Q2 again, but...
+
+Okay. Okay. Well – and the Radius Control Tower any – I guess you talked about salespeople. Is there any color you can give on that? You've got the one lead customer. But...
+
+Yeah. We're certainly...
+
+...surprising. Everyone is talking about it. Yeah.
+
+We had nice response from early meetings that we're having with existing customers saying, hey, we'd like to show this to you and get your reaction. And a couple of them coming back going, Wow! I need that. When can we get started?
+
+So we think we're moving on to something here with the Radius Control Tower. I'll remind everyone it was built off of our existing platform. And so it's an extension of our core technology just in a different area. And we really believe that this supply chain visibility problem that's in the market today, which has not been solved and which we've got a excellent opportunity to solve it, that this is a market that could be a really good one for us.
+
+Yeah. Yeah. Well, congrats on the extending, expanding into that new adjacent market like that's – yeah, that could. Yeah. I mean I think everyone is struggling with supply chains, so we look forward to color on that or we look forward to more announcements there.
+
+So I will have to ask the trendy question. I think you know it's coming. But AI is the big buzzword now in technology. Are there opportunities for Boardwalk there or does it – can it help you become more productive or how do you see that affecting...
+
+I'm glad that you asked the question and not to interrupt you. But this one particular customer, the first customer with Radius Control Tower that has delayed.
+
+Yeah.
+
+And remember I talked about how the goalposts were moving. Part of the goalposts moving is the desire for to have us put a predictive analytics component into the...
+
+And we're working with them with that right now, which [ph] AI (00:44:47) that would allow us to be able to take the existing data that we have and the unique way in which we manage data, we think gives us a real leg up. And the way in which we store the history of how transactions have happened in a temporal database also gives us a unique opportunity, which then the ability to do predictive analytics, which is really AI to say, this isn't what happened, but this is what we predict is going to happen based upon the data that we have is a really big part of our go-forward plans with regard to Radius Control Tower. Are we going to change our URL to be boardwalktech.ai. No. But we definitely are going to be talking a lot more about AI and how that plays out into our Radius Control Tower solution going forward.
+
+Well – so AI isn't something you'd be selling but you'd be getting packaging the data so it can – it'd be put through a large – the language model, right?
+
+Yeah. I mean our...
+
+Is that the way to think of it?
+
+So again, we already have the language model. So the issue here with regard to AI, not to geek out on everybody on the call, but the net is that, look, the AI is only as good as the data that you're capturing to then run the algorithms against it to say, okay, this is the answer to your question or this is what we predict is going to happen.
+
+We believe that the way in which we are managing, collecting and curating the data on behalf of the customers, both from their existing systems of record and from the documents and data that's coming in from their partners and customers, will – it provides an enhanced, more secure environment of data that run the AI against that will give them a better result. So, there are some clear differentiators that we are going to bring to the market that we're continuing to explore around not only the ability to leverage our unique data model but our ability to leverage the fact that you can rely and trust on the data that we have because it's not from the Internet. It's from validated, curated sources that you're providing that you have a higher level of trust in. And we think that that could be again another very big differentiator to our overall offering as we expand AI and predictive analytics within the Radius Control Tower product itself.
+
+Right. So if I think about the data model, it's more centralized, right, than – one of your selling features is to get data from the spreadsheets into a more centralized, controlled environment, right?
+
+Well, not only spreadsheets but we're pulling data from the transactional systems record like SAP and Oracle. And we now, through the Radius Control Tower product, have added the ability to collect data from documents and other data sources that are coming into the organization in the form of management data.
+
+And so when we look at total information or data management, no one else out there can collect the data from the spreadsheets, no one else can combine collecting the data from the transactional systems of record, and no one else can combine collecting data in the form of documents, whether that's HTML or PDF, word or text or whatever other types of documents and store that in a temporal database that then allows us to be able to query against it, to say, this is what we – this is the result or this is what we then predict the result will be.
+
+So we – going forward, that one of the big AI issues is going to be not necessarily the ability to run algorithms against all kinds of data but is the quality of the answer appropriate, is the quality of the answer secure? And this is going to be unique to watch as it plays out. [ph]
+
+Ed -and Ed (00:49:40) if I can... [indiscernible]
+
+(00:49:42). It seems to me though that if data was distributed in word files and spreadsheets, like it would almost be very difficult to even to run AI against it because it's all distributed. The AI system wouldn't have access to it basically. I don't know if that's a thing. [ph]
+
+Ed – Ed, if (00:50:02)
+
+The technology is that it allows us to absorb these documents and assign a unique identifier per word or assign a unique identifier per cell of data in a spreadsheet is core technology for us that we think is going to be a big differentiator.
+
+Yeah. Yeah. I mean, like I said, I think the next step is it's ready for an AI system, right?
+
+Yeah. So... [ph]
+
+Ed (00:50:31). And I apologize for this. But just to make sure that we have everyone else ask questions. We'd love to take this offline, but again to everyone...
+
+Okay. Okay.
+
+...our underlying technology enables this ability of people being able to make changes while preserving the provenance, [ph] soundability (00:50:45) and traceability of the existing data. So, [ph] Ed (00:50:49), we'd more than willing to take it offline. But...
+
+Okay. Yeah.
+
+...just in case there's any other questions that we can turn back to the operator.
+
+Sure. Sure. Okay. Well, thanks for the insight on that and we look forward to further updates.
+
+Thanks, [ph] Ed (00:51:03).
+
+Thanks.
+
+Got it.
+
+Thank you. Your next question is from Kris Tuttle from Blue Caterpillar. Please ask your question.
+
+Oh! Thanks very much for taking my questions. I wanted to go back to the financial part of this. And it's always a little hard for a small company to kind of do the macro victim thing, although I do know that you had that disruption.
+
+My question is more along something you alluded to Andy, which is having more sales bandwidth. You've got some fantastic products that have tremendous ROI and market opportunity. And I'm curious about are there any things that you guys are contemplating that might like lower the friction and like increase the velocity of being able to convert some of these clients, whether that's on the Radius Control Tower or things that you can do to, essentially efficient ties and accelerate this process because it seems like your constraint is really just on the sale side because the products and your partnerships and all the work that you guys have done really has set you up extremely well to be hitting the market?
+
+Yeah. I think this is also a lot about visibility, Kris. And we have not done a very good job with regard to marketing or creating visibility for this particular product, especially in the Radius Control Tower in the market. Although we did have quite a successful show at the Gartner Conference with a demo and a case study on what we did with Meta. So that was certainly positive.
+
+But I think this is about timing and creating visibility and again creating distribution, right? Like I'm continuing to look at are there partnerships that we could create that would provide distribution for us and we're also looking at the partners. We have one of the biggest partners that anybody works with, top five in the world that's run out of Chicago but headquartered out of Ireland, has come to us just this week with a Radius Control Tower opportunity. So as we start to get the channel involved in this, this could also create more awareness and distribution for us.
+
+And are you contemplating anything on the management front in order to just bring in more resources to help you guys go after this?
+
+Well one of the holes that we have in the management team is I'd really like to get a CMO but again we run that fine-edge of resources, cash and driving toward profitability. And we have to be wary of our of our spend. And some may say that's pennywise and pound-foolish but we've got a real desire to get to profitability and we can't do everything.
+
+I appreciate that.
+
+Hey, Kris...Kris...
+
+Yes?
+
+Kris, I think from our discussion, one of the things I would highlight is we have brought in some good members from the advisory board as a small company goes from being tech-driven and speak a lot of tech jargon into becoming more practical and tactical as far as that marketing aspect in many ways is keep the message simple in terms of what's the value add from a business standpoint. I think if you look at the advisory board and anything on the marketing, that transition from becoming more technical-oriented to becoming more of a market-oriented and monetizing the technology will really be that second phase of the inflection point.
+
+As you and I joked at the last conference, just take a look at our list of customers, in many ways it's like we're dating the prom queen but we can't tell anyone that we are. That's the key from getting the message out. So a lot more focus on, proof-of-papers, not white papers. Just as far as the potential, what is the actual ROI that we are delivering out to our customers? We have it now. We collect it and I think that will, in turn, help JB Kuppe from our sales area and his team be able to close more deals quicker as well.
+
+Yeah. That sounds like the right thing, Charlie. I mean and I know we joked that you guys could run an ad saying in less time than it takes to plan your $10-million Accenture implementation, you could be up and running with Boardwalk's Control Tower for 100th of the price. And that kind of messaging I think to the extent you were working on with your advisors, I think will go a long way to really helping expand your reach.
+
+And it really goes to any point. Let the numbers do the talking. There's no more powerful way than showing ROI. If you show the ROI, you cut through the skepticism. People who've always heard the vaporware and the promises out there and then they take whatever the estimate is and says, yeah it will take three times as long as three times the cost. We've had the proof as far as it takes us a short amount of time out there but we generate the ROI in the first year. If we do more of that, it will feed upon itself.
+
+Okay. Hey, that's very helpful, guys. Thanks a lot.
+
+Thanks, Kris.
+
+Thank you. Your next question is from George Melas from MKH Management. Please ask your question.
+
+Thanks for taking my question. I'm new to this story and I have two quick questions and then maybe a broader question. The two first quick question is the customer with the delay in renewal, are they still using your application during that period of time between – until they renew?
+
+Yes.
+
+Yes. Okay. Great. Okay. That's good to know. And then the number of SI that you're working with, you're working with the SI on the banking side through Velocity. You mentioned another SI that might be bringing you a Radius Control Tower. Do you work with them or not? I thought it was just on Velocity but that doesn't seem to be the case and how many are you working with?
+
+So we've had a couple of partnerships with companies. One in particular, Accenture, where we've done work with them utilizing our Digital Ledger transformation product. And that's now migrating to – looking at Radius Control Tower, which is great. So we have a couple of relationships like that in place.
+
+Yeah.
+
+Banking side, these are different – for the most part, different IT services companies, George, mainly India-based that are focused on providing services, mainly head count and back-office stuff for the banks. So we've signed contracts with companies like HCL and LTI and several others. And we actually have – I think three Charlie agreements that are in motion right now with new partners that we'll be announcing. And as Charlie earlier stated, lots of times these partners, while we've been talking with them for a while don't move to the teaming agreement stage until they have a real opportunity and you can read into that what you would like.
+
+Great. Okay. Good. And then the last – thank you very much for that. The last question is a broader one. I'm a little confused whether you're selling your platform or a number of applications on your platform. And by that I mean do people sort of like really take your application, whether it's Velocity or RCT or some other supply chain visibility? Or do they take the platform and sort of build or modify the application that serves their need?
+
+George, that's a very good question. So, historically, we have sold the platform, which is the Boardwalk Digital Ledger platform. That is what we've used with regard to the digital transformation and we get in and we land-and-expand across companies. We've recently, over the past two years, moved to delivering a specific product off of that platform called Velocity for the banks. And we now just recently introduced our second product off of that technology platform called the Radius Control Tower to focus on initially supply chain visibility, but it can provide visibility across anything. And so therefore we are both. A platform and then we've developed two products with specific market focus off of that core technology and platform of subsequent to the delivery of the platform.
+
+Okay. So it's loud and clear in application could sort of accelerate the sales cycle. Do you see yourself moving more, developing more application in the next couple of years?
+
+We do see ourselves developing more applications. So we've got several kind of plan but we're not moving on those until we see further success on both Velocity and the Radius Control Tower. But I will say that it's interesting that even with the Velocity and the Radius Control Tower, new customers that we're speaking with about that will revert back to wanting to also use the platform as part of an integrated method of automating a lot of this data.
+
+Okay.
+
+So it's fascinating to see how it all kind of ties together.
+
+Interesting. So the app could be really of the land and then you can expand through the platform?
+
+Yeah. And it's all about enterprise information management, right? You've got data sitting in your core systems of record, you've got data coming in and unstructured documents and forms, and you've got data in Microsoft Excel or Spreadsheet. We are the engine and the platform that will help companies understand all of that data with a two-product focus, one on the Radius Control Tower for supply chain visibility; and one off of the Velocity products for financial services, automation and compliance.
+
+Great. Thank you very much. Appreciate it.
+
+You're welcome. Thanks.
+
+Thank you. Your next question is from [indiscernible] (01:03:12) Investors. Please ask your question.
+
+Hey, guys. Nice to talk to you again. Very quickly because I realize it's already pretty late. I'm aware you don't give guidance in terms of EBITDA but can you just talk a little bit about how your costs will with revenues? Should we expect them to go up a similar amount, much less, and how would that overall affect the bottom line? So, just talk a little bit about your operating model, please.
+
+Yeah. So, look, [ph] Florian (01:03:53) to be really blunt. We anticipate and plan and budget for revenues to grow at a faster pace than our operating expenses in order to get us to not just adjusted EBITDA but goal of profitability. And last year, as we mentioned given, that there was a lot of the available, quality people who became available thanks to layoffs and other transitions at other firms, we did hire a little bit more than what we originally anticipated. But again, to Andy's point, is that's seeding the investments going forward. So, you did see a little bit higher OpEx but the entire premise of this is operating leverage, add new customers with high contribution margin. And in terms of topline growing at a faster rate than OpEx, that is our goal and our objective on this, without sacrificing long-term growth or opportunities.
+
+Okay. And so even if you came at the lower end of your guidance range in terms of revenue, you would still be profitable on the bottom line?
+
+I am not going to – I knew you were going that way, [ph] Florian (01:05:06) so I'm not going to have Andy or I commit to...
+
+I could try...
+
+...what our breakeven but nice try. But kind of coming back, [ph] Ed (01:05:16) did a nice job of tapping into something we didn't directly talk about. Think about some of the expenses that occurred last year relative to, say, teaming fees or others, which will be declining in absolute dollars as well as the percentage of the contracts, not just in terms of the topline as well. So keep that in mind when you're doing your modeling as well.
+
+Yes. Fantastic. And you mentioned the key word teaming. In terms of teaming partners, can you give us an update on that? And what would you anticipate is the role of your teaming partners in terms of your revenue growth for the next year and for the foreseeable future in general?
+
+Well, I...
+
+Yeah. I'm happy to take that, Charlie.
+
+Yes. I was just going to say I think you did a nice job answering that with George as well.
+
+Yeah. So when a bank has a material issue that they need to deal with, as maybe highlighted by the Office of the Comptroller of the Currency such as a compliance issue around information, we ask ourselves what does the bank do? Who do they call? And for the most part, they're going to call in a consulting company or their IT – one of their IT services companies to say help us figure this out. What do we do?
+
+And our goal with these teaming agreements is to be in front of all of those consulting firms and IT services companies be in front of all of those consulting firms and IT services companies, so that when they do get that call, they can say, well, one of the companies that we think that you should consider is Boardwalk and their Velocity product and then we're in the conversation. From there, we think that our product is significantly different enough that we will win the deal, depending upon the politics within the bank. So we think that the appropriate way to go-to-market is through these teaming agreements. Now, the second thing is that the teaming partner brings credibility to us in front of the bank. And the third thing is, if the teaming agreement or the teaming company will do all of the administration and professional services work to roll this out across the bank thus keeping our margins high.
+
+So it's a win across the board. They're doing a lot of the selling. They're doing a lot of the professional services engagement, they bring credibility, and it will also allow us to scale quickly. If all of a sudden we had 20 banks show up, we would be able to scale as long as we had these partners to be able to do the administrative and the rollout work. If we didn't have those, we would be furiously trying to hire to be able to meet the demand and I'm not sure that we could actually do it. So it's a really good strategy, we believe. And now it's just about execution and the banks adopting this, which hopefully will come from increased regulation and our ability to recruit teaming partners so that we're in the right place at the right time when the opportunity comes. [ph]
+
+Florian (01:08:50) coming back just – the concept of the teaming partner is you have assigned duties and responsibilities for the respective partners. So it's a win-win as opposed to doing multi-party agreements, something that we borrowed from the government and construction areas as well. So when you're engaged with these teaming partners whose expertise is, one, they are an approved provider to these entities already who already are well-staffed, so we don't incur that. They bring that and we'll get the professional services. We get the license. But again one of the things I brought up earlier in the call was we're taking the general concept of leveraging off the people who have existing relationships with customers that could benefit from our technology, also with our Digital Ledger and Radius Control Tower. And this is what Andy has been spearheading along with our Head of Strategic accounts, Glenn Cordingley, as well is not just with Velocity but in other areas is we're trying to leverage access into other people from people who have recognized our technology via Gartner or other areas. And that's why I highlighted our advisory board as well.
+
+Awesome. Thanks for the detailed answer. Very last question. Has there been any contracts being closed that you haven't announced yet, important ones. And related to that in your guidance, how much of your guidance would you say depends on things still happening, like signing a contract and things that have already happened like a contract that has already been signed? [ph]
+
+Florian (01:10:46), we don't have any material contracts that we've signed that we have not announced yet. We have doubles and singles that we're signing all the time with existing customers and land-and-expand that we don't think is in the press release. So that's the answer to that question.
+
+And the second question that you had is basically you're asking how confident we are on the numbers that we've provided. And I think the investors should look at the fact that last year we provided guidance for the first time and we hit that guidance. And I think that we're letting the numbers speak for themselves. And Charlie and I don't want to put any numbers out there that we don't think are credible and real and we're pretty confident.
+
+Very good. Where I was also going with is, is there potentially some upside to that guidance? And certainly you gave that range for reasons, right? But considering the size of your pipeline and the conservative nature of your pipeline, do we find ourselves in a situation where you will say in a few months or in one or two quarters and you have signed so many deals already, that guidance really is low right now. Could that happen?
+
+Well, again, remember that we're coming out of this quarter with $6 million of ARR. And we're – we've got a pretty good track record of renewals with our customers. So from there, adding another $2.5 million, so we've already got services revenue that's contracted and coming in. We're pretty confident. Can we get to the higher area? One or two banks that hit fast and we're heroes. So let's just wait-and-see. That's all I can say.
+
+Yeah. That's great. And just what I wanted to emphasize is one of these bigger deals, right, or maybe two and we are talking much, much different numbers and so that is just a statement for me. And the other thing you have $6 million in ARR, right, compared to a market cap of something like $20 million. So you're trading just about three times ARR, you're almost profitable, your margins are fantastic and the business model is extremely scalable. And it looks to me like some investors have lost patience, right? But I think this is not the right way to look at it because you're really just getting started in signing these deals and signing some bigger deals, and I'm looking forward to being part of the story and see you guys continue to execute on that.
+
+Thank you. [indiscernible]
+
+(01:14:13). [ph]
+
+Florian (01:14:16), we appreciate that. And if you're offering to be an extension of Harbor Access's European IR, we more than welcome it but we'd rather keep you as the investor itself. But we don't disagree with your viewpoint.
+
+Thank you, guys.
+
+Thank you. There are no further questions at this time. Please proceed.
+
+Thank you very much everyone for attending the Boardwalktech Fiscal Year and Q4 2023 conference call and this will now end the call. Thank you.
+
+Thank you. Ladies and gentlemen, the conference has now ended. Thank you all for joining. You may all disconnect.

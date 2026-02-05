@@ -1,0 +1,309 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+Arden Xia — Director-Investor Relations & Communications, HollySys Automation Technologies Ltd.
+Chit Nim Sung — Chief Executive Officer & Director, HollySys Automation Technologies Ltd.
+Steven Wang — Chief Financial Officer, HollySys Automation Technologies Ltd.
+Lei Fang — Co-Chief Opreating Officer, HollySys Automation Technologies Ltd.
+Jay Huang — Analyst, Sanford C. Bernstein (Hong Kong) Ltd.
+Kwok Keung Cheung — Analyst, Haitong International Securities Co., Ltd.
+Kevin Luo — Analyst, Morgan Stanley Asia Ltd.
+Fiona Fang — Analyst, Citigroup Global Markets Asia Ltd.
+
+Management Discussion Section
+
+Question And Answer Section
+
+Ladies and gentlemen, thank you for standing by and welcome to the Hollysys Automation Technologies Earnings Conference Call for Fiscal Year 2020 and the Fourth Quarter ended June 30, 2020. At this time, all participants are in a listen-only mode. There will be a presentation, followed by a question-and-answer session. [Operator Instructions] Please be advised that this conference is being recorded today August 14, 2020 Beijing time.
+
+I'd now like to hand the conference over to Mr. Arden Xia, the Investor Relations Director of Hollysys Automation Technologies. Thank you. Please go ahead. Mr. Xia.
+
+Hello, everyone, and thank you for joining us. Today our attendees will be CEO, Mr. Colin Sung; CFO, Mr. Steven Wang; Co-COO, Mr. Yue Xu and Mr. Lei Fang, who are in charge of industrial automation and railway transportation business respectively; as well as Mr. [ph] Yi Ma (00:01:14), Chairman of Hollysys Group, one of the company's subsidiary; and myself, the IR Director of Hollysys.
+
+On today's call, Mr. Sung will provide a general overview of our business, including some highlights for the fourth quarter and the fiscal year 2020. Mr. Steven Wang will discuss our performance from financial perspective, and all the management team will answer questions afterwards.
+
+Before getting started, I would like to remind everyone that this conference call may contain forward-looking statements within the meaning of Private Securities Litigation Reform Act of 1995. Forward-looking statements are not historical facts, including statements relating to the expected growth of Hollysys' future product introductions, the mix of products in future periods and future operating results. Such forward-looking statements, based upon the current beliefs and the expectations of Hollysys' management, are subject to risks and uncertainties which could cause actual results to differ from the forward-looking statements.
+
+The following factors, among others, could cause actual results to differ from the statements: business conditions in China and in Southeast Asia; continued compliance with government regulations, legislation or regulatory environments; requirements or changes adversely affecting the business in which Hollysys is engaged; cessation or changes in government incentive programs; potential trade barriers affecting international expansion; fluctuation in customer demand; management of rapid growth and transition to new market; intensity of competition from or introduction of new and superior products by other providers of automation control system technology; timing, approval, and market acceptance of new product introductions; general economic conditions, geopolitical events and regulatory changes; as well as other relevant risks detailed in Hollysys' filing with SEC.
+
+The information set forth herein should be read in light of such risks. Hollysys does not assume any obligation to update the information discussed in this conference call or in its filings. Please note that all amounts in this conference call will be in US dollars, unless otherwise noted.
+
+I'd now like to turn the call to Mr. Colin Sung. Please go, Mr. Sung.
+
+Thank you, Arden. Good morning or evening, everyone. On July 7 and 9, the company announced change of the management team and the board. Mr. Baiqing Shao was removed from his position as the company's CEO, Director, and Chairman of the board. Madam Li Qiao, current Director of the company, was elected as Chairwoman of the board; and myself, current Director of the company, elected as the CEO of the company.
+
+Four new officer of the company were appointed. Mr. Lei Fang, current head of IA business of the company, and Mr. Yue Xu, current head of the Rail business of the company were appointed as Co-Chief Operating Officer of the company. Dr. Chunming He, current head of R&D of Hollysys Group, was appointed as Chief Technology Officer of the company; and Mr. Hongyuan Shi, current head of human resources of Hollysys Group, was appointed as Chief Human Resources Officer of the company.
+
+Although we had to make personnel changes, operation and financial condition of the company remain as usual and stable. The company will continue to value and increase our investment in research and development as our key competitive edge and our vision of automation for better life. We are confident in the company's solid and steady performance going forward.
+
+Next, I would like to discuss some key events during this quarter. Industrial Automation, IA, business finished the fiscal year with revenue and contract at $240 million and $314.5 million, representing 2.6% and 8% year-on-year growth. For the fourth quarter, IA revenue and contract were $71.8 million and $99 million, representing 7.9% and 18.1% year-on-year growth.
+
+In power sector, we continue our efforts in strengthening our market position in high-end coal fire market. Contract highlights for the past quarter include: signing a replacement contract to provide DCS and DEH solution to two 660 megawatt power units of power plant of Zhejiang Zheneng Electric Power Company, a Shanghai Stock Exchange listed company in Leqing, Zhejiang Province; and signing a replacement contract to provide DCS solution to one 660 megawatt power plant of the Tianjin Datang International Power Generation Company, also a Shanghai Stock Exchange listed company in Tianjin.
+
+In chemical and petrochemical sector, we continue our effort in key projects winning, client cooperation, marketing events, and collaboration with valued partners along the value chain to explore the market and to build our reputation.
+
+Sector highlights of the past quarter include winning the bidding of DCS solution contract for the 1.8 million tons per year ethylene glycol project of Shaanxi Coal and Chemistry (sic) [Chemical] (00:07:19) Industry in Yulin, Shaanxi Province. The client is a renowned player in the industry, while the project is currently the largest coal-chemical project under construction in China, and our solution will cover DCS control points of approximately 50,000.
+
+Signing a DCS, SIS, and GDS integrated solution contract for the 200,000 tons per year purified adipic acid, cyclohexanol, and the cyclohexanone project of Shandong Hualu Hesheng Chemical Company in Shandong Province. The project in terms of DCS control point is the largest one of similar type that a company ever signed.
+
+Establishing strategic cooperation relationship with SINOCHEM Weifang Hongrun Petrochemical Company on providing control solution to the aromatic complex plant. Our previous milestone with SINOPEC Hainan refining project has served as a meaningful track record and a reference for the client.
+
+Continuing to collaborate with valued partner along the value chain to jointly develop and improve solution for the verticals including coal-chemical or in the gas industries; becoming the qualified supplier of SCADA, DCS, and PLC for Tarim oil field operated by China National Petroleum Corporation.
+
+Joining hand with partner on significant research project, including National Petroleum and Natural Gas Pipe Network Group on research project related to oil and gas pipe process field bus, and with SINOPEC Engineering Incorporation on research project related to innovative integration of DCS and digital factory for creative modeling and factory maintenance services.
+
+In smart factory business, we continued to review client database for potential cooperation in various industry. In this quarter, we signed a new contract with an existing client, Shaanxi Guohua Jinjie Power Plant. The contract involves the construction of a smart control platform and development and installation of optimizing control solution for power unit.
+
+In aftersales business, we continue to address our existing client based and respond to their various demand covering regular initiatives, such as old system upgrade and replacement, parts component sales, annual maintenance and increasingly, value-adding initiatives, such as control optimization, data integration, and energy management.
+
+Contract highlights of the part quarter include signing a annual maintenance contract with Zhong'an [indiscernible] (00:10:24) coal-chemical project. The Zhong'an [indiscernible] (00:10:27) methanol and olefin project is by far one of the two key milestone projects in chemical and petrochemical business. The project has been under operation since July 2019 and the client has been satisfied with the company's comprehensive service capability.
+
+Rail business finished the fiscal year with revenue and contract at $201.3 million and $153.7 million, recording 3.6% and 54.8% year-on-year decrease. For the fourth quarter of the fiscal year, revenue and contract were $49.3 million and $23.9 million, representing 2% year-on-year and 60.6% year-on-year decrease.
+
+In high-speed rail, HSR, sector, major contracts signed in the past quarter including Train Control Center, TCC, solution for sections of the Taiyuan to Jiaozuo line, Zhengzhou to Wangzhou line, and intercity line of Southern Sichuan. In subway sector, no significant contracts were signed this quarter, while the effort continued in strengthening quality management, covering supply chain management, and engineering standardization.
+
+In aftersales business, we continued to strengthen local service network to expand service solution and then to develop technology and service center services for better depreciation. In HSR sector, we continue to respond to regular services, including advanced maintenance, system and software update, and parts component sales.
+
+In subway sector, we continue to explore potential from the client bases and signed several contracts covering system upgrade, maintenance, and product sales. On digital empowerment for the current product line, we continued the effort in developing and testing our small solution initiative covering smart maintenance, workshop, and services.
+
+Mechanical and Electrical Solution, M&E, business finished the fiscal year with revenue and contract at $62 million and $81 million, recording 51.4% and 13.3% year-on-year decrease. For the fourth quarter of the fiscal year, revenue and contract were $8.1 million and $11.8 million, representing 80.7% and 53% year-on-year decrease respectively.
+
+COVID-19 brought new challenges to the macro-economy in Southeast Asia and the Middle East, laying impact on our M&E business and overseas business. For M&E business, risk control remains to be the key focuses. For our industrial automation overseas business, we continue to explore opportunity through direct sales, sales agent, and the China EPC projects, with current focus in Singapore, Malaysia, Indonesia, and India. Meanwhile, effort continued in strengthening localization and synergy with overseas business.
+
+With that, I would like to turn my call over to Steven Wang, company CFO, to provide financial results analysis. Steven?
+
+Thank you. Thank you, Mr. Sung. I would like to share some financial highlights for the fiscal year and quarter ended June 30, 2020. Comparing to the prior fiscal year, the total revenues for fiscal year 2020 decreased from $570.3 million to $503.3 million, representing a decrease of 11.7%. Broken down by the revenue types, integrated solution contracts revenue decreased by 11.4% to $414.3 million, product sales revenue decreased by 39.1% to $21.1 million (sic) [$20.1 million] (00:14:46), and service revenue decreased by 1.4% to $68.9 million.
+
+The company's total revenue by segment are as follows: for fiscal year 2020, Industrial Automation revenue, $240 million; Rail Transportation Automation revenue, $201.3 million; Mechanical and Electrical Solution revenue, $62 million; total revenue, $503.3 million.
+
+The overall non-GAAP gross margin was 37.9% for fiscal year 2020 as compared to 37.1% for the prior year. The non-GAAP gross margin for integrated solution contracts, product sales, and service were 32%, 72.9%, and 63% for fiscal year 2020 as compared to 30.4%, 77.1%, and 62.7% for the prior year, respectively. The gross margin fluctuation was mainly due to the different revenue mix with different margins.
+
+Selling expenses were $30.6 million for fiscal year 2020, representing an increase of $1.7 million, or 5.9%, compared to $28.9 million for the prior year. Presented as a percentage of the total revenues, selling expenses were 6.1% and 5.1% for fiscal year 2020 and 2019, respectively.
+
+The non-GAAP G&A expenses were $38.7 million for fiscal year 2020, representing a decrease of $1.8 million, or 4.3%, compared to $40.5 for the prior year. The percentage of total revenue of non-GAAP G&A expenses were 7.7% and 7.1% for fiscal year 2020 and 2019.
+
+Goodwill impairment charges were $35.8 million for the fiscal year 2020, representing an increase of $24.2 million, or 207.7%, compared to $11.6 million for the prior year. Such impairment charge is related to Bond Group, the annual impairment test, which takes into consideration of microenvironment and other related factors, when forecasting the future performance of Bond Group implied such impairment charge.
+
+R&D expenses were $41.9 million for the fiscal year 2020, representing an increase of $4.9 million, or 13.1%, compared to $37 million for the prior year. Presented as a percentage of total revenue, R&D expenses were 8.3% and 6.5% for the fiscal year 2020 and 2019, respectively.
+
+The VAT refunds and government subsidies were $26.3 million for fiscal year 2020 as compared to $30.7 million for the prior year, representing a $4.5 million, or 14.6%, decrease, which was primarily due to the decrease of VAT refunds.
+
+The income tax expenses and effective tax rate were $18.2 million and 18.6% for the fiscal year 2020 as compared to $18.2 million and 12.7% for the prior year. During fourth quarter of fiscal year 2020, the company recorded a goodwill impairment charge of $35.8 million. Excluding this goodwill impairment charge, the effective tax rate for fiscal year 2020 would be 13.6%.
+
+The non-GAAP net income attributable to Hollysys were $80.1 million, or $1.32 per diluted share, based for fiscal year 2020. This represents a 36.5% decrease over $126.2 million, or $2.07 per share, in the comparable prior year period.
+
+Contracts and backlog highlights. The backlog as of June 30, 2020 was $571.8 million. The detailed breakdown of the new contract backlog is as follows. New contracts for fiscal year 2020: Industrial Automation, $314.5 million; Rail Transportation, $153.7 million; Mechanical/Electrical Solutions, $81 million. Backlog as June 30, 2020: Industrial Automation backlog, $228 million; Rail Transportation, $251.6 million; Mechanical/Electrical Solutions, $92.2 million.
+
+Now, the financial highlights for the fourth quarter of June 30, 2020 comparing to the fourth quarter of prior fiscal year. The total revenue for the three months ended June 30, 2020 decreased from $157 million to $129.2 million, representing a decrease of 17.7%. Broken down by the revenue types, integrated solutions contract revenue decreased by 15.3% to $112.5 million, product sales revenue decreased by 34.6% to $3.9 million, and service revenue decreased by 29.6% to $12.9 million.
+
+The company's total revenue can be presented in segments as follows. For the fourth quarter of fiscal year 2020 Industrial Automation revenue achieved $71.8 million, Rail Transportation Automation revenue $49.3 million, M&E business $8.1 million. Total revenue, $129.2 million.
+
+The overall non-GAAP gross margin were 44.7% for the three months ended June 30, 2020 as compared to 34% for the same period of the prior year. The non-GAAP gross margin for integrated solution contracts, product sales, and services were 42.1%, 74.5%, and 58.4% for the three months ended June 30, 2020 as a compared to 29.9%, 66.3%, and 52.9% for the same period of the prior year.
+
+Selling expenses were $6.8 million for the three months ended June 30, 2020, representing a decrease of a $0.1 million, or 1.1%, compared to $6.9 million for the same quarter of the prior year. Presented as a percentage of total revenue, selling expenses were 5.3% and 4.4% for the three months ended June 2020 and 2019, respectively.
+
+The non-GAAP G&A expenses were $8.6 million for the quarter ended June 30, 2020, representing a decrease of $2.9 million, or 25.6%, compared to $11.5 million for the same quarter of the prior year. Presented as a percentage of total revenues, the non-GAAP G&A expenses were 6.6% and 7.3% for the quarters ended June 30, 2020 and 2019, respectively.
+
+R&D expenses were $8.9 million for the three months ended June 30, 2020, representing a decrease of $0.3 million, or 3.2%, compared to $9.2 million for the same quarter of the prior year. Presented as a percentage of total revenue, R&D expenses were 6.9% and 5.9% for the quarter ended June 30, 2020 and 2019, respectively.
+
+The VAT refunds and government subsidies were $4.4 million for the quarter ended June 30, 2020 as compared to $7.8 million for the same period in the prior year, representing a $3.4 million, or 43.2%, decrease, which was primarily due to decrease of VAT refunds.
+
+The income tax expenses and effective tax rate were $2.7 million and 61.2% for the three months ended June 30, 2020. As compared to $1.5 million and 5.5% for the comparable prior year period respectively. During the fourth quarter of the fiscal year 2020, the company recorded a goodwill impairment charge of $35.8 million. Excluding the impact of the goodwill impairment charge, the effective tax rate for the three months ended June 30, 2020 would be 6.8%.
+
+The non-GAAP net income attributable to Hollysys was $2.2 million, or $0.4 (sic) [$0.04] (00:24:36) per diluted share for the three months ended June 30, 2020. This represents a 91.2% decrease from $25.7 million, or $0.42 per diluted share.
+
+Now the new contract for the first quarter of 2020: Industrial Automation, $99 million; Rail Transportation, $23.9 million; Mechanical and Electrical Solutions, $11.8 million.
+
+The cash flow highlights for the fiscal year ended June 20 (sic) [30] (00:25:12), 2020, the total net cash outflow was $39.3 million. The net operating cash flow was $175.1 million. The net cash flow using investing activity was $187.6 million, mainly consist of $8.1 million purchase of property, plant, and equipment, and $426.8 million time deposits placed with banks, which was partially offset by $242.2 million maturity of time deposit, $4.5 million proceeds from the disposal of investments in equity investee.
+
+The net cash used in financing activity was $18.2 million, mainly consisted of $20.8 million repayments of convertible bonds, and $12.7 million payment of dividends, and $4.2 million repayments of short-term bank loans, which were partially offset by $2.4 million proceeds from short-term bank loans, and $15.4 million proceeds from long-term bank loans, and $2.1 million cash injected by noncontrolling interests.
+
+Balance sheet highlights. The total amount of cash and cash equivalents were $288.8 million, $344 million, and $332.5 million as of June 30, 2020, March 31, 2020, and June 30, 2019, respectively. For the three months ended June 30, 2020, DSO was 166 days as compared to 160 days for the comparable prior year period and 266 days the last quarter. And the inventory turnover was 66 days as compared to 42 days for the comparable prior year period, and 71 days for the last quarter.
+
+At this time, we'd like to open up for the Q&A session. Please note that for Chinese-speaking participants, we can also do the Q&A in Mandarin, and I will provide translation. Operator, please.
+
+Certainly. Ladies and gentlemen, we will now begin the question-and-answer session. [Operator Instructions] Your first question today comes from the line of Jay Huang from Bernstein. Please go ahead.
+
+[Foreign Language] (00:28:10-00:28:37)
+
+Arden, should I reply in English or should I also reply in Chinese?
+
+I will translate either way. The first question is about the new team and we found the [indiscernible] (00:28:52) CEO from – from CEO to the COO to the Chairwoman, the management team changed new ones. So, can we expect any changes in operating business or the strategy for the planning for the coming years?
+
+Okay. Hi, Jay. How are you? Nice meeting you.
+
+Thank you.
+
+So, I may take the opportunity to explain the situation. I mean, the first thing is the changes related to personnel is not really new. As you know or you may not know, Madam Qiao was the first Chairman of the company when we went public back in 2008. And he (sic) [she] (00:29:39) was with the board for many years and that he (sic) [she] (00:29:41) was stepped down during a gap, I believe, between 2012 to 2014, few years. And then he's (sic) [she's] (00:29:51) coming back from director and again taking a chair position.
+
+And ss for myself, I've been with the company as an independent director since the inception of the listing back in 2008 and I am also the Audit Committee Chairman during the period. As far as the other management team, we mentioned earlier, Mr. Fang, Miss Xu, and Mr. Shi, and then also Dr. He, they are with the company for many, many years. I mean, I think with the company since the creation or establishment of the company.
+
+So the whole management team appointed this time is to emphasize the management of the company for the R&D research, as well as the operational side, not only looking at the current analysis, but we're also looking at new technology in relation with the Chinese overall development, as well as, as you know, the COVID-19 impact our overseas business significantly, but I believe China is – recovery is relatively faster. And so for that reason, in manner of speaking, with management team in place and with the company, we'll be more focusing on management, operation, capital market, as well as the initiative related to our existing and new business. Is that answer your question on that matter, Jay?
+
+Okay. Yeah, understood. Thank you. So, my next question is about smart factory business. I noticed that in the last few quarters, you announced some new projects with power plants and other things for the smart factory, the IoT business. I didn't see much with the discrete automation industry, electronics, car manufacture, all kinds of discrete manufacture. Should we understand that the smart factory business, is that shifting towards more the process industry as extension of the DCS business or do you still focus on discrete industry? If it's the latter case, if you're still focusing on discrete, then what's the progress there? What's the focus? What's the strategy? Thank you very much.
+
+Okay. On that particular question, I would refer to our COO, Mr. Fang. Arden, maybe you can have Mr. Fang translated in response to that question.
+
+Okay. [Foreign Language] (00:32:25-00:32:48)
+
+[Foreign Language] (00:32:49-00:33:37)
+
+The intelligent factory for the IA is the key direction for next time – I mean, for the recent years development. And at the beginning of this year, we set up the division just focus on the industrial automation intellectual plant. And right now, we get several good demonstration project. One is – and also extend a lot of good, important customer. And one is the Guohua Jinjie Power Plant. It is a kind of intelligent power plant, two sets of 60-megawatt power station.
+
+[Foreign Language] (00:34:34-00:35:25)
+
+And the intelligent power plant, our strategy is focused on the customer demand and also align with customer development, because right now no matter from the power station to other industry the demand is gradually not just – I mean, just finish a whole intelligence power plant, it is a kind of demand gradually upgrading.
+
+So, we based on another intelligence plant, either Diaobingshan intelligent power plant business, these two power plant, right now we are through the engineering to satisfy the demand and also raise our own intelligence power plant solutions. And the solutions when it's mature, we can extend to other end users.
+
+And right now, the trend is very strong – I mean, the demand is strong. We also signed several contracts, including one large contract in recently. And we could see this part are again grow relatively good.
+
+[Foreign Language] (00:36:55-00:37:01)
+
+And we have confidence for the upcoming business relate to the smart or intelligent plant within industrial automation.
+
+[Foreign Language] (00:37:15-00:37:40)
+
+The question is focused on we know about the intelligent plant in the process control. And right now, for the Hollysys, based on DCS, would develop relatively good. But my question is, I also want to focus on the discrete control part within the smart factory. And what about this part? Does the Hollysys will continue develop the discrete control or the other strategy?
+
+[Foreign Language] (00:38:13-00:39:00)
+
+Right now, for the strategy with this part – it is a good question, by the way – the Hollysys process control and the factory automation discrete control, we are performance [ph] develop per line (00:39:17). However, we want to take advantage of the PA existing track records, because during the last decades we have a lot of track records within the process control. And we have the first hand of consumer demand and data. So, we know the customer want what kind of system and what's the bottleneck. Right now, they're midways.
+
+So, we want to develop the PA first to reinforce this business and raised good solutions. And simultaneously, we used experiences to the factory automation discrete control, and this part after the process control, but also we focus on develop the technology.
+
+Thank you very much. I'll go back on the line.
+
+Thank you.
+
+The next question comes from the line of Gary Cheung from Haitong. Please go ahead.
+
+Hi. Let me ask in English to save the translation time. So, good morning. The question for Mr. Colin Sung. So, first of all, congratulations on your new position. Could you elaborate on the capital market side? Given that the share price now recently is low and we do have a cash pile that is unused for many years, so what's your thought on dividend payout and also share buyback? Thank you.
+
+Hi, Gary. Yeah, I mean, I think that's a good question. Obviously, the question will be asked repeatedly in the coming weeks or months. At the current company's position, given the history company declared dividends since 2016 and with the board's approval, company will make announcement related to the dividend declaration mostly likely in a week's time. I think in the historical percentage of dividend is around 10%. So we, as a company, are probably going to increase the percentage of dividend declaration. With taking out the exclusion of the goodwill impairment, that percentage will be based on that. That's one.
+
+And then also you mentioned about the share buyback. I think they're also in the discussion with our financial advisor, as well as the board. That will be – in the near time we'll make a disclosure if there is a plan for the share buyback. I mean, I agree at the price, current price the share is actually very devaluated. So that is also a discussion point, company will make an announcement in the near future.
+
+And then as far as the cash itself, I mean, given still we are under the pandemic in the COVID-19 situation, the overall financial market in China still relatively fluid. So, we need to maintain a adequate capital or cash balances to support our operation. But in that one I mentioned earlier, company is preparing and also in the discussion working with our operational team, as well as our business unit manager, to increase in the dollar-wise on the R&D side for the research for the earlier question regarding smart technology, integrated system, so on and so forth. So company will increase their research and development budget in the coming fiscal year to using some of our cash to increase our revenue.
+
+And then on the other side, I think we're still looking opportunity, mostly within the China or within the Southeast Asia area, to see any potential partnership or cooperation for the opportunity for expansion. But mainly focus in the investment, if there's any, we'll be focusing more in mainland China.
+
+Got it. Thank you. And one follow-up question is on the other factor, which is I guess operation, because you also – you already pretty much discussed the R&D. And you mentioned you guys are looking for opportunities mainly in China. But what's our thoughts on the overseas market expansion for our existing process automation, DCS business? Because now I think we're number two in China and we have been gaining market share over a long period of time. Of course, we have there more room to grow, but how about the market outside China, especially in Southeast Asia, as you just said?
+
+Yeah. I mean, as part of the Southeast Asia or the Middle East, we are more looking at the partnership instead of investment in a sense. So, in near future, at least in my view, personal view, company would not make any major investment in those area, but we will – are looking for opportunity to cooperation and partnership. That's more a focus coming from opportunity wise. But as far as the investment wise, it will not be on top of my list at this stage.
+
+Okay. Understood. Thanks very much. I will get back into queue first.
+
+Thank you, Gary.
+
+Your next question comes from the line of Kevin Luo from Morgan Stanley. Please go ahead.
+
+Hi, Kevin.
+
+[Foreign Language]
+
+Your next question comes from the line of Kevin Luo from Morgan Stanley. Please go ahead.
+
+Hi, Kevin.
+
+[Foreign Language] (00:45:13)
+
+Kevin, ni hao.
+
+Ni hao.
+
+Can I ask two questions?
+
+Sure.
+
+So, first one is regarding the new management team. So can you introduce your development strategy after you onboard? So, as you know that the company actually – in the past five years, the company – actually the revenue and profit was relatively stable, and the new business development, it was a little bit slow. But how will you develop your new business including the subway signaling and also the factory automation in the IA space? So, that's my first question.
+
+And my second question is, so regarding the fiscal year 2021 guidance, you guide your revenue to grow by 6% to 8%. So, how will the revenue growth mainly come from? And how about the M&E business revenue growth in 2021? Thank you very much.
+
+I answer the question and, Arden, you may ask Mr. Fang Lei or Mr. Xu to anything on the initiative side on the business [ph] we see (00:47:00). So basically, the first question is we gave you the guidance of 6% to 8% top line revenue growth. That's under the assumption is purely organic revenue growth, is mainly coming from the rail business around 3% to 5%, and then the IA business around 10%. So, at the current stage, it's blended around 6% to 8% top line revenue growth.
+
+Again, I think the recovery is happening already in China side of the business for both business line in this year, and we will continue to see some improvement. But right now, we're still cautious the overall, because the worldwide pandemic is not over, and then also even in China, you still see some hotspot happening here and there. And then, we are basically, in a way, is very careful to get our business on track. So, at the current, we see some recovery already in the second quarter and then continue towards the end of this year.
+
+And as far as the new management thing is we are focusing, again, as I said earlier, is more management operation and continue to maintain or improve our fundamental of the business, and in the meantime, in looking at certain area. I think we may – in the previous, we may discuss this already or not, in certain areas, such as health care, B2B2C business, and then smart factory or integrated business.
+
+So, in a nutshell, I think I'm taking over the CEO position a little bit over one month and we are still in discussion with the different business unit line. And I think the motivation and also the energy, I feel we are there. I think this year, at the current planning, we think we will definitely be coming back to deliver the revenue growth.
+
+And then, come to the last part of your question on the M&E business. That will be a very challenging point, because until today we're still not fully recover in some business particularly in Malaysia or certain part of Singapore. Our personnel cannot even go to visit clients or they may force to stay home most of the time. So we're still monitoring that business. That will be a focus or challenge for us.
+
+But taking the impact of the M&E business for the whole fiscal 2020, if you look at the whole business, sales has almost dropped by 50% compared to the previous fiscal year. So, at the minimum, we would like to maintain the same revenue. But there would not be a huge growth area at the time being until the COVID-19 able to give us room to do more business in those Southeast Asia, as well as Indonesia and India.
+
+[Foreign Language] (00:50:00-00:50:36)
+
+[Foreign Language] (00:50:39-00:55:08)
+
+The railway transportation, our new development strategy, is focused on several points. And based on the original traditional business, for example, like on [indiscernible] (00:55:27), for example, like the national rail and also intercity line railway transportation, in the past we provided signaling control system and SCADA. But with signaling from last year to now, we already get some through point significant projects, like the Kunming airport line and also in Beijing airport line, we provide part of the signaling.
+
+We not advertise those achievements, because it is still not very large capacity line and we focused on several large capacity line for the last one year. But because of COVID-19, the bidding process for the project is delaying. And also, beyond the traditional business, we also focus on three main area for developing new ones, and one is the intelligent maintenance. No matter the high-speed rail or the intercity line, the intelligent maintenance, we have several job, and right now, no matter the technology and product is entered testing, and based on the track record in the past years, we can provide a more intelligent maintenance product technology to support the revenue.
+
+And the second one is to focus on develop existing technology to abroad. But just as Colin Sung said, we not to do the investment to develop by our own. We want to cooperate with a partner and like the large contractor and we provide just product and technology as a subcontractor. So this would better to raise revenue quickly. But right now – and also this is including the potential M&A and this year because the COVID-19, so the business activity is limited, but we are focused on develop this part either.
+
+And the third one is the new concept beyond the railway transportation, I mean, the high-speed rail and the intercity line and also the city level transportation, we also raised a new concept is the big. We call it, a metaphor, I mean big railway transportation. It is including the intelligence road. And from last year, we – the road include a highway and from last year, this is a new business and we already developed some technology and product with this area. And this year, we get some contracts already. And the next five years, we want to develop the intelligent road and highway to raise a good solution. And within our core product and part of it – and the development right now and part of that already finished. So, this is little bit new business within the railway transportation, and we think it's going to contribute to the revenue.
+
+[Foreign Language] (00:59:21-00:)
+
+Related to the Industrial Automation, and your question is really focused on the growth, and beyond the traditional equipment and like the DCS product technology. And recently, the new management team are focused on discussing the development of new business. And the Industrial Automation, two part, IA; for example, one is based on the existing track record and technology product we want to develop the intelligence, intelligence based on the whole technology and product to provide to the consumer, because from vertically, as you know, we can provide the hardware and control system to the upper level software packages. But right now because the demand of customer, we have to help them to upgrading to intelligence. So, right now, we focus on the intelligence upgrading.
+
+And the second one is based on the background in current microenvironment, no matter the China/US conflict upgrade or the others. I mean, we are focused on the next-generation DCS and product development. And this is like the second plan of Huawei, we have to provide our own product and technology. And this is no matter from our self and from the demand of our customer both, I mean, like the faster trend.
+
+And, for example, this year we won a contract with Zhong'an Group. And this customer originally did not use local provider equipment. In the past history, all imported from the international companies. But this year, first time to open to the local provider and we'll win the contract. So this is a kind of demonstration trend. No matter from the hardware or software, China right now emphasize on autonomous self-control reliance. So that's why we have to focus on this part to develop our own software, hardware, and the DCS, the whole thing. So the next generation is under development, and we think next year we can provide the new generation of the product technology.
+
+The last one is, we also set up the new business division just to focus on the new business beyond DCS. But the new business are not the low-end. We want to focus on the high threshold, the bottleneck projects area. And right now, we are already under development. But in the near future, we can give you more color about this part. And we think for the Hollysys, the gene always emphasize on our research development, and we focus on the high-end threshold product technology to provide to the customers. Thank you.
+
+[Foreign Language] (01:06:23)
+
+I think I said it earlier, right? So I think on the Rail is around 3% to 5%, and then IA is about 10%. So the current guidance we've given is on the blended 6% to 8% in total.
+
+IA, 10% – sorry, rail is 5%? Sorry.
+
+Yeah, 3% to 5%.
+
+3% to 5%. IA, 10%. Okay.
+
+Yeah.
+
+So, thank you very much.
+
+Due to the time constraint, we'd now like to take one last question from the queue. Thank you.
+
+The last question for today comes from the line of Fiona Fang from Citi. Please go ahead.
+
+[Foreign Language] (01:07:24-01:07:51)
+
+The last question is focused on the gross margin and we could see the gross margin for the fourth quarter have very good growth. What about the reason behind? And also, please introduce the gross margin by segment, I mean, IA, Rail, and M&E, respectively. Thank you.
+
+Steven, you want to take that question or you want me to answer that?
+
+Yeah, I'll do that. Yeah.
+
+Okay.
+
+Yeah. Well, I think the question is two parts. One is the gross margin for each of the business segment, IA and Rail Transportation, M&E. I think that in the past, we have disclosed the range of the gross margin for IA will be 35% to 40%. The Rain Transportation business will be 40% to 50%. And for the Mechanical and Electrical Solution business will be 5% to 15%. I think that answers the first question.
+
+The second question, the reason why we see the higher gross margin in the fourth quarter, I think the main reason is some of the products in the Rail Transposition business have a higher gross margin in that quarter. Like we said in the past, in the long run, the company's overall gross margin is expected to be stable between 35% to 40%. There is you can see a fluctuation from quarter-to-quarter, but overall, our margins are stable.
+
+Okay. Thank you.
+
+Sorry, can I have a follow-up question regarding the gross margin? So, can I have the guidance of the gross margin of 2021, regarding the overall gross margin, as well as the segmental gross margin?
+
+I think earlier Steven mentioned the current – the guidance is based on the margin, no material changes at this stage. So, what Steven mentioned earlier, that will be the same margin, as the common revenue growth.
+
+Yeah. If I would be able to add something on that is you will see a relative stable gross margin for railway transportation. It might a little bit of pressure on IA, but overall will be stable. We see fluctuations, but again, in the long run, we're maintaining the stability.
+
+Okay. Understood. Thank you.
+
+Thank you.
+
+Thank you for joining us the call today. And if you have – ask one or two more question, please feel free to contact us. Thank you. Operator?
+
+That does conclude...
+
+Thank you. Thanks, everyone.
+
+Thank you very much. That does conclude our conference for today. Thank you for participating. You may now disconnect.
+
+Thank you.

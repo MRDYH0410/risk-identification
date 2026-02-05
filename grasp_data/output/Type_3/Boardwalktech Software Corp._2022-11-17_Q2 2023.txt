@@ -1,0 +1,356 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+Jonathan Paterson — Investor Relations, Boardwalktech Software Corp.
+Andrew T. Duncan — Chairman, President & Chief Executive Officer, Boardwalktech Software Corp.
+Charlie Glavin — Chief Financial Officer, Secretary & Director, Boardwalktech Software Corp.
+Mike Stevens — Analyst, Echelon Wealth Partners, Inc.
+Edward Michael Sollbach — Analyst, Spartan Fund Management, Inc.
+
+Management Discussion Section
+
+Question And Answer Section
+
+Good afternoon, ladies and gentlemen, and welcome to the Boardwalktech Software Corp. Second Quarter Fiscal 2023 Earnings Conference Call. At this time, all lines are in a listen-only mode. Following the presentation, we will conduct a question-and-answer session. [Operator Instructions] Also note that this call is being recorded, Thursday, November 17, 2022.
+
+I now would like to turn the conference over to Mr. Jonathan Paterson. Please go ahead, sir.
+
+Thank you, operator. Good afternoon and welcome, everyone, to Boardwalktech's quarterly conference call. This call will cover Boardwalktech's financial and operating results for the fiscal second quarter ended September 30, 2023. Following our prepared remarks, we will open the conference call to a question-and-answer session. Our call today will be led by Boardwalktech's President and Chief Executive Officer, Andy Duncan, along with the company's Chief Financial Officer, Charlie Glavin.
+
+Before we begin with our formal remarks, I would like to remind everyone that some of the statements on this conference call may be forward-looking statements. Forward-looking statements may include, but are not necessarily limited to, financial projections or other statements of the company's plans, objectives, expectations, or intentions. These matters involve certain risks and uncertainties. The company's actual results may differ significantly from those projected or suggested and any forward-looking statements due to a variety of factors which are discussed in detail in our regulatory filings.
+
+Today, we issued our second quarter fiscal 2023 financial results, a copy of which is available in the Investor Relations section of our website, www.boardwalktech.com and posted on SEDAR. I would like to remind everyone that today's call is being recorded on Thursday, November 17, 2022. I will now turn the call over to the President and Chief Executive Officer of Boardwalktech, Andy Duncan.
+
+Thank you, Jonathan. I would like to welcome everyone to Boardwalktech's quarterly earnings call to discuss the company's financial results for the second quarter of fiscal 2023 ended September 30, 2022. Before I begin, please make note, that all dollar figures reported on today's call are in US dollars, unless otherwise noted. We are pleased to report that our business continues to experience solid growth and a healthy amount of momentum driven by both our land and expand strategy, as well as our new business opportunity in the financial services market. This momentum is demonstrated by the continued growth in our annual recurring revenue, which now sits at $5.5 million, representing year-over-year growth rate of 66%.
+
+Our actual license revenue reported in the September quarter grew 95% year-over-year. Total revenue of $1.5 million is up 36% year-over-year, though flat sequentially due to the timing of some professional services revenue, a temporary impact which we believe will more than correct itself in the next quarter and subsequent quarters. I will leave the rest of the financial discussion to Charlie Glavin to provide deeper insights into the financial aspects of the quarter after my prepared remarks.
+
+I would like to touch on the continued success of our land and expand strategy in more detail, as it will continue to be a key growth driver for the business for the foreseeable future. Before I jump into the recent success of the strategy, I would like to remind everyone about how and about the how and the why behind the strategy and why this is working so well for us. When Boardwalktech signs a new client, we typically enter into that company to help them with a specific business unit to solve a mission critical issue by transforming a current Excel based application process onto our Digital Ledger platform.
+
+Once we are on boarded with the new client and deliver that first application, the benefits of our platform are readily apparent as the ROI to our customers routinely exceeds 5x to 6x in the first year of our license. We have demos and case studies that show these compelling productivity gains. Workflows are also made easier, which leads to better and faster decision-making, improving the operational performance and profitability of many areas. This is what makes our platform so powerful to our clients. This positive first engagement typically leads to internal discussions within the organization, which then leads to new incremental business opportunities for Boardwalktech with that client. As a client begins to experience and understand how our platform can drive better decision making in the drastically shorter period of time, we start to become integrated into the overall technology stack of the organization become the engine that helps them transform and manage their unstructured data applications, ones that are still very dependent on Excel. It is estimated that the typical enterprise has well over 100 of these separate mission critical Excel-based applications that would benefit from our Digital Ledger solution.
+
+If that enterprise migrates just 10% of these to Boardwalktech at roughly a $100,000 per application, that would be $1 million of ARR per customer. Thus, we are looking for enterprises to switch everything to Boardwalk, at least not yet, but rather acknowledge that while their existing IT systems may be good, they are not good enough in this challenging and competitive market. This is the essence of our land and expand strategy and it's working as evidenced by these results, helping us to increase the recurring revenue with every client based upon the ROI we provide.
+
+We had a few wins in the quarter that epitomize our land and expand strategy, starting with the expansion of our relationship with a long-term client, one of the top accounting and tax consulting firms in the world. We – this deal grew our recurring license revenue by an additional $500,000 per year and is a clear demonstration of the benefits that our low code Digital Ledger platform provides to our clients. This client is now using our platform for several thousand of their global tax clients, which in our opinion, is quite the endorsement of our software solution.
+
+We expect to continue to announce more wins with respect to our land and expand strategy as we are currently working on multiple initiatives with existing clients. And we'll announce these deals when they're finalized. We also expanded our scope of services with HCL Technologies, a multibillion dollar New York Stock Exchange listed information technology company with global operations. HCL is not only a client, but an important channel partner of ours in the banking and financial sector.
+
+Finally, we announced a new relationship with SiTime, also known as SiTime, a fabless semiconductor company that has licensed our Digital Ledger platform to streamline its demand planning across its organization to better manage the information across its supply chain down to the unit level. The result will be a much more efficient way to manage inventories and to serve their clients. Given the supply chain challenges and problems faced by the global market, SiTime is just one more example of new Boardwalk customers that recognized the need for our time-based Digital Ledger platform as they struggle with managing structured and unstructured data in their supply chain for compliance, for tracking, for security and in real-time accurate decision making, while still maintaining data quality and provenance.
+
+With that, let me now make a few comments about our pipeline of new business. We acknowledge that concerns of an economic slowdown create perceived headwinds. However, it's management's belief that these are some of the reasons why we are seeing an actual increase in our business development pipeline since Boardwalk is providing a solution that improves productivity and can even offer a distinct competitive advantage. For example, a semiconductor customer improved its results or its response time to RFP/RFQ inbound requests by two to three days which resulted in a 15% to 20% higher conversion rate, meaning more deal wins and higher ROI and revenue for that customer.
+
+To quote one of our other customers, a senior director at a top five US bank, "what used to take me two days now takes me 15 minutes with the Boardwalk Digital Ledger". This customer testimony is representative of why our pipeline continues to replenish and grow, while our business growth remains resilient in the face of uncertain economic times. The reason for this ongoing growth is that our time-based Digital Ledger platform not only enables better collaboration, but addresses and resolves the critical supply chain problems evident in the industry today.
+
+What excites us even more is that the pace of growth and new business can be attributable to several factors. First and foremost, our software solutions provide productivity and material return on investment in the first year of implementation. As we have discussed in the past and in our investor materials, unstructured data within an organization accounts for more than 80% of its overall data volume. And this unstructured data is doubling every two years, an astounding number. This level of unprecedented data growth and complexity is very difficult for large enterprises to manage. The management of unstructured data is exactly the type of problem we are solving with our low code Digital Hedger platform. There was not a product in the market that can do what we do today, and the market is really starting to recognize Boardwalk as being a leader in this space.
+
+Looking forward. We are excited about the company and where it's headed. We are on track to hit profitability next year without the requirement for outside capital. What also excites us is the future growth potential presented by two separate $100 million revenue market opportunities now being addressed by Boardwalktech, that would be our enterprise market and the financial services market.
+
+First, the first is our continued focus on Unstructured Enterprise Data Management Solutions, specifically for the CPG, supply chain and manufacturing markets that continues to grow through the expansion of existing relationships and through the acquisition of new clients that will be announced as we convert new business from our growing pipeline. The second and this new financial services channel or banking channel that we're working on, we're starting to see some terrific momentum. This is not a market that we chased, but was brought to us by an existing customer and partner.
+
+Earlier this year, we announced our first client in the financial services channel, a top five global bank, who is beginning to ramp up the Boardwalk Digital Ledger velocity product across its entire organization to address end user computing compliance, a risk issue from Legacy Excel spreadsheets. This deal has drawn the attention of other large IT services companies that seek to engage us as a channel partner and enter into a [ph] tentative (00:12:42) agreement which will continue to build out an ecosystem for Boardwalk in the financial services space. These new partners are very motivated to leverage our Digital Ledger into their large banking clients, whereby Boardwalk gets the direct license revenue and our partner gets the revenue from deployment of the professional services and consulting work without Boardwalk having to hire teams of employees. This means that we can scale and can be highly profitable in doing so.
+
+I will now pass this over to Charlie Glavin, who will walk through the numbers with you and a detailed environment. Charlie, over to you.
+
+Thanks, Andy. Before I begin, I would like to take a moment to remind our listeners that all figures today – on today's call are in US dollars and their fiscal year end March 31. With reported figures based on IFRS standards, unless otherwise specified. Additional details can be found in our filed financial statements and MD&A as filed on SEDAR.
+
+As Andy mentioned, total revenue for the first quarter of fiscal 2023 was $1.5 million. This is a 34% increase from last year's revenue of $1.1 million, but a slight 2% sequential decline from the $1.1 million we report – from the $1.5 million we reported in the prior quarter. As Andy mentioned earlier, this sequential decline was due to the temporary timing of certain professional services milestones, which we believe will have that temporary impact as we expect both the current third quarter and fourth quarters to be as high, if not higher than the $416,000 level we reported in the prior June quarter.
+
+As I have mentioned in prior filings and conference calls, the company expects the contribution from professional services will continue to grow in absolute dollars over time, but decrease as a percentage of total revenue. The levels are expected to fluctuate on a quarter-by-quarter basis with the second quarter being one of those such quarters. The total revenue growth we reported came both from the addition of new customers and the expansion of existing licenses as the portion of our revenue from new and recurring SaaS licenses in the quarter grew to 81% of total revenue, up from 56% last year.
+
+In absolute terms, this means that revenue from new and recurring SaaS licenses grew over 95% year-over-year. Since the company implemented its SaaS business model in 2018, total revenue from new contracts signed since 2018 now comprises 84% of our total revenue in the current quarter compared to 65% in the prior year, while total revenue from these customers has now grown at a 42% compounded annual growth rate since 2018.
+
+The company defined annualized recurring revenue, ARR, as a non-IFRS metric, as the recurring revenue expected based on annual license subscriptions and recurring services. As a result of new license closings, ARR as of September 30, 2022 came in at $5.5 million, which is a 66% improvement from the $3.3 million ARR level in September of 2021. We note that this ARR growth has increased each of the last four quarters, as expected to do so in the upcoming quarter two. As we exited the – as we are exiting the month of November with projected ARR already in excess of $6 million level.
+
+Gross margin for the second quarter of fiscal 2023 reached another historic high of 90.3%, which is the 4.3 percentage points year-over-year increase from the fiscal second quarter of 2022 levels, and a slight increase from the 90.2% level we reported last quarter. These gross margin improvements were due to both higher revenue levels as well as a higher mix of license revenue.
+
+Even as the company continues to make investments in its hosting sub-processor in upcoming quarters to support future growth, investors should continue to expect comparable margins to the 90% level we've reported in recent quarters. Net loss for the second quarter of fiscal 2023 was $1.2 million or loss of $0.03 per basic and diluted share versus a loss of $900,000 last quarter, as well as a loss of $700,000 last year.
+
+Non-IFRS net loss is defined in the adjusted EBITDA and non-IFRS financial measure section of our MD&A. For the second quarter of fiscal 2023, it was $695,000 or a loss of $0.02 per basic and diluted share versus $450,000 non-IFRS loss in the second quarter of fiscal 2022. Adjusted EBITDA for the quarter was a loss of approximately $680,000 versus a $430,000 loss last year and $260,000 loss in the June quarter.
+
+Adjusted operating expenses did increase sequentially by $400,000 this quarter, in line with what we projected and stated in our last two filings. This came from a combination of select hires in our US and India offices needed to support growth in upcoming projects, as well as salary increases to match wage inflation and stay competitive, plus the commencement of teaming fees and the amortization associated with those with our recent banking client deal.
+
+Again, [ph] I will refer (00:18:59) to the MD&A for a more detailed description on these. As a refresher, Boardwalk is using this new partner sales ecosystem to recruit new teaming partners such as HCL that can build and manage solutions for the financial services clients by leveraging the Boardwalk velocity product for financial services' customers running on the Boardwalk Digital Ledger platform. This way Boardwalk gets the full license with each financial client, while deployment and financial services will be largely handled by that partner. Thus, this enables us to close deals quicker, lower our cost of acquisition and reduce Boardwalk's need to hire staff had it opted to go this route alone.
+
+Our goal continues to be to achieve both profitability and accelerate growth, not as an either or scenario. The company finished the second quarter of fiscal 2023 with the solid balance sheet. The company continues to have no debt, and for the first six months of the year, cash inflows from operations was a positive $700,000 and the company finished the quarter with $1.4 million of cash. This reported cash level does not include an additional $350,000 of cash the company received from the exercise of warrants subsequent to the closing of the September quarter.
+
+The company does have another batch of warrants set to expire in late January, which we do not expect to provide – which we do expect to provide some additional positive [ph] OpEx (00:20:42) and growth equity. Those warrants include approximately 1 million warrants and an exercise price of CAD 0.70 and $8.3 million as a $0.90 exercise price.
+
+Before closing my section, let me provide or reiterate a few comments about our outlook. The company continues to track at the upwards end of its initial $6.5 million to $7 million guidance for the fiscal year, which would be a 60% year-over-year growth at the high end. Several key points to make about this guidance in the upside potential. First, our pipeline did replenish and grow this quarter above $7 million. Our pipeline is a bottoms up projection for specific projects and customers over the next nine months, give or take, that are factored by progress to close. Second, while we have included – while we could have included all banking opportunities, the company only included two near term deals rather than all prospects to avoid inflation the pipeline and associated investor expectations.
+
+Third, as Andy alluded to, the last time we faced the economic headwinds was when the COVID shutdown first hit. However, during that time, our pipeline actually doubled since prospective customers realized that their existing IT systems might be good, but they weren't good enough to handle supply chain, global collaboration, traceability and other data and management challenges. This prior pipeline increase is what has fueled our current ARR growth. And why? Because our Digital Ledger isn't just unique in great technology, it enhances productivity and ROI to our customers.
+
+So, in conclusion, given the company's revenue growth and outlook, our goal continues to be both profitable and accelerate growth. And as we've mentioned before, our focus and goal is not just to hit our guidance, but to exceed it. And we look forward to providing you progress on that goal in the months and quarters ahead.
+
+With that, let me turn it back over to Andy.
+
+Thanks, Charlie. To say that the business is at a very exciting inflection point is an understatement. Boardwalktech is starting to prove that our Digital Ledger platform and related products is a unique and important solution for both large enterprises and financial institutions to better manage and empower their unstructured data. There was nothing on the market that can do what Boardwalktech does today, and our shareholders will soon be rewarded for their commitment and their trust. We look forward to announcing new developments in the upcoming months and reporting our results to our investors.
+
+And with that, we'll move over to any questions that anyone may have.
+
+Thank you, sir. [Operator Instructions] And your first question will be from Mike Stevens at Echelon Wealth Partners. Please go ahead.
+
+Yeah. Hi. Good afternoon, guys, and congrats on your progress in the quarter.
+
+Thanks, Mike.
+
+Yeah. I just had a question. You touched on the macro environment and some of the countercyclical trends that you saw at the beginning of the pandemic, and you're seeing them again now. What about the sales cycles then and with higher cost inflation, et cetera, is there much difference this time around or any color with that?
+
+Yeah. Mike, this is Andy. We're not really seeing a change in the sales cycle. The deal that we did that we mentioned during this call with a fabless semiconductor company, that was about a three-month sales cycle. And while that was shorter than normal, I think that we're kind of in a mode of being anywhere between kind of three and six months depending upon the size of the deal. I will say that from your question with regard to the economic component of this and the supply chain, the supply chain is a complete mess. And we continue to see companies struggling with regard to supply chain. And part of that problem is that the systems that they're using are antiquated and they're very difficult to change rapidly. And this problem is certainly becoming more and more evident and companies are looking for new ways to be able to solve this supply chain issues and problems from technical standpoint, and we believe that we're positioned really well to be able to do that utilizing the Boardwalk Digital Ledger.
+
+Okay. Great. And sticking with the macro theme, you touched on the – seeing some wage inflation in your business. I'm just wondering, in terms of pricing power, I know it's still early stage in your trajectory. But is that something that you're able to pass through? Or is it more of that land and expand is just kind of scaling the number of customers that you're – that's really the focus?
+
+Yeah...
+
+Yeah.
+
+Yeah. Go ahead, Charlie.
+
+Andy, so I'm sorry. Yeah, Mike, I would caution that we're not going out trying to fight on a price basis, but rather in terms of a ROI to the customers. In fact, it's somewhat funny, we've had some pushback from customers who are wondering why we haven't charged more for some of our customers, given the amount of savings, higher productivity, profitability that we're giving to the customers. But we are not going out and fighting on a price basis.
+
+So our reference more towards the inflation was more in terms of making sure that we haven't had merit increases for several years because we've been very focused on trying to get to profitability. But we know we also have to stay competitive. But we have had success in having select hires necessary to fuel the growth going forward. But when it comes to actual pricing, now, our technology is so unique, at this point, we don't have to go out [indiscernible] (00:27:23) on a price basis. In fact, that's not the way that we position this, but rather on how do we resolve problems and save, quite frankly, time. That's why they quote that Andy mentioned, what used to take you two days, now it takes 15 minutes. That's the ROI that we are trying to and we try to target at least a minimum of 5x ROI in the first year for our customers.
+
+Okay. Great. Appreciate it. And then just if I could ask about your teaming partners, just any updates with how you're – are you happy with the progress? And in terms of the number of resources that they're able to deploy? Is that something that you have any control over? Or is that sort of contracted in or just any color on that?
+
+Yeah. So, as you know, Mike, the way in which we've set up these teaming agreements is that, the IT services company will partner with Boardwalk. Boardwalk will have the direct license agreement for the technology with the bank. And the bank will contract directly with the IT services company to do all of the administrative and rollout work. And any other professional services work that is contemplated with that.
+
+It's a win-win, because that's exactly what these IT services companies want is bodies against a project or projects. And, of course, we're much more interested in keeping our margins high and that direct license revenue. And to further answer your question, we continue to go through training with a lot of these IT services companies who are now starting to build personnel in and around this, and we're pretty enthusiastic about the response that we're getting, including some that are calling us directly to say, I'd really like to be trained on the Boardwalk Velocity solution.
+
+And so we definitely are seeing movement there. What I love to be talking about that we've got , 20 banks in the pipeline. Yeah, but we don't. And we're continuing to educate and partner with the IT services companies as these banks are going to continue to look for solutions to be able to solve this problem, especially as the OCC continues to focus in on more compliance issues in and around these issues with end user computing environments and spreadsheets.
+
+Okay. Thanks. And last one, if I could, just a broad question. Maybe longer term, is there any areas of the market that you're particularly excited about that maybe people don't associate Boardwalk with at the moment, whether it's a new vertical or an area of investment?
+
+Well, certainly...
+
+Yeah. Can I answer that? Andy, can I answer that one?
+
+Yes.
+
+Because, sorry, I don't want you to. Mike, there are several other market areas that we could be either even deeper and that we'd remind investors on, as well track and trace, be in the food and pharma areas, another very logical and tangential area that we could get into. We've already proven some of that. We did a pilot project with the Defense Logistics Agency, for example. But one of the reasons why I wanted to take this answer is, when I first was approached by Andy, on, for those who don't know, I would have killed for this Digital Ledger, where I still at Intel or still at Credit Suisse [ph] heading up (00:31:28) global semis. But it was when I asked Andy almost the same question you did, Mike. And Andy said, we could go into these other areas, but we want to keep our focus with limited resources to excel in these couple rather than spread ourselves too thin and be mediocre. So my point being is, yes, there are a lot of other markets that we could excel in and have – add incremental growth to.
+
+But we also have to be judicious with the limited amount of resources and growth equity that we have at hand. So there is a lot more upside even to what Andy has said. And I think it's reflective of Andy's leadership that we don't go chasing every single one. Again, the banking market was one we did not chase, but rather had an existing partner who came to us after Andy had given a talk in London who said, we know a bank that could use you and made the introduction.
+
+Awesome. No, I really appreciate the color guys and your time. Have a good one.
+
+Thanks, Mike.
+
+Thanks.
+
+Thanks for your great questions.
+
+Next question will be from [ph] Craig Johnson (00:32:34), investor. Please go ahead, [ph] Craig (00:32:38).
+
+Hello. You've – I'm just trying to get some more color on these arrangements with for teaming. That is you're picking up the subscription revenue and the consultants get the professional services, et cetera. And – but I see that you have in your expenses $204,000 for payments to teaming partners, I'm assuming. Can you explain if they're picking up the revenue for some things, why are you paying them?
+
+So that's an excellent question, [ph] Craig (00:33:17). And the lion's share of the professional services revenue is being picked up by the IT services. So it is a win-win plus, they can front the personnel. There was, in particular for these first couple of deals, essentially, the equivalent of I don't want to call it a reseller commission, but for the introduction to come in, to be very blunt, we would not have gotten into this first bank had it not been for this partner.
+
+And I don't want to go into the details of it, but we are amortizing it because this is not a one-off. But rather, we were duplicating this and the teaming fee is something that you probably have seen within government or defense contracts and view this partner as being essentially the prime. And then you allocate the piece at the beginning, partly because the lead partner who brought us in, provide us the access and help win us that license is something we couldn't have done it on our own, that's certainly not in the same fashion that we did. But we also – and it's been ourselves and the teaming partner. Ultimately, we are at the behest of that bank who then can reallocate it. So view some of those fees as a backwash in terms of protection for that partner to make sure that they don't get written out of deal by the banking partner.
+
+Okay. So is this likely to grow over time?
+
+No.
+
+And if so – okay. So it's just – is it going to stay at that level kind of for a while? Is that because this is a kind of an incentive payment to the one or two groups?
+
+Yeah, that would be the way to look at it and think of it as more front end weighted [indiscernible] (00:35:11).
+
+Okay. So it would – it's going to – I'm just trying to think in terms of the [indiscernible] (00:35:18) it's going to stay around $200,000 for a while?
+
+And then trail off.
+
+Oh, I see.
+
+Yeah, yes.
+
+Okay, that's good. And in terms – just one other question, in terms of your pipe, I see last year, if I add together your ARR plus your pipe, I get about $12.3 million from last year same quarter. This year, I get about $12.5 million-ish. That's up a little bit, but it's not – so it means you're converting your pipe is what that means. But I'm just wondering, you've said that you're being very conservative in terms of what's in the pipe. It's not obvious from those numbers that the pipe is really – that the net, the total is growing. But you're saying is that you're being very conservative and putting the numbers in there. I'm just – just want to make sure if I've got this -- if I'm understanding this right?
+
+No. You've got that right, [ph] Craig (00:36:08) and one of the other things that we do is it's not absolute numbers. So one of the things is that depending on the position of the -- how close we are to we proceed to be closing, we will actually factor that as well JB Kuppe [indiscernible] (00:36:25) will factor that as well. Plus [indiscernible] (00:36:28) will also look at discretion.
+
+So as I mentioned, we could have added a couple of other banks into the pipeline from where we have discussions, but we thought it more prudent to temper expectations at this point and let our numbers present it. I would not use the pipeline as being the absolute and we'll be very honest there our customers who come on the pipeline and drop off and go back and forth.
+
+Oftentimes when a customer will look at our solution and they'll look at their internal IT and the internal IT will say, let us give it a shot. They try it and they come back to us and that happens on a frequent basis as well. So you shouldn't view it as linear but rather as dynamic overall. But in terms of the conversion on that. The other thing that we're getting is a lot more referrals. So not just IT services companies referring us in. But I would remark on three of our largest customers came from an existing customers as well, and that trend we're actually seeing started to pick up as well.
+
+So if could summarize, the business is growing really well, even though these particular numbers are just don't reflect.
+
+We're – I think the best way of looking at the pipeline is, we're not going to close on all of the deals that would be unrealistic. But it is showing that and why we referenced even within COVID as we had that dropdown fairly low as people were uncertain about COVID, and then a lot of customers, including a couple that are now amongst our top five customers, looked at their existing IT, they had tried other solutions, both internal and external, and came back to us and we saw that pipeline double over the course of – Andy, what was it? About nine months . And it went from the nadir to doubling. And that is in turn, [ph] Craig (00:38:32), whether it's your – our existing growth. So it is dynamic, but you should view it as the pipeline is indication of future growth right now because people are either approaching us, we're getting referrals from other customers or IT services partners that are indicating that we have a lot of growth potential out there. And ultimately, what we're focusing on, especially, Andy, is converting those yields into actual recurring revenue.
+
+Okay. That's great. Thank you so much.
+
+Thank you. [Operator Instructions] And your next question will be from Ed Sollbach at Spartan. Please go ahead.
+
+Good day. Congrats on another good quarter. Yeah, just trying – like, you kind of referenced the two big opportunities out there, Andy. And are those specific companies or are they kind of industries that you're targeting that maybe have that big size because those sizes are outside of your pipeline, right? Like, how do you get to those numbers?
+
+Yeah. I mean, at the macro level and the way that we look at this is, again, there's two distinct opportunities. One, in the financial services market. When we look at the first deal we closed that was a couple million growing to $3.5 million on an annualized basis as the contract matures. We think that there's a very good possibility for us over the next 36, 48 months to land 50 additional banks paying us call it a minimum of $2 million a year for the Boardwalk velocity product, and that's how we get to kind of $100 million revenue in the financial services market. There's execution to be done. And there's momentum that needs to continue to build in that market, but we think it's very reasonable to think that we can get there.
+
+On the second side of the business, the other kind of $100 million opportunity is in our traditional enterprise business selling our Digital Ledger platform. And that is – we're going to continue to focus on the early adopter markets that we've been focused on, which is in CPG, manufacturing tax with a real focus also on supply chain. You're going to see us really talking a lot more about supply chain.
+
+When you look at most of these large enterprises, we're only focused on enterprises that are doing $1 billion and above. So kind of mid-market up to all the way through the Fortune 1000. These companies routinely will have a [ph] 100-plus (00:41:26) of these mission critical spreadsheet applications that are currently being run in a manual Excel mode that need to be transformed over on to the Boardwalk Digital Ledger platform. If you say we're going to get 10 of those at $100,000 apiece, which has been kind of our ASP on those deals, that gets us to $1 million of recurring revenue per large enterprise. Very sticky. And then you do that and you say over the next 36 to 48 months, can you get 100 additional enterprises paying you $1 million per year ARR, and we believe that that is very viable. And so that's how we kind of get to those two, what I would say, macro markets that we're going after.
+
+But with a very – with a very deep focus at on the particular vertical industries that we're targeting, like, we're not going after pharma, we're not going after other areas, whereas Charlie mentioned, we could, but we just don't have the resources or the manpower to be able to go and do that yet. And as we get opportunities in those areas and we think we can actually handle it, then we'll certainly expand into that. So that's an area of a lot of opportunity for us. I'll also say that yesterday, I gave a speech to 1,200 enterprises with regard to supply chain. And the response after the speech was pretty strong. And after the presentation, people really are acknowledging that there's such a big problem in the supply chain. And we really believe that our solution is unique and different and that you're going to continue to see new wins that we're going to be focusing in on the supply chain.
+
+Okay. Well, thanks. Thanks for that color, Andy. I mean, I think, I can – are you looking at the auto industry? I mean, I can think of in the last couple of years they've lost tens of billions in sales because they're missing a couple of chips or Ford is lost, their sales were down 20% just this quarter because they're missing badges, the Ford badge for their cars, right? Like, is that an example of an industry that you're targeting?
+
+It's definitely a great example of an industry that's got a lot of pain and has a lot of legacy software that is actually causing some of these issues. It's about an industry that we focused on today, and that's mainly because of a lack of resources to be able to go after it. I'm not saying that we would be a perfect fit. It's just – just don't have the horsepower to go in and focus on that industry. I will say that...
+
+Is that – is that an industry you could target with your partners that you pay? We were talking about the finder's fee that you were paying, is that...?
+
+Yeah. It is the...
+
+Yeah. So it...
+
+There certainly is – go ahead, Charlie.
+
+Yeah. So, Andy, it's funny you should mention that within the auto industry, because the first one I would be thinking of is semiconductor where we're actually had success. One of the problems you have within the auto industry is that – that's actually a long cycle. So you have to – it is within the suppliers, you actually have to qualify within the suppliers to the automakers. So once you're in, you get a very long area. But yeah, I can take it offline as far as that area.
+
+What I can tell you that an area that we could and should be even deeper in is within the semiconductor industry as well. And that, I do think, has a lot more upside, not just SiTime, but other customers of ours include Qualcomm, Broadcom and on semi. And those are areas where we've had – we have shown specific productivity. That – not just because it's part of my background, that it's so right. We even had a customer who was a perpetual license of ours back in 2014 that we migrated over to a recurring license. And part of that was from being able for them to track chips within their end product as well.
+
+So, as Andy said, and I did as well, there are some tangential markets that we really could get deeper in. But we don't want to chase those markets, but rather prove the technology. That's why having Andy go out gives an indications, speeches, along with just printing more announcements about new deal wins that in turn gets us to have reverse inquiry.
+
+And I will tell you, we've actually had some salespeople who have approached us to want to start to work with us or they know of opportunities. And when you get that reverse inquiry, when people look or hear speech that Andy and I have given and then said, can I get you in touch with somebody? That's where we know we're getting the traction and the growth.
+
+But like Andy said, we don't have all the resources we wish to be able to chase all those market opportunities and rather excel on the ones that we are.
+
+Well, yeah, and a lot of times, on the technology, it's a snowball that we're all seen the orders come in and...
+
+Yeah.
+
+And Andy...
+
+And I'll give you...
+
+...you sign them up with a lot less resources because they're already educated, right? So that's...
+
+Right. I'll give you another example. And this is one JB and I are also working on is within the upstream areas, within the sort of the track and trace, but it's a supply chain issue overall and that's working with guys within the RFID and AIM market overall. And the idea of this is not just at the point of sale, but further up when you're getting into customs license tax areas, which we've already proven on is another area that we are working on. But again, what we're finding is, it probably will be growth that we're going to be working with other ecosystems like the RFID ecosystem, to not just [ph] hit (00:47:40) one problem, but rather the entire supply chain. So that would include the DHL Logistics and other parties out there of whom we do have a relationship to an existing partner. So there are opportunities out there, and it's just that we can't chase all of them at the same time.
+
+[indiscernible] (00:47:58)
+
+I love your thought process on that as well.
+
+Okay. Yeah. So, just on the income statement, great top line growth, but you're not getting the operating leverage because of the expense growth. Now, I understand the professional fees or no, sorry, these – the finder's fees, the $204,000 the other gentleman was referring to, that makes sense because I – the contract I would imagine might be there for many, many years, right, or possibly forever [indiscernible] (00:48:35), right. And the finder fee goes away, but what – like, when does it go away? Like how you said you amortized it, but how – what's the amortization period for these finder's fees?
+
+So, the amortization is over the [ph] length (00:48:48) of the contract given that we've negotiated beforehand. But obviously we're not going to – we're trying not to disclose certain confidential information in regard to that. But with each new partner, we would probably have not similar, but there would be some amortization associated with it, but not as the period of expense. And the reason for that is, again, if you take a look at where teaming agreements have been mostly used in say government and defense, it's to your point, these are long-term deals. But the fees themselves associated with the teaming fees would be more frontend. You know, and say, the first year...
+
+Okay.
+
+...or so of the deal. Then it becomes a symbionic relationship, where we've got the brains, they've got the brawn, let's go make lots of money...
+
+Right.
+
+...that sort of idea. And with contracts that we're looking at, trying to do 4 to 8 years out there. And in some cases we've even negotiated the prices out to the first four years. And I don't want to get into those details, but what I can tell you that is that they are progressive pricing. More importantly to the investors, the contribution margin, so not the gross margin, but what's going down to the bottom line of cash. With these new deals, we should be getting, well in excess of 70% contribution margin. That's what we're focusing on...
+
+Even – even with the teaming?...
+
+...because...
+
+....even with the teaming?
+
+Yes. Yes.
+
+Okay.
+
+Because we're not having to hire teams of people, anybody who's experienced SAP, you do a shrink wrap SAP and next thing you know, you've got a team of 20 or 40 guys who are camped out...
+
+Right.
+
+...in the West Wing of your offices three years afterwards because they're doing implementations. Why? Because they're still reliant on doing SQL queries for not only getting the data into the data lake, but extracting it as well, which is a highly inefficient and labor intensive process.
+
+That is the beauty of the Boardwalk Digital Ledger. And one of our first major customers from the time we signed the license, to the time they went live with their own clients, was six weeks. And it took me in less than five days during the implementation to get them up and running and to maintain it is only requiring two. That's the operating leverage going forward.
+
+Right. All right. Okay. Well, certainly it's – they have the customer relationship. And, but so with that like...
+
+Right. Exactly.
+
+If things were just – so would an example be that you have a multiyear contract and you pay a teaming fee for the first year? And then after that, they have to – if they want more, they have to get new contracts. Is that kind of how we...
+
+Well, we would incentivize them for a renewal, depending on whether there's an upsell associated with...
+
+Okay.
+
+[indiscernible] (00:51:50)
+
+Yeah. We – right because we don't want to just have them come in and sit back and collect, that's why we call it a team agreement and not...
+
+It's not a royalty fee. It's more of a finder's fee or more of a royalty fee. I guess, that's the thing.
+
+That's why the best way of describing it is a teaming fee. It's a partnership...
+
+[indiscernible] (00:52:14)
+
+Okay. I don't know the teaming term, but...
+
+Well, the teaming and being in like, again, within the government is they have the IT services...
+
+Oh, within the government. Okay.
+
+...they have the access, they will collect the professional services off of that. As you said, Ed, we don't have those relationships or approved access into those banks and financial institutions, these companies do. And so we get to go through the front door, not a side door, and we don't have to spend the time. So we've just accelerated our time to closing. We've lowered our cost of acquisition and we don't have to hire as many people to implement and sustain those deals.
+
+And it's like a stamp of approval from this [indiscernible] (00:53:01).
+
+Yeah, that's a good way of describing it as well.
+
+Yeah. Okay. And so would it be correct to think of it as the teaming fee as partly finding fee and partly then support fee ongoing where they would kind of support the product into the future, is that...?
+
+I think that's a relatively accurate way of describing it. Yeah.
+
+Okay, okay.
+
+And I should point out those are on pre-arrangements as well.
+
+Right.
+
+Where there is, again, a long term vision on this, not a short term. Let's just close the deal.
+
+Yeah. I'd also to point out that as we continue to mature into this market and mature our relationships on these teaming agreements that we're going to get a little bit more exact and probably get to a little bit better terms if you will regard to future deals as we move forward.
+
+So we're – we want to leverage the channel. We want to let them sell while we sleep and reap the benefits from that. But we also want to make sure that we're economically doing this correctly and again, as the market -- as this market and relationships mature, it'll continue to change, I think, in the favor of Boardwalk.
+
+Right. Well, I mean, it's all structurally right. So, I mean, a 15% be for – commission is fine, but a 15% royalty in perpetuity is seems high, right, but, anyways, and then the other part of operating leverage is salaries, wages and benefits on your side is that's also gone up about just in line with revenues over 30%. So is that – did you bring on bunch of new people or are people just doing a lot better...?
+
+Well, it was a combination of two things, Ed. But, no, we hadn't given a merit, we have not given a merit increase to our team both in [indiscernible] (00:55:09) and US for a couple of years.
+
+Right.
+
+And while they're compensated with both cash compensation in our shoes, it was time and we wanted to stay ahead of the market because the market at least when we made these merit increases was pretty frothy and we [indiscernible] (00:55:24) people. So it was time. The second thing is, yes, we did hire some additional folks from an engineering standpoint to execute on a supply chain project that we we're working on that is long-term that we'll be able to talk about soon, and also that we'll be able to leverage that technology that's been developed into many other customers. So this was a good, proper investment that will continue to support our growth.
+
+Okay. And so the salary is it kind of a catch up and it won't be repeated? Is that the way to think of it?
+
+Well, again...
+
+Especially given the layoffs in the valley and stuff or, and...
+
+Yeah. Again, we look at the valley, but you also look at wage inflation in India at 30%.
+
+Right.
+
+Okay. So...
+
+Yeah.
+
+... we had to be careful and do the right thing for our people to be able to get them on par with what the competition was and be able to retain them. And...
+
+Oh, some of that's out of India too.
+
+Yes, yes, some of that is out of India as well.
+
+Right.
+
+And I'd also point out that because of how we have to do our planning and projections, we can afford to hire somebody at new close the deal, but in anticipation of it depending on the – again, the progress say within our pipeline because...
+
+Right.
+
+...we need people to come up and ramp. So there's a bit of a calculated risk. But again, I'd point out that, yeah, while there's been some notable layoffs, we have actually been hiring selectively and even [ph] hired (00:57:14) people who are coming to us seeking to join particularly on the sales and marketing side. So I'm not saying that we're bucking the entire industry trend, but we are trying to be judicious with it. Andy and I and the team realized that getting to profitability is a line that we still are marching towards. But we have to balance that off to make sure that if we're closing another banking deal, we're going to take the banking deal and the growth associated with it because of the better long term decision as opposed to a short term metric that we can chuck off. We got to take a look into both tactically as well as strategically.
+
+Right. No. I mean, I know – I've been following the company for a few years and I know, they – you managed expenses well when times were tougher. And so I can see the need for catch up and I think you're right to put growth ahead of profitability, especially if you can get that the strong growth you've been seeing. And – but then on the other hand, I think to get this – if you have a lot of employees, shareholders and so, if you keep managing expenses, then they're going to get – they're going to do much better on the shares than even through a salary increase, right. So it's – you can lock that line, right? So...
+
+Well, it's – it's a fine line, Ed. And, just no two things. Charlie and I wake up every day thinking about how do we add ARR. And the second thing is, we wake up thinking we've got to continue to stay very judicious and focused on getting to profitability, which will be mid-next year.
+
+Fantastic. Okay. Well, thanks for all the color and congrats on a great quarter.
+
+Thank you.
+
+Thanks, Ed.
+
+Thank you. And at this time gentlemen we have no further questions, please proceed with closing remarks.
+
+I'd like to thank everybody for attending our fiscal 2Q quarterly conference call. And I sincerely appreciate your interest and you being an investor in Boardwalktech. So, this ends the call. Thank you very much.
+
+Thank you, sir. Ladies and gentlemen, this does indeed conclude your conference call for today. Once again, thank you for attending. And at this time, we do ask that you to please disconnect your lines.

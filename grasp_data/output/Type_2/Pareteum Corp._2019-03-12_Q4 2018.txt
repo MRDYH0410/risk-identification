@@ -1,0 +1,339 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+Laura W. Thomas — Corporate Development & Investor Relations, Pareteum Corp.
+Robert Harold Turner — Founder, Executive Chairman & Principal Executive Officer, Pareteum Corp.
+Denis McCarthy — President, Pareteum Corp.
+Vic Bozzo — Co-Founder & Chief Executive Officer, Pareteum Corp.
+Bart Weijermars — Chief Executive Officer, EMEA, Pareteum Corp.
+Patricia R. Hume — Chief Marketing Officer, Pareteum Corp.
+Robert Mumby — Chief Revenue Officer, Pareteum Corp.
+Michael Latimore — Analyst, Northland Securities, Inc.
+George Sutton — Analyst, Craig-Hallum Capital Group LLC
+Eric Martinuzzi — Analyst, Lake Street Capital Markets LLC
+Allen Klee — Analyst, Maxim Group LLC
+John Nobile — Analyst, Taglich Brothers, Inc.
+
+Management Discussion Section
+
+Question And Answer Section
+
+Good day and welcome to the Pareteum Corporation Fourth Quarter 2018 Financial Results Conference Call. Today's conference is being recorded.
+
+At this time, I would like to turn the conference over to Laura Thomas, Investor Relations. Please go ahead, ma'am.
+
+Thank you, Shunaid, and good afternoon, everyone. Thank you for joining us today for Pareteum Corporation's fourth quarter and year ended December 31, 2018, earnings results analyst and investor conference call today.
+
+With us today are Hal Turner, Pareteum's Founder, Executive Chairman and Principal Executive Officer; Vic Bozzo, Chief Executive Officer; Bart Weijermars, Chief Executive Officer of EMEA; Denis McCarthy, President; Ted O'Donnell, Chief Financial Operator; Rob Mumby, Chief Revenue Officer; and Patricia Hume, Chief Marketing Officer.
+
+Earlier today, Pareteum released financial results for the quarter and year ended December 31, 2018. If you've not received Pareteum's earnings release, please visit Pareteum's Investor page at www.pareteum.com.
+
+Following management's discussion, there will be a Q&A session. During the course of this conference call, the company will be making forward-looking statements within the meaning of Section 27A of the Securities Act of 1933 and Section 21E of the Security and Exchange Act of 1934 (sic) [Securities Exchange Act of 1934] (00:01:49). The company cautions you that any statement that is not a statement of historical fact is a forward-looking statement. This includes any projections of earning, revenue, cash or other statements relating to the company's future financial results. Any statements about plan, strategies or objectives of management for future operation, any statements concerning proposed new products, any statements regarding anticipated new relationships or agreements, any statements regarding expectation for the success of the company's products in the U.S. and international markets, any statements regarding future economic conditions or performance, statements of beliefs and statements of assumptions underlying any of the foregoing.
+
+These statements are based on expectations and assumptions as of this date of this conference call and are subject to numerous risks and uncertainties that could cause actual results to differ materially from those described in the forward-looking statements. Some of these risks are described in the section of today's press release titled Forward-Looking Statements and in the public periodic report the company files with the Security and Exchange Commission (sic) [Securities and Exchange Commission] (00:03:09). Investors or potential investors should read these risks. Pareteum assumes no obligation to update these forward-looking statements to reflect future events or actual outcomes and does not intend to do so.
+
+With that, I'd like to turn the call over to Mr. Hal Turner.
+
+Thank you, Laura. Thank you, Ted. Good afternoon. Welcome to all who join us today for this call from around the globe. We thank our many teammates for their sales, their business operations expertise and the exceptional financial results that will be discussed today. It is these teammates and their constant collaboration on everything that's the basis for our remarkable successes. Teammates, it is your constant support of each other and for our customers that is the basis of Pareteum's success. You demonstrate daily that we are dedicated to happy customers and their journey with Pareteum. So, a simple thank you. We appreciate it.
+
+Today, I'll begin our call with a topic that's very important to me personally and professionally. I hope that as I go through this that you will hold these points I'm about to discuss in the same degree of importance. It's a question that I often ask myself and it's this, how can we continually simplify the communication of our mission and vision so that all stakeholders understand and appreciate what we are doing and why we are able to be such a disruptive force in the market?
+
+So, before we review our results I want to take a few minutes to share this mission and put it into context in the hopes that this will enhance our mutual understanding and cause you to better appreciate just how powerful our story is and especially in the customers' eyes and why we can deliver the great results and continue to do that and you will hear about all of that later in this call.
+
+Pareteum is a global software communications platform with a mission to connect every person and everything. That's any device anywhere and it's founded on the viewpoint of creating global open mobile networks and open applications. The essence of open mobile networks and open applications and APIs shifts the control of everything toward the subscriber and it removes them from the proprietary technology and policies of bondage from a single operator. Pareteum accomplishes this with our software. Connecting everything is an incredibly simple and concise and very powerful statement. It's an aspirational statement just like Pareteum and our teammates and their care for our customers, yet some seem puzzled and lack clarity on this or even see it as connecting everything as just another catchphrase or even a trendy marketing slogan of the day. It's not any of these things.
+
+This is very likely attributable to our not having well-articulated this mission and placed it into its clear and proper context. Here are some of my thoughts and additional context with much thanks to the product and architecture team of our company for some of these perspectives. Pareteum has developed and delivered services from its global communications cloud platform operating as a software-as-a-service. This means almost no upfront expenditures for hardware CapEx or for our customers to hire staff to be able to use our services. The platform, which will soon be given a name, is coupled with value-adding connectivity services. That's access to networks, wireless and wired. Some describe this as the oxygen of what we do. We are agnostic to those networks. So, imagine what it would take in time and resources to create this team smart network on a global basis. Also, imagine the flexibility of our software breaking the control exerted by the underlying network operator and provider. This means, for example, that a mobile virtual network operator and their subscribers – or their subscribers, not the underlying service provider from radio access network. So, the service is under the control and the branding control of that MVNO. They are freed from the monopoly. Pareteum's platform service offering is unique in the marketplace since Pareteum is the sole provider of one single and flexible interface to manage all of these global customers and devices.
+
+This is the power of our Super API. Great platforms should offer complete end-to-end services. And we do. Pareteum services are based on our own developed intellectual property. Everything is designed with our open APIs to enable an ecosystem. This may include specific point solutions. It may include developers using our APIs to embed our middleware management front-end and back-end software, including BOSS, Business Operations Support Systems, into their services, applications or things as in Internet of Things.
+
+This includes mobility-as-a-service. Think about this, mobile telephony from the cloud without sole dependence on a single mobile network operator. This is powerful. Pareteum's platform value extends beyond just the capabilities of Pareteum. It's locking us further and deeper into our customers' operations through the ecosystem. This is cementing us further in this ecosystem and accelerating our sustainable competitive differentiation. This means sticky revenue for Pareteum, and it means add-on sales potential, and that is the cross-selling of our products from our various M&As. We currently sell to enterprises, communications service providers and developers and IoT services.
+
+Our platform is designed to bring value to serve the needs of these market segments. Our single development and investment focus into Pareteum's platform means we can leverage this across multiple segments, those that we serve now, and those that we will identify and move into. We are selling to a very large and growing addressable market. This bodes extremely well for Pareteum and is a very powerful scaling mechanism for our business.
+
+I thought you might also be interested in some of the things that reinforced our passion and excitement for our business and our underlying commitment to our customers and shareholders.
+
+We recently attended the Mobile World Congress. That's the MWC in Barcelona. We had an incredibly successful event. Meetings with our existing customers were numerous and we spent a lot of time with new prospects, sharing our story of why we are the best end-to-end software cloud communications platform in the industry.
+
+Here is a direct quote that was overheard by a member of our marketing team from the head of Three, which is a leading mobile network operator in the United Kingdom. He said and I quote, I am amazed at how it feels to work and speak with all of the people in your company and how you seem to be pushing the industry forward. I look forward to working with you.
+
+So let's move on. You all want to know how we are doing. Our team is eager to share this with you. I'm going to begin followed by Denis, and then you will hear from Bart, Vic, Rob, Ted and Patricia as we collectively address your questions.
+
+Pareteum delivered excellent results in 2018 as well as in the fourth quarter of 2018. Pareteum's prospects are now the very best more than ever before in our history. There is a clear path ahead for dramatic revenue growth and this is fueled by the growth of our 36-month contractual revenue backlog and its conversion of that backlog into billing customers.
+
+Artilium, which we acquired in October of 2018, has performed extraordinarily well. Bart, I want to thank you and all of our new Artilium teammates for that. Artilium was accretive to earnings and revenue just as we said that it would be. Well done, Bart and team.
+
+Since our acquisition of iPass closed just a few weeks ago, many good things have happened. We've got newly – new, high experienced teammates joining with their extremely solid business acumen, their operating muscle and importantly, we see that our new teammates are highly energized by the significantly expanded prospects that come with their being part of Pareteum.
+
+Their results are expected to prove this point throughout the year. Our leadership team has expanded. Patricia Hume, who is on this call and will join us in the Q&A, has been named our Chief Marketing Officer. She joins us today and you'll hear from her as we address your questions in specific to anything on iPass. We welcome Patricia and we welcome our new iPass teammates including [ph] Christine, Blaise, Raghu, Venkat (00:12:38) among many others who now make us stronger in all ways. We welcome you. We thank you for the already visible results we see from your presence.
+
+I'd also like to very importantly note something for everyone and this is an extremely important point. We gained 75 developers and network cloud personnel to help deploy what was at the end of the year a $615 million and growing 36-month contractual revenue backlog. This is extremely important.
+
+We also now can continue to broaden our back office infrastructure with top talent and strong underlying systems and processes. Here is some interesting relevant results since we initiated our strategic alliance with iPass which of course was in advance of our acquisition. We've closed 16 sales transactions that have included the iPass SmartConnect software. These transactions have increased our 36-month contractual revenue backlog by $63 million.
+
+Selected customer use cases include our communications service provider that will use this iPass SmartConnect Wi-Fi as an add-on service for their customers, and as offload to the wireless carrier data plans saving a lot of money. We've got a streaming media application that required Wi-Fi to support their business model economics that's been sold as well as selling into a smart city and IoT application where the devices are static and therefore can easily be served by Wi-Fi. Momentarily, specifically in our Q&A you will hear more all about why there is much more to the story.
+
+For the remainder of 2019, we have a current robust pipeline of another 29 prospective sales transactions and that's what's been identified just through mid-March. Pareteum's potential addition to our 36-month contractual revenue from these identified customers in our pipeline is currently $166 million.
+
+I want to also share some of the important points about our performance and the substantial progress that's been made by our company. In January 2018, Pareteum Global Software Communications Cloud Platform product segment, that's a mouthful, represented 4% of our total monthly billed revenues. At the end of January 2019, this very same product represented 51% of our total monthly billed revenue. That's a 12x increase in one year and proves the attractiveness of our cloud platform.
+
+We had 25 active billing customers on December 31, 2017. As of December 31, 2018, we had astounding 533 active billing customers and this is rapidly growing via our backlog conversions. This is a materially significant 2,000-plus percent increase in customers alone, and there's a high correlation in these customers as a predictor to our future revenues. Customer counts will continue to increase as we include iPass results, which you will see fully reflected at the end of Q2 of 2019 and partially reflected in Q1.
+
+The effectiveness of Pareteum's platform, our employees, and customers is demonstrated in our exceptional financial performance in both the fourth quarter 2018, as well as the full year. Hopefully, you will have read the earnings release, and Denis in just a few moments will follow with details. But I'm delighted to affirm once again that our Artilium acquisition, now fully included in Q4 2018, was accretive, just as we said it would be.
+
+Some subsequent events that we've announced since December 31 of 2018 demonstrate that we are entering 2019 with very strong momentum. We announced our 36-month contractual revenue backlog stood at $615 million at the end of 2018. That's an increase of 4x over Q4 2017's 36-month contractual backlog revenue, which stood at $147 million. And note, that today, this is an important number.
+
+Inclusive of iPass through mid-March, our 36-month contractual revenue stands at $800 million and is growing monthly. This is a 20x increase over our 2016 36-month contractual revenue backlog when we first began tracking it. Thank you, Rob. Thank you, Vic. Thank you, Nick. Thank you, [ph] Sergey. Thank you, David J. Thank you, David H. (00:17:37) and the many other now quota-bearing sellers from all of our entities who will grow this number even more.
+
+This number will continue to increase at a rapid rate, as will the corresponding conversions to deployed services and billings. We closed the iPass transaction on February 12, that was just a short 19 weeks after we closed the Artilium acquisition on October 1. We have improved our financial strength and flexibility by closing $50 million committed senior secured credit facility with Post Road Group.
+
+This facility enables our execution rapidly of our growth plans on a global basis. And via our targeted and very disciplined strategic alliances focus, we think it's going to excite hyper growth in our company. We have used the first draw of those proceeds to retire $11 million of assumed debt from the iPass acquisition. And now, we enjoy better terms, we enjoy lower interest, and we enjoy better cost on the debt instrument as a result of paying off the iPass debt.
+
+Our balance sheet is improved and we have quick access to capital for potential tuck-in strategic acquisitions, while showing, which is very important to us, the greatest respect for our equity and its value. Perhaps the greatest testament to what we are doing and how we do it is the fact that our current clients are buying more from us every day. This is represented by our KPI tracking of our dollar-based net expansion rate, which was 214%. By the way, we understand that many think the correct name for this KPI metric is net dollar retention, but we're a growth company and our customers are rapidly increasing their dollar spend. So, for us, it's an expansion.
+
+So, I want to thank [indiscernible] (00:19:38) and I want to thank [indiscernible] (00:19:39) for their exemplary work in growing our embedded base and for the conversions, they go hand in hand and that team have a tremendous responsibility as we grow throughout the year.
+
+So, I'd now – I thank you. And I'd like to turn and recognize to Denis McCarthy, who will discuss our major financial highlights during the fourth quarter. Denis?
+
+Thank you, Hal, and good afternoon, everyone. I'd like to spend a few moments going through our key financial measures for the fourth quarter. During the quarter, we generated adjusted EBITDA of $2.3 million. Adjustments to EBITDA include stock-based compensation of $247,000 and acquisition and restructuring-related costs of $5.2 million. The majority of these adjustments are non-recurring in nature.
+
+We generated non-GAAP earnings of $2.3 million or $0.02 a share – per weighted average share in the fourth quarter and $6.4 million or $0.09 per weighted average share for the 12 months ended December 31, 2018. This is a reflection of the strength of our core business. We generated $14.3 million of revenue in the fourth quarter and our gross margins were 63%, in line with expectations post the Artilium acquisition.
+
+Speaking of the Artilium acquisition, the strength of our fourth quarter results were bolstered by that accretive transaction. In the fourth quarter, Artilium contributed $5 million to top line revenue and generated positive EBITDA and operational cash flow. Also in the fourth quarter, the annualized synergies from Artilium obtained have already met the targeted synergies for 2019. Although, work remains to fully integrate the companies, we are pleased with the disciplined approach taken to ensure that there is no dilution to our stakeholders and financial results.
+
+Pareteum has exceeded our prior guidance for revenue, achieving 101% organic growth over 2017 and including Artilium, growth of 139% on a year-over-year basis. Our key performance indicators
+
+continue to exceed plans, connections, which is our term for subscribers' devices and their connectivity usage, have grown to over 4.6 million at the end of the fourth quarter. 36-month contractual revenue backlog converted into [ph] live production (00:21:57) incremental monthly revenue was at 97% of scheduled conversion for the fourth quarter, [ph] while (00:22:05) maintaining an average over 100% for the year.
+
+Revenue per employee was $415,000 at the end of the fourth quarter, an increase from $233,000 over the same quarter. We expect to continue to exceed the industry expected averages for annualized revenue per employee per year on a go-forward basis. In addition to these KPIs, we're very pleased that in the last six months, we have attracted research coverage from Northland Capital, Craig-Hallum, Lake Street Capital and Maxim Group, a testament to the strength of our growing business.
+
+Subsequent to the end of 2018, we've closed our acquisition of iPass, also expected to be accretive in the first full quarter of consolidation. We've closed the iPass transaction, as Hal mentioned, on February 12, 2019. In that announcement, the resulting proxy and investor [ph] decks, (00:22:55) we identified the material cost synergies available, which made the transaction accretive, net of the transaction fees and restructuring charges.
+
+Note that we will continue to report adjusted for one-time transaction [ph] and (00:23:08) restructuring fees going forward to ensure that there's proper focus on the ongoing operations of our business alongside our strategy to pursue acquisitions that are both accretive to earnings and adjusted EBITDA.
+
+Upcoming Q1 earnings results will include partial – approximately 45 of the 90 days consolidated results of the iPass and Pareteum combination, reduction of head count and the highlight of key – some of the key employees that we retained. The highlights of the financial statements include $19 million of cost and expense synergies related with the first calendar year after the close of acquisition, of which, $11 million have been achieved through head count synergies; pro forma combined 12 month revenue north of $90 million; pro forma adjusted EBITDA with synergies of $18.2 million for calendar year 2018.
+
+In addition, we continue to focus on backlog conversion and, as Hal mentioned, iPass brings us an additional 75 developers and cloud personnel, which are instrumental in deploying that backlog that we had at year-end of $615 million and, as Hal mentioned, has now grown to over $800 million.
+
+In the absence of doing the iPass transaction, we would have had to hire and train these additional 75 employees, which would have required more time, money and risk, than we had achieved through the acquisition. We remain committed to growth and, while we currently have no plans, any potential future capital is expected to be used for growth activities, both organically and strategically, through acquisitions.
+
+Finally, as we mentioned during our last call, we are decidedly a growth company. With the addition of Artilium, we now have over 4.6 million connections. In addition to the customers, as Hal mentioned, this is a leading indicator for our growth. Those connections come to us through our global connectivity network. Our connections continue to grow organically and today are greater than 10 million after the iPass transaction.
+
+With that, I'd like to yield back to Hal Turner for [ph] our (00:25:21) closing.
+
+Denis, thank you very much. And I'd like to now discuss our plans and provide guidance for 2019. It's very simple. As Dennis just said, we are a growth company. So, as we introduce our guidance for 2019, I'd like to just remind everyone, this is under the context of forward-looking statement, it is based primarily on the strength of the accelerating growth in scheduled and anticipated connections, which are connected devices and their growth, including connectivity, usage and monthly recurring revenues. These revenues are expected to continue acceleration in the latter part of this year, because of our 36-month contractual revenue backlog, which provides significant visibility into Pareteum's future revenue potential.
+
+So, with that, our 2019 revenues expected are between $105 million and $115 million. Our adjusted EBITDA and operating cash flow, net of the restructuring and acquisition or transaction fees, are expected to continue strong growth through mid-year 2019, absent any further strategic activity. Our 2019 EBITDA and cash flows, this is very important, are expected to turn positive by mid-year and to be positive for the full year herein, absent any further strategic activity.
+
+We expect 2019's revenue to grow in a range from 225% to 260% year over year. This growth in revenue is expected to well outpace the market's growth by more than 4x, and that market growth is projected by the Gartner Group with [ph] CPASS (00:27:08) growth of 50% compounded annual growth between 2016 and 2021.
+
+I'd like for all of you to take comfort and be very, very focused that our business plans are aspirational and they're very big. We play to win. We play to win every day, and we're all in sales. So, it's important for me to share a few additional quick comments on how we operate our business.
+
+We operate our business daily with a management business case. That management business case significantly exceeds the initial quarter's guidance that I've just given you. Also, we have an extraordinary business case which [ph] then sends (00:27:51) everybody in our whole company to achieve materially higher revenues than are even contained in our management case.
+
+Finally, the operating management case and the extraordinary aspirational case, either meet, in the case of the management case, or exceed greatly, in the case of the extraordinary case, the SEC required iPass tender offer projections, which were used in setting forth our acquisition of iPass and contained revenue projections view that was based upon fairness opinions of our advisors and was used by our board in the acquisition consideration.
+
+As we move into the year, and with our sales pipeline exhibiting favorable results, which is expected, plus our 36-month contractual revenue backlog sales, which are expected to grow, and our conversions, which are expected to accelerate, we will update you on our revenue guidance on a quarterly basis.
+
+Now, we will open up for the question-and-answer portion of the call. Denis and I are joined by Ted O'Donnell, Vic Bozzo, Bart Weijermars, Rob Mumby and Patricia Hume. [Operator Instructions]
+
+Our first question today comes Mike Latimore from Northland Capital Markets. Please go ahead. Your line is open.
+
+Great. Thanks a lot. Yeah. Excellent year and looks like an awesome foundation for this year. In terms of, I guess, Hal, just wanted to clarify your adjusted EBITDA guidance. Can you just kind of run through that again? I didn't quite catch the – how you characterize adjusted EBITDA guidance for the year?
+
+Okay. So, the adjusted EBITDA guidance is that it will be positive and it is growing through the middle part of the year. In the middle part of the year, we will turn EBITDA positive and we expect to be EBITDA positive, for the full year, at the end of the year, presuming we don't do any other strategic. So, bottom line, adjusted EBITDA is positive and growing and we effectively burn off the transaction and the restructuring charges by mid-year and move to positive EBITDA is what I'm saying, same on cash.
+
+Sure. Yeah. Excellent. Thanks. And then, in terms of the gross margin, obviously, you saw really good gross margins with Artilium in the fold. How should we think about kind of gross margins for the year, if you want to give some guidance there?
+
+I think our gross margins pretty much, as we've noted to everyone, that as Artilium came on with IDM unit, which is a messaging unit, it brought more usage into the equation for gross margins and that's what really was the prime contributor from our reduction of gross margins from roughly 70%, 71% into the 63%. But we're very happy with 63%, I want you to know.
+
+Now as iPass comes on, iPass also brings additional usage. So, we're expecting those gross margins to dip maybe lower into the 60s, not much lower than the high-50s, and we see pathways through cost reductions and efficiencies to increase those. But we think that the margins will stabilize in the [ph] 50% (00:32:05), high-50s to low-60s. Denis, would you like to add to that?
+
+Hal, I think you nailed it. The projection for the year as we outlined in November with the inclusion of iPass was for the high-50s. And, as Hal mentioned, working hard to improve that. Surely, the usage factor is again how much and with IDM and iPass driving that decrease from where we [ph] had that (00:32:33).
+
+Yeah. It makes sense And then, I guess, you said we have Bart on the line. I guess, Bart has been here now for a little over a quarter. So I'm curious, Bart, if you have any comments on kind of what you're seeing in terms of benefits of the combination between Artilium and Pareteum. And in particular, as you go after kind of prospects and customers, what kind of value are you seeing by having a combined platform now?
+
+Bart? [ph]
+
+If you want to make sure it's off mute (00:33:17), Bart.
+
+Mike, I'm sorry. Apparently, Bart has been disconnected. I apologize. Without putting words into his mouth, I'm going to ask Vic who has spent the Mobile World Congress with Bart to answer that please.
+
+Yeah. Thanks, Mike. Thanks, Hal. We've seen just tremendous cross-sell and up-sell opportunities. So, Artilium had a strong focus on the retail frontend enterprise model. And as you know, we had all of the back office as well. So the cross-sell and up-sell of adding messaging and adding the enterprise frontend into our CSP market and then the reverse of that, adding our CSP and core mobile assets in, we're seeing opportunities coming at us, whereas last year, we had to pick up the phone and dial. We're seeing a lot of inbound.
+
+Great. And I guess just one last one...
+
+Sorry, I just [ph] got dropped out there (00:34:30) but..
+
+Bart, you're back.
+
+I would be able to [ph] answer that one more thing (00:34:33) if you like.
+
+Yes, please.
+
+Just to say that what we've seen is that with the combination of the products and the actual ability to deliver globally is actually a big plus that we see is paying off and is actually accelerating our ability to sell in a much larger geographic area than we had before. So we're really excited about the [ph] combination (00:35:04) [indiscernible]
+
+(00:35:07)
+
+Thanks a lot. Good luck with this year.
+
+Mike, thank you. Much appreciated.
+
+Thank you. We'll now take our next question from George Sutton from Craig-Hallum. Please go ahead. Your line is open.
+
+Thank you, guys. You're going to hit that rare screen for people screening for 250% or better revenue growth. So, congratulations.
+
+Thank you.
+
+I wanted to address the distribution capacity as it stands today. Obviously, you're signing a dramatic amount of new business with relatively few people, and I want to see how much that's expanded with the acquisitions and with additional hiring.
+
+Okay. So, I'm going to turn to Vic, and within Vic's organization, obviously, Rob Mumby, who runs our key core communications service provider piece; and then we have Christine Braelow, who runs the enterprise piece; and certainly, we also have Rob who joins in running the IoT and the Smart City spaces. So, Vic, you want to talk a little bit about your organization, your head count, as well as your customer advisory team that has been put together?
+
+Sure. So, we've separated our business into three segments; Enterprise, IoT, which includes the development community, the Smart City opportunities, and the traditional CSPs, which include MVNOs and what we call MVNEs, enablers. And so, we have dedicated groups – sales teams now for each of these segments, and it's important to note that this was a combination of legacy Artilium, IDM sales folks, legacy Pareteum sales team, and legacy iPass sales team. So, we've built a best-of-breed squad, and effectively doubled our sales head count. And we were doing pretty well with the tiger team, sales team that we had, but now, we're effectively doubled and we're geographically spread out much further than we were before. And we've also added a customer advocacy team, as we call it, which is an account management team sitting next to the sales team. And they're aiding when the sale is complete, looking for cross-sell, up-sell, and general customer satisfaction. So we've got the world generally covered at this point.
+
+We have some hiring plans. But we've also got a full global team focused in those three segments. And we're seeing opportunities. We've also implemented a Salesforce.com system, and that's really helping us to put [ph] fine (00:38:28) metrics across our sales opportunity.
+
+Vic, you might also mention the service delivery team that we've built around [indiscernible] (00:38:37) for global conversion of the backlog and how that's working, because it obviously goes hand in hand with the distribution capability and ability to recognize revenue.
+
+Sure. Along the pathway to revenue, we have – I mentioned the account management team which takes over post-sale and really looks for cross-sell, up-sell, customer satisfaction. But before that happens, early on in the sales process, before the sale is even complete, we have a global service delivery team that gets involved and is really responsible for deploying the backlog. And that team's been built up again across from the legacy teams and we really created a global partnership between sales, service delivery and customer advocacy for each customer that comes into our pipeline.
+
+That's super. One more question. Obviously, the ability to convert the backlog to revenues is very key. You mentioned 75 additional developers. Can you give us perspective on the challenge that you have in terms of getting that backlog to revenue, and are these enough developers or are you planning to continue to grow that part of the team?
+
+George, I'm going to give a high-level comment and then turn to Bart on that. In the macro view, we are finding some of our sales are requiring some development to make the software do what the customer expected it to do. So, that's like a change request. So, there's some fair amount of that.
+
+There are also some elements of the customers and their commercial distribution, which are impacting how quickly they have ramped. On balance, we've been above 100% in aggregate, although we were 97% on revenue for the fourth quarter. But let me turn to Bart who manages that function for us globally, and I can tell you we have team huddles daily at every level focused on one thing, collecting revenue, getting the customers, contracts accepted and [ph] in (00:41:04) billing. So, Bart, please, you want to further comment?
+
+Yes. Thank you. I think you phrased it correctly. Maybe one more thing to add there is one of the items where we obviously have a dependency as well is when we do
+
+connect to local networks in different countries in the world, where timing is a bit dependent on the actual access network that we're connecting to. But overall, I would say is, what we have been doing in the last couple of months is really pulling all of that together and making sure we have a smooth team and process that can address these projects in an efficient manner and in a way that we can actually make sure that we do proper implementations and use that same structure going forward as well. So, we're confident that we can get implementations running as we grow as a company.
+
+Okay.
+
+And George, the 75 developers are certainly adequate for what we need. And as Denis mentioned, we would have had to have gone out and recruited and hired developers and there would have been training and orientation time. And one of the beauties of the iPass acquisition is these developers were already doing this effectively for the SmartConnect software and the iPass software. So, there is virtually zero ramping time.
+
+So, we'll clear out these change requests, get the little bit of a hurdle I would say in the backlog conversions now and this is probably about another four to six weeks to unleash a few. And then, it's business as usual. So, we think we're well covered on the technical side.
+
+Great job, guys. Thank you.
+
+Thank you, George.
+
+Thank you. We'll now take our next question. Our next question comes from Eric Martinuzzi from Lake Street. Please go ahead. Your line is open.
+
+Thanks. A couple of backward-looking questions first, and then a couple of forward. As we look at Q4 that – I'm interested to know what is the Artilium contribution for Q4. Did you – were you able to track that? And then, I've calculated the 2018 pro forma kind of Pareteum plus Artilium at $50.4 million, and I wanted to know if my math was correct.
+
+Denis, you want to drive that one, please?
+
+Sure, Hal. From a top line perspective, Artilium was $5 million. From an EBITDA perspective, roughly $300,000, Eric, and there's a breakout, I believe, that you can see in the financial statements that – when they'll be issued coming here shortly. I'm not positive, [ph] Ted (00:44:18), if we put that in the press release or not, but it certainly, there'll be a breakout in the 10-K.
+
+All right. And then, the second part of that question on the backward-looking, could you repeat one more time?
+
+Yeah. I saw the 8-K filed this afternoon. I think, based on the 8-K filing for the pro forma, that we come up with about $50.4 million on a pro forma combined, Pareteum legacy plus Artilium legacy. I just wanted to know if that sounds right to you.
+
+That does, right. And then, I would also point out, but just – but on a – [ph] on a (00:44:53) quarter annualized, $56 million, north of $56 million on revenue, but that's correct.
+
+Okay. And now, to the forward-looking side, I'm just curious to know, you guys have obviously made a couple of pretty substantial investments here with the Artilium acquisition as well as the iPass acquisition. Have you seen anything amongst your competitors, and I'm talking about the legacy MVNE competitors, so ASPIDER, Effortel, Plintron, Teleena, any reaction amongst your legacy competitors to do something similar to what you've done with your two recent platform-broadening moves?
+
+Yeah. They're selling themselves to bigger players. So, Teleena of course acquired by Teleglobe, Transatel acquired by NTT, ASPIDER acquired by KORE Wireless. So, we see our competitors taking their platform and technology to bigger players with broader platforms and broader distribution and global networks. And that is exactly what we're creating and hope to be a magnet for some of these other players. Denis, you want to add to that?
+
+Yeah. I would also add that, I think the movement that we've started in the last year for our competitors to be focusing more on virtualization. I would say that KORE with the acquisition of ASPIDER is [indiscernible] (00:46:28) the most. But certainly consolidation in the space and a changing dynamic on how the services are provided is the theme and we do believe that we've got many competitive advantages, but one is that we certainly made the leap to do that much sooner than our competitors had.
+
+Okay. And then lastly, you gave a metric in the press release that talked about your revenue mix in Q4 between the software defined comm platform, the MSP and then the Super API. Where do you expect that mix to be, not for the full year 2019, but by Q4 of 2019?
+
+Vic, have you looked at that with Rob Mumby in terms of the revenue breakout? I know it's going to be above 50% on the cloud platform?
+
+Yeah. We've certainly begun tracking it and we see it's hard to out – let's say outstrip the CSP business because obviously it's so big as it is today. But we see IoT really taking a big – a big leap forward. Now, clearly, there's more volume in terms of wireless connections there but the connections are at a slightly lower price because of the nature of that market. So, I would see between IoT and enterprise then becoming very close to the size of the CSP. But I think the CSP will be generally over 50%.
+
+Eric, there is a new slide in our deck which has been uploaded to the website which deals with the addressable market and the product breakout. Patricia, would you like to comment on that to Eric's question?
+
+Yeah, certainly. Sorry, Hal. Yes. The addressable market, we've done a lot of work to take a look at the three segments. And what you'll see is that we've broken it out by enterprise where we're looking at the unified communication as a service market. We've looked at the CSP market, both from an MVNO as well as an MNO perspective and then finally, the IoT space. And I guess the net-net of what you'll take away when you take a look at the slide is that we are in a wonderful space as it relates to a business that's in a hyper-growth area because the market is rich, and the market is growing from a CAGR perspective, and we feel very confident with our go-to market offerings that we can address that market across all three segments and take our fair market share.
+
+Understand. And congratulations on your position at Pareteum.
+
+Thank you so very much. I'm enjoying it.
+
+And we're glad to have her. She knows what she's doing. Eric, anything else?
+
+No. That covers it. Thanks.
+
+Thank you. Much appreciated. Ted?
+
+Thank you. We'll now take our next question from Allen Klee from Maxim Group. Please go ahead. Your line is open.
+
+Yes. Good evening. You've had a slide in your presentations where it takes the contracted revenue backlog and kind of shows how it'll go over the next – likely roll out over the next three years. Are you able to kind of give a stab of how you would think about that based on where it is at these levels?
+
+Denis maintains our 36-month contractual revenue backlog spreadsheets and analysis, so I'll turn to him for more detail on that. Denis?
+
+Yeah, with the – thanks, Hal. With the addition of iPass, the 2019 number will be roughly in the $150 million range. And as we look at our guidance relative to that, we've got very good comfort in our ability to close roughly 80% of that. So, I would say 75% to 80% of that within this year. I guess Hal alluded to it just a moment ago when he talked about some of the risks in terms of getting contracts off the ground and Bart also layered on there. So things that can certainly cause delays and/or after implementation things can cause delays in terms of subscriber ramp.
+
+So as we look at both of those risk factors as well as certain revenue recognition risk factors we have comfort in that 75% to 80% range. As we roll out into 2020 and 2021, on the $800 million number, I don't have the exact figures, but we see roughly 55% growth from 2020 over 2021 and then another 40% growth on 2021 – sorry, yeah, 2021 over 2020. And I would just close by saying that as we look at that growth and the continued sales that we expect over the year, as well as the presumption that we've said many times that our contracts generally have about 15% of revenue in the first year and 30% of revenue in the second year and 55% in the third year, we expect to again push the 2021 number to that same 55% growth by the end of this year that you're seeing on 2020 over 2019 in that model – in the backlog model.
+
+Is there a reason to think that in like the second year or the third year, your conversion rates could be higher than 75% to 80% because you've had time to prepare for it?
+
+Denis.
+
+I think – yeah. I think in general the risks remain in terms of implementation risks and subscriber ramps. Often ask this question, Allen, and from a subscriber ramp perspective, certainly there's nothing dearer to a one of our customers and their subscriber base. And if you look at some examples of that in the U.S., when Verizon migrated to 4G, it took nearly four years for them to roll out 100% of devices to their 4G network. This is – in some ways it's similar migration to new technology, and our customers take their time.
+
+So, I think both from an implementation perspective, as you find, you get into the implementations, and as Hal mentioned, customers look for a feature that they didn't quite delineate as a requirement in the sales process and we work hard to make sure that we're delivering exactly what the customer wants. And then again that subscriber ramp, I think we see those risks remain. Certainly, we will get better as a company at deploying. More that we do, the better we get. But I think, as a general rule, I wouldn't suspect that – that we would feel a lot better than that at the beginning of any period.
+
+Okay.
+
+Allen I would just...
+
+Thank you.
+
+... add to that, that we've been – Allen, I just want to add one thing to what Denis said. We've been very fortunate so far, we've had virtually no bad debt associated with the customers in that 36-month contractual revenue backlog. But that certainly, by the law of large numbers, is going to change. There's going to be some. We haven't had anybody go out of business yet. Somebody will. We haven't had any competitive takeaways. That's certainly possible. Now, we work hard to fight against that, and so far, we've been right at 100%, but we also recognize that these are real challenges as we go forward. But we're doing our very best to stay at or above 100% on the conversion.
+
+Thank you. My last question is a clarification on your comment of that you believe you could exceed the projections that were in the fairness opinion related to the acquisition. Can you just clarify what years you were referring to that you believe that you could outperform?
+
+This year. 2019.
+
+For 2000 – okay. Okay. Thank you very much.
+
+Yeah. You're welcome. Ted?
+
+Thank you. [Operator Instructions] We have time for one more question. This question comes from John Nobile from Taglich Brothers. Please go ahead. Your line is open.
+
+Hi. Good afternoon and thanks for taking my questions. Some of my questions have already been answered. But I just like to know the new credit facility – $50 million credit facility is said to enable mergers and acquisitions. Do you currently have any prospects on your radar screen that you could talk about?
+
+So the credit facility was used primarily to paydown and payoff the existing iPass debt and give us better – certainly better terms. It also gives us cash on the balance sheet for what we consider to be some potential smaller tuck-in acquisitions that bring either particular IP to the portfolio or service to the portfolio which will help us on the mobility side. And while we don't have anything that is certainly imminent like tomorrow, we continue to look and that facility gives us the ability to act on that with the greatest respect for our equity. In other words, using a little bit of debt here and there to augment some of our capabilities, and that's really what it's for.
+
+Okay. So sometime to basically digest the Artilium and Pareteum – excuse me – iPass, so we're looking at obviously much smaller acquisitions than those two, correct?
+
+Absolutely. These are – again, I used the term tuck-in and these are very small acquisitions relative to everything we've done so far and relative to the size of the company now, and in terms of how we are evaluating and looking, but it brings product technique and capabilities that we need. So, again, it's always in our mind. We like to take the viewpoint that we what we build ourselves, we sell. What we use, we buy. And everything we look at is on a buy-versus-build analysis. So, that's what that credit facility is there to give us imminent flexibility to quickly act should we need to.
+
+Oh, thank you for that clarification. I just have one further question. Just in trying to get a better understanding, could you provide some examples of the cross-selling opportunities that are presented with the acquisition of iPass?
+
+Yes, absolutely. I'd like to turn to Rob Mumby for that please. Rob?
+
+Yeah. Hi. Thank you. Well, there are a number of opportunities that we have that are cross selling. And now that we've formally closed the acquisition of iPass, it's only added a lot more interest with some of our traditional CSP customers to incorporate iPass' Wi-Fi and additional technologies into what their offering is. And that in some cases, and in one particular instance, we have a customer that's an MVNO, and they from a board standpoint has [ph] effectively (00:59:42) mandated that they'd like a Wi-Fi roaming capability as part of the service they provide to the end users. So, we're seeing this all over the globe, and feel that there are fantastic synergies between both our legacy platform at Pareteum and Wi-Fi's – or iPass' Wi-Fi offering.
+
+Thank you.
+
+That makes sense?
+
+Yes. Yes. No, I just wanted to get some specifics on that. Thank you for that.
+
+Yeah. Sure.
+
+Thank you, John.
+
+Just an additional note. Yeah, we came off Mobile World Congress, and there were lot of very intertwined conversations that went on in over 100 meetings we had there. So, it's a very busy show for us and a lot of opportunity on all fronts. So, thank you.
+
+And, Rob, if I'm not mistaken, you and [ph] Christine (01:00:39) will be at the Enterprise Connect show next week?
+
+That's right, yeah. A big show for enterprise and look forward to talking – excuse me, to a lot of the iPass enterprise customers and prospects not only about Wi-Fi but the additional MVNO enablement, messaging capabilities that the legacy Pareteum site has to offer.
+
+John, thank you.
+
+Thank you.
+
+You're welcome. Ted?
+
+This concludes today's question-and-answer session. Mr. Hal Turner, I'd like to turn the conference back to you for any additional or closing remarks.
+
+Okay. Thank you. We appreciate everybody being here today. As we close, I just want to reaffirm our mission is to connect every person and everything and it never stops. Now with Artilium and iPass in, Pareteum is one team. We possess the products, customers love it; services, customers love it. We possess robust and growing markets and we've got a team of people that are energized, passionate and committed to our company's success.
+
+I describe this as a BFN strategy, a big fat network. It's our BHAG. It's our Big Hairy Audacious Goal. We expect to dominate the field in our markets. It will be seen in our view that the way as – it will be seen that way as the availability and the cost of network access becomes something that gives us a massive strategic advantage through our cloud platform and how it's globally connected. Pareteum envisions our world every day. We imagine what it will be and we're delivering it now every day. This helps us create our happy customers and here's how we do it. First and foremost, our customers trust Pareteum. Our solutions and platform create a competitive advantage for our customers. We are doing what we say we will do and we're doing it when we say we will do it every time. We let the record speak for itself. Results do count for us and we're constantly pursuing creation of a term I use a lot, happy customers. We do it through thoughtfulness; contemplation; doing the right things for people and customers; kindness toward our customers, their employees and our teammates; and we deliver experiences, not things. We're in the constant creation of positive surroundings and we're seeking solutions. We have goals for our customers and they for us. We share and look forward to our results as do they. We all stay in our lanes doing what we're best at individually and we're following our playbooks in a highly disciplined manner.
+
+So, ladies and gentlemen, thank you all for listening to us today. We look forward to updating you on our Q1. And also late in May, you'll be getting notifications. We're going to have our first Analyst, Media, Investor and Customer Day in New York which will be the first of a number of cities we visit this year. So, thank you all very much. Bye-bye.
+
+Ladies and gentlemen, this concludes today's call. Thank you for your participation. You may now disconnect.

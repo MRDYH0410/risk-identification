@@ -1,0 +1,233 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+Michael Kandell — Chief Financial Officer, Wireless Telecom Group, Inc.
+Timothy Whelan — Chief Executive Officer & Director, Wireless Telecom Group, Inc.
+Aman Gulani — Analyst, B. Riley Securities, Inc.
+Orin Zvi Hirschman — Analyst, AIGH Investment Partners LLC
+
+Management Discussion Section
+
+Question And Answer Section
+
+Good morning, ladies and gentlemen, and welcome to the Wireless Telecom Group Third Quarter Earnings Call. At this time, all participants have been placed on a listen-only mode, and we will open the floor for your questions and comments after the presentation.
+
+It is now my pleasure to turn the floor over to your host, Mike Kandell. Sir, the floor is yours.
+
+Thank you, operator. Good morning, everyone, and thank you for joining us on today's conference call to discuss Wireless Telecom Group's third quarter 2021 financial results. With me today is Tim Whelan, the company's CEO.
+
+Before we begin, I would like to remind everyone on the call that our remarks today could include forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. In some cases, such forward-looking statements may be identified by terms such as believe, expect, seek, may, will, intend, project, anticipate, plan, estimate or similar words, as well as statements that do not relate strictly to historical or current facts. The company's forward-looking statements are based on management's current expectations and assumptions regarding the company's business and performance, the economy and other future conditions and forecasts of future events, circumstances and results.
+
+Forward-looking statements are not guarantees of future performance and involve a number of risks and uncertainties that could materially affect actual results. Important factors that could cause the company's actual results to differ materially from those in its forward-looking statements include those Risk Factors set forth in the company's 2020 Annual Report on Form 10-K as supplemented and revised by the risks and uncertainties set forth in the company's subsequent reports filed with the SEC. The company does not undertake any obligation to update or revise any forward-looking information to reflect changes in assumptions, the occurrence of unanticipated events or otherwise.
+
+Also, we want to point out that in addition to GAAP information, we will provide information relating to certain non-GAAP measures. We believe that presenting these non-GAAP or adjusted measures provides additional meaningful information to investors which reflect how management views the business. Detailed reconciliations of GAAP measures to non-GAAP measures are set forth in a reconciliation table in our press release issued earlier today and furnished with the Form 8-K filed today with the SEC.
+
+With that, it's now my pleasure to turn the call over to Tim Whelan.
+
+Thank you, Mike, and good morning, everyone. We're very pleased with our third quarter results and the continued sequential revenue growth through the first nine months of 2021. We are encouraged by improving market conditions, but more importantly, pleased with continued performance of our organic growth initiatives and the success of our recent acquisitions.
+
+There are four highlights I want to cover on our results before Mike goes through the quarter in more detail. First, consolidated revenue increased both sequentially as well as year-over-year. This improvement included sequential and year-over-year increases in both RF components and test and measurement, and it included year-over-year improvements to our RBS business. So, we are seeing signs not just related to market conditions, but more important to underlying themes of growth and investment in 5G deployment, semiconductor ATE environments, defense sector spend and network densification.
+
+I am particularly proud of our third quarter sales performance as we continue to successfully navigate the current disrupted state of supply chain challenges. Second, we realized our sixth straight quarter of gross margins above 50%. This is a critical goal we have accomplished as part of our long-term strategy reflecting what we believe to be is a sustained growth in higher-margin products and revenues. Third, we have made a significant debt prepayment representing almost half of our outstanding term loan based upon the strength of our free cash flow and ability to control costs and spending. We have noted to you previously our focus on managing our cash flow and our debt balance, and this is evident of our success, which is also expected to decrease our future interest expense and contribute to improved cash flow. And last, we recorded another strong quarter of bookings at $12.8 million and a 1:1 book-to-bill ratio, maintaining a backlog of $12.7 million and our highest backlog in over four years.
+
+Turning to additional highlights across our three product groups. In RF components, our revenues returned to $5 million plus in the quarter. This reflects improvements across large projects such as stadiums and amusement parks, increased orders from our distribution partners, and higher orders for our ultra-wide band products. We have previously discussed that our ultra-wide band products are aligned to spectrum rollout as part of broadband network densification. Our expectation is that these increases will be sustained, and we will see quarterly bookings and revenues return to these levels for the foreseeable future.
+
+In test and measurement, we realized an almost 20% increase in nine-month revenues as compared to the first nine months of last year. This reflects continued increased demand from defense contractors, semiconductor companies, and satellite providers as well as the overperformance of our Holzworth acquisition.
+
+In the third quarter of 2021, we also experienced higher international order flow, as well as increased delivery of instruments under our US Navy contracts. Holzworth continues to perform exceptionally well, and we continue to remain excited about their new multichannel RF synthesis products and the interest they are generating in the semiconductor automated test equipment or ATE markets, as well as the continued expansion of our Boonton USB RF power sensors.
+
+We expect to continue investments in our T&M brands, as well as working on driving closer operational and go-to-market synergies across the various brands. Overall, we believe our investments and extended focus on new products and solutions designed into larger, more complex devices is expanding our addressable markets and paying dividends with increased bookings and revenues.
+
+Within our radio, baseband, and software business, we are very pleased that revenue has increased by 130% or $3.7 million for the nine months ending September compared to the same period last year. The increase included a return of demand for our digital signal processing hardware cards, as well as revenue increases from the delivery of software and services.
+
+Our success signing new software customers continued in Q3, including a win of a new customer for specialized 5G small cell solution deployment. Our funnel remained strong for a variety of 5G technology development projects, including private network deployments, 5G research projects, and ruggedized small cell projects. As we think about the future for our RBS solutions, we believe 2022 will continue to demonstrate improved demand for our software and services. We expect this will be driven by increased 5G private network and specialized small cell trials and pilots, which will then move to higher levels of adoption and volume deployments in 2023.
+
+To summarize, we realized continued sequential improvements to the business in our third quarter with increased revenues, improved profitability and increased free cash flow. We were exceptionally pleased to complete our pre-payment of almost half of our term debt as evidenced of the improving conditions and improving expectations for the future. Our record high backlog gives us confidence about our future and continued growth in the business.
+
+With that, I'm going to turn the call back over to Mike to walk us through the financials.
+
+Thank you, Tim. Good morning again, everyone. I'm going to walk through the results for the third quarter of 2021 and then comment on our balance sheet as of September 30, 2021. All P&L comparisons are on a year-over-year basis, and balance sheet comments are September 30, 2021, compared to year-end December 31, 2020, unless otherwise noted.
+
+Consolidated revenues for the third quarter 2021 increased $1.9 million, or 18% from the prior-year period. RF components revenues increased $1 million, or 23%, due to increased carrier spending, specifically on large projects. We are starting to see improving market conditions in this product group. RBS revenue increased $792,000 or 121% on higher sales of our digital signal processing cards, and T&M revenue increased $134,000 or 2% due primarily to higher international sales as compared to the prior year.
+
+Consolidated gross profit increased $886,000 on higher revenues. Consolidated gross profit margin declined marginally due to product mix. At our RBS product group, we had a higher mix of lower margin hardware and service sales as compared to higher margin software sales in the prior-year period.
+
+At our T&M product group, our margin declined slightly after accounting for a $258,000 purchase accounting adjustment in the prior year due to product mix at our legacy T&M brands. This was offset by higher gross profit margin at RF components due to higher volumes and higher absorption of fixed manufacturing and overhead costs.
+
+Turning to operating expenses. Consolidated R&D expenses decreased $391,000 or 21% from the prior year because of lower third-party material and consulting expenses, the majority of which was in connection with our T&M product group. We expect to continue third-party investments in research and development dependent upon project deadlines, new product development opportunities and longer term product roadmap dependencies, which in turn may create increases and decreases to research and development expenses as a percentage of revenue.
+
+Consolidated sales and marketing expenses increased 7% due primarily to higher internal commissions, marketing expenses and head count expenses. Consolidated general and administrative expenses increased $357,000 or 15% from the prior year due primarily to higher head count and legal expenses.
+
+Additionally within operating expenses, we recorded a loss on change in contingent consideration of $1 million in the third quarter. This represents our estimate of the year-two earn-out related to the Holzworth acquisition. The year-two earn-out is based on the financial results for the fiscal year ended 2021 and is payable in four equal installments beginning in March of 2022. Holzworth's full-year 2021 forecasted financial results have exceeded our initial estimates and, accordingly, we recorded this charge through the P&L as the measurement period for purchase accounting or opening balance sheet accounting has closed. The year-two earn out is the final earn-out payment due under the Holzworth stock purchase agreement.
+
+Other income/expense increased $63,000 from the prior year due primarily to higher foreign exchange gains. Interest expense increased $109,000 from the prior year, due primarily to the $74,000 premium we paid related to our third quarter debt prepayment, as well as a higher interest rate in our term loan as compared to the prior year.
+
+Net loss decreased $588,000 due to increased sales and gross profit in the current year and the recognition of a tax benefit offset by the recognition of the loss on contingent consideration and higher interest expense. Non-GAAP adjusted EBITDA was $1.1 million as compared to $722,000 in the prior-year period, due primarily to higher operating income.
+
+Turning to the balance sheet, as Tim mentioned, we made a $3.7 million prepayment on our term loan in September, which represented approximately 47% of our outstanding term loan balance. Additionally, in connection with the prepayment, we amended our term loan agreement and lowered our interest rate by 500 basis points and amended certain financial covenants. As of September 30, our net debt was $3.2 million as compared to $5.4 million as of December 31, and our availability under our Bank of America asset-based revolver was $5.1 million.
+
+I'll now turn the call back over to Tim for some closing remarks.
+
+Thank you, Mike. Our third quarter and nine-month results continued to reflect sequential, as well as year-over-year improvements to revenues, profitability, cash flow, bookings and backlog. We executed on our commitment to manage our business, our balance sheet and debt levels. We accomplished the forgiveness of our PPP loan. We executed on a portion of our ATM transaction, which supported our ability to prepay almost half of our term debt. We have won new customers in each of our three product groups, and we have launched new products and solutions to market across our brands, and our backlog is at an all-time high. We feel good about the full-year 2021 and the next couple of years ahead.
+
+With respect to the fourth quarter, we expect to see another quarter of higher revenues, both sequentially and year-over-year. However, we are keeping a close eye on global disruptions caused by the pandemic, including global supply chain shortages, the supply chain issues covering not just component shortages but also shipping and logistics challenges. We are also keeping a close eye on the labor market, especially for roles requiring technical expertise. And these challenges make near-term predictions of quarterly results a bit more difficult.
+
+We are making strategic investments across our businesses while simultaneously building our teams. We believe these investments are essential to support the strong demand underway as reflected in our robust bookings and record backlog.
+
+In addition, we must be mindful of the long-term health of the business and ensure our ability to address the expected long-term investment cycle into semiconductor manufacturing, 5G private networks, and satellite and defense spending. With less than two months remaining in 2021, I am encouraged by our performance and the direction we are headed. I am also excited by the opportunities we have to grow our business in 2022 and beyond.
+
+Last, I want to use this opportunity to thank our global team members for their hard work and dedication. Thank you and, operator, if you could please open the lines for questions.
+
+Certainly. Ladies and gentlemen, the floor is now open for questions. [Operator Instructions] Your first question is coming from Aman Gulani from B. Riley Securities. Your line is live.
+
+Hey, guys. Thanks for taking my question and congrats on the quarter. Nice to see revenue continuing its momentum here. I wanted to ask about small cell deployment. You mentioned that those deployments have been improving. What are you seeing out there in terms of trends and what sort of visibilities do you have into small cell deployment schedules?
+
+Yeah. Good morning, Aman. Thank you for joining us. So I think the industry at large had an expectation for higher volumes of small cell deployment and – within 2021, primarily in the back half of 2021. We're seeing some of that, but we're also seeing the carriers address more of the macro build out of the spectrum that they've acquired in the first quarter.
+
+So we still think that the small cell build-out is largely in front of us and not quite at the levels that were expected coming in to 2021. It's just one key point. Within the RBS business, we are certainly seeing a higher level of interest in various technologies that take the small cells and specialize them for unique private networks. And that's where we've seen a good deal of our wins across multiple verticals. So we're encouraged that the year is characterized by technology development and trials and we think that the larger scale production is later in 2022 or even 2023.
+
+Got it, that's helpful. And then I believe AT&T and Verizon noted a one-month delay in deployment of some of their mid-band spectrum. Are you seeing maybe some projects getting pushed out because of that delay?
+
+Yeah, we've seen some of the same reports. I guess, number one, the carriers always seem to slow down a bit in December just as a cyclical point. We see December being a slower month in the year as they really start to plan for the projects in the following year. Number two, the delay of December to January tells me it's not a big pause. And so as we look at our funnel, our funnel has not been negatively impacted. We're still seeing some large projects. Transportation hubs, hotels and entertainment centers and other large venues remain fairly robust in our funnel for the first half of 2022. So it's on the watch list. We're keeping an eye on it. But right now, I can't say we've been impacted by it.
+
+That's good to know. Okay. And then I guess turning to the RBS segment, how should we think about the pace of signing [ph] new (00:19:18) customers for your 5G software solution? I mean, it [ph] tells me (00:19:22) you've already secured five customers this year so far. So how should we think about some of those products growing as 5G investment starts to ramp, I mean, in the back half of this year, last couple of months, and also go headed into next year?
+
+Yeah. No, we're highly encouraged by it. We're seeing a continued pacing of signing new customers. This is our sixth quarter of signing at least one multiple quarters. We signed two customers. These contracts are typically longer term in nature in the sense that they take one or multiple quarters, in most instances multiple quarters, to deploy, get accepted and get recognized.
+
+So we've seen 130% improvement nine months over nine months in the revenues, and we've seen closer to 400-plus improvement to the backlog in the RBS as we compare it against September of last year, so highly encouraged. And again, we're sort of seeing this period now of technology trials in development, and we think that will ramp more in the future later in 2022 or more in 2023 in terms of volume, production and deployment.
+
+Got it. That's helpful. And then last question from me about the T&M segment. Good to see the momentum there. Can you talk about any specific end markets that might be supporting the growth here, or would you say it's largely broad-based?
+
+Yeah. No, I think across – number one, certainly in the semiconductor automated test environment, ATE environment, we're seeing some good demand there, number one. Number two, satellite applications would be a second and maybe to a lesser extent some quantum computing.
+
+Got it. Thank you, gentlemen. I'll pass it on.
+
+Great. Thank you.
+
+Thank you. Your next question is coming from Orin Hirschman from AIGH Investments. Your line is live.
+
+Hi gentlemen. How are you?
+
+Good morning, Orin. Thank you for joining us. [indiscernible]
+
+(00:21:44) another customer this quarter and some of these longer-term contracts, what are the metrics that we could look at in terms of understanding better when those ramps happen? And you mentioned 2023, are there any metrics that give you that confidence that we could see and share with you? Question number one.
+
+And question number two on that same point is I guess how do we gain any conviction that those products – that those contracts actually lead to production as opposed to where things can get cancelled at the last minute? And then I have one or two follow-ups.
+
+Yeah. So, I mentioned the – this is early technology deployment. And so, as a result, there are other providers to these solutions. We're just not the only vendor in the mix. I think the metrics as we work through this over the next year, what will become more predictable are the milestones of deployment and the acceptance.
+
+Right now, the delivery of technology has to be accepted. Those timelines are subject to a number of trials by our customers. And so, the timing of acceptance is a little bit more difficult and we have to work with them, they're large customers, they're large enterprises that are very demanding. And that's how we're going to win new business by ensuring that we work with them. We're patient and we ensure that the products that they're putting our technology in are functioning as expected.
+
+So, as 2022 unfolds, I think we'll get a better idea of how a funnel – I'm sorry, well, how both the funnel and the backlog within RBS is playing out, be getting delivered and getting accepted, and we'll be in a position to provide better metrics of backlog delivery at that time.
+
+But are there any new projects in these mega projects, are there any projects that have actually gone into deployment yet, the commercial deployment? Are they still all experimental class, trial volumes? I'm still not following how you get a better grip on the picture.
+
+Yeah. I'm having a little bit of a hard time hearing you, Orin, but I think you're asking about volume delivery.
+
+Yeah. Sorry. I'm sorry. Yeah. Any – sorry about that. Any commercial – any of them go commercial yet to where you actually have visibility into any of the contracts on a commercial basis, or it's still just sample deliveries you'll trial, et cetera?
+
+No, I think the most recent press release we've issued, our partnership with SmartSky Networks, they're certainly launching that to market. That was a – that has been a long standing relationship. We've worked with them more than two years with SmartSky Networks, and early on there was an agreement of a press release but only at such time that they were pleased with the performance and putting that up [indiscernible] (00:24:52) that one right there is the – probably one of the best examples of technology and full production going forward.
+
+So let's say let's take that as an example or the first example. Any ideas, what kind of business that's going to provide to you? Meaning, is it a $1 million a year business, potentially, $5 million a year business, somewhere in between?
+
+Yeah, they've provided no forecast to us. I think the commercial aviation market, there's a lot of metrics there. I think the closest competition to SmartSky is Goggo Networks (sic) [Goggo Network] (00:25:29), and I think there's a lot of metrics there. But of course, SmartSky has not provided us with any kind of forward forecast and so we're staying close. We're being good customer. We continue to support them on a quarterly basis that generates some smaller-sized support services for us, but we're not yet at the point where we're predicting any kind of production or deployment. And we're going to be careful to work with them to do that.
+
+A number of other small cell – specialized small cell sales that we've had or technology to those providing specialized small cells have given us a limited understanding of deployment from thousands to hundreds of thousands. But again, they're going through trials and testing. And before they get to the point of large scale production, they need signoff by their customers. So there's still a lot of work ahead of us, and it's still difficult to predict.
+
+In terms of, let's say, thousands to beyond that, what in general the AFP is like on this type of subsystem?
+
+It depends upon the full contract in the sense of what they paid for the upfront license fee versus what they're willing to pay on a per-unit royalty or license. So again, each of the contracts are slightly different, and they have different volumes. So, it's hard to give you an ASP that would be accurate for the business.
+
+And last two questions, if I may. One is you mentioned quantum computing being actually built into quantum computers, keeping in mind there aren't a lot of them shipping yet. Can you flesh out that category a little bit more? And is it one customer? Is it more than one customer?
+
+So it's multiple customers. It's less than seven figures. It's within T&M. It's primarily the Holzworth product. We're encouraged primarily because of the competitive nature of the performance and the fact that our performance has won out over much larger companies and providers. So, it's within the company, it's a good win, it's a big win, it's winning at amounts higher than what we expected, and wining with companies that are some of the largest Fortune 100 companies in the world.
+
+So, we're encouraged by it. I think that defines our business. Single customers that are multiple six figures, potentially seven figures within that T&M space. Those kinds of wins can really create some growth opportunity as we think about the T&M business units.
+
+And is it specifically because of the higher performance in terms of being able to read very high frequencies? What is this specifically geared at?
+
+Thanks. Correct. [ph] This caused (00:28:37) phase noise coherency and it's the ability to use those measurements in connection with the entirety of that system and application.
+
+Which means the ability to actually read, let's say, qubit or something?
+
+That's correct. And the stability of the qubits is what's critical to the quantum computing application.
+
+Okay. My last question is just – yeah, the book-to-bill was a nice dollar number, but it was one-to-one. And you seemed excited about it and one-to-one doesn't seem necessarily exciting to invest in. So, what is it that we're missing here?
+
+I think it's very positive. I think our business can be – can still at times be lumpy. So, every quarter, we can put up one-to-one positive, one-to-one means we continue to both grow our revenues. So, keep in mind that our revenues increased both sequentially and year-over-year. And we've managed to book the same amount of business, keeping our backlog high. So, as we think about that, that's a good result. We're positive in the quarter. We're positive nine months. And we keep doing that, we'll keep growing the business and creating a larger backlog for the future.
+
+Okay. So, essentially what you're saying is, the lumpiness that – the part that I'm not factoring in, in terms of the backlog?
+
+That's right. Not every four quarters of a single calendar year may be a one-to-one because it'll be either a lumpy delivery of a – and a spike of perhaps a larger revenue delivery or the signature of a contract that then creates a significantly higher one-to-one. So, year-to-date, we're at 1.11. So again, I look at that and I say, okay, that's a good job. And as we go forward, we're going to try and make sure we hit that mark.
+
+Yeah. Just to follow up on that and then I'll let other people ask. I Appreciate the time. So, let's say, taking that in a broader sense, taking the additional time where it's – as opposed to looking at one quarter in time which I get what you're saying because the business is lumpy. But looking, let's say, at a rolling nine month, wouldn't that backlog imply just that the company is at a 10% style grower or 12% or 11% style grower? What are we supposed to take away from that?
+
+Well, keep in mind that we've said in the past that there are some significant contract wins where the total contract value is not recognized in the backlog. That's probably the missing piece, Orin.
+
+Okay.
+
+So while there's one particular contract that I have in mind, we have negotiated the terms around a multi-seven figure opportunity, and the first PO was only a couple of hundred thousand dollars and it's dependent upon milestone delivery. And so we feel that we've done everything we need to win that business. Now we need to execute on those engineering delivery milestones. And as long as we do that, additional bookings will come to us. So, that's a lot easier proposition than just getting a $200,000 PO and having to go out and win another contract and place it under the full negotiation. So, I think that's probably the piece that creates some excitement internally, but it's not yet reflected in the bookings and backlog.
+
+Got it. Which area was that, out of curiosity...
+
+That is in...
+
+...as an example?
+
+That's within RBS.
+
+Okay. Okay. Thanks so much. Be well.
+
+Thank you.
+
+Your next question is coming from [ph] Nick Repostello from NR Management (00:32:24). Your line is live.
+
+Good morning. I was just wondering where you stand on issuing more stock through the ATM? Thank you so much.
+
+So, our S-3 has expired and we did not renew it. It expired on September 17. We don't have any short-term plans to renew the S-3, although I wouldn't rule that out in the longer term. But in the short term, we're not updating the S-3 at this time.
+
+Okay. Thank you.
+
+Thank you, [ph] Nick (00:33:01).
+
+Thank you. Your next question is coming from [ph] Robert Marcin from Pennant Capital (00:33:07). Your line is live.
+
+Hey, guys. Congratulations on a solid quarter.
+
+Good morning, [ph] Robert (00:33:14). Thanks.
+
+It seems like things might be finally moving in the right direction with regard to consistent growth. As you look out at a preliminary 40,000-foot view of 2022, which businesses do you see being able to achieve your targeted growth of 10% revenue growth for the calendar year? Is there – are all three of them positioned to do that or is there one horse that needs to carry the entire business next year? We still do have a double-digit revenue growth target if I remember, correct?
+
+Yes. So, we feel good about all three businesses, [ph] Robert (00:34:02), just to answer that question. I don't think there's going to be any leader or lagger. I think we have the opportunity to grow all three. I think the best metric when we look at that is the expectation that, again, to leverage off what I've said to Orin, we've got a much higher backlog today than we've had previously. We feel good about that. And so, if we can execute next year and deliver that additional backlog to revenue and continue to book new business, I think we'll go into the year with a pretty good handle on how we think about growth next year just from the growth in the backlog. So, I think that's a great starting point.
+
+All right. Well, if we finish this year close to 50%, let's just assume 55% to 60% should be the target for next year. How does that sound?
+
+It's great. Thank you, [ph] Robert (00:35:01). Appreciate that.
+
+All right. Are you resource-constrained in any businesses right now from ability to deliver or ship hardware or software product from the supply chain issues and other problems people are having?
+
+Yeah, we're certainly feeling it, yeah, absolutely. There's three challenges there, which I think we touched upon. Number one, there's just the component shortages. So, you first have to secure a commitment for delivery, number one. Number two, you have to find a reasonable price. And when I say that, there are certain vendors that have increased their pricing throughout the year. There are others that have actually increased their pricing on orders already placed. So one, you have to secure an obligation that they'll deliver you material. You have – two, you have to do it at a price that's reasonable. And then three, you have to keep an eye on that throughout the entire cycle because of the shipping and logistics challenges.
+
+So, we've had dates confirmed to us multiple times, multiple times, and nine times in a row on a weekly check and it's confirmed then on the 10th week, it's pushed out. So, that is absolutely a challenge. And I do think we would otherwise have had additional opportunity as we think about Q4 being just run out of runway at one point. So, with December delivery of components pushed to January, pushed that fiscal year.
+
+Two, the competition for talent has never been greater. It's always been significant. But we're seeing recruiting times extend. We're seeing expectations for salaries increase. And so, I think that's sort of a second level of tension that we keep an eye on the business.
+
+Okay. Are you raising prices? Because I don't think I've been on a conference call this season where my companies have not had to raise prices to preserve profitability. I haven't heard anything about price increases from you [ph] and any (00:37:15) at all.
+
+We've been consistent in two of the three business units in terms of price increases, and we still see pricing power primarily within test and measurement and RBS. The dynamics in RF components are slightly different and that our strategy there is to use manufacturing and supply chain excellence to keep prices in check and drive increasing margin through volumes.
+
+And so, if we can do that while keeping a check on the price for our customers, we think that's the winning solution. That's a very competitive space. And raising prices may work against us. So, we're going to use a supply chain manufacturing excellence to trying and driving volume to drive our margins higher on dollars in that segment. But otherwise, yes, we're seeing pricing power in test and measurement and RBS.
+
+Have any of the new products in RF components taken off in the last year or two? I know you funneled a fair amount of R&D into that trying to create some pricing power with extra features.
+
+Yeah, we've seen some good traction on the integrated solutions that we call the MCC and the DCC, which we issued some press releases on. We like the direction of the SMART Coupler, which is a public safety play, and it's the ability to monitor solutions and buildings. So, we're happy about those and we're seeing a return of run rate. We're seeing distributors start to stock a little bit more. So, good signs as we think about the future and that's evident within the Q3 revenues for our RF components.
+
+All right. Thank you very much.
+
+Thank you, [ph] Robert (00:39:03).
+
+Thank you. [Operator Instructions] Thank you. There are no further questions in the queue. I will now hand the conference back to Timothy Whelan for closing remarks. Please go ahead.
+
+Thank you so much. Thank you, everyone, for joining us today. We look forward to finishing the year strong and speaking with you again soon. All the best. We'll talk soon. Thank you.
+
+Thank you. Ladies and gentlemen, this concludes today's event. You may disconnect at this time and have a wonderful day. Thank you for your participation.

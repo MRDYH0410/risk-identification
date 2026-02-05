@@ -1,0 +1,193 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+David E. Brant — Senior Vice President & Chief Financial Officer, Airspan Networks Holdings, Inc.
+Eric D. Stonestrom — President, Chief Executive Officer & Director, Airspan Networks Holdings, Inc.
+George C. Notter — Analyst, Jefferies LLC
+Pierre C. Ferragu — Global Team Head, New Street Research LLP (US)
+Chris Howe — Analyst, Barrington Research Associates, Inc.
+Franco Granda — Analyst, D. A. Davidson & Co.
+
+Management Discussion Section
+
+Question And Answer Section
+
+Greetings and welcome to the Airspan Networks Holdings Third Quarter Earnings Conference Call. At this time, all participants are on a listen-only mode. A question-and-answer session will follow the formal presentation. [Operator Instructions] As a reminder, this conference is being recorded. It is now my pleasure to introduce your host, David Brant, Airspan's Chief Financial Officer. Thank you, sir. Please go ahead.
+
+Thank you very much. The following discussion will include forward-looking statements. Comments that are not a statement of fact, including projections or future financial results or other items are considered forward-looking and involve risks and uncertainties. The risks and uncertainties that could cause our actual financial and operating results to differ significantly from our forward-looking statements are detailed in our SEC filings available on our investor website at ir.airspan.com.
+
+We encourage you to review our earnings release, which is available on our website. On this call, we will discuss certain non-GAAP financial measures. For the identification of non-GAAP financial measures, the most directly comparable financial measure, and a reconciliation between the two, see our earnings release and when filed, our Form 10-Q.
+
+I will now turn the call over to Airspan's CEO, Eric Stonestrom.
+
+Thank you, David. Good morning, and thank you for joining us for Airspan's third quarter earnings call. Before we begin, I'd like to extend a warm welcome to our new shareholders joining us today. I would also like to thank the analysts on the call for following the progress in our business. And finally, a word of appreciation to our employees and partners. The last 18 months have challenged us in ways we had not previously imagined possible. With offices in 11 countries, our ability to execute our growth strategies required both intense commitment to top-tier quality in our products and a high degree of team communication, both of which were tested by the challenges of the pandemic. We are fortunate that our employees around the world remain healthy. Thank you to all of you whose hard work is allowing us to thrive during this difficult period.
+
+Today's call is our first quarterly earnings call since our August 16th listing on the NYSE American Exchange under the ticker M – I- M – O – MIMO. My plan for the call is to take you through the enormous opportunity we see in front of us and explain what makes Airspan unique and our ability to monetize these prospects. Then, our CFO, David Brant, will take you through a number of exciting developments in the third quarter with a closer look at our financial results in addition to the highlights of our recent capital raise. And finally, David and I will take your questions.
+
+Please turn to chart 5 in our presentation. Airspan was founded in 1998 to bring real innovation to connecting people to telecom networks. Since then, we have been on a relatively consistent trajectory. In short, we build the wireless technology that connects users to the cloud. We are a US-based provider of groundbreaking disruptive software and hardware for 5G networks and a pioneer in end-to-end Open RAN solutions. Airspan's products are focused on end to end radio access networks or RANs, as they're known in the industry, including virtualization, base stations, backhaul and network optimization solutions. These products address the approximately $30 billion annual 5G and 4G LTE RAN market, critical components of the approximately $200 billion spent on 5G infrastructure buildouts each year. We are fortunate to have a number of well-known respected operators and thought leaders as our customers and suppliers, and many of them have become investors as well. Having the world's leading 5G chipset provider in the industry in Qualcomm and the world's preeminent hardware manufacturer in Foxconn as financial partners allows us to fight above our weight. They are joined by a number of financial and operating partners that round out a strategic financing base we are proud to have.
+
+Technical innovation is a core part of our story, with hundreds of patents granted or pending due to the groundbreaking work of our nearly 500 R&D and engineering employees around the world in the US, the UK, Israel, Turkey and India. While cutting edge, our products have already succeeded at scale in the field. We have shipped 1 million radios to 1,000 customers in over 100 countries. Today, our technologies are key components of some of the largest and most innovative networks in the world.
+
+Please turn to slide 6. A key attribute of Airspan's success has been our industry-leading deployments, many of which have been recognized and awarded by a number of our industry organizations. We are particularly proud of our network deployment in India for Reliance Jio, serving over 400 million customers, as well as our deployment of Rakuten's network in Japan, which is the first fully virtualized 4G and 5G network based on Open RAN. Our history of groundbreaking innovation also includes working with Sprint, now T-Mobile and SoftBank on a highly scalable network deployment model as well. Reliance and SoftBank went on to become investors in Airspan, a testament to the capabilities of our product set and the ease of integration in both existing and greenfield networks.
+
+Please turn to slide 7. Airspan is also proud to supply many of the top telecom service providers around the world. Whether by interacting with a global carrier, private network or public sector customer, we continue to see excitement from our impressive customer base around our solutions. As we've grown, we've moved beyond the solely direct sales model, adopting a market channel strategy to accelerate and expand the go-to-market with both channels and many OEM deals. We are encouraged by the OEM partners we have in place and are excited to share more in the coming quarters on this front. We have a track record of providing quality solutions to Tier 1 mobile network operators around the world, including Rakuten, Reliance Jio, SoftBank and Sprint, now T-Mobile.
+
+However, our growth potential is not only in our existing addressable customers such as the traditional incumbent wireless carriers, but also in challengers to the industry such as cable companies. Additionally, the private network opportunity is exploding. We have seen successes there already, providing the radio access equipment for Gogo's innovative air-to-ground business and developing cutting-edge technology for connected car applications, including McLaren's F1 racing team and NASCAR partner SMT.
+
+Please turn to slide 8. The demand for connectivity has grown exponentially in recent years, a trend accelerated by the global pandemic. End users today expect reliable high speed access to data and applications in all settings from virtual work to the office and from entertainment to gaming. This voracious data appetite has driven the need for upgraded 5G infrastructure. As incumbent, challenger and novel use cases are built out, we are in the middle of the largest CapEx telecom cycle in decades and an unprecedented broadening of the potential customer base for Airspan to pursue. This shift in technology to accommodate faster speeds means a lot more cells and a lot more software, and that requires more processing power at the edge of the network, exactly the area where we excel.
+
+In addition to more customers, 5G networks require an order of magnitude greater volume of software licenses and services, and RAN radios. Those attributes line up perfectly with our domain expertise and product set, which is part of what gives us great confidence of the opportunities ahead for Airspan. To give a sense of scale, over the last few years, global 5G subscribers increased from 15 million to 400 million. By 2025, that number is expected to reach 3.4 billion, making this a very deep market. Given this profile and additional accelerators which we will discuss in a moment, I often refer to this as the 5G tsunami.
+
+Please turn to slide 9. It's not only the fact that CapEx is exploding from network transformation as we move from 4G to 5G; it is also the way in which this is happening that is so important to Airspan. The maps you see represented deployment we did for Sprint, now T-Mobile, in Long Island, New York. The 50 or so large macro towers on the left took about 15 years to permit and build. As this network was densified, we installed more than 20,000 cells in nine months, propelling the operator from fourth position to first position. The results were tangible and powerful for our customer.
+
+To put these changes in context, there are approximately 120,000 towers up in the US, serving mostly 4G networks. We estimate in the move to 5G that number will exceed 1 million cells in the US alone. So between carrier and private use cases, you have exponential growth in number of 5G networks, but also given the characteristics of 5G radios, you have enormous growth in the number of radios per network. These dynamics are what give us tremendous confidence in our opportunity going forward and have already paid meaningful dividends in our work with our existing large customers.
+
+Please turn to slide 10. Now let's talk about our key markets. Today, Airspan operates in the three markets using wireless infrastructure, software and hardware namely: global carrier markets, private networks and fixed wireless access applications. While we've touched on global carriers, we see explosive growth in the other two segments as well. Our fixed wireless access business Mimosa, purchased in 2018, has doubled revenues since we acquired it and we expect to double it again over the next few years.
+
+Regarding private networks, we generally sell here through enterprise partners. The customer demand here is large from some of the most prominent companies in the world, and this segment didn't exist prior to the latest technologies. The use cases in this segment are endless: power and communications for the IoT, the Internet of Things; the factory and warehouse floor; stadiums, corporate and university campuses; air-to-ground communications and connected cars. One private network build out we are particularly excited about is with air-to-ground communications provider, Gogo. We supply the radio hardware and software for what we believe will be the largest private network in the world so far, covering the entire US. Stay tuned for more progress on that partnership.
+
+Please turn to slide 11. While the industry secular tailwinds for 5G are driving the largest CapEx cycle in decades, Western governments and the politicization of 5G have acted as strong accelerators of the adoption and growth of these technologies. These accelerators include direct funding to bridge the digital divide, geopolitical tailwinds from Western governments dismissal of Huawei equipment in their networks, and resulting push for supply chain diversity away from the large legacy infrastructure providers. Wireless networks have become national priorities in solving the digital divide, particularly in rural domestic areas and underserved urban districts.
+
+In the United States, $15 billion of previously funded initiatives are just first being bid and allocated, while the recently passed Infrastructure Bill provides an additional $65 billion for broadband deployment nationwide. Being positioned as the only US-based fully integrated radio access company, gives us a meaningful advantage in our ability to compete successfully for these projects. And these government initiatives are not limited to the United States alone. We expect billions of dollars of programs, some already underway in Germany and in the United Kingdom as an example, with more to come around the world.
+
+Please turn to slide 12. In addition to our technological advantages and equipment integrations that take minutes instead of months, we also sit in a unique position in our industry given the competitive landscape. On the incumbent side, legacy vendors continue to push a large, slow to change, centralized network, meaning all network hardware and software is proprietary. As far as niche players, they generally suffer from one drawback or another, whether difficulty with reliability, lack of integrated hardware and software offerings, or lack of experience in large scale rollouts.
+
+In addition, we bring a distributed software-driven approach to a traditionally capital intensive network equipment industry. We can see that this is being adopted by several MNOs, for instance, DISH announced a partnership with Amazon, meaning the full Open RAN software is going to run in the cloud. This substitutes lower OpEx for traditionally large CapEx. So we'll see a lot of innovation with this architecture.
+
+Please turn to slide 13. Our end-to-end RAN solution means a one-stop shop to buy a fully integrated 5G network or parts of it to integrate with other vendors. This end-to-end experience gives us a global systems view, having the hardware and software skill to obtain the highest performance and extrapolating this when integrating with other vendors like in the case of Rakuten. Our solutions are based on open standards which simplifies the management and monitoring of these products. This can be done with our tools or with third-party applications. We provide a 5G RAN network that offers peace of mind to our customers by designing a secure and resilient solution, easy to install, to integrate and to manage. Airspan 5G RAN networks update seamlessly to the latest software releases to keep supporting groundbreaking applications and use cases for our highly demanding customers.
+
+Please turn to slide 14. As we look out into the next few years, we translate the TAM in the tens of billions of dollars into a project funnel of $3 billion across customer types. These are customer segments we're currently engaged with and where we have a solid plan to rollout our products.
+
+As we transition into the financials, this is a great point to turn it over to David Brant, Airspan's CFO.
+
+Thanks, Eric. Please turn to slide 16. 2021 has been an exciting year of product innovation and revenue growth for Airspan. In addition, on August 13, Airspan completed its business combination with New Beginnings Acquisition Corp. The business combination and the concurrent private equity and debt capital raise produced $115.5 million in net cash proceeds.
+
+Year-to-date we have had revenue of $127 million, up 39% over 2020. Products and software licenses revenue in that period was up 76%. We have strong gross margins year-to-date of 45%, up dramatically from 2018's 32% as we broadened our customer type and continued to add more software content in our product mix. Gross profit for 2021 through September 30 was $57 million, up 22% over the prior year. We have continued to diversify our customer mix both in size and geography.
+
+Turning to slide 17, we saw revenue this quarter of $38.9 million, up 8% from $36 million in the same period last year. Products and software licenses revenue, which exclude the legacy maintenance contract which expired earlier this year was $32.4 million, up 29% from last year's third quarter. We are encouraged by strong revenue from existing customers and expanding revenue in fixed wireless access after a record second quarter. Each of our largest customers placed a new purchase order in the quarter, in addition to exciting orders on behalf of a tower company and our first purchase order from a second domestic cable company. We also received a purchase order from a major technology company for equipment to power connectivity on over 20 of their corporate campuses.
+
+Gross profit of $17.1 million was essentially flat to last year's $17.3 million. Third quarter net loss was $27 million compared to a net loss of $9.9 million for the third quarter of 2020. Adjusted EBITDA was a loss of $10.4 million compared to a loss of $6 million in the year-ago period. Gross margin was 44%, down from 48.1% in last year's third quarter, with the majority of the variance due to supply chain pressures. These effects centered primarily around higher spot purchase prices for hardware components and expedited shipping expenses. While we have begun to pass some of these expenses on through price increases, we expect the increased cost impact of components to continue into 2022.
+
+While the products growth is strong, supply chain challenges led to the delay of approximately $20 million of shipments in the third quarter to one of our largest customers alone. We are working hard in a number of ways to mitigate supply chain challenges in finding alternative components, looking critically at our designs and working closely with our partners, Foxconn and Qualcomm. However, we expect such supply chain challenges to continue into 2022.
+
+Please turn to slide 18, and I'll take you through the outlook for our business. While encouraged by our near-term business prospects, we are cognizant of the supply chain environment. Balancing these factors, we expect Q4 2021 revenue of $54 million at a 44% gross margin. Looking out to next year, we anticipate top line growth in a range of 20% to 25%, accelerating through the year to a fourth quarter 2022 annual run rate in the range of $270 million to $300 million. We expect an increase in gross margin to 47% for the full year 2022 and continue to target a long-term gross margin of over 50%.
+
+With that, Eric and I will open it up to your questions. Operator, please prompt for questions.
+
+Thank you. Ladies and gentlemen, the floor is now open for questions. [Operator Instructions] Our first question is coming from George Notter of Jefferies. Please go ahead.
+
+Hi, guys. Thanks very much. I guess, lots of questions here. I guess, maybe I'll just start by trying to better understand the supply chain impacts that you guys are seeing. I think you said you had $20 million in shipments you couldn't make in the quarter to just one customer. Can you give us the total impact on revenue for the quarter, and then maybe give us a sense for how that impacted gross margins also?
+
+And then, I was curious about the supply chain impact that you expect in Q4. And also, do you expect the supply chain impact continuing to 2022, and how much might that be in terms of revenue and margin impact? So, any more flavors you can give us on that would be great.
+
+Okay. Hi, George. Eric. I'll start and David can fill in some as well. So yes, we had significant challenges in the third quarter. Chipset decommits that came in along the way and that pushed some of the deliveries from third quarter into 4Q. It was a bigger number than $20 million that was delayed. And in fact, some of that won't go out until 2022. We had component issues with the bigger partners like Intel and Qualcomm.
+
+We also have a series of folks like Skyworks that had shortages in wafers coming out of Taiwan Semiconductor, and we're managing this by – as we said in the script, engineering alternative parts to the extent we can, buying parts on the spot market and also looking for simplistic designs that are used in multiple places as opposed to more bespoke products that have less overall worldwide volume. We see in the fourth quarter at least $40 million of product we had intended to ship this year that will slip out into next year, so it's a continuing issue.
+
+Again, we're fortunate to have robust demand and that's allowing us to continue to see our growth as exciting as it is. What it does mean for 2022, of course, is a more moderate outlook. Really the conversion factor throughout the year is what we're concerned about. If parts are coming in with a seven or eight or nine month lead time that used to come in with a 12 or 16 week lead time, that requires a lot more thinking in terms of our build plan for the year. So we're being conservative there.
+
+David, you might want to add some specifics on what it [indiscernible] (24:48) on the gross margin line.
+
+Yes. Thank you, Eric. Thanks for the question, George. So we mentioned in Q3 that we estimated the impact of approximately 3% or 3 percentage points of margin that were impacted. And I think we see the same in Q4 and modeling out into the beginning of 2022. So, I hope that it eases as we get into Q2 and onwards, but we're being cautious in how we see the impact. And it is increased components that we are competing with other people and there the gray market has a significant increase in the prices and also shipping costs and lead times are extending. So, that's what we're seeing at the moment.
+
+Got it. Okay. That's helpful. And can you give us some sense for the demand side of things. I mean, any metrics you can share in terms of year-on-year order growth or backlog? Anything that kind of give us clues and that would be great.
+
+Yeah. Just speaking generally, the demand side is strong and the number of additional customers we're adding is robust. We aren't going in much more detail on that at the moment, but it's definitely heartening to be getting the number of new significant customer faces in our universe. And we're seeing the markets in the three sectors that we talked about, each showing robust demand. We did get orders from all four of our leading customers in the third quarter. So there's been no change of strategy or demand or direction and that's a very good thing.
+
+Got it. Okay. And then, I think you mentioned this on the call, you talked about the cable MSO opportunity. I guess, I was just interested in hearing more. It sounds like you had a new customer that came in with orders. Any more you can say about that? I know that there was a large customer that was doing a trial in a significant sort of metro area and looking at potentially a broader rollout, is that customer opportunity still in the works for you guys, or can you tell us about [indiscernible] (27:15)
+
+Yeah. Yeah. We're very excited about the challengers and that opportunity is very much in the works. We're just concluding testing phases there it's on schedule. And so that will be an interesting part of our first part of next year with the potential to turn into a significant CapEx spend. So absolutely no, it was as exciting as ever and I think the challenger case is as compelling as ever vis-à-vis the MVNO options that they are also presented with. And then, we're excited we've added a second potential customer is there. And so, we see this as robust as ever and I think our products are very unique in this area.
+
+Okay. All right, I'll pass it on. Thanks very much, guys.
+
+Thanks, George.
+
+Thanks, George.
+
+Thank you. Our next question is coming from Pierre Ferragu of New Street Research. Please go ahead.
+
+Hey, David. Hey, Eric. Thanks for taking my question.
+
+Hey, Pierre.
+
+Well – so yeah, well, I'm trying to – what I'd like to try to do and maybe it's a bit of a strategy is kind of understand, versus what you communicated in June for the next like four, five quarters. Understand in the difference in terms of revenue trajectory, what could be clearly allocated to supply constraints and which of the other driver we should take into account in terms of projects being delayed or significant rollouts been playing out at a lower scale than you were initially anticipating or anything like that.
+
+So first of all, to get the baseline right, so if I understand well, you guys had like a $20 million shortfall this quarter, it's mostly supply constraints. Then you're kind of like $40 million below where you thought you would be for next quarter and for the overall next year, you were at $120 million below and with a clear trajectory of things catching up towards the back end of that year. So question one is, is that the right way think about it? And question two, how much of that is really the terrible supply constraint that on which [indiscernible] (29:41) and any other driver of this like revision we should be aware of?
+
+Yeah. Hi. [indiscernible]
+
+(29:51)
+
+Go ahead, David.
+
+No, I was thinking – thanks for the question, Pierre. I mean, the one of the challenges that we have been looking – in looking out is the lead times have extended to such an extent that that our 12 week lead times are turning into 8 month lead times and we're bringing the components in as fast as we can and expediting those, but that has an impact on what we can do for orders and how we can drive it. So I think, very much supply chain driven is how we're thinking of 2022.
+
+Yeah. And I would just like to add, we've seen no slowdown in demand and interest. So the challenges in execution, that's what we're very focused on. And I think that as David said, this problem will begin to alleviate in the second half of the year. We are being very conservative for the first half of next year, recognizing the landscape of silicon and associated component, decommits, commits, pull-ins, spending that extra money for extra parts in a prudent way and that's why we have a less bullish expectation for the first couple of quarters of the year.
+
+Great. Thanks a lot.
+
+Thank you. Our next question is coming from Chris Howe of Barrington Research. Please go ahead.
+
+Good morning, Eric. Good morning, David.
+
+Hey, Chris.
+
+Hi. Hey. Another question I suppose on the supply chain, but then I'll get to questions that I would more like to ask. You talked about the impact in the quarter of $20 million from the large customer, greater than that amount if we look at the totality of the supply chain in the quarter. Do you have a number of what that was year-to-date on supply chain related issues and other logistical challenges?
+
+I would say that, well, if it's 20-plus million dollars, it's not over $30 million, we put about $20 million. It really started biting in the third quarter where we found decommits where – de-commits of a single component would stop the build. So, it was third quarter that I think was the biggest driver there, Chris.
+
+Yeah. But on 4Q, we have about $40 million in hand that we could deliver, that we won't be able to deliver. Again, more component decommits, some success pulling in, stuff we have – we fight every day on this. But on balance, it's about $40 million in the fourth quarter as well.
+
+Okay. The total year-to-date number, do you have that?
+
+We have spread it out that way because some of the 3Q slips into 4Q, but it's reasonable to think it's a number in excess of$40 million.
+
+Okay. Okay. And then I wanted to ask a question on slide 13. We've seen this slide before. As we think about these challenging issues in the environment, can you talk about the software end of the business and how you see that evolution over the next 12 months and perhaps as we accelerate into the latter half or into the fourth quarter of the next calendar year, this starts to offset some of the supply chain challenges and could lead to further gross margin potential as we get beyond the 50% marker?
+
+Yeah, we're doing really well on software, we have introduced them and we did a press release on the IoDT interconnect that we succeeded on with Qualcomm, which enables our software CU and DU to drive the CBRS handsets that are now proliferating in the US and that's a big accomplishment in two aspects of our product line. It's in the products that are all in one such as the strand-mount product that we make, enabling some of these challengers to roll out CBRS now using a very good architecture and pay us for the software.
+
+I should add that. It's a distinct revenue stream for us and then also in our virtualization efforts. We're doing a lot on virtualization. We're doing a lot of bids now and also transactions where we are licensing and selling our CU, DU software, or sometimes powering third-party hardware. And so this is a very new growth area for us, a lot of partnerships with OEMs that we've announced and mentioned and more to come and this is really bringing this set of solutions into the private 5G side.
+
+In addition, a very strong set of specialty applications and software such as we do with air-to-ground, where we actually modify the air interface, we put a lot of our intellectual property into controlling moving objects, very useful, obviously in air-to-ground, potentially very useful in connected car, connecting the Metaverse. So we got a really strong portfolio there now that will start to make significant contributions in 2022.
+
+That's great. And my last question here, just surrounding the initial guidance for fiscal year 2022 calling for 20% to 25% revenue growth in that range that you mentioned. Can you provide some additional color as to the composition of that growth and how that growth is today from where it was perhaps three to six months ago, and what you're seeing underneath that guidance?
+
+Yes. So the growth we've seen – as I've said, we're cautious of the first half of the year and we see it going up to the $270 million, $300 million annualized in Q4. The mix, I see, is being continued growth of fixed wireless access products. There will be more 5G in private networks. And I think that they will become bigger percentages of that revenue as opposed to our incumbent carrier revenues.
+
+Yeah. That said, we're also going to see substantial increase in the challenger sector. So cable networks and the private networks, such as air-to-ground, a substantial increase in revenue with orders already in hand.
+
+Okay. Thank you for taking my questions.
+
+Thank you, Chris. [Operator Instructions]
+
+Our next question is coming from Franco Granda of D.A. Davidson. Please go ahead.
+
+Yeah. Good morning, everyone. Thank you for taking my questions. So, I wanted to touch back on the fixed wireless opportunity. You talked about how revenues on Mimosa have doubled since you acquired it and you're looking to double that again. Can you perhaps talk about what that looks like over time, perhaps which of the new products you've introduced recently should be some of those big drivers or is it something that you still will need to close the gap on technology wise to accomplish that?
+
+Yeah. It's a really good question, and we are so excited about our portfolio and what we've done with the Mimosa product line. We've introduced recently and announced publicly a gigabit plus solution. We estimate we're at least a year ahead of any competitor bringing product, even the dominant names in the space. And there's a tremendous buzz among the user community about this. We're continuing to grow distribution. When we acquired the business, it was basically anchored by several larger distributors.
+
+We've now added three to four times as many distributors in the mix and that's not just crowding out existing markets by opening too many franchises; that's distributors focused on different verticals, different geographies and that's been an exciting journey. We've planted a lot of seeds this year that I think will really come through, through additional sales, especially with the new product that we have out there because everybody wants to get their hands on that.
+
+The second thing that's exciting is, we've added a senior executive, Amit Ancikovsky, who's focused on this business exclusively, and he brings a wealth of commercial experience and we've been able to bring more large potential buyers into the mix. We have over 70,000 units of this product of the current generation deployed with Reliance Jio in India, and that number is increasing very nicely. We also have a new product architecture that adds additional capabilities that I think will even supercharge that, potentially merging cellular offload into the same universe.
+
+That makes it more attractive to Tier 1 carriers, the carriers that didn't historically buy unlicensed equipment that wouldn't typically buy from one of our competitors, the kind of household names because they just – they need a Tier 1 style product with IP67 environmentals, with software management that looks like what they use on their 3G FTE base billions of dollars of CapEx.
+
+So, we have a great start there. With one big carrier, we've got a good path to get several more into the mix. Everybody, whether they're a cellular carrier, a fixed carrier, a fiber provider, everybody needs more connectivity to endpoints and I think our portfolio just shines there. So, we are very excited on that. Obviously, the government stimulus is something that's got us very busy. The recently announced $65 billion has got us very, very focused on building a world-class team to go harvest that.
+
+We've hired head of government affairs and we've got a really concentrated effort there, as well as the money that was given to the state and local governments in the budget signed earlier this year by President Biden that's giving rise to certain states, states like Ohio, Kentucky and Iowa that actually are already soliciting bids for how to spend that money and that's a really exciting growth area for us, too.
+
+Remember, in those products, you don't have to own spectrum, so the key there is the market is as broad as we can make it, because anybody who needs to get connected, can use these tools. It opens up a variety of different types of customers in addition to the big carriers we have sold to historically, and we've got a great portfolio.
+
+That is all extremely helpful. And yes, it's all very exciting. And then there's obviously a lot of excitement around the new products such as you just mentioned, even with this gigabit solution on Mimosa. But have you seen perhaps a rise in interest for some of your older products given the supply constraint, given that they might be able to ship a little quicker or you might be able to get the components far easier?
+
+Yeah, we're seeing a tail on things like the LTE. We have a product, the AS1035 that we've booked over 25,000 units recently, which we hadn't anticipated, and that's a good solid 4G product in markets where 5G and handsets are not proliferating yet. In India, as an example, 5G licenses haven't been granted. They've been delayed. And the handset expectations on 5G in India are very, very modest given the higher cost of the 5G handsets, that's giving us a nice tail on 4G. We certainly see a lot of growth in 5G and a lot of commercial activity and innovation activity, but the nice thing is 4G is chugging along better than expected as well.
+
+And Franco, just on that – Franco, yeah, there's just – you asked about supply chain, I think it does cover – unfortunately, the supply chain challenges cover products 4G and 5G, to answer your other question.
+
+Thanks for that color.
+
+Thank you. At this time, I'd like to turn the floor back over to Mr. Stonestrom for closing comments.
+
+Okay. Please turn to slide 20. As we wrap up, we would reiterate the huge demand we're all witnessing for connectivity in every aspect of life. This is leading to a tremendous new appetite for data hungry applications like the Metaverse, which is further driving this 5G CapEx cycle. We feel we have the right product set and human capital to take full advantage of these tailwinds and look forward to updating you on our progress. One last note, we will be participating in fireside chats and one-on one-meetings at the New Street Research 5G: What Comes Next! Conference on Monday, November 15, and the Needham Virtual Tech Week event on Tuesday, November 16. We look forward with engaging to investors at both events. Thank you again for your interest and support.
+
+Ladies and gentlemen, this concludes today's event. You may disconnect your lines or log off the webcast at this time and enjoy the rest of your day.

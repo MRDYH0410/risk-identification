@@ -1,0 +1,255 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+Todd Kehrli — President, MKR Group, Inc.
+Joe Bergera — President, Chief Executive Officer & Director, Iteris, Inc.
+Douglas L. Groves — Chief Financial Officer & Senior Vice President, Iteris, Inc.
+Richard Magnusen — Analyst, B. Riley Securities, Inc.
+Michael Latimore — Analyst, Northland Securities, Inc.
+Joseph Osha — Analyst, JMP Securities LLC
+Michael Shlisky — Analyst, Colliers Securities LLC
+Matthew David Wegner — Analyst, Craig-Hallum Capital Group LLC
+
+Management Discussion Section
+
+Question And Answer Section
+
+Good day and welcome to the Iteris Fiscal Second Quarter 2021 Financial Results Conference Call. Today's conference is being recorded.
+
+At this time, I would like to turn the conference over to Mr. Todd Kehrli, MKR Group. Please go ahead, sir.
+
+Thank you, operator. Good afternoon, everyone and thank you for participating in today's conference call to discuss Iteris' financial results for fiscal 2021 second quarter ended September 30, 2020. Joining us today are Iteris' President and CEO, Mr. Joe Bergera and the company's CFO, Mr. Doug Groves. Following their remarks, we'll open the call for your questions from covering sell-side analysts. We will also answer select questions that investors submitted to the company in advance of the call per the instructions in our press release dated October 20, 2020.
+
+Before we continue, we'd like to remind all participants that during the course of this call we may make forward-looking statements regarding the future events or the future performance of the company. These statements are based on current information are subject to change and are not guarantees of future performance. Iteris is not undertaking any obligation to provide updates to these forward-looking statements in the future. Actual results may differ substantially from what is discussed today, and no one should assume that at a later date the company's comments from today will still be valid.
+
+Iteris refers you to the documents that the company files from time-to-time with the SEC, specifically the company's most recent forms 10-K, 10-Q and 8-K which contain and identify important risk factors that could cause the actual results to differ materially from those that are contained in any of the forward-looking statements. I'd like to remind everyone that you'll find a supplementary report of our second quarter financial metrics and the webcast replay of today's call on the Investor Relations section of the company's website at www.iteris.com.
+
+Now, I'd like to turn the call over to Iteris' President and CEO, Mr. Joe Bergera. Joe, please proceed.
+
+Great. Thanks Todd, and good afternoon everyone. I appreciate everybody joining us today. As you saw at the close of market, we issued a press release announcing the financial results for our fiscal second quarter ended September 30, 2020. Given the sale of our Agriculture and Weather Analytics segment to DTN, LLC on May 5, 2020, we are reporting the results of that segment as discontinued operations for all periods presented in today's earnings announcement. And as such, I'll be discussing only our continuing operations during the remainder of this call.
+
+Our software-enabled delivery model has proven highly resilient over the last several months. As a result, Iteris continues to experience strong demand for our smart mobility infrastructure management solutions despite COVID-19. In our second quarter, we reported $29.3 million in second quarter total revenue, representing a 10% increase compared to the same prior-year period. Additionally, we reported record second quarter total net bookings of $34.5 million, which is a 6% increase year-over-year. Similar to the company's total net bookings growth, our total ending backlog rose 8% on a sequential basis to reach a record $73.1 million.
+
+The combination of the company's continued growth and improved cost structure following the strategic actions we took in our first quarter drove a significant increase in net income and adjusted EBITDA even as we continue to invest in our ClearMobility Platform. Doug will discuss our profitability metrics in more detail in a few minutes. In the meantime, let me provide an overview of our second quarter sales performance by segment.
+
+Our Transportation Systems segment recognized $15 million in second quarter revenue, representing a 7% increase versus the same prior-year period. The segment's growth continued to reflect particularly strong performance in our Western region, with our Mid-Atlantic and Southeast regions experiencing some delays in backlog conversion as a few projects flipped to the right due to COVID-19. As an example, travel restrictions delayed some program activities that we would have normally completed under our contract to maintain the connected and automated vehicle reference architecture for the US Department of Transportation. Although we expect to recognize the majority of this delayed revenue in future quarters, the dynamic market conditions created by the COVID-19 pandemic remain unpredictable. Our Transportation Systems segment reported second quarter net bookings of $17.3 million even after we recorded some de-bookings due to COVID-19. This net bookings result reflects strong demand for all the segments lines of business and also the essential nature of our solution portfolio. About 45% of the segment's second quarter net bookings will be recognized in the future as annual recurring revenue.
+
+Recent notable customer agreements include a $4.1 million Task Order under the recently awarded $9.8 million IDIQ contract with the Federal Highway Administration to develop and maintain the nation's Architecture Reference for Cooperative Intelligent Transportation (sic) [Architecture Reference for Cooperative and Intelligent Transportation] (00:05:38), which is also known as ARC-IT for connected and automated vehicle development; A $3.6 million contract extension with the Virginia Department of Transportation for their continued delivery for advanced traveler information system, a $2.3 million contract extension to manage the network operation center for the Virginia Department of Transportation, a $1.5 million Task Order to continue to support the Signal Operations Center for the Virginia Department of Transportation's northern region; a $1 million contract extension with the Florida Department of Transportation District 7 for arterial quarter performance management across 8 quarters within the district; a $1 million contract with the City of Tampa for the design and implementation of an advanced traveler management system and two Task Orders with the South Carolina Department of Transportation for a combined value of $1 million to extend our ClearRoute and ClearGuide software deployments.
+
+Based on its solid net bookings, the Transportation Systems segment ended the quarter with a backlog of $61.9 million, which represents a 4% sequential increase and a 6% year-over-year increase.
+
+Now, moving to a Roadway Sensors segment, the Roadway Sensors segment reported record second quarter revenue of $14.3 million, which represents a 14% increase versus the same prior-year period. In addition to the strong revenue performance, the segment made tangible progress against other product and commercial objectives. For example, the segment expanded its geographic coverage into the US Pacific Islands through a new exclusive distribution agreement with Phoenix Pacific, the leading traffic equipment distributor in the region; secured seven-figure competitive contracts with Moreno Valley, California to provide advanced video and radar detection at every major intersection across the city. This is the segment's largest single order year-to-date.
+
+The segment continues to develop and monetize our Cisco relationship, receiving an approximate $0.5 million commitment for Cisco equipment from the municipal customer in California's Central Valley, and the segment continues to deliver against critical launch milestones for the planned near-term availability of next-generation solutions that we expect to contribute to both the segment's product and recurring revenue streams going forward.
+
+With that, I'll let Doug comment on our financial results, after which I will conclude my remarks.
+
+Thank you, Joe. Good afternoon, everyone. As a reminder, please see the Company's 10-Q filing, press release and supplemental financial metrics document, all of which are posted on our IR website for a further description of matters under discussion during the call today. As Joe noted, the results of the Agriculture and Weather Analytics segment are reported as discontinued operations on our SEC filings and today my comments will be focused only on our continuing operations.
+
+Consistent with the last few quarters' results, we've seen the performance of the business in Q2 continuing to improve with favorable year-over-year trends in certain key metrics including top line growth, increasing backlog and margin expansion. We're starting to see the benefits of the restructuring efforts we took in Q1 and we continue to diligently manage the cost basis of the company to help drive operating margin expansion.
+
+Now, I'll move to the details of the second quarter results. As Joe mentioned, total revenue for the fiscal 2021 second quarter increased 10% to $29.3 million, compared to $26.6 million in the same quarter a year ago. Our gross margins in the first (sic) [second] (00:09:23) quarter were 38.8% compared to 40.2% from the same quarter last year. The decreasing gross margin was driven by product mix in both reporting segments. Operating expenses in the first (sic) [second] (00:09:37) quarter were $10.6 million compared to $11.9 million in the same prior-year quarter. The decrease was driven primarily by a $1.4 million decrease in SG&A due to the timing of bid proposal activities in the Transportation Systems segment. We do expect to see an increase in this activity in our third quarter.
+
+As we mentioned on our first quarter earnings call, we are improving our profitability and expect this trend to continue. We reported GAAP operating income in the first quarter of $748,000 – excuse me, second quarter; compared with a GAAP operating loss of $1.2 million in the same quarter a year ago. The GAAP net income from continuing operations in the second quarter was $700,000 or $0.02 per share, compared with $1.1 million or $0.03 per share loss last year. Adjusted EBITDA for the second quarter increased $1.3 million to $2 million or 6.7% of revenue, which compares to $633,000 or 2.4% of revenue in the second quarter of last year.
+
+Now, let me turn into our segment results. Our Transportation Systems revenue for the second quarter was $15 million compared to $14 million in the prior-year quarter, an increase of 6.7%, and in-line with our expectations. Segment level operating income for the second quarter was $2.3 million, compared to $1.9 million from the prior-year quarter and related operating margins were 15.3% compared to 13.8% last year. The margin expansion was primarily driven by increased volume and a decrease in operating expenses in the segment.
+
+Our Roadway Sensors revenue for the second quarter was $14.2 million, compared to $12.6 million in the prior-year quarter or an increase of 13.8%. This was a record quarter for the segment as we continue to take market share from our competitors and leverage our broad portfolio of products. Segment level operating income was $3.1 million for the quarter compared to $2.2 million last year, and the related operating margins were 21.6% versus 17.7% last year. The improvement in margins was primarily driven by the increased volume.
+
+Corporate expenses in the quarter were $4.4 million compared to $5.1 million in the prior year. After adjusting for the acquisition cost of Albeck Gerken in the prior-year, corporate expenses were flat year-over-year.
+
+Turning to liquidity and capital resources, total cash and short-term investments were $37.8 million at the end of the second quarter. We spent $246,000 in capital expenditures and capitalized software costs in the quarter and we expect these expenditures to remain under 1% of revenue for the whole year, reflecting our asset-light business model.
+
+Operating cash flow from continuing operations was $2.4 million compared to $1.7 million in the prior-year quarter, and the increase reflects our improved profitability and continued focus on improving working capital. Absent any acquisitions, we do expect our cash position to continue to build going forward.
+
+In summary, we're glad to report another solid quarter of performance and we expect this trend to continue in Q3 taking into account the seasonality that typically impacts our third quarter results due to holidays and weather. With our continued focus on solid execution, we expect continued improvement in top and bottom line results.
+
+With that, I will turn the call back over to Joe. Joe?
+
+Great. Thank you, Doug. Although we expect the economic environment to remain volatile and uncertain for another two to four quarters, we remain really bullish about the long-term prospects for the smart mobility infrastructure management market. Indeed, vehicle electrification, mobility-as-a service, vehicle-to-infrastructure integration and connected and automated vehicles represents favorable secular trends which will continue to shift the allocation of transportation infrastructure budgets from traditional pick-and-shovel projects to advanced technology initiatives, and these same trends will foster new software-enabled service delivery models that will continue to change how transportation agencies at all levels of government to fulfill their missions. Iteris ClearMobility Platform is a key element of our strategy to capture these opportunities.
+
+To that end, we continue to align our solution portfolio to the ClearMobility Platform as well as execute against the ClearMobility cloud roadmap. For example, in Q2, we extended the use of our common API framework with the release of a new API for our ClearGuide product. The ClearGuide API will enable seamless interoperability between ClearGuide and our other software products, easy integration between ClearGuide and various third-party solutions which is central to our goal of creating a market-leading ecosystem and utilization of certain ClearGuide components by ClearMobility cloud.
+
+In Q3, a highly respected State Department of Transportation is scheduled to deploy the first release of our ClearMobility cloud which we believe will provide us a valuable reference site. Then in Q4, we plan to introduce new sensor capabilities that, among other things, will enrich our ClearMobility cloud datasets and we plan to introduce a new software-enabled managed service that will contribute to our recurring revenue going forward.
+
+From a commercial perspective, both our Transportation Systems and Roadway Sensors segments continue to see healthy demand for their solutions. However, our Transportation Systems sales pipeline in particular has a higher-than-normal concentration of large opportunities which will make this segment more susceptible to some lumpiness in the second-half, especially in light of some of the COVID-19 delays we experienced in our first-half.
+
+While we're bullish about the medium- to long-term prospects for our marketplace, we do remain cautious about the current level of uncertainty in which we operate. Therefore, we'll continue to provide financial commentary only one quarter at a time until the economic environment reestablishes some form of equilibrium.
+
+Accordingly, our guidance commentary today will focus on our third quarter. We entered the period with a record backlog and an active sales pipeline but our third quarter is normally impacted by winter weather and the holiday season, both of which limit the number of available days to recognize revenue. Furthermore, we anticipate that COVID-19 will continue to shift some projects to the right that has happened in our first-half. The net effect of these events is expected to yield mid single-digit revenue growth in the period.
+
+In terms of profitability, both net income and adjusted EBITDA will decline sequentially consistent with typical seasonality and expected revenue mix. However, we expect to see another significant year-over-year improvement in net income and adjusted EBITDA in the third quarter. In other words, we expect Iteris to continue to benefit from our software-enabled delivery model and our operational agility as we navigate a very challenging economic landscape.
+
+With that, we'd be delighted respond to your questions and comments. Operator, is there any questions for us? [Operator Instructions]
+
+Our first question comes from Jeff Van Sinderen with B. Riley.
+
+Hello, thank you for taking our call. This is Richard Magnusen for Jeff Van Sinderen. I believe you mentioned that 25% of your net bookings are systems were recurring revenue? And with that in mind, can you remind us what percent of revenue SaaS it currently represents and what you're target is for SaaS as a percent of revenue?
+
+And then, Doug, can you also give us any new thoughts you have about how you may approach your targets? How quickly you may reach these targets, knowing that you would expect [ph] SaaS to go (00:18:06) faster than overall revenue?
+
+Sure, Richard, this is Joe, I'll just kind of start off and I'm going to pass this over to Doug to kind of elaborate. But first I just want to make sure that I heard you correctly. I think you may have said that our – that 25% of the systems bookings were recurring in nature. And I wanted to just clarify in case I misheard, or in case I heard that correctly, I meant to say that 45% of the total bookings would be recognized as annual recurring revenue going forward. So, 45% rather than 25%.
+
+And then Doug, do you want to – would you mind commenting on Richard's additional questions regarding our current recurring revenue levels and our expectations going forward?
+
+Sure. Yeah. So, Richard, our current annual recurring revenue runs about 20% of our total revenue. And as we look forward, our goal is to get that a lot closer to 30%. Now, it's going to take a couple of years but you can see from last quarter and this quarter that not quite half of the Transportation Systems bookings were annual recurring revenue. So that's a good sign that we're continuing to see good deal flow there. But I think will take us a couple of years, but we're extremely focused on that for a lot of different reasons that we've talked about in the past to create just more scale in the business but also more predictability, and these revenues are particularly sticky with our customers which obviously we like.
+
+That's great. And my last question then. Yeah, it's been a while since the Albeck Gerken – I'm sorry, [indiscernible] (00:19:52). Sorry. You said that acquisition – and you've integrated it well but can you speak to any additional synergies that you see developing with AG?
+
+Doug, go ahead. Are you going to comment on that?
+
+Oh, I would just say the cost synergies have largely been wrung out, and there weren't a ton, it wasn't a big company, we integrated it pretty quickly in like less than six months. So what we're seeing now, though, is just further I'll say revenue opportunities, with a much larger footprint in that geography where they're headquartered. So I think that's where we're really focused is bringing all of the things to bear that Iteris can offer to that business. And we've successfully created a new region that we refer to as the Southeast that is run by Jeff Gerken, one of the former principals of Albeck Gerken.
+
+And, Richard, I just add to that, that we recently announced a near-miss analytics project with the Florida Department of Transportation. This is where we're doing some, there is some consulting but by and large, it's almost entirely a SaaS agreement, where we're monitoring certain conditions at various intersections to identify factors that contribute to accidents with the intent of being able to provide alerts for both the traveling public but also the Agency to try to minimize accidents. That is an example of the kind of new business that we are winning in Florida as a result of the relationship with Albeck Gerken if that particular type of capability is something that we've been working on in other parts of the country.
+
+But through the relationships that Albeck Gerken had in Florida, we were able to penetrate one of the district offices there and secure that win. I think you can expect that you'll see other deals like that over the next couple of quarters where we're demonstrating our ability to cross-sell our software into the Florida market by leveraging Albeck Gerken's relationships in that geography.
+
+Oh. That's definitely good news. Thank you.
+
+Our next question comes from Mike Latimore with Northland Capital Markets.
+
+Hey, thanks. Bought lots of records in the quarter right there. In terms of the roadway sensor business, that came in nicely above what we were looking for, I guess, any color on kind of what drove the extra demand there?
+
+Yeah, this is Joe; I'll take a crack at that. I think there were a couple of things. First of all, we've been talking over the last couple years, actually for the last eight quarters about enhanced capabilities that we've added to our Vantage sensor product family, including very sophisticated pedestrian detection, certain object classification algorithms, which we've introduced, also the introduction of a new generation of radar detection, which we think now actually really is setting the standard in the market. And so a big piece of the growth is due to the fact that we think we're just simply taking market share due to the fact that we just continue to move the performance bar in the industry with these enhancements that we've introduced, which we don't believe any of our competitors are capable of matching.
+
+So that's a big factor, it's just superior product performance. And we do believe we're taking market share. I do want in full transparency, also, just make sure that folks understand that sort of the while COVID-19 has in some respects put pressure on a lot of areas in which we tend to compete in the market, there has been a little bit of a silver lining, in that in certain geographic areas, we have seen a reduction in traffic. And as a result, that has allowed for some agencies to accelerate some of their activities that they otherwise would have been limited to perhaps performing like on the weekends or at night, due to severe traffic. So there has been some silver lining, and that has contributed a little bit, we think, to the sales by effectively pulling some deals forward.
+
+But I want to go back to the first point that I made, which is that we think the most significant factor is just superior product performance. And you can expect that we'll continue to introduce additional features, and even a next generation technology platform, which will further extend our performance lead in the market.
+
+Got it, got it, makes sense. Joe, you mentioned that you're going to be launching a ClearMobility cloud service with a customer in the third quarter. Can you just elaborate on that a little bit? What's the entity? What's the use case problem being solved?
+
+Yes, so for competitive reasons, we're not going to talk about who this specific customer is right now. But just as a reminder, and we're going to spend more time with investors to help people better understand what the difference is between the ClearMobility Platform and the ClearMobility Cloud. But I'll just try to briefly explain that the platform includes our various existing solution sets. And these are products and services that we've had in the market for a number of years, and we continue to provide those solutions on like an ala carte basis to our customers. But one of the things that we're trying to do with our ClearMobility Platform is create a set of cloud services that allow us to more easily bundle our existing products and services together in unique ways to provide new service capabilities to agencies.
+
+That's one of the reasons we're talking a lot about our APIs because it allows for us to more effortlessly integrate our software products with one another and also to provide data from our sensors to our data lake which – and allowing our applications to then easily consume that data. So anyway what we're talking about with respect to this particular customer is that we're going to have a new service that is enabled by ClearMobility Cloud go live in that customers' operation in this quarter. And we'll be providing more information about that on our next call.
+
+Okay, great. And just last one; you highlighted just maybe some macro headwinds from COVID a little bit. Although, like you said you had a great quarter but – record quarter, but in terms of the influence that you're seeing, essentially negative influence from COVID, is it more on state and local budgets and the amount of resources available? Or is it more on just kind of accessing the right people and right IT resources to get projects done?
+
+Yeah, I would say it's both. I think with probably some more kind of miscommunication and dislocation of people in the first quarter than the second. I think that generally, our observation is that agencies have gotten better at operating in this new mode. So there probably was less impact from just a lack of communication or access to certain resources than we saw in the first quarter. At this point, we haven't seen a lot of budget evaporate. But we have seen some people under pressure to kind of slow down some spending, to put a pause on certain activities. Because we think that agencies are trying to better understand what their revenue is going to look like going forward, and therefore, in some instances, preserve budget in order to ensure that it's programmed to their highest priorities.
+
+I will say that in general what we've been saying is that a lot of activities that we perform are classified as high priority, because they are essential to the 24x7 operation of transportation infrastructure. And so, again, while we've seen agencies kind of go through this process, there have been some things that have been slowed down, we've seen very little of activities that we perform being outright canceled. [indiscernible]
+
+(00:30:09). Okay. Thanks a lot.
+
+And our next question comes from Joseph Osha with JMP Securities.
+
+Hi, there.
+
+Hi, there.
+
+Compliments on the quarter. My first question was just asked, so I won't ask that again. Second one on the P&L. My compliments for sort of two quarters now you seem to be running at OpEx level of about $10.5 million. Is that sustainable? Can we think about the enterprise growing? And basically operating spending at that kind of level going forward? Are we going to see that OpEx number move up?
+
+I think if – Joe, this is Doug. It will move around a little bit. But I think that's a reasonable range. I mean, as we've alluded to in our comments, we're extremely focused on managing the cost basis of the company. It fluctuates, though, depending upon how much sales and marketing and proposal efforts we're working on, and that ebbs and flows. But I would say that that's probably a reasonable assumption.
+
+Okay, is there a kind of a target now that you've got this business kind of where you wanted, at least for the intermediate term, is there a target operating model you might want to share with us?
+
+They're – good question. And we do have some thoughts around that. I think as we've alluded to in the past the endgame here is to grow the top line, which and keeping that OpEx line in that $10 million to $11 million range, and that will create leverage in the P&L. As Joe said, in the near term here, on the top line, we're only going quarter-to-quarter.
+
+Sure, sure.
+
+But we think post-pandemic, we'll see things pick up and our goal would be to use that leverage in the volume to expand the operating margins.
+
+Okay, great. And now I'm going to shift gears from the mundane to the far out. So I have two questions. I guess Joe is laughing. The first relates to the platform that you've been talking about. I'm wondering how the deployment of 5G has the potential to impact some of the things you could do with that platform. And then the second question, which is really far out, you've talked a lot. And I've been fortunate enough to see some of the demonstrations of your ability to acquire and aggregate data and you've got that nice API sitting in front of it. To what extent do you think that there might be a place for additional predictive analytics or other kind of tools sitting on top of that data set? Those are my questions.
+
+Yes, I'll take a crack at that. And, Doug, if you want please feel free to chime in. But, yeah, I think we're actually, first of all, we're really excited about 5G. We've talked a lot about vehicle to infrastructure integration; we think we have a lot of really valuable information that we're in a unique position to collect because of where we're deployed in the infrastructure. And specifically, a lot of the data that we are collecting, we think provides important environmental visibility or environmental or contextual understanding, regarding ways to reduce congestion, improve safety, that's valuable not just to agencies, but the automotive OEMs and potentially to the traveling public themselves.
+
+One of the challenges we have today is actually getting those insights or that data that we have some place efficiently. And so to the extent that 5G is more broadly available, and the cost continues to come down, then we think it will be more and more easy for people to access our data, and therefore the insights that we're able to provide. So I think your question is, do we think that the adoption of 5G will help our business? And the answer is absolutely.
+
+And then the second thing about the predictive analytics, we absolutely think that there is a huge opportunity to apply predictive analytics to that data, that data set that I was just talking about, I mean. The first step is to get easy access to it, to that data. And then the second one is to run AI, or to run predictive analytics against that information to yield insights, that's going to be valuable. So we think, yes, 5G will help. And then secondly, we definitely think that there is an opportunity to perform highly valuable predictive analytics on our data. And you'll actually see us start to talk more about things that we're doing in that area as we proceed to the next four quarters.
+
+Do you think you've got the skill sets that you need internally, there's – if there's a lot of – these highly specialized predictive analytics skill sets out there? Is this something that, I guess I'm asking, is this a make or buy kind of situation?
+
+Yeah, and that's a great question. So I think we do have highly skilled employees that have a good understanding of AI and data science, but more importantly, understand the application of applied AI to traffic and transportation. And that I think we're actually in a really good position from that perspective of understanding those points of intersection, if you will. But that being said, there's obviously a lot of really interesting work going on in this space, and we by no means to have a monopoly on it.
+
+And so there certainly could be opportunities to potentially acquire some of that expertise, and also to partner with various people. And that's another part of our ClearMobility Cloud strategy is to ensure that our cloud is open. And so that will allow third parties to develop various kinds of solutions on top of our datasets as well. In some cases, they may simply be in a better position to do that. And we want to provide under – we want to be part of that value chain, even if we're not getting necessarily going to be the one to perform the [ph] predictive (00:36:50) analytics on certain datasets for particular use cases.
+
+And by – so, open, by that you mean your API is open, right?
+
+Right.
+
+And then just to – yeah, and then just to clarify previous point, when you talked about 5G, it sounds like you're saying that the opportunity is to sort of get those insights backhauled to the vehicle or whatever, to get it back out into the field where it can be used. Is that what you mean?
+
+Yeah, and in some instances to get it from the device that's deployed in the infrastructure to the cloud efficiently so that you can do analysis against that. That'd be more for like longitudinal purposes or if you're doing some kind of sophisticated scenario analysis and then secondly, to get it from the device to the vehicle in the form of an alert or some like contextual information that might be used by an onboard computer of the vehicle.
+
+Okay. I got it. Well, I've taken up enough of your time. [ph]
+
+It's the same case in both directions (00:37:49). Yeah, thanks, Joe.
+
+Yeah, that's – okay. Take care. Thank you.
+
+Our next question comes from Mike Shlisky with Colliers Securities.
+
+Good afternoon, guys. I hopped on few minutes late so if my questions have been asked and answered, please feel free to refer me to the transcripts. I guess I want to go back to your comment a few minutes ago about how some entities are facing some concerns on their budgets or issues with their budgets. Yet, at the same time we had record revenues, record bookings, and I think we had a record backlog too in the quarter. Can you help us just bridge the gap there between the one coming and the other? Is just – are the bookings winning out against some of the concerns? Have you found new customers? And kind of which direction are we headed from here? I guess I'm kind of curious. Are you going to continue to grow that top line over the next couple of quarters or not really?
+
+Well, I'll just give some brief remarks and turn it over to Doug. But, Mike, I have to really applaud the team. I think that Iteris is executing incredibly well during a really difficult period. And so at the end of the day, I think the performance is due to execution. And I feel that we're, on a relative basis, performing favorably against our competition, and I'm really proud of the team for that. So, that's a major factor and we'll continue to do the best that we can to execute under really difficult circumstances.
+
+But also, there are other dynamics at work including timing and whatnot. So, Doug, do you have anything additional that you'd want to elaborate on in response to Mike's question?
+
+Well, no – sure. Just that we do, like, as we had mentioned, are looking at the business quarter-to-quarter because things are changing so quickly under COVID-19. And that for our third quarter, I think seasonally, it's always down to just fewer number of workdays because of the holidays and because of weather and certain geographies. And I think that looking out too far past that is not something that we're just really ready to do, which is why we're just guiding quarter-to-quarter.
+
+We have seen some orders slipped to the right and there could be more, but they haven't been significant. But that's not to say six months from now that that couldn't be the case, depending upon what happens with this pandemic and a lot of other things that are at play in the macro environment.
+
+Okay. All right. Can we also just touch on some of the [ph] time (00:40:48) issues of the day? I'm curious, were any election results last night – not to say president, which is still up in the air, but other local state elections, did any of those moving away that are either favorable or unfavorable for your business?
+
+Yeah. Mike, I would say that we didn't see any impact at the state and local level. One of the things that a lot of investors have asked us about and we think about a lot ourselves is whether there will be a federal infrastructure bill, which is something that people were talking about four years ago. Now people are still talking about it, but they also – they've added it to the discussion that an infrastructure bill could also provide necessary stimulus. So, there's the initial rationale, plus there's the additional rationale for some kind of infrastructure bill. And so we would like to think that there will be some form of an infrastructure bill.
+
+We think the likelihood of that occurring and the size of such a bill would be probably larger under a Biden administration than under a Trump administration. Given the current situation, which I think is very murky for everyone, but I guess there is a potential scenario where – or Joe Biden could win the presidency, but I think it's quite clear that the Republicans are going to retain the Senate. And so that could portend some degree of gridlock. So, while we feel pretty confident that Biden administration will proceed with some form of an infrastructure initiative, we don't know what that would look like. And I – so that's really – that's the question mark. That's what we're wandering about at this point. But as far as state and local election outcomes, we didn't see anything that would change the landscape in which we operate today.
+
+Okay. Can we touch on the M&A market as well and the excess cash that you use to build here? It's a great job, of course, on doing that, but I'm curious, have you got any interesting deals in the pipeline? Anything on the size of Albeck Gerken or larger that we should be thinking about here and maybe a timeframe as to how soon something might be close at the least?
+
+I think that got Doug's name on it.
+
+Sure. Yeah. So, yeah, Mike, we continue to have an active pipeline and there's things of all shapes and sizes that we look at. And – but in terms of something that's imminent, I wouldn't say that we're there yet, but we are looking at several opportunities. And they are in that size range of what Albeck Gerken was. I mean, we'd like that size for where we're at our evolution on the M&A front. The size of the integration risk is relatively small and they're bolt-on in nature typically. So, we like those kinds of things. And it's just – you have to look at a lot of targets before you find one that checks all the boxes, and we're continuing to do that. And fortunately, we've got the balance sheet to do that, so we could – if we find something we like, we could really move quickly on it with the cash that we have on the balance sheet.
+
+Okay. And maybe one last one for me. I wanted to ask about the agreement you had with Phoenix Pacific a few months back. It sounds like that's kind of a new geography for you at the Pacific Islands. Is that a large opportunity for you and kind of what's the share agreement? Can you share any details with Phoenix Pacific about how that's going to work, if there's any new business that gets won there?
+
+Yeah. So, we have not actively focused on the Pacific Islands, but we have from time to time sold product there. But we've never had any distribution representing us in that region. There – it isn't an enormous market. It's not like California or Texas or Florida, which are the three largest smart mobility markets, smart mobility infrastructure markets, in the US. But that being said, it's not insignificant. And we were actually approached by Phoenix, which, in our view, is one of the leading, if not the leading, distributors, resellers and integrators in that market for – broadly for traffic equipment. And we were pleased, extremely pleased, that they had an interest in representing us in that area.
+
+And so we have entered into what is an exclusive agreement. We're the only detection solution that they're representing in that geography. And we expect it to be that – over time, we'd expect that this deal to be additive to our revenue. But it isn't like – again, it's not going to be the size of the California or the Texas market, but it's not insignificant.
+
+And as far as the margins, we're not going to disclose like the particulars of any of the distribution agreements that we have. But it is similar in structure to the agreements that we have with other distributors throughout North America and actually around the world.
+
+Okay. Thank you for that and appreciate your answers to my questions.
+
+Of course.
+
+Our next question comes from Ryan Sigdahl with Craig-Hallum Group.
+
+Hey, guys. This is actually Matt Wegner on for Ryan. Thanks for taking our questions. I think a lot of the kind of the near-term color, you guys touched on, fiscal third quarter. But I was just looking for a little extra color, maybe on the puts and takes of the market opportunity you're going after. I think in the recent presentation, you talked about $6.5 billion smart mobility infrastructure opportunity, third of that recurring. Just wanted to touch on or ask on just the key drivers within each of those pillars, kind of from operations to sensors to consulting. Just where you guys are at or where you feel you're at within each pillar? And just kind of where you're most focused?
+
+Yeah. Well, that is a great question, and unfortunately it's a little bit complicated because as you know, we participate in different market categories and that dynamic like the drivers are different for each, and I'm sensitive to the fact we don't have a lot of time here. But I would say that generally what's driving purchase decisions that our customers are making is that they are striving to better manage traffic congestion and to improve safety. And so at the end of the day, those are kind of quality of life metrics that they're trying to manage to, and it's largely in response to the expectations of like the citizens in that geographic area, right? And so there's like some degree of like sort of political pressure to solve for those kinds of things.
+
+One of the motivations, and it's kind of a political motivation, but it does have some economic aspect to it, is that a lot of these regions are competing to retain business or attract new business to their area. And having a high-functioning transportation infrastructure network is considered essential to the economic health of these various regions. So, again, it's – on the most basic level, these are quality of life measures, but you can think of them in terms of certain economic outcomes as well.
+
+And then, beyond that, if you kind of take it down to the next level, within like a specific public works department or like a local agency, they're also trying to just maximize their budget. And so a lot of times, they see our capabilities being able to help them better manage their operation. They could be in the form of improving their planning, so they get better return on their longer-term capital investments, but also to help them reduce their operating expense or increase their output.
+
+A lot of times, by using our advanced detection devices or operating our software in their operation or, in some cases, even outsourcing certain activities to us, because they believe we can perform it more efficiently. So, at the end of the day, a lot of it has to do with quality of life. There are certain regional economic factors that would drive purchase decisions. And then at the individual agency and department level, they view us as helping them improve their productivity.
+
+Great. That's helpful. Just quickly on that, if you just think about five years ago versus today, does it feel like – I mean, is there a greater desire to modernize that, the infrastructure and the roadways, to generate business interest in the area or – it just kind of feels like it was sensible to have a modernized intersection to, like you said, attract and retain business five years ago. So, just interested in just how the landscape has changed over the last few years.
+
+Yeah. I think it goes back to what I was trying to talk about in my prepared remarks, is that we've seen for decades, right, the agencies have focused on building the physical roadway infrastructure. And so there's been a lot of investment that's gone into pick and shovel projects, and they'll continue to be a lot of maintenance and even the build-out of some new physical infrastructure. But I think in most major areas, people realize that the physical roadway infrastructure is largely built out. And so the question then becomes like, what more can you do to get better throughput across that physical infrastructure? What can you do to improve the safety in these areas that are increasingly congested? And the answer that people are turning to is technology. So, that's kind of changing the orientation of agencies, even just looking at it strictly through the lens of the agency.
+
+But then additionally, you've got automotive OEMs, communication service providers, and other parties that are interested in getting 100% adoption of connected vehicles. People are starting to see adoption of automated vehicles. And the promise of those models in a large – to a large degree, is going to be dependent on vehicle-to-infrastructure integration. And so there's also like a political force and an economic force at play that hasn't existed. It didn't exist five years ago. But now you've got these other major stakeholders that are also changing the orientation of the public works department, the transportation agency, budget allocation. So, those two phenomenons that are kind of occurring at the same time. And we see it accelerating as we go forward.
+
+Got you. Last one, just kind of as a follow up to that, and then I'll hop back in queue. Have you been – have you had any conversations with any – or preliminary kind of business discussions with anyone in the automotive realm, OEMs, suppliers related to that kind of at the intersection level?
+
+Yes. We have. And I would expect that we'll be able to talk more about what that could entail sometime in the next six months, I would expect.
+
+Great. Thanks, guys. Good luck.
+
+Thank you.
+
+This concludes the covering analyst Q&A session. I'll now turn it back to Iteris management for further Q&A.
+
+All right. Great. I appreciate it. We had [indiscernible] (00:54:32) committed to investors to try to allocate some portion of the Q&A to respond to questions that were submitted by investors in advance. And so if you're on the call, in case you didn't notice this when we issued our press release two weeks ago, we outlined a process to submit such questions. We did receive a couple. Some of them we've already answered in response to the analyst questions we've already received, but there was one additional question that came in from an investor that I want to take a couple of minutes to try to respond to. And that question was, tell us what states make up more than 5% of your revenue? And what are your plans to expand your reach into the states that are not on that list?
+
+And so in response to that question, I just wanted everyone to know that currently four states, that's California, Texas, Florida, and Virginia, represent 5% or more of our total annual revenue. We've tended to focus our market development activities on those specific states due to the amount of budget they dedicate to smart mobility infrastructure management. Now, on a combined basis, those four states represent about 49% of the entire national expenditure on smart mobility infrastructure.
+
+Other large markets for smart mobility infrastructure would include Illinois, Michigan, and New York. And we're looking at those various markets. Generally, we'd prefer to enter a new market through an acquisition such as we did with Albeck Gerken. However, we also see opportunities to develop new markets through organic efforts, like has been our experience – successful experience in Texas.
+
+Some of you may remember that we did establish a direct presence in Illinois about two years ago. Again, that's one of the other large markets out there. And you can expect we will continue to build our position in that geography, as well as look at opportunities to enter those – the other large markets such as Michigan and New York.
+
+So, anyway, with that, I think we are out of time. And so I wanted to just thank the operator for her assistance. I appreciate everyone's support and the thoughtful questions on this call. I did want to say that on the investor relations front, we're going to be presenting at a couple of upcoming conferences, more specifically the Craig-Hallum Alpha Select Virtual Investor Conference on November 17, 2020 and the Northland Capital Markets IoT, AI, and Safety Virtual Technology Conference on December 7, 2020. If you're participating in either of these conferences, please schedule a visit with us. We would enjoy the opportunity to talk with you more. And in the meantime, we look forward to updating you again on our continued progress when we report our fiscal 2021 third quarter results.
+
+And with that, we'll conclude today's call. Thank you, everyone.
+
+Ladies and gentlemen, this concludes today's call. Thank you for your participation. You may now disconnect.

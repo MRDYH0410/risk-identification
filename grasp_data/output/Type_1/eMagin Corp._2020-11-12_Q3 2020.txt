@@ -1,0 +1,200 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+Mark A. Koch — Acting Chief Financial Officer, eMagin Corp.
+Andrew George Sculley — Chief Executive Officer & Director, eMagin Corp.
+James McIlree — Analyst, Bradley Woods
+
+Management Discussion Section
+
+Question And Answer Section
+
+Good day, ladies and gentlemen. And welcome to your eMagin Third Quarter 2020 Earnings Call. All lines have been placed on a listen-only mode and the floor will be open for your questions and comments following the presentation. [Operator Instructions]
+
+At this time, it is my pleasure to turn the floor over to Mark Koch. Sir, the floor is yours.
+
+Good morning, everyone, and welcome to our third quarter 2020 conference call. We're very glad to have you join us today. During today's call, we may make forward-looking statements as defined in the Private Securities Litigation Reform Act of 1995. These forward-looking statements are based on the company's current expectations, projections, and beliefs and are subject to a number of risks and uncertainties. Such statements may include references to projections of future revenues, plans for product development and production, the company's ability to ramp up production, the company's ability to reduce its cost structure, future contracts and agreements, product benefits, operations, future financing, liquidity and capital resources, as well as statements containing words like believe, expects, plan, target, et cetera. You should not place undue reliance on these forward-looking statements because they involve known and unknown risks, uncertainties, and other factors that are in some cases beyond our control.
+
+Please refer to our earnings release for the third quarter of 2020 and the company's filings with the Securities and Exchange Commission for information concerning factors that could cause actual results to differ materially from those expressed or implied by such statements. We undertake no obligation to update or revise any forward-looking statements to reflect future events or circumstances.
+
+During this call, we will also refer to adjusted EBITDA, a non-GAAP financial measure, to provide additional information to investors. A reconciliation of adjusted EBITDA to net income, which is the most directly comparable GAAP financial measure, is provided in the press release that we issued this morning. Non-GAAP financial measures such as adjusted EBITDA are not meant to be considered in isolation or as a substitute for our GAAP financial measures and financial statements.
+
+With that, I would like to turn the call over to our CEO, Andrew Sculley.
+
+Thank you, Mark, and welcome everyone to our third quarter earnings call this morning. I hope that everyone is staying safe and healthy. On today's call, I will provide some key takeaways from our quarterly results and then provide you with some color on our end markets, technology advances, and our new Department of Defense funding and equipment schedule. Mark will then discuss our consolidated results in greater detail.
+
+As far as key takeaways, we remain extremely well positioned in the military end markets. Military revenue in the third quarter increased 19% year-over-year reflecting our position as a sole supplier for the multi-year ENVG-B program as well as growth in the international markets. During the quarter, we also placed orders for the new equipment provided under the $5.5 million IBAS program for OLED supply chain assurance and are progressing in regard to the design order phase for the $33.6 million Department of Defense award. Our backlog remains strong at $10.0 million, of which $9.4 million is shippable within the next 12 months.
+
+In addition, we ended the quarter with cash and cash equivalents of $10.3 million. The third quarter also reflected the economic impact of the COVID-19 pandemic on some of our end markets particularly in the area of elective surgeries for eye care which affected medical-related sales and also high end hunting scopes. Additionally, contract revenue was lower in the period due to the completion of part of a project for a Tier 1 consumer company that will become active again in the fourth quarter. As a result, third quarter revenue was $7.3 million, decreased 8% as compared to revenue of $7.9 million a year ago. We expect contract revenue to improve sequentially in the fourth quarter.
+
+Lastly, we continue to retain our technology and innovation edge as demonstrated by our accomplishments for improving our OLED architectures which will be used in direct patterning and our new XLE OLED displays moving towards production qualification.
+
+I will now discuss our quarterly trends in greater detail. We had a very strong quarter for the military display sales at $5.5 million or a 19% increase over this quarter last year. We are supplying displays to some major programs and demand has remained solid. In particular, we are the sole supplier for the ENVG-B program and we'll supply the program through its low rate initial production phase in 2021 and beyond. This is a multi-year program that includes both thermal and night vision channels where our high resolution microdisplays interface with the Army's family of weapons sites and battlefield awareness systems.
+
+During the quarter, we also continued to produce displays for the F-35 HMD helmet program. It has been widely acknowledged that these helmets equipped with our high brightness OLED microdisplays have been critical in night landings on aircraft carriers and have been instrumental in eliminating the green glow from LCDs which was reportedly very disturbing to pilots of the F-35.
+
+With respect to the international military market, we had increased shipments globally and supplied an initial order to one of the top five European military electronics manufacturers, a new and important relationship for us.
+
+Turning to our other end markets, we saw a year-over-year decrease in the medical display market which we believe was related to a likely postponement of electric surgeries, for example cataract surgery by the older population. We have since seen recovery receiving orders for medical-related microdisplays which will begin shipping in April 2021 as hospitals and medical centers resume performing elective surgeries.
+
+Additionally, we supplied displays for some high-end hunting scopes which we believe are affected by the COVID situation including lower demand for discretionary spending. We are not expecting any near-term pickup related to this market until COVID is more controlled. Our contract revenue was decreased in the third quarter by approximately 343,000 year-over-year, although we continue to work on the design project for a Tier 1 consumer company. We completed the wafer design for this company and it is now being fabricated at a foundry.
+
+We anticipate receiving these newly designed wafers in early Q2 and then we'll begin to directly pattern the OLED. There are additional aspects to this program, which we are currently performing. We also made improvements earlier this year to our direct patterning tool and are continuing our development work as we advance high brightness. We have been able to demonstrate a 3x increase in throughput with the newly upgraded tool which we believe is important to demonstrate production readiness and for the design of the funded direct patterning tool. We are currently working on our color OLED stacks to achieve our targeted 10,000 candela per meter squared brightness using single stack OLED for the red, green and blue sub-pixels. We are close to our goal with each of the colors.
+
+The next step is further optimization of the dPd process using these new OLED architectures and producing direct pattern displays. In the future, we can move to tandem stacks and other improvements to retain the highest, full color brightness OLED microdisplays in the market. The important point here is we are ahead today and believe with dPd we will remain ahead of white with color filters.
+
+Now I want to update you on the progress with our government awards totaling approximately $39.1 million over the next three years. We placed orders during the third quarter under the $5.5 million IBAS Supply Chain Assurance Program and are working on the design order phase for equipment in the other DoD program for $33.6 million. We are very excited about these awards including the expected impact on our manufacturing. We anticipate receiving our first piece of new equipment in December. This tool is for advanced testing and diagnosis. We expect it will help us to improve our yield beginning in the first quarter of 2021. Additional early phase equipment is scheduled to arrive in the second quarter and we will immediately begin testing and qualification at that time.
+
+With that, I'll turn the call over to Mark.
+
+Thank you, Andrew. Before I discuss our third quarter 2020 results for the period ended September 30, 2020, I'd like to provide you with a few key financial takeaways from the quarter. We reported revenue of $7.3 million with continued strength in our military business, which grew 19% year-on-year to $5.5 million for the third quarter.
+
+R&D contract work was approximately $0.3 million as we completed one phase of the wafer design for one of our Tier 1 consumer companies. We expect our contract revenue to increase in the fourth quarter as we continue to work on this unique design. We ended the third quarter of 2020 with a cash balance of approximately $10.3 million including proceeds of $6.5 million from the remaining balance of our July ATM funding, plus we had availability of $2.3 million under our asset-based lending facility.
+
+Now moving on to the third quarter results, total revenues for the third quarter of 2020 were $7.3 million, a decline of $0.6 million reported in the prior year period and $0.4 million from the second quarter of 2020. Total revenues consist of both product revenue and contract revenue.
+
+Product revenues for the third quarter of 2020 were $7.0 million, a decrease of $0.3 million from product revenues of $7.3 million reported in the prior year period. The decline in product revenue was due to lower sales to medical and commercial customers related to the economic impact of COVID-19. Contract revenues were $0.3 million compared to $0.6 million reported in the prior year. The decrease in contract R&D work reflects the timing of completion of various projects and a third quarter pause between work stages with one of our Tier 1 customers.
+
+Gross margin for the third quarter was 23% on gross profit of $1.7 million compared to a gross margin of 31% on gross profit of $2.5 million in the prior year period. The decline in gross margin resulted from lower shipments of display and lower revenue.
+
+Operating expenses for the third quarter of 2020 including R&D expenses were $3.6 million as compared to $2.9 million reported in the prior year period. Operating expenses as a percentage of sales were 49% in the third quarter of 2020 compared to 36% reported in the prior year period.
+
+R&D expenses were higher in the third quarter, primarily reflecting a focus on R&D projects related to dPd technology and our XLE display development. SG&A expenses were essentially flat versus the year ago period, impacted by salary reductions implemented in October 2019, a reduction in non-cash stock compensation for the board of directors implemented in December 2019 and lower travel and other discretionary expenses.
+
+Operating loss for the third quarter of 2020 was $1.9 million compared to an operating loss of $0.4 million in the prior year period, reflecting lower revenue year-over-year and higher R&D expense. Net loss for the third quarter of 2020 was $3.5 million or $0.06 per share compared to a loss of $0.3 million or $0.01 per share in the prior year period. Net loss for the current and prior year periods reflects a $1.8 million non-cash loss and a $0.1 million non-cash gain related to the change in fair value of a warrant liability respectively.
+
+Adjusted net loss for Q3 of 2020 excluding the change in the fair value of the warrant liability was $0.03 per share compared to a net loss of $0.01 per share in the year ago period. Adjusted EBITDA for the third quarter was negative $1.1 million compared to a positive $0.3 million in the prior year period.
+
+Liquidity, at September 30, 2020, the company had cash and cash equivalents of $10.3 million compared to $3.5 million at December 31, 2019, and had working capital of $14.5 million. Borrowings and availability under the ABL facility was $0.5 million and $2.3 million respectively at September 30. During the second quarter, we received $1.96 million of PPP funding under the SBA loan program, and for which we intend to apply for forgiveness in Q4.
+
+During the quarter, we raised the remaining $6.5 million available under our ATM facility, which provides us with ample liquidity and no near-term need for additional fund raising. As of September 30, 2020, the company's backlog of orders shippable within 12 months was $9.4 million compared to a backlog of $11.7 million as of December 31, 2019.
+
+With that, we will open the call for questions.
+
+Thank you. Ladies and gentlemen, the floor is now open for questions. [Operator Instructions] We'll take our first question from Jim McIlree with Bradley Woods. Please go ahead.
+
+Yeah. Thank you. Good morning. You spoke about COVID-related delays in the medical industry. And I'm just wondering if those delays have lengthened or increased recently given the spike in COVID cases?
+
+Well, we have received a significant order for that business. It's about $1 million and to be delivered early next year. So we're optimistic that it is going to continue. Eventually, people have to get back in, for example, the cataract surgery. This is cornea map device. Cataract surgery requires that beforehand. And it's usually the elder population who is concerned, but it has to start again, and with the significant order of $1 million in total approximately, we're very optimistic.
+
+And the delays that you noted, were those delays because the end users were delaying processes or was it because you had – it was difficult to make those deliveries either on your end or their end?
+
+No. Our end, there's no issue at all. We've been making deliveries. I shouldn't say no issue. We've had some little hiccups, for example two cases early the year, but we have managed through this and done very well keeping everybody healthy and doing everything that the New York state says we should do. We are doing it. So our deliveries have been fine and the discussions with the customers, there are a handful of customers in that hunting scope market that we mentioned. And their comment was that it was COVID-related. So that's why we said that.
+
+And I know it's really early to talk about potential changes in the defense market with the new administration, but maybe I'll press you a little bit on it. Can you talk about, one, just generally what your thoughts are on the new administration on defense spending? And secondly, can you discuss your defense business relative to programs that are in production like the JSF versus programs that are in LRIP versus programs that are still more in the early stages before it's become a program of record? And I think those are all my questions. Thank you.
+
+Okay. Well, I can't really predict what the new administration will do, but our customers are very optimistic, and as you might guess, we have very good connections with the US government and that they're very good with us about the $39 million they granted to us. So we're working very hard on that as well. So we are optimistic that the military spending will continue. And we have very important programs here like the enhanced night vision goggle binocular program. That is a very important program for the military. There are over 100,000 units that the [indiscernible] (20:25) says they will procure over the life of it. And if you give that a few years, five years, even that's a very big important business for us. So we're optimistic that we'll continue that's part of the answer to your one question. That's in the low rate stage near term.
+
+The other thing is the – in the qualification time for us is the F-35, as you know the helmet with our displays in it is being qualified for the F-35. And you can look online to see what issues there are for LCDs. And that is still moving forward because it's an important program. The F-35 is very important. The helmet with an OLED display gives the right contrast and has very outstanding performance. So we think that will continue. We do also work on new programs and this is directly with customers who are looking out beyond the ENVG-B. We are working on that with our very high brightness displays.
+
+And I like to take a step back and say the reason that we're talking to companies on this is because when we first started this, it was size, weight and power and our displays have much better power consumption than the alternatives and we have designed our displays to fit very well in the military and they've been doing this since the early 2000s. And we're very well respected by the US military and foreign militaries.
+
+So our displays then they ask for high contrast and that's the green glow issue that we talked about. As for high contrast, we can deliver that. And they asked for high brightness. And we've done this in multiple facets. One is with a white with color filter that's in qualification now, our qualification that is, and we have received very many companies asking us for that display because they want to go to next step in brightness and our direct patterning is very well positioned in the military to move forward and that's – a big chunk of that, $39 million, was for a machine that could do this. Right now it's in R&D. And it's also very interesting that the AR/VR market comes to us for the same thing. They want high brightness and a high resolution so that the screen door effect goes away. So the technology that we have built is very well respected by the US and foreign governments, and it's also respected in the AR/VR group. So I hope that answers your question perhaps a little more than you asked for. Do you have a follow-up to that?
+
+No, that's a great answer. I appreciate the detail. Thank you very much and good luck with everything.
+
+Thank you, sir.
+
+We'll take our next question from [ph] Mike Will (23:36), private investor. Please go ahead.
+
+Good morning.
+
+Good morning, Mike.
+
+Good morning, Michael.
+
+If it's okay, I would like to go back and ask a question about one of the comments that you made in the Q2 PR or you were kind of talking about a few recent patents that you were awarded. And the comment kind of implied to me that your business model may include licensing your technology to other OLED microdisplay competitors. If I got that right, could you maybe just talk a little bit about what that might look like and the strategy behind doing something like that?
+
+Yes, thank you. And here we're talking about very high volume. If the consumer volume is 1 million or millions of displays per month, we don't have that volume. Even with the $39 million that the US government has granted, that will not give that volume. So our path forward and the Tier 1s with whom we have talked and are talking are interested in this path forward because they want to have millions of displays per month.
+
+So we have discussed with some mass production partners and I'm not saying competitor micro OLED companies necessarily. There are other ones in the display industry that we talk to. And the way to do this is to develop proof of concepts. We've worked on a number of them. And then to license the consumer company and with that consumer company or companies, I should say, to have a mass production partner move forward with manufacturing of our technology. So the way it would look like then as is we license a consumer company who has the mass production partner build the displays as a sub-licensee in that respect for that consumer company and then we get royalty revenue.
+
+Okay. [indiscernible]
+
+(25:50).
+
+Well, I was just curious if it did turn out to be a OLED microdisplay competitor, would that license allow them to both manufacture it and sell those displays to consumer Tier 1s or [indiscernible] (26:11)?
+
+Oh, no, we would be very cautious about this and my background has licensing in it of OLED and we've licensed Tier 1s in the display industry in my past and we've actually licensed the Tier 1 company now. You can look back in our reports, we have one license which by the way that company keeps in contact with us is interested in moving on with mass production of this as well. So, no, we would restrict the license so that the company if it were a competitor of ours couldn't take over all the business from us.
+
+Okay. All right. Makes sense. I also wanted to acknowledge your much more active role with these investor presentations over the last six months here. And I think one of the things that stands out to me is the strong growth potential really across all of your end markets and maybe we could talk specifically about the military and aviation side? I think you had some data showing that the addressable market for [Technical Difficulty] (27:27-27:38) with LCD displays versus OLED.
+
+Yeah. I think the thing you have to think about for LCD versus OLED is if you only want a very cheap display you're using it during the daytime and you have a crosshair in there that might move around, then it doesn't matter. As soon as it matters like you need high contrast because it's night vision as well as daytime use like by the way the F-35, then an OLED display is what you need. And so I think that as time moves on and you can see this by companies how many LCD companies are there and how many LCD companies are also thinking OLED is the way to go. So I think not only is the US government and the foreign companies with whom we deal and as you know we have French companies, Israeli companies, Turkish companies, some Asian like Korea, et cetera, that use our displays, we're almost half and half on the display sale outside the US versus inside. So I think the world thinks OLED is going to take over.
+
+Okay. And then my last question here on the consumer side, which I think everyone understands is still out there maybe two or three years away, but maybe you could talk about some shorter term catalysts that investors might look to over the next three to six months?
+
+For me, the catalyst though what I see is I can look at what the market researchers put out there, but what drives me to think that this market will take off is because we talk to the companies themselves who are interested in this and I know today's AR/VR devices, lets pick on VR for a minute because there everybody knows that today's our larger display, cell phone size displays with OLED and what's the complaint. The complaint is the screen door effect.
+
+So when companies come to us, they say, hey, we want the next generation to be a display that has no screen door effect. So you need a very high resolution and I'll just give you an example, sorry for the numbers I'm going to give you, but if I want 100 degree field of view and I want to match the eye's capability and resolution, it's got to be somewhere between 30 and 60 pixels in every degree, I'm going to pick 40. So a 100 degree field of view, 40 pixels per degree, I need 4,000 resolution. And that by the way is the reason we designed a 4,000 display. And that's what the companies want when they come to us. So near term what you have to look at is if we are allowed to say anything about our proof of concepts, for example the 4,000 resolution display, the new display we're working on, and...
+
+[Technical Difficulty] (30:48-30:57)
+
+proof of concept also goes and is demonstrated to the market which obviously we would like to see happen because the companies for whom we work on a proof of concept they're actually developing a proof of concept headset. So that would be a catalyst for the market as well.
+
+Once one of these headsets comes out and people see how absolutely fantastic it is, not only no screen door effect but very high contrast, also very high brightness is needed because the motion artifacts have to be eliminated and therefore, and I'd be happy to explain this some other time, you need very high brightness, so very high brightness is necessary and also the optics aren't 100% efficient, so that also contributes to the brightness. So the display type that is needed, remember I said high contrast, I also did mention very high speed, all of that leads to an OLED, the very high resolution and you don't want a huge form factor like a scuba diving mask that leads to a microdisplay.
+
+So the display of choice today is an OLED micro display and that's why the companies are talking to us. We have the technology to give that brightness and I know you've heard other companies talk about things like tandem architecture, dual stack, obviously we can do that with each color for hours and that will essentially double the brightness. So we're ahead today and we will stay ahead with direct patterning that is our belief and that's why companies come to us.
+
+Okay. Maybe just one follow-up on the – with the manufacturing partner discussions. I think just going back to 2017, I feel like investors have been kind of conditioned to maybe expect the timeline looks like a partnership lead time would be roughly 18 months before a product launch. I was just wondering if we don't see something over the next few months, does that indicate that maybe these product launches are being delayed a bit or not necessarily in the case?
+
+The companies that we're dealing with certainly are pushing us very hard to get these things done quickly, and I forget how many months, did you say over the next three months. I don't think the – you'll see any company announcing anything within three months because the proof of concept we're working on with them and they're working on the same thing. So this will be a test for them. But I do feel like there is great belief in consumer electronics companies that this is a path forward. And the – everyone we talk to wants to move beyond the cell phone size style display. So this will come out. And I know if you look at market research, you've mentioned 2017, if you look at market research in 2017 versus now, they're predicting a little later. But the companies we're dealing with want to move forward with this.
+
+Okay. Thank you very much for taking my call and answering the questions.
+
+No problem. Thank you.
+
+Thank you. [Operator Instructions]
+
+We'll take our next question from [ph] Ben Andrews, Andrews Capital Management (34:37). Please go ahead.
+
+Good morning, Andrew. Good morning, Mark. How are you guys?
+
+Good morning.
+
+Good morning.
+
+Good morning, [ph] Ben (34:47).
+
+Andrew, help me just kind of understand maybe what the industry – consumer industry thinks and kind of what math is involved that they're looking at, okay, so if we look at the largest VR headset guy out there in the last couple of quarters, they launched a new version of their headset and they went from a PenTile OLED to an LCD red stripe type of display. Now is that technology good enough for what people want out there because I would think if you're kind of on the run rate to sell over 2 million headsets a year, you're definitely throwing off enough cash flow to build a $100 million fab and to bring the cost of an OLED display down, but yet they didn't do that. So what's the math they're looking at or what do you think they're thinking?
+
+Well, in this case, an LCD you can pulse the backlight and therefore have the motion artifact. Problem is you still have two issues. Even though you can have a higher resolution in a cell phone size display for VR, it's still not high enough to get you what you need. And the other thing is LCD's contrast is poor and you know this. Anyone listening, if you have an LCD TV and you have a cable box that you turn off but you forget to turn off the TV in a darkened room, you know the TV is still on and that's that green glow problem for the F-35 as well. So I don't think LCDs are going to be there and neither do the companies who are talking to us for the next generation.
+
+So the question you have to ask is the proof of concept has to be done first for these companies, and by proof of concept, I don't mean only our work on the display but their work on the headset. And they have to believe this market is going to take off which they all do. That's why they're talking to us. And then we have to work together with a mass production partner before the...
+
+Okay...
+
+...$100 million is going to go into this, but there are...
+
+Okay.
+
+...companies who have money as you and I know, and there are companies that are interested in the next generation, and we believe...
+
+Do you – do you...
+
+...direct pattern OLED microdisplays are the next generation.
+
+And I mean if you look at these guys, they're by far the leader in the industry. I don't know if the market share is at least 40%, maybe as high as 60%. So is that the – I mean are these guys seeing this as enough volume to go ahead because if we go back two years ago, I mean they were clearly thinking these exact same things. But my guess is they didn't push forward because the volumes weren't there.
+
+Well, I would estimate that two years ago, the volumes weren't there because they're not here right now, but I do think that everyone we speak with on this, consumer electronics companies and beyond that, right, it's industrial and medical as well for these AR/VR. And an example of industrial, we have a new welding helmet company. So, that's an augmented type reality thing. So this market will take off is what people believe. It's just slower than we originally had thought.
+
+Okay. In switching to the military, I've seen one of your competitors win some of these [ph] family weapon site (38:48) programs. And I heard you mentioned earlier – I thought last question about LCDs are good enough. If you got crosshairs in the picture, my guess is if you don't need the wide field of view as well, does that mean that there is just a handful or more of these family weapons types contracts that you're just not a good fit for because either you've got a more expensive result, that's not really needed for a certain outcome for certain type of site?
+
+Well, we are in competition on their few site programs and we are in competition for the ones that haven't been awarded. So I think that if you want to have an image that works daytime, nighttime, high contrast image with things like thermal imaging, then an OLED is the way to go. And I'll just point to the F-35. Why are they qualifying a helmet with OLED in it, because that is what's needed for the full range of operations. Why are we the sole provider for enhanced night vision goggle binocular program, because that's what's needed, that's a helmet that or helmet – yeah, it's a site that actually that goes through the gun too. You can have it wirelessly attached to the gun side also. So that's what's needed and I think that OLED is the way to go.
+
+Thank you both.
+
+Okay. Thank you very much.
+
+Thank you. [Operator Instructions]
+
+And there appear to be no further questions at this time.
+
+Well, let me just make a few closing remarks. I thank you all for joining us on the call and thank you very much for the [ph] Mike, Ben (41:05) and Jim who asked the questions. It's great to be able to answer them. I am very optimistic about the future because of the military business in the US and outside the US. A $39 million funding for our new equipment will improve our throughput and yield significantly and give us the basis to produce all military business in a new OLED tool that using this direct patterning and by the way even though company – or helmets like the F-35 are using monochrome green today, I guess what they all ask us for, can you do color, and direct patterning is the way that we can do color.
+
+So I'm very optimistic about the US and international military business that that will continue to use OLED and use our displays because they meet the criteria and also given the conversations we are having and we have had, remember we also have a licensee for our direct patterning OLED with a consumer electronics company. So there's belief in that market that this is the way to go as well. And I think the next generation, you will see some significant headsets with OLED microdisplays and we're working very hard with those consumer electronic companies and working with mass production partners to get this to go.
+
+So the other thing I need to say is I thank you very much to the eMagin team. They've been outstanding. We're all working through this COVID. Every day we get our temperature measured. If there's any issue at all, we take action, or if anyone travels, we do exactly what the New York state requires and we've been using Zoom conferences and we're in the room if we've sounded muffled at any time, we have masks on. This is what we do in eMagin. So I thank the eMagin team very much for the effort.
+
+So, thank you very much on the conference call.
+
+Ladies and gentlemen, this does conclude today's teleconference. We thank you again for your participation. You may disconnect at this time and have a great day.

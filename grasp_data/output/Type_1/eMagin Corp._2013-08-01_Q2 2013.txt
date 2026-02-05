@@ -1,0 +1,319 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+Paul C. Campbell — Chief Financial Officer, eMagin Corp.
+Andrew G. Sculley — President, Chief Executive Officer & Director, eMagin Corp.
+Shawn E. Lockman — Analyst, Piper Jaffray, Inc.
+Brian T. Horey — President, Aurelian Management LLC
+Aram Fuchs — Founder & General Partner, Fertilemind Capital
+Dennis Van Zelfden — Research Analyst, Brazos Research LLC
+
+Management Discussion Section
+
+Question And Answer Section
+
+Welcome to the Quarter Two 2013 eMagin Corporation Earnings Conference Call. My name is Adrianne, and I will be your operator for today's call. At this time, all participants are in a listen-only mode. Later, we will conduct a question-and-answer session. Please note that this conference is being recorded.
+
+I would now turn the call over to Paul Campbell, Chief Financial Officer. Paul Campbell, you may begin.
+
+Thanks, Adrianne. Good afternoon, everyone, and welcome to our second quarter ended June 30th conference call. Andrew Sculley and I are here today in our Santa Clara offices; and we look forward to discussing the quarter with you. First, as always, I need to read the statement about forward-looking statements, then we will get started.
+
+During today's call, we may make forward-looking statements as defined in the Private Securities Litigation Reform Act of 1995. These forward-looking statements are based on the company's current expectations, projections, beliefs, and estimates, and are subject to a number of risks and uncertainties.
+
+Such statements include reference to projections of future revenues, plans for product development and production, the company's ability to ramp up production at its manufacturing facilities, future contracts and commercial arrangements, future product benefits, future operations, liquidity and capital resources, as well as statements containing words like believes, expects, estimates, plans, targets, will, intend, could and other similar expressions.
+
+The risk factors are included the company's Form 10-K for 2012 which is on file with the Securities and Exchange Commission. Except where required by federal securities laws, we undertake no obligation to publicly update or revise any forward-looking statements whether as a result of new information, future events and changes in the circumstances or any other reasons.
+
+Okay, with that, I'd like to turn this call over to Andrew Sculley, President and CEO of eMagin.
+
+Thanks, Paul. And thank you, everyone, for participating in our conference call. I'll give some brief introductory remarks. Paul will then go through the financial results, and then I'll go through detail of our operations, et cetera. Then, we'll open up the call to questions.
+
+Our revenues for the quarter, second quarter 2013, were $7 million, reflecting both ongoing constraints in U.S. government R&D spending and, to some extent, the additional challenges in bringing up the SNU OLED deposition tool to full operation and further improving yield. And, again, I'll speak about that later.
+
+Although second quarter revenue did not meet our objectives, we still expect year-over-year revenue growth which will be driven by significant increase in display shift. Increased shipments should more than offset lower R&D contract revenue. We also remain optimistic that the yield on the new SNU tool, which is now about equal to the yield on the SATELLAR machine, will continue to improve.
+
+And, now, I'd like to turn the call over to Paul for his remarks on our financial results. And then, again, I'll give you an update on our performance.
+
+Thank you, Andrew. The eMagin second quarter financial results reflect some of the challenges we faced as an R&D provider, primarily, for the U.S. government and as a leader in the developing worldwide OLED microdisplay market. Although total revenues year-to-date increased 5.5% and the product revenue, mainly displays, has increased 15% year-to-date in 2013 over 2012, in the second quarter 2013, overall revenues were lower than Q2 last year. This is primarily due to a $1.2 million decrease in R&D contract revenue. We receive most of our R&D contract revenue from U.S. government agencies. And we believe that R&D contract activity is down this year due at least in part to the U.S. government sequester and budget issues.
+
+We do have a significant contract we are working with NAVAIR, the U.S. Navy high brightness display for avionics. Product revenue was down just $350,000 from Q2 last year. So the bulk of the change in revenue was due to the R&D contract revenue. On a sequential basis, total revenue was down $1.5 million from our revenue record-setting Q1 of 2013. If you recall, Q1 revenue was $8.5 million, and it was the highest revenue for the first quarter in our history.
+
+The lower number in Q2 was primarily the result of a lower average selling price than in Q1 due the mix of products sold in the two quarters. The number of displays sold in the two quarters was about the same. The number of microdisplays shipped in Q2 decreased from Q2 last year due to some of the manufacturing challenges that we faced, including the time and resources directed toward improving yield on the new OLED deposition tool and increased labor requirements for some of our displays.
+
+In Q2, almost half of the OLED deposition for our displays was accomplished using the new deposition tool. We are continuing to apply personnel and other resources to further optimize the tool to increase yield and output. Currently, the yield on our new OLED deposition tool is about level with our older SATELLAR deposition tool. However, as you know, we expect to continue to improve the yield on the new tool. And we'll continue to utilize additional resources, if necessary, to meet those goals.
+
+These efforts, combined with lower sales volume in the quarter, resulted in a lower gross margin. Gross margin of 34% was 19 points lower than Q2 last year. And this is due to higher cost and lower volume which increased the cost per unit sold. Year-to-date, gross margin is nine points less than last year. This is the lowest-margin quarter we've had in quite some time. Going forward, we certainly expect gross margin to return to prior levels in the 50% to 60% gross margin range as output increases and as the sales mix balances out.
+
+Manufacturing costs increased due to increased manufacturing labor, the cost incurred in improving the performance of the new deposition tool, the mix of products produced in the quarter, and some increased depreciation due to the new equipment we purchased and put in, primarily the new OLED deposition tool, and also to costs of running both OLED deposition tools concurrently during the quarter as opposed to just the older SATELLAR deposition tool last year.
+
+Operating expenses for the second quarter of 2013 were $3.5 million versus $3.6 million for second quarter 2012. Operating expenses are comprised of R&D expenses, and selling, general and administrative expenses or SG&A. The R&D portion of these expenses increased 15% versus a year ago to 20% of revenues in the second quarter. Since we had fewer R&D contracts this year, we were unable to allocate as much R&D expense to cost of goods sold for R&D revenue.
+
+SG&A expense improved, decreasing to $2.1 million versus $2.3 million in the same quarter last year. So, bottom line on the operating expenses is we continue to control them very well and, at the same time, we continue to invest in additional R&D.
+
+Net loss for the second quarter of 2013 was $1 million or $0.04 per diluted share versus net income of $577,000 or $0.02 per diluted share for the second quarter of 2012. EBITDA was a negative $400,000 compared to $1.6 million a year ago. However, year-to-date, we have generated about $700,000 in positive EBITDA. I'll talk a minute about the backlog. At June 30, 2012, our backlog was approximately $12.2 million. However, we just received recently a large order on a new project for $3.5 million which would bring that backlog up to approximately $15.7 million.
+
+As always when we talk about the backlog, you have to know that it includes display or display module orders only. There are no R&D contract numbers in there. And the backlog consists primarily of short cycle time, non-binding POs that when we receive the timing of which can be very inconsistent. Some customers give us orders with more lead time than others, and some order more frequently during the year than others. So the backlog fluctuates quite a bit and at any point in time it's not really a great predictor of future revenues.
+
+At June 30, 2013, the company had approximately $13.4 million of cash, cash equivalent and investments in CDs and corporate bonds, so essentially cash. And we had the same number at December 31, 2012, the end of last year. For fiscal year 2013, we expect revenue growth over 2012 driven by a significant increase in displays shipped, which will more than offset a decrease in R&D contract revenue. However, based on our Q2 results and our current visibility, we have lowered our guidance for the year to total revenue in the range of $32 million to $35 million from $34 million to $39 million. As a reminder, our reminder for fiscal 2012 totaled $30.6 million.
+
+I will now turn the call back over to Andrew for his comments on manufacturing, products, and programs.
+
+Thanks, Paul. To achieve our 2013 goals and our future expectations beyond that, we know we must improve our manufacturing output yield. We have encountered challenges in increasing our production output and completing the optimization of the new OLED deposition machine. However, we've made significant progress and we are confident that our team will make further progress needed to meet our expectations.
+
+I'd like to discuss where we are and talk about the process that is taking place in our facilities to make this happen. The optimization of the new tool has been more difficult than we expected. But, if I give you some details on what the tool is – hold on just a second. If I give you some details on what the tool is, we – there are two main issues in the tool.
+
+The first issue is that the chambers have a mask alignment system that has to align with the wafer. And that system was causing us great difficulty. We've now spent a significant amount of time optimizing that. And we now know exactly how it has to go.
+
+However, the issue with the system is that the tool now doesn't have the precision we need to make sure we can hit that alignment each and every time. So we're working on building some additional equipment in the tool. This is relatively minor. That will ensure that we hit that alignment the same, each and every time. That has taken us a significant amount of time. But the good news is that we have significant yield improvement because of that.
+
+The second area that we've encountered problems is that, in one of the chambers, we've had to run it at half the production capacity that we're capable of. It was generating many particles. And, as you know, the more particles you generate, we have cosmetic problems with the displays, but, also, the particles can break through the seal, and, without the seal, the OLED doesn't work.
+
+So we've taken some steps there to run it at half production output. However, we've done an electronic arrangement that we believe would make the tool operate appropriately. We've asked SNU, because we didn't want to spend any more time on our tool here, we've asked SNU to verify that in Korea. They've run it in the same chamber in Korea.
+
+They've run it at full rate, the rate that we need, as well as it also succeeded in cutting the particles down significantly. So the particle problem is done, and the rate is where it needs to be. Next, we'll install this in our new tool and optimize the running conditions. This will cause the tool to go down for a week, but it will double its output and reduce particle generation.
+
+In addition, we're adding some equipment that will allow the engineers and technician on the tool to quickly take periodic measurements. This is going to allow us to monitor things more quickly and further our yield improvement.
+
+Our engineering and manufacturing teams' emphasis on our yield improvement program has been very productive, finding these issues and the way to fix them. We're continuing these efforts to improve the yield further. As we said, right now, we're at the SATELLAR level, but we need to go further. And we're at the SATELLAR level on an apples-to-apples basis based on how well we have done in the past. We've also applied more personnel to ensure both deposition tools are manned and also as we have more volume to do and more difficult products to do, we have the people in the back-end to handle that as well.
+
+Beyond manufacturing, we've continued to do the R&D necessary for future success. We've made some great strides in the development of more complex, sophisticated microdisplays that deliver higher brightness, better color and require less power.
+
+During the second quarter, we have reaffirmed our technological leadership in developing the OLED microdisplays. In this industry, we are the leader. We announced we have developed what we believe is the world's brightest OLED microdisplay -- the OLED-XLS. This display can deliver 1000 nits. Now, for comparison, your TV may run at 350 to 400 or so nits. The OLED-XLS has received positive reviews from our customers and is being qualified for full production. The other outstanding advantage that this technology has is at more normal luminance, it runs at one half the power with a longer life. Clearly, for mobile applications that, at times, have to fight with outside light, high brightness is necessary. But also running at more normal luminance, for example, indoors, the power and life is also necessary.
+
+Now, this technology is applicable to all of our resolutions. So, every display we make, we can put this technology on. And that's what's so exciting for us. An example, so that everyone I know can relate to is the cell phone display today. If you take your cell phone outside, it needs to fight with the sunlight. A good display will actually run about 5,000 nits. But indoors it runs at a much lower brightness and therefore it can run with reduced power. Today, the OLED cell phones if any of you have them do not meet this need. They don't run. They run maybe at 300 nits. So that brightness and that power efficiency that our display has makes it an outstanding display for mobile headset applications.
+
+In addition, we're investing in developing additional new technology that will enable even higher brightness displays. These are important for aircraft cockpits, that's the NAVAIR program really wants us to deliver color displays for that -- their applications. And it's also applicable, as I mentioned to personal headsets. We also made further progress in bringing the color gamut of our new XGA display up towards meeting the levels requested by a camera manufacturer. The second quarter financial results were driven primarily by continued activity under the large defense related program in our business portfolio. I'd like to highlight just a few of these programs.
+
+We continue to ship large numbers of Display Beam Combiner Assemblies -- DBCAs which is an assembly comprised of our SVGA display combined with an optic to our customer Exelis Geospatial Systems for the Enhanced Night Vision Goggle II program, that's ENVG II. Exelis was also awarded funding for production year three for ENVG II. We expect deliveries to continue into 2014. Building and selling these modules represent a new line of business and we're interested in doing more of this type of work in the future to expand our future revenue opportunities. This program represented about 18% of our total product revenue in Q2. We continued our work, designing and building a high brightness 2,000 by 2,000 pixel display for NAVAIR, that's the U.S. Navy program again. It's targeted for avionic head mounted displays and high performance portable digital goggle systems.
+
+Additionally, we continue to ship displays under programs like the FELIN soldier modernization in France, also to FLIR in Sweden for three industrial thermal camera electronic viewfinders, to BCF Industries in Scotland for the BUG binocular ultrasound goggles and for the completion of the RED-I Thermal Weapon Sight Remote Viewer program for the US Army.
+
+I'd like to stop here and open up the call to questions. So, can I turn it over to the operator?
+
+Thank you. We'll now begin the question-and-answer session. [Operator Instructions] And we have Shawn Lockman from Piper Jaffray on the line with a question. Please go ahead.
+
+Hi. Good evening, gentlemen, Shawn on for Jagadish at Piper. Wanted to start with the new contract you mentioned that went into backlog recently. What can you tell us about the contract and is it another contract in line with – so your military contracts as well?
+
+It is a military contract. It's using a different display. And it's one of the things that has stringent conditions to us. We spent a long time negotiating with a customer to make sure that we could manufacture them. And we have to do a little more inspection. But it is a big program, and it's one that we didn't have before.
+
+Do you guys anticipate that there could be follow-ons after this order as well?
+
+Yes. We clearly expect follow-ons.
+
+Yeah. This order is for the next – not even 12 months, and usually these orders come down in annual increments. So, yes, we'd expect another award before this time next year for sure, if not sooner.
+
+Okay. Great. And Paul, can you give us a – sort of a sense of, after a tough quarter with margins, how we should think about the margin trajectory for, you know, second half of the year and possibly into 2014? Anything you can tell us there would be helpful. Thanks.
+
+Well, our margin is dependent on two main factors as well as many others, but just the total volume of output is a major factor in margin for us because we have still overall of, we have – our output is fairly small and we have a lot of fixed cost in our – in our percentage of fixed cost in the cost of our display, so if – when our volume increases and you can see this in our history, the margin goes up pretty dramatically, just on this – on volume as we spread our cost over more displays. So that was one of the issues we had here in Q2 is we didn't have the volume and therefore the margin suffered.
+
+The other thing that's in our favor going forward is we expect to be improving the issues we've had on the new OLED deposition tool and therefore increasing the yield going forward, and maybe reducing some of the cost that we're incurring right now. And as those costs go down and as the yield goes up, combined with greater output, this would give us much, much better gross margin. So going forward, we see margin more in the 50% to 60% range where we've been for several years. In fact, we had a couple of quarters that were over 60%, but, you know, we think that's where we'll be -- 50% to 60%, you know, over the time horizon in the future.
+
+Very good. And can you tell us a little bit about any sort of, update on markets that are, you know, perhaps not exposed to sequestration and any headway you're making there?
+
+Yeah. So, certainly, our industrial markets are fine and growing. We've -- and I think we mentioned in the past, we've talked to a number of more consumer type markets -- the electronic viewfinder. We plan to take the new display that we have for electronic viewfinders again to countries in Asia to talk to the camera manufacturers and we have some interest in them. I think we said that before. But I think now there is -- there is a good chance for us to get in. Now, that's not a growth of the market, but it is a potential growth for us. The other markets on the consumer side would be things that we've talked to many companies about and those I'll leave for a future discussion.
+
+Very good. I'll jump back in the queue. Thanks, gentlemen.
+
+Thanks a lot, Shawn.
+
+Thank you.
+
+And we have [indiscernible] (26:08) on the line with a question. Please go ahead.
+
+Hey, Andrew and Paul, thanks for taking my question. Given the challenges that you've had with the new machine, how long do you think it will take in order for you to get to full optimization?
+
+Well, we -- as I said and we've said earlier, it would be to the same yield as the SATELLAR now -- I mean, sometime this year and we are now, so that's good news. We're ahead of where we expected to be, but it took us a lot of the second quarter to do that work.
+
+In terms of the other problem that I mentioned in the other chamber, the plan would be -- and this is a double-edged sword, we have to take the machine down, let's say we plan to do it over a weekend in August. And then we have to run the chamber to make sure we have it right and that would be a week out of production, but then doubling the output would be where we need to be. So sometime after August, near the end of the quarter we'll be in good shape with the machine. And actually, I would expect -- running to be much better, spending more time with the tool, as opposed to fixing the yield.
+
+So full optimization -- remember, we said we would be 10 times better than the SATELLAR. We don't need that capacity at the moment, but I think we'll be in good shape after we make this next fix in August.
+
+Okay. Good. Thank you.
+
+You're welcome. Good to talk to you, Tom.
+
+Yes. It's good talking to you.
+
+And we have Brian Horey from Aurelian Management on the line with a question. Please go ahead.
+
+Thanks for taking my question. You mentioned needing to – I think you said add some equipment or something to fix the alignment problem on the tool. What's the schedule for getting that implemented?
+
+In this case, we can guess at it and get it right, but then we have to monitor it significantly to make sure it's not going awry and I'd like to do away with that. The measuring equipment is relatively simple mechanical equipment and I see that going over, be in sometime at the end of August.
+
+Okay. But I -
+
+So we could run it --
+
+I thought you said the machine itself doesn't have the precision to hit the, you know, the targets that you wanted to. So – I mean, is there some retrofit that's needed in order to get it there? Or is this going to be a process of kind of constantly tweaking it to overcome that shortcoming?
+
+So we – right now, what we've done is – we've done it as best as the tool can do it, but we'd like a little better alignment than that. Every once in a while if you don't hit it right, the first wafers that come out aren't high yielding. So what we – our plan is during one of the downtimes is to put a device in that will measure the parallelism of the mask to the wafer as well as the distance much more accurately. The tool does this but not as accurately as we would like. So we can run the tool now but I want to hit it exactly right, every time in a short time and that's what we can't do today.
+
+Right. So I was – I was going back through some of the prior calls and looking at the discussion of, you know, the progress on the tool and – you know, the original schedule was to have samples in the hands of customers, basically, you know, in June, I think of last year. And we're – you know, we've encountered a bunch of different problems with the tool over the last year. And I mean, if this were a car, you know, I think it'd be safe to say we'd call it a lemon at this point. And I'm just trying to, you know, get some perspective on whether, you know, the design spec was too aggressive, whether, the vendor doesn't really have the skills to deliver what we need. How many more – how many more bumps in the road are there going to be before -we've been working on it for a year and we're still not there. So what is this – what does the roadmap look like going forward do you think?
+
+Yeah. I understand your question. Actually, though, just to make sure everybody on the call knows that we have, not only samples but we've produced actual product that our customers are using. And so the machine does produce good product.
+
+And the machine did more or almost half of our OLED deposition, total OLED deposition in the quarter, so it is operating and producing displays. We're just trying to get more out of it than we're getting right now.
+
+Right. I understand that. But I mean, you know, I think in November, we were talking about, you know, hopefully, leaving the SATELLAR behind or leaving the SATELLAR for basically non-production types of – types of uses. And, you know, now it's – you know, seven or eight months later and we're still – we're still trying to tweak it. And there's discussion about, you know, having people kind of constantly manning the machine to make sure it doesn't get out of spec and so forth. And I'm just – it doesn't sound like we're getting the leverage that we thought we were going to get out of the investment. And so, I'm just raising the question as to whether, you know, is there a plan B that needs to be considered? Or is there – you know, are we realistically within sight of getting this thing to do what we want and providing the leverage that we need from a, you know, from an economic standpoint as well as just, you know, not having you guys spend all your time worrying about how to get it to work?
+
+Yes. I – I agree. I think I'm bald from pulling out my hair now on this. But the team has done a nice job. And by the way, we do have a technician and an engineer nearby when we're running the tool, no matter which one it is. So it's not that we're doing extra. I did mention equipment to be near it so that we can measure it and optimize it. It'll help on our yield improvement going forward.
+
+We do see the light at the end of the tunnel. This -- the two problems that I mentioned were very perplexing to us. And the fact that we've found them and found the fix to them is very good news. So we need to put it in -- the new electronics into one system -- one chamber, and then I think we'll look much, much better.
+
+The other thing to mention, we have been running the SATELLAR, of course, for two reasons. One of them is some of our customers have to re-qualify -- even for a simple switch from one tool to the other and there are two notably that have to do that, so we need to keep pushing them to get them off of the SATELLAR.
+
+The other thing that we mentioned to you on the SNU that has been a very positive thing for us is this changing from one product to the other. There's no way with our product mix today is very different from last year with the number of different products we make, and there's no way we could have produced them if they were all on the SATELLAR. So it's -- it's good to have that new tool. It's not very good that it took us so long to get it to where it needs to be, but the product coming off of it and into our customers' hands, you know, looks very good. And the other thing, don't forget at least the uniformity is much better than the SATELLAR.
+
+Okay.
+
+But I'm looking forward to the end of this, I can assure you, and I see the light.
+
+Okay. Well, we'll see how things go this quarter.
+
+Thank you, sir.
+
+Thank you.
+
+And we have Aram Fuchs on the line with a question, please go ahead.
+
+Yes, the camera viewfinder project, if you can you just give me a little more detail? I thought that was supposed to be in production this summer, is that not true?
+
+We had two opportunities, one of them was an external viewfinder and that one, the company decided we weren't far enough long on the color gamut to go with it, although we're ahead of the LCD that they're using in the camera. That's about 67% color gamut using 1953 NTSC, sorry for the detail but there's two different standards. And we're at 75% today. So, we're working to get into a camera near the end of the year and we would like to be in an internal viewfinder and that's still a possibility for us.
+
+When you say the company, are you referencing the customer or you?
+
+In this case, when I was talking about the color gamut it was a decision by the customer that the external viewfinder, they went for the LCD display as opposed to ours. Our color gamut however is better than that one, so we would hope to get into an internal viewfinder with a customer near the end of this year and next year for production. That's our goal.
+
+Okay. And the drop in the gross margins is that emblematic of your belief that you're going to get production up this quarter? i.e. did you have people effectively just sitting around waiting to work on the new tool or if not, but what exactly is the decline in gross margin?
+
+As I have tried to explain before the gross margin is highly dependent on the volume of the output. So, our volume of output in Q2 was not as high as we like and that had a profound effect on the gross margin. The other thing is the yield is not where we would like it to be and yield is improving but still not where we'd like it to be. Then, the third thing on gross margin is the cost of the extra labor and bringing the OLED deposition tool up to – up to where we need it to be and also some of the extra labor that we have to do for some of these customers that have special requirements.
+
+So, you know, we can cover that as long as we have the volume. If we have a good volume quarter, the margins will return up to 50% to 60%. Even with these – some of these additional costs that we're incurring if we continue to incur those. So that's why we're – you know, we can see that when we make the calculations and we can also see it in our, in – when you analyze our history. So that's what we're going on when we make, you know, when we have that expectation of gross margin increasing back to those levels.
+
+Okay. Great. Thank you very much.
+
+And Dennis Van Zelfden is on the line with a question, please go ahead.
+
+Good afternoon, gentleman. You all had mentioned that roughly half of the revenue this quarter came from products produced by the new machine and roughly half came from products produced by the old machine. So let's call it roughly $3.3 million in revenue each, yet I look back at last June when you did $7 million and correct me if I'm wrong, you only had the old machine last year. So, does that imply that the old machine is not producing nearly what it used to produce?
+
+Well, there is – there are two things, one of them is the difference in mix, right, so the old machine couldn't handle it. We actually, would be good to take the old machine down for maintenance because it is taking a long time to – after replenishment of material to pump the vacuum down and get it ready to run again. So, that's – when the new machine is – after we finish going through all of this yield work that we feel comfortable we can take the old machine down, we'll do that. So it's a product mix as well. We could never have done this product mix last year.
+
+I see. Okay. And one last question, have any of your current or potential customers expressed concern or have any of your current or potential customers actually gone away because of your, inability to ramp up production?
+
+No one has gone away that I can think of at this point because of that particular thing. We have had, obviously, some customer issues that we've worked through with them. So, we feel pretty good about our customer relationship and also the customers feel very comfortable with our products. And they're – when you look at our competition, I think, you would have to say that we have the best products as well as the largest portfolio of products.
+
+All right. Thanks, gentleman.
+
+Thanks, Dennis. [Operator Instructions]
+
+. And we have [indiscernible] (40:38) on the line with a question, please go ahead.
+
+Hey, just one follow-up, in terms of yields, Andrew and Paul.
+
+Yes.
+
+I know you don't like to give numbers, so I'm not going to ask you for numbers, but from trying to figure out what the yield on the SATELLAR is, you know, I kind of have a range, and correct me if I'm wrong, but if the new machine is at the SATELLAR's yield, does that still leave room for improvement of maybe 100%? In other words, is the Satellar yielding less than 50%?
+
+Well, we – it leaves- and we've said this before when we're talking only about the SATELLAR that there's plenty of room for improvements. So the new machine being at the SATELLAR yield has plenty of room for improvement. And we think we can make significant gains in that.
+
+Okay. And then is the yield a function to a large degree on production, i.e., does the yield peak when the production peaks, the output can peak, does it have to get up producing ten times the SATELLAR?
+
+No, that's unnecessary. To get the yield up, what my direction to the manufacturing is when the machine is running well, don't shut it off until you have to replenish. And I think when the machine is running well to keep it running, this answers partly one of the questions someone answered or asked earlier, when it's running well, then you should keep it going and that says that the yield that you're getting will more likely maintain.
+
+So, we do have ways to go in yield and it doesn't require 10x the volume. If we could get the weekly production done in three days, that would be fine with me until, of course, we work to fill the machine's capacity.
+
+And Tom, it was just recently that the new machine became almost equal to the SATELLAR in yield, so for most of quarter two that was not the case.
+
+Okay. With the two problems that Andrew outlined with the chambers and you're saying that you see a light at the end of tunnel come, I think, the end of August or whatever.
+
+Well, we hope to have – yes, I'm sorry. Go ahead.
+
+No, go ahead. I'm sorry. But I just think we should see a step up in yield if those fixes hold, correct?
+
+Yes.
+
+A significant step up?
+
+Two things will occur, one is the step up in yield and the other is it will allow us to run the SNU at a more reasonable pace.
+
+So a step up in output is really – probably the primary beneficiary of getting the other target going.
+
+A few things, one of them I mentioned, the shadow masks and the wait for the alignment of that precision distance away and also the levelness. And the other thing I mentioned is the electronics configuration of another – of one of the chambers. And that electronic configuration we've been running at half speed because of the configuration problem we had generated too many particles and therefore very low yield. So those two things, I would hope to have the fix of the electronics in August, that's our plan and have the machine running much better by the end of that month, so September will be our test.
+
+Okay. Well, do what you need to do. We're all waiting for it.
+
+So are we, you bet, I'm really excited.
+
+Okay. Thank you.
+
+And our last question comes from [indiscernible] (44:54). Please go ahead.
+
+Hi Paul, Hi Andrew. I have a lot of trouble connecting, so I only got on a minute before the question, so I apologize if you already addressed these. But I had two questions, one on the EVF and one on direct patterning. I think it was in the 2010 ASM or something when you first said that if you told us the name of the "big camera" customer "it would be a name we would all recognize." And my question is will you ever be able to tell us or is it written in the NDA that eMagin must remain permanently silent because it appears that might have happened already with another customer.
+
+You know, the NDA, of course, does say things like that and usually what happens, that also is true for our military business like Exelis but when we get the order and we're in, we therefore go back to Exelis and as you know we were able to announce it. So, that's the type of thing that we'll attempt to do with this camera manufacturer.
+
+So, as of right now, you can't ever say anything but you might be able to – when it's announced or when it goes into production or when it's shipped. Hopefully, when someone has torn the camera down and found an eMagin chip inside of it.
+
+Yes, actually, that's a good one. That's a good one. We're going to look to you to do that.
+
+Well, in other words, I guess, my question is will we ever see a light at the end of this tunnel or is it no end to the tunnel?
+
+Well, in that case, we will plead with the customer to allow us to announce it and they may or may not do that. We do have some customers that never want us to say a word, even though we – and you could probably – well, I'll give you one example. We had the – our displays in an electronic viewfinder for a cinema camera and that customer didn't allow us to announce it.
+
+That's the one I was referring to, I think.
+
+Oh, that one – yes, that one – I don't know that they ever will but you'll note that there is an OLED display in the cinema camera, then, I'll leave it to you to guess.
+
+Well, everybody seems to think it's an eMagin display, but as you've said you've never been able to officially announce it.
+
+Yes. And that's one of those companies that, you know, some of them are just very private, they don't want to give a hint at all about what they're doing.
+
+But we do have a display in a cinema camera, that's a fact. We just can't say whose it is.
+
+But you think this big one whose name we'd all recognize that sooner or later you will be able to tell us who it is.
+
+Well, I would hope that. I can't – that company is probably very close mouthed too, so we'll see.
+
+Okay.
+
+It's a much bigger company.
+
+I was a little confused on the answer to the previous question, I thought you had said at the last conference call that one company had two projects, an internal one that started at the beginning of the year but wasn't due to finish until the end. And this August external one which you had said that eMagin couldn't do, but I understood that the internal one was still on track. But your answer to that previous question implied to us some uncertainty about whether you had the internal project still.
+
+Thank you. The external one we were hoping we could get and we did not and the internal one which would be a next year full production is one that we're still going after. And the company is still very interested in us.
+
+Okay. But it's not an actual commitment yet.
+
+No, I don't think we'll see a commitment until they've actually bought our display.
+
+Okay. My other question was on direct patterning. On November 6, 2012 and June 15,, reconfirming it on 2013, the OLED info site reported that eMagin had said it hopes to have direct emission prototype chips available by the end of 2013. Did I miss this statement or are those reports incorrect?
+
+What we'll have at the end of 2013, beginning of 2014 is a demonstration chip that shows that we can pattern. It will be probably a bigger display like the size of our WUXGA but only a VGA resolution. It still will show that a patterning capability that no one else can do today. You know, our dots per inch on our 9.6 micron pixel picture's about 9,400. You might know that a regular display that Samsung would put OLED on comes nowhere near that, one-tenth of that at best.
+
+Okay. But that means then that if the production tool is – the full production for products doesn't come until spring of 2014, if it takes as long as SNU tool did, you aren't going to be really producing direct pattern products until 2016, I guess.
+
+Well, our first, our goal is to demonstrate and then we – actually, we have a precision alignment tool that we're purchasing now to help us out. You can't pattern without alignment no matter what method you use, and that will produce product some time in the first half of next year like the second quarter, I would look to it.
+
+So you don't see another two year delay like you had with the SNU tool?
+
+No, in this case we'll be able to sell small volumes off of that but I think the ones most interesting or interested in that in the beginning will be the avionics, because they helped fund it. We need to satisfy them.
+
+Okay. Thank you very much.
+
+Well, you're welcome.
+
+Thank you, Gene.
+
+I would now like to turn the call over to Andrew Sculley for closing remarks.
+
+Well, I want to thank everyone for being on the call and thank you for the questions. A thank you belongs to the eMagin engineering and manufacturing team who have worked like mad to find out what the problems were with the tool and find fixes. I'm looking forward to that team putting them in and getting them operational during this quarter and therefore having a better output out of the machine and also a better yield.
+
+So the entire eMagin team worked very hard to get to where we are now. Even though, I know it is a disappointing quarter to us and you. And I would hope – I look forward to looking towards the third quarter conference call where we can give you the results of our improvements to the manufacturing.
+
+So, thanks for being on the call and please don't hesitate to send us any suggestions you have and if you see any of our people, thank them for the good effort. Thank you, folks.
+
+Thank you, ladies and gentlemen -
+
+Adrianne, I'll turn it over to you.
+
+Thank you, ladies and gentlemen, this concludes today's conference. Thank you for participating. You may now disconnect.

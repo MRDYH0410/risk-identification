@@ -1,0 +1,131 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+William T. Tempany — Interim Chief Executive Officer, FLYHT Aerospace Solutions Ltd.
+Alana Forbes — Chief Financial Officer, FLYHT Aerospace Solutions Ltd.
+Bruce Krugel — Company Consultant, KRC Insights
+Jaeson Allen Min Schmidt — Analyst, Lake Street Capital Markets LLC
+
+Management Discussion Section
+
+Question And Answer Section
+
+Thank you for standing by. This is the conference operator. Welcome to the FLYHT Aerospace Solutions Third Quarter 2020 Results Conference Call. As a reminder, all participants are in listen-only mode and the conference is being recorded.
+
+After the presentation, there will be an opportunity to ask questions. [Operator Instructions] Due to the volume of questions expected on today's call, we ask that you please limit your questions to three to allow time for others in the queue. If there are any outstanding questions at the end of the call, the company will be happy to take them by e-mail to investors@flyht.com.
+
+I would now like to turn the conference over to Bill Tempany, Chief Executive Officer for FLYHT. Please go ahead, Mr. Tempany.
+
+Thank you very much. Welcome to our Q3 report everyone. It's been a really interesting quarter with all of the goings on around the world and I think that people should be relieved and happy with the results that FLYHT posted yesterday. We understand that revenue is really down but it's down roughly the exact percentage of the global aviation industry.
+
+One of the things that we did notice is that throughout the quarter our recurring revenue started to come back and we've had steady growth since the end of May and our recurring revenue month-over-month, certainly not back to 2019 levels but the recovery is coming slow but sure. The other thing that we've noted is that there is a lot of difference in different parts of the world to how quickly the recovery is happening.
+
+If you look at the China numbers, China's flights are back to just about up to 2019 levels. I was talking to our people in China this week and while the number of flights is up, the number of passengers is still down in China. China's put some very strict requirements in on the number of people on an aircraft. So, the aircraft are flying kind of half-full instead of jam packed for safety reasons, but they are flying and their economy is starting to come back. I was also on the phone with Air Asia. Air Asia is feeling the crunch particularly bad because the majority of their flights are international. You can't fly very far in Malaysia, and if you can't leave Malaysia there's not very many aircraft flying.
+
+However, their team is confident that there's light at the end of the tunnel. They're getting support from local government and local financial institutions. We were fortunate to get part of our outstanding receivables paid down and we do have an agreement with them going forward. Now, we're sort of doing it three months at a time as we see how this unrolls. But they are a good customer. They're a very essential part of infrastructure in Southeast Asia and we believe that they will come back once we get our hands around the neck of this COVID problem and everybody gets a solution to the issues of flying or doing anything in life.
+
+We're particularly excited about the activity around our Actionable Intelligence work. I think it's very key for our shareholders to understand that this isn't a change in direction, it's a refreshment in direction. And what we've been doing in the last two or three months is taking all of the things that we used to call products, like flight fuel and aircraft health, the logs, all of those things, and integrating them into a platform that takes the data for the last 20 years we've been producing for the airlines and puts them in a format that will help the airlines drive savings when they come back into service.
+
+We're also working with third-party suppliers to the airlines to help integrate their processes, procedures, equipment, personnel, into the common view of airport, airline and aircraft data that our Actionable Intelligence is meant to address, and that's moving very nicely with a bunch of different carriers. We've also got carriers that ran into severe problems during COVID that are coming back online, and they are very interested in moving to AI from the old report so that they can actually use Actionable Intelligence as they recover from COVID.
+
+So, overall, while the quarter was definitely a disappointment on most of the revenue fronts, I'm very encouraged by the growth in our – return to growth in our recurring revenue. Our hardware revenue will come back once people start repairing aircraft. And so, I think it'll be a few more quarters before we see a full recovery of that. But it is something that is coming. We've been very encouraged that all of our customers that had kits on order have left them on order. They're delayed, but they're not cancelled. So our backlog remains strong. Timing is just an issue and we all have to deal with that. But the actions that we've taken in the last quarter to contain costs and maximize the output of the people that we have, have been effective and we'll continue to keep a very close eye on that to make sure that as the recovery happens and revenues start to return, we get to a point where we're profitable and sustainable.
+
+So, the one thing that I'm really, really pleased about is the cash balance at the end of the quarter. Alana is going to talk about that, but I think it's an indicator that we are here for the long run. We do have the controls in place, the customers in place. The customers have faith in us to be doing the job and we're here for the long run. We will survive COVID like we've survived every other tumultuous event in the last 20 years. And I'm really excited about where we're going technically with our customers and with our staff.
+
+Alana, I'll turn it over to you.
+
+Thanks, Bill, and thank you all for joining us on this call. I hope everyone is well. In the third quarter, we saw a continued pressure on revenue given the significantly depressed levels of global passenger traffic activity and as our customers sought to minimize their own cash and capital outlays as a direct result of the COVID-19 pandemic. Despite the difficult operating environment, we remained vigilant in our cost containment and stayed close to our customers. This helped us minimize the negative impact to our bottom line and allowed us to end the quarter in a stronger cash position.
+
+With that, I will start with a review of the income statement and then highlight the larger moves on our balance sheet over the past quarter. Total revenue in the third quarter was CAD 1.9 million, down 63% compared to CAD 5.2 million last year with year-over-year declines in all categories. This mirrors the drop in revenue for the entire commercial airline segment of the global economy. Encouragingly, we have started to see a sequential recovery of our recurring SaaS revenue that so far has continued also into the fourth quarter. SaaS represented 86% of our quarterly revenue, the highest quarterly contribution for our company.
+
+Gross margin expanded to 69%, as over 90% of our realized revenues came from our two highest margin businesses, recurring SaaS and a small portion from licensing. Last year's third quarter included larger contribution from hardware revenues, which carries the lowest gross margin among our revenue sources.
+
+Within SaaS, we have seen a recovery of billings off of the lows experienced in May. The pace of the recovery has been modest in recent months, though we expect it to continue into the fourth quarter as customer flight hours recover.
+
+There was little activity in either our hardware or our licensing business during the quarter as operators react to the COVID situation by conserving cash, therefore not outlaying funds for installation kits. We shipped just one installation kit in the quarter versus 41 in Q3, 2019. While licensing orders to-date of CAD 3.6 million exceeded our expectations for 2020, this business has historically been quite lumpy and is subject to Airbus's build requirements. Accordingly, we don't expect any material licensing for the remainder of the year. We believe we will see modest hardware revenues in Q4.
+
+Other income was zero in the quarter compared to CAD 623,000 in the third quarter of 2019. The last of the reconciling items from the October 2018 asset acquisition of Panasonic Weather Solutions was all recognized by the second quarter of 2020.
+
+Operating expenses decreased 31% from CAD 3.8 million in Q3, 2019 to CAD 2.6 million in Q3, 2020. This decrease was driven by a combination of targeted cost containment efforts as we reprioritized our resources in tandem with lower travel-related costs as a result of our adoption of more cost and time effective ways to meet, communicate and collaborate with our colleagues and customers. Additionally, we were fortunate to receive additional governmental funding in both Canada and the US, which has contributed CAD 838,000 in support this quarter. We have been able to reduce our cost structure while continuing to invest in developmental activities that will directly drive future growth. The total funding received from the US's CARES PPP Program to support US payroll costs has been fully recognized, while monthly payroll support from the Canadian government will continue, as that program has been extended into mid-2021.
+
+Despite our cost containment efforts, these offsets to operating expenses and higher gross margin, the quarter's revenue decline led to negative EBITDA during the quarter of CAD 1.1 million. This contributed to a year-to-date EBITDA of approximately negative CAD 200,000, close to breakeven.
+
+And now turning to the balance sheet. As Bill mentioned, we ended the third quarter with CAD 4.1 million in cash reserves and accomplishments that is the result of solid execution by FLYHT team members across the organization. We experienced very strong collections of outstanding customer balances during the quarter, which contributed to a CAD 2.1 million decrease in trade and other receivables carried at the end of the third quarter as well as stronger operating cash flow and quarter-end cash.
+
+We moved into our new headquarters in Calgary in August, so many of our employees both in Calgary and in Littleton, Colorado, continued to work productively from their home offices. The new Calgary facility better suits our needs and we look forward to when our full local staff will collaborate together in this location. The value of the building lease is reflected on our balance sheet as an increase in property and equipment, which will be amortized over the term of the lease. You'll also notice a corresponding increase in lease liability, which will be reduced over time as lease payments are made.
+
+All-in-all, during this unprecedented disruption in global aviation, we are pleased with how we have managed the levers within our control, namely, cost containment, re-prioritization, cash management and progressive improvement in our recurring SaaS revenues. We will maintain our operating discipline to position the company for the eventual return of traveler activity and customer demand.
+
+Now I'll turn it back to Anastasia to take questions.
+
+We will now begin the question-and-answer session. [Operator Instructions] The first question comes from Bruce Krugel, a private investor. Please go ahead.
+
+Hi, Bill. You made a comment about China in your prepared remarks. Could you give us an update as what's going on with China Express and how the AI rollout is going there?
+
+Sure. We've had I think three meetings so far with China Express to discuss their priorities on the things we do. China Express has been a very good user of the reports that we've been producing for several years now, and they are very excited to integrate that with some work that they were already working on around baggage and delays at airports. I don't know if anybody realizes it, but air traffic control in China is run by the Chinese military and commercial aviation gets about third or fourth priority as far as takeoff and landing slots.
+
+So, for the airlines, being able to track and notify the delays that are happening because of that are really important. And one of the things that AFIRS does an excellent job of is keeping track of the aircraft while it's on the ground, whether it's on ground power or APU power or sitting on a taxiway or on a runway, we can give them very accurate reporting in real-time when delays are happening. So, one of the first things that they plan to do is use Actionable Intelligence to try and get their priorities bumped up with the air traffic control mechanism in China.
+
+The thing that China Express was particularly pleased about is the fact they fly three different aircraft types. They've got A320s, they've got CRJs and now they've got ARJs, the first one being delivered this month. And for them, it's really important that they get a common view of the data from those aircraft, whether it's location information or fuel burn or passenger loads, whatever. And Actionable Intelligence gives them that single view, the capability to look at all of their assets in a common manner and make decisions based on data in the same format. So, they're going to be an excellent customer, and we are doing quite a bit of work with them.
+
+Right. It was heartening to see recurring revs increase CAD 300,000 on a sequential basis. When do you think we'll start to see Actionable Intelligence materialize in recurring revenues?
+
+First or second quarter next year. Well, the deal that we've made with our large customers is, while we're developing this and getting things up and running, improving the savings and getting their people indoctrinated, we won't be charging them for the service. We're making really, really good progress. As I mentioned in my opening remarks, we're not developing new software; we're taking a lot of the functions that exist in uptime today in our ground-based services today and reformatting them and putting them into tools that they can use to actually change their operations.
+
+So, a lot of it depends on how much data and how many systems we can get integrated from the customers to add value. We have all of the aircraft data we need trying to get into flight planning systems, trying to get into baggage handling systems, airport systems on passenger loads are things that we're working on in China and here. And until we get those, it's really difficult to show the kinds of savings that we know AI is going to deliver. So, it will be in the first half of next year when we actually start invoicing customers for AI.
+
+Okay. And moving on to inventory, you've got about CAD 1.7 million in current assets and about CAD 1.9 million in long-term assets. Can you just help understand what the difference is between the two categories? And secondly, a follow-on question from that: Why do you need so much inventory?
+
+I'll let Alana answer that, but...
+
+So, the amount that's in long-term is the amount that is expected to not move within the next 12 months.
+
+And the reason we have that, Bruce, is because a lot of the parts that we use in our AFIRS units, we buy enough to do 3,000 or 4,000 units; because they come to end of life, and if you don't buy enough to build out how many potential AFIRS units we're going to build, we wouldn't have the parts and we'd have to do a bunch of recertification work. So a large part of that long-term inventory that isn't used within the 12 months is because it's parts for building future AFIRS units so we don't run out of inventory to build with.
+
+Okay. And so... [indiscernible]
+
+(00:19:13)
+
+Sorry, the logical follow-on from that is, the large hardware order that we know about which is WestJet, you could fulfill a big chunk of that out of your current inventory levels. I'm trying to determine – so that's the question – I'm trying to determine what your working capital requirements would be over the next two to three quarters as you deliver against that hardware contract.
+
+We have the majority of the parts in-house in inventory to satisfy the first order that WestJet is talking about putting in. Again, the WestJet order from the original contract is being delayed anywhere from three months to 12 months depending on when we get back flying in Canada; because they only do those installations during c-checks, and obviously, they're not doing as many c-checks because their aircraft aren't flying. But we do have 75% to 80% of the items we need for their initial order in inventory today and won't – it will impact our working capital because their current inventory is going to reduce because those are all current items. But certainly not a cash impact to us for the majority of the first shipment that we have to do.
+
+Well, that's great. That's all my questions. Thanks.
+
+Welcome. [Operator Instructions]
+
+Any other questions? [Operator Instructions]
+
+The next question comes from Jaeson Schmidt with Lake Street. Please go ahead.
+
+Hey, guys, thanks for taking my questions. Just based on your prepared remarks, it does sound like there's been incremental improvement overall. But just curious if you could comment on how the general visibility has improved over the past three months?
+
+By visibility, you mean new customers or the industry in itself?
+
+Yeah, sorry, more so just the industry itself.
+
+Well, the industry is – our customers that we're talking to, instead of spending 90% of the time doing daily operations, they're spending 90% of their time doing forecasts and budgets. There are so many outside influences affecting them that – and it's extremely difficult because you can't just take an aircraft and say, okay, we're going to bring it back from the desert and we're going to go flying tomorrow. One of the big concerns that our airline customers have is that the pilots have to have flown a certain number of hours in the last quarter to remain qualified. And if there aren't enough flights going to keep enough pilots qualified, you go through a big retraining exercise and recertification exercise.
+
+So, all of the airlines are dealing with those kinds of problems where they've got to keep crews current, they've got to keep enough people around to handle the flights that are going. And the flights are reduced to trying to make the flights that do go as economic as possible by having as many passengers as they can get on those flights.
+
+And again, we've got a really – one of the advantages FLYHT has is we have a really diverse client base. We have airlines in Africa that have had no impact at all because they're flying food missions, medical missions, mail, so they've been flying just like every other day. We talked about China and its recovery, but if you look at our North American carriers, quite a few of our carriers fly into Northern Canada where they're essential service for goods and services and medical evacuation and so on, so they've been pretty steady. We've got a bunch of our customers that fly cargo, and cargo operators are busier than ever. So, they've been doing extremely well.
+
+Our passenger customers are the ones that are kind of sitting on their edge of the seats, seeing what's going to come next with government regulations and the attitude of the traveling public. I can tell you, as a Canadian, not being able to plan a winter vacation someplace warm is starting to really bother me and a whole bunch of other people in Canada. It's kind of a tradition that everybody gets away sometime in January, February, March to get away from the snow and the cold. And I think that customers like Swoop, our low-cost carrier part of WestJet, and the people we're working with there are seeing people saying, I'm going to book a trip, I'm going.
+
+The Alberta government has come up with a 48-hour test. When you fly into Calgary or Edmonton, you get a swab done. 48 hours later, they tell you whether you're good to go or not, and no more quarantine. And if we can get some of those rules going across North America, we'll see a rapid recovery of travel, I believe. So, the outlook is optimistically pessimistic, I guess, is the best way to put it. The airlines know that it's going to come back. When is the question and how do they best prepare for that to make sure that they've got the capacity to take it once it does open up.
+
+Does that answer your question?
+
+No, that was very helpful. Appreciate that. And then, just as a follow-up, I'm just curious if you're seeing any significant pushback from a pricing standpoint. Obviously, the industry remains challenging. Customers are hyper-focused on their budgets. Has pricing become an issue for some customers?
+
+On Actionable Intelligence, absolutely not, because they're going to save 6 times to 10 times what they're going to be paying on each flight for using Actionable Intelligence. So, for them, it's a cash bonus. The fact that we've set it up so that you can implement Actionable Intelligence, 60% or 70% of the capabilities without any capital investment has been very well received. And the other little challenge that I threw out to Alana as part of her goals for next year is to find a vehicle where we can help them finance the installation of the AFIRS unit so they wouldn't have any capital costs with it as well. So, I know she's working hard on that because that's one of the key goals for next year.
+
+Okay. Helpful. Thanks a lot guys.
+
+No problem. Thank you.
+
+This concludes the question-and-answer session. I would like to turn the conference back over to Bill Tempany for closing remarks.
+
+Okay. Thank you very much. Well, thanks everybody for joining this morning. As I say, I'm very pleased with the results in the third quarter and I think we have a really solid plan going forward to make sure that we not only survive, but thrive during these unprecedented times. So thanks everybody for your time and attention today. And as always, you can reach out at investors.com or call me. I'm always available to answer questions and help you with your buying decisions. Thanks.
+
+This concludes today's conference call. You may disconnect your lines. Thank you for participating and have a pleasant day.

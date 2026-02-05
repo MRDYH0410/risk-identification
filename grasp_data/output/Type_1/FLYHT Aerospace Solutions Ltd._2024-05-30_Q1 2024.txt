@@ -1,0 +1,260 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+Matt Chesler — Partner, FNK IR LLC
+Kent Jacobs — President & Chief Executive Officer, FLYHT Aerospace Solutions Ltd.
+Alana Forbes — Chief Financial Officer, FLYHT Aerospace Solutions Ltd.
+Bruce Krugel — Analyst, KRC Insights
+Richard Ryan — Analyst, The Oak Ridge Financial Services Group, Inc.
+Kris Tuttle — Analyst, IPO Candy
+Samuel McColgan — Analyst, Breakout Investors
+
+Management Discussion Section
+
+Question And Answer Section
+
+Thank you for standing by. This is the conference operator. Welcome to the FLYHT Aerospace Solutions' First Quarter 2024 Results Conference Call. As a reminder, all participants are in listen-only mode, and the conference is being recorded. After the presentation, there will be an opportunity to ask questions. [Operator Instructions]
+
+Due to the volume of questions expected on today's call, we ask that you please limit your questions to three to allow time for others in the queue. If there are any outstanding questions at the end of the call, the company will be happy to take them by e-mail to investors@flyht.com.
+
+I would now like to turn the conference over to Matt Chesler, Investor Relations. Please go ahead, Matt.
+
+Thank you for joining our first quarter 2024 earnings call. On the call with me this morning are Kent Jacobs, President and Interim CEO of FLYHT; and Alana Forbes, FLYHT's Chief Financial Officer. We have posted a press release covering the information we'll review today, as well as a webcast of today's conference call on the Investor Relations section of our website, flyht.com. Additionally, an archived version of the call will be posted on the website as soon as it is available from the conference call provider.
+
+Before we begin prepared remarks, I'd like to remind everyone to read the forward-looking statements and non-GAAP financial and other information that we have included in our Q1 2024 report. Certain of the statements made today may constitute forward-looking statements, and these statements are the company's present expectations. Relevant factors that could cause actual results to materially differ are listed in our earnings materials and in our SEDAR filings, including our Annual Report, which is filed on SEDAR.
+
+During today's call, we will also discuss certain non-GAAP financial measures. You can find the reconciliation to the nearest comparable GAAP measures in the first quarter 2024 report.
+
+With that, I'd now to call – turn the call over to Kent.
+
+Thank you, Matt. Good morning, everyone, and thank you for joining us on this call. It's only been a few weeks since I last updated you on our progress, but there is no shortage of energy across the FLYHT organization as we go to market with our innovative 5G aviation and weather solution. This excitement is fueled by having completed substantial development on the Edge and Edge+, having physical products in hand and having STCs for additional aircraft types on the way. We can now be out in the market aggressively telling our story, and that is exactly what we're doing.
+
+I'd like to share with you some of the more visible activities and engagements of our senior team working around the world with our customers, partners and investors that are fueling my excitement. We are completing a very active calendar of industry shows and events.
+
+At the Aerospace Tech Week Forum in Germany, that was in April 17 and 18, we brought strong representation from both our North American and European teams. Highlight of that event included Murray Skelton, our VP, Business Development and Weather Solutions, presenting about FLYHT's role in contrail detection and avoidance. Being front and center at an event like this where we can present and further promote our FLYHT WVSS-II sensor and related weather products.
+
+Additionally, Axel Christ, Managing Director at CrossConsense, represented FLYHT in some very interesting conversations which will further strengthen our already competitive and growing AMOS tech support offering. Having both Axel and Murray in Munich at a show like this helped to further our European presence in both the MRO related activities that CrossConsense provides and in our Edge and weather business. Just before the Munich show, FLYHT was presenting in China at the China Aviation New Tech Forum in Hangzhou. That was on April 11 and 12. Willie Cecil, our Director of Aircraft Data and Edge Solutions, presented on the AFIRS Edge+. Following the success of this new tech forum, Willie and Michael Fang, Vice President in China, began a 10-day China sales trip. Our team met with five of the country's largest 11 airlines, who represent a combined fleet of nearly 900 A320 aircraft.
+
+China's mandate for wireless post-flight transmission of QAR data is the country's largest – large commercial aviation industry, an attractive market for our solution. Both the Munich and Hangzhou events were precursor to the high profile 2024 AWEEC, Aviation Maintenance Conference in Phoenix, which concluded last week. The AMC brings together aviation industry experts from around the world.
+
+FYHT again had a large presence this year at the AMC and showcased both the Edge and Edge+ in cooperation in our hospitality suite. On the investor front and not to be missed, is FLYHT board member Nancy Young's upcoming fireside chat at the Jefferies Aerospace ESG Summit on June 20. Nancy will sit down virtually with Jefferies US Aerospace and Defense and Airline team, along with other top leaders from around the world, to discuss how our weather solutions can play a role in the industry's sustainable aviation goal. Webcast details will be available on FLYHT's website closer to the event.
+
+Two weeks ago, I was at the Rivemont MicroCap Technology Special in Montreal, where I delivered our corporate presentation in person to a group of technology and global investors. Since our last update, we have continued our excellent progress on the Edge+ development and certification and on the STCs for our family of products. We have now completed aircraft certification testing for the Edge on the Boeing 737 NG aircraft. The certification testing covered both the wireless QAR features and the AID capability.
+
+The next step is the submission for the activation STC approval. The Edge+ now successfully, additionally, the Edge+ has now successfully passed conformity inspections at our Calgary office and after careful review with our design and manufacturing partner OSS, we are formally in the qual testing phase. Actual qual testing, uses the environmental testing where we make sure that the box is the same product to be on the aircraft. It's expected to be completed in about three weeks, with reports finalized and written by the end of July.
+
+The FLYHT-WVSS-II sensor is under production in our Calgary facility and we are tracking the schedule with Loganair to synchronize aircraft maintenance schedule so we can complete our first installations later this year. Through these actions and accomplishments, FLYHT is following through on our plan to complete our certification efforts for the Edge and the Edge+ of the two most popular aircraft types, the Airbus A320 and the Boeing 737 families of aircraft. These two aircraft types representing roughly 70% of the commercial fleet that is available for flight.
+
+In these regards, I hope you share my enthusiasm. This is an important and exciting time for the industry and more importantly, an important and exciting time for FLYHT. Turning to the first quarter financial performance, we returned to growth as we had an out cycle past the large OEM order in 2022 that made for difficult comparisons in the second half of last year.
+
+Our SaaS revenues are continuing to increase at double-digit rate, representing over half of the company revenue at 50% plus gross margin. Growing traction by CrossConsense for continued strength in Technical Services, which grew 128% to CAD 1.3 million, making it our highest ever quarter for that revenue category. We significantly narrowed our EBITDA loss to CAD 594,000, demonstrating the operating leverage potential of our new – of our recurring revenue model.
+
+With the financing transaction announced alongside our financial results. FLYHT has the capital it needs to support our growth plan specifically to complete the development and certification of our new Edge solution and to let us more aggressively pursue our commercialization effort. Aside providing a capital source of a key inflection point for FLYHT, this investment demonstrates strong confidence in our future, and in particular, the potential value of our 5G aviation and weather solution. I look forward to updating you on our continued progress throughout the year. And as always, I would like to thank all of our loyal shareholders for their continued support.
+
+I'd now like to turn the call over to Alana for a review of our financial performance.
+
+Thanks, Kent. Financially, Q1 revenues increased from Q1 2023 total, driven by double-digit increases in our high-margin SaaS sources of revenue, which aligns with our objective and Technical Services, which together, made up the [ph] ground law (00:09:14) in lower hardware revenues as Q1 2023 hardware revenues were larger than usual due to a large WestJet order last year.
+
+Technical Services continue to increase each quarter as CrossConsense continues to deliver quarter-over-quarter increases in data migration services and as we also see, an increase in demand from customers in support for regulatory or supplemental type certification work. Our sustaining business, including past generations of AFIRS hardware, our existing weather business and CrossConsense continues to provide healthy margins that support our investments in both Edge and WVSS-II product lines. Total operating expenses decreased from Q1 2023, showing the results of the cost constraints we have implemented over the past several quarters. And also our evolution as development on the Edge product line winds down to more of a focus on obtaining required regulatory approvals and accelerating sales now that we have both completed units and our first Edge STC in-hand.
+
+From a balance sheet perspective, although in recent quarters we have been focused on cash constraints to strike the appropriate balance in investing the net income from our sustaining business into our newest product line, it has not allowed us to move as fast as we believe is required to capture as much of the available market for the Edge as possible. Our strategy in choosing a debt vehicle at this time was to allow for us to access more capital in 2024 with repayments more in alignment with our anticipated timeline of Edge revenue being recognized starting in Q4 2024.
+
+The recognition of these revenues aligns with our recent deferral of loan repayments as discussed on our Q4 earnings call, as those payments were moved out of 2024 and into 2025 and beyond. We evaluated many options in coming to this solution as we wanted to arrange for funding that would allow us to accelerate our commercialization effort, as we move from a development focus to focusing more pointedly on regulatory certifications and in boosting our sales and marketing efforts. But that would also minimize dilution for our current shareholders.
+
+We also carefully evaluated the amount of debt we are agreeing to as we conservatively modeled our anticipated needs and getting us through to a timeframe where revenues from the Edge and the WVSS-II would kick in so we could be comfortable that this vehicle will get us to a profitable stronger financial position.
+
+Looking ahead, we are looking at a growth year. We are confident in revenue increases in 2024 over 2023, but it is still early in the execution of our plan. And we have all kinds of variables to consider, including sales execution and regulatory agency timing among others. We are feeling optimistic about capturing a significant portion of the large TAM in front of us for both Edge and weather. And we continue to drive forward as fast as we can. Yesterday's financing announcement will ensure we have the financial support we need to execute this plan and to be creative in evaluating all aspects of our approach in getting us to that finish line. This phase of execution requires that we take a closer look at all aspects of our business as we become more focused on accelerating sales.
+
+We expect growth in our business driven by the execution of our strategy with Edge and our weather technology driving growth on top of our sustaining business. Our contracted backlog remains strong at CAD 37.5 million, of which over half is in recurring services. Our near-term pipeline is promising with the team pursuing contracts totaling over CAD 200 million. We remain diversified in our sales focus with about 45% of that pipeline focused on the Edge product line, 10% on weather, and the remainder on our second generation hardware, the 228 program, which has been going strong since 2012. We expect that over the coming years, both 228 (and Edge platform sales will drive increased hardware sales and that SaaS revenue will likewise enjoy continued growth.
+
+A second phase of fast growth should occur as we begin generating Edge and WVSS-II hardware sales, and realize the recurring revenues associated with the weather observations that will be generated for the met agencies. Our solutions continue to be in demand as the aviation industry recognizes the need for improved efficiency, profitability and a more sustainable environment.
+
+And now on an administrative note, the audit delays we experienced in finalizing our full year 2023 statement, trickled into our Q1 timeline and our AGM date both being held later than our usual schedule. So I want to thank you all for your patience. We'll see you on June 19 for our AGM and we expect to recover back to our typical timelines in time for our Q2 results, which we plan to finalize in early August.
+
+With that, I would like to turn the call back to Karl and we would be pleased to take questions from callers after which we'll address the questions we received in advance at investors@flyht.com. Karl?
+
+Thank you. We will now begin the question-and-answer session. [Operator Instructions] The first question comes from Bruce Krugel of KRC Insights. Please go ahead.
+
+Hi, Kent, hi, Alana. You mentioned...
+
+Hi, Bruce.
+
+...you mentioned progress with regards China. So, I've been reading a lot about increased interest on the C-919 in China. And you said you went around and visited a number of airlines, which would suggest the existing fleet as well. So in terms of interest for the Edge device, is it sort of C-919 related or is it the existing airlines − aircraft that you're seeing interest for?
+
+Yeah, Bruce, that's a good question. Just a really quick note about the C-919. The program in China for that aircraft is still advancing and progressing, but I think it is progressing much sometimes slower – it's progressing slower than we sometimes are led to believe when you read articles about that program and the COMAC aircraft. The trip that FLYHT was on just recently with Michael Fang and with Willie, that focused on airlines that are primarily flying the A320 aircraft. So we actually hit the 5 airlines with a combined fleet of 900 aircraft. It was a focus on the Edge and that's where it was in China. We were directing it directly at that A320, 737, those fleets in China. The C-919 we're ready for it when it comes along. We're absolutely ready for it, not only with the Edge, but also with the AFIRS 228 providing a satcom option on that aircraft. But that trip, the tech week in China when the associated sales trip was focused on A320 operators.
+
+Okay. And then you mentioned progress on the 737, the STC. Do you have any idea on the timing?
+
+Yeah. So in my note there, we discussed the fact that we've done the certification testing on it. So that means that we've – let me explain a little bit about that. That means that we've been on the aircraft, we've installed the product, all the wiring is complete and we demonstrated the functionality. And that lets us then go ahead and make the next step being the submission to Transport Canada, the TCCA, for that activation approval. So we're expecting that this year. We're expecting it actually even in Q3.
+
+Right. And any update on your familiarization process in Europe for the A320 Edge device?
+
+No updates on it right now. The familiarization process is underway. So once we get feedback from Transport Canada and EASA, we will be – we'll be sure to share that. But beyond that initial application being made and the process being kicked off, no, nothing to report.
+
+Okay. Great. Thanks. That's all my questions.
+
+Thanks, Bruce. Appreciate it.
+
+Our next question comes from Dick Ryan of Oak Ridge Financial. Please go ahead.
+
+Thank you. Hey, Kent, looking at just a couple of the revenue buckets, hardware, let's say, struggled the last couple quarters. Can you give us a sense of what you're seeing there? And also in the Technical Services bucket, over CAD 1 million each of the last couple of quarters. But then there was a comment about completing data migration project. Can you give us kind of a sense of what you're going after, what data migration means, and what's the pipeline look, there? Was this just a onetime product or project coming through, or is there more projects behind the last couple of quarters' performance?
+
+Yeah. Thanks, Dick. The data migration program and the projects across we tend to take on. They're onetime projects but they lead to several things. And so I'll talk about that in a second. So CrossConsense is recognized as an expert in the field of data migration from multiple different systems into the AMOS system. Just to be clear, they've also done migration programs to other maintenance MRO software platforms as well. But they focus on migrations into AMOS.
+
+The migration effort involves taking information and data from disparate sources at an airline and third parties, bring it into a format that can be properly ingested into AMOS. Once that's done, the migration for that part is over. But it leads to other areas where CrossConsense is expert.
+
+One is it tends to lead to, and often and most often, leads to hosting opportunity, where CrossConsense will host the application AMOS and run it for the airline, providing the technical support to keep the application operational and running.
+
+They also have the opportunity, then, to provide support for the AMOS users of the airline. So, in addition to migrating the data, running the hosting for it, they also then get contracts, multiyear contracts to provide the support whenever somebody has a question about AMOS, if they make a mistake with AMOS or if there are problems with the actual application.
+
+So CrossConsense begins with the migration, and then it leads to – tends to lead to hosting and support contract. And CrossConsense has an AMOS backlog right now of CAD 3 million with the work that they're doing.
+
+So that's a pretty good, sticky business once you get in with the initial data migration work.
+
+It's a great business. Yeah, it is very sticky. And the beauty of doing the data migration this comes directly from [indiscernible] (00:21:34). The beauty of doing the data migration is that you – they can take multiple years. These are not easy programs to do. And because they take time, you build a relationship with the airline, you build a relationship with the people that are going to be running and using the system and it becomes a natural fit to provide the hosting and the support afterwards.
+
+Great. And then just visibility on the hardware side over the next few quarters, what do you see there in that pipeline?
+
+I think our hardware revenue has historically been lumpy, not quite as lumpy as our Licensing revenue, but the decrease in quarter-over-quarter was more about last year's Q1 included a large hardware order from WestJet. So that was somewhat unusually large. However, you're right, [ph] CAD 6 million (00:22:26) is low when you look at our average hardware revenues over – quarter-over-quarter. We are subject to our customers' installation schedules. We do have a large segment still of our backlog that is the AFIRS 228 hardware. It's about CAD 7 million of our current backlog, and I think you'll see it be – continue to be lumpy heading into the future. And what we're really looking forward to is Q4 hardware revenue being increased by the addition of Edge and WVSS-II sensors.
+
+Okay. Maybe, Alana, maybe to tie that in with the design refresh with the OEM, what's the timing of that and would that kick in this year or is that more of a 2025 story?
+
+The effort is occurring this year. The revenues that we'll – we'll see some Technical Services revenue from that redesign effort in 2024, but the real results from that effort will be Licensing revenues in future from between 2026 and as late as into 2029, perhaps beyond. But that's the visibility that we believe we have.
+
+Okay. Great. Appreciate it. Thank you.
+
+Our next question comes from Kris Tuttle of IPO Candy. Please go ahead.
+
+Hey, guys. Thanks for taking my questions. Just a couple of quick ones. Tech Services was really – was strong. And I wanted to understand is the nature of that business one that we can expect to be consistent? We all know Licensing is going to bounce around and can't really forecast that. But is Technical Services the kind of business that we can expect this, let's call it, CAD 1.3 million level in the quarter to be somewhere in that neighborhood and possibly growing as we go through the next several quarters?
+
+CAD 1.3 million was a really good quarter for Technical Services, primarily driven by CrossConsense. I think CAD 800,000 is a more realistic kind of steady number. The Tech Services though, Technical Services, is – it really is proving to be part of CrossConsense's strength. And it leads to as we kind of discussed with a previous question, the Tech Services are leading very much to other contracts and other opportunities where we can actually start to use that data. So, yeah, consistent, maybe not quite at the CAD 1.3 million.
+
+Okay. Yeah. That's helpful, Kent. And then just remind me, I just want to understand the timing of flows as the business develop, as you get sort of familiarization, harmonization, STC spread? Once you get a firm order that you can fulfill, that is the STCs and the quality testing and everything is done, what – how long does it take for you guys to be able to recognize revenue on the hardware sale and then subsequent or coincident with that, the SaaS portion of that, based on whatever the attach rate is for that piece of hardware, just like round numbers in terms of like, is it a few weeks or is it a few months, just so I understand the flow a little bit?
+
+Yeah. Good question. I'll talk a little bit about the inflation, the process of getting the bulk of the plan, then I'll turn it over to Alana. The AFIRS 228, AFIRS 228 family of aircraft could take quite a while to build an aircraft, 120, 130 hours because we're punching a hole in the aircraft for antennas and things. The Edge, the Edge product, a little bit less because we don't have quite as invasive of an installation on the aircraft. And then the 4MCU product, that's a five-minute plug-and-play. Remember, if we've got the provisions from the Teledyne product already on the aircraft, it's a very quick, very easy installation on the aircraft.
+
+And so from I think your starting point was from qual testing or was it – or was it once you've obtained the STC, how long will it take to installation? Can you just clarify Kris?
+
+Yeah, sure. So I'm – and I apologize, I'm not an expert in some of the areas that you guys are operating in. But like if I'm an airline and, let's say, I'm waiting for the US version of the STC to be familiarized. And I'm like, great, I want to get X number of Edge devices installed on my Airbus fleet, let's say 20 airplanes. How does that – you guys have to – how does the revenue flow on the hardware side and then the SaaS part of that as you actually fulfill that order for that new – that customer who's presumably in the – maybe they're just in the pipeline or the backlog?
+
+Okay. So once we have an STC in hand, if we have hardware contracted for, that's entirely dependent on our customers' installation schedule. So if it's for an AFIRS 228 or the flange version of the Edge product, we have to wait until they can take it down for usually a c-check. They're generally taking it out of operation for other reasons, and we piggyback on that timing. So that is – that can vary widely. If it's the [ph] 10s over the two to (00:29:02) 4MCU five-minute replacement version of the Edge, then it's much more quick. If the customer is ready, we are ready.
+
+When we ship the hardware is when we would recognize the hardware revenue. SaaS revenues that are associated with those hardware revenues and with those installed on the AFIRS 228, they flow pretty quickly. It's usually within two months. Some of the services like voice and flight tracking will be available to our customers immediately. So that will start to flow from those services on day one.
+
+If the customer requires some customization to incorporate our products, our SaaS products into their operations, then it can take as much as four months or so following hardware install. So it does vary significantly, but they are [ph] thought (00:30:00).
+
+Can I just add...
+
+Yes.
+
+...really, really quickly? Yeah. Kris, you know, as Alana mentioned, those initial installations, regardless of whether it's a fresh installation or even the quick plug-and-play one, there can be effort to incorporate that into the operations of the airline. But that effort to incorporate the data, the SaaS revenue, the SaaS product into the airline, it happens once and it happens on those initial installation. The follow-on installations actually shorten the time then again from the actual installation of the box to the revenue.
+
+I see. So the first one, if customization is required, it could be a little extra. But then once that's completed, subsequent installs can flow more quickly?
+
+Correct. That's the point I took away.
+
+Yeah. Okay. Yeah, that's – that is very helpful. I appreciate that. That's all I've got. So I'm looking forward to talking to you guys soon and I'll look to that fireside chat that's coming up too. Thank you.
+
+Great. Thanks, Kris.
+
+Yeah. Thank you, Kris. Good. [Operator Instructions]
+
+The next question comes from Samuel McColgan of Breakout Investors. Please go ahead.
+
+Hi, Kent and Alana. Yeah, Sam from Breakout Investors. Yeah, I had a few questions. The first one was about kind of your gross profit. Just, I was just kind of looking through kind of your revenues and kind of historical margins, mid-stream and just kind of guessing where I thought the gross profit would be. And it came kind of much higher than I expected. And I just wondered if there was anything in particular that was driving kind of a higher gross profit to pop out this quarter.
+
+And also just kind of along those lines, the kind of revenue I suppose per unit shipped was the hardware revenue per unit shipped was quite high, quite a lot higher than usual. So I just wondered if there was anything there in particular that you could share.
+
+So I'll tackle gross margins first. It varies between our product lines. And so when you see variances quarter-over-quarter, it's usually differences in hardware revenue, licensing, which isn't relevant this quarter nor the comparative, but that will influence it heavily. This quarter in particular, we had a high Technical Services revenue line and that contributed a fair bit to our increased gross margins. Hardware gross margins are usually in the 30% range, but can be higher, particularly in our 228 program where we're able to, we've been able to optimize some kits. And I think that's what you're probably seeing the results of this quarter.
+
+Revenues per unit with regards to hardware revenue, that also, it varies widely. I hate that answer because it doesn't – I'm not sure if it helps, but our per ship at hardware revenues can be anywhere from CAD 35,000 to over CAD 100,000. And it completely depends on the hardware package chosen, the size of the installation kit that's required, all of the wiring that runs to the antennas and so on. So this quarter, we sold bigger kits.
+
+Complex.
+
+More complex kit.
+
+Yeah.
+
+Yeah. I know that doesn't help in modeling for future, but I think of our – in general, our averages will still hold true.
+
+Yeah, you're right on that. But it does help your cash situation, so I'm all for it. Yeah.
+
+So are we.
+
+As for your SaaS revenue stream, you're seeing like tremendous growth over the last year, but just this quarter, it's kind of dipped a little bit despite I think, commentary in the filings that you saw kind of strong air traffic in general. So, I just wondered if there was anything in particular that led to the kind of like a slight dip instead of – I'm sure the most shareholders are just kind of hoping for that segment to just kind of slowly increase over time. So, I just wondered if you could just talk about why that might be a temporary dip and likely to keep going up slowly but steadily?
+
+Yeah. There are many factors that influence this quarter over quarter. What we've really got our eye on is comparative quarters. Does it continue to increase year over year or does it continue to increase and we might see some small variations quarter to quarter? That's based largely in two main buckets. How much are our customers flying, which was an increase this quarter; and also in how many observations are taken on the weather side, and we saw a slight decrease in that this quarter. So those are the main – the two main bearings.
+
+Yes. That makes sense. I remember last quarter I asked about whether you were installing – kind of in the middle of installing, like, where you were with installing those first Edge devices. I was just surprised you haven't really mentioned – I would have thought that I'd see in the announcement this quarter, oh, we've installed our first Edge or something like that. Could you maybe speak to kind of [indiscernible] (00:36:14). You've got the first STC now. You have a contract. Where are you at with those kind of – I know there's not going to be a huge number of this installed right away, but it would be a good milestone for investors to see.
+
+Yeah. Sam, that's a good question because it ties in with what we were talking about a few minutes ago. We have our first Edge installed on the A320 at Canada Jetlines. We're transmitting the data over 5G networks and we're providing the service to that airline. We talked about how it may take – as we introduce that data into the airline, it takes a little bit of an effort to – for them to ingest it and to make sure that their operations are able to absorb it. And that's where we are right now.
+
+Working with Jetlines is exactly where we are right now, knowing that future installations will be shorter and the time between the installation and having that aircraft operational for them will be much shorter. So we're doing that first installation – pardon me. We've completed that first installation. We're fully operational there.
+
+On the 737NG side, we've got that first installation complete. We've done certification testing. The plane is in the paint shop right now. We're waiting – we're just waiting for paint. It's tough because we think the paint looks great. But it's got to be completed and it'll be a few weeks before it's out of the shop and we're able to continue down that path. So we're completing these first installations. They're coming online. The aircraft are coming online. Yeah, we're making that progress and on the two different aircraft types as well.
+
+Great. Yeah, that's great news. I was wondering about the, I think in the shareholder letter at the beginning of the year, you mentioned kind of a potential contract to take over managing the existing WVSS devices out there. I was just wondering if you could maybe talk a little bit about, I don't know if it's been awarded or not, what the timeline for that would be. What – if you did happen to win that, what it might look like for FLYHT? Because as I understand, it's a relatively big contract that you could potentially win.
+
+Yeah.
+
+We're not pursuing that. I'm not sure where that...
+
+Comes from.
+
+...where that came from. But I – we don't see that as a possibility. The seller of the WVSS sensors that are out there, they've got a hold on that portion of the business. And that can't be [ph] FLYHT (00:39:06).
+
+Okay. No, maybe I misunderstood something. So sorry about that.
+
+Okay. All future WVSS...
+
+Yeah.
+
+...totally in our core.
+
+Yeah.
+
+Absolutely.
+
+Yeah.
+
+And we're happy to have that product going now] but the past is the past.
+
+Okay. I'll make this the last question. I was just wondering about – you've mentioned kind of how the new working – the new credit facility would provide you with increased working capital. That's, by the way, I think most analysts would agree brilliant news, no more kind of worry about a cash raise in the near future in any case. I was just wondering, you mentioned how you hope that I would kind of help you to perhaps ramp faster. And I just – and I think the wording that you used in the report was you were still trying to kind of manage the cost. So I just wondered if you can kind of talk to that dynamic between ramping as fast as you can while not trying to escalate your costs. Should investors expect – you've got a bigger loan to kind of ramp up your costs to get to the end faster, or I'm just wondering how you're managing that dynamic.
+
+We are not expecting to increase our costs. We think that the focus will change. We're – the reason that we are here is timing slipped on the Edge, and we need to be able to get to a place and spend appropriately so that we can get to a place where Edge is paying for itself and supplying the big gross margins that we're expecting. What we're – what we are modeling is fairly flat G&A, but a change in focus in our spending so development will be decreasing – has been decreasing. The Edge and the WVSS-II don't have the kind of needs in that area of spend that they have historically had. But what this allows us to do is replace that void with STC activity so that we can obtain more regulatory approval in time to deliver those Edge revenues starting in Q4 of this year. We also expect a smaller increase – a small increase in supporting sales and marketing. We need that team out there traveling to customers, prospective customers, showing our wares at trade shows. And we – so while overall spend, we don't anticipate it increasing, this allows us to keep our spend at the current pace and refocus it.
+
+Yes. Makes sense. That's everything for me. Thank you both for the answers and, yeah, for all the hard work.
+
+Thanks, Sam. [ph] Nice meeting you (00:42:26).
+
+Yeah, thanks, Sam.
+
+As there are no further questions from the phones – pardon me. We have a follow up question from Sam McColgan of Breakout Investors. Please go ahead.
+
+Sorry. No follow-up question. I accidentally reentered the queue. I meant to exit the queue.
+
+All good Thank you, Sam.
+
+That was quick.
+
+As there are no further questions from the phone, I'll hand it back over to Kent and Alana for emailed questions.
+
+Okay. We'll just have a run through the ones that we received in advance. In your Q1 report, can you elaborate on what is the China mandate on wireless?
+
+Yeah, this is a really good question and it helps explain why we are focusing so much on the wireless QAR market in China. Most countries around the world have a mandate to record QAR data and use it FDM, flight data monitoring programs. In China, they have a mandate like that, but they went a step further. That data that is collected has to be in China transmitted post-flight wirelessly. So, China has probably the most complete wireless QAR fleet on the planet. They've also got a ridiculously large fleet. And in the – in China, the product that is most popular there is the 4MCU product with the 2G, 3G radios. So in China, we've got a large fleet of aircraft where wireless QAR is mandated. Wireless QAR transmission of data post-flight is mandated. And there are thousands of aircraft with the 2G, 3G product that are going to start going dark soon already installed in those aircraft. So it is the perfect market for FLYHT's 4MCU product. It is – in a nutshell, it is what the 4MCU plug-and-play program was built for, a country that's mandating wireless QAR data transfer, where most of the aircraft already have the provision installed and where most of the aircraft have product that is aging out.
+
+Okay. Have any Edge units for the A320 been sold in Canada? The answer is yes. We have 14 on contract for A320s in Canada. Can you restate in which quarter we will have the STC sell Edge on Airbus and Boeing planes respectively?
+
+So on the A320, it's already done in Canada and we're expecting the first STC approval in Q3 of this year for the 727 engine.
+
+There were a total of six installation to shift in the quarter. What is the current backlog for this product? About CAD 20 million for the 228, and that includes a combination of hardware and SaaS revenues. And then a follow-on question. Is it fair to say that airlines are waiting for the refresh that Airbus wants to order more of the [indiscernible] (00:45:45)?
+
+Yeah. So the airlines aren't waiting for the refresh. I think what this question is alluding to is the work with [ph] L3 (00:45:56), the engineering work that we're doing to refresh the product so that the [ph] live pit option (00:46:03) for the AFIRS 228 on the Airbus fleet can continue. So airlines are not waiting for that. They – [ph] L3 (00:46:11) has product sufficient to get them to the point where the refresh is complete. And that's when we expect those revenues to pick up again for FLYHT.
+
+Great. So that was it from investors@flyht.com. If you have any questions on follow-ups, we're happy to take questions at that email address in future. Over to you, Kent, for closing remarks.
+
+Thank you. Look, these are exciting times at FLYHT. With the financing just announced, we're able to shift from the development and certification of the Edge+ to our commercialization efforts and specifically to more aggressively implement our go-to-market strategy. With a focus on optimizing our sales effort through segmenting our markets, allocating our sales resources, and targeting our efforts, we're confident in our ability to bring the Edge family and the FLYHT WVSS-II product to the aviation industry.
+
+I hope you share my enthusiasm and excitement in FLYHT's future and I look forward to continue to meet with many of you and to keeping you updated on our successes throughout the year. And finally, thank you again to all of our shareholder for your continued interest and for your support in FLYHT.
+
+This brings to a close today's conference call. You may disconnect your lines. Thank you for participating and have a pleasant day.

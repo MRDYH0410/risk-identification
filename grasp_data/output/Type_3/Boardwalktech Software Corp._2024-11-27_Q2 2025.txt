@@ -1,0 +1,106 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+Andrew T. Duncan — Chairman & Chief Executive Officer, Boardwalktech Software Corp.
+Charlie Glavin — Chief Financial Officer, Secretary & Director, Boardwalktech Software Corp.
+Ryan Freemantle — Analyst, Sophic Capital Inc.
+
+Management Discussion Section
+
+Question And Answer Section
+
+Good afternoon, ladies and gentlemen, and welcome to the Boardwalktech Software Corporation Fiscal Second Quarter 2025 Quarterly Call Conference. At this time, all lines are in a listen-only mode. Following the presentation, we will conduct a question-and-answer session. [Operator Instructions] This call is being recorded on Wednesday, November 27, 2024.
+
+I would now like to turn the conference over to Ryan Freemantle from Sophic Capital. Please go ahead.
+
+Good afternoon, and thank you for joining us for Boardwalktech Software Corporation's conference call to discuss its financial results for the second quarter of 2025 ending September 30, 2024. I'm Ryan from Sophic Capital, and we handle Boardwalktech's Investor Relations. On the call today, we have Boardwalktech's Chief Executive Officer and Chairman of the board, Andrew Duncan; and Chief Financial Officer, Charlie Glavin.
+
+During the call, all participants are in a listen-only mode. Following the presentation, we will conduct a question-and-answer session. We have some questions that have already come in via e-mail and encourage you to ask your questions at the end of the call by dialing star one, and management will answer them following their prepared remarks.
+
+Before management discusses the results, I'd like to remind everyone that certain statements in this call may be forward-looking in nature. These include statements involving known and unknown risks, uncertainties, and other factors that could cause actual results to differ materially from those expressed or implied in our forward-looking statements. For caveats about forward-looking statements and risk factors, please see Boardwalktech's MD&A for the quarter ended September 30, 2024, which can be found on the company's profile at SEDAR+ and in the Investor Relations section of our website, www.boardwalktech.com. Unless otherwise specified, all dollar amounts are in US dollars.
+
+I will now pass the call over to Boardwalktech's CEO, Andy Duncan. Andy?
+
+Thank you, Ryan, and thank you to everyone who has joined us here today as we discuss Boardwalktech's quarterly financial results for the second quarter of fiscal year 2025. Today, as we review the quarterly results, I will provide highlights along with a business update, then I will turn the call over to Charlie Glavin to discuss our recent financial performance. We'll wrap up the prepared remarks by discussing our outlook, and we will leave some time at the end for Q&A.
+
+During our second quarter of fiscal 2025, Boardwalk has continued to strengthen its sales and distribution strategy, specifically our land and expand strategy to create further value and embed ourselves further in our customers operations, customers that include many Fortune 500 companies who trust Boardwalktech to manage their information every day. This is a strategy that secures high-margin recurring revenue from SaaS licenses, a strategy that has seen our recurring revenue grow at a 44% CAGR over the past three years.
+
+Another big part of our strategy is our partner teaming model to drive sales, pace of sales cycles, and reduce overhead costs. Over the past year, we have signed team agreements with several large global IT services firms, including Tata Consulting Services, the largest in the world, to deliver their established customer relationships, delivery teams, and larger support staff. As a result of rationalizing our direct sales team, and let me be clear, we still do have a direct sales team. And we are transitioning – however, we are transitioning to a higher percentage of our sales model to partner teaming, which we believe will not only save on customer acquisition costs, but will also increase sales by having these partners focus on high-value deals, where they have an established relationship and want to do the professional services and delivery.
+
+During the quarter, we announced an extension of our partnership with HCL Tech to further expand into our financial services sector. We also announced a new partner this past quarter, Scadea, where we are already engaged in several new opportunities. Banks and insurers of all sizes are facing mounting regulatory pressure to mitigate the risk associated with end-user computing applications or EUCs. Until recently, progress with mitigating EUC risk and improving manual processes within financial institutions has been hampered by the extensive scale of the problem and the pervasive reliance on embedded manual solutions, including Microsoft Excel.
+
+Considering the evolving regulatory environment regarding EUCs, the risk management implications impeding both revenue opportunity and control, and the imposition of fines by regulatory bodies, financial institutions have come to realize the utmost importance of prioritizing the transformation of these EUCs into a secure, compliant, and improved environment with proper controls.
+
+The Boardwalk Velocity solution for financial services addresses these problems and provides a rapid path for mitigation of EUC risk and improvement of EUC controls across any financial institution. And our partner, HCL Tech, along with TCS are currently engaged with one of the top five banks in the US, helping to implement the Boardwalk Velocity product. We anticipate more good news within this sector going forward.
+
+Earlier I mentioned that our land and expand strategy has resulted in a 44% CAGR over the past three years for our recurring revenue, the good news is that based upon the later stage visibility that we have in our sales pipeline, we anticipate even higher growth rates and similar margins. We have several new Tier 1 banks in discussions for deployment of our Velocity product, as well as other Fortune 1000 companies engaged in discussions to use both our Digital Ledger and Unity Central products.
+
+The strategy is working, and we are convinced that in the coming quarters you will see growth we have all been waiting for. In fact, the company is still focused on achieving cash breakeven, adjusted EBITDA based on modest revenue growth assumptions and less reliance on large pipeline conversions that we saw in previous projections. We also anticipate seeing cost savings measures, or we also anticipate that you will start to see further result of the cost saving measures that we announced in January of 2024.
+
+I will now pass the call over to Charlie who will walk you through details of the financial results for the quarter, and I look forward to taking your questions at the end of the call. Charlie, please go ahead.
+
+Thanks, Andy. And before I begin, I'd like to take a moment to remind our investors that all figures reported on today's call are in US dollars and that our fiscal year ends March 31, with reported figures based on IFRS standards unless otherwise specified. Today, Boardwalktech reported its results for the three-month period ending September 30, 2024, with additional details that can be found in our financial statement and MD&A, both filed on SEDAR+.
+
+Total revenue for the second quarter of fiscal 2025 was $1.3 million, a 16% decrease from the $1.5 million in the second quarter of fiscal 2024, with a 2% sequential increase from the $1.2 million reported last quarter. This year-over-year drop was due to a 16% decrease in software and subscription services, plus a 21% decline in professional services revenue as two customers declined to renew licenses due to large-scale reorganizations within each of those particular customers. For the six months ended September 30, 2024, total revenue was $2.5 million versus $3.1 million for the six months ended September 30, 2023.
+
+Our annualized recurring revenue or ARR at September 30, 2024 was $4.6 million. This includes the full impact of those two customers previously mentioned. As a reminder, we calculate ARR, a non-IFRS measure based upon the past three months of recurring revenue. Gross margin for the second quarter of fiscal 2025 was 88.6%, up slightly from the first quarter level of 87.9% due to lower costs, but down slightly from the 90.1% level in the second quarter of last year due to the lower revenue levels. While gross margin continues to be within our target range, the company does expect gross margins in future quarters to increase as revenue grows, but the impact is likely to fluctuate period-to-period due to a variety of factors, including product mix and investment costs.
+
+Adjusted EBITDA for the second quarter of fiscal 2025 was a loss of $366,000. It was just a 2% change versus the $359,000 loss last year despite the year-over-year decline in revenue. It was a 10% sequential improvement over the $407,000 loss in the first quarter showing the progress we continue to make.
+
+Cash flows from operations was a positive net inflow of $219,000 in the second quarter, which was a 24% improvement over a net inflow of $176,000 in the second quarter of last year. This year-over-year improvement in the quarter was due primarily to the $200,000 of lower costs that offset lower revenue levels. But when you compare our year-to-date expenses for adjusted operating expenses, these were $641,000 lower than the comparable period last year, which is in line with our realignment target that Andy mentioned, and we have discussed in prior earning calls this year.
+
+The company's net IFRS loss for the three months ended September 30, 2024 was $0.7 million or loss of $0.01 per basic and diluted share, a 10% sequential improvement versus the $100,000 loss last quarter and a 1% improvement compared to the $700,000 or $0.02 per loss per share loss in the year-ago quarter. The company finished the second quarter of fiscal 2025 with approximately $800,000 of cash in collected trade receivables, $2.2 million of net debt, and $128,000 of pro forma positive working capital.
+
+To better understand our cash collection cycle and the levels that finish at the end of September quarter, it should be noted that as an ARR debt facility, all of our customer invoices are now received by Celtic Bank, which is our lender first, and then initially applied against our loan before being transferred to our commercial cash account at Chase. This accounts for that timing delay alluded to. As of the last filed update with our credit facility lender, Celtic Bank, the company still has just under $900,000 of credit facility available to it.
+
+That concludes my prepared remarks for the second quarter of fiscal 2025. I will now turn the call back over to Andy for his closing remarks. Andy?
+
+Thank you, Charlie. I would like to acknowledge the patience of our investors while we continue to build Boardwalktech, and I want to assure you of our commitment to long-term success. Boardwalktech is well-positioned for growth as it continues to execute on its refined strategy and capitalize on market opportunities.
+
+In the banking sector, the Velocity product is demonstrating strong momentum with its largest client, a top five US bank. With over 1,000 users actively leveraging the solution at the bank and a team of over 70 trained personnel from three partners supporting the deployment and rolling this out across the bank, the bank is now accelerating its multi-year engagement, driven by significant ROI and compliance benefits. The company's channel sales strategy is also gaining traction. Boardwalktech has signed new contracts with key partners, expanding its reach and enhancing its sales pipeline, multiple later-stage deals with partners signal growing demand and confidence in Boardwalktech solution.
+
+Looking ahead, Boardwalktech's strategic execution and market validation set the stage for sustained growth. Company expects to see increased revenue and overall business improvement in 2025, underpinned by its proven technology, expanding client base, and deepening partner ecosystem. We look forward to updating you with our progress as we speak with you in February when we report our third quarter of fiscal 2025.
+
+And I now will pass the call back to Ryan, who will conduct our Q&A session. Thank you. Ryan?
+
+Thank you, Andy. Thank you, Charlie. [Operator Instructions] Operator, do we have any questions from the audience?
+
+We don't have any questions at this time.
+
+Okay. Thank you. [Operator Instructions] We'll now take a few of the questions that we had submitted to us beforehand via e-mail. So, Andy, a year ago, you talked about the company having three products, but now you only mentioned two, Unity Central and Velocity. Could you explain the roadmap as the names keep changing? And what has been the progress on your core Digital Ledger?
+
+Sure. So, as you've been following, it's very good question from whoever it came from. Our Digital Ledger platform continues to expand, and we continue to ramp new customers on the platform. That's where you see that kind of 44% CAGR over the past three years flowing from. We are going to continue that business. That business continues to be driven by direct sales. But we're also now starting to see some partner sales come in with regard to the Digital Ledger. You will see over the next couple of months Boardwalk's continued advancement with regard to the marketplace in migrating to more of an information intelligence platform. And we're also going to start, as we have over the past couple of months, really dug in with regard to AI and how AI will be an important component of the Boardwalk platform going forward.
+
+The Velocity product that we have is effectively the Excel engine – automation engine that runs on top of the Boardwalk Digital Ledger, and the other product that we have, Unity Central is also running off of that same platform. However, the Unity Central product is focused on documents and information management, where the Velocity product is focused on Excel. So, the net is we're still seeing demand in the marketplace for our Digital Ledger and our Excel automation, both in large corporates who have a lot of Excel and also at the banks with our branded product called Velocity, okay.
+
+Okay, thank you.
+
+Andy, if i could – I'd just like to add on to something Andy said and to make sure investors are clear. Our core technology embraces a type of what other people may call it AI. So, we are not chasing the market. If anybody wants to geek out, please [indiscernible] (00:18:10) Andy and I are called, but remember that our core technology and the Digital Ledger is based on a form of set theory. And for those who remember their calculus and the predictive aspects of it, this is something that we have been doing for over a decade already. It's a form of what could be called AI already before there was a name for it. So, in terms of doing predictive analytics, this has been part of our core solution already.
+
+So, when Andy is indicating the focus within it, it's tinkering with our underlying technology, not investing a large amount to chase after that market because our underlying core technology was there. Maybe put a different way, the beauty of our technology is that we aren't putting out fires, we're preventing them. And anybody who knows within supply chain, if you can prevent a ticket or prevent a delay through better information intelligence, that's far better and less costly than having to resolve and/or expedite an issue that arises. And that again is part of our core technology and why are these customers, including these Fortune 500 companies, are approaching us for that solution.
+
+Thank you, Charlie. Yeah. And just to add on to that, we believe that we have a very significant opportunity with regard to predictive analytics and AI. The entire AI market is still being, I would say, worked on and flushed out. It's still very early days, but we really do believe that our technology could be significant with regard to how companies manage their information going forward, and our platform has got some very unique things that others do not do that we think will play into the overall AI solutions as they become a little bit more mature over time. We think 2025 is going to be a very interesting year as this AI thing will continue to flush out, especially with regard to enterprise usage and how things are run with predictive analytics and utilizing large language models and these different networks.
+
+Hey, Ryan, next question?
+
+Yeah. Thanks for the insight, gentlemen. So, Andy, I know you might have touched on this a bit in your prepared remarks, but how are things going with your top five US bank? On the last call, you talked about three teaming partners working under contract at a large bank and one partner doubled its people in the deployment. Can you please provide an update on how this deployment is going, any initial feedback from the customer about Boardwalk's Velocity solution, and possibly how we could see revenue scaling there?
+
+Yeah, sure. So, we – Dharmesh Dadbhawala, who is our Senior VP of Product, and I traveled both to the UK and also to India. We were on the road for two and a half weeks and part of that visit was meeting with this large bank who has got a – both a big operation in the UK, even though it's a US bank, but even a larger operation in India, where we also have people on the ground, our employees that are working on this. When we met with the senior leadership team of this bank, the first thing that they said was because of Boardwalk and the Velocity product, we were able to make our numbers with regard to the regulators this year and we thought that that was a pretty significant statement. We've seen a really big increase in usage and rollout that really started in earnest with this bank back in March.
+
+And the fact that they have currently two and soon to be three IT services companies signed on, one of which they doubled the size of the team from 30 to 60, that's a – not only a very big financial commitment by the bank, but it's a very big commitment with regard to the Boardwalk Velocity product as we continue to rollout the product across the bank. This is going to be a multi-year thing, everybody. It's going to take a lot of time. But I will tell you that we really have kind of found our place here with this particular bank. We really are seeing acceleration. We're seeing a happy customer. We're seeing a customer that wants to continue to expand into other business units, and we're seeing a lot of success with regard to the volume of these EUCs that we're able to transform over on to the Boardwalk platform.
+
+I think it's significant to number for the people on this call to understand that from March until now we now have over 1,000 employees in this top five worldwide bank that's utilizing the Velocity product and that is significant. And there is a tremendous amount of upside here for us to continue not only with this bank, but also with other banks now that we've got this model proven out in a top five bank. There are a lot of people that are paying attention to what we're doing now, Ryan, and calling us, asking us to partner with them.
+
+And I think when you look at us signing these partners, I know some of the investors have expressed a little bit of – you guys just keep announcing partners, yet I'm not seeing the revenue. Keep in mind everybody that when we sign a new partner, you should look at that as a leading indicator to a really good opportunity that's coming. And when Dharmesh and I were in India, we were not only meeting with this particular bank, our own employees that are across India, but also we were meeting with partners who are really starting to understand. And I think you're going to see some really nice expansion from our partner channel strategy in 2025, lot of excitement.
+
+All right. Thank you, Andy.
+
+Sure, Ryan.
+
+This concludes our question-and-answer. If we did not answer your question or you have any follow-up questions, please do not hesitate to contact us. You can email all@sophiccapital.com, that's a-l-l-@-s-o-p-h-i-c-c-a-p-i-t-a-l.com, and we will get back to you with an answer as soon as possible.
+
+So, over to you, Andy, to wrap things up.
+
+Great. Well, I just like to thank everybody for coming on the call. I hope those of you in the US have a nice Thanksgiving, and appreciate your continued support of the company. Thank you very much, and this now concludes the call.
+
+This concludes Boardwalktech Software's Q2 2025 conference call. We thank you again for joining us, and have a great rest of your day.

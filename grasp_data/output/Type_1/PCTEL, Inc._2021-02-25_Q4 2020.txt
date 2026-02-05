@@ -1,0 +1,165 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+Kevin McGowan — Chief Financial Officer & Vice President, PCTEL, Inc.
+David A. Neumann — Chief Executive Officer, PCTEL, Inc.
+Marc Wiesenberger — Analyst, B. Riley Securities, Inc.
+John H. Bair — Principal, Ascend Wealth Advisors LLC
+
+Management Discussion Section
+
+Question And Answer Section
+
+Welcome to the PCTEL Fourth Quarter 2020 Earnings Release Conference Call. At this time, all participants are in a listen-only mode. At the conclusion of our prepared remarks, we will conduct a question-and-answer session. As a reminder, this conference is being recorded. I will now turn the call over to Kevin McGowan, the company's CFO.
+
+Thank you for joining us on today's conference call to discuss PCTEL's fourth quarter 2020 and full-year financial results. With me today is David Neumann, the company's CEO.
+
+Before we begin, let me remind you that this call may contain forward-looking statements and projections based upon current circumstances. While these forward-looking statements and projections reflect PCTEL's best current judgment, they are subject to risks and uncertainties, particularly related to the COVID-19 pandemic and global recession that could cause actual results to differ materially from these forward-looking statements and projections. Risk factors that could cause PCTEL's actual results to materially differ from its projections are discussed in the earnings press release, which was issued today, and the company's annual report on Form 10-K and subsequent filings. The company assumes no obligation to update any forward-looking statements or information which speak as of their respective dates.
+
+Additionally, our commentary will include reference to the following non-GAAP measures, non-GAAP earnings per share and adjusted EBITDA. We believe these non-GAAP measures facilitate comparability of results over different periods. A full reconciliation of these GAAP measures to our non-GAAP measures is included in our quarterly earnings press release that was issued earlier today.
+
+I'm now pleased to turn the call over to David Neumann.
+
+Thank you, Kevin. Welcome and thank you for joining us this afternoon. Although 2020 was a challenging year, we're pleased how the company managed through the coronavirus pandemic. We're optimistic about the company's future and our ability to thrive in a challenging environment. Today, I'd like to share the progress we made through the second half of 2020 and more specifically in the fourth quarter, and how we've positioned the company to grow in 2021 and beyond.
+
+Despite the global pandemic, we're able to serve our customers, continue to invest in R&D initiatives and manage expenses to maintain profitability. As you may have seen in our press release issued after the market close, the coronavirus-induced recession impacted both our non-GAAP earnings per share and revenue for 2020. Non-GAAP earnings per share decreased from $0.47 in 2019 to $0.31 in 2020. Revenue declined from $90.6 million in 2019 to $77.5 million in 2020, but increased on a quarterly basis in the fourth quarter.
+
+I'm pleased to share that the fourth quarter revenue and earnings were the strongest of the year and exceeded our guidance. In fact, we set an all-time record for scanning receiver revenue in the quarter. Our earnings are driven by consistent margins on both product lines and strong demand for 5G scanning receiver solutions. Even more impressive than increased Q4 revenue, incoming orders for both product lines in the fourth quarter were at the highest level since the second quarter of 2019. This is a strong leading indicator as we enter 2021.
+
+As shared in our press release, in Q4 we achieved $21.2 million in revenue, $3.2 million in adjusted EBITDA and non-GAAP earnings per share of $0.12, all sequential improvements over the third quarter. We achieved gross margins of 50% for the quarter, in line with the third quarter and 1% above the average of the year.
+
+We're confident in our strategy to focus on 5G and industrial IoT and our ability to grow as the year progresses. Specific growth initiatives include expanding our distribution channels and continued investment in 5G tools and IoT solutions, including our antenna and radio products. PCTEL's larger size relative to our competitors and broad range of products in enterprise wireless, intelligent transportation and industrial IoT create opportunities to support a broader range of distribution channels. We recently announced two new product distributors and we're evaluating others for selected antenna products, our industrial IoT devices and our expanding range of scanning receiver solutions.
+
+We have also made investments in the past two years to improve our direct support for these channels to form stronger relationships with existing and new distributors alike. PCTEL will continue to focus on growth through developing and supporting our distributor and OEM partners to address the markets they serve.
+
+We will also focus on growth through increased demand for private 5G and LTE network deployments to serve businesses and governments, as they address security and an influx of data across mobile enterprises. PCTEL is uniquely positioned to serve public and private wireless networks and the associated industrial IoT requirements through providing radio systems, antennas, wireless sensors and tests and measurement solutions.
+
+In the US, utilities, cable operators and agricultural equipment manufacturers, some of which our current customers, have secured CBRS or Citizens Broadband Radio Spectrum in 2020 and will require both antenna and measurement tools to deploy those networks.
+
+Globally, 5G is deployed by less than 10% of the 700-plus operators across 61 countries, who currently operate LTE networks. More than 260 operators are investing in 5G networks in the form of spectrum auctions, tests, trials and pilots. Europe and parts of Asia delayed spectrum auctions in 5G deployments in 2020 due to the pandemic. We expect to benefit from a pent-up demand for 5G connectivity in the US and globally as economies improved through the second half of 2021.
+
+We continue to invest in our engineering capabilities to leverage our unique ability to solve complex RF are issues for both antennas and scanning receivers. In fact, even in a challenging year, we increased our investment in engineering to address our longer-term opportunities. Advancements in antenna technologies now also include active components and require tighter integration with the overall systems. As an example, we integrated active electronics to support network management functions into two of our existing WiFi antennas that were qualified by a large OEM.
+
+PCTEL has the expertise to address all major wireless technologies across multiple applications including industrial IoT, smart city, enterprise wireless, government, precision positioning and other Industry 4.0 applications. PCTEL's expertise in RF, antenna design and radios becomes more valuable as systems have become even more integrated and complex. 5G has created opportunities for both our antenna and test and measurement businesses. 5G networks require high-performance timing antennas for both commercial and private network deployments. Our sales of these antennas increased throughout 2020 and we expect demand to remain steady through 2021.
+
+As I mentioned, Q4 was a record setting quarter for 4G and 5G test and measurement revenue. Despite network deployment delays in some regions, including Europe and Southeast Asia, revenue was stable throughout 2020. 5G scanning receiver revenue was driven by the need to test both 4G and 5G networks using frequencies from 100 megahertz to millimeter wave bands. Scanning receivers are complemented by a range of software tools for data collection and a recently launched millimeter wave transmitter which supports in-building modeling for 5G deployments in larger venues, transportation hubs and retail locations. I believe 2021 will be another strong year for scanning receiver products.
+
+We recently assisted a leading 5G network equipment manufacturer in measuring dual polarized signals that are unique to their 5G deployments. As a result of having both 5G antenna and scanner measurement expertise, we were the only test and measurement company that could quickly design and build a customized antenna for this application. We believe our dual capability will give us an advantage globally with this network equipment manufacturer.
+
+We are also proud of the success of our P25 scanner solution for public safety applications. These measurement systems ensure the quality of in-building wireless communications for first responders. We recently improved our public safety tools by adding uplink measurements to provide users a holistic view of the RF environment. These measurement tools collect a significant amount of data that needs to be managed and analyzed. We are developing software applications to help our customers more efficiently collect, store and analyze the data on a cloud-based platform. Our solutions are in a leading position in the US market. But by addressing P25, LMR, DMR and TETRA technologies, we will expand our addressable market globally and we believe these products will contribute meaningfully to revenue in 2021.
+
+I'd also like to provide an update on our product development and release cycles. We mentioned in our last call that we saw a reduced demand for some of our antenna products in mid-2020 due to temporary slowdowns in customer demand. As customers have now adapted to working in this business environment, we're seeing a recovery in demand for antenna and IoT device products. With respect to industrial IoT devices, our wireless sensor platform designed for ruggedized applications in rail and utilities are in trials. And our industrial WiFi access points and interface cards are in the final stages of FCC certification. These products began shipping last quarter to customers for trial integration and testing. We expect to receive orders and production to begin once the devices are certified.
+
+As we stated previously, we are confident that these products will contribute meaningfully to revenue to support long-term growth. Our M&A activities are also an important component of long-term growth for the company. As the pandemic continues, we believe there will be opportunities to evaluate and pursue acquisitions to grow PCTEL through adding complementary products in markets and new regions.
+
+With that, I will now turn the call over to Kevin for a closer look on our fourth quarter and a discussion of our financials. Kevin?
+
+Thank you, David. I will review the financial results for the fourth quarter ended December 31, 2020, and I will provide first quarter 2021 guidance. As David mentioned, 2020 was a challenging year, but we managed to generate solid earnings despite the lower revenues. The fourth quarter was our best quarter in 2020 for revenue and earnings. Revenues of $21.2 million in the fourth quarter 2020 or 7.5% lower compared to the fourth quarter 2019, but increased sequentially by $2.3 million.
+
+By product line, revenues for test and measurement products increased sequentially by $1.7 million to a record $8.6 million. The fourth quarter 2020 revenues for test and measurement products were 9.5% better than last year because of a very strong quarter for products with 5G technologies. Antenna product revenues increased sequentially by $0.5 million to $12.8 million, but were 15% lower compared to the fourth quarter last year due to lower revenues of antennas for intelligent transportation projects and for public safety applications. The fourth quarter 2020 gross profit margin on a GAAP basis was 50.1%, lower than the fourth quarter of 2019 by 0.2%. The higher mix of – higher margin test and measurement products offset lower gross profit margin percentages for both product lines compared to last year.
+
+The gross profit margin percentage for antenna products was 3.1% lower in the fourth quarter of 2020 compared to the prior year due to lower volume and less favorable product mix. The gross profit margin percentage for test and measurement products was 2.6% lower in the fourth quarter of 2020 compared to the prior year, primarily due to less favorable customer and product mix. While the quarterly gross profit margin percentages for both product lines were lower in the fourth quarter 2020 compared to the prior year. The year-to-date 2020 gross margin percentages for both product lines were higher compared to the prior year. Operating expenses on a non-GAAP basis were $8.2 million in the fourth quarter 2020, higher by approximately $200,000 compared to the third quarter 2020, but lower by approximately $500,000 compared to the fourth quarter of 2019.
+
+Expenses were lower in the fourth quarter 2020, compared to the prior year primarily due to lower travel expenses and lower expenses related to our variable compensation plans. Net other income and expense was negative $110,000 in the fourth quarter of 2020, compared to positive $108,000 in the fourth quarter of 2019. The net expense was due to lower interest income and foreign exchange losses in the fourth quarter of 2020. Adjusted EBITDA was $3.2 million for the fourth quarter 2020, compared to $3.7 million in the fourth quarter 2019. And adjusted EBITDA margin as a percentage of revenue was 15% in the fourth quarter 2020, compared to 16% for the fourth quarter 2019.
+
+Non-GAAP diluted earnings per share was $0.12 in the fourth quarter 2020, compared to $0.16 in the fourth quarter 2019. PCTEL's balance sheet remains very strong with our significant cash and investments, and no debt. Cash and investments, including long-term investments, were $41 million at December 31, 2020. Cash and investments declined by just under $300,000 compared to the end of the third quarter because although we generated positive free cash flow, we used cash to repurchase our common stock.
+
+We announced the share repurchase program on November 10, 2020, pursuant to which the company may repurchase up to 5 million of its common stock through the end of 2021. During the fourth quarter 2020, we used $1.8 million of cash to repurchase approximately 289,000 shares. Free cash flow is $2.1 million in the quarter as we generated cash from operations of $2.8 million.
+
+We continue to be subject to uncertainties with the global recovery from the pandemic. But as we did throughout the pandemic last year, we would like to provide our investors with insight about our expectations for the first quarter 2021. The first quarter is historically our lowest revenue quarter, largely due to the operator budget release schedules. With the seasonality of the first quarter and a slow recovery with antenna revenues, we are forecasting revenues between $17.5 million and $18.5 million for the first quarter of 2021. We project our GAAP gross profit margin percentage to be in the range of 45% to 47% and the non-GAAP earnings per share in the range of negative $0.03 to breakeven.
+
+The sequential decline in gross margin percentage is primarily due to a lower mix of test and measurement revenues in the first quarter 2021. We are making these projections based upon current information and circumstances which could change. As mentioned earlier, we believe the second half of the year will be stronger as the global economy recovers. We will continue to manage our costs and our working capital through the year to protect and strengthen our solid financial position.
+
+Before we take questions, I would like to turn the call over to David to make a few closing remarks
+
+Thank you all for joining us. Before we take questions, I'd like to share a few closing thoughts. I'm pleased that we saw improvements in our operating results as we finished 2020. I'm very proud of our employees and I appreciate their dedication, flexibility and willingness to make changes to address the immediate challenges of the pandemic. And more importantly, their focus on improving processes and adopting changes that will benefit the company in the long term.
+
+There are still unknowns with respect to the coronavirus and its potential impact as we progress through 2021, but I have confidence that our business will recover as well or better than the overall economy this year. PCTEL is in a strong financial position. We have loyal customers and we serve attractive growing markets. Testing wireless infrastructure, supporting industrial IoT and enabling wireless connectivity will continue to be important as the world increasingly relies on remote access and the ability to work and monitor systems from almost anywhere.
+
+With that, Kevin and I are available to take questions. Operator?
+
+Certainly. Ladies and gentlemen, the floor is now open for questions. [Operator Instructions] And the first question is coming from Marc Wiesenberger. Marc, your line is live. Please announce your affiliation and post your question.
+
+Thank you. Good afternoon. Marc Wiesenberger from B. Riley Securities. Congratulations on a pretty good quarter, gentlemen, bouncing back from -some maybe tougher times earlier in the year. I'm wondering if you could talk about maybe within the test and measurement segment, what percentage of sales were – may be coming from software and how should we think about that going forward?
+
+Yeah, Marc, probably the software content is somewhere in the range of 15% of the total revenues in that product line. We expect that percentage to be in a similar range going into Q1 next year.
+
+Understood. Great. I'd love to hear maybe about how the order books are evolving over the next few quarters, specifically for industrial IoT, intelligent transportation and enterprise wireless.
+
+Sure. I could take that Marc. The IoT business, especially with devices, we started releasing those products for customers who do integration into their systems. And I think we've talked about this before that some of the products, specifically the access point that customers have the ability to load their own customized software into a unit for their application. So, it's a ruggedized unit has some customization capabilities. So, that takes customers a bit of time to develop that. And then, on our end, even though we have the products ready, we still needed to go through FCC certification. So, we've – we're in that process now for both the access point and the interface card. Expect to finish the certification, I would say, in the next month or two; and then, we can start taking orders. So, there's a definite interest by a few of our large existing customers. They are buying antennas for the IoT applications. So, I would expect orders probably starting in the second quarter and into Q3 for those devices.
+
+The wireless sensor modules are ready now and they're being evaluated by customers as well. There's probably three opportunities on that front, won't necessarily be as large as the access points interface cards, but there are some opportunities. With respect to the enterprise wireless – and within enterprise wireless, so we have – we had a test and measurement equipment. So, the 5G and 4G is kind of in a separate component altogether. But within enterprise wireless is also the WiFi business. So, we're continually developing new antennas to the specifications of some of the larger WiFi manufacturers, typically a longer process to go through approval. And to be quite frank, the margin profile on those antennas can be somewhat challenging. The – I think you had mentioned the transportation as well, probably referencing the traffic management system that we deployed in New York. Those opportunities are still being managed by the larger operators. We did close a few smaller deals last year, but there's still plenty of opportunity. And in fact, I was reading in one of the magazines about the importance of traffic management. And so, I think what's interesting for PCTEL is that for – the two leading operators are promoting that solution. They're both – they both specked in PCTEL's antenna. So, in think we're in decent shape but we're really awaiting for them to close those deals.
+
+Great. That's a lot of helpful color. Appreciate that. Can you talk about – well, I guess, is it – would you agree that we – recently, a lot of the investments we've seen have been around kind of the macro layer and maybe less so with Metrocell deployments. And I guess as we get a little bit more activity around millimeter wave and kind of more densification, I guess, are you expecting that to accelerate and what are the implications for PCTEL as that kind of investment transition does happen.
+
+Yes. So, I think millimeter wave is important, but long-term millimeter wave will be for urban dense environments. It's just not economically viable to deploy that in rural areas. And I think that's one of the reasons too. You saw the – I'm sure you saw the C-band auction and the operator spending, I think, was over $80 billion for spectrum and mid-band because with the mid-band spectrum you get kind of a good mix of good coverage and good throughput.
+
+So, from PCTEL's perspective, we have the antennas for 5G. We have timing antennas which will be important for the systems whether they're macro or micro. And then, on the scanning receiver products, the IBflex are already designed for in-building applications. So, they're very good for in-building, dense areas, very easy to use it in a backpack. HBflex will do both 5G and 4G. So, that's a plus. But I think longer term, what's most interesting for us is that you have – and again, as an example, the C-band auction where its new frequencies deployed in the same area and you had asked Kevin about the percentage of software upgrades. And once C-band starts rolling out and even CBRS, a lot of the product that we have in a market, especially for the scanning receivers, can be upgraded via software.
+
+So, we've talked in the past that you can upgrade a 4G scanner to a 5G scanner through software, but you can do the same for frequency bands. So, for all the spectrum, of course, it's going to take time to clear it. And I think some of the reports are indicating towards the end of the year, first batch of frequencies will be available. For all those customers that are using a PCTEL scanners in the US and we have a relatively dominant position, they'll be able to upgrade those units at a very good price for them. And the upgrades are great margin for us. So, I do think there are opportunities for software upgrades there.
+
+That's great. Can you talk about any supply chain constraints and potential impacts on gross margins if at all? And I guess what kind of visibility do you have over the next few quarters in terms of your input costs?
+
+For Q1, it mainly would affect antennas, test and measurement, not really of an impact on the inputs. We're modeling slightly lower year-over-year percentages. A lot of variables there between currency, freight costs and tariffs. And we're expecting a little bit still challenging environment for freight and logistics from China. We've seen a strengthening of the Chinese currency, which is a bit of a challenge for us. So, those are some of the impacts that we'll see in Q1.
+
+We have a much, much...
+
+Understood.
+
+...much like working with our customers, we stay in close contact with the supply chain, our suppliers. So, of course, there are some periodic challenges that come up. We just have to work through them. And I don't think anything that's a very material.
+
+Understood. And then, one final one for me. Is there any way that you could quantify the drag COVID has had related to kind of delays and maybe limited access to some either areas for test and measurement or for design wins and things like that?
+
+Yeah. I've got a relatively long list, Marc. So, on the antenna side, I think it's more straightforward that the biggest issue that we had with COVID and delays is just the iterative nature of designing a complex antenna with electronics for a customer. So, we do a design, customer reviews it; we do prototypes, customer reviews those. They do testing. We do modifications. So, it goes back and forth. So, we – I think we really felt it early in 2020 because some of the revenue that we had forecasted was just delayed just because the sales cycle got lengthened. For the test and measurement portion and in the scanning receivers, I think it's more at a macro level. So, we talked about how small of a 5G footprint there is today, and we say less than 10%, I think it's closer to 8% of the LTE networks. But for operators really to take advantage and deploy 5G, they need to do spectrum auctions in many cases. And we know Europe has been locked down through COVID. So, you have delays doing spectrum auctions there. We saw the spectrum auction delays in the Southeast Asia where we had product that we anticipated to sell last year and just got pushed into this year. So, definitely some impacts. And yeah, I think we're still working out of this situation. Hopefully, it'll clear up by the second half of the year. But it's – I think what's also important to note too is in both cases, it didn't result in lost market share. So, it's definitely a delay. But it's not – we're not losing market share.
+
+Sure. Understood. And actually, one more from me and then I'll turn the mic back over. But I think last year earlier in the year and in middle part of the year, maybe you had put some longer-term targets out there. And I'm wondering, have you rethought those targets? And how do you feel relative to kind of the more medium term relative to where you might have thought the company's growth prospects were prior? Thank you.
+
+Well, I think early in the year, we were – we didn't make any changes and then midyear we did make a change. And with the anticipation that COVID would go through 2020 and into 2021, at this point, I don't think we're making any further changes either way. The biggest challenge now is that there's still unknowns, I think all of us want to be optimistic and think that we're going to get through this relatively quickly with the vaccine and a lot of the infection rates are going down. But we just want to be careful. So, we're not going to change any of our estimates at least through Q1 and probably into Q2 until we see some – see real improvement in the economy.
+
+Understood. Thank you very much.
+
+Thank you. [Operator Instructions] The next question is coming from John Bair. John, your line is live. Please announce your affiliation and post your question.
+
+Thank you. John Bair of Ascend Wealth Advisors. Good afternoon, gentlemen.
+
+Hello, John.
+
+Thanks. I was wondering if you could, I mean, share any insights on trends that you're seeing in the rail transportation and markets that you address, and how might that ever-elusive infrastructure bill potentially benefit you. If they ever push one of those things through and regarding sensor and monitoring that kind of thing.
+
+Yes. So, rail industry is – it is a great market for PCTEL. We've been involved in rail for many years. A lot of trackside antennas, positive train control systems. Like all other industries, the rail industry is updating systems, integrating more IoT applications with sensors, communication systems. And historically, for PCTEL going back maybe three years and prior, the rail business was really just an antenna play. Over the last couple years, once we integrated our sales teams, our sales team with rail, learned more about the capabilities that we have with our scanning receivers. We were starting to see some opportunities there too. So, for – especially as IoT systems and a wireless and cellular IoT systems are deployed, are in testing, rail like everyone else will need to test those networks, make sure there's good communication. So, we've begun to see some real opportunities on the scanner side too.
+
+Are you seeing more interest in that? I guess what I'm trying to get at is if you're seeing an overall uptick in interest in actually purchase and implementation and not just kind of plodding along and...
+
+I think you're [indiscernible] (33:00)...
+
+... [indiscernible] (33:01) opening up and then you starting to look a little bit more at saying okay, yeah, we're going to open the purse strings on this kind of thing?
+
+There are plenty of trials, lots of interest in designing products. And as I mentioned, interest in the scanning receivers as well. I would say that the purchases in that space are, I would say, consistent. And we haven't seen a huge uptake. But there are real problems to be solved where IoT systems, antenna, scanners play a role, but it's really going to be driven by their overall budgets.
+
+Okay. And then, there has been pretty good move in in agricultural prices. And so, I'm wondering how – if you're seeing any impact again, higher interest enquiries, et cetera, from the ag market and the OEMs that you work with in that regard?
+
+Ag is still strong business for us. On the antenna side, precision agriculture has always been a good market for PCTEL. We typically don't go into dollar values or percentages on the individual market or customer basis. But I would say, the agricultural markets for PCTEL are consistent, if not a bit stronger.
+
+Great. Very good. Thank you very much.
+
+Thank you.
+
+Thank you. And the next question is coming from [ph] James Gillespie. James, (34:47), your line is live.
+
+Just a comment on Thomson's, the Quotron System. On my system here at Morgan Stanley, it shows your dividend is zero. You might talk – call Mr. Thomson and update him. That's all I wanted to say. Thank you.
+
+Thank you. And that is not true. It's not zero.
+
+Right. $0.055, I believe. So...
+
+Yeah.
+
+Thank you.
+
+Thank you.
+
+Thank you. [Operator Instructions] And there were no other questions in queue. I would now like to hand the call back to David Neumann for closing remarks.
+
+So, thank you all for joining us this afternoon. We recognize our employees earlier. We'd like to also thank our customers, suppliers and distribution partners. I would like to hope and think our – the challenges of 2020 are behind us, and we'll continue to improve through 2021. Definitely have some opportunities ahead of us and we're looking forward to it. So, thank you.
+
+Thank you for joining us today for PCTEL's fourth quarter 2020 earnings call. You may now disconnect your lines.

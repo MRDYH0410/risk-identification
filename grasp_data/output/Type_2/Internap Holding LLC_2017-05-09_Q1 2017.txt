@@ -1,0 +1,148 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+Richard R. Ramlall — Vice President, Investor and Public Relations, Internap Corp.
+Peter D. Aquino — President, Chief Executive Officer & Director, Internap Corp.
+Robert M. Dennerlein — Chief Financial Officer, Internap Corp.
+Frank Garreth Louthan — Analyst, Raymond James & Associates, Inc.
+Matthew Heinz — Analyst, Stifel, Nicolaus & Co., Inc.
+
+Management Discussion Section
+
+Question And Answer Section
+
+Good day, ladies and gentlemen, and welcome to the Internap Corporation First Quarter 2017 Earnings Conference Call. At this time, all participants are in a listen-only mode. Later, we will conduct a question-and-answer session, and instructions will follow at that time. [Operator Instructions] As a reminder, this conference call is being recorded.
+
+I would now like to turn the conference over to Richard Ramlall, Vice President, Investor Relations and Public Relations. Sir, you may begin.
+
+Good morning. And thank you for joining us today. I'm joined by Peter Aquino, our Chief Executive Officer; and Robert Dennerlein, our Chief Financial Officer. Following prepared remarks, we will open up the call for your questions.
+
+The slides we reference in the call are available on our website in the Presentations section of our Investor Relations page. Non-GAAP reconciliations and our supplemental datasheet, which includes additional operational and financial metrics, are available under the Financial Information section of our Investor Relations page under the Quarterly Results link.
+
+Today's call contains forward-looking statements, as described on page two of the slide presentation we reference in this call, which we urge you to read. These statements are not guarantees of future performance. Because these statements are based on certain assumptions and involve risks and uncertainties, there are important factors that could cause our actual results to differ materially from those in the forward-looking statements. We discuss these factors in our filings with the SEC, which are available from the SEC or in our IR website. We undertake no obligation to amend, update or clarify these statements. In addition to reviewing the first quarter of 2017, we will also discuss recent developments.
+
+Now, let me turn the call over to Peter Aquino. Pete?
+
+Thank you, Richard, and good morning, everyone. While we had a very busy three months since we last spoke advancing both our financial and operating objectives, today we're very happy to report a solid first quarter and a great start for the new year. We're in the process of setting a new baseline for INAP, an aim to establish a proven track record of profitable growth.
+
+Our first quarter EBITDA of approximately $22 million on a basis of $72 million of revenue gets us to 30% EBITDA margin with upside from here. Looking at our peer group, both public and private companies, getting into the 30%s for the new INAP is a minimum bar in my opinion. We are gaining momentum in all areas, and we're very excited about our near-term and long-term prospects for margin expansion.
+
+So let's start with slide four. Let me just highlight some of our recent accomplishments. From a financial initiative perspective, the catalyst in our balance sheet improvement was the $43 million in common stock PIPE from current shareholders in February. Soon after in April, we closed on a $300 million refinancing of our total debt, given us greater credit facility flexibility and maturity extensions out five years. This is a huge victory for our company, shareholders and new INAP lenders.
+
+In addition, as you have seen, we filed a few documents with the SEC. As promised, we registered the PIPE shares ahead of schedule, establishing universal shelf for future investment needs was just – is just prudent preparation, and filed our first proxy as the new INAP. You'll be getting proxy cards in the next few days. Of course, all of this foundational work is designed to give us the capital structure and flexibility necessary to compete and enhance our capabilities to deliver superior customer service. With growing demand for Internet infrastructure, including virtualization, storage, big data, security, quality of service and high-speed network connectivity, the INAP platform is well-positioned to participate in this growth industry.
+
+Regarding operations improvements, we set many things in motion that are starting to bear fruit. In this first quarter, we're now managing and reporting in our new pure play segments, INAP COLO and INAP CLOUD. Bob will walk us through the details shortly.
+
+We also continue to rebuild our sales team and hire some great new talent. These leaders will help recruit even more salespeople, as we ramp up. And we're still working through our cost reduction initiatives in our Data Center portfolio and Network Facilities. On the sale side, we're beginning to win larger deals with great logos. And due to certain privacy requests, we can't always name names in our business, but we just won a multi-year deal with a global telecom equipment provider. We will build out [ph] this customer requirements (5:12) in our largest Tier 3 data center facility in Dallas.
+
+We also made significant progress on finding ways to improve the efficiency of our data center and POP portfolio. The new landlord contracts complete with customer saves, and relocations to our other facilities will take place throughout the year. When we last reported, we knew there are at least five potential data center exits in 2017. After further review, yes, we not only identified five specific shutdowns, but we see a great opportunity to consolidate excess capacity into markets where we have even more traction.
+
+The obvious candidates for market expansion currently identified includes Chicago, Ashburn, Virginia, and Phoenix. This is due in part to another great win where we were awarded a multi-year contract with a global software company. We are now looking at our entire inventory of 50 data center locations, formerly distinguished as company controlled in partner sites and working to invest, divest or harvest certain markets. We will be describing a revised set of choice markets that we control by the end of our Phase 2 works.
+
+Looking at our existing data center and POP footprint circling the United States, in Canada and parts of EMEA, we have on ramps to our COLO and CLOUD business and over 125 locations around the world. We want to take advantage of this expansive reach, but it has to be optimized.
+
+Our key major markets include Seattle; San Jose; Los Angeles; Dallas; Houston; Atlanta; Secaucus, New Jersey; New York City; Boston; Montreal; London; Amsterdam; and a few others. Expanding our existing footprint for incremental CapEx in Chicago and Ashburn and Phoenix, our just logical extensions to our long-term strategy and included in this year's guidance.
+
+With progress on cost savings already identified, we confidently raise our guidance in EBITDA today to $85 million to $90 million. Also, given our outlook on capacity requirements. CapEx will be less than first expected, producing even more free cash flow in 2017. And finally, we've just begun the fight on cost reductions on the network side or what we call Phase 3 of operations improvements. We're currently in discussions with carriers and suppliers revisit both term and rate for INAP in order to improve the value proposition of our spending. This is very time-consuming but has an immediate payback, so we're putting a lot of resources on it. Overall, we're off to a good start in 2017 and on track with our plans.
+
+So let's get into a little bit more detail with our CFO, Bob Dennerlein. Bob?
+
+Thank you, Pete, and good morning, everyone. We certainly did have an exciting few months. Most importantly, recapitalizing our balance sheet to provide us flexibility for future growth. This effort was on an accelerated pace and a testament to the focus and dedication of our entire team. But we don't plan to stop here. We already identified additional opportunities to drive operating leverage that we are now executing on.
+
+As Pete mentioned, we have made good progress already on our data center initiatives. One data center exit in particular will produce a significant cost savings in the second half of 2017. We're in the process of exiting a large underutilized footprint in 75 Broad Street in Manhattan and migrating certain customers to our Secaucus, New Jersey facility. In addition, we also plan to exit a smaller site in San Francisco. The combined annual operating expense savings of these two consolidations is close to $5 million annually, and we will begin to see the prorated benefits starting in the third quarter, some more to follow. And with that said, let's look at the quarter's financial results.
+
+Beginning with the consolidated earnings summary on slide five, our first quarter 2017 results reflect the continued focus on cost management, as we rebuild the sales engine. Revenue in the first quarter was $72.1 million, declining 2.7% from fourth quarter 2016 and 5% from first quarter 2016. The decline year-over-year, although at a slower pace relative to prior-year results, is still exacerbated by having lower than targeted sales and marketing resources. Revenue declines were also due in part to pricing pressure on our network services product combined with typical seasonal churn in first quarter.
+
+One of the many encouraging signs in our turnaround is the sequential revenue increase for our AgileCLOUD product. We believe that our INAP CLOUD business unit will be a growth opportunity for our company. This marks the second quarter in a row of sequential revenue growth, and we hope to build on that momentum.
+
+GAAP net loss in the first quarter was $8.2 million, which included $3.4 million of one-time expenses, including $1.9 million of exit and restructuring costs and $1.5 million for an anticipated tax settlement. On a normalized non-GAAP basis, first quarter 2017 net loss improved to $4.8 million from $5.5 million prior quarter and $6.1 million last quarter.
+
+Cash flow from operations was $7.3 million in the current quarter versus $10.2 million in the prior quarter and $10.8 million last year. The decrease was primarily due to $2.6 million in fees associated with the third amendment in the current quarter.
+
+Adjusted EBITDA in the first quarter was $21.6 million, with adjusted EBITDA margin of 29.9%. Adjusted EBITDA was comparable to fourth quarter 2016, and margin grew 80 basis points sequentially and nearly 300 basis points compared to the first quarter 2016.
+
+Our margin expansion thesis is beginning to play out. The positive EBITDA performance despite the absolute revenue decline is driven by our focus on eliminating unproductive spending in our cost structure. In addition, Phase 1 cost cuts produced a full quarter's benefit from the fourth quarter 2016 head count reductions. With continued focus on improving profitability, we believe there is upside to our record adjusted EBITDA margin of nearly 30%.
+
+Capital expenditures in the first quarter were $6 million compared to $6.3 million last quarter and $12.7 million first quarter 2016. We plan to continue to leverage our excess capacity to grow with smart, high ROI CapEx investments. First quarter 2017 adjusted EBITDA less CapEx was $15.6 million, an increase of $300,000 sequentially and producing almost 2X of free cash flow since the first quarter 2016.
+
+Before I move on, as we announced last quarter, we have redefined our segment reporting into two pure play business units, each with its own leader, full P&L responsibility and a dedicated sales force. INAP COLO, formerly Data Center and Networking Services, includes collocation, IP network services, and managed hosting.
+
+Managed hosting was previously included in the Cloud and Hosting Services segment, and INAP CLOUD, formerly Cloud and Hosting Services, includes AgileCLOUD and iWeb. We have also redefined our segment profit measure, which we call business unit contribution, and as a non-GAAP measure, we define it as segment revenue less segment cost of sales and all direct operating expenses.
+
+Let's move on to slide six, our INAP COLO segment. INAP COLO revenue totaled $53.3 million in the first quarter of 2017, a decrease of 3% from $55 million sequentially and 4.6% from $55.9 million year-over-year. The decreases were driven by the continued downward pricing pressure in network services as well as increased first quarter 2017 churn levels, primarily in certain underperforming data center sites.
+
+INAP COLO first quarter 2017 contribution of $19.7 million or 36.9% margin was lower sequentially by $500,000 and ahead of last year by $600,000 or 3.1%. The primary reason for the sequential decrease was the revenue decrease partially offset by cost reductions. The increase year-over-year was attributed to revenue decreases that were more than offset by cost reductions. The 36.9% contribution margin compares to last year of 36.7% and significantly higher than the prior year of 34.1%.
+
+As I mentioned earlier, INAP COLO contribution margin continues to increase despite revenue decreases, as we focus on operating the business more efficiently while simultaneously growing our sales organization. We will continue to identify and implement additional opportunities to increase profitability throughout the year, including processing through our Phase 2 and 3 initiatives, optimizing our data center portfolio and network facilities globally.
+
+Now let's go to slide seven to discuss our INAP COLO – CLOUD segment. INAP CLOUD revenue totaled $18.8 million, a decrease of $300,000 for 1.6% sequentially and $1.2 million or 6% year-over-year. Within INAP CLOUD, iWeb revenues were negatively impacted by seasonally higher churn in the first quarter of 2017.
+
+AgileCLOUD revenue outran typical churn and demonstrated an encouraging sequential revenue increase from the second quarter in a row. INAP CLOUD contribution of $9.3 million was similar to prior quarter and higher by $200,000 year-over-year driven by cost reductions that more than offset revenue declines.
+
+We also experienced favorability on contribution margin, as INAP Cloud first quarter 2017 contribution margin was 49.6% versus last quarter's 48.4% and prior year of 45.3%. Like INAP COLO, INAP CLOUD contribution margin continues to increase due to our continued focus on cost controls while we continue to grow our sales organization.
+
+Now let's move on to slide eight where we'll look at the balance sheet and cash flow. Cash and cash equivalents were $9.2 million at the end of the quarter, with total debt of $329.6 million, including $51.8 million of capital lease obligations. Our total debt decreased from $373.6 million at year-end, reflecting the usage of the common stock PIPE proceeds of $43 million to reduce overall debt.
+
+As I mentioned previously, capital expenditures were $6 million in the current quarter comprised of $5.2 million of growth-related spend and $800,000 of maintenance. Free cash flow, defined as cash generated from operations less capital expenditures, was $1.3 million, an improvement of $3.2 million over prior year and down $2.7 million from last quarter due primarily to the fees associated with the third amendment.
+
+Cash interest was $7.3 million in the quarter, bringing unlevered free cash flow to $8.6 million compared to $11.6 million in the previous quarter and $4.6 million last year. Just after the quarter closed, we successfully refinanced our entire debt facility, which is a very significant achievement for several reasons. By refinancing, we increased the runway needed to execute our vision. We're also able to increase our covenant flexibility and allow for more options to grow the company moving forward. Finally, we have created better access to funds to be invested in opportunities as they arise.
+
+Turning to slide nine, you will see our updated 2017 outlook. Our full-year 2017 revenue range of $275 million to $285 million is unchanged due to our continuing work on rationalizing our data center portfolio and exiting some non-productive deals.
+
+We will continue to evaluate all of our revenue streams to optimize profitability and lay a foundation for future growth. However, we are increasing our adjusted EBITDA outlook to a range of $85 million to $90 million from $84 million to $87 million, as we now have better visibility into key opportunities to increase profitability. This visibility has led us to increase our target to the upper end of our original $5 million to $10 million range for cost reduction savings in 2017. We now have confidence in the $10 million saving zone, with some funds going back to invest in sales and marketing.
+
+As we discussed earlier, we continue to manage CapEx tightly and are leveraging the assets that we have in place. As such, we are also updating guidance on capital expenditures with the revised outlook of $37 million to $42 million, down from approximately $42 million previously. Together, adjusted EBITDA less CapEx is producing more cash flow in this quarter, which is very positive.
+
+Our primary financial objective beyond the balance sheet improvement is to improve financial performance from the assets we already have in place. With the state-of-the-art platform, we believe that we can increase our run rate profitability and cash flow by streamlining our cost base, managing CapEx toward high-return projects and building our sales organization for future growth. With the first quarter behind us, we now have a path to success, with continued execution within our control.
+
+Now let me turn the call back to Pete.
+
+Thanks, Bob. Let's move on to slide 10. So we've accomplished a lot since I joined last September. Many of the new hires already act like season veterans of INAP. I'm very proud of all of our employees. And we're committed to getting beyond the turnaround and into new stage of profitable growth and continuing to meet customer requirements.
+
+As we like to say, we're changing the tires on the cars as it speeds down the road, and we understand that there's plenty of room for improvement to meet or exceed peer group metrics. With an aggressive to-do list for the first 100 days now behind us, I'm extremely optimistic about our value creation potential.
+
+The next steps require detailed focus on day-to-day operations and quickly responding to enterprise and business demand for premium custom solutions. I like our strategic advantage as a nimble retail Internet infrastructure provider in major markets. So we just need to execute better every day. With high-end Tier 3 facilities, AgileCLOUD and Bare-Metal Servers, and iWeb serving SMB, INAP plays in the sweet spot of a growing industry. And we look forward to leveraging our business units to create shareholder value.
+
+After this earnings release, Bob, Richard and I will soon hit the circuit and meet with investors. We're presenting at conferences and non-deal road shows this summer to articulate our strategic direction for INAP. We certainly look forward to seeing many of you there and talk about our progress.
+
+So at this point, operator, we'd like to take questions.
+
+Thank you. [Operator Instructions] Our first question comes from Frank Louthan with Raymond James. Your line is open.
+
+Great. Thank you. Just two quick questions. One, can you give us a little bit more color on sort of the management [ph] reorgan side (23:09), it's moved around sort of the reporting line items, what you may have done organizationally rather? And secondly, with the lower CapEx guidance, is it sort of a run rate we should think of going forward, what's sort of driving the slightly lower CapEx, and how should we think about it going forward?
+
+Thanks, Frank. It's Pete. From a reorg perspective, we're pretty much done structurally and certainly from a leadership perspective. We've replaced and promoted within almost 10 to 15 leaders across the company to get into this new pure-play format. So I think for the most part, it's pretty much done, I would say, to 95% range of bringing in senior talent. The next tier of talent, we're working again within, promoting within, supplementing where we can, and we're really focusing on the sales team.
+
+The sales team is high priority from a new hire perspective. We have – I would say, probably halfway there towards our 70 QBRs, quarter-bearing reps, where we want to be. We're being very careful. We're actually hiring leadership as opposed to bottoms-up. That way, they could bring in their own team and have a lot of loyalty built in. So, good progress there. More to do.
+
+On the CapEx guidance, I think the $40 million target range is pretty fair for now. I think it's enough of capacity for success-based CapEx as well as maintenance. We're going to watch it very closely. We're not just investing money for the sake of a budget. We're going to try to take our time and fill out those Tier 3 data centers where we're actually capping out in capacity. But as you know, we almost have 53% excess capacity, or it's the other way around, utilized across the whole portfolio. So we have a lot of space to sell into right now. So I'd leave it at $40 million for now and kind of see how it goes.
+
+Okay. Great. Thank you.
+
+Thank you. [Operator Instructions] Our next question comes from Matthew Heinz with Stifel. Your line is open.
+
+Hi, thanks. Good morning. Just looking at the segment breakdown, it looks like company-controlled COLO revenues came down slightly on a sequential basis. Could you just describe some of the dynamics going on there in terms of churn and whether you think you'll be on pace to I guess outrun churn with new bookings as we get closer to year-end?
+
+Yeah. We're thinking that, as we get closer to the end of the year, we'll begin to see a turn in the business and cover churn at that point in time. We strongly believe that a lot of this is based on a number of quarter-bearing reps that we have in place. And as we said in the last quarter, we're out vigorously looking to hire that sales organization this year.
+
+There's also a little bit of a misnomer – misnomer on what is company-controlled versus partnered. It's quite confusing even for us, new guys coming in here. For the most part, the industry doesn't do it that way. We're going to probably move away from that kind of terminology. And when we get through Phase 2 of the consolidation effort on data centers, we're probably going to end up listing out the data centers that we control. And we're going through that pile right now.
+
+There's probably 50 locations all-in between what we used to call partnered and company-controlled. There's probably 50 sites that are in our portfolio right now that [ph] we're combing (27:20) through. And I would say, by the end of the year, we'll be able to articulate which sites, which markets we're going to be the strongest in. So I would look at it from that perspective.
+
+The other thing to keep in mind is that we have almost 80 POPs around the world. And that's additive to the 50 POPs I just mentioned. That's a lot of real estate contracts we're getting through this year, from 500-square-foot POP in Singapore to 5,000 square feet POP in Phoenix. We have really good properties all over the world. We just have to consolidate this footprint.
+
+Okay. That's helpful. Thanks. And then, Peter, as a follow-up, I was hoping you could give us a sense of kind of how you're positioning the INAP brand in the marketplace under the new management, sales force you're bringing in, and if you could just frame up the addressable market in terms of size and customers types that you kind of see as just being in your sweet spots. And then I guess lastly, what are your key differentiating factors in the respective colos [indiscernible] (28:31)?
+
+Thank you. We basically have two go-to-market strategies. One is with iWeb out of Montréal, a really strong team that's actually doing most of the software development for AgileCLOUD and bare-metal server. So iWeb brand in Canada is pointed towards SMB. And that is where that's going to be, and that's very strong there. And the brand's equity in Canada is fantastic when it comes to iWeb.
+
+The new INAP brand, if you will, which is certainly our stock symbol, is a new chapter in the Internap Corporation company, where we've turned the page. We're doing things a little bit differently. We're very focused on profitable growth. And we're aiming at the enterprise and business customer, which tend to have higher ARPUs.
+
+So when you're selling into a Tier 3 data center, you're really looking at enterprise sale. When you're dealing with larger companies with logos that you would recognize, they tend to be very complicated sales, maybe many times bundled with network, colo power, maybe even some cloud, and Agile CLOUD on top. So these custom solutions, as a retail provider, really point to some psychology change in who we are, and that is the new INAP. And that's how we're positioning ourselves in the market.
+
+Thank you very much.
+
+Thank you. This concludes our question-and-answer session. I would like to turn the call back over to Pete Aquino, CEO, for closing remarks.
+
+Thank you, operator. And thank you, everyone, for joining us today. We hope to see a lot of you on the market or on the circuit in the next few – few months. And we appreciate your attention today. Thank you. Have a great day.
+
+Ladies and gentlemen, thank you for your participation in today's conference. This does conclude the program, and you may now disconnect. Everyone, have a great day.

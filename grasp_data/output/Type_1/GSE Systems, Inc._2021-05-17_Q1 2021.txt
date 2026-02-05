@@ -1,0 +1,178 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+Robert A. Blum — Managing Partner, Lytham Partners LLC
+Kyle Justin Loudermilk — President, Chief Executive Officer & Director, GSE Systems, Inc.
+David W. Wright — Analyst, Henry Investment Trust LP
+
+Management Discussion Section
+
+Question And Answer Section
+
+Good day and welcome to the GSE System (sic) [Systems] Reports First Quarter Fiscal Year 2021 Financial Results Conference Call. All participants will be in listen-only mode. [Operator Instructions] After today's presentation, there will be an opportunity to ask questions. [Operator Instructions] Please note this event is being recorded.
+
+I would now like to turn the conference over to Robert Blum. Please go ahead.
+
+All right. Thank you very much, Sarah, and good afternoon, everyone. Thank you for joining us today to review the financial results for GSE Systems for the first quarter ended March 31, 2021. With us on the call representing the company today is Kyle Loudermilk, President and Chief Executive Officer of GSE Systems. Unfortunately, Emmett Pepe, the company's Chief Financial Officer, will not be joining the call today as he is attending to the loss of a family member.
+
+Before we begin with the prepared remarks, I'd like to remind everyone that statements made during the course of this conference call may contain – may be considered forward-looking statements within the meaning of Section 27A of the Securities Act of 1933 as amended and Section 21E of the Securities Act of 1934. These statements reflect current expectations concerning future events and results.
+
+Words such as expect, intend, believe, may, will, should, could, anticipate, and similar expressions are words that are used to identify forward-looking statements. But their absence does not mean a statement is not forward-looking. These statements are not guarantees of future performance and are subject to risks and uncertainties and other important factors that could cause actual performance or achievements to be materially different from those projected.
+
+For a full discussion of these risks, uncertainties, and factors, you are encouraged to read GSE's documents on file with the Securities and Exchange Commission, including those set forth in periodic reports filed under the Forward-Looking Statements and Risk Factors section. GSE does not intend to update or revise any forward-looking statements, whether as the result of new information, future events or otherwise.
+
+On this call, management may refer to EBITDA, adjusted EBITDA, adjusted net income, and adjusted EPS, which are not measures of financial performance under generally accepted accounting principles, or GAAP. Management believes that these non-GAAP figures, in addition to other GAAP measures, provide meaningful supplemental information regarding the company's operational performance. Investors should recognize that these non-GAAP figures might not be comparable to similarly titled measures of other companies.
+
+These measures should be considered in addition to and not a substitute for or superior to any perform – measure of performance prepared in accordance with GAAP. A reconciliation of non-GAAP measures to the most directly comparable GAAP measures, in accordance with SEC Regulation G, can be found in the company's earnings release.
+
+With that, I'd like to turn the call over to Mr. Kyle Loudermilk, President and Chief Executive Officer of GSE Systems. Kyle, please proceed.
+
+Thank you, Robert. I would like to welcome everyone to GSE's first quarter 2021 financial results conference call. Earlier today, we issued a press release detailing our financial results. Hopefully, you've had a chance to review this news release. But if not, a copy can be found on our website at www.gses.com under the News section.
+
+To lay out the agenda for today's call, let me first summarize a few key events of the quarter, including some brief commentary on the numbers. I'll then talk a bit about the status of each of our divisions, including Performance Improvement Solutions, what we also call our Engineering segment; and Workforce Solutions, also known as Nuclear Industry Training and Consulting, or NITC; and our SaaS-based software solutions. I'll also provide some industry commentary, and then, I will give a recap of the financial results. Finally, we will then open the call to any questions at the end.
+
+Overall, I was pleased with the quarter on several fronts. New orders for the quarter were $13 million, up 67% sequentially from $7.8 million (sic) [65% sequentially from $7.9 million] in the fourth quarter and at their highest level since the first quarter of last year. Revenues increased 3.6% sequentially to $13.1 million, led by an 18% sequential increase in Workforce Solutions. Further, total backlog remained solid at the end of Q1 at $40.2 million. While still below pre-pandemic levels, we see signs that our backlog has leveled out and we expect to see improvement throughout 2021 as expected contract wins begin to appear.
+
+To that point, we received a number of new orders during the first quarter, including three contracts for our Workforce Solutions division with a combined value of $8.7 million to provide specialized training and staffing support services for large energy companies. These wins show the vast capabilities that GSE can offer to its clients as well as beat out tough competition. It is important to note that these orders were with blue chip clients and we were able to win this business by offering our elite nuclear expertise, personalized approach to customer service, and proven track record of providing the best people available to industry, something that GSE has vast experience in providing.
+
+I would note that due to the way we account for backlog in orders, not all of this $8.7 million was booked in Q1. Rather, the orders will appear in backlog as revenues committed and/or generated. The Performance Improvement segment predominately saw meat and potatoes type of orders for our core business. Just as this segment was slower to be impacted by the pandemic relative to Workforce Solutions due to the long-running nature of projects, this segment has been slower to ramp back up to pre-pandemic levels. With that said, we have seen an uptick in bidding activity for this segment and we are eager to see them convert to awards and wins.
+
+Additionally, we received an order from a major energy company in Canada that contracted with GSE to upgrade their on-prem training platform to our new EnVision Software as a Service subscription solution, which included 10 comprehensive operational courses. This, too, is an instrumental win on a few levels. Not only was this another order with a major blue chip customer, it was for our new SaaS solution that can be accessed via the cloud. I'll expand into the software side of our business later in my prepared remarks.
+
+Beyond the orders, as I mentioned earlier, bid activity is up significantly from the last few quarters. While bid activity does not mean new orders or revenue, it does provide us with added optimism that the market is rebounding. In the short term, we are seeing the light at the end of the tunnel following the impacts from COVID-19 throughout 2020.
+
+The market overview and dynamics. While we are focused on rebounding in the near term, back to and beyond historic levels, as I look longer term, I believe the opportunities for GSE are significant. The trends towards improving power supply in general, something I referred to as "stable grid", are clearly at the forefront and are emphasized by events like what happened in Texas earlier this year and what type of havoc a disruption in the power grid can cause.
+
+While I've talked about decarbonization in the past, the theme of stable grid is also a key tailwind for GSE services and offerings, as our customers and the government find ways to not only decarbonize and deliver clean power but also deliver power in a stable and consistent manner. In order to accomplish these two requirements of decarbonization and stable grid, nuclear has to become a major focus.
+
+We are now seeing this focus right at the top of the US government proposed policy. President Biden and Department of Energy Secretary, Granholm are openly advocating for federal-level subsidies to recognize the value of the US nuclear commercial reactor fleet. Achieving a zero-carbon grid that is stable requires a healthy nuclear ecosystem. It is terrific to see this discussed and embraced openly across the political spectrum.
+
+On the year-end call, I discussed the heavy investment into next-generation nuclear facilities called SMRs, known as small module reactors. In October 2020, the US DOE awarded $160 million to build working models of small-scale advanced nuclear reactor design, and in December, announced another $30 million of initial funding under its new Advanced Reactor Demonstration Program.
+
+Further investment into advanced nuclear is highlighted in the American Jobs Plan. While all of this is very exciting news for the industry, in the interim, there also have been a major refocus on existing facilities, which can act as a key catalyst for us until the newer SMRs were commissioned. We are seeing power companies seek long-term permit renewals for existing nuclear facilities primarily to meet their decarbonization targets, but also to continue to keep a stable power supply going. They are also looking at the age of the facilities, not just renewing for small time periods, but many are seeking longer-term renewals in the range of 10 to 20 years.
+
+We recently saw the Nuclear Regulatory Commission backed Dominion Energy's application to extend the operating lifetime of the Surry reactors by 20 years. This is great news and part of a wave of lifetime extensions that are moving through the reactor fleet. We're closely monitoring these renewals because we believe they will act as a bridge to the newer technologies SMRs offer and bode very well for the future opportunities for GSE for many years to come.
+
+Another key growth driver for GSE is that the US energy industry is expected to lose a large percentage of its workforce as baby boomers retire. This should present us greater opportunities for our business over the next several years as utilities look to vendor expertise to fill this gap. At GSE, we're well-positioned to take advantage of these industry-wide trends through our two key divisions. Now, let me take a moment to discuss some details on each of those divisions.
+
+Performance Improvement Solutions, also known as engineering performance, saw orders increased in the first quarter up 28% sequentially to $5.6 million, up from $4.3 million in the fourth quarter of 2020. Two major highlights in the quarter for Performance Solutions were the order flow from DP Engineering and True North, where orders improved sequentially by 66% and 43%, respectively. This was a direct result of pent-up demand of our core essential services that were delayed due to the COVID-19 pandemic. Overall, progress is being made.
+
+To wrap up on Performance Solutions, I will note that there were no single large orders that drove this uptick in demand. We feel that this broad uptick is a sign that the deal volume overall is picking up from the bottom we saw in 2020 as a result of the pandemic. As the industry races to catch up on work that was delayed over the past year, GSE is well-positioned to benefit from this trend.
+
+Now, moving to Workforce Solutions, our NITC segment. As mentioned in the press release, orders in the first quarter increased 113% (sic) [111%] sequentially from the fourth quarter led by a combination of new customer wins as well as extensions and continuation of current contracts.
+
+Our Hyperspring division, which offers highly specialized, industry-specific expertise for staffing, training and consulting services, had a stellar quarter, where orders in the first quarter were $4.2 million, up from nearly zero orders in the fourth quarter. The increase in orders were attributable specifically to a sizable order from one of our longtime customers.
+
+Further in this segment, in December 2020, we announced master service agreements with a major US utility for a combined budgeted value $35 million over two years with multiyear extension options. We anticipate that work under these agreements, which is not yet reflected in our new order or quarter-end backlog, will start to ramp as we approach the end of Q2 and continue to build in the second half of the year.
+
+As I described earlier in the call, Workforce Solutions is an on-demand type of business. When the pandemic broke out last year, with customers sending employees home, we saw this business quickly and dramatically scaled back as companies paused their demand for workforce staff augmentation. Just as we saw a swift contraction in this business, now that we are emerging from the pandemic, we are seeing this on-demand business quickly ramped back up. We're working hard to ensure this trend continues. As our customers lack the skilled resources to conduct certain essential work at scale as a result of a retiring workforce and other macro trends, GSE is poised to fill that gap as well as the surge in demand, post-pandemic, with our access to highly skilled professional workforce.
+
+The nature of this business is an effective diversification to our Engineering Solutions' Performance Improvement business line, which should see a longer ramp up due to – up to pre-pandemic levels of activity. With COVID hopefully subsiding, we are optimistic that this is just the beginning of continued strong order flow, which will ultimately convert to revenue growth.
+
+Moving on to our cloud-based SaaS solutions. While this is technically categorized in the Performance Improvement Solutions and currently represents about 5% of total company revenues, the recurring nature of this revenue [ph] and 80%, 90% (14:09) gross margins make this an attractive and unique component of the business. For those not familiar with this offering, our delivering technology in SaaS format was launched a few years ago and as a direct result of our strategy of packaging, licensing, and monetizing our IP for significant value-added to industry, and in turn, to GSE.
+
+We now provide customers a flexible, decentralized simulation and workforce development solutions that are underpinned by robust technology and deep subject matter expertise. Our SaaS customers require only a Web browser and Internet connectivity for the end user, enabling the client corporation to eliminate the burdensome and costly management of on-prem technology. While we have historically sold this as an on-prem solution with one-time perpetual license, we're making a significant push to convert our perpetual licenses to term licenses with customers and deliver those solutions via a cloud-based solution.
+
+We have been successful in converting several of our clients to enter into these ongoing software solutions agreements. The key example of this was the contract I highlighted a moment ago. This contract was for a three-year term license and highlights the value-add we provide through this cloud-based solution. We have several additional customers that we were seeking to convert to software solutions on demand, which could in turn develop into a highly sticky and growing annuity stream for us in the future to come.
+
+To put a fine point on this recurring focus, revenue from SaaS-based term licenses increased 166% year-over-year and roughly stayed flat sequentially. I'm extremely pleased with the progress this division has built for GSE.
+
+To summarize, I'm proud of our team's resilience and ability to work through the industry-wide project delays and work stoppages caused by the pandemic this past year. With the vaccine rollout and COVID cases coming down dramatically, GSE is well-prepared to take advantage of bidding opportunities as customers reemerge, pursuing upgrades and other required essential services.
+
+The forward-looking components of orders and increased recurring software agreements is a sign of green shoots for GSE. We're clearly optimistic that 2021 will be a much stronger year as our industry project activity rebounds and we execute on our very exciting organic growth strategy. Looking to the longer term, we are well-positioned for success in helping our customers deliver clean and stable power for their customers.
+
+Before I move on to discuss the first quarter financials, I want to extend our condolences to Emmett, who is not able to attend today's call due to the recent loss of his mother. Additionally, I want to commend Emmett and his team for their diligent efforts during the last year. As I will detail, subsequent to the first quarter, we were able to secure an Employee Retention Credit for $2.44 million, which will enhance our operating cash flow and capital structure in the coming quarters. I wanted to acknowledge our appreciation to Emmett and his team for their efforts.
+
+So, now covering financials. With the numbers highlighted in detail in the press release, I will focus my comments on a few areas and provide added color where I can. Revenue during the first quarter of 2021 was $13.1 million, an increase of 3.6% compared to 12.7% (sic) [$12.7 million] in fourth quarter of 2020, and 17.7% (sic) [$17.7 million] in the first quarter of 2020. The sequential improvement on revenues was driven by the 18% growth in Workforce Solutions, offset by a 5% (sic) [6%] sequential decrease in the Engineering Solutions. The year-over-year decrease of $4.6 million was due to the overall impact of the pandemic, which began to impact the company's operations midway to the end of the first quarter of 2020.
+
+Performance Solutions revenue was $7.1 million in the first quarter compared to $7.6 million in the fourth quarter, and $9.7 million in the year-ago first quarter. The sequential change year-over-year was primarily due to several significant projects ending in prior periods and delays in commencing new contracts remotely due to the COVID-19 pandemic. As mentioned earlier, we are working diligently to turn our opportunity pipeline into orders, but this business line has a longer lead time to ramp up than our Workforce Solutions segment.
+
+This is illustrated in our Q1 results with Workforce Solutions revenue of $6 million in the first quarter compared to $5.1 million in the fourth quarter of 2020, and $8 million in the year-ago first quarter. The sequential improvement is predominantly due to new business secured during the quarter. The year-over-year change is primarily due to an overall decrease in activity due to COVID-19 pandemic, as I described earlier.
+
+Gross profit margins in the first quarter were 22.3% of revenue. This compared to 23.2% of revenue in the first quarter of 2020, and 29.9% in the fourth quarter of 2020. As we have said in the past, gross margins can be impacted by the mix of business from quarter to quarter and how much resources need to be dedicated to certain projects. Typically, our margins increased over the course of the year as our payroll burdens lessen as employer tax caps are exceeded.
+
+While the quarterly performance of Performance Solutions showed improvement, gross margins in the first quarter were below that division's typical levels. This was due to additional preparatory service for recent order flow that we anticipate to work on in the near future. While this hurt the gross margin in the quarter, we believe the expenditures will be beneficial over the course of the year, and we anticipate a more normalized gross margin for the division.
+
+Operating expenses, including (sic) [excluding] restructuring and impairment charges, decreased 27% year-over-year in the first quarter to $4.3 million to $5.9 million in the year-ago first quarter. They were $3.8 million (sic) [$3.9 million] in the fourth quarter of 2020. Expenses are typically higher in the first quarter due to some additional corporate expenditures like our annual audit. Overall, I believe we've done a good job managing the business through the pandemic.
+
+As I just mentioned, subsequent to the first quarter's end, the company became eligible for the Employee Retention Credit and has applied for a refund of $2.44 million. We believe we are eligible to take it to the second quarter and are currently reducing our payroll taxes as permitted under the Coronavirus Aid, Relief, and Economic Security Act. This should improve our cash flow moving forward.
+
+One further point here, as the PR highlights, we recognized $808,000 in non-cash restructuring charge in the first quarter of 2021. The charges are mainly due to realization of the cumulative translation adjustment related to the Swedish liquidation, which is finally complete.
+
+Reflecting the absence of the restructuring charge and other non-cash items, adjusted net loss was $1 million, or $0.05 per diluted share, in the first quarter of 2021, compared to adjusted net loss of $0.9 million, or $0.04 per diluted share, in the first quarter of 2020. On an adjusted EBITDA basis, it was pretty similar as we had a loss of $800,000 in the first quarter of 2021, compared to $600,000 in the first quarter of 2020. Adjusted EBITDA totaled $1.1 million in the fourth quarter of 2020.
+
+As I mentioned earlier, backlog was $40.2 million, of which $28.7 million was attributed to Performance Solutions, and $11.5 million attributed to the Workforce Solutions segment. As a reminder, backlog is $40.4 million at the end of December. I believe the level of the backlog from December to the most recent quarter that we're discussing today shows stability in the industry.
+
+Turning to the balance sheet, we continue to prudently manage our balance sheet. Our total debt includes approximately $10 million that we received last year under the Paycheck Protection Program. We've used these funds for payroll-related costs, rent, utilities and other permitted uses. As of March 31, 2021, we are in full compliance with all requirements in order to [ph] reapply (00:22:04) for forgiveness under the PPP loan.
+
+We have applied for forgiveness of this loan in the first quarter in 2021. Our application has been approved by the bank and is currently awaiting approval by the SBA. We are anticipating a response in the near future and plan to make an appropriate disclosure when we do. Assuming forgiveness of the debt, our total debt would be just $2.5 million.
+
+Before we open the call for questions, I would like to conclude that we believe the industry has turned the corner. Bidding in recent months has improved and order wins reflect that. We know that many of our customers that pushed bids during 2020 are coming back to the table and in need for upgrades and upkeep services. While the timing on this business is still a bit hazy, we do believe that GSE is well-positioned to win its fair share of opportunities as we go forward.
+
+We couldn't get to this point without the commitment of our employees and patience of our shareholders, which I thank you both for. This is an exciting time for GSE and the company has prepared for the future, which is in our favor. Given our very unique position as a heavily, tech-enabled provider of essential services to the decarbonization of the power sector and nuclear power industry, we remain very confident in our opportunity to create substantial, long-term value for employees and shareholders alike.
+
+One final note, we will be attending Sidoti conferences Wednesday and Thursday. Additionally, we're pleased to be participating in the Lytham Partners Conference coming up on June 14 through June 16. If you would like to arrange a one-on-one meeting, please connect with the team at Lytham Partners.
+
+With that said, operator, please open the floor for questions.
+
+Thank you. We will now begin the question-and-answer session. [Operator Instructions] Our first question comes from David Wright with Henry Investment Trust. Please go ahead.
+
+Hi. Good afternoon.
+
+Hi, Henry (sic) [David].
+
+Did you say the $808,000 of restructuring charge in Q1 was the final related to the Swedish wind down, is that what you said?
+
+That's correct. It's noncash-related and it's entirely related to the dissolution of the Swedish entity.
+
+Great. Okay. Restructuring charges have played a recurring role in the financial statements the last couple of years. Is it anticipated that there'll be any more in the next quarter or two?
+
+The only element of restructuring charges that may come into play is related to the abandonment of unused real estate as a result of the pandemic. It's not a firm thing yet, but that's the only thing that comes to mind right now.
+
+Okay. Great. And then, just kind of a tactical question. You talked about small modular reactors and – do we know – are those going to require simulators for training purposes for their...
+
+Yeah. Absolutely. I'd point you to do some research on the Internet around a company called NuScale, N-U-S-C-A-L-E, and they were just posting today, in fact, on LinkedIn about their use of their commercial simulator to accelerate their design license from the NRC. That simulator, in fact, is based on GSE's technology. We've been working with them for, at least, a decade now. And so, the short answer to your question is yes and there's just a tremendous story behind just that. So, long before these plants are built, they need to simulate those plants as they design them and then prove they can operate them safely, and that's where GSE can come into play, just as we have with NuScale.
+
+So, you are working with NuScale now in that regard?
+
+That's correct. We've been working with them for quite some time. They're very public about that.
+
+So, even though it may be a while before the reactors come along, GSE could be earning revenue from a simulator development well in advance of the plants of the...
+
+Yeah.
+
+...of the plants actually becoming operational.
+
+That's correct. Not only could we, we have and will continue to do so.
+
+Okay. Great. Thanks very much.
+
+Thank you. [Operator Instructions]
+
+Sarah, while we wait to see if there's going to be any additional questions here, Kyle, I just had a couple here. On the software solutions component of the business, can you maybe add a little bit more color there, maybe what the opportunity is, size of that opportunity, and what this can mean as – in terms of the larger picture for GSE going forward?
+
+Sure. Look, when we came into the business in 2015, we saw as part of the deep value this company can offer is packaging and licensing its IP in a contemporary fashion to industry to add value to industry and create an ongoing annuity for GSE. And you look at where we are today, very significant SaaS-based revenue increase, 160% year-over-year. This is high value-added, very sticky 80% to 90% gross margin. And that's really a direct result of the strategy and hard work of the team and working with customers.
+
+The growth potential is significant. While I won't put a specific dollar estimate on it, we certainly have the opportunity to go back into clients who have spent millions of dollars on our solutions and convert them into a recurring annuity. And we're working hard at that. The example of the Canadian client that we highlighted is just one example, where we've achieved that conversion, but there are many others that we're working with to go through a similar conversion.
+
+The value prop is obvious; they don't want to have to support on-prem technology, the hardware and software. They'd rather just support it, Internet connectivity and a Web browser, much cheaper for the client, more effective and scalable for us. And so, it's lower cost of ownership for the customer and higher value-added for us that's very sticky and grows over time. So, significant opportunity ahead.
+
+All right. Great. And then, maybe just couple more here. Obviously, the company has been well-entrenched in North America, particularly within nuclear here. Are there other geographies that are opportunities for the company both within nuclear as well as other power sources?
+
+Yeah, for sure. We've had a longstanding, robust business overseas, really almost since the company was founded. So, over the past year, we've been delivering projects in the United Kingdom, in Slovakia, in the Ukraine, mostly by delivering those projects from our domestic locations here in the United States and only with essential travel needing to go there. One of the silver linings of the pandemic, we've been able to deliver these solutions and prove we can deliver these solutions with technology delivery versus having to fly over and remain entrenched, say, as we may have in the past.
+
+So, there's value added there. We have a very extensive work that we've done in South Korea and continue to do work there. And I'll note, in Japan, Japan was a third of our business prior to Fukushima, and obviously, with Fukushima, that was like a turning off a spigot, but we've seen that spigot cracked back open three, four years ago, so we've started to get new order flow from Japan. It's modest, but we remain engaged in that country with very close ties and good relationships, and look forward to see that growth as Japan starts up their fleet.
+
+All right. Maybe just one more here. In the Workforce Solutions division, obviously, the labor market is very tight. How does the company make sure it can supply the necessary workforce or really the required engineers there?
+
+Yeah. It's great question. Key to our Workforce Solution value-added is we have a robust and very proprietary database of highly skilled workers that are available for on-demand work. And they are as much our customers as our end-user utility customers are. So, we work really hard to build up great relationships with these professionals over the long term. We reach out to them when projects become available, and they have the option to work when they want to and need to. So, it's really a win-win, but it's that proprietary database and contacts with highly-skilled workers that really differentiates us in the marketplace.
+
+Thank you for that. Sarah, I will turn it back over to you.
+
+Thank you. Showing no further questions, this concludes our question-and-answer session. I would like to turn the conference back over to management for any closing remarks.
+
+All right. Well, thank you. And I'd like to thank everybody for joining us. We appreciate your time and interest in GSE, and we're very excited about what's ahead of us in here in 2021. We look forward to speaking with many of you in the weeks ahead. Feel free to reach out for one-on-one discussions if you wish to follow up for that. Happy to speak with you. If you have any questions, please reach out to our IR firm, Lytham Partners, and we'd be happy to schedule those follow-up calls.
+
+Again, thanks, everyone. Be well and have a great day.
+
+The conference is now concluded. Thank you for attending today's presentation. You may now disconnect.

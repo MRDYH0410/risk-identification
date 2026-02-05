@@ -1,0 +1,332 @@
+raw transcript
+
+
+eMagin Corp.
+ 
+EMA
+ 
+Q4 2005 Earnings Call
+ 
+Mar. 27, 2006
+
+
+Company
+
+ 
+Ticker
+
+ 
+Event Type
+
+ 
+Date
+
+
+
+www .Ca ll St r eet . com
+ 
+•
+ 
+21 2. 9 31 . 65 1 5 •
+ 
+C op yr i g ht © 20 0 5 C a ll S tr ee t
+ 
+1
+
+
+MANAGEMENT DISCUSSION SECTION
+
+
+Operator: Good day ladies and gentlemen, thank you for your patients and welcome to the Fourth
+
+
+Quarter and FY 2005 eMagin Corp. Earnings Conference Call. My name is Bill and I will be your
+
+
+coordinator today. At this time, all participants are in a listen-only model. However we will conduct
+
+
+a question and answer session following today’s prepared remarks. [Operator Instructions].
+
+
+And I would now like to turn the presentation over to your host for today’s call, Mr. John Atherly,
+
+
+Chief Financial Officer.
+
+
+John Atherly, Chief Financial Officer
+
+
+Thank you. And welcome to eMagin’s Fourth quarter fiscal year 2005 earnings conference call. I
+
+
+am John Atherly, CFO of the eMagin Corporation and I will be joined by our CEO Gary Jones.
+
+
+Before we begin, I would like to remind all of you that we will be referring to numbers that are part
+
+
+of our 10-Q for the quarter ended September 30, 2005, which will be available through the SEC’s
+
+
+EDGAR system.
+
+
+During today’s call, we will make forward-looking statements, as defined in The Private Securities
+
+
+Litigation Reform Act of 1995. These forward-looking statements are based on the company’s
+
+
+current expectations, projections, beliefs, and estimates, and are subject to a number of risks and
+
+
+uncertainties. Such statements include reference, projections of future revenues, plans for product
+
+
+development and production, the company’s production manufacturing facilities, future contracts
+
+
+and commercial arrangements, future product benefits and future operations, liquidity and capital
+
+
+resources, as well as statements containing words like believes, expects, estimates, plans,
+
+
+anticipate, targets, will, intend, target, plan, seek, could, would, and other similar expressions. Risk
+
+
+factors are included in the Company's 10K/ST reports from 2004 filed with the Securities and
+
+
+Exchange Commission, Except as historically required by the federal security laws, we undertake
+
+
+no obligation to publicly update or revise any forward-looking statements, whether as a result of
+
+
+new information, future events, changes in circumstances or any other reasons.
+
+
+I will now turn the call over to Gary.
+
+
+Gary Jones, Chairman of the Board, President, Chief Executive Officer
+
+
+Thank you John, and welcome to those of you listening the call. During today’s call, we will update
+
+
+you on the status of our recently completed third quarter financial results. We have made
+
+
+significant progress in production and sales since our last report. But before John covers this
+
+
+quarter’s details, I will briefly review the big picture and our overall expectation. For the three
+
+
+months ended, September 30, 2005, revenue was 1.1 million which was a slight increase from a
+
+
+year ago and up 69% from last quarter’s results.
+
+
+During this past quarter, we made significant progress on many fronts. Production is ramping back
+
+
+up after considerable equipment downtime during the first half of the year. We improved our OLED
+
+
+fab uptime over 2 times since the first half of the year. These gains involved operator training and
+
+
+other extensive efforts that are still underway. This quarter marked a major milestone when we
+
+
+began shipping our first direct-to-consumer product, the Z800 3DVisor which delivers capability
+
+
+beyond those of almost all current professional simulation headset to even 20 times the price.
+
+
+Initial production is now ramped to almost a 100 units per day.
+raw transcript
+
+
+eMagin Corp.
+ 
+EMA
+ 
+Q4 2005 Earnings Call
+ 
+Mar. 27, 2006
+
+
+Company
+
+ 
+Ticker
+
+ 
+Event Type
+
+ 
+Date
+
+
+
+www .Ca ll St r eet . com
+ 
+•
+ 
+21 2. 9 31 . 65 1 5 •
+ 
+C op yr i g ht © 20 0 4 C a ll S tr ee t
+ 
+2
+
+
+One of customers Daeyang recently showed for the first time, their planed consumer, product using
+
+
+our SVGA-3D display at the CEATEC, Consumer Product Trade Show in Japan. This was just last
+
+
+month. And we look forward to a product launch announcement probably very soon. We have
+
+
+expanded the number of OEM customers evaluating and integrating products with or using our
+
+
+displays to over a 170. Market awareness and interest in virtual imaging is building rapidly. In
+
+
+large part due to the new product and efforts through many trade shows and press publications.
+
+
+For example, Fortune Small Business ran stories about eMagin in the quarter, highlighting our
+
+
+OLED displays and their excitement about virtual imaging after using the Z800 as did Forbes
+
+
+Online.
+
+
+We were recently featured on CBS and MSNBC and other networks due to efforts extended during
+
+
+the third quarter. Keeping this awareness growing is important to our success as we open this
+
+
+emerging market for virtual imaging and virtual reality, VI and VR is what we call them. Expected
+
+
+announcements very soon about a high profile award earned by the Z800. We began fulfillment of
+
+
+direct-to-customer – direct-to-consumer orders taken on our e-Commerce side, a channel that we
+
+
+believe would be the key to Z800 growth and a follow-on product distribution and success scenario.
+
+
+We completed the design of the new lower cost SVGA-3D-shrink on schedule and our CMOS IC
+
+
+foundry in Taiwan has processed the first wafers to begin prototyping.
+
+
+We continue to advance our R&D and furthered our readiness to release new OLED materials on
+
+
+our displays with even much higher efficiency and luminous light capability. The new OLED
+
+
+materials that plan for introduction in the near term for customer qualifications is also expected to
+
+
+permit enhance enhanced OLED deposition rates and thereby increase our production lines
+
+
+capacity. And we also just recently completed $9 million financing.
+
+
+As I talk a little bit more about these highlights though, I’d like to give you some perspectives about
+
+
+where our next opportunity lies and where the display industry especially, in relation to liquid crystal
+
+
+display or LCDs is positioned. First, as most of you know, there are basically two types of display,
+
+
+the first being direct view such as computer screens, notebook screens and the like, and the
+
+
+second being micro-display, which can be projection displays or near-eye displays such as ours
+
+
+which are magnified with optics to create a large virtual or projected image.
+
+
+In the worldwide arena of direct view displays, OLEDs are displacing LCDs at high rates with
+
+
+makers of MP3 players already having switched to OLEDs and many cellphone OEMs have
+
+
+already switched over their premier product lines to OLEDs. This is happening because of the
+
+
+much better power efficiency, viewing angle and temperature range of OLEDs, compared to LCDs.
+
+
+Furthermore, OLEDs have the potential to have a much – very similar base cost structure to LCD
+
+
+but without the need for added light sources or and would have lower cost interfaces. Therefore,
+
+
+OLED-based systems can use lower cost batteries or obtain much longer battery life with a given
+
+
+size battery. This provides a large system level combined performance and cost advantage for
+
+
+OLEDs.
+
+
+Given the very low price passive matrix OLEDs do not suffer from the speed and smear [ph]
+
+
+problems of LCDs. OLEDs are being increasing used for small format medium to low resolution
+
+
+displays. Higher quality large area polysilicon active connecting matrix or other active matrix
+
+
+infrastructure has been developing for larger area displays. But the small format displays are still
+
+
+an high growth area due to the rapidly growing market for handheld displays with high quality
+
+
+imaging capability.
+
+
+Our micro displays use even higher speed single crystal silicon and are built with full pixel memory
+
+
+underneath of every pixel permitting eMagin’s displays to outperform even the large area display.
+
+
+Through our years of work since the earliest of OLED when we became the first company to ever
+
+
+commercially set full color or active matrix ourselves – full color or active-matrix OLEDs, eMagin
+
+
+has developed important intellectual property that can provide advantages to both small and large

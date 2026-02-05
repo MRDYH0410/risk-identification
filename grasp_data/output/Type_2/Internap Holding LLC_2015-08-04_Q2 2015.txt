@@ -1,0 +1,316 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+Michael Nelson — Vice President of Investor Relations, Internap Corporation
+Michael A. Ruffolo — President, Chief Executive Officer & Director, Internap Corp.
+Kevin M. Dotts — Chief Financial Officer, Internap Corp.
+Jason M. Kreyer — Analyst, Craig-Hallum Capital Group LLC
+Frank G. Louthan — Analyst, Raymond James & Associates, Inc.
+Tim K. Horan — Analyst, Oppenheimer & Co., Inc. (Broker)
+Frederick W. Moran — Analyst, Burke & Quick Partners LLC
+Barry M. Sine — Analyst, Drexel Hamilton LLC
+Colby A. Synesael — Analyst, Cowen & Co. LLC
+
+Management Discussion Section
+
+Question And Answer Section
+
+Ladies and gentlemen, thank you for standing by, and welcome to the Internap Second Quarter 2015 Earnings Conference Call. At this time, all participants are in a listen-only mode. Later we will conduct a question-and-answer session and instructions will be given at that time. [Operator Instructions] As a reminder, this conference is being recorded. I would now like to turn the conference over to our first speaker for today, Vice President of Investor Relations, Mr. Mike Nelson.
+
+Good afternoon and thank you for joining us today. I'm joined by Michael Ruffolo, our Chief Executive Officer, and Kevin Dotts, our Chief Financial Officer. Following prepared remarks, we will open up the call for your questions.
+
+The slides we reference in the call are available on our website in the Presentations section on the Investor Relations page. Non-GAAP reconciliations and our supplemental data sheet, which includes additional operational and financial metrics, are available under the Financial Information, Quarterly Results section of our Investor Relations page.
+
+Today's call contains forward-looking statements including belief in our business strategy, including our channel partner and churn mitigation strategies, market and product positioning, ability to drive growth in shareholder value, timing for bringing new capacity online, expectations regarding customer churn and its drivers, margins, cash flow, returns on capital and operational performance, and expectations for revenue, adjusted EBITDA and capital expenditures in 2015.
+
+These statements are not guarantees of future performance. Because these statements are based on certain assumptions and involve risks and uncertainties, there are important factors that could cause our actual results to differ materially from those in the forward-looking statements. We discuss these factors in our filings with the Securities and Exchange Commission. We undertake no obligation to amend, update or clarify these statements. In addition to reviewing the second quarter results, we will also discuss recent developments.
+
+Now, let me turn the call over to Michael Ruffolo.
+
+Thank you, Michael, and good afternoon, everyone. I'm really happy to be here and appreciate you joining us for our second quarter 2015 earnings presentation. Since I became CEO in mid-May, I've had the opportunity to meet many of our large shareholders and almost all of our analysts who cover Internap either in person and/or at our June Investor Day that we held in New York in June. For those of you that I haven't met, I appreciate your interest in our company and I personally commit to doing my best to grow the business and increase shareholder value.
+
+I'll start the discussion with a summary of our results underscoring our company-wide focus on growth, and then ask Kevin Dotts, our Chief Financial Officer, to take you through our financial and operational results. From there, I'll provide an update and additional color on our strategy to drive growth through the introduction and customer adoption of new product offerings. We'll then conclude our call with questions and answers at the end.
+
+So if you could turn to slide three, you'll see we delivered total revenue in the second quarter of 2015 of $80.4 million. This represents a decrease of 4% year-over-year and flat quarter-over-quarter. Data Center Services revenue totaled $59.4 million in the quarter, a decrease of 3% year-over-year but an increase of 1% quarter-over-quarter. Consistent with our strategic plan and evidence of our focus on execution, we returned to revenue growth from our core Data Center Services which includes company-controlled colocation, hosting and cloud services.
+
+Core Data Center Services revenue totaled $48.7 million in the second quarter, a decrease of 1% year-over-year and an increase of 2% quarter-over-quarter. Segment profit of $47.5 million was flat year-over-year and quarter-over-quarter. However, segment margin was 59%, an increase of 250 basis points year-over-year and 30 basis points sequentially. In addition, core segment margin was 66.4%, an increase of 160 basis points year-over-year and 80 basis points sequentially.
+
+In Q2, we also delivered strong increases in both adjusted EBITDA and adjusted EBITDA margin. Second quarter adjusted EBITDA was $19.1 million, an increase of 3% year-over-year and 7% quarter-over-quarter. Adjusted EBITDA margin expanded 180 basis points year-over-year and 160 basis points sequentially to 23.8%, and this is inclusive of $1.5 million in executive transition cost.
+
+Turning to slide four, we're now trying to give you our view on the attributes of a great company. This is a slide that we showed at our June Investor Day in New York that many of you attended or listened via the webcast. Again, personally, I'd like to thank you for attending and for your continued interest in Internap.
+
+The key message that I delivered at that meeting related to my view based on 30 years of experience in the industry that all great companies need to compete well in three dimensions, markets, product and execution. The first dimension answers the question, do we have an adequate total addressable market. The consensus of the various research analysts indicate that Internap competes in a total addressable market of $60 billion.
+
+Given Internap's current size and revenue base, we have a lot of opportunity for growth in this market. Our ability to take advantage of this market comes down to our positioning which we describe externally as quote, performance without compromise. This position resonates because our target customers understand and value the performance capabilities of our offerings.
+
+The second dimension says, do we have a product portfolio that provides the basis for long-term competitive differentiation, meaning that allows us to compete effectively. At a high level, we believe there are two primary strategies to successfully compete in the IP infrastructure services market. One approach is to compete on the basis of scale and low cost. Think in terms of like in the retail world, big box retailers like Costco and Walmart.
+
+The second approach to competitive differentiation is as a value-added solution provider with a differentiated and integrated product set. That's the strategy we're pursuing at Internap and have been for some time. Our high-performance hybrid infrastructure services portfolio enables us to effectively compete with a performance-based value proposition. We know that's very attractive to a number of target markets such as software and Internet, media and entertainment, healthcare tech, ad tech, financial services and more.
+
+We continue to invest in innovation and patentable technology to further our differentiated high-performance value proposition in the areas of cloud, hosting and again our patented IP offering. We're very pleased that the market is beginning to take notice as well. As you may have already seen, Gartner just recognized Internap in the Magic Quadrant for cloud-enabled managed hosting in North America. So this is further evidence that we're well-positioned in terms of both product and markets.
+
+The final aspect of what makes a great company is execution, and this is the area where we believe we can do better. The good news is that execution is almost entirely within our control and we are starting to see tangible signs of incremental improvements and execution. We believe improved execution is what is going to drive our operational performance and increase shareholder value over the next 12 months to 18 months for Internap.
+
+On slide five, we want to focus on company-wide growth. You will see the six growth initiatives that we discussed at our June Investor Day in New York. I want to provide an update on the initiatives identified in blue, specifically, our sales force productivity initiatives, our proactive churn mitigation, our account management and our channel programs which have the impact of being a sales force multiplier. At the end of the presentation, I'll also highlight some of our new and enhanced product and service offerings.
+
+So moving to slide six, we provide an update on the enhancements we've made to improve sales productivity. One of the initial changes we made is to our sales compensation plan to increase the incentive for our team to cross-sell Internap products to existing customers. It's very important for our sales team to continue to sell more services to our customers for a couple of reasons. First, it's highly profitable for the business, and secondly, it allows the customer to become more committed and stickier to us as we become a trusted vendor to them.
+
+As we've discussed previously, we are retooling and placing greater emphasis on our channel partner programs. Our primary focus here is extending the reach of our distribution channel. We're expanding the breadth of our partners because there are numerous customer buying decisions that we're not even involved in. The good news is that as we add more differentiated services to our portfolio of high-performance Internet infrastructure services, we become even more attractive to prospective new channel partners.
+
+In addition, we're looking at adding new channel partners that are more effective in selling our cloud and managed hosting services. These are net new channel partners to us who will drive incremental revenue for the company. We've also recently hired new senior leadership for our partner channel program with over 20 years of building channel program successfully in the industry. Those of you that have followed other companies know that channel relationships can be very complicated but they can be very proactive if managed properly.
+
+These channel partners provide Internap with a cost-effective sales force multiplier effectively expanding our sales coverage and competing for more customer buying opportunities. We believe we are on the right track and expect to generate a larger contribution over time from our channel partners as we continue to grow this end of the business.
+
+On slide seven, we provide an update on the initiatives we have made to mitigate churn. Again, we started with changes to our sales compensation plan to provide incentive to renew existing customer contracts. We also put in place a global account management program which provides White Glove management and support for our top 100 customers. We designated sales and executive level sponsors for each of these accounts to ensure that we maintain frequent and consistent positive contact with our largest customers.
+
+We believe that effective churn mitigation is a function of two factors. The first is, by building a trusted relationship with the customer, which is the focus of the top 100 program, and the second is more of a data-driven approach to churn management which we're implementing across our support organization which enables us to stay ahead of potential customer issues and ensure that we are proactively touching the customer well before any churn discussion occurs.
+
+Also, earlier today, we announced the appointment of Mike Higgins as Senior Vice President of Business Development. This is a new position for the company that will focus on driving growth through customer acquisition and retention with an emphasis on strategic accounts. Mike's been with Internap for more than a decade. Most recently, he led our Data Center Services team. In this new role, he'll leverage his deep industry and product expertise as well as his intimate knowledge of customer infrastructure needs to help us build stronger customer relationships.
+
+Going forward, we now have two senior executives, Pete Bell, our Senior Vice President of Sales, and Mike Higgins, our Senior Vice President of Businesses Development. Both of these men are 100% focused on increasing bookings and minimizing churn, which is indicative of our increased focus on growth. We believe the actions we've put in place will positively impact churn for the remainder of 2015 beginning in Q3.
+
+Now I'd like to pass the call over to Kevin Dotts, our Chief Financial Officer, who will give us a more detailed review of our financial results. Kevin?
+
+Thanks, Mike. I'll start my comments on slide eight. You will see we delivered total revenue in the second quarter of 2015 of $80.4 million, representing a decrease of 4% year-over-year and relatively flat sequentially. Data Center Services revenue totaled $59.4 million in the quarter, a decrease of 3% year-over-year and an increase of 1% sequentially.
+
+Data Center Services revenue returned to sequential revenue growth driven by increased sales of core Data Center Services which includes company-controlled colocation, hosting and cloud services, partially offset by decreased sales in our partner data centers. Consistent with our strategic plan, the mix shift towards Data Center Services is evident with the revenue from this segment now accounting for roughly 74% of total revenue as compared to approximately 65% two years ago.
+
+In our IP Services segment, revenue decreased 7% year-over-year and 3% sequentially to $21 million. The lower IP revenue was the result of per unit price declines. We continue to rely upon IP Services segment as a healthy source of cash flow generation as well as managed Internet routing optimization or MIRO as an element of competitive differentiation for our Data Center Services segment.
+
+In the second quarter, revenue churn in our Data Center segment decreased to 2.4% while churn in our IP segment decreased to 1.8%. The total company churn increased 2.3%. The increase in churn was predominantly related to a small number of large Data Center Services customers that we discussed on the first quarter earnings call. We expect churn to trend down beginning in the third quarter.
+
+Turning to slide nine, we are reflecting the positive mix shift in our business towards core Data Center Services and away from legacy services. Revenue from these core Data Center Services returned to sequential growth at 2%. Core Data Center Services revenue has increased at 21% three-year compound annual growth rate through the second quarter of 2015, and now represents 82% of Data Center Services revenue and 61% of total revenue.
+
+Importantly, the favorable mix shift to core Data Center Services has been a primary driver in our strong adjusted EBITDA growth and adjusted EBITDA margin expansion. Adjusted EBITDA has increased at a 16% three-year compound annual growth rate and adjusted EBITDA margin has expanded 610 basis points over the same timeframe.
+
+Turning to slide 10, I will discuss Data Center Services segment profit and segment margin results. Data Center segment profit of $35.1 million increased 1% year-over-year and sequentially. Data Center segment margin expanded 230 basis points year-over-year and 10 basis points sequentially to 59%.
+
+We continue to experience significant year-over-year margin expansion in our Data Center segment as we execute our strategy to sell an increasing proportion of higher-margin core Data Center Services. Core segment profit of $32.3 million increased 1% year-over-year and 3% sequentially. Core segment margin expanded 160 basis points year-over-year and 80 basis points sequentially to 66.4%.
+
+The core segment profit is notable as we recorded a record high 66.4% despite the headwinds of revenue churn from the exit of 111 8th facility in the third quarter of 2014 and seasonally higher power cost. The strong margin performance is indicative of the lower cost structure in our Secaucus facility, a higher proportion of hosting and cloud customers, as well as other activities to drive operational efficiencies.
+
+Long-term, we see significant opportunities continue to further expand Data Center Services margin based on the mix shift towards core Data Center Services. In addition to the mix shift benefits, we also see the opportunity to expand margins as we increase utilization in our recently deployed data center footprint. With approximately 54% utilization across our company-controlled data center footprint, as occupancy increases, we expect further upside to Data Center Services margins derived from utilization efficiencies.
+
+On slide 11, we thought it would be useful to provide further insight into some positive organic revenue trends within our Data Center Services segment, which we feel are a result of the successful execution of our strategy. First, you can see the positive historical trend and the solid 9% two-year compound annual growth rate in Data Center Services ARPU we delivered through the second quarter of 2015. We feel this is indicative of not only the trend towards enterprises outsourcing their IT services but also reflective of our ability to capture a larger proportion of enterprise customer spend for high performance services with our hybrid platform of colocation, hosting and cloud services.
+
+Further, we can see the benefit of the hybrid strategy reflected in the 6% two-year compound annual growth rate in the revenue per square foot generated from our company-controlled data centers. As we seek to maximize the return on capital from our data center capital investments, we expect the revenue per occupied square foot to increase as we continue to sell hosting and cloud services into the data center.
+
+On slide 12, we show IP Services segment profit and segment margin results. IP segment profit of $12.4 million decreased 2% year-over-year and sequentially. IP segment margin increased 300 basis points year-over-year and 80 basis points sequentially to 58.9%. Despite the revenue headwinds created by the declining IP Services revenue, the segment continues to deliver solid segment profitability and cash flow which we leverage to invest in the more capital intensive Data Center Services segment.
+
+Further, the IP business also positively impacts our Data Center Services business because of our high performance network enhances the competitive differentiation of our high performance hybridized IP infrastructure service offerings. Roughly 95% of our Data Center customers also take our IP service.
+
+Moving on to slide 13, you can see we delivered a solid quarter of adjusted EBITDA and adjusted EBITDA margin. Second quarter adjusted EBITDA was $19.1 million, an increase of 3% year-over-year and 7% sequentially. Adjusted EBITDA margin expanded 180 basis points year-over-year and 160 basis points sequentially to 23.8%. The improvement in adjusted EBITDA and the associated margin expansion was predominately the result of favorable product mix shift towards core Data Center Services and positive operating leverage in our business model. Excluding the impact of the $1.5 million of one-time executive transition costs, adjusted EBITDA margin reached 25.6% during the seasonally higher power cost period.
+
+Cash flow and balance sheet summaries are shown on slide 14. Adjusted EBITDA less capital expenditures totaled $3.3 million. Deducting cash interest expense of $6.6 million resulted in a levered free cash flow of negative $3.3 million. We believe we are on the path towards the generation of positive free cash flow within the next 12 months, plus or minus a quarter, with the exact timing dependent upon the timing of CapEx spend.
+
+At the end of the second quarter, cash and cash equivalents totaled $16.4 million, funded debt totaled $315.2 million. As of June 30, 2015, our debt consisted of $288.2 million borrowed under our term loan at a rate of 6% and $27 million borrowed under revolving credit facility at a rate of 4.7%. We also had $56.9 million in capital leases. Our net debt totaled $355.7 million while our net debt to last quarter annualized adjusted EBITDA was 4.7 times. We are comfortably below the financial covenants in our credit agreement. Our current capital deployment plans are fully funded with our current debt facilities which include an incremental $16.7 million in borrowing capacity, cash generation and cash on hand.
+
+On slide 15, we are reaffirming our full year 2015 revenue, adjusted EBITDA and capital expenditure guidance. We expect to deliver full year 2015 revenue in the range of $331 million to $337 million, adjusted EBITDA in the range of $87 million to $93 million inclusive of $2 million in executive transition costs, and capital expenditures in the range of $70 million to $80 million.
+
+Our CapEx guidance includes $55 million to $60 million of growth based capital which includes success based capital that we intend to invest in hardware to meet growing demand for our hosting and cloud services. We also intend to deploy capital to increase capacity in data centers in existing markets largely related to incremental power and cooling capacity.
+
+In the first quarter of 2015, we brought online an incremental 6,000 net sellable square feet of capacity in Santa Clara, and in the second quarter of 2015, we brought online an incremental 4,000 net sellable square feet of capacity in Atlanta. We do not intend to bring additional space online in 2015. We intend to add incremental power and cooling to existing data centers in Los Angeles and Secaucus.
+
+Data center expansions, whether space, power or cooling, are conducted in multiple phases limiting excess capacity and driving consistent utilization rates. Roughly 75% of our 2015 plan is either success-based capital tied to customer installation request or capital deployed for future growth. This provides us substantial flexibility to adapt to potential changes in macro industry trends. We have a very disciplined approach to capital allocation and believe we have significant opportunity to invest in the business and generate returns well in excess of our cost of capital.
+
+Now let me turn the call back to Mike.
+
+Thanks, Kevin. I'd like to now spend just a few minutes discussing our strategy to drive growth through the introduction of some new product offerings, and I would like to end by summarizing our progress to date. On slide 16, we thought it would be helpful to highlight some of our recent product launches and enhancements that have resulted in Internap being recognized externally as a leading data center and cloud services provider.
+
+Earlier this year, we announced the availability of our OpenStack powered AgileCLOUD in our New York Metro data center. AgileCLOUD is an open standards-based public cloud that's ideal for scale-out workloads and can be easily integrated into a hybrid environment for maximum application performance and cost efficiency.
+
+In Q2, we delivered a number of new innovative products across our portfolio. In April, we launched our Managed DNS Service which leverages our IP network. DNS is used to convert easily remembered URL by internap.com into IP addresses and is often a hidden source of latency for websites and Internet applications. To address these issues, our Managed DNS is supported by points of presence worldwide and leverages our MIRO technology, Managed Internet Route Optimizer technology, to minimize latency and improve DNS consistency.
+
+During the OpenStack Summit in May, we announced the beta release of our bare-metal cloud on OpenStack. Bare-metal cloud services is a rapidly growing product category, and we've established ourselves as a leader in this space. Our release in May increased our competitive advantage in the market by delivering bare-metal on a standards-based platform OpenStack and also providing significant networking flexibility for customers deploying complex workloads in the cloud. This platform is ideal for customers running performance-oriented applications across big data, software-as-a-service and a variety of other use cases.
+
+To further strengthen our performance-based value proposition, we've also launched our MIRO Controller product. This is a very exciting and revenue impactful launch for us. MIRO Controller is an on-premise route optimization appliance that replaces our previous Flow Control Platform, FCP, and was rebuilt from the ground up to meet the intensive performance and scalability requirements of today's Internet-based applications. I'll discuss this exciting new product launch in more detail in just a moment.
+
+Lastly, we also delivered add-on managed services and features to our cloud and hosting customers. This included enhanced backup service options and increased customization and scalability for our public cloud by enabling the OpenStack components Glance and Heat which provide image management and auto-scaling capabilities. These features enable enterprises running web-scale applications to significantly reduce the time and resources needed to manage and scale their infrastructure requirements.
+
+In summary, we remain focused on targeting new customers for performance centric use cases and committed to leveraging our world class research and development expertise to bring performance differentiated service offerings to market.
+
+On slide 17, as I mentioned, I'd like to highlight the exciting and revenue impactful launch of MIRO Controller. As mentioned, MIRO Controller is an on-premise appliance designed for enterprises that manage their own multi-homed networks, meaning they leverage multiple Internet service providers to improve the performance and cost of their network. MIRO Controller automates the network management process by continually monitoring networks for latency, packet loss, route stability and congestion. It also reduces costs for multi-home networks by managing ISP commit levels as well.
+
+MIRO Controller is built on top of proven technologies surrounded by roughly 20 patents used to support Internap's own performance IP service. We believe there is a very large addressable market for this product as potential customers include companies with high IP bandwidth that use the multi-homed network and businesses that own data centers or lease wholesale facility. We're targeting current and former Internap Flow Control Platform customers and have a strong funnel building for the MIRO Controller. We're optimistic that MIRO Controller can contribute to our revenue performance going forward.
+
+On slide 18, as mentioned earlier, we're excited to be recognized by Gartner in the Magic Quadrant for cloud enabled managed hosting in North America. Gartner highlighted our high-performance services and acknowledged Internap as one of the largest OpenStack public cloud providers. We believe the recognition validates our unique ability to provide a full range of standards-based hybrid infrastructure services that can address our customers' performance and compliance needs.
+
+First thing, I'm most inspired when we discuss how customers are getting unique value from Internap in enabling them to compete more effectively in their industry. On slide 19, we show two examples of the recent traction we're gaining in servicing the health tech industry which relies heavily on HIPAA-compliant infrastructure to meet rigorous security requirements and ensure continuous availability.
+
+Casenet, a leading provider of healthcare management software, is leveraging Internap's managed hosting, private cloud and low-latency IP services to ensure always-on infrastructure for its clients. Casenet offers its clients a turnkey hosting service that utilizes a primary location in Internap's Atlanta data center and a secondary site in our Santa Clara data center. A private cloud environment is designed to be physically redundant and secure to enable Casenet to comply with HIPAA requirements regarding the protection of patient health information.
+
+Another customer, Treato, which uses big data analytics to provide real-time health data is another example of solid traction we've been recently gaining in the health tech vertical. This company analyzes hundreds of terabytes of data per day using a 200 terabyte Hadoop cluster in Internap's Dallas data center. This allows their company to offer meaningful big data insights for healthcare clients.
+
+And on slide 20, we're highlighting a former Amazon Web Services customer who is quote, unquote, graduated to Internap. Distil Networks, a global leader in bot detection and mitigation, started on AWS, then moved to multiple vendors including Rackspace, SoftLayer and Internap. Distil wanted to consolidate their infrastructure with one provider and establish a uniform deployment method which while providing for the scalability they would need to meet growing demands for their solution. Distil leverages a mix of Internap's bare-metal cloud, managed hosting, OpenStack public cloud and route-optimized IP service across eight data center locations around the globe.
+
+We believe Distil is a perfect example of a customer for whom our high performance value proposition resonates and what we call an AWS graduate. They found that Internap's bare-metal cloud provides the superior price performance for their high-performance applications as compared to AWS while our suite of hybridized Internet infrastructure provides them greater flexibility. We're increasingly coming across these types of quote, Amazon graduates that are finding improved performance and cost efficiency in migrating workloads from commodity public clouds to a mix of high performance bare-metal public cloud and hybrid solutions like what we provide at Internap.
+
+Now, I'd like to briefly summarize on slide 21. We believe our second quarter 2015 results provide a solid foundation for our return to profitable growth. In the second quarter, core Data Center Services revenue returned to sequential growth while adjusted EBITDA increased 7% quarter-over-quarter. Through the rest of 2015 and into 2016, we expect to drive profitable top line revenue growth as well as continue to increase adjusted EBITDA and expand adjusted EBITDA margin.
+
+We expect improvements to be driven by the customer adoption of new products and services as well as better execution. We remain confident in our strategy we've chosen and believe our ability to execute against this strategy and our growth initiatives should accelerate our growth.
+
+Now, we'd like to open up the call for your questions. Back to you, Andrew.
+
+Thank you, sir. [Operator Instructions] And our first question or comment comes from the line of George Sutton with Craig-Hallum. Your line is now open.
+
+Hey. Good afternoon, guys. It's Jason on for George. Michael, in your prepared remarks, you mentioned that you're seeing tangible evidence of an improvement in execution, and I'm just wondering if you can go into a little bit more detail on what you're seeing now that you've been there three months?
+
+Well, there's a number of different things that are happening. Thank for the question. First off, in terms of the sales training and assimilation of our new sales reps into the organization, what we're finding is that we've done a much better job. We essentially revamped the sales training and ensured that as we brought new people onboard they were much more effectively assimilated both in terms of front-end training as well as the mentorship that they receive from their market manager back in the field.
+
+We've also seen a number of different improvements in terms of internal processes. As an example, pricing approval has been delegated much deeper into the organization so that managers much closer to the action can make decisions quickly and do so in a way that enables us to be responsive to customers.
+
+We've also done, I think, a very good job of helping to train the organization on our vertical market solutions. I think you recall I said earlier that we're seeing a lot of success in key vertical markets and that's coming from a lot of the training and education that we're providing to our sales force around the particular business requirements and the solutions we can provide uniquely at Internap.
+
+So I could go into a lot more detail but at a high level, we're focused very much around external activities and we're aligning as much of our resources internally to be extremely supportive of helping the people in the field do a good job of both gaining new customers and retaining the customers we've worked so hard to achieve in the past.
+
+Okay. Great. Thank you for the color on that. And then just switching gears, talking a little bit more about your channel strategy, just wondering if you can give any numbers behind that, what the channel contribution is to revenue now. Where do you think you can get that to grow over time? And then my understanding is that in the channel that there's – proportionately, there's more colocation sold through the channel than hosting and cloud, and just wondering if you can talk about your thoughts on increasing those two segments of the marketing and what kind of training or what you can do to improve those segments?
+
+Okay. Thanks. That's a great question. And it's one that I think you're going to hear us talking a lot as we go forward in the business. Let me just start quickly and just mention that in my prepared comments I mentioned that we have actually done a very good job of both recruiting some very experienced channel people that have a lot of industry expertise as well as now with the MIRO Controller product having some additional really exciting products to bring to the channel. And then I think the third area that just to set the table on this question is that we're now in the business of recruiting channel partners to help us with our cloud and managed hosting business as well.
+
+So when you think of Internap historically, we largely had an agent channel that was working with our traditional IP and colo services, and the point I'm really trying to make as we get into this is that our channel partners will now have both an additional set of services and products to offer as well as we're going after net new channel partners that we've not done business with in the past. Kevin, can you help with some more color as well?
+
+Yeah. I would just add to this that we've seen probably, Jason, channel bookings be kind of in the higher teens as a percent of contribution and based on the revenue base it's built up, it approaches close to – well, it's roughly the same numbers, call it higher teens, is what it helps participate as far as total revenue growth.
+
+Okay. Great. Thank you.
+
+And our next question or comment comes from the line of Frank Louthan with Raymond James. Your line is now open.
+
+Great. Thank you. Sort of given the trajectory in the first half, talk to us about what gives you the confidence that with this amount of change with the sales force and so forth that you can hit the guidance for the end of the year, are there some contracts that have come in or there's some traction you've seen quarter to date that gives you that confidence? And can you be a little more specific on who exactly the channel partners are and where you're finding them, or are you in the process of sort of developing an entire platform around that internally before you source this?
+
+Okay. So why don't we start with the confidence in the going forward guidance? Is that kind of what that first part of the question was about?
+
+Yes.
+
+Okay. Kevin?
+
+And our next question or...
+
+No, no. Hang on.
+
+I'm sorry, the question was with regard to what gives us confidence as far as the channel partner?
+
+No, in terms of the guidance for the rest of the year?
+
+In terms of the guidance for the rest of the year, I would look at it this way, Frank, what we're seeing right now basically is we've – if you look at the first half, we kind of rolled out about $161 million of revenue, and so in order to get to the midpoint of the guidance, in the second half of the year, you're going to have to figure we have to hit around $173 million. That's the, call it, the industrial math.
+
+With regards to what we're seeing right now, I would say one of the big drivers that we're looking at in the second half of the year is going to be the – first of all, the launch of the MIRO Controller product or MIRO C. One of the things I think if you look back at some of the history of Internap, this used to be the FCP product, was probably contributing to several million dollars worth of revenue in the year, and that obviously as we've gone through this product revamp, we haven't been historically selling that, we haven't really sold a whole lot of that in the first half of the year.
+
+So there's a large, as we mentioned in the prepared remarks, there is a large kind of funnel that has come together as far as existing customers that we can sell into. I think it's well into the hundreds if not thousands, up to 1,000 almost customers that are out there with the product. So I think with the funnel and then what the sales team is working on right now as far as leads, I think there is going to be a strong participation in the second half of the year.
+
+As well with the MIRO technology that has been developed and launched earlier this year, the latest MIRO technology, we're also seeing some larger IP opportunities. So I think the market and the investor should have expectations that the decline that we've seen, as we've guided to in the past of $400,000 to $600,000 of revenue of IP decline over the past per quarter, I think you'll actually see IP kind of flatten out and then pick up as far as revenue participation in the second half of the year.
+
+Beyond that I think we've gone past a lot of, call it, the one-time larger but a few number of small turn events in the first half. They're kind of in the rear-view window at this point. So I think we're kind of in a more stable form going forward. And so basically, it is with everything that Mike talked about as far as the stableness within the sales organization, bringing up the sales organization to speed, getting them to ramp to their quotas in a faster manner. We'll also see the benefits from increased bookings coming through, and all that kind of ties out to kind of hitting those revenue numbers that we talked about.
+
+On top of that, as we've talked about in the past, just when that drops through, once we hit those revenue numbers, basically you're going to see the margin expansion and the margin expansion really comes through the idea that we're moving towards a heavier core Data Center Services revenue mix. Within that core Data Center Services revenue mix, you also see the benefits that we moved away from per se colo and more towards cloud and hosting because those have higher margins and those are because of their higher growth rates within those products. And then obviously we have the utilization opportunity that we talked about in the past, sitting at 54%, the fact that we're going to get that up, should drop through at a much more higher incremental margin rate.
+
+But one other thing I would also point out is that you noticed in our quarter-over-quarter OpEx, if you normalize out the impact of executive transition which was $1.5 million, you'll see that our OpEx dropped about $2.7 million and we're right now probably at a low of OpEx getting back to not exactly levels that we were pre the iWeb acquisition but certainly this is the lowest OpEx we've been at since the acquisition. And I think we have continued opportunities to drive further efficiencies to keep that OpEx down, and all that will come together to support our EBITDA guidance.
+
+Okay. Great. And then on sort of the makeup of the channel partner program, can you be more specific about who you're working with or how that's done internally?
+
+Yeah. This is Mike again. So what we've done initially as we brought in our new leadership that are running our channel programs is, we took a look at our existing fleet of both master-agents and subagents, and frankly we reengaged with them. There has been a lot of kind of inattention to that part of our business and we also provided them with not only a reintroduction to our company but also a chance to understand what we're doing with our product roadmap and the new products that we were bringing to market that were relevant to the channel like our MIRO Controller.
+
+And then what we did to support all that is we again adjusted the compensation that we paid to channel partners to provide a much more aggressive incentive to work with us and go after activities that we're not touching today. As you're going to appreciate, with a sales force our size and the market as big as it is that we view this as a very important channel to reach geographies and accounts that we don't have any relationship with.
+
+So what our model is going forward is not to recruit a lot of new master agents. We feel like we're in good shape in that regard today but really under the cloud and hosting. We'll have more to say about that at our next earnings call because that's just beginning at this point. The rest of our channel activity is about kind of cleaning up and then reengaging as appropriate with the key partners that we want to work with today. So if you would just indulge us and give us a little bit of time to kind of give you more flesh on the bone as we work on that during Q3.
+
+Okay. Great. Thank you.
+
+Thank you.
+
+And our next question or comment comes from the line of Tom (sic) [Tim] (45:28) Horan with Oppenheimer. Your line is now open.
+
+Thanks guys. Kevin, maybe a little bit more color on the guidance. So do you think you can hit the midpoint of guidance for the year? And then on the run rate going into next year, is the growth in IP or stabilization, can that continue do you think? Is that more secular? And the same thing with the MIRO Controller product, do you think that's a little bit more one-time or can those kind of sales continue on to next year?
+
+Sure, Tim. The way I would answer that is certainly we feel comfortable with the guidance obviously or we would not have reaffirmed it. So I think we feel like we can get there on the guidance level. As far as the MIRO Controller specifically, again, there is a pretty large base of again FCP, what we formerly called FCP, Flow Control Product, that is out there, and so there is a very large funnel. So I think basically that what we're seeing is both with the MIRO technology, whether it's related to the actual CPE customer premise device or the technology itself, we think that that can continue through the end of this year and certainly we believe that that has opportunities to continue to drive further growth as we go into 2016.
+
+And I think – [ph] you don't think (46:52) IP Services was growing a little bit better also?
+
+I'm sorry, Tim, could you repeat that please?
+
+Did you say also that IP Services, you're winning some big deals and that's seeing a little bit better growth in the second half?
+
+We're seeing some opportunities there and so we need to land some of those in the second half of this year but we are beginning to see the opportunities driven by that MIRO technology. And Mike, you wanted to add?
+
+Yeah. I just wanted to mention on the MIRO Controller, as Kevin pointed out, this is kind of the first product we've had in a long time where we have an installed base of existing customers where there's opportunities for us to upgrade in place customer premise equipment, but also this product has been so kind of completely redone that we now have a much larger addressable market of customers that have multi-home networks that again have never done business with us, they've always had in-house network capabilities.
+
+So we think it's a brand-new market for us as well and what we're seeing from the early initial interest is that we think it's going to be a very successful product for us, certainly not just in 2015 but over the foreseeable future. And with new channel partners out selling the product for us as well, we think there's a lot of leverage there.
+
+And lastly on Distil, could you give us a little bit more color on why they chose you guys, what specifically did they really like and were they able to save money? Just a little bit more color would be great. Thanks.
+
+It really comes down to both flexibility and support because honestly what they observed with their initial vendors that they worked with is good broad technology, certainly had the ability to scale as needed but didn't give them the flexibility that they needed as they were bringing new applications online, as they were testing applications and as they were scaling them across the globe. And so they really took advantage of our kind of global infrastructure and the handholding and support that we provided to them as they transitioned to us and they felt like they needed a little bit more kind of White Glove treatment as we refer to it. It allows us to deliver not only a great price performance but also something if they have issues or questions that there is experts available very quickly for them to be responding to.
+
+And sorry, Mike, one last one, could you just talk about bookings in the quarter or bookings trends into the third quarter? I guess just overall demand commentary would be great. Thank you.
+
+So in terms of bookings, we've actually – I think you know that the issue has been from a revenue standpoint more around some of the one-time churn items that have been dragging down revenue growth, but bookings have actually been solid the last couple of quarters. And as we look forward, we're pretty optimistic about the bookings growth for the business. We expect the enhancements we've made around sales force productivity, our partner channels and all the other things I talked about earlier to have a positive impact, and the good news is that this idea of going after industry-specific use cases is a winner for us.
+
+We originally started with things like online gaming and online advertising but we've moved to health tech as I mentioned in the prepared comments and a variety of other industries, and we're finding that the common theme is that high-performance and reliability is what they're looking for. And the macro thing that we all care about is that this is still a very early trend in the industry where the ability for customers to use our kind of services is still in a very early stage of adoption. So the general market is moving in our direction and we feel good about that as well.
+
+Thanks a lot.
+
+Our next question or comment comes from the line of Fred Moran with Burke & Quick. Your line is now open.
+
+Thank you. Yeah. I would just like to follow up on the bookings question. Are we just seeing a modest kind of linear increase in bookings helped by improved churn in the third quarter or is there potential for a more material acceleration? If that's not happening yet, when do you expect the more material acceleration? And is the guidance of revenue basically contracted revenue or it assumes some amount of wins? If so, how much revenue must be won to make the guidance?
+
+So Fred, this is Kevin. I think first of all what we're saying is I think that we see basically the increases in the funnels and the opportunity for the bookings. They are coming through, as Mike had said, the bookings in the past couple of quarters have been solid and we are getting past the churn activity.
+
+I would say though that when you think about basically recurring revenues and some non-recurring revenue activity, as we talked about the MIRO Controller product, is effectively is a non-recurring revenue product. So basically those will be coming through on a more future bookings whereas the remainder part of the – what we expect in growth in the second half of the year coming through both the already existing bookings without the churn but also with obviously some step-up in bookings going forward.
+
+So when do you think we could see a more material acceleration in the bookings or the pipeline for growth?
+
+Well, again, for us to hit per se the guidance that we're reaffirming right now, basically, that is beginning to come through the pipeline as we speak. So we're beginning to see the initial elements of that.
+
+Okay. Thank you.
+
+And our next question or comment comes from the line of Barry Sine with Drexel Hamilton. Your line is now open.
+
+Good evening, gentlemen. I wanted to ask about two other data points. First of all, and both related, the size of the sales force, have you taken it down, have you built it back up, where are we size wise? It would be great if you care to share how many quota bearing head count you have. And then on a related basis, you've talked quite a bit about improvements you're taking to improve sales force productivity. So on a per head basis, where are you in that process? Are you actually seeing improvement in sales force productivity or are you just at the stage where you're doing some training and you hope that productivity will improve going forward?
+
+Yeah. Okay. This is Mike. Thanks for the question and that's something we spend a lot of time talking about and working on. I think we're still at the front-end of the reaping of the benefits, that we're at the front-end of reaping the benefits of the improvements we've made in both training and the quality of the hires that we have. We don't have any plans near-term to change the size of our sales force, and from that standpoint roughly 50 quota-bearing sales people that we have across North America and a group out of Europe based in London. And from that standpoint we feel like that's the right number supplemented by more productive activities by each person based mostly on tenure and training, and then finally supplemented by the work that we're doing with our channel partners. So I think back to the earlier question, the momentum that we're building in the pipeline will yield beginning in Q3 but certainly would accelerate going forward.
+
+And what is the timeline? You've talked about a lot of steps you're taking to improve sales force productivity. Is this a process that takes quarters or years or months? What is a rough timeline on that?
+
+Well, I think that when it comes down to sales force productivity in our business, you're talking not years but quarters definitely. Over the course of several quarters what you'll see is steady increases in productivity for the same base of sales people and from that standpoint we're – I just joined at the beginning or the middle of this quarter and I would just say that I consider the work that has been going on in the past to be incrementally valuable to getting on this ramp but I think that's accelerated. So again, we're still at the front-end of that process but you should start to see the trend improving on a rep basis and on an aggregate basis this quarter.
+
+That's great. Thank you.
+
+Thank you.
+
+And our next question or comment comes from the line of Colby Synesael with Cowen Inc. Your line is now open.
+
+Great. I have a few. So sorry to beat a dead horse but I do want to go back to the guidance. So it implies roughly about 3.5% sequential growth in the third quarter and fourth quarter just to get to the low end of the range. Is it expected to be linear or could it be more weighted towards the third quarter or the fourth quarter? And also if I'm hearing you correctly, it's going to come from the IP business as opposed to the data centers and it's more one-time in nature although that momentum could potentially continue into 2016. I just want to make sure I understand that correctly.
+
+The second question, you mentioned in response to your first question, you're seeing evidence of improved execution, the revamped training, pricing approval deeper into the organization, vertical market training. When did you implement those various things that you just maybe mentioned in response to that question?
+
+And my last one is actually, I'm curious what's the company's formal response to the RDG and Discovery letters that you guys have received from your investors over the past month or two. Thanks.
+
+Okay. Colby, this is Mike. You asked three very broad questions and different questions, so we're going to have to try to parse them in a way where we can get to all three of them. So on the guidance, why don't we do that one first? Then I'll talk further about your question about sales force productivity and then we'll end with the question you had about RDG and Discovery. Is that okay?
+
+Great. Thank you.
+
+So let me address kind of the guidance discussion. Colby, this is Kevin. Now what I would expect, I guess, first point is that we would have accelerating performance as we go through second half of the year. So it would be, basically we'll have a step-up in the third quarter over second quarter, et cetera. I do believe that basically from our view, the improvement as far as lower churn, better bookings on recurring revenues will show up predominantly within the core revenue. So again, that will be company-controlled collocation, cloud, hosting services, and again, we've started to see the elements of that between the first quarter and the second quarter.
+
+Partner data center, we haven't talked about yet. I think basically we would think about that as a little bit more flattish at this point with some modest decline. But I think for the most part, it will be a little bit less of a decline, so we won't have so much of a per se headwind as some of what we've realized historically.
+
+But, yes, IP revenue, both as far as recurring IP, as I mentioned, we've got some larger deals that are in the pipeline and again the MIRO Controller product which is more the equipment sale that provides us very, call it rapid revenue recognition, that will come through as we go through the second part of the year and that will continue to ramp.
+
+Okay. So on the question that you asked about like vertical market, sales force training, all that, I think you know, Colby, I was on the board for five years and one of the things that the company had talked about doing as we came back with the positioning of performance without compromise was to take that value proposition into a couple of key vertical markets. And so the idea of going after vertical markets certainly preceded me being on board here, where there was a lot of energy around the ad tech and online gaming market.
+
+What we've done over the last 60 days or so is really accelerated that to multiple other vertical markets. You saw that I highlighted two out of health tech as an example but we also look at software-as-a-service and packaged software vertical, online education, hosting and IT infrastructure; even oil and gas, we're having some success in that vertical market. So that's really now a very mainstream thing where our marketing folks, and our sales teams are working together to ensure that when we go and see a customer in any of those vertical markets that we know what questions to ask, who to talk to and how to position ourselves uniquely in the market.
+
+The sales force training, I think, has really picked up a lot over the last 90 days but particularly over the last 60 days as we are really doing a lot more role-based training and a lot more exercises where the new people when they come onboard are in simulated sales calls where they're being grilled by technical people and typical buyer type profiles to help them become more effective at not only being able to understand our technology but be able to overcome objections, position ourselves more effectively against competitors, things of that nature.
+
+So a lot of heat might go beyond that subject and that's not going to stop anytime soon. We believe we're on a really good idea and it's one that's starting to yield in terms of the ramp time for new people coming onboard.
+
+Let's see, the last question you asked was around the investors, the activist investors that have written to us and I think we all know, I mean there's no secret that our industry is going through a fair amount of consolidation. I said it to you all at the meeting in June and we've said it in the past on our board investor calls that we have regular – very regular discussions with Tier 1 investment bankers who give us a view of what's going on in the market and what our potential opportunities are both to buy and sell, in terms of the market opportunity.
+
+As you know, we've been a buyer over the last few years and certainly we're very cognizant of what's going on broadly across the M&A market. If there's any opportunity either on the buy or on the sell side that comes to the attention of the board, we take that extremely seriously. And I think all of us know this, but let me just state for the record that we're all about revenue growth, increasing profitability and maximizing the long-term value of our common stock. And so for shareholders as a fiduciary responsibility, we're going to continue to look for any and all viable strategic and financial opportunities available, and we'll review any potential transactions that we think are in the best interest of the company and all the shareholders.
+
+So we're going to continue that process. We've been doing it for some time and expect that will be from a governance and a fiduciary standpoint the right way for us to address any questions we get from investors and any inbound interest, either buy or sell side.
+
+Great. Thank you for the color.
+
+And now, I'm showing no further questions at this time. So with that said, I'd like to turn the conference back over to the Vice President of Investor Relations, Mr. Michael Nelson for closing remarks.
+
+Thank you for joining us today. We look forward to providing you an update on our progress next quarter. Now, I'll pass the call back to the operator.
+
+Ladies and gentlemen, thank you for participating in today's conference. This concludes the program. You may now disconnect.

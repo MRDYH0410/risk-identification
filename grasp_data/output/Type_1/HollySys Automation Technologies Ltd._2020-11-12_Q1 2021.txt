@@ -1,0 +1,183 @@
+Participants
+CORPORATE PARTICIPANTS
+Arden Xia — Director-Investor Relations & Communications, HollySys Automation Technologies Ltd.
+Chit Nim Sung — Chief Executive Officer & Director, HollySys Automation Technologies Ltd.
+Steven Wang — Chief Financial Officer, HollySys Automation Technologies Ltd.
+
+Management Discussion Section
+
+Question And Answer Section
+
+Ladies and gentlemen, thank you for standing by and welcome to the HollySys Automation Technologies Earnings Conference Call for Fiscal Year 2021 First Quarter ended September 30, 2020. At this time, all participants are in a listen-only mode. After that, there will be a presentation, followed by a question-and-answer session. [Operator Instructions] Please be advised that this conference is being recorded today, November 13, 2020, Beijing time.
+
+I'd now like to hand the conference over to Mr. Arden Xia, the Investor Relations Director of HollySys Automation Technologies. Thank you. Please go ahead, Mr. Xia.
+
+Hello, everyone, and thank you for joining us. Today, our attendees are CEO, Mr. Colin Sung; CFO, Mr. Steven Wang; Co-COO, Mr. Yue Xu and Lei Fang, who are in charge of IA and Rail business, respectively; as well as Mr. [ph] Yi Ma (00:01:03), Chairman of HollySys Group, one of the company subsidiary; and myself, IR Director of HollySys.
+
+On today's call, Mr. Sung will provide a general overview of our business, including some highlights for the first quarter of fiscal year 2021. Mr. Steven Wang will discuss our performance from financial perspective, and all management team will answer questions afterwards.
+
+Before getting started, I would like to remind everyone that this conference call may contain forward-looking statements within the meaning of Private Securities Litigation Reform Act of 1995. Forward-looking statements are statements that are not historical facts, including statements relating to the expectation of growth of Hollysys' future product introductions, the mix of products in future periods and future operating results. Such forward-looking statements, based upon the current beliefs and expectations of Hollysys' management, are subject to risks and uncertainties, which could cause actual results to differ from the forward-looking statements.
+
+The following factors, among others, could cause actual results to differ from factors in the statements: business conditions in China and in Southeast Asia; continued compliance with government regulations, legislation or regulatory environments; requirements or changes adversely affecting the business in which Hollysys is engaged; cessation or changes in government incentive programs; potential trade barriers affecting international expansion; fluctuation in customer demand; management of rapid growth and transition to new market; intensity of competition from or introduction of new and superior products by other providers of automation control system technology; timing, approval, and market acceptance of new product introductions; general economic conditions, geopolitical events and regulatory changes; as well as other relevant risks detailed in Hollysys' filing with Securities and Exchange Commission.
+
+The information set forth herein should be read in light of such risks. Hollysys does not assume any obligation to update the information discussed in this conference call or in its filings. Please note that all amounts in this conference call will be in US dollars, unless otherwise noted.
+
+I'd now like to turn the call to Mr. Colin Sung. Please go, Mr. Sung.
+
+Thank you, Arden, and greeting to everyone. Industrial Automation, IA business finished the quarter with revenue and contract at $82.6 million (sic) [$81.9 million] (00:03:34) and $107.8 million, representing 27.7% and 28.4% year-on-year growth, respectively.
+
+In power sector, we continued our effort in strengthening our market position in high-end coal fire market, 600 megawatts and plus power unit. Meanwhile, with respect to our current client base in this sector, we are actively responding to various regular and value-added service demand covering old system replacement, system upgrade, part component sales and annual maintenance.
+
+In chemical and petrochemical sector, contract growth remains healthy. We continued our effort in key projects winning, client cooperation, marketing events and development and demonstration of solution capability to penetrate the market and build our reputation.
+
+Sector highlights of the past quarter include, winning the bidding of DCS, emergency shutdown devices, ESD; asset management system, AMS; fire and gas, F&G, integrated solution for two offshore oil platforms, and the 8th oil platform solutions for the company had won since the beginning of the calendar year, marking a remarkable progress for our exploration in the oil and gas industry.
+
+Signing a Coordination Control System, CCS contract with a client on its 400,000 tons per year tert-butyl alcohol and 200,000 tons per year methyl methacrylate, MMA projects, marking a breakthrough as it is the company's first contract in MMA.
+
+Signing a DCS, SIS, GDS, MES, OTS, AMS and information security integrated solution contract with a client on its 100,000 tons polycarbonate project. The DCS control points for the project amount to approximately 20,000, making it the largest ever for the company in the similar craft.
+
+In food and beverage and the pharmaceutical sector, we continue to see healthy growth in contract. With our core control solution capability and the inclusion of engineering design capability, we are building our engineering design, procurement, construction, EPS (sic) [EPC] (00:06:14) capability so as to provide more comprehensive solution to our clients. Periodic progress was made in such model as we [ph] designed (00:06:24) our first workshop-level EPS (sic) [EPC] (00:06:26) contract with a client for its 7-ACA refining project, which is expected to lay foundation for further pursuit of a larger scale of EPC project in the future.
+
+In smart factory business, we continue to actively engage the potential clients through various marketing events, to stay close for in-depth grasp of market demand, and to develop and improve our solution for real value creation in economic benefit and operation safety.
+
+Highlights of the past quarter include: signing a contract with a new client from the thermal power sector to provide a total solution with control-level and management-level data integration that covers comprehensive function and modules including control optimization, smart diagnostics, equipment management, decision-making and operational management. We expect such a project to become a key demonstration of solution for the thermal power sector. Signing a contract with a client from the coal-fire sector for its new two 660 megawatts power plant. Contract covers a similar total solution at control and the management level, and marks a significant breakthrough in our smart factory solution for high-end coal-fire market. Signing a contract with the existing client from the petrochemical sector to provide management level solutions based on our industrial Internet platform.
+
+Aftersales business of IA is keeping the healthy pace. We continued to engage our valuable client bases and respond with all – with both regular and value-adding initiatives covering old system upgrade and replacement, part component sales, annual maintenance, control optimization, data integration and energy management.
+
+Under our big automation initiatives, we continued to improve our capability for wide range of solution covering entire life cycle. By end of September, we have put into operation our in-house instrument production line, with which we will be capable of manufacturing certain types of instruments contained in our total control solution. Such is expected to be a valuable addition to our project delivery, market opportunity and operation.
+
+Rail business finished the quarter with revenue and contract at $28.7 million and $24.2 million, recording 35.6% year-on-year decrease and a 15% year-on-year growth, respectively. In high-speed rail, HSR sector, we continued our delivery of an on-ground solution along with the railroad construction progress. Periodic progress was achieved for the smart solution initiatives for the sector, and we have completed our top-level design of the smart maintenance solution. Meanwhile, bidding from the client was seeing its gradual recovery in the post-pandemic period, both for on-ground and onboard equipment.
+
+Highlights of the quarter include winning the bidding of 140 sets out of total package of 274 sets of ATP for C2 250-kilometer China Standard high-speed train in August.
+
+In subway sector, our cloud-based SCADA project for Shenzhen Subway Line 6 was fully delivered, which was the second cloud-based SCADA project of the company and represents our constant effort in innovation for continued value creation for our clients. In delivery, our enhancement in supply chain management and engineering standardization has contributed to improved quality and efficiency of project execution.
+
+In aftersales business, we continued to strengthen local service network, to expand service solution and to develop technology and service-centered service for better differentiation. In HSR sector, we continued to respond to regular services including advanced maintenance, system and software upgrade and part component sales, as well as total replacement. We continued to act as the service provider to Hong Kong-Shenzhen high-speed rail, with our service quality being highly recognized. In subway sector, we continued to explore potentials from the current client base and signed contracts covering system upgrade, maintenance and product sales.
+
+Under our big transportation initiatives, the company has established the smart highway solution, was actively involved in marketing events for new contracts breakthrough in new business.
+
+Highlight for the quarter includes signing a breakthrough contract of smart traffic meteorology solution for a section of the highway connecting Sichuan and Yunnan province. The data-driven solution targets highway administration as the intended clients and through collection and processing of meteorological, geographical and traffic data, advices the highway administration on more effective decision making in highway management, in particular under extreme weather conditions.
+
+Mechanical and Electrical Solutions, M&E, business finished the quarter with revenue and contract at $18.2 (sic) [$18.8] (00:12:25) million and $12.3 million, recording 34.4% increase and 63.4% YOY decrease. COVID-19 remains a challenge to M&E and overseas business. We will keep monitoring the impact on this sector and the risk control remains to be the key focus.
+
+With that, I would like to turn the call over to Steven Wang, company's CFO, who will provide a financial result analysis. Steven?
+
+Thank you. Thank you, Mr. Sung. I'd like to share some financial highlights for the quarter end of September 30, 2020. Comparing to the first quarter of the prior fiscal year, the total revenues for the three months ended September 30, 2020, increased from $123.2 million to $129.5 million, representing an increase of 5.1%; integrated contract revenue increased by 1.2% to $105.7 million; product sales revenue increase by 7.3% to $6.6 million; and service revenue increased by 36% to $17.2 million.
+
+The company's total revenue by segments are as follows: for Q1 of fiscal year 2021, Industrial Automation revenue $81.9 million, Rail Transportation Automation revenue $28.7 million, Mechanical and Electrical Solutions revenue $18.8 million. Total revenue $129.5 million.
+
+Overall non-GAAP gross margin was 33.7% for the Q1 of fiscal year 2021 as compared to 37.7% for the same period of last year. The non-GAAP gross margin for integrated contracts, products sales, and services rendered were 25.3%, 73.7% and 70% for the first quarter as compared to 32.6%, 79.9% and 59.5% for the same period of the prior year, respectively. The gross margin fluctuation was mainly due to the different revenue mix with different margins.
+
+Selling expenses were $8.2 million for the first quarter, an increase of $0.9 million or 12.4% compared to $7.3 million for the first quarter of last year. As a percentage of total revenues, selling expenses were 6.3% and 5.9% for the three months ended September 30, 2020 and 2019, respectively.
+
+Non-GAAP G&A expenses were $10.2 million for the first quarter, representing a decrease of $0.4 million or 3.9% compared to $10.6 million for the second quarter of last year. As a percentage of total revenues, non-GAAP G&A expenses were 7.9% and 8.6% for the quarters ended September 30, 2020 and 2019, respectively.
+
+R&D expenses were $10 million for the first quarter, an increase of $1 million or 11.6% compared to $8.9 million for the same quarter of last year – of prior year. As a percentage of total revenue, R&D expenses were 7.7% and 7.3% for the quarter ended September 30, 2020 and 2019, respectively. The VAT refunds and government subsidies were $5.8 million for the first quarter as compared to $3.5 million for the same period in the last year, representing a $2.3 million or 64.1% increase, which was primarily due to the increase of VAT refunds.
+
+The income tax expenses and effective tax rate were $4.8 million and 18.9% for the first quarter as compared to $6.2 million and 17.3% for the comparable prior year period. The effective tax rate fluctuation was mainly due to the different pre-tax income mix with different tax rates, as the company's subsidiaries were subject to different tax rates in various jurisdictions.
+
+The non-GAAP net income attributable to HollySys was $20.8 million or $0.34 per diluted share for the first quarter of 2021. This represents a 30.2% decrease over $29.8 million or $0.49 per share in the comparable prior year period.
+
+Contract and backlog highlights. The backlog at September 30, 2020 was $596.1 million. The detailed breakdown of new contract and backlog as follows: new contracts, Industrial Automation, $107.8 million; Rail Transportation, $24.2 million; Mechanical/Electrical Solutions, $12.3 million. Backlog as of September 30, 2020, Industrial Automation backlog, $252.3 million; Rail Transportation, $254.8 million; Mechanical/Electrical Solutions, $89 million.
+
+Cash flow highlights. For the first quarter of fiscal year 2021, the total net cash inflow was $34.9 million. The net cash provided by operating activities was $21.6 million. The investing cash flow was $2.6 million and mainly consists of $114.6 million of matured time deposits, which were partially offset by $108.8 million of time deposits placed with banks. The net cash used in financing activities was $0.2 million.
+
+Balance sheets highlights. The total amount of cash and cash equivalents were $321.6 million, $288.8 million, and $340 million as of September 30, 2020, June 30, 2020, and September 30, 2019, respectively.
+
+For the first quarter of fiscal year 2021, DSO was 185 days as compared to 204 days for the comparable prior year period and 167 days for the last quarter. The inventory turnover was 58 days as compared to 56 days for the first quarter of last year and 66 days for the last quarter.
+
+Arden?
+
+Thank you. At this time, we'd like to open up for the Q&A session. Please note that for Chinese-speaking participants, we can also do the Q&A in Mandarin, and we'll provide translation. Operator, please?
+
+We will now begin the question-and-answer session. [Operator Instructions] Your first question comes from [indiscernible] (00:20:34) from MS. Please ask your question.
+
+[Foreign Language] (00:20:41)
+
+Hello?
+
+[Foreign Language] (00:20:44-00:22:25)
+
+Okay. Thank you. The first question about this quarter, we can see the railways revenue [indiscernible] (00:22:35) decreased, because maybe this year, the [ph] CRC problem (00:22:41) is delayed. But meanwhile, we also see when ATP contract right now for many, like better 200 or 300. So, what about the [indiscernible] (00:22:58) that the next quarter, the revenue of [indiscernible] (00:23:01) will be increased relatively.
+
+The second question is [indiscernible] (00:23:09). Okay. Okay. But the first question, we have to right now. I will translate the second [indiscernible] (00:23:16).
+
+[Foreign Language] (00:23:25-00:26:01)
+
+The revenue for the Railway Transportation [indiscernible] (00:26:04) decreased. This is really about the technical changes, not the structural. We also [indiscernible] (00:26:12) if you see the average year performance be very steady. And by the way, it really depends on the procedure of [ph] CRSC (00:26:22) schedule. So we recognize revenue followed by [indiscernible] (00:26:27). And also about the [ph] ATP, SCADA, C2 there too (00:26:32), I mean, 200, we won about 73, equaled 140 sets of ATPs and another 300 we won 25 trains and about 50 sets of ATP. And we can see that CRC bidding is recovering and we will gradually win the onboard and also [indiscernible] (00:27:08) railway track equipment bidding for the coming moment.
+
+And also [ph] Kevin (00:27:13) asked me about the delivery phase, the delivery speed. So we discussed about the delivery speed really depends on the CRC schedule. It's hard to say, for example, at the end of this month or at the end of this year we can deliver half or two-third of the total we have delivered half or two-third of the total one. The speed is really hard to predict, because it really depends on the CRC, we could call, provide their schedules sometimes always and in transparency. So this is the answer.
+
+And second question, about the Industrial Automation. And Kevin asked about the Industrial Automation compare increased very fast. So what about the whole fiscal year expectation, performance of The Industrial Automation? And this is answer will have to – will speak by [indiscernible] (00:28:21).
+
+[Foreign Language] (00:28:23-00:29:14)
+
+The Industrial Automation compare increased because two main factors: one is the COVID-19 influence, and the right now recovery of all the things within China, so we – actively to achieve the customers and to gain the bidding. And the second one is, because the first half year kind of alleviated after COVID-19, alleviated a lot of activity and right now it's kind of relief – central relief for this quarter and next quarter. So, basically to say the whole fiscal year, we still [ph] are confident (00:29:53) the repeat two-digit growth.
+
+And the third question is about the cash. We see you have a lot of cash on hand. What about to consider a – to raise the dividend or the average investment potential M&A? Is there any activities related to stuffs?
+
+Okay. And for that one, I will take a first response to that. In viewing the current economic condition and then the ongoing pandemic situation, both for domestic and international, the company based on the risk – potential risk for the future development, the company is still taking a cautious or conservative – particularly, as you all know, HollySys is a more – a private-owned industry, not a SOE or government entity. So, in that manner, the whole financial sector still a unsettled or uncertainty. So, for that, we still maintain or relatively keeping our cash position for the time being.
+
+But in the meantime, the company is still looking for opportunity, but most in the domestic market for a potential target related to our both core competency in the Rail and in Industrial Automation. So, we are continuing to working with our COOs to identify the target to expand, enhance, and also step our strategic partner development.
+
+And in addition, obviously, you see we do increase our expenditure related to R&D expenses for the current quarter compared to the previous quarter. Given that we will continue to look in that to identify the existing technology and the current technology undertaking and to expand our technology bases to enhance our revenue contribution, ultimately towards the bottom line contribution to the company.
+
+And then third is, basically, you mentioned about the dividend payment. Obviously, the company already made the dividend declaration a few weeks ago and that we made the proper announcement. So, that payment will be payout towards the end of November. But at the current stage, we still look at a dividend policy, if not a permanent dividend policy yet, but we will evaluate the policy as ongoing basis.
+
+And then, overall, I think we mentioned, I want to point out is company mentioned the guidance in the previous year-end financial disclosure. And then that guidance, we will maintain. At the current stage, we will not make any changes. So, we're still maintaining a top line revenue growth of 6% to 8%. So, with the cash and a certain expansion or potential opportunity, the organic growth of the overall company, in related early question regarding Industrial Automation, we will maintain the current pace of the 6% to 8% top line revenue growth.
+
+Thank you, [ph] Kevin (00:32:56). Next question, please?
+
+Your next question comes from [ph] Joseph Go (00:33:04) from JPMorgan. Please ask your question.
+
+[Foreign Language] (00:33:09-00:34:42)
+
+Okay. Thank you. The first question accounts to the gross margin. The gross margin, we could see a flat line based on quarterly. And also what we see the fiscal year 2020, the past year, the IA, Industrial Automation, the gross margin compare different. And this quarter – and also it seems like the gross margins are good. So, what about to share about information about different segment, i.e. Rail, the gross margin, respectively, the trend? This is the first question.
+
+The second question is about the exchange loss, and what is the exchange loss for this quarter and can you explain some information about that. The third question is about the new business, do you see added new trend or business or revenue to achieve gains for the moment to introduce what you think about the new business, no matter relating to IA and Rail?
+
+Yeah. I will take the first question regarding to the gross margin. Again, like we mentioned it before, you see a fluctuation of our gross margin. But in over the entire year, we normally maintain a stability of the gross margin in terms of – for the IA business and Rail business. You saw there is a decrease of overall gross margin due to the higher percentage of Industrial Automation business as the percentage of the total revenue. So, that's the reason for that.
+
+There's a – we see there is stability for the gross margin for IA and Railroad business. We see a slight pressure on the IA business line, because we had a strategic acquisition of the contract and the new customers. But again, for longer term, the margin will stable. And that would be the answer for that.
+
+The second question is about exchange loss.
+
+Exchange loss?
+
+Yeah.
+
+Yeah. Again, those of – you see a fluctuation of the exchange rates. So, you'll see again the losses on the paper, on our financial statements. For now, we'll – we have no plans for financial instruments or tools for hedging the exchange rate. So that's the consideration for now.
+
+In addition to what Steven is saying on the exchange rate, you see there's some frustration from the beginning of the quarter versus towards the end of quarter. So we do taking a stringent non-cash loss for the quarter. But if the exchange rate maintained the level as the last time from [ph] RMB 7 – a little bit over RMB 7, down to RMB 6.8 (00:37:59). So we see some recovery in the second quarter, assuming the exchange rate will remain stable.
+
+As you know, the RMB was taking a little bit devaluation in early this year, and it maintained or went to a little bit upward over the last few months. So, overall, as Steven saying, company – given the company cash predominantly being RMB currency, company at the current stage do not have any hedging or any stabilization related to that. But we believe the RMB is more – will be more or less maintain the level going forward.
+
+[Foreign Language] (00:38:35-00:40:20)
+
+For the [ph] station (00:40:22), we also introduced from the first quarter – from that quarter. And we introduced – the [ph] Mainland China (00:40:33) right now focused on big transportation. And this contract also relate to the highway, for example. And we focused on – what we do that is the international management before the [indiscernible] (00:40:48). So, we also focus on – focused on this part. And we won the – we already won the contract from a highway management-related contract. And we believe that this is also what contribute to next year and the coming years of the revenue.
+
+And meanwhile, we also focused on the matter, the Mainland Rail, a high-speed rail or the municipal [ph] railway (00:41:17) station. We also first set up a platform to upgrade it to international or smart direction of [ph] railway (00:41:27) solutions. And also we can provide the solutions and the maintenance, smart maintenance, at this part that we could see the trend and also will contribute to the revenue for the [ph] railway (00:41:43) station.
+
+[Foreign Language] (00:41:47-00:42:55)
+
+And the Industrial Automation, I would to introduce three aspects. The first one is about the upgrading replacement cycle, and because the process can show we have large basement of track records, and also right now the market demand is increasing from this part. We need to decipher to do the replacement and upgrading, and we're also winning the contract from this part.
+
+The second one is intellectual smart and manufacturing. And no matter the power or chemical, petrochemical, we already have this significant project. And these projects when done could provide a demonstration, as effects can influence the customer to use the new solution for the smart manufacturing to help them to improve the efficiency, those kinds of things.
+
+The third one aspect is from the food and beverage and pharmaceutical area along with our EPC capability increase. This part of contract is increasing very fast. So, we believe this part also contributed to the whole IA. And in conclusion, generally speaking, the Industrial Automation is a very stable market. And also from our revenue contribute design to say, there will have no very large fluctuation, but we will keep our pace to win the contract and to let the customer to use our equipment.
+
+[Foreign Language] (00:44:52)
+
+Yeah. If I may make additional information on the Industrial Automation margins, and – sometimes we get a lower-margin contract. But afterwards, we have a continuation of services and contracts with the same customer will make up the margins. So, that's one of the reasons we see a fluctuation. So really, and we mentioned a couple of times, we'll have to look long term for the margins.
+
+Okay.
+
+Okay. Thank you for the insights.
+
+Thank you.
+
+Thank you, everyone, for joining us on the call today. If you haven't got the chance to raise your questions, we will be pleased to answer them through follow-up contacts. We're looking forward to speaking with you again in near future. Thank you.
+
+Thank you.
+
+That does conclude our conference for today. Thank you for participating. You may now disconnect.

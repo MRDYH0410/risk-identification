@@ -1,0 +1,215 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+Rachel White — Vice President, Investor Relations & Communications, ION Geophysical Corp.
+Christopher Theron Usher — President, Chief Executive Officer & Director, ION Geophysical Corp.
+Michael L. Morrison — Chief Financial Officer & Executive Vice President, ION Geophysical Corp.
+Jeffrey Campbell — Analyst, Alliance Global Partners Corp.
+Amit Dayal — Analyst, H.C. Wainwright & Co. LLC
+Colin Rusch — Analyst, Oppenheimer & Co., Inc.
+
+Management Discussion Section
+
+Question And Answer Section
+
+Greetings and welcome to the ION Geophysical Third Quarter Earnings Conference Call. At this time, all participants are in a listen-only mode. A question-and-answer session will follow the formal presentation. [Operator Instructions] As a reminder, this conference is being recorded.
+
+It is now my pleasure to introduce your host, Rachel White, Vice President, Investor Relations. Thank you. You may begin.
+
+Good morning and welcome to ION's third quarter 2021 earnings conference call. We appreciate your joining us today. As indicated on slide 2, our host today are Chris Usher, President and Chief Executive Officer; and Mike Morrison, Executive Vice President and Chief Financial Officer. We'll be using slides to accompany today's call, which are accessible via a link on our website, iongeo.com. There, you will also find a replay of today's call.
+
+Before we begin, let me remind you that certain statements made during this call may constitute forward-looking statements. These statements are subject to various risks and uncertainties including those detailed in our latest 10-K and other SEC filings, which may cause our results or performance to differ materially from those projected in these statements. Our remarks today may also include non-GAAP financial measures. Additional details regarding these non-GAAP financial measures, including reconciliations to the most directly comparable GAAP financial measures can be found in our earnings release issued yesterday.
+
+I'll now turn the call over to Chris, who will begin on slide 4.
+
+Thank you, Rachel. Good morning, everyone and thanks again for joining us. Today, we'll discuss ION's financial results, our progress diversifying into market segments with higher returns, and the outlook for energy and maritime operations industries we target. Our third quarter results improved considerably, largely due to the successful execution of our 3D strategy and we expect to have a strong finish to the year. We delivered $44 million of revenues, an increase of 125% sequentially and $22 million of adjusted EBITDA, up significantly from last quarter. The second, significantly larger phase of our Mid North Sea High 3D program was completed ahead of schedule, and a third fully funded extension began.
+
+Our team also continued to advance our diversification strategy in ports and offshore logistics through our climate-smart maritime digitalization solutions. Michael will elaborate shortly on the progress we've made in the evaluation of strategic alternatives and the additional cost reduction program announced last quarter. So, this is a good juncture to express how pleased I am with the whole ION team's third quarter performance and their fulsome demonstration of how we can punch above our weight. Everyone has been through a lot over the last 20 months of disruption and transition, and hard work and focus deserves due credit. So, thank you.
+
+Let's start with the market dynamics and our strategy to succeed in the rapidly evolving energy and maritime operations industries, but the global economy and commodity prices have rebounded above pre-pandemic levels. In the last year, Brent crude has risen over 125% to about $85 a barrel. Historically, rising commodity prices correlated closely with increased exploration spending. However, despite generating new record profits, energy companies' exploration spending has become decoupled from oil prices as cash flow is directed towards dividends, share buybacks, paying down debt and accelerating investment in energy transition-related strategies. Although supply have tightened, analysts anticipate seismic spending will remain muted near-term as budgets are allocated to existing developments at the expense of future oil and gas projects, which still have a discretionary profile.
+
+The energy transition has narrowed our clients' focus and magnified the importance of precision around our future investment decisions. As we have said for some time, we expect data purchases will largely be aligned with lower risk, higher return strategies focused on stable regulatory environments, proven basins, lower carbon and infrastructure-led exploration that leverages existing nearby facilities. ION is strategically investing in programs where we believe capital will continue flowing throughout the energy transition such as the North Sea and Brazil. Meanwhile, investment in the energy transition is rapidly approaching that of traditional oil and gas. While posing clear challenges, the energy transition has also created new opportunities for the geophysical industry. Our data will help customers efficiently locate and develop energy resources with lower emissions and environmental impact, whether it's more traditional sources or renewable ones.
+
+For example, there are potential seismic applications in offshore wind, carbon capture and storage, geothermal and more. Our regional BasinSPAN data is already helping to identify and evaluate potential carbon storage fairways across the Gulf Coast and Gulf of Mexico to help mitigate emissions that impact climate change. But with respect to our core business, even in the most aggressive energy transition scenarios, offshore oil and gas is expected to remain an important part of the energy mix required to meet global demand for at least the next two decades. We expect the seismic market will continue to improve as the majors settle into their new strategies, which includes [ph] near (05:38) infrastructure exploration and national oil companies continue expanding beyond their home geographies.
+
+In particular, we believe that our strategic decision to participate in a 3D new acquisition multi-client market with some select ION differentiators will enable us to continue to capture market share even with limited recovery in industry conditions. That said, we are also focused on rapidly diversifying outside of energy into much larger markets where we can increase the stability and share of recurring software revenue in our business. We are targeting port management, energy and logistics, and maritime digitalization markets. Our strategy is to empower industrial and government clients to sustainably operate in the maritime environment at lower cost with reduced emissions and with actionable intelligence around their marine resources. These large, capital-intensive ecosystems present significant digitalization opportunities.
+
+In our E&P Technology & Services business, revenues improved over 200% sequentially primarily due to the successful execution of our 3D strategy. This portfolio pivot from 2D to 3D shifts our new product investment closer to the reservoir where client spend tends to be more consistent and programs have larger scale revenue and earnings potential. Even in a challenging environment, our multi-client market share increased approximately 50% through a purposeful focus on new 3D assets. More than half of the revenue generated this quarter stems from our 3D programs from the two new acquisition campaigns in the North Sea to our immense artfully remastered reimaging program offshore Brazil.
+
+Our team not only completed the larger second phase of Mid North Sea High ahead of schedule, but also launched the third fully funded extension nearby. I'm especially pleased that this new program allowed us to expand our strategic foothold in this promising North Sea sector in the same season as our Phase II program. The Mid North Sea High program covers one of the few remaining under-explored areas offshore to UK where relatively low development costs close to shore make it attractive for future investment.
+
+Data collection for the aforementioned 700 square kilometer third phase is expected to wrap up mid-November. Over the next year, multiple exploration and appraisal wells will test new prospects and further quantify nearby discoveries. Based on the outstanding subsurface image quality demonstrated in Phase I, we expect to provide a regional perspective with fresh insights for developing the entire UK's Zechstein play. This program is a great example of how new high-quality data can unlock the potential of new acreage.
+
+In addition to the North Sea, we are continuing to expand our highly successful Picanha 3D reimaging data set offshore Brazil. Brazil remains one of the hottest exploration spots globally due to the low development cost of its reserves with some offshore projects breaking even at $35 per barrel. During the quarter, we booked strong sales of Picanha Phase 6, our newest addition to this data asset. Now, one of the largest contiguous surveys in the world, Picanha spans 175,000 square kilometers of seamlessly reimaged data. Due to our remastering and reimaging emphasis and highly efficient proprietary software infrastructure, our carbon footprint per dollar of revenue is much less than any of our data library peers.
+
+We also have a compelling revenue dollar per computing petaflop due to a proven and very modern high-performance computing software infrastructure. Building on that proprietary expertise in parallel scientific computing, we are in the final phases of delivering our new Imaging AnyWare, cloud-native platform that will provide ION's data processing teams access to flexible and scalable compute capacity at an affordable cost. Imaging AnyWare enables breakthrough geophysical development speed combined with optimized compute performance that will deliver superior imaging results and greatly reduced turnaround times. This cloud software infrastructure will also enable integration of customer and partner proprietary technologies within the overall workflow. We are excited to be working with AWS to bring this to market in early 2022, while exploring different commercial models through deploying this technology.
+
+However, a key driver to imaging effort is the input data. And the industry continues to converge on the value that lower frequency seismic source energy provides to geophysically challenged proprietary and multi-client projects. Our Gemini enhanced frequency source seems to be in pole position as the only commercially proven technology solution at this juncture. We are the sole technical spec on a range of promising energy company tenders for early 2022 and look forward to redeploying our existing capacity very soon.
+
+In Operations Optimization, revenues continued improving during the third quarter. Seismic tender activity is increasing, primarily for production-focused proprietary projects. The multi-year command and control subscriptions and routine equipment spares and repairs business from our substantial installed base lend stability to this business segment. We are working more closely than ever with our towed streamer and seabed acquisition customers across both devices and software to deliver the operational flexibility and efficiencies required in the field. E&P end customers increasingly require complex survey configurations to address their objectives, and ION solutions are integral to meeting those demands in a recovering seismic services market.
+
+We continue to advance our diversification strategy in new maritime markets across software and devices. As part of our recent cost streamlining, we have suspended our naval defense initiative in devices given the long wavelength nature of business development and funding in the sector. We also continue to assess the near-term commitment that emerging regulatory environments have for monitoring solution requirements, such as our WellAlert offering for plug-and-abandon wells and pace our prototype efforts accordingly.
+
+In software, our diversification strategy into ports and offshore logistics is building momentum with an increasing pipeline of nearly 80 active prospects. We recently added a new presales process to efficiently handle the large volume and wide variation of potential clients and ultimately send qualified leads to our sales team to close. Following our business development expansion in the Americas, I am pleased ION has secured its first port engagement in the US. The initial 60-day trial will convert to a commercial contract pending satisfaction of predetermined customer performance criteria.
+
+ION was recently recognized for our role in reducing ports' impact on climate change. Our climate-smart platform, Marlin SmartPort, was featured in Gateways to Growth, the British Ports Association program, highlighting ports' vital contribution to society and the innovation shaping their pathway to net zero. Marlin SmartPort enables operations to be smarter, safer and greener by digitalizing processes and connecting stakeholders to critical data. The program features client testimonials on the positive impact Marlin SmartPort has had on their operations and can be viewed on our website. In September, we received a grant to advance port decarbonization through Marlin SmartPort. The grant supports the UK's plan to address climate change and help achieve the country's net zero emissions targets by 2050. Today, approximately 90% of goods are transported by sea, and global shipping accounts for nearly 3% of global CO2 emissions. The six-month pilot study will validate whether vessel fuel usage and carbon dioxide emissions can be reliably estimated in and around ports using the International Maritime Organization global standard.
+
+We also continue to enhance our platform with new valuable client-driven functionality. Our team recently launched two new modules that drive automation and efficiency. The partner portal enables agents and vessels to access a wealth of real-time information and directly book port calls, delivering automated processes, increased efficiency and enhanced communication. Our Billing Management module captures a time stamp of all billable port activities that can be integrated into existing financial systems to automatically generate accurate invoices.
+
+We are pleased with our port-by-port customer acquisition today, but a key pillar in our software growth strategy is to engage governments on country scale solutions for their offshore economic zones that address maritime traffic challenges across ports, illegal fishing, environmental monitoring and more. We continue to work closely with the US government to propose comprehensive digital solutions and to secure third-party financing alternatives for customers where necessary. To augment that strategy, we signed a partnership agreement with a UAE Royal Family Office to drive business penetration in the GCC countries and to provide project finance capacity for our Africa digitalization program. Our initial engagement is focused on coastal Africa. We have met with over 20 African nations, explored multiple third-party financing options and submitted our first multi-million dollar digitalization proposal.
+
+With that, I'll turn it over to Mike to walk us through the financials, and then I will wrap up before taking questions.
+
+Thanks, Chris. Good morning, everyone.
+
+Our third quarter revenues of $44 million improved 125% sequentially and approximately 175% from one year ago. Adjusted EBITDA was $22 million, significantly up from the $100,000 last quarter due to our 3D strategy, modest market tailwinds and our cost reduction efforts. E&P Technology & Services segment revenues of $36 million, increased by over 200% sequentially, primarily due to strong sales of our newly reimaged 3D data offshore Brazil and the operational execution of the second and third phases of our Mid North Sea High 3D multi-client program. Operations Optimization segment revenues of $9 million improved 7% from the second quarter. Backlog, which consists of commitments for multi-client programs and proprietary Imaging and Reservoir Services work, was $12 million at quarter end. The sequential decline was largely driven by the completion of the acquisition stage of Mid North Sea High Phase 2.
+
+While replenishing backlog is a key focus, we are comfortable with the current levels as we aim to selectively secure attractive new 3D programs at a rate of one to two per year. As a result of our lower first half revenues, we expected to consume cash during the quarter. Our cash balance was $24 million at quarter end, including $19 million we drew on a revolver last year. Our total liquidity, defined as a combination of our cash balance and the available borrowing capacity under our revolving credit facility improved $2 million to $35 million, mainly due to borrowing-based improvements.
+
+Last quarter, we disclosed a growing concern issue due to the significantly lower planned first half revenues, which has had an impact on our second half cash collections necessary to fund our operations and meet our fourth quarter debt and other obligations. Even though we experienced a significant improvement in our third quarter revenues and are seeing modest tailwinds for the fourth quarter, we have not changed our growing concern issue disclosed last quarter. We continued the diligent efforts to strengthen our financial position and right size the business. Our strategic alternatives process with Tudor, Pickering, Holt & Company is ongoing, as we evaluate all options to improve liquidity and address our balance sheet.
+
+Our team has made great progress on the cost reduction program with approximately $16 million of annualized cost savings identified, building on the over $40 million eliminated in 2020. Nearly $9 million in short-term savings has been executed, while we progress the remaining longer-term real estate rationalization. Although some savings will be realized in the fourth quarter, we expect the majority of the short-term savings will take effect in early 2022.
+
+With that, I'll turn it back to Chris.
+
+Thanks, Mike. In energy, we are seeing some modest market tailwinds and expect the seismic sector to continue gradually improving. Exploration spending has always been highly discretionary and therefore it continues to be the most unpredictable as our customers navigate their new strategic landscapes.
+
+While the timing of a seismic market recovery remains uncertain, we are confident about a strong finish to the year due to conversion of existing backlog and a robust sales pipeline. We do believe the tide will ultimately turn on the chronic underinvestment in critical seismic data that we have seen in recent times.
+
+Although the ultimate seismic recovery timeline is uncertain, we are focusing where we believe we can make positive inroads, such as a selective 3D strategy and large scale ESG-focused software opportunities. ION is an innovative asset light global technology company whose data and software analytics turn information into insight. Demand for our offshore data and digitalization technology is growing, empowering clients to operate more efficiently and sustainably. We are pursuing projects at scale, targeting unaddressed customer needs, leveraging partner technologies and aiming to replicate prior ION energy sector success in Africa.
+
+Our team is laser focused on continuing to execute the strategic initiatives that are delivering results such as improving 3D multiclient market share and moving to country scale maritime digitalization solutions while supporting our existing businesses.
+
+With that, we'll turn it back to the operator for Q&A
+
+Thank you. Ladies and gentlemen, at this time, we will be conducting a question-and-answer session. [Operator Instructions] Our first question comes from Jeffrey Campbell with Alliance Global.
+
+Good morning.
+
+Good morning.
+
+Chris, the emphasis on lower costs and emissions suggests ION has really refined its Marlin argument. And the reference to our first multimillion dollar country-scale digitalization proposals also seems to position Marlin in a different ZIP code than our past discussions. I was wondering if you could talk about the evolution of this a little bit?
+
+Yeah. So, great question and well-observed. Yeah. So we've been having success in ports mainly in Europe and now America with SmartPort. But those are fairly – those have been smaller port customers and so we're at the lower end of our revenue subscription level. So it takes a lot of those ports to start really growing the revenue the way we'd like, although we're very happy with that kind of customer acquisition and penetration. We're about 20 ports now. And what you saw from some of the comments is that we're getting a lot of accolades around our ability to help the ports not only improve operations but also reduce emissions, which in Europe and also California are really big issues.
+
+So, we're getting validation that way which is great, but we're just like how do we accelerate the scale of this opportunity with Marlin in a very maturing infrastructure and ability to bring in other partner solutions as well as add modules to upscale the revenues by delivering more value in the ports. But what we decided to do is really go beyond just the ports. So, as we went into Africa and started doing port trials in, say, some of the larger ports in Africa, we realized that there's a larger opportunity there. But those countries are challenged not only with port efficiency and getting critical goods from the hinterland out to the ports and then off to China and elsewhere that they needed something like SmartPort in there. But beyond that, they have a huge challenge in their offshore economic zones in their sovereign waters, where there's things like illegal fishing, trafficking, all sorts of things going on that their small coast guards struggle to deal with and require more information.
+
+So, given the Marlin infrastructure also for simultaneous operations, monitoring, and just general surveillance, we've been pitching at the government level, the ministry level with US embassy support and introductions to basically 20 countries in Africa to say, hey, we understand your challenges, we've listened to you and we can use this port installation bridgehead with the infrastructure to also start monitoring your offshore zone, particularly illegal fishing, which is a huge drain on their resources and a huge drain on their, well, a miss on their potential revenues from fishing.
+
+So, we've been pretty successful at getting at least sitting around the table with these people to fine tune their problems and start making proposals, which also would have some kind of donor financing or other financing that we secure through EXIM Bank, because most of these countries as customers don't have the financial budgets unless you're Kenya or South Africa or whatever, maybe Nigeria to afford the solution. So, it's kind of pulling all those things together to drive our Marlin revenues solve bigger problems and at scale. And it's fully capable of that and robust enough to do that. So we're pretty excited now that we're at the stage where we're actually – we have the interest; we're submitting these proposals and we're starting to move through that process.
+
+And just to give a sense – instead of maybe a few hundred thousand annual subscription for just a SmartPort and a small port somewhere, these countrywide – all the ports in the country and then the offshore economic zone monitoring, these are kind of $40 million to $50 million kind of proposals. Over multiple years, that would be like a three- to five-year deployment depending on what the problems are. So it's – we're pretty excited about approaching it kind of like country scale now.
+
+Yeah. That sounds like a really meaningful step up in revenue potential.
+
+Yes.
+
+Stepping back from Marlin a bit, how's the energy logistics offering progressing? I just wondered if better commodity prices are helping that effort in any way?
+
+That's been an area of interest and it's been really slow. I mean, we've clearly demonstrated that we can save on operational costs and clearly on emissions of supply vessels. And we've had a – we had a big trial last year, which has been taking forever to convert, but we actually have been told we've been verbally awarded – well, we've been verbally awarded a pretty chunky logistics port to platform kind of opportunity that would be good revenues over a few years with that one.
+
+So, probably we should know that at the end – by the end of Q4 exactly how that's shaping up. And hopefully we can announce that award.
+
+And then there are several other – and several others in the Middle East that's worth noting where we've been percolating those opportunities too. And we've started to have, the thing that's changed is, we've been putting in these kind of logistics proposals with big offshore construction operators. Those bids have been really slowly moving through the pipeline in the Middle East. But we're now starting to get operators that have worked with us before, come back and say, hey, we'd like to reinstall Marlin for the logistics side of things in the Gulf of – Arabian Gulf states. So, that's looking to pick up a little bit too. So I think the slightly improved economic situation in oil and gas is actually starting to move that again.
+
+Well, I guess my thought when I hear that is, at the end of the day, the E&P industry still needs to emphasize cost reduction wherever they can get it. So if you get this first award and you're able to demonstrate some actual cost savings in real time, do you think that's going to help you with some of the other ones that are sort of on the fence?
+
+Absolutely. I mean, we have also been able to kind of demonstrate what we learned from the pilot without naming the customer with other – with other potential customers as well. So that's been great to be able to demonstrate those values, looking at them through our dashboards and things like that. So it's created a lot more engagement. We've also got another opportunity in Alaska, which we hope to be able to announce soon as well. That's come from that kind of workflow and that kind of demonstration.
+
+Okay, and for my last question, I'll just turn back to 3D seismic. I just wondered, how is the Kenya program progressing?
+
+Picanha is going great, I mean, we continue to have our cut – we continue to accrete new phases to that very large asset. And parts of it are more or less sold out, but we get steering from the customers telling us where they would like us to go next and then we go back and we buy the tapes from the government, which again, is – oh, Kenya. Sorry, Kenya. Sorry about – did you say Picanha or Kenya?
+
+Kenya. Okay. Yeah. Kenya is on the 3D seismic, so we have the rights there to do the 3D exploration, but we really are assessing the interest there, although we have the governmental rights, but it doesn't seem to be as hot an area for investment as, say, Brazil that I was just talking about, so. And going back to kind of what I said on the script is, we're being very selective about where we deploy our 3D use and where we use – we use customer underwriting to do those projects. So, if there's not a hot interest then we're not doing it. So, I think Kenya is kind of watch the space rather than – spend company money and customer money on developing 3Ds there. So, it's really the UK and Brazil is where we're focusing that right now.
+
+Okay. Well, I'm sure investors appreciate that discretion. Thanks very much for the color.
+
+Yeah. Thank you, Jeff. Cheers.
+
+Our next question comes from Amit Dayal, with H.C. Wainwright. Your line is open.
+
+Thank you. Good morning, everyone. Appreciate you taking the questions. With respect to your operating cost targets for 2022, Mike, could you give us any color on what we should expect relative to this year? How much lower could operating cost come in next year?
+
+Yeah. Appreciate the question. So, as we said, we've identified to-date and executed to-date $9 million of cost reductions on top of what we had done – of last year. Majority of those, that $9 million will take effect really in January or the beginning of 2022. We're still searching and always executing to others, but that that will in fact happen. That $9 million is really – it was – it's really spread across kind of all of our operating expenses, including our cost of services. But that will come into play in the beginning of 2022.
+
+Okay. Understood. Thank you for that. And, Chris, with respect to the strategic alternatives that you are considering, is there a timeline for when you may have options to present to investors?
+
+Yeah, there's not an absolute deadline, but we're trying to do is – we're obviously pretty focused on getting that completed quickly, given those extra costs. Building on your cost question, any cost savings we make are kind of offset to some extent by the expenditure with outside advisors. So I think we can all appreciate. It's good to have professional help, but it's not for free.
+
+So, yeah, we're pushing that as hard as we possibly can. We are in the middle of that process. We're near the end of a major phase of that, looking at what the opportunities there, and some of that is looking at what – as you probably remember, we've had some of our homegrown ION initiatives to look at divesting non-core assets. And those are the kind of things we're looking at now with kind of a broader and stronger process. So, hopefully, we will be able to report on that fairly soon.
+
+Okay. Thank you.
+
+Yeah.
+
+And with respect to your maritime or Marlin software, with port-related issues in the news right now, supply chain related stuff, does that software address any of those challenges that the segment is facing or you're focused more on regular operations and improving other types of data collection, et cetera?
+
+Yeah, that's a great question. And a lot of people – that's in the news heavily, so people often ask that question. So, I think, we do believe we have an impact on relieving some of that congestion. But a lot of the congestion you see with like in LA and elsewhere is not really down to the ability of the port to move the cargos through it per se and get these people into anchorages. I will say that our berth management offering, which is the core of SmartPort right now does help that a little bit because you're able to optimally schedule getting the vessels in and out of the berths within the ports as soon as possible and get things unloaded and reloaded.
+
+But the bigger challenge and why those guys are sitting there anchored is, it's the stevedores and all these other logistics companies that are having a bottleneck both within the ports, on the larger ports they've got facilities inside the port, and then they've also usually got distribution centers outside of the port area as well. And those are where the problems are. They're congested, they've got issues with getting truckers and access to trains and all this. So it's really the distribution network that's really gummed up, if you will, and we don't address that, so.
+
+But other areas we could address, I mean, you've got kind of a knock-on effect of all those vessels being in anchorage and the potential anchoring snag that – with the Huntington oil spill from that – from snag in a pipeline. I mean, those are things where Marlin, not the SmartPort part but the actual surveillance part, understanding the length of the anchor chains and all that and our GIS capabilities of understanding where fixed infrastructure like pipelines could be is another use case where we can help people understand, send out alerts saying, don't anchor near that, you're too close to the pipeline or whatever.
+
+So you can kind of geofence that and send out alerts and that could be something that the infrastructure companies like the pipeline company there as well as the ports could benefit from, and it's – you got to find out who's actually responsible for each part and then those are the potential customers.
+
+So we're looking at that, too, in our engagement with California ports. They're heavily interested in the environmental aspects of port operations and other things around it. So we're working hard on looking at whether we can help that part of it. But yeah, I don't think we're going to solve the huge logistics quagmire at the moment.
+
+Yeah. But it could still be a little bit of a catalyst for these ports to consider you're offering given efficiency improvements and other sort of benefits from...
+
+Yeah.
+
+...what has transpired right now basically, right?
+
+Yeah, absolutely.
+
+Okay.
+
+And it's certainly helped us get into more discussions and then we can – then we explore with their operations people in the ports exactly what benefits we have for them, and they all have different challenges. I mean some of the smaller ports in California actually are clogged up at all, amazingly.
+
+Just up the coast from LA is a small port called Hueneme where I went to visit about a month ago. We had a kind of military exercise there as well as a port visit in the same port. And they have actually only a few vessels anchored offshore and they – where they're organized, they get the kind of a county municipal port and they get all their stuff through super efficiently. But they're still interested in SmartPort for improving their berth management, so. But it is interesting and every port is different. It has different challenges.
+
+Understood. That's all I have guys. I'll take my other questions offline. Thank you.
+
+Thank you, Amit. Good to hear from you.
+
+Our next question comes from Colin Rusch with Oppenheimer. Your line is open.
+
+Thanks so much, guys. Could you just walk us through the timing on collection with the receivables as well as those unbilled receivables and how those are going to flow through with the cash flow statement?
+
+Mike, do you want to take that?
+
+Yeah. No, I'll take it. Good question. You obviously saw the increase in our AR from the Q3. A majority of those, as you see our Latin American revenues are up, associated with Brazil. So, that does have a little bit of timing. They're kind of big and chunky. So, I'd expect those and those are timed to really later this month beginning kind of the December timeframe. So, I expect most of those would be harvested later into this quarter.
+
+Okay. That's super helpful. And then, from a spending perspective as you look at growing the Marlin sales effort and getting adopted into some of these additional ports, what sort of investments are you really meaning to make from a technology perspective, as well as from a sales perspective to move those things along?
+
+Yeah. That's a good question. I think the investments we need to make in that area right now are not large. They're adding – we've had a huge benefit from adding one or two subject matter experts who come from the port arena and understand, for example, the North America port community, which is different from the European one. Our BD person has been on the ground for four months and has made a huge inroad in getting our message out there, our offering out there, organizing demos and actually moving forward on the port we mentioned that we're in the trials that should flip over to commercial arrangement, so – and some other stuff that's coming in the pipeline.
+
+So, we're very pleased with that. And those are – we should probably have more of those. We're looking at Latin America as well. But those are – you're talking about two, three, four or five kind of BD folks. But that's – and we added a BD person in Africa, which is really – which had been an agent and is now full-time employed that's really driving the government level engagements we're having there.
+
+So, those smaller investments are making a big difference right now because the product is actually really, really mature in its core phase. And it's a question of then investing in the development resources to add incremental functionality. And again, those are not huge chunks, they're modest. And obviously we've also gone up through the phase of cost – employee reductions and all that. So you're trying to balance that with making sure we have the right coverage in the right places.
+
+So, yeah, we need to see – it's the crossing the chasm thing that we've got a stable platform. We have the ability to add new stuff quickly. We need BD people to get that message out to people. But we don't want to invest a lot more to accelerate things until we see the revenues coming online.
+
+And the other thing would be marketing. I mean, we've reduced our marketing SG&A overhead in the quarter – into Q3. But at the same time, we need to be more focused on getting the message out through digital processes, media, et cetera on what we have to offer in those communities. Because we're a relatively unknown brand. It's kind of a new market as well in some of these spaces. Certainly the government level stuff is an absolutely new market.
+
+So, we're actually really grateful to the US foreign office and commerce and all this for supporting us with getting embassy level introductions where you can get right to these high level people that make the decisions, and have been responsible for solving these problems at a government level. So without that, we wouldn't – our brand would be unknown in Africa. So it's been a huge step change there, but that's relatively [ph] inexpensive (35:51) process as well, and taxpayer dollar is being well spent and we're leveraging that.
+
+Excellent. And then the follow-on for me is just around seasonal dynamics. Historically, there's been some budget flush in the fourth quarter, it seems like that's starting to break down a little bit. I guess as you guys look at the demand profile and kind of what's out there from an organic perspective on a multi-year basis versus some of the spending that's happening just around budget allocation, can you give us a sense of what that looks like and how you're thinking of that spend flowing through the fourth quarter and early next year? I know you guys don't guide, but just trying to get some nuance around that?
+
+Yeah, so I think in the past, you've always had a big spare budget but if the E&Ps didn't use all their drilling funds, they would use their spare budget up on buying data. And then we saw that last a little bit over the last couple of years. I think a little bit of that might be coming back. I don't know whether that's a real trend or it's just going to be this year that the IOCs have gone through this huge energy transition, flushing out of their traditional staffing and reconfiguring them to the energy transition.
+
+But there is a core group of exploration people and departments that are still there, and they are not seeing that because of all sorts of supply chain issues and getting people fired back up again in the [indiscernible] (37:15) services side that they haven't been able to drill all the wells that they thought, which is leading to some spare budget, and we do believe some of that will be spent on the seismic from what we're hearing from, say, the EVP level and some of the large IOCs.
+
+So, I think there might be a modest upside there that we've probably don't even have in our forecast yet. But what we do have is the activity of the NOCs, which is slow and steady. And that's really where we've seen things come together in Q3, a lot of that buying has been from NOCs who have strategic interests in new geographies outside of their home countries and we're seeing that also for Q4.
+
+But we're also seeing activity with the majors in Q4 that we didn't see as much in Q3. So, I think – there's a few things coming together in Q4 that gives us the confidence [ph] on (37:58) guidance, but it's strong optimism about the quarter. Beyond that I think into next year will it be the same shape? There's always a first half a bit lower than the second half, and I think that shape imprint will still be on the revenue profiles of us and our peers. But I hope it's at a higher level that has been in 2021 and so forth, so. But I do think at least on that Q4 effect, there'll be a little bit of that this year.
+
+Okay. Excellent. Thanks, guys.
+
+Yeah.
+
+There are no further questions in the queue. I'd like to hand the call back to Chris Usher for closing remarks.
+
+Yeah. Thank you so much. I really appreciate everyone joining the call today. I'm pleased with our third quarter in many respects and some of the things that are shaping up. So, yeah, I really just want to thank you for joining. Thank you, you three for your good questions, and I'm sure we'll talk to you all individually as well and others afterwards. So, yeah, have a good rest of the day and all the other calls you're joining through the earnings season. We'll see you next time.
+
+Ladies and gentlemen, this concludes today's teleconference. Thank you for your participation. You may now disconnect your life at this time. Have a wonderful day.

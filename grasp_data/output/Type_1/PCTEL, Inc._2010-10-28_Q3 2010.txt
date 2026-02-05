@@ -1,0 +1,305 @@
+corrected transcript
+
+
+PCTEL, Inc.
+ 
+PCTI
+ 
+Q3 2010 Earnings Call
+ 
+Oct. 28, 2010
+
+
+Company
+▲
+ 
+Ticker
+▲
+ 
+Event Type
+▲
+ 
+Date
+▲
+
+
+www .Ca ll St r eet . com
+ 
+•
+ 
+1-8 7 7-F ACT S ET •
+ 
+Co p yr i gh t © 2 0 0 1-2 0 1 0 Ca l l Str e et
+ 
+1
+
+
+MANAGEMENT DISCUSSION SECTION
+
+
+Operator: Ladies and gentlemen, thank you for standing by, and welcome to the PCTEL third
+
+
+quarter 2010 earnings conference call. At this time, all participants are in a listen-only mode. Later,
+
+
+we will open up the call for questions. Instructions for queuing up will be provided at that time. As a
+
+
+reminder, this conference call is being recorded for replay purposes.
+
+
+I would now turn the call over to Jack Seller, Director of Marketing. You may begin.
+
+
+Jack Seller, Marketing and Public Relations
+
+
+Thank you for joining us today, October 28, 2010, for the PCTEL financial results conference call
+
+
+for the third quarter 2010. On today’s call will be Marty Singer, Chairman and CEO and John
+
+
+Schoen, Chief Financial Officer.
+
+
+Today’s call will contain forward-looking statements within the meaning of the federal securities
+
+
+laws. Comments concerning our future financial performance, new products and product
+
+
+development, and expectations regarding the future growth of our wireless RF business, are
+
+
+forward-looking statements within the meaning of the Safe Harbor.
+
+
+Actual results may differ materially from those projected as a result of risks and uncertainties,
+
+
+including the ability to successfully grow our wireless product business, implement new
+
+
+technologies and obtain protection for the related IP.
+
+
+Additional discussion of these and other factors affecting the company’s business and prospects is
+
+
+contained in our periodic SEC filings. These statements are made only as of today and we disclaim
+
+
+any obligation to update information to reflect subsequent events.
+
+
+I would now like to turn the conference call over to Marty Singer.
+
+
+Martin H. Singer, PhD, Chairman and Chief Executive Officer
+
+
+Thank you, Jack, and good afternoon to all of you. For those of you who have not had a chance to
+
+
+read our press release, I’d like to recap some of the non-GAAP highlights from the quarter. We
+
+
+achieved revenue of $17.3 million, an increase of 26% over the third quarter 2009. Non-GAAP
+
+
+gross profit margin was 41%. The decline in gross margin reflected a higher mix of antenna
+
+
+revenues to total revenues than we have had in the past, sluggish scanning receiver sales related
+
+
+to LTE demand, and pricing pressure in a few key markets.
+
+
+Non-GAAP operating margin was 2%. Non-GAAP net income was $315,000, or $0.02 per diluted
+
+
+share. And cash and investments were $71.7 million. We generated $1.2 million of cash and
+
+
+investments before buying back approximately 376,000 shares for $2.3 million during the quarter.
+
+
+With that, I’d like to turn the call over to John Schoen, our CFO, who will discuss our financial
+
+
+performance in some detail. Later, I will comment on some of our business development,
+
+
+engineering, and marketing efforts over the past quarter, as well as some of our current activities.
+
+
+John?
+corrected transcript
+
+
+PCTEL, Inc.
+ 
+PCTI
+ 
+Q3 2010 Earnings Call
+ 
+Oct. 28, 2010
+
+
+Company
+▲
+ 
+Ticker
+▲
+ 
+Event Type
+▲
+ 
+Date
+▲
+
+
+www .Ca ll St r eet . com
+ 
+•
+ 
+1-8 7 7-F ACT S ET •
+ 
+Co p yr i gh t © 2 0 0 1-2 0 1 0 Ca l l Str e et
+ 
+2
+
+
+John Schoen, Chief Financial Officer
+
+
+Thank you, Marty, and good afternoon to everyone. Our investors will note that the company
+
+
+presents non-GAAP financial information in its earnings releases. The company believes that the
+
+
+presentation of gross profit, operating profit and net income, excluding restructuring charges and
+
+
+non-cash-based expense, including stock and stock option-based compensation, amortization and
+
+
+impairment of intangible assets and goodwill related to the company’s acquisitions, gains or losses
+
+
+on the sale of product lines and related note receivable, and non-cash based income tax expense
+
+
+provide meaningful supplemental info to both management and investors.
+
+
+The non-GAAP financial analysis reflects the company’s core results and facilitates comparisons
+
+
+across reporting periods. For more information on our non-GAAP financial results and reconciliation
+
+
+to GAAP measures, please refer to our earnings release that has been filed under Form 8-K with
+
+
+the SEC. The release can also be found on our website. My discussion of results will be based on
+
+
+our non-GAAP financial results.
+
+
+So let’s turn to revenue. Third quarter 2010 revenue was 17.3 million. This compares to 13.7 million
+
+
+in the third quarter of 2009, an increase of 26%. The improved sales reflected significantly stronger
+
+
+volume in our targeted vertical markets for antenna products. Antenna sales improved to both our
+
+
+large distributors and to OEM resellers of our antennas. Scanning receiver revenue saw a modest
+
+
+decline in sales through its OEM test and measurement resellers, such as Ascom, Anite, and
+
+
+SwissQual, primarily related to the delay in commercial deployment of LTE.
+
+
+Now, let’s turn to gross profit margin. Non-GAAP gross profit margin for the third quarter was 41%,
+
+
+versus 47% in the same period last year. Approximately 4% of the decrease related to the stronger
+
+
+revenue performance of our lower-margin antenna products relative to our higher-margin scanning
+
+
+products, with the remaining 2% as a result of pricing pressure experienced in the OEM scanning
+
+
+receiver channel. Marty will comment further on the scanning receiver outlook in his remarks.
+
+
+Now, let’s turn to operating expenses. They were $6.8 million in the quarter, an increase of 730,000
+
+
+from the same period last year. R&D increased approximately 260,000, related to investments in
+
+
+scanning receiver development, approximately a third of which is related to integration of the
+
+
+acquisition of the Ascom scanning receiver business, which was completed in the quarter just
+
+
+ended. In addition to the integration expense, we have continued to invest very heavily in our
+
+
+scanning receiver platform that is now in beta stage and being evaluated by key customers. We
+
+
+anticipate that this investment will moderate over the next three quarters.
+
+
+The $470,000 increase in SG&A expense reflected the investment in ongoing Sparco sales
+
+
+operations, our investments in reaching specific markets, and an increase in sales commissions
+
+
+related to higher revenue. This investment has been extremely worthwhile. Although the increased
+
+
+antenna sales carry with them a lower gross margin than scanning receivers, the investment in our
+
+
+vertical market strategy has resulted in significantly higher antenna revenue than we experienced
+
+
+last year. We will continue to invest in these markets, most likely elaborating upon initial
+
+
+investments in China and specific verticals where we have enjoyed some success.
+
+
+Non-GAAP operating income in the third quarter was 307,000 or 2% of revenue, compared to
+
+
+442,000 or 3% of revenue in the same period in ‘09. The results reflect a net decrease of 135,000
+
+
+from higher gross profit on higher revenue, but netted with a larger increase in operating costs.
+
+
+Other income was 77,000 versus 375,000 in the same period last year. Last year’s results included
+
+
+a one-time $230,000 gain on the liquidation of our position in the Columbia Strategic Asset Fund.
+
+
+The non-GAAP income tax rate in the quarter was 18%.

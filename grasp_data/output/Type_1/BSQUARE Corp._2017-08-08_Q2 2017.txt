@@ -1,0 +1,86 @@
+Participants
+CORPORATE PARTICIPANTS
+Jerry D. Chase — Director, President & Chief Executive Officer, BSQUARE Corp.
+Peter J. Biere — Chief Financial Officer, BSQUARE Corp.
+
+Management Discussion Section
+
+Question And Answer Section
+
+[Abrupt Start]
+
+Second Quarter 2017 Financial Results Call. Today's conference is being recorded.
+
+At this time, I'd like to turn the conference over to Jerry Chase, Chief Executive Officer. Please go ahead.
+
+Thank you and good afternoon, everyone. Before I begin, let me remind you that this call is being webcast and that a recording of the call and the text of our prepared remarks will be available on our website.
+
+During this call, we will be making forward-looking statements. These statements are based on current expectations and assumptions that are subject to risks and uncertainties that could cause actual results to differ materially. Please refer to the cautionary text regarding forward-looking statements contained in our earnings release issued today and in the posted version of these prepared remarks, both of which apply to the content of this call. All per share amounts discussed today are fully diluted numbers where applicable.
+
+During the first half of 2017, we continued making progress, building a sustainable, high-margin enterprise software business around DataV, our industrial Internet of Things offering. We are currently experiencing strong momentum with large high-quality customers. Many of these customers have annual revenues in the billions of dollars. Since the beginning of Q2, we have entered into a total of eight paid pilot deployments with new customers, four of which closed after the end of the quarter.
+
+You may recall that over the past few quarters, we have stated our goal to shorten our sales cycles. As a result of those efforts, we have seen a marked compression and sales cycles leading to initial contracts. Several factors have contributed to this positive development. The most significant contributor is our focus on IoT applications, which substantially reduces complexity and time-to-value for our customers. We also believe that general market readiness is improving the general outlook for industrial IoT solutions.
+
+Pilots we are deploying cover all seven of our DataV applications, including our newest application released during Q2, DataV Discover. DataV Discover provides a standardized method for customers to determine if their data sets have the richness necessary to deliver on specific business objectives. It was built in response to specific needs we saw in the marketplace. And while we currently have active DataV deployments with PACCAR in the transportation industry, Itron in the energy industry, and a customer in smart vending, our most recent pilots span an array of new industries, including oil and gas, petrochemical, retail, and government.
+
+These pilot deployments are for the most part with large multi-billion-dollar leaders in their respective industries. A few examples include a European heavy-duty equipment manufacturer plans on using DataV Repair to reduce service cost and improve fleet uptime for its customers. A global provider of services and equipment for the oil and gas industry, looking at DataV Manage to control remote, difficult-to-access machinery. A major petrochemical firm, piloting a variety of DataV applications to improve refinery uptime and reduce maintenance and service costs.
+
+Given that these pilots are paid commercial endeavors, we believe they are strategic to our customers and will in most cases lead to production deployments upon successful completion of the respective pilots. Additionally, our demand generation programs and sales pipeline leads us to believe that we can more than double our DataV pilots closed by the end of 2017. Given the size of our customers and their various capital investment requirements, the timing and recognition of revenue for these opportunities will vary.
+
+Finally, DataV, which was recently covered by Gartner Group in an IoT platform report as a solution focused on solving business problems, is performing well with existing customers. We continue to explore expansion opportunities with these customers. For all these reasons, we continue to invest in DataV sales, marketing, customer solution and R&D. In order to maximize our pipeline and ensure customer success, approximately two-thirds of the Bsquare team are currently focused on DataV.
+
+Now, let me turn to our traditional revenue drivers. With regard to our embedded software resale business and in line with expectations that have been regularly communicated in the past, our Microsoft Windows embedded business continues to soften from a top line perspective. As we have discussed, this was due to changes in Microsoft's distribution agreements. Fortunately, gross margins on this business were higher than anticipated, resulting in stronger bottom line contribution than we had forecasted. Our professional engineering services business remains profitable at lower revenue levels and continues to generate cash.
+
+Before turning the call over to Peter, I'd like to welcome a new member to the Bsquare board of directors, Bob DeSantis. Bob is currently Chief Operating Officer at Conga, a provider of enterprise SaaS solutions. Prior to serving as COO at Conga, Bob has had a very successful career as a Senior Sales Executive in enterprise software and SaaS offerings at IBM Blue Box and DocuSign. Bob brings tremendous value to the company and we look forward to working with him as a friend and colleague to grow the value of Bsquare.
+
+Now, I'd like to turn the call over to our CFO, Peter Biere, to address our financial performance in the second quarter.
+
+Thank you, Jerry. First, let's review our revenues for the second quarter. Our revenue during the second quarter totaled $18.8 million. In our last quarterly call, we expected Q2 revenues to be in the $18.5 million to $20 million range. And given the unknowns of early adopting new revenue recognition rules, we were within that range. We did not report material DataV revenue during the second quarter.
+
+Overall, revenue was down 17% from both $22.7 million in the second quarter of 2016 and sequentially from $22.8 million in this year's Q1. For the first half of 2017, revenue was $41.7 million, down $6.5 million or 13% from $48.2 million in the comparable 2016 period.
+
+I'll break down the changes by revenue grouping. Third-party software revenues totaled $15.5 million for the second quarter and were in line with our expectations. The year-over-year decline of 15% moderated during the second quarter, falling only 8% sequentially.
+
+We've been discussing changes in Microsoft's distribution policies – pricing and policies for the last several quarters. With the end of Microsoft's volume purchase programs on December 31, 2016, certain customers bought in additional product to lock in pricing during the fourth quarter, which has impacted levels of 2017 purchases for these customers.
+
+During the past two quarters, we've also seen increased competition for larger third-party software accounts, which were previously protected under our Microsoft agreements. A large part of the revenue decline comes from the loss of several of these accounts to very low margin competitors. We believe our third-party software business is finding its level. Overall, we're fighting hard to keep and grow our more profitable accounts as evidenced by relatively stable margins.
+
+Professional engineering service revenue totaled $2.9 million this quarter, 29% below the second quarter of 2016 and 16% lower than the sequential quarter. A year ago, we were completing a number of services contracts prior to our restructuring of this business, which explains the decline. Since Q3 of 2016, we began reporting DataV service revenues in this segment of our business. In quarter one 2017, we completed a couple of more significant service deliveries. In quarter two, we completed one pilot and delivered hosting services, all of which explain the sequential decrease.
+
+As you may be aware, we adopted new revenue recognition accounting rules or Topic 606 effective January 1, 2017. The new rules essentially clarify how we measure our various contract performance obligations and then determine the periods in which to recognize the revenue. We chose to early adopt these rules while DataV is in its infancy, and changing to start 2017 was more advantageous for us than waiting for 2018, which was the mandatory deadline for adoption. The switch to the new rules had little impact on our legacy software and services business, but materially affect our DataV contracts, which contain differing license types and multiple performance obligations.
+
+As a result of adopting Topic 606, we were able to recognize an incremental $2.8 million of DataV revenue during the first quarter of 2017, most of which came following PACCAR's acceptance of contract deliverables. Under the old rules, we would have had the spread PACCAR revenues over the life of the contract following their acceptance. During the second quarter, without significant software or service deliveries, our revenue for DataV totaled $270,000 under the new Topic 606 rules.
+
+Next, I'll turn to our gross profit and margins. Gross profit totaled $3.9 million in the second quarter or 21% of revenue, above our expected range of 16.8% to 18%. This improvement reflects our efforts to maintain margins from third-party software sales, as well as contribution from improved labor utilization rates.
+
+Gross profit dollars in quarter two were unchanged from the year ago quarter with contributions from higher service margins offsetting the impact of lower third-party software sales. Sequentially, gross profit and margin percentages are lower due to the effect of high margin DataV revenues recognized in quarter one.
+
+Gross profit and margin will continue to vary for sometime depending on our mix of DataV revenues, but you can certainly see from our quarter one results how margins will grow significantly when DataV begins to predominate our revenue stream.
+
+Next, I'll speak to operating expense and our bottom line results. Total operating expenses were $6.5 million this quarter, up from $4 million in quarter two of 2016, and from $6.2 million in quarter one of 2017. The sequential quarterly increase reflects additional investments in sales, marketing, and R&D personnel to grow DataV.
+
+Operating costs increased $2.5 million or 63% from the year ago quarter. As discussed each quarter, we're steadily investing in product development, sales, marketing, and customer support teams, all of which are critical for the success and scaling of DataV.
+
+We recorded net loss of $2.6 million or negative $0.20 per share for the second quarter of 2017 compared to a net loss of $185,000 or negative $0.02 per share in the year ago quarter. The sequential quarter showed net income of $202,000 or $0.02 per share, which included significant initial DataV revenues.
+
+Cash and investments totaled $27.3 million as of the end of June 30, 2017. Including profits from both of our legacy businesses, we invested a net amount of $5.9 million to grow our DataV business in the first two quarters of 2017. Our high-quality accounts receivable balance totaled $17.9 million at June 30, 2017, approximately half of which was from Honeywell.
+
+I'll next discuss several non-GAAP metrics that we'll be providing on a regular basis to help investors better understand our cash flows and DataV business. We use adjusted EBITDAS, defined as operating income before depreciation, amortization, and stock-based compensation, to monitor our ability to generate cash from the operations of our business. We use bookings, backlog and unbilled deferred revenue as non-GAAP measures we believe provide meaningful information related to our new DataV product sales, since revenue will often be recognized in different periods than those in which orders have been received or cash has been collected.
+
+Our adjusted EBITDAS was negative $2 million this quarter, down $2.3 million compared to a positive $282,000 in the year-ago quarter, and down $2.6 million compared to a positive $593,000 in quarter one of 2017. These changes were due to lower engineering services revenue and higher DataV expenses compared to last year. Several measures we're using to describe DataV include bookings, which is a non-GAAP measure defined as the value of new agreements we signed with customers. We recorded $473,000 in new DataV bookings during the second quarter of 2017. We collected approximately $1.5 million in cash from DataV contracts in the first half of 2017.
+
+Backlog is a non-GAAP measure defined as total bookings, less revenue recognized to-date, and was approximately $3.4 million at June 30, 2017, compared to $5.7 million at December 31 of 2016. Of the June 30 balance, $1.4 million is unbilled deferred revenue and $2 million is reflected on our balance sheet as deferred revenues.
+
+I'll now turn the call back to Jerry to provide an outlook for the third quarter and his closing remarks.
+
+Thank you, Peter. As noted in today's press release, we currently have the following expectations for Q3 2017. Revenue will be in the range of $18.5 million to $20 million. DataV revenue recognized in the quarter will not be significant, blended gross margin will be in the range of 19% to 21%. We successfully closed four paid pilots with new customers in the third quarter and expect additional pilots to close during the quarter.
+
+We will be working closely with customers to complete those pilots in timely manner as we believe this is a critical step to converting to production. We will report on progress towards conversion as well as any increased visibility on the timing and mix of SaaS and perpetual license revenue in subsequent calls. Commensurate with the success we are having in the market with DataV, we will be increasing our level of investment in Q3. Though we will incur losses for the near term, we expect cash flow from DataV, our traditional businesses, and cash on hand will be sufficient to fund these investments.
+
+Kathy, please open the call for questions.
+
+Thank you. [Operator Instructions] And it appears there are no questions at this time. I'd like turn the conference back over to Mr. Chase for any additional or closing remarks.
+
+Before concluding the call, on behalf of the entire Bsquare team, I'd like to thank our investors and our customers for your interest and for your business. We look forward to reporting back to you next quarter. Thank you for joining us.
+
+And this does conclude today's call. Thank you for your participation. You may now disconnect.

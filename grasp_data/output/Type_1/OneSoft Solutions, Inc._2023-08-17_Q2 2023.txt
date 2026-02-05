@@ -1,0 +1,308 @@
+Participants
+CORPORATE PARTICIPANTS
+R. Dwayne Kushniruk — Chief Executive Officer, OneSoft Solutions, Inc.
+Paul Douglas Johnston — Chief Financial Officer, OneSoft Solutions, Inc.
+Brandon Taylor — President & Chief Operating Officer, OneSoft Solutions, Inc.
+Sean Peasgood — President & Chief Executive Officer, Sophic Capital Inc.
+
+Management Discussion Section
+
+Question And Answer Section
+
+Good morning and thank you for joining us for OneSoft Solutions' Inaugural Financial Conference Call to discuss its Financial Results for the Second Quarter of 2023 ending June 30, 2023. On the call today, we have OneSoft's CEO, Dwayne Kushniruk; CFO, Paul Johnston; and President and COO, Brandon Taylor. During the call, all participants are in listen-only mode and the call is being recorded.
+
+Following the presentation, management will respond to questions, which you can submit any time during the call. To submit question, navigate to the lower section of the webcast frame where you'll see a form. Type your question there and press the button to submit. The questions you submit will not be visible to other participants.
+
+Before management discusses the results, I'd like to remind everyone that certain statements in this call may be forward-looking in nature. These include statements involving known and unknown risks, uncertainties and other factors that could cause actual results to differ materially from those expressed or implied in our forward-looking statements.
+
+For caveats about forward-looking statements and risk factors, please see OneSoft's MD&A for the quarter ended June 30, 2023 and for the fiscal year ended December 31, 2022, which can be accessed on the company's profile at SEDAR+ and on the company's website.
+
+I will now pass the call over to OneSoft's CEO, Dwayne Kushniruk.
+
+Good morning, and welcome to everyone on the call. I'm Dwayne Kushniruk, OneSoft's CEO. Since this is our first financial results conference call and because we have attendees who are new to OneSoft, I'm going to start by providing an overview of the company, what we do, our industry, some history and the progress we've made to date.
+
+Paul Johnston, OneSoft's CFO, will then review financial information, followed by Brandon Taylor, our President and CEO, who will discuss operational highlights. We'll wrap up the formal part of the presentation with our outlook for the remainder of fiscal 2023, and then we'll address investor questions.
+
+Note that we report in Canadian dollars, so all financial information presented is presented in Canadian dollars, unless otherwise stated.
+
+With that, I want to start by providing a high-level company and industry overview.
+
+OneSoft Solutions is a software company that uses cloud computing and machine learning to help oil and gas pipeline companies operationalize their data to increase safety and efficiencies, and to reduce risks and costs. Essentially, we help pipeline companies to manage their assets and realize their common objective of zero pipeline failures. Our mission is to predict pipeline failures, save lives, protect the environment with the assistance of data science and machine learning.
+
+By way of history, our current management team sold our last software company startup in 2014, and that company developed on-premise software applications. We paid most of the gain on sale out to our shareholders and reorganized our company in 2015 to pursue born in the cloud software-as-a-service or SaaS opportunities. OneSoft was one of nine companies selected from 721 candidates who applied to participate in Microsoft's first accelerator for data science and machine learning.
+
+One reason OneSoft was selected was because Microsoft was looking for companies that they thought could drive digital transformation and significant consumption of its Azure cloud platform by enterprise-level corporations. And OneSoft was chosen, the only company chosen for energy enterprise companies.
+
+So part of our team actually moved, lived and worked in Seattle for the first half of 2016, where they worked directly with the Microsoft teams who were tasked with rolling out Azure and Power BI, and the other components of Microsoft's new cloud platform. Our prototype SaaS solution, which we call Cognitive Integrity Management or CIM, was rolled out late in 2016. Phillips 66 signed on as our first customer in January of 2017, and they ran CIM in parallel with their in-house Oracle-based solution that they had developed as an on-premise application over the prior 16 years.
+
+By the end of 2017, so the end of the first year, Phillips had experienced the advantages of using cloud computing, machine learning, and they made the decision to proceed with replacing their in-house solution with CIM. They provided their software IP to our company, along with CAD 3 million of funding so that we could incorporate all of this comprehensive functionality that they had developed into CIM to operate on the Azure cloud platform.
+
+By the end of 2018, we were able to deliver SaaS functionality that really all pipeline companies need to operate their business, including advanced data analytics that we leverage with machine learning, and along with the capability to address regulatory compliance issues and all sorts of operational logistics.
+
+OneSoft today owns the IP to that cloud version of Phillips on-premise software, which is now fully embedded in our SaaS solution and used by all of our customers. Essentially, CIM contains cradle-to-grave functionality that all pipeline companies need to operate their businesses, so that integrity management, threat monitoring, data analytics and to handle operational logistics.
+
+We fast-forward to today and we now have 15 hallmark customers who use CIM. And this list, as you can see, is mostly Fortune 50, 100 and 500 companies. Our client list also includes two of the industry's super majors who both have international operations.
+
+It's worth noting that some of our customers have recently acquired other pipeline operators. I think in the last year, five such acquisitions have been announced. And what this will do, this actually serves to increase the pipeline mileage we have under contract and future revenues. We've also signed our first Australian and Canadian customers, and we are currently engaged with potential sales projects in several international markets.
+
+Management believes that we have a significant multiyear head start, and we're not aware of any other solution that has been commercialized to date worldwide that leverages cloud computing, machine learning and data science. Really, the only competition we encountered today are legacy systems and processes.
+
+We believe that our CIM platform has established a new de facto standard that leverages these technologies and reflects the next-generation solution for the industry.
+
+Our last capital raise was an CAD 8.1 million net financing that we did in April 2019, and we have since managed our cash very carefully. Our cash at the end of Q2 of 2023 was CAD 5 million, and the company's only debt is about CAD 350,000, which is remaining to be paid for an acquisition that we closed in 2022.
+
+I want to emphasize that OneSoft does not develop or operate or sell hardware or any devices. Our business is focused on building this cloud platform that automates the ingestion, the alignment and the analysis of various different data sets, regardless of where this data comes from and how it's collected. This is all data that pipeline operators need to manage and maintain their pipeline assets.
+
+I want to talk a little bit about the industry and the markets we are addressing. There are approximately 2.7 million miles of oil and gas pipelines in the United States, which represents about 60% of the global infrastructure. About 660,000 of these miles are inspected using devices called pipeline inspection gauges or PIGs in the industry vernacular. So these PIGs are inserted in the pipeline, and they collect data as they travel along the pipe using a variety of sensors that look for potential threats to failure.
+
+From the outset of our business, we decided to focus on US pipelines first because they are highly regulated. Regulators require that PIG runs be done at minimum every five years or seven years, depending on whether the pipelines transport liquid or gas.
+
+Legacy processes to maintain pipelines typically use on-premise software, and about 80% of the operators we've dealt with use Excel spreadsheets to store and analyze their pipeline data. We think this is disadvantageous for a number of reasons.
+
+Because on-premise computing can't easily accommodate big data, most of the data collected, and as much as 95% in some cases, is filtered out and not even considered for predictive analytics. Analysis is often limited to a single PIG data set with no efficient way to compare current and historic PIG data sets.
+
+Today, data is typically siloed at midstream pipeline operators and not easily accessible by all staff responsible for the various operational tests, i.e., the roles of the integrity and the risk and the corrosion and the crack and the geo-hazard personnel are typically not integrated, and data does not reside in a common database that multiple departments can use and access. This all contributes to a less accurate and much more time-consuming and costly data management and analysis, which negatively affects operational efficiencies.
+
+CIM, on the other hand, represents a revolutionary approach to pipeline and data management. So we harness the supercomputing power of Microsoft Azure cloud platform, which can easily handle big data and advanced data science. This allows us to ingest, align, track and analyze 100% of the data that has been collected and some of this goes back decades, which gives us more comprehensive and accurate analysis.
+
+CIM was designed to be vendor-agnostic, meaning that regardless of the source of the data, whether it comes from governments, things like soil types across the US, weather data, earthquake data or collected by PIG vendors, or other third-party devices or parties, things like SCADA, satellite, LiDAR.
+
+Our proprietary machine learning algorithms can automatically ingest, normalize and align all of this data into a single platform where it is analyzed essentially at the push of a button. Without such automation, data ingestion and alignment represents the bulk of the work effort required to manage and analyze data using legacy systems.
+
+With CIM, data is no longer siloed and is accessible in a central repository by all SMEs who need it, whether their roles involved integrity management, risk, corrosion, craft, geo-hazard, it doesn't matter. The long and short of it is, CIM provides greatly improved data management and thereby increases efficiencies and safety, while reducing operational costs.
+
+Hopefully, this provides new investors with a good sense of what we do and the market we are addressing.
+
+I would now like to pass the call to Paul Johnston, OneSoft's CFO, to review the company's Q2 2023 financial information. Paul?
+
+Thank you, Dwayne. I'm Paul Johnston, and I'm OneSoft's CFO. I will present the financial results for the periods ending June 30, 2023. I remind you that all figures reported are in Canadian dollars.
+
+Before highlighting the specific details of the quarterly financials, I first want to start by highlighting the progress OneSoft has made in growing revenues over the past several years. This chart illustrates Q2 was another solid quarter, with revenue up sequentially and year-over-year. We're extremely proud that we've been able to produce a compound annual growth rate of 74% over the last seven years and by 55% in fiscal 2022 over fiscal 2021.
+
+In Q2 2023, revenue was CAD 2.5 million and increased by CAD 1,165,000 or 87% over Q2 2022. The increase was driven by customers expanding their use of CIM by CAD 582,000 and by the acquisition of IM Operations on June 30, 2022, which contributed to revenue of CAD 521,000.
+
+Gross profit increased by CAD 989,000 or 109%. The increase was due to the higher sales volume and the moderation of direct costs, which allowed the gross margin to increase to 75.9% from 68%. Operating expenses net of cost capitalized increased by CAD 453,000. The company increased the number of staff since June 2022, and wage increases have been selectively granted.
+
+Higher attendance to trade shows and more visits to prospective and current customers increased expense. Higher professional fees related to the 2022 audit and the cost of withholding and sales tax study in a South American country also drove expense.
+
+Expenses capitalized and software development costs declined in the quarter as new product development slowed, with staff being more engaged on functionality requirements requested by existing customers.
+
+Other expenses increased CAD 111,000 due to higher stock compensation, amortization and foreign exchange loss. These were offset by higher interest income and a payment of CAD 37,500 to the company as a legal action the company conducted over the last two years related to a software license agreement was settled in the company's favor. The company also gained two patents in this action.
+
+Due to the much higher sales revenue and gross profit, the net loss reduced by CAD 426,000 or 43% from CAD 984,000 to CAD 558,000.
+
+I now draw your attention to the financial results for the six months ended June 30, 2023.
+
+Revenue increased by 80% to CAD 4.7 million from CAD 2.6 million in this period last year. Greater use of CIM by existing customers generated CAD 1.1 million of this increase and IM Operations contributed CAD 853,000. New customers added CAD 164,000 of revenue.
+
+Gross profit increased by 91% to CAD 3.5 million from CAD 1.8 million this period last year, driven by the higher sales volume and proportionately reduced direct costs. The gross margin rose to 73% of sales from 69% last year.
+
+Operating costs increased by CAD 709,000 or 21%. The cost was primarily attributable to the increase in staff complement, salary increases and higher accruals for year-end incentives. Higher trade show attendance and sales travel caused cost to increase. Higher accruals for professional fees for the annual audit and related issues also caused expense to rise.
+
+Expenses capitalized as software development decreased by CAD 109,000 in 2023 as staff were engaged with software enhancements demanded by our customers. The net loss decreased by 41% to CAD 1.2 million from CAD 2 million in this period last year. The higher sales revenue and gross margin were the primary factors causing the reduction in the net loss.
+
+Looking at our balance sheet, cash increased to CAD 5 million on June 30, 2023 due to improvements in the company's cash flow. Trade receivables increased by CAD 418,000 due to two customers. The company believes it will collect these accounts in Q3 2023 and reduce accounts receivable to more normal levels. The company's only debt was CAD 353,000 as at June 30, 2023 and was incurred to acquire IM Operations on June 30, 2022.
+
+Working capital at June 30, 2023 was CAD 864,000 versus CAD 1,429,000 as at December 31, 2022. The working capital reduction was primarily caused by the increase of CAD 1,670,000 in deferred revenue. Deferred revenue exists at OneSoft due to the company requiring its customers to pay the annual cost of their CIM contracts at the start of the contract fiscal year. We record the payment as deferred revenue and then gradually recognize it as earned revenue as the services stated in the CIM contract are delivered to the customer.
+
+The prepayment of contracts is a very good source of financing for the company. The table shows that in the six months ended June 30, 2023, the company received CAD 5.1 million in payments from its customers and CAD 3.4 million of services were delivered in the same period. The company believes its cash of CAD 5 million and accounts receivable of CAD 711,000 and expected future cash receipts are sufficient to finance company operations, and there will be no need to incur additional financing unless a special situation such as an acquisition or merger opportunity were to arise.
+
+On this slide, we're showing our adjusted EBITDA. This is a regulatory requirement that we give prominence to or that we show the composition of our non-GAAP figures compared to GAAP figures. So we present this for your information. Now, moving to our guidance for 2023, we are reiterating our guidance for 2023 and continue to forecast revenue to be CAD 10.1 million, up 47% year-over-year. We anticipate the loss to be CAD 1,297 million and adjusted EBITDA loss is forecast at CAD 28,000. Please refer to our Q2 2023 Interim Financial Statements and Management's Discussion and Analysis published on SEDAR for more information.
+
+This concludes my overview of the financial results. I will now turn the meeting over to Brandon Taylor, President and COO of OneSoft, for operational remarks.
+
+Thanks, Paul, and welcome, everyone. As Paul mentioned, I'm Brandon Taylor, the President and COO of OneSoft. I'd like to go into more detail and explain some of the new additions that we added in the recent released MD&A, and also I'd like to give everyone a general update just on operations.
+
+One of the metrics that we use to measure success here at OneSoft is the number of miles under subscription. In our January guidance, we included miles under subscription and miles currently generating revenue. We use this internally as well as investors have given us feedback that it kind of helps them kind of understand where we're headed. This quarter, we added another line item, miles operated by customers, and as I go through my section here, I'll explain why that's going to be important.
+
+So the 2.7 million total miles in the US that Dwayne mentioned, this represent the total miles operated by our customers. So if you look at kind of where we are today, we have roughly 17% of the piggable miles and 7% of the total miles in the US. In July, subsequent to the quarter end, we announced the addition of another customer which is going to add another 18,000 miles, 16% increase to our miles under subscription. We plan to continue to release these three metrics for investors to follow our overall progress. And it's important on the total operated miles as we get into different modules, kind of from a TAM perspective.
+
+In past M&DAs, for those new to the company, we published, if you're familiar, Geoffrey Moore's Crossing the Chasm. We use this model as both kind of a measurement on where we are in our journey, as well as to help kind of facilitate and communicate that to the investor community. In May, we held strategic planning sessions where we developed a strategy to market and sell into the bowling alley stage as part of that early majority customers.
+
+During our sessions, we stack ranked all of our modules represented as these bowling pins in this diagram to basically help evolve CIM into that whole solution, which is what we're going to need as we kind of go through tornado and to early and late majority. And I'll detail those modules in more detail on the next slide, but our objective was to rank these by total revenue opportunity, the time to that revenue which is super important, and development effort.
+
+As well, we transitioned our marketing and sales business processes to focus more on the economic buyer. Very strong emphasis on ROIs, the compelling reason to buy as presented within this model. And as such, we just finished a financial ROI and cost savings calculator that's pretty sophisticated with enough historical background from existing customers to project sale and calculates net present value, internal rate of return, modified rate of return, et cetera, and overall cost savings from the prospect's current operating stat.
+
+As Dwayne mentioned, 80% of our prospects that we've seen historically are running Excel and outsourcing work, so it helps them understand how CIM, Cognitive Integrity Management's going to save them money. We plan to use this through the entire sales process going forward. We've also streamlined our internal marketing and sale business processes. We built new tools, a lot of back-end stuff related to CRM, refreshed our collateral to showcase that market share within the industry, application proliferation, and just the general trend among industry that CIM is – the adoption of CIM [ph] as (00:26:24) their standard integrity management solution.
+
+And then finally on this slide, I thought I would mention that our relationship with Microsoft, Dwayne alluded to at the beginning as coming out of accelerator, we consider them a very significant key vertical partner, is gaining mindshare within that organization. They've recently built up their energy sales team and they've designated OneSoft as their go-to for midstream pipeline operators and are actively bringing us into more deals at the CIO and SVP level.
+
+A little bit about our modules, and I'll focus here, these are Moore's kind of bowling pins around this whole solution. These are the ones that we're actively working on and the objective here is to single-source this for vendors for all functionality that pipeline operators need. And today, I'm just going to touch on the areas that we are already in market with or close to launching. We've provided updates on all of these in our MD&A and encourage you to read through those. We're continuing to enhance core CIM for both existing customers and during onboarding process for new customers.
+
+These are Fortune 50, 100, 500 enterprise companies, big implementations. Lots of recent development effort has been focused on integrations with their other systems such as SAP, et cetera. When done with those, we expect that the work that we do there can be applied to other customers, which will increase our stickiness and just our continued competitive moat as we keep expanding.
+
+Regarding internal Corrosion, we launched this last June and have now two customers with orders out to a few others. And work is being done on the new ROI model that I mentioned. Specific to this module, customers are actually helping us build out that ROI model to help basically support their internal business case that they take to management. Crack Management has been slated to launch in H2 of this year.
+
+Important note there is in May we signed a technology sharing agreement with Ted Anderson. He's a well-recognized expert who sits on lots of industry committees that publish the latest standards around pipeline cracks, which is the unique problem in the industry. That work is actually going into CIM with the initial launch focused on the larger operators who run these PIGs, these tools that are specific to finding cracks. Due to time, I'll let you read about external corrosion, risk management and bending strain in the MD&A.
+
+To ensure that we deliver on this road map, which has become very apparent in our strategic planning sessions and looked at that, we filled all the positions which included a product manager, a developer and an account executive. These have – included in our budget, and as Paul mentioned, we are still on track to achieve the guidance we provided in January.
+
+And finally, I thought I would touch on – we've included this slide as we get a lot of interest from investors related to AI. It seems to be the topic so we provided more information on this in the MD&A but I'm going to briefly summarize kind of where we are. The reality for us is that AI is at infancy around data today. And particularly in this industry, if you look at how we go through implementation, a lot of these pipeline offers use an Excel and PDFs and data is in different various states. But we see this as a significant opportunity to leverage this in our solutions in the future. It's just going to require a lot of incorporation of lots of different type of datasets. We're very streamlined on the PIG data which I call in-line inspection, 7,000, 8,000 different in-line inspections, but we need lots of other types of datasets to access these opportunities.
+
+And we believe that's going to start happening as we roll out additional modules. As an example, when we launched Internal Corrosion, we're now able to gather – or, sorry, ingest coupon which they put on the pipeline. That would be the chemicals that they inject into the pipeline, and sampling data which will be aligned to all of our other datasets. That'll help us basically leverage that in an AI to improve our predictive analytics.
+
+This is why we believe for now, it's super important for us to build out that whole solution on the items that we've noted here, and at that point, AI would be beneficial to our customers. And we think it going to be a very significant and unique differentiator regarding it with the just large and continuing increasing amount of data. For those new to the story, what OneSoft is doing with the industry is pretty unique. There's not another vendor where operators across horizontally integrity management have given a vendor such as OneSoft into a solution their data.
+
+So we're aggregating that across, as Dwayne showed, 15. And as they acquire new customers, as an example since news hit, Energy Transfer just acquired Crestwood, right? So lots of activity happened in the industry there. We believe that this is going to help us pursue those AI opportunities. And Microsoft, being OpenAI on their platform, we'll be able to leverage that.
+
+Finally, before I wrap up and turn this back to Dwayne, I wanted to mention that we're holding our inaugural User Group event the first week in October. Kind of we're expecting 60 users from our customers to join us at the Microsoft Technology Center in Houston. I will hold in-depth working sessions on each of the functionalities in CIM, breakout sessions on new modules to help kind of further advance these towards commercial launch. We're setting up a steering committee for the first time, kind of the Director and VP level within this customer base to make sure that our road maps are aligned to where they need to head strategically and where they have budget and all of that.
+
+So we're looking very much forward to that, and I'll have more information on the outcomes of that in future calls. Again, thank you for joining. I'll now hand it back to Dwayne to wrap up.
+
+Thanks, Brandon. So, looking ahead, we believe that we are very well positioned.
+
+We have a leading solution in the market, and word is spreading that CIM can save money and help to eliminate pipeline failures. Given the way that customers are onboarded, we have real good visibility regarding anticipated growth over the next few years with our existing and new customers that we expect to onboard onto CIM.
+
+Management's optimism is based on the organic growth of existing customers, we know they're going to increase their use of CIM as they continue to onboard their pipeline miles over the next few years, and increased use by our customers who are acquiring more pipeline assets. And also we're confident that many new customers will be brought on in both the US and global markets based on sales situations we're currently involved in.
+
+I'm going to wrap it up. I'd like to thank everyone for taking the time to tune in today for our first quarterly conference call. I'm now going to pass the call back to the operator to start the Q&A session.
+
+Thank you, Dwayne. [Operator Instructions] If the allotted time is insufficient to respond to all questions, management will follow up by email in the coming days. I would now like to have the floor to Sean Peasgood who will moderate the Q&A session. Sean?
+
+Thank you, Dwayne, Paul and Brandon. We have a lot of questions here, so thanks, everyone, for submitting questions throughout the call. We'll try to get to all of them, but as the operator suggested, if we don't, we will get back to you via email. So we'll start going through these.
+
+The first question, in the MD&A, you mentioned your customers, Phillips 66, Energy Transfer and ExxonMobil have made four acquisitions and their miles will be onboarded to CIM. Denbury provides CO2 pipeline miles. Does this imply that CO2 miles or hydrogen would be addressed by CIM and PIGs? Additionally, Energy Transfer recently acquired Crestwood. Do you anticipate them being onboarded as well?
+
+Brandon, would you like to take that?
+
+Yeah, sure. So on the question about CO2, as long as the pipeline operator runs these PIGs, these in-line inspection tools, then that's applicable to the solution. That's basically the benchmark and which we use. And they will run that to inspect the condition of the pipe and probably more frequently just from the perspective that CO2 and hydrogen are much more invasive on certain pipes.
+
+So, yes, they'll – [ph] will (00:36:34) get mileage from that and they'll start using CIM to basically inspect the pipe. Regarding Crestwood, yes, Energy Transfer has, in their previous acquisitions, they just brought them into their integrity group and started loading their miles both from an Enable and Centurion perspective. We would expect the same thing with Crestwood when that deal closes. They've announced it, but as you know, these things take time, so it will take them time to get through that process.
+
+There's another question about customers. Are the miles from the four new pipeline operators acquired by OneSoft existing customers incorporated into the updated KPIs yet?
+
+I'm not sure I understand the question. Can you repeat that, sorry?
+
+Yes. So the miles from the four new pipeline operators acquired, so through the acquisitions, are they incorporated into the updated KPIs yet?
+
+Yes. Those miles are reported as at June 30. And those are – I want to point out, those are estimates, those vary on a daily basis, but that's sort of a snapshot of where it was at June 30.
+
+If 18,000 miles were added as under subscription from the new customer, can you talk about how much is operated by this customer? What's the total figure?
+
+Brandon... [indiscernible]
+
+(00:38:17)
+
+...it was around – yeah, I think it was around 73,000 miles.
+
+Okay. Perfect.
+
+I would point out that, that would be their mileage in several countries. And typically, a company like this will onboard one region at a time. So we don't want anyone to have a misconception that we're going to be dealing with another 73,000 miles overnight, that'll take some time.
+
+Okay. Moving on to the new modules, what kind of difference will it make having Risk Management, Corrosion and Crack commercially available? Do you foresee most of your current clients embracing these modules? And then as a follow-up, can you make any comments around how this would increase the TAM?
+
+Sure. I'll start and then I'm going to pass this to Brandon. So, I think it's important to understand, when we started this company in 2016, when we started writing our prototype product, it was essentially Brandon and Tim and a few of our key developers got together in a room and basically spec'd out what we thought the CIM platform should be.
+
+What's different with these new modules that we're developing now is the input and the feedback is all being driven by our customers. So, it's not – we're far beyond where we were in 2016 where we had an idea that we wanted to build hoping we could sell it. I think the thing has turned 180 degrees and we now have our customers telling us, yeah, we also need that, we also need that.
+
+Any meeting we go to with our customers, if we're meeting the integrity team on the 11th floor, they're going to say, oh, we got to take you up to the 13th floor because geohazard strain people want to talk to you and so on. So, we're in a different situation today and very opportunistic for us because our customers are telling us what they want and what they're going to adopt.
+
+That also goes back to the user conference that Brandon referenced in October. It's really a working conference. What do these customers need, they're going to help us provide the input and feedback for where we need to go. And we're pretty confident that anything we're building today, it's not built on spec, it's built to fulfill a known need. We're very transparent with our customers, we're figuring out how to price this and so on. Brandon, do you have anything to add to that? You're on the firing...
+
+Yeah, sure.
+
+...line there with customers.
+
+Right. So to Dwayne's point, right, we're a customer-driven organization from a road map. So we used to have H1, H2 roundtable meetings. We've evolved to where we've got enough functionality across different departments within an integrity team that we're now at the steering committee level to help them kind of drive that. So we meet with them to help basically stack rank with us on this is important, this is where I'm getting pressure from regulators. All of that happens.
+
+The question on what the impact is, do we anticipate that we build this, they're still selling. That has to happen on each new module. You got to remember, 80% of these people are running Excel, this is new to them. And there's really three things that we've kind of concluded in the industry, is that help them reduce the risk, which CIM does, we got to be able to quantify that; save them money, hence why we're in that stage where we are now about financial cost savings and we're building those models, and we're doing that on each new module as well.
+
+So it's super important that we continue to do that and then help them generate revenue that at some point, we would like to be able to show them that they can increase pressure, run the pipeline longer, all of that kind of stuff would be kind of the third [ph] quadrant (00:43:02) on that. We anticipate that they're going to adopt. We have customers now that are adopting Internal Corrosion. It never goes as fast as we want it to go but they are adopting. They're actually working with us to help build those internal use cases.
+
+Should be noted that our ROI model, and customer gave us theirs as kind of the baseline to help start that process, we've since vetted it with a couple, so that's the kind of collaboration we're getting with these customers. They want us, they just got to build their internal use case for it. And then the biggest thing is just about change, right, so process. These are big Fortune 500 companies. We're a small company, we do it much more agile. They don't. It's like moving Titanics in some cases. But once they make the change, they make the change.
+
+So, we're very encouraged by what we see. Crack is exciting from that perspective. These are road maps that have multiple phases. We're very disciplined in how we do what we call minimally viable, get to a license point and then we go Phase 1, 2 through et cetera. Crack is an example I'll use on this call. Our initial release will be about what they call pressure cycle fatigue analysis, and that'll be around operators that run these crack tools.
+
+Now, smaller operators that we have, customers, they actually don't run crack tools, they just need to do pressure. That's going to be Phase 2. So there'll be adoption when we get to that, until we get to this whole solution. So we've got revenue all the way marked now through each one of those phases, just increments on the consumption economic model. Hope that answered the question.
+
+That's great, thanks. It covered also a couple other questions, just – so it actually helped me eliminate a couple. So I guess the next one here is talking about how you're going to be spending in the second half. Will the additions and enhancements be focused on Crack, Corrosion and Risk, or are there new modules that you've decided to develop? Just trying to understand kind of second half spending on R&D.
+
+So the order in the deck that we went through those, that's the order that they have been stack ranked from our strategic meetings. And that was again focused on total revenue, that's the TAM opportunity that we see within our customers; the time to that revenue; and effort. So Internal Corrosion's out. The sales teams are actively positioning that, building ROIs, selling, getting data, doing private previews, et cetera.
+
+Crack Management is next on what we're calling Level 2. And then external corrosion is a quite large opportunity, has its unique challenges and there's a hardware component which OneBridge – or OneSoft does not do, as Dwayne mentioned, right, so we got interfaces we need to do there. But that one is probably one of the larger TAM opportunities.
+
+Risk Management is we have that probability of failure done, we're in private preview with customers. This is an industry shift, so this one's larger just from a change management perspective. For years, they've been doing [ph] qualitative (00:46:20) risk assessment. PHMSA who is a regulator under Department of Transportation, Pipeline Hazardous Safety Materials Agency (sic) [Pipeline and Hazardous Materials Safety Administration] (00:46:27), they've actually given guidance that operators need to move to a more probabilistic risk model and more actionable.
+
+So we're in private preview with customers, but it's a change through that process. We think we've got what we need to do from an action, we just need to finalize that. And one of the reasons that we kind of looked at hires is to kind of make sure that we can stay focused on product, because again we have large implementations going on and every implementation churn is a super important thing for us. We want to make sure that today, all of our customers are referenceable, small industry, lots of – they talk to each other pretty frequently at all these various conferences.
+
+We want to make sure, in our last deal, give them reference – every one of them is referenceable, right? So we got to make sure that we maintain that. So there's the balance, as always, to success product, success product, that's what we're really trying to manage here. And then, bending strain geohazards, we have MVP defined. We're testing that at the User Group Conference to find out where that is and to see where that goes.
+
+So probably where we are on those, and as I mentioned, you can talk – or look at the MD&A, we've given pretty good guidance on where – status on where these are. Dwayne, I don't know if I missed anything.
+
+No, I think that's good.
+
+You mentioned – that's great, that was really great. You mentioned PHMSA, and so the next question was just can you shed some color on how the new rules, regulations from PHMSA will help your business? And I know you define the acronym for everybody, so maybe just one sentence on who PHMSA is again and then how these new rules and regulations may help you?
+
+Yeah. So this industry specifically in the US, not true globally, but in the US under the Department of Transportation, the Pipeline Hazardous Safety Materials Agency (sic) [Pipeline and Hazardous Materials Safety Administration] (00:48:30) is who regulates. So Dwayne said that pipeline operators, if you're liquid, have to run these tools every five years, gas every seven, it's those regulations that are the guiding principle behind that.
+
+Lots of things in the news related today, as an example, and all of these modules that we're building at some point in the past, if something happen to a pipeline, PHMSA said, you must have a risk package. And they spun up this legacy package that you must do external corrosion, monitor coupons, spun up a team that does that. Today, kind of the thing that's happening is that, oh, we've had geo-hazard stream locations. You must look at geo-hazards. So they haven't created regulations around geo-hazards, but they have given guidance.
+
+As operators function, they tell us, right, that, okay, it's pretty clear, don't be the next guy. So they got to do something about it. They know it, even though they may not be happy about it. PHMSA is kind of driving that and they're going to run with the [indiscernible] (00:49:36) as one of our [indiscernible] (00:49:37) integrity tells us, right? So that's basically – and we're doing this in order again for us mostly about total TAM, time to that revenue, and the effort involved because none of these are super easy.
+
+I would just add... [indiscernible]
+
+(00:49:58) questions, but go ahead. Sorry, Dwayne.
+
+Sorry. I would just add regarding PHMSA, looking at the situation from 60,000 feet here, PHMSA operates under the Department of Transportation in the US. The Department of Transportation also governs the FAA, all airlines' operational control. And about 30 years ago, the FAA was tasked with figuring out how to make airline travel safer. And the way that was done was essentially through better management of data.
+
+If you hop on a smoker to fly from here to wherever, as you're sitting there enjoying your glass of wine, there's data that's being transmitted on a real-time basis, showing somebody in the Pratt & Whitney office in England what the temperature of this bearing is. And it's data management that has increased safety. And that same process is really being applied to pipeline operators. So that analogy might be helpful to understand sort of the bigger picture of why this data management is so important.
+
+Great. Thanks. Okay. So moving on here outside of the US, I'd be interested in an update on your process of selecting value-added distribution partners in Europe, and what about the Middle East? Seems like a great area for you to expand.
+
+Yes.
+
+Dwayne?
+
+We're drawing on a lot of our experience from our prior software companies. Our last company, where this management team was involved in, we were selling our products internationally. And we're very familiar with what it takes to build a reseller channel and manage that channel. And the reality is that 10% of your channel will do 90% of the business. That's just been the case in this industry, in the software industry forever.
+
+Because we don't have daily control over what our partners are doing, their priorities don't necessarily match ours. Our priority is to get CIM them out there as much and as quickly as possible. All that being said, we're not really blowing our brains out here trying to add partners because that's a tough way to do business where you don't have a lot of control.
+
+And what we're doing is waiting for these partners who already have these relationships with customers to come to us and Brandon, maybe just explain how every new sale that we do, we end up displacing a bunch of potential partners who are still providing legacy services. Just to talk about that for a little bit.
+
+Yeah. So up to this point, given that there aren't software solutions per se that – and specifically SaaS ones, a lot of the work that's being done in industry today is through engineering firms. So engineers work at a pipeline operator, they spin out and start a third-party service and they provide that services engineering.
+
+What Dwayne speaking to is they run these tools, they give it to an engineering firm. Either – if they don't have them in-house, engineering firm does analysis, give them back results. When they implement CIM, we replace that work. And we've been very disruptive.
+
+One of the reasons Microsoft wanted us to get into this industry is the disruption, Uber to taxi kind of concept that's happening. We can go through case studies and what we've seen from other vendors that we've kind of pushed to the side in engineering firms.
+
+In relation to kind of the global rollout, I was at a conference earlier this year in Berlin, they have – whole objective was that to look for these partners and what the opportunity is in Europe. So we agree. As Dwayne said, we've done this in the past.
+
+And there's really two things that it comes down to as local because of time zones and language. Those are important things. So, we'll make sure we get the right partner as we do that and those conversation, we'll look to continue to have. We've met some, we'll see where they go.
+
+The same opportunities in [ph] LATAM (00:54:51). We believe that one maybe even more beneficial. Europe is a little fragmented country-by-country and specifically the regulations.
+
+Middle East is unique to us. We've had many conversations with Microsoft who's really embedded in there. The challenge in the Middle East is lots of countries have what they call in-country-only data and what that means for us is a SaaS solution, is that they have to have a Microsoft datacenter in their country as the data can't leave the country. Saudi Arabia is an example of that. So it's fortunate that Microsoft is actually building a datacenter in Saudi Arabia, so future opportunities can open up there, right?
+
+So we've got our finger on the [ph] pulse (00:55:33) internationally. What was really interesting around the Berlin conference is that we've met vendors there. We showed up in a booth and they said, oh, OneSoft here. The conqueror is what they called us. So we kind of got a laugh out of that. So we're known worldwide. What we're doing in the US is very significant just because of the volume of pipelines in the US.
+
+Okay. We have about five minutes here and I've got two questions. We've got Paul. We're going to get to – there are numbers that we'll have to get back to people, which we will.
+
+This one's on capital allocation. As you anticipate being [indiscernible] (00:56:11) on a run rate basis in couple quarters or in the future, what do you intend to do with free cash flow? Do you anticipate M&A? Would you keep the cash on the balance sheet or do you anticipate returning capital to shareholders as you grow?
+
+I have – that's not been our focus. I don't have an answer for that. Paul, do you want to take that?
+
+What I would participate that the company would do is we're focused on growth. And we'll continue to build new products, look for new markets to enter, etcetera, and all of which will require cash. And so, therefore, I think our first priority would be reinvest into the business to make the business grow, which we would hope would translate into a positive effect on the share price, etcetera.
+
+So what I heard in that question is, are we going to pay dividends. And I would say in the foreseeable future, the answer to that would be no, that we're going to consume the cash, internally building the company. It'd be great if we long – over a much longer haul, if we could get into becoming a dividend-paying company, but we'd not see that in short and medium term.
+
+Yeah. I would add to that, that we're very much at the beginning of our journey. Still early stages. So, it's difficult to predict where this is going to go.
+
+We know we're building value. We also know that this management team in our last software startup, we had a nice gain on sale. And what we did prior to starting this OneBridge business starting CIM, we took most of the gain of sale and paid that back to our shareholders in the form of a special dividend and return of capital. And I think everybody was pleasantly surprised at that happening. We kept a couple of million dollars back to start this business.
+
+So, we're all strong shareholders in this company. So, we're very much on the same page as investors are. That is our management team and our board. So, we'll have to wait to see what happens, Sean.
+
+Okay. Okay, well, last one here. Is it possible for your technology to be applied to other sectors other than pipeline such as waste management or water pipelines?
+
+The short answer is we don't have a lot of time. The short answer is yes. We have, in fact, analyzed PIG data from water lines and – but there's a whole new set of challenges that we would have to address moving to water and sewer, not the least of which is municipalities don't have the same ability to write checks as oil and gas pipeline operators do. So that's something down the road that we've done a little bit of research to date, a little bit of market research, and that's something we will likely get back to at some point in the future. But the reality is today, we have so much opportunity with our existing customers and customers who are on the cusp of coming in. This is where we're directing all of our attention and resources.
+
+Okay. Great. Yeah, I know that's pretty loaded question for the end here.
+
+All right. Well, that will be the last question for the call today. I'd like to thank everybody again for submitting questions. We did not get to them all. We're going to download them and make sure we email people back. So we will get back in touch with you if your question didn't get answered.
+
+If you think of any other questions after the call or we've left anything unanswered, please feel free to reach out to us using the contact information on the screen in front of you, and we'll get back to you as soon as we can.
+
+I'll now pass the call back to management for closing remarks.
+
+Well, I think we're done. Thanks, everyone, for taking time to join the call today and following our progress. We look forward to continuing these quarterly calls to share information, share updates with you. So have a great rest of your day and week, and I'll turn this back to the operator.
+
+Thank you. This concludes OneSoft International's (sic) [OneSoft Solutions'] (01:00:59) Q2 2023 conference call. We thank you for joining us.

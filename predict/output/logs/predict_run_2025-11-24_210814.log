@@ -1,0 +1,43 @@
+nohup: ignoring input
+[Paths]
+  IN_DIR : /home/ubuntu/project/identification/output
+  OUT_DIR: /home/ubuntu/project/predict/output
+  LOG_DIR: /home/ubuntu/project/predict/output/logs
+  VERIF  : /home/ubuntu/project/predict/output/verification
+  A_MIJ  : /home/ubuntu/project/identification/output/a_mij__sentence_ctx.csv
+  SENT   : /home/ubuntu/project/identification/output/sentences_scored_llm_ctx.csv
+[JSON]  /home/ubuntu/project/predict/output/logs/selfcheck_inputs.json
+[SELF-CHECK][inputs] {'a_mij_company_count': 192, 'sentences_company_count_total': 192, 'sentences_company_count_by_z': {1: 81, 2: 95, 3: 16}, 'companies_intersection': 192, 'companies_union': 192}
+[WRITE] /home/ubuntu/project/predict/output/logs/a_mij_clean.csv rows=3528
+[WRITE] /home/ubuntu/project/predict/output/logs/s_ijz_pool.csv rows=144
+[WRITE] /home/ubuntu/project/predict/output/logs/s_m_ijz_agg.csv rows=34300
+[WRITE] /home/ubuntu/project/predict/output/logs/labels_y.csv rows=192
+[WRITE] /home/ubuntu/project/predict/output/logs/fijz_logratio.csv rows=144
+[WRITE] /home/ubuntu/project/predict/output/logs/features_X_base.csv rows=192
+[WRITE] /home/ubuntu/project/predict/output/logs/features_prior.csv rows=192
+[WRITE] /home/ubuntu/project/predict/output/logs/features_full.csv rows=192
+[JSON]  /home/ubuntu/project/predict/output/logs/split_meta.json
+[SPLIT] train=154 companies, val=38 companies
+[WRITE] /home/ubuntu/project/predict/output/verification/preds_train_lgbm.csv rows=154
+[WRITE] /home/ubuntu/project/predict/output/verification/preds_val_lgbm.csv rows=38
+[JSON]  /home/ubuntu/project/predict/output/verification/best_thresholds_lgbm.json
+Traceback (most recent call last):
+  File "/home/ubuntu/project/predict/risk_predictor.py", line 941, in <module>
+    main()
+  File "/home/ubuntu/project/predict/risk_predictor.py", line 831, in main
+    metrics_lgb = enrich_discriminative_metrics(metrics_lgb, y_va, prob_va, pred_va_th)
+  File "/home/ubuntu/project/predict/risk_predictor.py", line 529, in enrich_discriminative_metrics
+    recs  = recalls_per_class(y_true, preds_thresh)
+  File "/home/ubuntu/project/predict/risk_predictor.py", line 513, in recalls_per_class
+    recs.append(recall_score(y_true, (preds==z).astype(int), pos_label=1,
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/sklearn/utils/_param_validation.py", line 218, in wrapper
+    return func(*args, **kwargs)
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/sklearn/metrics/_classification.py", line 2706, in recall_score
+    _, r, _, _ = precision_recall_fscore_support(
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/sklearn/utils/_param_validation.py", line 191, in wrapper
+    return func(*args, **kwargs)
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/sklearn/metrics/_classification.py", line 1996, in precision_recall_fscore_support
+    labels = _check_set_wise_labels(y_true, y_pred, average, labels, pos_label)
+  File "/home/ubuntu/.local/lib/python3.10/site-packages/sklearn/metrics/_classification.py", line 1779, in _check_set_wise_labels
+    raise ValueError(
+ValueError: Target is multiclass but average='binary'. Please choose another average setting, one of [None, 'micro', 'macro', 'weighted'].

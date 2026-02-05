@@ -1,0 +1,2305 @@
+company_id,risk_bucket,z_label,C_prob
+ACE Aviation Holdings,risk_constraint,1,0.0009085298312671607
+ACE Aviation Holdings,risk_constraint,2,-0.0050261300816153
+ACE Aviation Holdings,risk_constraint,3,0.0022708874286666613
+ACE Aviation Holdings,risk_external,1,-0.009198979140308991
+ACE Aviation Holdings,risk_external,2,0.02431158358765597
+ACE Aviation Holdings,risk_external,3,-0.00264747348468184
+ACE Aviation Holdings,risk_legal,1,0.002091032884210685
+ACE Aviation Holdings,risk_legal,2,-0.008708066210450494
+ACE Aviation Holdings,risk_legal,3,0.003037396852091307
+ACE Aviation Holdings,risk_uncertainty,1,0.0009191738258982011
+ACE Aviation Holdings,risk_uncertainty,2,-0.004311698602935601
+ACE Aviation Holdings,risk_uncertainty,3,0.001705530258235988
+AG&E Holdings,risk_constraint,1,0.00562006682069252
+AG&E Holdings,risk_constraint,2,-0.011112511281250964
+AG&E Holdings,risk_constraint,3,0.008803655238374397
+AG&E Holdings,risk_external,1,0.028931257653262422
+AG&E Holdings,risk_external,2,0.003238094050450033
+AG&E Holdings,risk_external,3,-0.027930841327648122
+AG&E Holdings,risk_legal,1,-0.005341807800190608
+AG&E Holdings,risk_legal,2,-0.0049459603680935375
+AG&E Holdings,risk_legal,3,0.010426472828871191
+AG&E Holdings,risk_uncertainty,1,0.0038755422155642865
+AG&E Holdings,risk_uncertainty,2,-0.007714369210009627
+AG&E Holdings,risk_uncertainty,3,0.006133073020092297
+Acorda Therapeutics,risk_constraint,1,-0.006783587251030018
+Acorda Therapeutics,risk_constraint,2,-0.004239025435277923
+Acorda Therapeutics,risk_constraint,3,0.00955718735876812
+Acorda Therapeutics,risk_external,1,0.03454803432384313
+Acorda Therapeutics,risk_external,2,0.0021585804368327195
+Acorda Therapeutics,risk_external,3,-0.02960659389783773
+Acorda Therapeutics,risk_legal,1,0.004442845571259203
+Acorda Therapeutics,risk_legal,2,-0.007484002472577526
+Acorda Therapeutics,risk_legal,3,0.003809120670694722
+Acorda Therapeutics,risk_uncertainty,1,-0.0037495898818845864
+Acorda Therapeutics,risk_uncertainty,2,-0.005071448648973638
+Acorda Therapeutics,risk_uncertainty,3,0.007960030082483874
+Activision Blizzard,risk_constraint,1,0.0011283272248406228
+Activision Blizzard,risk_constraint,2,-0.007309356438404516
+Activision Blizzard,risk_constraint,3,0.0036326099990597305
+Activision Blizzard,risk_external,1,-0.009383948834591316
+Activision Blizzard,risk_external,2,0.030739890972070222
+Activision Blizzard,risk_external,3,-0.006975097481520801
+Activision Blizzard,risk_legal,1,0.0026318607541438756
+Activision Blizzard,risk_legal,2,-0.016994196555906605
+Activision Blizzard,risk_legal,3,0.008430561411794591
+Activision Blizzard,risk_uncertainty,1,-0.0012867756325358223
+Activision Blizzard,risk_uncertainty,2,-7.235147031187583e-05
+Activision Blizzard,risk_uncertainty,3,0.0023589283146817743
+Airspan Networks Holdings,risk_constraint,1,0.0019219440938335148
+Airspan Networks Holdings,risk_constraint,2,-0.0003128943416767971
+Airspan Networks Holdings,risk_constraint,3,-0.0014412440427159486
+Airspan Networks Holdings,risk_external,1,0.008763123205735145
+Airspan Networks Holdings,risk_external,2,-0.009497320976891179
+Airspan Networks Holdings,risk_external,3,0.0008702196967997371
+Airspan Networks Holdings,risk_legal,1,-0.010510772692234481
+Airspan Networks Holdings,risk_legal,2,0.007639487663359093
+Airspan Networks Holdings,risk_legal,3,0.0024156838926575894
+Airspan Networks Holdings,risk_uncertainty,1,0.0005334676977612553
+Airspan Networks Holdings,risk_uncertainty,2,-0.0009657060082001357
+Airspan Networks Holdings,risk_uncertainty,3,0.0004103107940890882
+Allkem Ltd.,risk_constraint,1,0.02022467711209383
+Allkem Ltd.,risk_constraint,2,-0.006924964975960396
+Allkem Ltd.,risk_constraint,3,-0.009533108028491027
+Allkem Ltd.,risk_external,1,-0.01839766756146096
+Allkem Ltd.,risk_external,2,0.022752210526538315
+Allkem Ltd.,risk_external,3,-0.004328123869946115
+Allkem Ltd.,risk_legal,1,0.02761886938577949
+Allkem Ltd.,risk_legal,2,-0.010202710977067722
+Allkem Ltd.,risk_legal,3,-0.012429020893605355
+Allkem Ltd.,risk_uncertainty,1,0.009513857520638023
+Allkem Ltd.,risk_uncertainty,2,0.0008551502412264224
+Allkem Ltd.,risk_uncertainty,3,-0.0077340778476861155
+AmericanWest Bancorporation,risk_constraint,1,-0.00093645322558477
+AmericanWest Bancorporation,risk_constraint,2,0.0027912884822086973
+AmericanWest Bancorporation,risk_constraint,3,-0.0005966628218528404
+AmericanWest Bancorporation,risk_external,1,0.001483105800254734
+AmericanWest Bancorporation,risk_external,2,-0.0069404035472248275
+AmericanWest Bancorporation,risk_external,3,0.0028299160414612555
+AmericanWest Bancorporation,risk_legal,1,0.0004443709521483696
+AmericanWest Bancorporation,risk_legal,2,0.001281899555054307
+AmericanWest Bancorporation,risk_legal,3,-0.00166670278176292
+AmericanWest Bancorporation,risk_uncertainty,1,-0.00037943430453840616
+AmericanWest Bancorporation,risk_uncertainty,2,0.003758890184641429
+AmericanWest Bancorporation,risk_uncertainty,3,-0.00220765478924488
+Argo Group International Holdings,risk_constraint,1,-0.013176625548479086
+Argo Group International Holdings,risk_constraint,2,0.007662407629925592
+Argo Group International Holdings,risk_constraint,3,0.004279412549282812
+Argo Group International Holdings,risk_external,1,0.009426508788661947
+Argo Group International Holdings,risk_external,2,-0.017692262619773615
+Argo Group International Holdings,risk_external,3,0.010731834657155388
+Argo Group International Holdings,risk_legal,1,-0.011239630269899843
+Argo Group International Holdings,risk_legal,2,0.005944751673162838
+Argo Group International Holdings,risk_legal,3,0.004318230574347091
+Argo Group International Holdings,risk_uncertainty,1,-0.009895339527471148
+Argo Group International Holdings,risk_uncertainty,2,0.002096267504147777
+Argo Group International Holdings,risk_uncertainty,3,0.007345904909097609
+Audacy,risk_constraint,1,-0.01583534417469626
+Audacy,risk_constraint,2,0.00537367752755451
+Audacy,risk_constraint,3,0.0036238126801027646
+Audacy,risk_external,1,0.03211898015620546
+Audacy,risk_external,2,-0.02166633383712341
+Audacy,risk_external,3,-0.003521841746732919
+Audacy,risk_legal,1,-0.023947114128032587
+Audacy,risk_legal,2,0.010548278524343993
+Audacy,risk_legal,3,0.004618982998173546
+Audacy,risk_uncertainty,1,-0.016840571239108232
+Audacy,risk_uncertainty,2,0.0046457639905570095
+Audacy,risk_uncertainty,3,0.004233968984514816
+Avid Technology,risk_constraint,1,0.00590652657208597
+Avid Technology,risk_constraint,2,-0.0025672153654594785
+Avid Technology,risk_constraint,3,-0.0015911538116480846
+Avid Technology,risk_external,1,-0.004445541596875607
+Avid Technology,risk_external,2,0.00762245094474872
+Avid Technology,risk_external,3,-0.008056169465771264
+Avid Technology,risk_legal,1,0.0008973422036871571
+Avid Technology,risk_legal,2,-0.0008203851576282823
+Avid Technology,risk_legal,3,0.0004581450889754937
+Avid Technology,risk_uncertainty,1,0.02620512392413471
+Avid Technology,risk_uncertainty,2,-0.010057972659782961
+Avid Technology,risk_uncertainty,3,-0.009225269595033898
+Axion International Holdings,risk_constraint,1,0.013811411276846063
+Axion International Holdings,risk_constraint,2,-0.004475247079860201
+Axion International Holdings,risk_constraint,3,-0.003934532625279102
+Axion International Holdings,risk_external,1,-0.003615661967353928
+Axion International Holdings,risk_external,2,-0.0032720019186625315
+Axion International Holdings,risk_external,3,0.003560914990352561
+Axion International Holdings,risk_legal,1,0.006211874846514623
+Axion International Holdings,risk_legal,2,-0.002688031578846512
+Axion International Holdings,risk_legal,3,-0.0013850252691904458
+Axion International Holdings,risk_uncertainty,1,0.014115391132169888
+Axion International Holdings,risk_uncertainty,2,-0.00012715400337608932
+Axion International Holdings,risk_uncertainty,3,-0.006553751915619131
+BSQUARE Corp.,risk_constraint,1,-0.0016296475350068987
+BSQUARE Corp.,risk_constraint,2,0.008199011256438883
+BSQUARE Corp.,risk_constraint,3,-0.00665939075208066
+BSQUARE Corp.,risk_external,1,0.0039052217842000508
+BSQUARE Corp.,risk_external,2,-0.016362938378410914
+BSQUARE Corp.,risk_external,3,0.012808242753887334
+BSQUARE Corp.,risk_legal,1,-0.010039841890078838
+BSQUARE Corp.,risk_legal,2,0.013086396438852005
+BSQUARE Corp.,risk_legal,3,-0.0051368969732735045
+BSQUARE Corp.,risk_uncertainty,1,0.013223550429204676
+BSQUARE Corp.,risk_uncertainty,2,-0.0006751176914703136
+BSQUARE Corp.,risk_uncertainty,3,-0.009115666257023869
+Basic Energy Services,risk_constraint,1,-0.022861090870420056
+Basic Energy Services,risk_constraint,2,0.012210049914998371
+Basic Energy Services,risk_constraint,3,0.004350997072491919
+Basic Energy Services,risk_external,1,0.033238875213268924
+Basic Energy Services,risk_external,2,-0.04075138438467387
+Basic Energy Services,risk_external,3,0.0028691946200517537
+Basic Energy Services,risk_legal,1,-0.035130770089532776
+Basic Energy Services,risk_legal,2,0.019232069400515375
+Basic Energy Services,risk_legal,3,0.006498759910278939
+Basic Energy Services,risk_uncertainty,1,-0.031186582906381776
+Basic Energy Services,risk_uncertainty,2,0.013255548299876815
+Basic Energy Services,risk_uncertainty,3,0.007295374272893483
+Boardriders,risk_constraint,1,0.0019859049125778108
+Boardriders,risk_constraint,2,-0.002844802999585237
+Boardriders,risk_constraint,3,-0.0013230536792882418
+Boardriders,risk_external,1,-0.012834573396638033
+Boardriders,risk_external,2,0.025994779972831485
+Boardriders,risk_external,3,0.0027517538013407754
+Boardriders,risk_legal,1,0.003063879676350913
+Boardriders,risk_legal,2,-0.011517540611514023
+Boardriders,risk_legal,3,0.003391326588577357
+Boardriders,risk_uncertainty,1,0.0005636055849931313
+Boardriders,risk_uncertainty,2,0.0018968988368414793
+Boardriders,risk_uncertainty,3,-0.002436362611489426
+BowFlex,risk_constraint,1,-0.0020149239578520057
+BowFlex,risk_constraint,2,-0.0016631409351390437
+BowFlex,risk_constraint,3,0.004665892892503944
+BowFlex,risk_external,1,0.007095805026551097
+BowFlex,risk_external,2,0.013337863861360188
+BowFlex,risk_external,3,-0.028107599233005848
+BowFlex,risk_legal,1,9.300221780936709e-05
+BowFlex,risk_legal,2,-0.002143927640682166
+BowFlex,risk_legal,3,0.0032506591092869683
+BowFlex,risk_uncertainty,1,0.00880579398620062
+BowFlex,risk_uncertainty,2,-0.006198528803540431
+BowFlex,risk_uncertainty,3,0.0006276806440448767
+CDC Corp.,risk_constraint,1,0.016375682635437087
+CDC Corp.,risk_constraint,2,-0.006142747876855058
+CDC Corp.,risk_constraint,3,-0.0041850124453199225
+CDC Corp.,risk_external,1,-0.019438027679757157
+CDC Corp.,risk_external,2,-0.0020276039636679087
+CDC Corp.,risk_external,3,0.010528707751752095
+CDC Corp.,risk_legal,1,0.018043515595538708
+CDC Corp.,risk_legal,2,-0.005385397059913364
+CDC Corp.,risk_legal,3,-0.005436527639183971
+CDC Corp.,risk_uncertainty,1,0.021439101335296317
+CDC Corp.,risk_uncertainty,2,-0.0058909881548579604
+CDC Corp.,risk_uncertainty,3,-0.006762693230913187
+CIRCOR International,risk_constraint,1,0.013693274239080167
+CIRCOR International,risk_constraint,2,-0.006601082282161081
+CIRCOR International,risk_constraint,3,-0.0033584108898797546
+CIRCOR International,risk_external,1,-0.02487698136410378
+CIRCOR International,risk_external,2,0.02943072841868683
+CIRCOR International,risk_external,3,-0.0014980888816444006
+CIRCOR International,risk_legal,1,0.018096211038635186
+CIRCOR International,risk_legal,2,-0.008574182421258139
+CIRCOR International,risk_legal,3,-0.004503386801812073
+CIRCOR International,risk_uncertainty,1,0.013906924606864638
+CIRCOR International,risk_uncertainty,2,-0.005612929500758451
+CIRCOR International,risk_uncertainty,3,-0.003886318958404556
+CWC Energy Services Corp.,risk_constraint,1,-0.0019071446795903837
+CWC Energy Services Corp.,risk_constraint,2,0.0019884090571375967
+CWC Energy Services Corp.,risk_constraint,3,-0.0001284158869622016
+CWC Energy Services Corp.,risk_external,1,0.015113914024071563
+CWC Energy Services Corp.,risk_external,2,-0.016009250877415115
+CWC Energy Services Corp.,risk_external,3,0.0012507016371426554
+CWC Energy Services Corp.,risk_legal,1,-0.0011688043473110045
+CWC Energy Services Corp.,risk_legal,2,0.002768156138367005
+CWC Energy Services Corp.,risk_legal,3,-0.0015153843928450287
+CWC Energy Services Corp.,risk_uncertainty,1,-0.01018447384177002
+CWC Energy Services Corp.,risk_uncertainty,2,0.006327800770837222
+CWC Energy Services Corp.,risk_uncertainty,3,0.0032923588156226966
+CalAmp Corp.,risk_constraint,1,0.0035983646620353967
+CalAmp Corp.,risk_constraint,2,0.00043451429276368536
+CalAmp Corp.,risk_constraint,3,-0.004185786844351569
+CalAmp Corp.,risk_external,1,-0.003932408227032388
+CalAmp Corp.,risk_external,2,0.0047987384498759215
+CalAmp Corp.,risk_external,3,-0.0034372281702470878
+CalAmp Corp.,risk_legal,1,-0.002157016509801342
+CalAmp Corp.,risk_legal,2,0.005247882790473082
+CalAmp Corp.,risk_legal,3,-0.00585909250935757
+CalAmp Corp.,risk_uncertainty,1,0.020530133892523412
+CalAmp Corp.,risk_uncertainty,2,-0.006069167506330436
+CalAmp Corp.,risk_uncertainty,3,-0.01089519397675532
+Callon Petroleum Co.,risk_constraint,1,0.008386988413629327
+Callon Petroleum Co.,risk_constraint,2,-0.006975020307109445
+Callon Petroleum Co.,risk_constraint,3,0.0030421779191198177
+Callon Petroleum Co.,risk_external,1,-0.0037793159729682777
+Callon Petroleum Co.,risk_external,2,0.009359882752539081
+Callon Petroleum Co.,risk_external,3,-0.011557250161901454
+Callon Petroleum Co.,risk_legal,1,0.00988778547914509
+Callon Petroleum Co.,risk_legal,2,-0.005489401941227627
+Callon Petroleum Co.,risk_legal,3,-0.0008927553782946624
+Callon Petroleum Co.,risk_uncertainty,1,0.0035897890417195205
+Callon Petroleum Co.,risk_uncertainty,2,-0.0018320375130228387
+Callon Petroleum Co.,risk_uncertainty,3,-0.0005877647616914336
+Cambridge Bancorp,risk_constraint,1,0.015705967045931135
+Cambridge Bancorp,risk_constraint,2,-0.005820532714970128
+Cambridge Bancorp,risk_constraint,3,-0.007194469575501011
+Cambridge Bancorp,risk_external,1,-0.028726193758023644
+Cambridge Bancorp,risk_external,2,0.033292803158795646
+Cambridge Bancorp,risk_external,3,-0.004716017784450147
+Cambridge Bancorp,risk_legal,1,0.021986864150516
+Cambridge Bancorp,risk_legal,2,-0.008902918693255475
+Cambridge Bancorp,risk_legal,3,-0.009475891517442027
+Cambridge Bancorp,risk_uncertainty,1,0.025003280299197933
+Cambridge Bancorp,risk_uncertainty,2,-0.008927752320618954
+Cambridge Bancorp,risk_uncertainty,3,-0.011720327671016516
+Cano Petroleum,risk_constraint,1,0.0017355188374049593
+Cano Petroleum,risk_constraint,2,0.0014332553864868699
+Cano Petroleum,risk_constraint,3,-0.0039374135451997316
+Cano Petroleum,risk_external,1,-0.009025858968010636
+Cano Petroleum,risk_external,2,0.008662365596347709
+Cano Petroleum,risk_external,3,0.008424062553751728
+Cano Petroleum,risk_legal,1,0.0018451555671094339
+Cano Petroleum,risk_legal,2,0.0001675389546202271
+Cano Petroleum,risk_legal,3,-0.0031718221159300515
+Cano Petroleum,risk_uncertainty,1,0.0018424301126179323
+Cano Petroleum,risk_uncertainty,2,0.0011157674434843427
+Cano Petroleum,risk_uncertainty,3,-0.0038764890889155055
+Carrols Restaurant Group,risk_constraint,1,0.004110909229481618
+Carrols Restaurant Group,risk_constraint,2,-0.004312791087888932
+Carrols Restaurant Group,risk_constraint,3,-2.1697766218428324e-05
+Carrols Restaurant Group,risk_external,1,-0.002848506455330251
+Carrols Restaurant Group,risk_external,2,0.010099670365882305
+Carrols Restaurant Group,risk_external,3,-0.0035313852052975742
+Carrols Restaurant Group,risk_legal,1,-6.988282018792437e-05
+Carrols Restaurant Group,risk_legal,2,-0.0022212944418618387
+Carrols Restaurant Group,risk_legal,3,0.0011446988001336603
+Carrols Restaurant Group,risk_uncertainty,1,0.0014046838496991484
+Carrols Restaurant Group,risk_uncertainty,2,-0.00616681023851196
+Carrols Restaurant Group,risk_uncertainty,3,0.0023330740208738266
+Centamin Plc,risk_constraint,1,-0.0007371215301677817
+Centamin Plc,risk_constraint,2,0.0010308124382221377
+Centamin Plc,risk_constraint,3,-0.00049245827057082
+Centamin Plc,risk_external,1,0.026633503084546064
+Centamin Plc,risk_external,2,-0.01849486630455338
+Centamin Plc,risk_external,3,-0.0019590757617331065
+Centamin Plc,risk_legal,1,0.0012398332085162378
+Centamin Plc,risk_legal,2,-0.0002871099359249053
+Centamin Plc,risk_legal,3,-0.0006957289294010802
+Centamin Plc,risk_uncertainty,1,-0.022297838054546666
+Centamin Plc,risk_uncertainty,2,0.01338893508915331
+Centamin Plc,risk_uncertainty,3,0.0038473042753376305
+Cineworld Group Plc,risk_constraint,1,0.012389331138471833
+Cineworld Group Plc,risk_constraint,2,-0.007214505642272965
+Cineworld Group Plc,risk_constraint,3,-0.004707207596141269
+Cineworld Group Plc,risk_external,1,-0.026311489507216467
+Cineworld Group Plc,risk_external,2,0.02779410691703394
+Cineworld Group Plc,risk_external,3,-0.005039767938281925
+Cineworld Group Plc,risk_legal,1,0.014124044865115537
+Cineworld Group Plc,risk_legal,2,-0.010295874009196125
+Cineworld Group Plc,risk_legal,3,-0.002869284084109247
+Cineworld Group Plc,risk_uncertainty,1,0.005873243374255221
+Cineworld Group Plc,risk_uncertainty,2,-0.0034844376526121604
+Cineworld Group Plc,risk_uncertainty,3,-0.002153898674901751
+Cloud Peak Energy,risk_constraint,1,-0.02298277344316939
+Cloud Peak Energy,risk_constraint,2,0.004844522162078464
+Cloud Peak Energy,risk_constraint,3,0.016957910345395212
+Cloud Peak Energy,risk_external,1,0.04859810734602983
+Cloud Peak Energy,risk_external,2,-0.03448699948983267
+Cloud Peak Energy,risk_external,3,-0.004337256343487379
+Cloud Peak Energy,risk_legal,1,-0.02131966284034583
+Cloud Peak Energy,risk_legal,2,0.0020708332962052402
+Cloud Peak Energy,risk_legal,3,0.01888134425493143
+Cloud Peak Energy,risk_uncertainty,1,-0.04410263496737137
+Cloud Peak Energy,risk_uncertainty,2,0.016507325527186843
+Cloud Peak Energy,risk_uncertainty,3,0.023165509626523965
+Cobalt International Energy,risk_constraint,1,-0.011328895008668705
+Cobalt International Energy,risk_constraint,2,0.006121792597198163
+Cobalt International Energy,risk_constraint,3,0.0018337523405249569
+Cobalt International Energy,risk_external,1,0.02597011257415661
+Cobalt International Energy,risk_external,2,-0.002189032815928283
+Cobalt International Energy,risk_external,3,-0.008197138774142732
+Cobalt International Energy,risk_legal,1,-0.015948994209590797
+Cobalt International Energy,risk_legal,2,0.00862443710900539
+Cobalt International Energy,risk_legal,3,0.0025795342245813644
+Cobalt International Energy,risk_uncertainty,1,-0.04450035818654739
+Cobalt International Energy,risk_uncertainty,2,0.016278245224364045
+Cobalt International Energy,risk_uncertainty,3,0.009822259166809934
+Coldwater Creek,risk_constraint,1,-0.0033791741190175965
+Coldwater Creek,risk_constraint,2,0.0029072517821011326
+Coldwater Creek,risk_constraint,3,0.00035467113335676376
+Coldwater Creek,risk_external,1,-0.006558916669067671
+Coldwater Creek,risk_external,2,0.0013166285110420067
+Coldwater Creek,risk_external,3,0.0028254172049357726
+Coldwater Creek,risk_legal,1,-0.0009617364068998857
+Coldwater Creek,risk_legal,2,0.0024750104888576737
+Coldwater Creek,risk_legal,3,-0.0007128961404878513
+Coldwater Creek,risk_uncertainty,1,0.008017754134365717
+Coldwater Creek,risk_uncertainty,2,-0.002546321044139666
+Coldwater Creek,risk_uncertainty,3,-0.0029910849179598164
+Computer Task Group,risk_constraint,1,0.0034448415158435343
+Computer Task Group,risk_constraint,2,0.004188573784363962
+Computer Task Group,risk_constraint,3,-0.012205023637390688
+Computer Task Group,risk_external,1,-0.003990467675101504
+Computer Task Group,risk_external,2,-0.018751612560080178
+Computer Task Group,risk_external,3,0.03610295269446535
+Computer Task Group,risk_legal,1,0.002058508465268576
+Computer Task Group,risk_legal,2,0.007314781234235935
+Computer Task Group,risk_legal,3,-0.014897157744841395
+Computer Task Group,risk_uncertainty,1,0.004029901081968094
+Computer Task Group,risk_uncertainty,2,0.0020141560422503864
+Computer Task Group,risk_uncertainty,3,-0.009717628068962507
+Consolidated Communications Holdings,risk_constraint,1,-0.007128079737392494
+Consolidated Communications Holdings,risk_constraint,2,0.0054942528187466
+Consolidated Communications Holdings,risk_constraint,3,-0.0018159101037174617
+Consolidated Communications Holdings,risk_external,1,0.007805654676508712
+Consolidated Communications Holdings,risk_external,2,-0.01012067297921699
+Consolidated Communications Holdings,risk_external,3,0.008981859135737838
+Consolidated Communications Holdings,risk_legal,1,-0.012733246011880998
+Consolidated Communications Holdings,risk_legal,2,0.010588275039886035
+Consolidated Communications Holdings,risk_legal,3,-0.004562066074057341
+Consolidated Communications Holdings,risk_uncertainty,1,-0.006088669150585406
+Consolidated Communications Holdings,risk_uncertainty,2,0.0020809364972736734
+Consolidated Communications Holdings,risk_uncertainty,3,0.0028998962351313926
+Constar International,risk_constraint,1,-0.02650279611969411
+Constar International,risk_constraint,2,0.0077913952135052695
+Constar International,risk_constraint,3,0.010655096388566527
+Constar International,risk_external,1,0.039356252606812414
+Constar International,risk_external,2,-0.030148887540483154
+Constar International,risk_external,3,-0.002148650304615059
+Constar International,risk_legal,1,-0.02434324525364479
+Constar International,risk_legal,2,0.004313377337151404
+Constar International,risk_legal,3,0.011879435696973344
+Constar International,risk_uncertainty,1,-0.023913206913590127
+Constar International,risk_uncertainty,2,0.00556076098519229
+Constar International,risk_uncertainty,3,0.010695420138792034
+Corinthian Colleges,risk_constraint,1,0.00020603703364654113
+Corinthian Colleges,risk_constraint,2,-0.008039488599576062
+Corinthian Colleges,risk_constraint,3,0.005851092182095296
+Corinthian Colleges,risk_external,1,-0.0053394527126359404
+Corinthian Colleges,risk_external,2,0.02540712912313385
+Corinthian Colleges,risk_external,3,-0.0103111169151559
+Corinthian Colleges,risk_legal,1,0.001082482911692292
+Corinthian Colleges,risk_legal,2,-0.01369011290685921
+Corinthian Colleges,risk_legal,3,0.008687053958993836
+Corinthian Colleges,risk_uncertainty,1,-0.0004436938960682516
+Corinthian Colleges,risk_uncertainty,2,-0.0034264836210748328
+Corinthian Colleges,risk_uncertainty,3,0.0034211351334036207
+Crestwood Equity Partners LP,risk_constraint,1,0.01896559426461481
+Crestwood Equity Partners LP,risk_constraint,2,-0.006964892111696279
+Crestwood Equity Partners LP,risk_constraint,3,-0.0029956149132873687
+Crestwood Equity Partners LP,risk_external,1,-0.008699772778445233
+Crestwood Equity Partners LP,risk_external,2,-0.00031958384282796196
+Crestwood Equity Partners LP,risk_external,3,0.0023326169405211267
+Crestwood Equity Partners LP,risk_legal,1,0.006779760263083491
+Crestwood Equity Partners LP,risk_legal,2,0.0005177605323954534
+Crestwood Equity Partners LP,risk_legal,3,-0.0018910993166844816
+Crestwood Equity Partners LP,risk_uncertainty,1,0.02652189401230612
+Crestwood Equity Partners LP,risk_uncertainty,2,-0.004670320071257112
+Crestwood Equity Partners LP,risk_uncertainty,3,-0.005571725882136644
+Denbury,risk_constraint,1,0.016010432602074895
+Denbury,risk_constraint,2,-0.0035779570309713263
+Denbury,risk_constraint,3,-0.0031367838210654836
+Denbury,risk_external,1,-0.010018814287756013
+Denbury,risk_external,2,0.011480434995627817
+Denbury,risk_external,3,-0.00045867081819849376
+Denbury,risk_legal,1,0.008073460943149239
+Denbury,risk_legal,2,0.0023387291519569014
+Denbury,risk_legal,3,-0.0026673547046955383
+Denbury,risk_uncertainty,1,0.008276204169238608
+Denbury,risk_uncertainty,2,0.002179803351833539
+Denbury,risk_uncertainty,3,-0.002677304883689705
+Dex Liquidating Co.,risk_constraint,1,0.017452609678946567
+Dex Liquidating Co.,risk_constraint,2,-0.010856403840753117
+Dex Liquidating Co.,risk_constraint,3,-0.000929777676887547
+Dex Liquidating Co.,risk_external,1,0.006417610955836352
+Dex Liquidating Co.,risk_external,2,0.00835177158917567
+Dex Liquidating Co.,risk_external,3,-0.01452105007044429
+Dex Liquidating Co.,risk_legal,1,0.008036306920505129
+Dex Liquidating Co.,risk_legal,2,-0.0054869055490550335
+Dex Liquidating Co.,risk_legal,3,0.00013233196678040103
+Dex Liquidating Co.,risk_uncertainty,1,0.028498627970582516
+Dex Liquidating Co.,risk_uncertainty,2,-0.013747076511039596
+Dex Liquidating Co.,risk_uncertainty,3,-0.006090585200929021
+Diamond Offshore Drilling,risk_constraint,1,0.011266984235678585
+Diamond Offshore Drilling,risk_constraint,2,-0.004964299290837665
+Diamond Offshore Drilling,risk_constraint,3,-0.0015851712334872003
+Diamond Offshore Drilling,risk_external,1,9.053965971402272e-05
+Diamond Offshore Drilling,risk_external,2,0.021043420566758304
+Diamond Offshore Drilling,risk_external,3,-0.0055434412783157555
+Diamond Offshore Drilling,risk_legal,1,0.0036414919798939812
+Diamond Offshore Drilling,risk_legal,2,0.0009080936787926647
+Diamond Offshore Drilling,risk_legal,3,-0.001171436820477166
+Diamond Offshore Drilling,risk_uncertainty,1,0.0018073121889053733
+Diamond Offshore Drilling,risk_uncertainty,2,0.000641968499504356
+Diamond Offshore Drilling,risk_uncertainty,3,-0.0006315724296358212
+Dune Energy,risk_constraint,1,-0.061268540158676256
+Dune Energy,risk_constraint,2,0.038284731978866705
+Dune Energy,risk_constraint,3,0.03852914504964527
+Dune Energy,risk_external,1,0.10148838344631562
+Dune Energy,risk_external,2,-0.16364471800255992
+Dune Energy,risk_external,3,0.02596867784694595
+Dune Energy,risk_legal,1,-0.06551648015466596
+Dune Energy,risk_legal,2,0.04271784909470629
+Dune Energy,risk_legal,3,0.03960700725676717
+Dune Energy,risk_uncertainty,1,-0.07118291315156466
+Dune Energy,risk_uncertainty,2,0.036114473850096265
+Dune Energy,risk_uncertainty,3,0.05225813571790367
+DynaVox,risk_constraint,1,-0.02297209631934074
+DynaVox,risk_constraint,2,0.006595135815746915
+DynaVox,risk_constraint,3,0.015688115355009642
+DynaVox,risk_external,1,0.04512447921178213
+DynaVox,risk_external,2,-0.0418781888141735
+DynaVox,risk_external,3,-0.004949189625158818
+DynaVox,risk_legal,1,-0.027730871867652475
+DynaVox,risk_legal,2,0.011395050518790405
+DynaVox,risk_legal,3,0.015867081175644546
+DynaVox,risk_uncertainty,1,-0.022118977643912494
+DynaVox,risk_uncertainty,2,0.0014435553445290268
+DynaVox,risk_uncertainty,3,0.01949372527242084
+Eagle Bulk Shipping,risk_constraint,1,-0.014570998298441218
+Eagle Bulk Shipping,risk_constraint,2,0.0027873384191805166
+Eagle Bulk Shipping,risk_constraint,3,0.00601088832057709
+Eagle Bulk Shipping,risk_external,1,0.029361492666675874
+Eagle Bulk Shipping,risk_external,2,-0.010649570322541003
+Eagle Bulk Shipping,risk_external,3,-0.008826989673079664
+Eagle Bulk Shipping,risk_legal,1,0.011635295383209121
+Eagle Bulk Shipping,risk_legal,2,-0.008873345976798511
+Eagle Bulk Shipping,risk_legal,3,-0.0004604872413420267
+Eagle Bulk Shipping,risk_uncertainty,1,-0.023971917267097867
+Eagle Bulk Shipping,risk_uncertainty,2,0.002937399303134516
+Eagle Bulk Shipping,risk_uncertainty,3,0.010964939944380404
+Ebix,risk_constraint,1,-0.0010282416208304648
+Ebix,risk_constraint,2,0.005139537302609583
+Ebix,risk_constraint,3,-0.0046655151386880405
+Ebix,risk_external,1,-0.002135931193707705
+Ebix,risk_external,2,-0.010809722636329107
+Ebix,risk_external,3,0.013561684314586268
+Ebix,risk_legal,1,-0.0068606235208293065
+Ebix,risk_legal,2,0.011027418715284676
+Ebix,risk_legal,3,-0.00595106145531062
+Ebix,risk_uncertainty,1,-0.002486721083870961
+Ebix,risk_uncertainty,2,0.004325338366076825
+Ebix,risk_uncertainty,3,-0.002512352058792057
+Education Holdings 1,risk_constraint,1,0.0007392894019992054
+Education Holdings 1,risk_constraint,2,-0.003976890916997113
+Education Holdings 1,risk_constraint,3,0.0017661809252642543
+Education Holdings 1,risk_external,1,-0.006599453228404823
+Education Holdings 1,risk_external,2,0.01811338282412118
+Education Holdings 1,risk_external,3,-0.0024922377316050582
+Education Holdings 1,risk_legal,1,0.0018045595185265525
+Education Holdings 1,risk_legal,2,-0.010560316176075002
+Education Holdings 1,risk_legal,3,0.004962323045151728
+Education Holdings 1,risk_uncertainty,1,-0.0005947650122804182
+Education Holdings 1,risk_uncertainty,2,0.002124776789463709
+Education Holdings 1,risk_uncertainty,3,-0.000600474347212301
+Electroglas,risk_constraint,1,0.0008820841286762399
+Electroglas,risk_constraint,2,-0.002458425478412283
+Electroglas,risk_constraint,3,0.0003833566327208093
+Electroglas,risk_external,1,-0.00554759203258632
+Electroglas,risk_external,2,0.012981675571777148
+Electroglas,risk_external,3,-0.0005306987786576409
+Electroglas,risk_legal,1,0.000979054878564452
+Electroglas,risk_legal,2,-0.006142879066306902
+Electroglas,risk_legal,3,0.0030142792549167716
+Electroglas,risk_uncertainty,1,0.00046010083860386947
+Electroglas,risk_uncertainty,2,0.0004927562473175198
+Electroglas,risk_uncertainty,3,-0.001145982489104474
+Empresas ICA SAB de CV,risk_constraint,1,0.02031238801913608
+Empresas ICA SAB de CV,risk_constraint,2,-0.0051973003366579396
+Empresas ICA SAB de CV,risk_constraint,3,-0.01021271370838393
+Empresas ICA SAB de CV,risk_external,1,-0.016251362448045346
+Empresas ICA SAB de CV,risk_external,2,0.00493539062274671
+Empresas ICA SAB de CV,risk_external,3,0.007064528559036764
+Empresas ICA SAB de CV,risk_legal,1,0.015417800929457057
+Empresas ICA SAB de CV,risk_legal,2,-0.0051767140584134
+Empresas ICA SAB de CV,risk_legal,3,-0.0059982631942592825
+Empresas ICA SAB de CV,risk_uncertainty,1,0.0005706045143134391
+Empresas ICA SAB de CV,risk_uncertainty,2,0.007016164442850302
+Empresas ICA SAB de CV,risk_uncertainty,3,-0.010482768936766976
+Encore Wire Corp. (Delaware),risk_constraint,1,0.014591018193070796
+Encore Wire Corp. (Delaware),risk_constraint,2,-0.004486144061157346
+Encore Wire Corp. (Delaware),risk_constraint,3,-0.003383931899356034
+Encore Wire Corp. (Delaware),risk_external,1,-0.022489056323447297
+Encore Wire Corp. (Delaware),risk_external,2,0.009218379676993602
+Encore Wire Corp. (Delaware),risk_external,3,0.003359714759434866
+Encore Wire Corp. (Delaware),risk_legal,1,0.014994962249202501
+Encore Wire Corp. (Delaware),risk_legal,2,-0.0044832628011428005
+Encore Wire Corp. (Delaware),risk_legal,3,-0.003579981826875194
+Encore Wire Corp. (Delaware),risk_uncertainty,1,0.0115025183504424
+Encore Wire Corp. (Delaware),risk_uncertainty,2,-0.00349032154981115
+Encore Wire Corp. (Delaware),risk_uncertainty,3,-0.002704894981822658
+Energy Conversion Devices,risk_constraint,1,0.005236961270130941
+Energy Conversion Devices,risk_constraint,2,-0.004301211568004419
+Energy Conversion Devices,risk_constraint,3,1.956466673843356e-05
+Energy Conversion Devices,risk_external,1,0.008396005651041802
+Energy Conversion Devices,risk_external,2,-0.002790273849710089
+Energy Conversion Devices,risk_external,3,-0.002380881533613528
+Energy Conversion Devices,risk_legal,1,0.00819110617765484
+Energy Conversion Devices,risk_legal,2,-0.0034667066326512386
+Energy Conversion Devices,risk_legal,3,-0.001885321079817922
+Energy Conversion Devices,risk_uncertainty,1,0.009946315562081953
+Energy Conversion Devices,risk_uncertainty,2,-0.004252051936352325
+Energy Conversion Devices,risk_uncertainty,3,-0.00226434580061834
+Essential Energy Services Ltd.,risk_constraint,1,-0.00499647134706529
+Essential Energy Services Ltd.,risk_constraint,2,8.824990634694723e-05
+Essential Energy Services Ltd.,risk_constraint,3,0.005629034406923817
+Essential Energy Services Ltd.,risk_external,1,0.012659267923220297
+Essential Energy Services Ltd.,risk_external,2,-0.003713029493006815
+Essential Energy Services Ltd.,risk_external,3,-0.0008646096447452085
+Essential Energy Services Ltd.,risk_legal,1,-0.006540561627516122
+Essential Energy Services Ltd.,risk_legal,2,0.0009982683856159763
+Essential Energy Services Ltd.,risk_legal,3,0.0039793926760309595
+Essential Energy Services Ltd.,risk_uncertainty,1,-0.008781191787060699
+Essential Energy Services Ltd.,risk_uncertainty,2,0.0007078998590421764
+Essential Energy Services Ltd.,risk_uncertainty,3,0.00777047681862711
+Exide Technologies LLC,risk_constraint,1,0.0008683762645351299
+Exide Technologies LLC,risk_constraint,2,-0.008572650625768476
+Exide Technologies LLC,risk_constraint,3,0.005100318383442668
+Exide Technologies LLC,risk_external,1,-0.005275469781894147
+Exide Technologies LLC,risk_external,2,0.024040585387968386
+Exide Technologies LLC,risk_external,3,-0.009346894666995143
+Exide Technologies LLC,risk_legal,1,0.00132988017188282
+Exide Technologies LLC,risk_legal,2,-0.013423849851371314
+Exide Technologies LLC,risk_legal,3,0.008038731296617854
+Exide Technologies LLC,risk_uncertainty,1,-0.0015926249167295958
+Exide Technologies LLC,risk_uncertainty,2,-0.0009045989867094623
+Exide Technologies LLC,risk_uncertainty,3,0.003477144053544061
+FLYHT Aerospace Solutions Ltd.,risk_constraint,1,-0.010607173342875628
+FLYHT Aerospace Solutions Ltd.,risk_constraint,2,0.012890040262974639
+FLYHT Aerospace Solutions Ltd.,risk_constraint,3,-0.004154269703723115
+FLYHT Aerospace Solutions Ltd.,risk_external,1,-0.0024480280167595105
+FLYHT Aerospace Solutions Ltd.,risk_external,2,-0.017323871481773674
+FLYHT Aerospace Solutions Ltd.,risk_external,3,0.02073061948638794
+FLYHT Aerospace Solutions Ltd.,risk_legal,1,-0.007753158771214908
+FLYHT Aerospace Solutions Ltd.,risk_legal,2,0.012301515395789884
+FLYHT Aerospace Solutions Ltd.,risk_legal,3,-0.006113514676375591
+FLYHT Aerospace Solutions Ltd.,risk_uncertainty,1,-0.008835615372346948
+FLYHT Aerospace Solutions Ltd.,risk_uncertainty,2,0.011173431843367006
+FLYHT Aerospace Solutions Ltd.,risk_uncertainty,3,-0.003926551360068699
+Fleetwood Enterprises,risk_constraint,1,-0.00017650452520819786
+Fleetwood Enterprises,risk_constraint,2,-0.005327648423689858
+Fleetwood Enterprises,risk_constraint,3,0.0043914746206551065
+Fleetwood Enterprises,risk_external,1,-0.0007535195304866488
+Fleetwood Enterprises,risk_external,2,0.013243789240133818
+Fleetwood Enterprises,risk_external,3,-0.008890083844315985
+Fleetwood Enterprises,risk_legal,1,0.0009355663601501206
+Fleetwood Enterprises,risk_legal,2,-0.011244095285008046
+Fleetwood Enterprises,risk_legal,3,0.007044957314743957
+Fleetwood Enterprises,risk_uncertainty,1,-0.0026323423203800066
+Fleetwood Enterprises,risk_uncertainty,2,0.0012626279806290533
+Fleetwood Enterprises,risk_uncertainty,3,0.0035044906596146054
+Foundation HealthCare,risk_constraint,1,0.013815714066153876
+Foundation HealthCare,risk_constraint,2,-0.004327163309404331
+Foundation HealthCare,risk_constraint,3,-0.006387952267740873
+Foundation HealthCare,risk_external,1,-0.01958234965726058
+Foundation HealthCare,risk_external,2,0.012416808073762485
+Foundation HealthCare,risk_external,3,-0.000600850148851434
+Foundation HealthCare,risk_legal,1,0.009241625228743996
+Foundation HealthCare,risk_legal,2,0.0001800530181133447
+Foundation HealthCare,risk_legal,3,-0.008997388691143613
+Foundation HealthCare,risk_uncertainty,1,0.03420227527025267
+Foundation HealthCare,risk_uncertainty,2,-0.009019825413238694
+Foundation HealthCare,risk_uncertainty,3,-0.018414768033388058
+Fraser Papers,risk_constraint,1,-0.0007157036218452813
+Fraser Papers,risk_constraint,2,0.0006407412321254463
+Fraser Papers,risk_constraint,3,0.0006616973045167033
+Fraser Papers,risk_external,1,0.004038085186249126
+Fraser Papers,risk_external,2,-0.007015069625389636
+Fraser Papers,risk_external,3,-0.0011769877092269077
+Fraser Papers,risk_legal,1,-0.000290501806432382
+Fraser Papers,risk_legal,2,-0.0016436141030286718
+Fraser Papers,risk_legal,3,0.001699952830327432
+Fraser Papers,risk_uncertainty,1,-0.0019247210609140072
+Fraser Papers,risk_uncertainty,2,0.005745492081278057
+Fraser Papers,risk_uncertainty,3,-0.0012449082864826229
+Frozen Food Express Industries,risk_constraint,1,0.0035129063945756427
+Frozen Food Express Industries,risk_constraint,2,0.004016803161327387
+Frozen Food Express Industries,risk_constraint,3,-0.0037031204109963236
+Frozen Food Express Industries,risk_external,1,-0.03573914314725524
+Frozen Food Express Industries,risk_external,2,0.02140776604095507
+Frozen Food Express Industries,risk_external,3,0.005164587937531346
+Frozen Food Express Industries,risk_legal,1,0.021988129886629487
+Frozen Food Express Industries,risk_legal,2,-0.005912066295699634
+Frozen Food Express Industries,risk_legal,3,-0.0069669223374011135
+Frozen Food Express Industries,risk_uncertainty,1,0.016247472454215296
+Frozen Food Express Industries,risk_uncertainty,2,-0.003844379699101174
+Frozen Food Express Industries,risk_uncertainty,3,-0.005421639070868698
+GSE Systems,risk_constraint,1,-0.005994352124826224
+GSE Systems,risk_constraint,2,0.003503125647660141
+GSE Systems,risk_constraint,3,0.0009738921492751657
+GSE Systems,risk_external,1,0.0066522764092500014
+GSE Systems,risk_external,2,-0.01347601015381537
+GSE Systems,risk_external,3,0.014176412473003462
+GSE Systems,risk_legal,1,-0.01324742641287679
+GSE Systems,risk_legal,2,0.010206789143113649
+GSE Systems,risk_legal,3,-0.0017699563541326126
+GSE Systems,risk_uncertainty,1,-0.009375332001324847
+GSE Systems,risk_uncertainty,2,0.004907031906256216
+GSE Systems,risk_uncertainty,3,0.002433295000361328
+GTT Communications,risk_constraint,1,0.005803600170596956
+GTT Communications,risk_constraint,2,-0.0013596996665311864
+GTT Communications,risk_constraint,3,-0.004233455807635258
+GTT Communications,risk_external,1,-0.007744466640432236
+GTT Communications,risk_external,2,0.010429082782619234
+GTT Communications,risk_external,3,-0.0076160812005097835
+GTT Communications,risk_legal,1,-0.001610610088123195
+GTT Communications,risk_legal,2,0.004478860280829594
+GTT Communications,risk_legal,3,-0.005140864029208628
+GTT Communications,risk_uncertainty,1,0.005043152543444971
+GTT Communications,risk_uncertainty,2,-0.005725040099171424
+GTT Communications,risk_uncertainty,3,0.0033175752385544216
+GeoPharma,risk_constraint,1,0.001248896846824969
+GeoPharma,risk_constraint,2,-0.0040102625101552155
+GeoPharma,risk_constraint,3,0.0009186373511747069
+GeoPharma,risk_external,1,-0.008192686739143706
+GeoPharma,risk_external,2,0.020799872459988086
+GeoPharma,risk_external,3,-0.0018273498541568143
+GeoPharma,risk_legal,1,0.001380134653893064
+GeoPharma,risk_legal,2,-0.0078738621631753
+GeoPharma,risk_legal,3,0.0036395973406522972
+GeoPharma,risk_uncertainty,1,0.0010519527997594647
+GeoPharma,risk_uncertainty,2,-0.002981334098651473
+GeoPharma,risk_uncertainty,3,0.0004714453263291654
+Geokinetics,risk_constraint,1,0.001069727558916125
+Geokinetics,risk_constraint,2,-0.007188604143230378
+Geokinetics,risk_constraint,3,0.0033791967765395858
+Geokinetics,risk_external,1,-0.0049253195822926525
+Geokinetics,risk_external,2,0.023086498955473277
+Geokinetics,risk_external,3,-0.005934514864228501
+Geokinetics,risk_legal,1,0.0006872300443723022
+Geokinetics,risk_legal,2,-0.009565947800404396
+Geokinetics,risk_legal,3,0.006927117191420984
+Geokinetics,risk_uncertainty,1,-0.00021888512896907835
+Geokinetics,risk_uncertainty,2,-0.002242167957023724
+Geokinetics,risk_uncertainty,3,0.002877900190494112
+Greenhill & Co.,risk_constraint,1,0.022330821284033884
+Greenhill & Co.,risk_constraint,2,-0.0032369620166036754
+Greenhill & Co.,risk_constraint,3,-0.016825188634707187
+Greenhill & Co.,risk_external,1,-0.006315785320498137
+Greenhill & Co.,risk_external,2,0.00788976869803183
+Greenhill & Co.,risk_external,3,-0.0030389313409619634
+Greenhill & Co.,risk_legal,1,0.016329258581897776
+Greenhill & Co.,risk_legal,2,-0.00015057851554862783
+Greenhill & Co.,risk_legal,3,-0.014781377110591354
+Greenhill & Co.,risk_uncertainty,1,0.02152229043451847
+Greenhill & Co.,risk_uncertainty,2,-0.00012915479501547254
+Greenhill & Co.,risk_uncertainty,3,-0.01955964435923542
+Guaranty Financial Group,risk_constraint,1,0.0013419173644394343
+Guaranty Financial Group,risk_constraint,2,-0.008413441820760825
+Guaranty Financial Group,risk_constraint,3,0.0041193949536880315
+Guaranty Financial Group,risk_external,1,-0.007697045304377611
+Guaranty Financial Group,risk_external,2,0.027933348783532527
+Guaranty Financial Group,risk_external,3,-0.007917808296589383
+Guaranty Financial Group,risk_legal,1,0.0022718768956480877
+Guaranty Financial Group,risk_legal,2,-0.016218775731361795
+Guaranty Financial Group,risk_legal,3,0.008500580119542734
+Guaranty Financial Group,risk_uncertainty,1,-0.0021647189361586852
+Guaranty Financial Group,risk_uncertainty,2,0.001370116369466008
+Guaranty Financial Group,risk_uncertainty,3,0.00278653377898002
+HNI HoldCo,risk_constraint,1,-0.03486408150182856
+HNI HoldCo,risk_constraint,2,0.023552379785945363
+HNI HoldCo,risk_constraint,3,0.005779923831413516
+HNI HoldCo,risk_external,1,0.018417969900121046
+HNI HoldCo,risk_external,2,-0.07460579242076898
+HNI HoldCo,risk_external,3,0.04872058550513267
+HNI HoldCo,risk_legal,1,-0.034625013751563405
+HNI HoldCo,risk_legal,2,0.024729374107658287
+HNI HoldCo,risk_legal,3,0.004625500326925699
+HNI HoldCo,risk_uncertainty,1,-0.03016008203859305
+HNI HoldCo,risk_uncertainty,2,0.01603324026802371
+HNI HoldCo,risk_uncertainty,3,0.008615850279199951
+Hamilton Thorne Ltd.,risk_constraint,1,-0.005354759300959749
+Hamilton Thorne Ltd.,risk_constraint,2,0.0009609964243627728
+Hamilton Thorne Ltd.,risk_constraint,3,0.0030628522136863165
+Hamilton Thorne Ltd.,risk_external,1,0.02110885047839744
+Hamilton Thorne Ltd.,risk_external,2,-0.009188664856939763
+Hamilton Thorne Ltd.,risk_external,3,-0.005128090156021147
+Hamilton Thorne Ltd.,risk_legal,1,-0.004679964633215452
+Hamilton Thorne Ltd.,risk_legal,2,0.0021733789001462814
+Hamilton Thorne Ltd.,risk_legal,3,0.0009617575193644238
+Hamilton Thorne Ltd.,risk_uncertainty,1,0.004824222754292573
+Hamilton Thorne Ltd.,risk_uncertainty,2,-0.003632813458037109
+Hamilton Thorne Ltd.,risk_uncertainty,3,0.0007995464108627671
+Hawaiian Holdings,risk_constraint,1,-0.010369511643902277
+Hawaiian Holdings,risk_constraint,2,0.002219886784411984
+Hawaiian Holdings,risk_constraint,3,0.006758488354431404
+Hawaiian Holdings,risk_external,1,0.036730310689387105
+Hawaiian Holdings,risk_external,2,-0.012123355367639428
+Hawaiian Holdings,risk_external,3,-0.016646033043903344
+Hawaiian Holdings,risk_legal,1,-0.00011561367012127179
+Hawaiian Holdings,risk_legal,2,-0.003175960503222468
+Hawaiian Holdings,risk_legal,3,0.005555012468074053
+Hawaiian Holdings,risk_uncertainty,1,-0.011773240264178975
+Hawaiian Holdings,risk_uncertainty,2,0.0035471630459884274
+Hawaiian Holdings,risk_uncertainty,3,0.005915548710465491
+Haynes International,risk_constraint,1,0.008660368404359157
+Haynes International,risk_constraint,2,-0.005697721756291503
+Haynes International,risk_constraint,3,-0.0007010286329588834
+Haynes International,risk_external,1,-0.005692624579712329
+Haynes International,risk_external,2,0.012013959963119174
+Haynes International,risk_external,3,-0.00887791354322103
+Haynes International,risk_legal,1,0.008623102805128721
+Haynes International,risk_legal,2,-0.006557762126391368
+Haynes International,risk_legal,3,0.00030100722572274133
+Haynes International,risk_uncertainty,1,0.009403153641889974
+Haynes International,risk_uncertainty,2,-0.00808492208426899
+Haynes International,risk_uncertainty,3,0.0013830293759838218
+Heritage-Crystal Clean,risk_constraint,1,-0.0035000372670932287
+Heritage-Crystal Clean,risk_constraint,2,-0.009986783429361322
+Heritage-Crystal Clean,risk_constraint,3,0.02277580377746959
+Heritage-Crystal Clean,risk_external,1,0.025255806258071726
+Heritage-Crystal Clean,risk_external,2,0.020611096746947402
+Heritage-Crystal Clean,risk_external,3,-0.06521670998499438
+Heritage-Crystal Clean,risk_legal,1,-0.005478016598217301
+Heritage-Crystal Clean,risk_legal,2,-0.010040846134091286
+Heritage-Crystal Clean,risk_legal,3,0.02487756204778437
+Heritage-Crystal Clean,risk_uncertainty,1,0.0018716240101861886
+Heritage-Crystal Clean,risk_uncertainty,2,-0.010818018165145223
+Heritage-Crystal Clean,risk_uncertainty,3,0.018952362299122325
+Hersha Hospitality Trust,risk_constraint,1,-0.01738892950625637
+Hersha Hospitality Trust,risk_constraint,2,0.0036483842591541575
+Hersha Hospitality Trust,risk_constraint,3,0.009842288600870627
+Hersha Hospitality Trust,risk_external,1,0.03662539652438376
+Hersha Hospitality Trust,risk_external,2,-0.012972524698369212
+Hersha Hospitality Trust,risk_external,3,-0.011430658080546913
+Hersha Hospitality Trust,risk_legal,1,-0.00893722412583997
+Hersha Hospitality Trust,risk_legal,2,-7.678278480740316e-05
+Hersha Hospitality Trust,risk_legal,3,0.008491155521019398
+Hersha Hospitality Trust,risk_uncertainty,1,-0.020701675613071846
+Hersha Hospitality Trust,risk_uncertainty,2,0.0034775360716300455
+Hersha Hospitality Trust,risk_uncertainty,3,0.013240092013623351
+Hibbett,risk_constraint,1,-0.0536415592021278
+Hibbett,risk_constraint,2,0.03592189354308658
+Hibbett,risk_constraint,3,0.03031272244535942
+Hibbett,risk_external,1,0.07712095396594774
+Hibbett,risk_external,2,-0.14240176879343655
+Hibbett,risk_external,3,0.0332734554612224
+Hibbett,risk_legal,1,-0.060018461672528764
+Hibbett,risk_legal,2,0.04393681911808595
+Hibbett,risk_legal,3,0.030745353375213332
+Hibbett,risk_uncertainty,1,-0.05794898531694545
+Hibbett,risk_uncertainty,2,0.03044747067200292
+Hibbett,risk_uncertainty,3,0.03982535978375351
+Hill International,risk_constraint,1,-0.006443210623175698
+Hill International,risk_constraint,2,0.0009590012327970975
+Hill International,risk_constraint,3,0.0052866698587931155
+Hill International,risk_external,1,0.004683864608751316
+Hill International,risk_external,2,-0.0054236412133974255
+Hill International,risk_external,3,0.0075586310082459834
+Hill International,risk_legal,1,-0.00995642222029079
+Hill International,risk_legal,2,0.0037412807387883847
+Hill International,risk_legal,3,0.0027189655191079496
+Hill International,risk_uncertainty,1,-0.008910406617133675
+Hill International,risk_uncertainty,2,0.0020955826802029156
+Hill International,risk_uncertainty,3,0.005455064525361013
+Hipcricket,risk_constraint,1,0.02111389049012654
+Hipcricket,risk_constraint,2,-0.002800670093690383
+Hipcricket,risk_constraint,3,-0.012348117088186606
+Hipcricket,risk_external,1,-0.05218997746997941
+Hipcricket,risk_external,2,0.032003649011198884
+Hipcricket,risk_external,3,0.01289121382641643
+Hipcricket,risk_legal,1,0.007469853719730082
+Hipcricket,risk_legal,2,0.0035317348029544633
+Hipcricket,risk_legal,3,-0.007547888873043637
+Hipcricket,risk_uncertainty,1,0.035797898678925334
+Hipcricket,risk_uncertainty,2,-0.006276367006372719
+Hipcricket,risk_uncertainty,3,-0.019861727415154667
+Holly Energy Partners LP,risk_constraint,1,0.007171745465916693
+Holly Energy Partners LP,risk_constraint,2,-0.0054627207104211975
+Holly Energy Partners LP,risk_constraint,3,-0.00026917777268594713
+Holly Energy Partners LP,risk_external,1,0.009994566093773641
+Holly Energy Partners LP,risk_external,2,0.0031031807395117163
+Holly Energy Partners LP,risk_external,3,-0.006532309720810619
+Holly Energy Partners LP,risk_legal,1,0.0019222302882911488
+Holly Energy Partners LP,risk_legal,2,-0.0012994624985300223
+Holly Energy Partners LP,risk_legal,3,-0.00016678043677616455
+Holly Energy Partners LP,risk_uncertainty,1,0.00809892630310449
+Holly Energy Partners LP,risk_uncertainty,2,-0.005826034364866103
+Holly Energy Partners LP,risk_uncertainty,3,-0.0005010115132156147
+HollySys Automation Technologies Ltd.,risk_constraint,1,-0.014361078414582644
+HollySys Automation Technologies Ltd.,risk_constraint,2,0.007152954052048663
+HollySys Automation Technologies Ltd.,risk_constraint,3,0.0037237118145528737
+HollySys Automation Technologies Ltd.,risk_external,1,0.011058566674508497
+HollySys Automation Technologies Ltd.,risk_external,2,-0.022561621716647304
+HollySys Automation Technologies Ltd.,risk_external,3,0.009252773720124797
+HollySys Automation Technologies Ltd.,risk_legal,1,-0.01457152237469585
+HollySys Automation Technologies Ltd.,risk_legal,2,0.006994570065167875
+HollySys Automation Technologies Ltd.,risk_legal,3,0.0039653386699813825
+HollySys Automation Technologies Ltd.,risk_uncertainty,1,-0.025506804079598804
+HollySys Automation Technologies Ltd.,risk_uncertainty,2,0.00496482796405507
+HollySys Automation Technologies Ltd.,risk_uncertainty,3,0.01211431497745514
+Home Capital Group,risk_constraint,1,-0.017694264908182374
+Home Capital Group,risk_constraint,2,0.007364581328220462
+Home Capital Group,risk_constraint,3,0.024045538237224492
+Home Capital Group,risk_external,1,0.024748862737346975
+Home Capital Group,risk_external,2,-0.02075259169025885
+Home Capital Group,risk_external,3,-0.017794663468442794
+Home Capital Group,risk_legal,1,-0.018215473518158894
+Home Capital Group,risk_legal,2,0.0053024587950899794
+Home Capital Group,risk_legal,3,0.028207303940438477
+Home Capital Group,risk_uncertainty,1,-0.01581157558808737
+Home Capital Group,risk_uncertainty,2,0.005988024880100669
+Home Capital Group,risk_uncertainty,3,0.02238557857237705
+Hooper Holmes,risk_constraint,1,-0.007596208760596931
+Hooper Holmes,risk_constraint,2,0.0051707822239752555
+Hooper Holmes,risk_constraint,3,7.956645928768567e-05
+Hooper Holmes,risk_external,1,-0.003877880965787038
+Hooper Holmes,risk_external,2,-0.0046765054498445965
+Hooper Holmes,risk_external,3,0.011475976438429682
+Hooper Holmes,risk_legal,1,-0.010358396765167675
+Hooper Holmes,risk_legal,2,0.007391592697319184
+Hooper Holmes,risk_legal,3,-0.0004238236893393012
+Hooper Holmes,risk_uncertainty,1,0.0046756920793391285
+Hooper Holmes,risk_uncertainty,2,-0.0008267572848251132
+Hooper Holmes,risk_uncertainty,3,-0.003731467063446141
+ION Geophysical Corp.,risk_constraint,1,-0.007471520086466612
+ION Geophysical Corp.,risk_constraint,2,0.011975701289965902
+ION Geophysical Corp.,risk_constraint,3,-0.007570310103655225
+ION Geophysical Corp.,risk_external,1,-0.005395517923514281
+ION Geophysical Corp.,risk_external,2,-0.020424028630461312
+ION Geophysical Corp.,risk_external,3,0.034298452426923906
+ION Geophysical Corp.,risk_legal,1,-0.016027334554397397
+ION Geophysical Corp.,risk_legal,2,0.021054571376641375
+ION Geophysical Corp.,risk_legal,3,-0.009899734050903646
+ION Geophysical Corp.,risk_uncertainty,1,-0.005810925328055239
+ION Geophysical Corp.,risk_uncertainty,2,0.009655653872787762
+ION Geophysical Corp.,risk_uncertainty,3,-0.006355045960748731
+Icpw Liquidation Corp.,risk_constraint,1,0.006946494243665681
+Icpw Liquidation Corp.,risk_constraint,2,-0.0036734844124167703
+Icpw Liquidation Corp.,risk_constraint,3,-0.0027106023759776955
+Icpw Liquidation Corp.,risk_external,1,-0.030696366482184177
+Icpw Liquidation Corp.,risk_external,2,0.029283371163640323
+Icpw Liquidation Corp.,risk_external,3,0.002640171898174997
+Icpw Liquidation Corp.,risk_legal,1,0.010748729164221326
+Icpw Liquidation Corp.,risk_legal,2,-0.012741694165054017
+Icpw Liquidation Corp.,risk_legal,3,0.0008555633347373482
+Icpw Liquidation Corp.,risk_uncertainty,1,0.0027742278859359945
+Icpw Liquidation Corp.,risk_uncertainty,2,0.0026630852524688995
+Icpw Liquidation Corp.,risk_uncertainty,3,-0.0040377924794429455
+ImmunoGen,risk_constraint,1,0.0024701005266609764
+ImmunoGen,risk_constraint,2,0.03153912556586468
+ImmunoGen,risk_constraint,3,-0.03971126830097553
+ImmunoGen,risk_external,1,-0.031214803612021755
+ImmunoGen,risk_external,2,-0.05097491808620988
+ImmunoGen,risk_external,3,0.10694764285850811
+ImmunoGen,risk_legal,1,0.009093410039577797
+ImmunoGen,risk_legal,2,0.027510800915198287
+ImmunoGen,risk_legal,3,-0.04553950090908766
+ImmunoGen,risk_uncertainty,1,-0.001951762045823889
+ImmunoGen,risk_uncertainty,2,0.03382884903019293
+ImmunoGen,risk_uncertainty,3,-0.03536615731879989
+Imperial Logistics Ltd.,risk_constraint,1,-0.0058939645984979454
+Imperial Logistics Ltd.,risk_constraint,2,0.0036800606253414897
+Imperial Logistics Ltd.,risk_constraint,3,0.0006988727009624679
+Imperial Logistics Ltd.,risk_external,1,0.0015506963366100264
+Imperial Logistics Ltd.,risk_external,2,-0.012468261437725886
+Imperial Logistics Ltd.,risk_external,3,0.020225611901269556
+Imperial Logistics Ltd.,risk_legal,1,-0.003921630094011924
+Imperial Logistics Ltd.,risk_legal,2,0.002924089792187575
+Imperial Logistics Ltd.,risk_legal,3,-0.0003788998691323632
+Imperial Logistics Ltd.,risk_uncertainty,1,-0.014410880028166612
+Imperial Logistics Ltd.,risk_uncertainty,2,0.007642990723596861
+Imperial Logistics Ltd.,risk_uncertainty,3,0.004113242057344678
+Indigo Books & Music,risk_constraint,1,-0.005987008206190301
+Indigo Books & Music,risk_constraint,2,0.0003473615960497289
+Indigo Books & Music,risk_constraint,3,0.002906427900132356
+Indigo Books & Music,risk_external,1,0.021379189915207635
+Indigo Books & Music,risk_external,2,-0.006147007449222449
+Indigo Books & Music,risk_external,3,-0.007468497570446673
+Indigo Books & Music,risk_legal,1,-0.003508777370373441
+Indigo Books & Music,risk_legal,2,-0.00022650237322672444
+Indigo Books & Music,risk_legal,3,0.0019584403589221807
+Indigo Books & Music,risk_uncertainty,1,-0.0005355388184532584
+Indigo Books & Music,risk_uncertainty,2,-0.006246477237770412
+Indigo Books & Music,risk_uncertainty,3,0.003983255868345665
+Internap Holding LLC,risk_constraint,1,0.0026975431318712446
+Internap Holding LLC,risk_constraint,2,-0.003360651729914413
+Internap Holding LLC,risk_constraint,3,0.00025337236300441773
+Internap Holding LLC,risk_external,1,0.0006820446123923358
+Internap Holding LLC,risk_external,2,0.00504003615379387
+Internap Holding LLC,risk_external,3,-0.0028213415389741108
+Internap Holding LLC,risk_legal,1,-0.00433490455803126
+Internap Holding LLC,risk_legal,2,0.0006696063676300923
+Internap Holding LLC,risk_legal,3,0.0019105201139137126
+Internap Holding LLC,risk_uncertainty,1,0.00756844981894095
+Internap Holding LLC,risk_uncertainty,2,-0.004847241196008979
+Internap Holding LLC,risk_uncertainty,3,-0.0015336986513898537
+Interphase Corp.,risk_constraint,1,0.01691711717535364
+Interphase Corp.,risk_constraint,2,-0.003408588943968626
+Interphase Corp.,risk_constraint,3,-0.009108893719957396
+Interphase Corp.,risk_external,1,-0.024356677814518987
+Interphase Corp.,risk_external,2,0.004120490476869314
+Interphase Corp.,risk_external,3,0.01396380816722996
+Interphase Corp.,risk_legal,1,0.008871789132311592
+Interphase Corp.,risk_legal,2,0.001013455120030962
+Interphase Corp.,risk_legal,3,-0.007798820464280862
+Interphase Corp.,risk_uncertainty,1,0.0507160656517526
+Interphase Corp.,risk_uncertainty,2,-0.01425587274290745
+Interphase Corp.,risk_uncertainty,3,-0.02295212788854271
+Invacare Corp.,risk_constraint,1,-0.012854230603775826
+Invacare Corp.,risk_constraint,2,0.00868945868335782
+Invacare Corp.,risk_constraint,3,0.0012785526543596301
+Invacare Corp.,risk_external,1,0.01404897568311079
+Invacare Corp.,risk_external,2,-0.02058700919833787
+Invacare Corp.,risk_external,3,0.009213490319969118
+Invacare Corp.,risk_legal,1,-0.019581942416562435
+Invacare Corp.,risk_legal,2,0.013759578793922552
+Invacare Corp.,risk_legal,3,0.001448096100722695
+Invacare Corp.,risk_uncertainty,1,-0.00934753198869023
+Invacare Corp.,risk_uncertainty,2,0.008526430921413088
+Invacare Corp.,risk_uncertainty,3,-0.0011823909875345786
+Iteris,risk_constraint,1,-0.002369961663704885
+Iteris,risk_constraint,2,0.0023098767265564016
+Iteris,risk_constraint,3,-0.0006058824179264763
+Iteris,risk_external,1,0.01590416370822937
+Iteris,risk_external,2,-0.01564706127667489
+Iteris,risk_external,3,0.0042318243371641815
+Iteris,risk_legal,1,-0.018996786876898486
+Iteris,risk_legal,2,0.014193796906100401
+Iteris,risk_legal,3,5.04965963305376e-05
+Iteris,risk_uncertainty,1,0.012446504659069123
+Iteris,risk_uncertainty,2,-0.005373389562662411
+Iteris,risk_uncertainty,3,-0.004491447050879696
+Jackson Hewitt Tax Service,risk_constraint,1,0.0008627111028497076
+Jackson Hewitt Tax Service,risk_constraint,2,-0.003418063661024951
+Jackson Hewitt Tax Service,risk_constraint,3,0.0011265825837269653
+Jackson Hewitt Tax Service,risk_external,1,-0.0074472160634733425
+Jackson Hewitt Tax Service,risk_external,2,0.018098172567065005
+Jackson Hewitt Tax Service,risk_external,3,-0.0010361966154244227
+Jackson Hewitt Tax Service,risk_legal,1,0.001790312659997951
+Jackson Hewitt Tax Service,risk_legal,2,-0.008993458955307104
+Jackson Hewitt Tax Service,risk_legal,3,0.0037852442606937063
+Jackson Hewitt Tax Service,risk_uncertainty,1,0.0001592393930785553
+Jackson Hewitt Tax Service,risk_uncertainty,2,0.0009597685926993488
+Jackson Hewitt Tax Service,risk_uncertainty,3,-0.0010036154808254212
+James River Coal Co.,risk_constraint,1,0.002469993660051339
+James River Coal Co.,risk_constraint,2,-0.00635007226947921
+James River Coal Co.,risk_constraint,3,0.000493542129225594
+James River Coal Co.,risk_external,1,-0.01168832364714747
+James River Coal Co.,risk_external,2,0.029528409322604778
+James River Coal Co.,risk_external,3,-0.001935590770220521
+James River Coal Co.,risk_legal,1,0.0027356797058053586
+James River Coal Co.,risk_legal,2,-0.012425279106761906
+James River Coal Co.,risk_legal,3,0.0046860698569330715
+James River Coal Co.,risk_uncertainty,1,-0.0005701886757744725
+James River Coal Co.,risk_uncertainty,2,-0.0008175486603762389
+James River Coal Co.,risk_uncertainty,3,0.00163901268358137
+KAZ Minerals Ltd.,risk_constraint,1,0.012747265334895013
+KAZ Minerals Ltd.,risk_constraint,2,-0.006318424086687246
+KAZ Minerals Ltd.,risk_constraint,3,-0.007949147391577377
+KAZ Minerals Ltd.,risk_external,1,-0.008198185217816211
+KAZ Minerals Ltd.,risk_external,2,0.010776957789037539
+KAZ Minerals Ltd.,risk_external,3,-0.003644091303181929
+KAZ Minerals Ltd.,risk_legal,1,0.009423108056759605
+KAZ Minerals Ltd.,risk_legal,2,-0.005638135732121816
+KAZ Minerals Ltd.,risk_legal,3,-0.004614415525171622
+KAZ Minerals Ltd.,risk_uncertainty,1,0.0010676445546632584
+KAZ Minerals Ltd.,risk_uncertainty,2,0.0042678952578827966
+KAZ Minerals Ltd.,risk_uncertainty,3,-0.006922770204014512
+Kaman Corp.,risk_constraint,1,0.004003098973012714
+Kaman Corp.,risk_constraint,2,-0.009408195952656894
+Kaman Corp.,risk_constraint,3,0.007595150995950687
+Kaman Corp.,risk_external,1,0.009938815786113272
+Kaman Corp.,risk_external,2,0.014885112606066463
+Kaman Corp.,risk_external,3,-0.025363971875317602
+Kaman Corp.,risk_legal,1,-0.0006150266669556831
+Kaman Corp.,risk_legal,2,-0.0057271442753474185
+Kaman Corp.,risk_legal,3,0.0071267717577493395
+Kaman Corp.,risk_uncertainty,1,0.015635160046487795
+Kaman Corp.,risk_uncertainty,2,-0.013575800841946543
+Kaman Corp.,risk_uncertainty,3,0.0028729472285994617
+LL Flooring Holdings,risk_constraint,1,-0.03794034078813271
+LL Flooring Holdings,risk_constraint,2,0.02266424301580505
+LL Flooring Holdings,risk_constraint,3,0.009038776923579512
+LL Flooring Holdings,risk_external,1,0.006731123374837518
+LL Flooring Holdings,risk_external,2,0.032477808300496375
+LL Flooring Holdings,risk_external,3,-0.01597726056257406
+LL Flooring Holdings,risk_legal,1,-0.045638787786528134
+LL Flooring Holdings,risk_legal,2,0.029255369129193444
+LL Flooring Holdings,risk_legal,3,0.010088219915939308
+LL Flooring Holdings,risk_uncertainty,1,-0.04449994883804964
+LL Flooring Holdings,risk_uncertainty,2,0.018069739945004756
+LL Flooring Holdings,risk_uncertainty,3,0.013954034963524178
+Lakeland Bancorp,risk_constraint,1,0.01939768299983014
+Lakeland Bancorp,risk_constraint,2,-0.008246527513798192
+Lakeland Bancorp,risk_constraint,3,-0.008281237438973016
+Lakeland Bancorp,risk_external,1,-0.032665524413422346
+Lakeland Bancorp,risk_external,2,0.03726363889143877
+Lakeland Bancorp,risk_external,3,-0.004768766866061903
+Lakeland Bancorp,risk_legal,1,0.025560607954306667
+Lakeland Bancorp,risk_legal,2,-0.01163174599409852
+Lakeland Bancorp,risk_legal,3,-0.010299737703429583
+Lakeland Bancorp,risk_uncertainty,1,0.016388526947299364
+Lakeland Bancorp,risk_uncertainty,2,-0.007477279661254053
+Lakeland Bancorp,risk_uncertainty,3,-0.006588260613479944
+Lannett Co.,risk_constraint,1,-0.009764023939234253
+Lannett Co.,risk_constraint,2,-0.004460917186457094
+Lannett Co.,risk_constraint,3,0.01745085693136026
+Lannett Co.,risk_external,1,0.027804492751784406
+Lannett Co.,risk_external,2,0.00814751663471941
+Lannett Co.,risk_external,3,-0.04284357417987213
+Lannett Co.,risk_legal,1,-0.012213320262462954
+Lannett Co.,risk_legal,2,-0.00568274302847476
+Lannett Co.,risk_legal,3,0.02198298302033895
+Lannett Co.,risk_uncertainty,1,-0.006743749151408223
+Lannett Co.,risk_uncertainty,2,-0.0009800419081341647
+Lannett Co.,risk_uncertainty,3,0.00889355154802975
+Liminal BioSciences,risk_constraint,1,-0.006399310663884796
+Liminal BioSciences,risk_constraint,2,0.013367983946062601
+Liminal BioSciences,risk_constraint,3,-0.008037575250646462
+Liminal BioSciences,risk_external,1,-0.008669283868244657
+Liminal BioSciences,risk_external,2,-0.012823660417399085
+Liminal BioSciences,risk_external,3,0.020971972163436915
+Liminal BioSciences,risk_legal,1,-0.0016553760698994166
+Liminal BioSciences,risk_legal,2,0.01097686746282334
+Liminal BioSciences,risk_legal,3,-0.009823338090858367
+Liminal BioSciences,risk_uncertainty,1,-0.01472238714449126
+Liminal BioSciences,risk_uncertainty,2,0.015356679910296826
+Liminal BioSciences,risk_uncertainty,3,-0.0026319465168095644
+Logistec Corp.,risk_constraint,1,-0.015168103555637276
+Logistec Corp.,risk_constraint,2,0.007784311162340391
+Logistec Corp.,risk_constraint,3,0.007565240901086018
+Logistec Corp.,risk_external,1,0.03981332096017356
+Logistec Corp.,risk_external,2,-0.04614144591651603
+Logistec Corp.,risk_external,3,0.006579885303081811
+Logistec Corp.,risk_legal,1,-0.019891657179022727
+Logistec Corp.,risk_legal,2,0.01251221793640107
+Logistec Corp.,risk_legal,3,0.007552155594807838
+Logistec Corp.,risk_uncertainty,1,-0.027067037159747648
+Logistec Corp.,risk_uncertainty,2,0.011611925706313166
+Logistec Corp.,risk_uncertainty,3,0.015843435943999576
+Luby's,risk_constraint,1,-0.0005581890175647168
+Luby's,risk_constraint,2,-0.002423245698704247
+Luby's,risk_constraint,3,0.005206732327071533
+Luby's,risk_external,1,0.010889654579113912
+Luby's,risk_external,2,0.004350461946759053
+Luby's,risk_external,3,-0.023004462402306504
+Luby's,risk_legal,1,-0.0010439227456230035
+Luby's,risk_legal,2,-0.0031188074969738994
+Luby's,risk_legal,3,0.007150860963527825
+Luby's,risk_uncertainty,1,0.00047047930692733705
+Luby's,risk_uncertainty,2,-0.00800013632181474
+Luby's,risk_uncertainty,3,0.013994426932651136
+M.D.C. Holdings,risk_constraint,1,0.008347636914367839
+M.D.C. Holdings,risk_constraint,2,-0.002184910435016427
+M.D.C. Holdings,risk_constraint,3,-0.0028276610174724935
+M.D.C. Holdings,risk_external,1,-0.0076705557502844655
+M.D.C. Holdings,risk_external,2,0.011573009134775429
+M.D.C. Holdings,risk_external,3,-0.001592187821677066
+M.D.C. Holdings,risk_legal,1,0.008115037294647727
+M.D.C. Holdings,risk_legal,2,-0.0011511187374474963
+M.D.C. Holdings,risk_legal,3,-0.003175095932647647
+M.D.C. Holdings,risk_uncertainty,1,0.017087768658374882
+M.D.C. Holdings,risk_uncertainty,2,-0.005092891749068686
+M.D.C. Holdings,risk_uncertainty,3,-0.005516508808918314
+MF Global Holdings Ltd.,risk_constraint,1,0.001191917577148551
+MF Global Holdings Ltd.,risk_constraint,2,-0.00788340779945033
+MF Global Holdings Ltd.,risk_constraint,3,0.0039730285224209684
+MF Global Holdings Ltd.,risk_external,1,-0.007834831770903883
+MF Global Holdings Ltd.,risk_external,2,0.028755285021618743
+MF Global Holdings Ltd.,risk_external,3,-0.008265364746496463
+MF Global Holdings Ltd.,risk_legal,1,0.0024515110314201204
+MF Global Holdings Ltd.,risk_legal,2,-0.01795432007489175
+MF Global Holdings Ltd.,risk_legal,3,0.009518201557437139
+MF Global Holdings Ltd.,risk_uncertainty,1,-0.002379729068625892
+MF Global Holdings Ltd.,risk_uncertainty,2,0.0020934423598592163
+MF Global Holdings Ltd.,risk_uncertainty,3,0.0026288839387426004
+Macatawa Bank Corp.,risk_constraint,1,0.0003091685044444759
+Macatawa Bank Corp.,risk_constraint,2,-6.253596144933677e-05
+Macatawa Bank Corp.,risk_constraint,3,-0.0004627455179222923
+Macatawa Bank Corp.,risk_external,1,-0.003536936910958836
+Macatawa Bank Corp.,risk_external,2,0.004840824286192061
+Macatawa Bank Corp.,risk_external,3,0.0021856608702007754
+Macatawa Bank Corp.,risk_legal,1,0.0012468609073476202
+Macatawa Bank Corp.,risk_legal,2,-0.003825595875779596
+Macatawa Bank Corp.,risk_legal,3,0.0008260877752056386
+Macatawa Bank Corp.,risk_uncertainty,1,-0.000311567147550171
+Macatawa Bank Corp.,risk_uncertainty,2,0.0041122827987603566
+Macatawa Bank Corp.,risk_uncertainty,3,-0.002584518384456626
+Mace Security International,risk_constraint,1,0.0009710837619588583
+Mace Security International,risk_constraint,2,0.00019570508499177318
+Mace Security International,risk_constraint,3,-0.0013199942184180455
+Mace Security International,risk_external,1,-0.007077691988511007
+Mace Security International,risk_external,2,0.002250679682392073
+Mace Security International,risk_external,3,0.0036522056769432523
+Mace Security International,risk_legal,1,-0.0014262423741080563
+Mace Security International,risk_legal,2,0.0006820019536249266
+Mace Security International,risk_legal,3,0.0003651316652133559
+Mace Security International,risk_uncertainty,1,0.00992665014265839
+Mace Security International,risk_uncertainty,2,-0.004620946658904862
+Mace Security International,risk_uncertainty,3,-0.002745493253683981
+Magellan Midstream Partners LP,risk_constraint,1,0.01177918430682076
+Magellan Midstream Partners LP,risk_constraint,2,-0.006116568949208102
+Magellan Midstream Partners LP,risk_constraint,3,-0.0017980758705852247
+Magellan Midstream Partners LP,risk_external,1,0.0008036584148348573
+Magellan Midstream Partners LP,risk_external,2,0.008390500822203903
+Magellan Midstream Partners LP,risk_external,3,-0.004807967038258423
+Magellan Midstream Partners LP,risk_legal,1,0.01975835189766027
+Magellan Midstream Partners LP,risk_legal,2,-0.008113940762933161
+Magellan Midstream Partners LP,risk_legal,3,-0.004157623844490819
+Magellan Midstream Partners LP,risk_uncertainty,1,0.029571342921746582
+Magellan Midstream Partners LP,risk_uncertainty,2,-0.012316231071307292
+Magellan Midstream Partners LP,risk_uncertainty,3,-0.006130748415855227
+Marathon Oil Corp.,risk_constraint,1,-0.0017251259043124555
+Marathon Oil Corp.,risk_constraint,2,0.0042731945483913646
+Marathon Oil Corp.,risk_constraint,3,-0.0012310406772028611
+Marathon Oil Corp.,risk_external,1,0.00793536119885806
+Marathon Oil Corp.,risk_external,2,-0.020587537688953394
+Marathon Oil Corp.,risk_external,3,0.0061370487447250524
+Marathon Oil Corp.,risk_legal,1,-0.004859639411886964
+Marathon Oil Corp.,risk_legal,2,0.008686436254747682
+Marathon Oil Corp.,risk_legal,3,-0.001760891355557721
+Marathon Oil Corp.,risk_uncertainty,1,-0.008190670108339354
+Marathon Oil Corp.,risk_uncertainty,2,0.008640969098994106
+Marathon Oil Corp.,risk_uncertainty,3,8.810134000119532e-05
+Masonite International Corp.,risk_constraint,1,0.01606532790721537
+Masonite International Corp.,risk_constraint,2,-0.004808323285908859
+Masonite International Corp.,risk_constraint,3,-0.01195942367863833
+Masonite International Corp.,risk_external,1,-0.017269935394921915
+Masonite International Corp.,risk_external,2,0.02502843270373259
+Masonite International Corp.,risk_external,3,-0.00838123106368045
+Masonite International Corp.,risk_legal,1,0.022123696942277293
+Masonite International Corp.,risk_legal,2,-0.006923144667288766
+Masonite International Corp.,risk_legal,3,-0.016146937541054104
+Masonite International Corp.,risk_uncertainty,1,0.01580936523153641
+Masonite International Corp.,risk_uncertainty,2,-0.008718680498588123
+Masonite International Corp.,risk_uncertainty,3,-0.007505303853673496
+MediaValet,risk_constraint,1,0.013898652926798719
+MediaValet,risk_constraint,2,-0.007015069222410723
+MediaValet,risk_constraint,3,-0.005318288838805838
+MediaValet,risk_external,1,-0.025646979239010187
+MediaValet,risk_external,2,0.029198139688203336
+MediaValet,risk_external,3,-0.0036065296511266242
+MediaValet,risk_legal,1,0.004402206009573842
+MediaValet,risk_legal,2,-0.0008918859692354226
+MediaValet,risk_legal,3,-0.002782701197693218
+MediaValet,risk_uncertainty,1,0.02752114561301167
+MediaValet,risk_uncertainty,2,-0.012576358140919456
+MediaValet,risk_uncertainty,3,-0.011616193349609888
+Midway Games,risk_constraint,1,0.0012495816932774624
+Midway Games,risk_constraint,2,-0.0011809859785445772
+Midway Games,risk_constraint,3,-0.0011789135072340058
+Midway Games,risk_external,1,-0.005766736926413199
+Midway Games,risk_external,2,0.008012365493806172
+Midway Games,risk_external,3,0.0035125492548041142
+Midway Games,risk_legal,1,0.0011733861007786762
+Midway Games,risk_legal,2,-0.002555982429798003
+Midway Games,risk_legal,3,-1.8147896426821053e-05
+Midway Games,risk_uncertainty,1,0.0004916381306379886
+Midway Games,risk_uncertainty,2,0.0027275276308272654
+Midway Games,risk_uncertainty,3,-0.0028659579786841126
+Midwest Banc Holdings,risk_constraint,1,0.00043300250463414777
+Midwest Banc Holdings,risk_constraint,2,-0.005344016260795351
+Midwest Banc Holdings,risk_constraint,3,0.003353871596978775
+Midwest Banc Holdings,risk_external,1,-0.003510241975611082
+Midwest Banc Holdings,risk_external,2,0.01563457097328466
+Midwest Banc Holdings,risk_external,3,-0.005990561361265088
+Midwest Banc Holdings,risk_legal,1,0.001175766024640364
+Midwest Banc Holdings,risk_legal,2,-0.009473605290064111
+Midwest Banc Holdings,risk_legal,3,0.005250292777965773
+Midwest Banc Holdings,risk_uncertainty,1,-0.0014286255248603195
+Midwest Banc Holdings,risk_uncertainty,2,0.00022732124915772868
+Midwest Banc Holdings,risk_uncertainty,3,0.002259557621949972
+Minerva Bunkering,risk_constraint,1,-0.01383003511176761
+Minerva Bunkering,risk_constraint,2,0.012532094754108297
+Minerva Bunkering,risk_constraint,3,0.0006271095289145353
+Minerva Bunkering,risk_external,1,-8.780887103356384e-05
+Minerva Bunkering,risk_external,2,4.7163476561446795e-05
+Minerva Bunkering,risk_external,3,2.036354364144677e-05
+Minerva Bunkering,risk_legal,1,0.0032186250272207804
+Minerva Bunkering,risk_legal,2,0.005520488664959144
+Minerva Bunkering,risk_legal,3,-0.0044112421301226445
+Minerva Bunkering,risk_uncertainty,1,-0.034262318209972976
+Minerva Bunkering,risk_uncertainty,2,0.018776905171602163
+Minerva Bunkering,risk_uncertainty,3,0.007756570575380715
+Mirati Therapeutics,risk_constraint,1,0.011452750190679284
+Mirati Therapeutics,risk_constraint,2,-0.0016068243073258165
+Mirati Therapeutics,risk_constraint,3,-0.0048336899740676715
+Mirati Therapeutics,risk_external,1,-0.0032570333611998594
+Mirati Therapeutics,risk_external,2,0.006239920576075111
+Mirati Therapeutics,risk_external,3,-0.0020265311960379114
+Mirati Therapeutics,risk_legal,1,0.01645563626787841
+Mirati Therapeutics,risk_legal,2,-0.0035078944456079795
+Mirati Therapeutics,risk_legal,3,-0.006239908875766071
+Mirati Therapeutics,risk_uncertainty,1,0.004808648380976504
+Mirati Therapeutics,risk_uncertainty,2,0.0018117623347847483
+Mirati Therapeutics,risk_uncertainty,3,-0.003491870731756284
+Movie Gallery,risk_constraint,1,0.0031242724830700327
+Movie Gallery,risk_constraint,2,-0.004040605436236207
+Movie Gallery,risk_constraint,3,0.0003205543583295182
+Movie Gallery,risk_external,1,-0.02628688213147463
+Movie Gallery,risk_external,2,0.02752405647586091
+Movie Gallery,risk_external,3,0.00047771598187908637
+Movie Gallery,risk_legal,1,-0.00036923198288397183
+Movie Gallery,risk_legal,2,-0.00222456610302126
+Movie Gallery,risk_legal,3,0.0012874747428807758
+Movie Gallery,risk_uncertainty,1,0.016504115697865432
+Movie Gallery,risk_uncertainty,2,-0.011418717317466595
+Movie Gallery,risk_uncertainty,3,-0.003175280032373465
+NXXI,risk_constraint,1,0.002033522815922463
+NXXI,risk_constraint,2,-0.005792910062668018
+NXXI,risk_constraint,3,0.0008050996949500777
+NXXI,risk_external,1,-0.013623509040523268
+NXXI,risk_external,2,0.03191379200608387
+NXXI,risk_external,3,-0.00010086176906829391
+NXXI,risk_legal,1,0.003446534903327158
+NXXI,risk_legal,2,-0.013005941145910225
+NXXI,risk_legal,3,0.003811382214106813
+NXXI,risk_uncertainty,1,0.00017228088416115572
+NXXI,risk_uncertainty,2,-0.00048348399094323485
+NXXI,risk_uncertainty,3,6.260990954587352e-05
+National Instruments Corp.,risk_constraint,1,0.00746131865188973
+National Instruments Corp.,risk_constraint,2,0.003115490607696484
+National Instruments Corp.,risk_constraint,3,-0.008235235318266636
+National Instruments Corp.,risk_external,1,-0.0011003726254797106
+National Instruments Corp.,risk_external,2,-0.02491928959731361
+National Instruments Corp.,risk_external,3,0.02570783715825414
+National Instruments Corp.,risk_legal,1,0.012918588040087428
+National Instruments Corp.,risk_legal,2,0.006015959054919486
+National Instruments Corp.,risk_legal,3,-0.01488117850877205
+National Instruments Corp.,risk_uncertainty,1,0.022995187195415552
+National Instruments Corp.,risk_uncertainty,2,0.0007183736069062354
+National Instruments Corp.,risk_uncertainty,3,-0.01648484956206045
+National RV Holdings,risk_constraint,1,0.002493544505521006
+National RV Holdings,risk_constraint,2,-0.007631560911925594
+National RV Holdings,risk_constraint,3,0.0014559968838231882
+National RV Holdings,risk_external,1,-0.014615757151554134
+National RV Holdings,risk_external,2,0.034771523148790444
+National RV Holdings,risk_external,3,-0.0009142281368851264
+National RV Holdings,risk_legal,1,0.001524366079512013
+National RV Holdings,risk_legal,2,-0.007189867332257586
+National RV Holdings,risk_legal,3,0.0028214088730076398
+National RV Holdings,risk_uncertainty,1,0.004013528200678444
+National RV Holdings,risk_uncertainty,2,-0.009716958709611654
+National RV Holdings,risk_uncertainty,3,0.0003800339125597477
+Navios Maritime Holdings,risk_constraint,1,-0.003627990747607035
+Navios Maritime Holdings,risk_constraint,2,-0.00119086213659515
+Navios Maritime Holdings,risk_constraint,3,0.0035104913919425974
+Navios Maritime Holdings,risk_external,1,0.011777424293610372
+Navios Maritime Holdings,risk_external,2,-0.0038725348964683427
+Navios Maritime Holdings,risk_external,3,-0.005585879677698422
+Navios Maritime Holdings,risk_legal,1,0.012180001239972421
+Navios Maritime Holdings,risk_legal,2,-0.014795553631201075
+Navios Maritime Holdings,risk_legal,3,0.0023249781305584266
+Navios Maritime Holdings,risk_uncertainty,1,-0.015551043006200327
+Navios Maritime Holdings,risk_uncertainty,2,0.0014268962272829002
+Navios Maritime Holdings,risk_uncertainty,3,0.010143499340888684
+Newcrest Mining Ltd.,risk_constraint,1,0.0178584839289737
+Newcrest Mining Ltd.,risk_constraint,2,-0.003527053062736866
+Newcrest Mining Ltd.,risk_constraint,3,-0.00622684183846514
+Newcrest Mining Ltd.,risk_external,1,-0.01400497615326724
+Newcrest Mining Ltd.,risk_external,2,0.009599897350563418
+Newcrest Mining Ltd.,risk_external,3,0.0013210452845671922
+Newcrest Mining Ltd.,risk_legal,1,0.021461289361805497
+Newcrest Mining Ltd.,risk_legal,2,-0.00359144988104022
+Newcrest Mining Ltd.,risk_legal,3,-0.00782038713077591
+Newcrest Mining Ltd.,risk_uncertainty,1,-0.011157912311719403
+Newcrest Mining Ltd.,risk_uncertainty,2,0.00847690684674538
+Newcrest Mining Ltd.,risk_uncertainty,3,0.0006206011942965411
+NextGen Healthcare,risk_constraint,1,-0.001741688249082717
+NextGen Healthcare,risk_constraint,2,0.0033025208857856286
+NextGen Healthcare,risk_constraint,3,-0.0010634630882728063
+NextGen Healthcare,risk_external,1,-0.010436734314207314
+NextGen Healthcare,risk_external,2,-0.004748557994479254
+NextGen Healthcare,risk_external,3,0.008070785442237249
+NextGen Healthcare,risk_legal,1,-0.005201337824350166
+NextGen Healthcare,risk_legal,2,0.006567111676365899
+NextGen Healthcare,risk_legal,3,-0.0012361731797714145
+NextGen Healthcare,risk_uncertainty,1,0.012969275507391359
+NextGen Healthcare,risk_uncertainty,2,-0.0012956283540293176
+NextGen Healthcare,risk_uncertainty,3,-0.005793336269588743
+NuStar Energy LP,risk_constraint,1,0.00924745524685701
+NuStar Energy LP,risk_constraint,2,0.00038656337379479105
+NuStar Energy LP,risk_constraint,3,-0.004586293194313832
+NuStar Energy LP,risk_external,1,-0.00933098053477774
+NuStar Energy LP,risk_external,2,-0.009423683596754683
+NuStar Energy LP,risk_external,3,0.009859122021534576
+NuStar Energy LP,risk_legal,1,0.017464734089048375
+NuStar Energy LP,risk_legal,2,-0.0030045305735893688
+NuStar Energy LP,risk_legal,3,-0.00649895281009632
+NuStar Energy LP,risk_uncertainty,1,0.016535440537029676
+NuStar Energy LP,risk_uncertainty,2,-0.002583559296871857
+NuStar Energy LP,risk_uncertainty,3,-0.006304349859313645
+NuVasive,risk_constraint,1,-0.0007834380454266992
+NuVasive,risk_constraint,2,0.0008566989246048314
+NuVasive,risk_constraint,3,-0.000897321482273704
+NuVasive,risk_external,1,0.01383850316788176
+NuVasive,risk_external,2,-0.00677662554452221
+NuVasive,risk_external,3,-0.00043277467746648257
+NuVasive,risk_legal,1,-0.00783634131068411
+NuVasive,risk_legal,2,0.0031109700556695707
+NuVasive,risk_legal,3,0.00166064370706706
+NuVasive,risk_uncertainty,1,0.025750937915341356
+NuVasive,risk_uncertainty,2,-0.009360102733055818
+NuVasive,risk_uncertainty,3,-0.007138391799129596
+OPP Liquidating Co.,risk_constraint,1,0.025113472958220542
+OPP Liquidating Co.,risk_constraint,2,-0.0076219566111288516
+OPP Liquidating Co.,risk_constraint,3,-0.010622890541150539
+OPP Liquidating Co.,risk_external,1,-0.019148957946789287
+OPP Liquidating Co.,risk_external,2,0.015964149041755134
+OPP Liquidating Co.,risk_external,3,-0.00960506424621864
+OPP Liquidating Co.,risk_legal,1,0.02657588171343429
+OPP Liquidating Co.,risk_legal,2,-0.008501412995720584
+OPP Liquidating Co.,risk_legal,3,-0.010481807898708027
+OPP Liquidating Co.,risk_uncertainty,1,0.0448948501218052
+OPP Liquidating Co.,risk_uncertainty,2,-0.017988393034883546
+OPP Liquidating Co.,risk_uncertainty,3,-0.011382010423383174
+Old ANR LLC,risk_constraint,1,-5.7739102211541325e-05
+Old ANR LLC,risk_constraint,2,-0.002695746839123334
+Old ANR LLC,risk_constraint,3,0.0021509947617480082
+Old ANR LLC,risk_external,1,-0.0003817684663518454
+Old ANR LLC,risk_external,2,0.008457161107228344
+Old ANR LLC,risk_external,3,-0.005811524689525626
+Old ANR LLC,risk_legal,1,0.0003794773967518957
+Old ANR LLC,risk_legal,2,-0.0065729761650865455
+Old ANR LLC,risk_legal,3,0.00437905440364619
+Old ANR LLC,risk_uncertainty,1,-0.0013444815278036413
+Old ANR LLC,risk_uncertainty,2,-0.0011087166915275263
+Old ANR LLC,risk_uncertainty,3,0.0030822461096770668
+Old API Wind-down Ltd.,risk_constraint,1,0.015816229002602752
+Old API Wind-down Ltd.,risk_constraint,2,-0.004846088104025712
+Old API Wind-down Ltd.,risk_constraint,3,-0.00830175675476335
+Old API Wind-down Ltd.,risk_external,1,-0.011837286773885479
+Old API Wind-down Ltd.,risk_external,2,0.015127372125915264
+Old API Wind-down Ltd.,risk_external,3,-0.0032213904918173514
+Old API Wind-down Ltd.,risk_legal,1,0.012500478481102693
+Old API Wind-down Ltd.,risk_legal,2,-0.002976694869644843
+Old API Wind-down Ltd.,risk_legal,3,-0.007261503542846093
+Old API Wind-down Ltd.,risk_uncertainty,1,0.013437440862681851
+Old API Wind-down Ltd.,risk_uncertainty,2,-0.0029581723564067147
+Old API Wind-down Ltd.,risk_uncertainty,3,-0.00800401657205006
+OneSoft Solutions,risk_constraint,1,0.007907015774835626
+OneSoft Solutions,risk_constraint,2,-0.003799660474490389
+OneSoft Solutions,risk_constraint,3,-0.004133671826263896
+OneSoft Solutions,risk_external,1,0.007264420808178861
+OneSoft Solutions,risk_external,2,-0.02265219289612111
+OneSoft Solutions,risk_external,3,0.013285816839860042
+OneSoft Solutions,risk_legal,1,0.009133342825489877
+OneSoft Solutions,risk_legal,2,-0.0033824457947396365
+OneSoft Solutions,risk_legal,3,-0.005672152362563395
+OneSoft Solutions,risk_uncertainty,1,0.01472025426521156
+OneSoft Solutions,risk_uncertainty,2,-0.007962146933939812
+OneSoft Solutions,risk_uncertainty,3,-0.006903438121308499
+OpSens,risk_constraint,1,0.0010355153448680801
+OpSens,risk_constraint,2,0.007537230398634935
+OpSens,risk_constraint,3,-0.0051018782625826
+OpSens,risk_external,1,0.011240247024039899
+OpSens,risk_external,2,-0.035236029246961474
+OpSens,risk_external,3,0.015825921256462386
+OpSens,risk_legal,1,-0.003488413135938783
+OpSens,risk_legal,2,0.017435404967967815
+OpSens,risk_legal,3,-0.008865661052471491
+OpSens,risk_uncertainty,1,0.009438250055321017
+OpSens,risk_uncertainty,2,-0.002884908612034854
+OpSens,risk_uncertainty,3,-0.002954992681140668
+Orbital Infrastructure Group,risk_constraint,1,0.003613587281867467
+Orbital Infrastructure Group,risk_constraint,2,0.0002166893825975198
+Orbital Infrastructure Group,risk_constraint,3,-0.004290359883237944
+Orbital Infrastructure Group,risk_external,1,-0.008355259994605232
+Orbital Infrastructure Group,risk_external,2,-0.0001919018811364472
+Orbital Infrastructure Group,risk_external,3,0.009437265573710385
+Orbital Infrastructure Group,risk_legal,1,0.0007194042844251436
+Orbital Infrastructure Group,risk_legal,2,0.005710561030961404
+Orbital Infrastructure Group,risk_legal,3,-0.00970599133780114
+Orbital Infrastructure Group,risk_uncertainty,1,0.005170759971872864
+Orbital Infrastructure Group,risk_uncertainty,2,-0.0002037892678286334
+Orbital Infrastructure Group,risk_uncertainty,3,-0.005336587146249072
+Overseas Shipholding Group,risk_constraint,1,-0.02919010798423726
+Overseas Shipholding Group,risk_constraint,2,0.011937846510810073
+Overseas Shipholding Group,risk_constraint,3,0.006044984636872781
+Overseas Shipholding Group,risk_external,1,0.033738953849778056
+Overseas Shipholding Group,risk_external,2,-0.02075296372083885
+Overseas Shipholding Group,risk_external,3,0.003019397574029123
+Overseas Shipholding Group,risk_legal,1,0.0012117461034597925
+Overseas Shipholding Group,risk_legal,2,0.0025913279808904874
+Overseas Shipholding Group,risk_legal,3,-0.004692304561119556
+Overseas Shipholding Group,risk_uncertainty,1,-0.044025767184260246
+Overseas Shipholding Group,risk_uncertainty,2,0.01925840554733181
+Overseas Shipholding Group,risk_uncertainty,3,0.007314172677377772
+P&F Industries,risk_constraint,1,0.0315991188273429
+P&F Industries,risk_constraint,2,-0.0068908063335325715
+P&F Industries,risk_constraint,3,-0.016473721074662898
+P&F Industries,risk_external,1,-0.04298053803666852
+P&F Industries,risk_external,2,0.013697140414235164
+P&F Industries,risk_external,3,0.017931480381375223
+P&F Industries,risk_legal,1,0.03185647143881897
+P&F Industries,risk_legal,2,-0.007881739752210156
+P&F Industries,risk_legal,3,-0.015640351619021362
+P&F Industries,risk_uncertainty,1,0.027051407997650708
+P&F Industries,risk_uncertainty,2,-0.005021242165381559
+P&F Industries,risk_uncertainty,3,-0.01501141742382412
+PCTEL,risk_constraint,1,0.009892122420282095
+PCTEL,risk_constraint,2,-0.00499114173318947
+PCTEL,risk_constraint,3,-0.002191110162260315
+PCTEL,risk_external,1,0.000362931391622539
+PCTEL,risk_external,2,0.004158606048325046
+PCTEL,risk_external,3,-0.004891618067896364
+PCTEL,risk_legal,1,-0.00013863617870643938
+PCTEL,risk_legal,2,0.0018034665707477608
+PCTEL,risk_legal,3,-0.0018902666698605362
+PCTEL,risk_uncertainty,1,0.03309775467343527
+PCTEL,risk_uncertainty,2,-0.013828222981650633
+PCTEL,risk_uncertainty,3,-0.010513172669357517
+PDC Energy,risk_constraint,1,0.01739109381577593
+PDC Energy,risk_constraint,2,-0.0044950814518194635
+PDC Energy,risk_constraint,3,-0.008342219171571645
+PDC Energy,risk_external,1,-0.018192062227039264
+PDC Energy,risk_external,2,0.01841333421300798
+PDC Energy,risk_external,3,-0.00012072615374240665
+PDC Energy,risk_legal,1,0.009418913705017162
+PDC Energy,risk_legal,2,-0.0017595125221022572
+PDC Energy,risk_legal,3,-0.004953637884040628
+PDC Energy,risk_uncertainty,1,0.019244948863376743
+PDC Energy,risk_uncertainty,2,-0.0031308626475571822
+PDC Energy,risk_uncertainty,3,-0.01042092541404517
+PFF Bancorp,risk_constraint,1,-6.493931866014018e-05
+PFF Bancorp,risk_constraint,2,0.0027399497965662103
+PFF Bancorp,risk_constraint,3,-0.0019436446938501932
+PFF Bancorp,risk_external,1,-0.0010231871311915854
+PFF Bancorp,risk_external,2,-0.00447688019177955
+PFF Bancorp,risk_external,3,0.0049956541177362595
+PFF Bancorp,risk_legal,1,0.0012118209920996621
+PFF Bancorp,risk_legal,2,-0.0008476428072466033
+PFF Bancorp,risk_legal,3,-0.0013192043571667977
+PFF Bancorp,risk_uncertainty,1,-0.00106352257613064
+PFF Bancorp,risk_uncertainty,2,0.007417592157635942
+PFF Bancorp,risk_uncertainty,3,-0.003831258075462008
+PFSweb,risk_constraint,1,-0.02263928971681524
+PFSweb,risk_constraint,2,0.0030013776868735237
+PFSweb,risk_constraint,3,0.00876129081821261
+PFSweb,risk_external,1,0.07831804969875161
+PFSweb,risk_external,2,-0.011826414917936906
+PFSweb,risk_external,3,-0.025630061510881708
+PFSweb,risk_legal,1,-0.022671360812209235
+PFSweb,risk_legal,2,0.0041130019156965835
+PFSweb,risk_legal,3,0.005184495257027759
+PFSweb,risk_uncertainty,1,-0.02707198307567904
+PFSweb,risk_uncertainty,2,0.0028783402260857205
+PFSweb,risk_uncertainty,3,0.012780225247726894
+PGS ASA,risk_constraint,1,-0.017130131512257406
+PGS ASA,risk_constraint,2,0.010385915979063994
+PGS ASA,risk_constraint,3,0.003969890433459822
+PGS ASA,risk_external,1,0.023991708765575402
+PGS ASA,risk_external,2,-0.02197590763274084
+PGS ASA,risk_external,3,0.002973860231124741
+PGS ASA,risk_legal,1,-0.008779673028555802
+PGS ASA,risk_legal,2,0.008328822279704846
+PGS ASA,risk_legal,3,-0.0014177180884535033
+PGS ASA,risk_uncertainty,1,-0.023920186698752482
+PGS ASA,risk_uncertainty,2,0.00818004113669126
+PGS ASA,risk_uncertainty,3,0.012805667102378578
+PGT Innovations,risk_constraint,1,0.008611038900722416
+PGT Innovations,risk_constraint,2,-0.007664988535136477
+PGT Innovations,risk_constraint,3,0.0013236342677629745
+PGT Innovations,risk_external,1,0.007419006271323223
+PGT Innovations,risk_external,2,0.007674148906360265
+PGT Innovations,risk_external,3,-0.01240344833774405
+PGT Innovations,risk_legal,1,0.0033407080572132397
+PGT Innovations,risk_legal,2,-0.00525163828870226
+PGT Innovations,risk_legal,3,0.0026743304046978915
+PGT Innovations,risk_uncertainty,1,0.01834074767626213
+PGT Innovations,risk_uncertainty,2,-0.015868444371253503
+PGT Innovations,risk_uncertainty,3,0.0023854388710206464
+PHH Liquidation Trust,risk_constraint,1,0.0026394593780461797
+PHH Liquidation Trust,risk_constraint,2,0.003106675673065212
+PHH Liquidation Trust,risk_constraint,3,-0.0027506982988970067
+PHH Liquidation Trust,risk_external,1,-0.014497620286487219
+PHH Liquidation Trust,risk_external,2,0.005188350308745567
+PHH Liquidation Trust,risk_external,3,0.004766023301419178
+PHH Liquidation Trust,risk_legal,1,0.015831620688792753
+PHH Liquidation Trust,risk_legal,2,-0.004909696276263157
+PHH Liquidation Trust,risk_legal,3,-0.005555978400637719
+PHH Liquidation Trust,risk_uncertainty,1,0.0009740487246549991
+PHH Liquidation Trust,risk_uncertainty,2,0.006104052462793788
+PHH Liquidation Trust,risk_uncertainty,3,-0.003319331556683856
+Pareteum Corp.,risk_constraint,1,0.01816535034777636
+Pareteum Corp.,risk_constraint,2,0.005901036263806737
+Pareteum Corp.,risk_constraint,3,-0.017071421772852757
+Pareteum Corp.,risk_external,1,-0.02750317245091196
+Pareteum Corp.,risk_external,2,0.005027213220120893
+Pareteum Corp.,risk_external,3,0.015269992927469101
+Pareteum Corp.,risk_legal,1,0.015418823403490227
+Pareteum Corp.,risk_legal,2,0.013756281511462489
+Pareteum Corp.,risk_legal,3,-0.021117099366159336
+Pareteum Corp.,risk_uncertainty,1,0.015706832564504107
+Pareteum Corp.,risk_uncertainty,2,0.008311194585515033
+Pareteum Corp.,risk_uncertainty,3,-0.017191854548450864
+Park Lawn Corp.,risk_constraint,1,-0.01544254203997921
+Park Lawn Corp.,risk_constraint,2,0.007921168971724795
+Park Lawn Corp.,risk_constraint,3,0.007641223960567223
+Park Lawn Corp.,risk_external,1,0.03168968887111314
+Park Lawn Corp.,risk_external,2,-0.03727536959554833
+Park Lawn Corp.,risk_external,3,0.005559611299631748
+Park Lawn Corp.,risk_legal,1,-0.023329454326528238
+Park Lawn Corp.,risk_legal,2,0.013499089557099787
+Park Lawn Corp.,risk_legal,3,0.009995397733362305
+Park Lawn Corp.,risk_uncertainty,1,-0.013844139909588493
+Park Lawn Corp.,risk_uncertainty,2,0.004700430163969528
+Park Lawn Corp.,risk_uncertainty,3,0.009276268673851364
+Particle Drilling Technologies,risk_constraint,1,0.0017307186424613203
+Particle Drilling Technologies,risk_constraint,2,-0.010733124453294017
+Particle Drilling Technologies,risk_constraint,3,0.005243639257020534
+Particle Drilling Technologies,risk_external,1,-0.008958330672325548
+Particle Drilling Technologies,risk_external,2,0.03582847614098198
+Particle Drilling Technologies,risk_external,3,-0.011805516681931527
+Particle Drilling Technologies,risk_legal,1,0.0014647379925470524
+Particle Drilling Technologies,risk_legal,2,-0.01580509340201892
+Particle Drilling Technologies,risk_legal,3,0.009663114432060397
+Particle Drilling Technologies,risk_uncertainty,1,-0.00045985945387804075
+Particle Drilling Technologies,risk_uncertainty,2,-0.007153224955638459
+Particle Drilling Technologies,risk_uncertainty,3,0.006384777565807374
+Pennsylvania Real Estate Investment Trust,risk_constraint,1,-0.012743068503832743
+Pennsylvania Real Estate Investment Trust,risk_constraint,2,0.00630142267460235
+Pennsylvania Real Estate Investment Trust,risk_constraint,3,0.00209468103163611
+Pennsylvania Real Estate Investment Trust,risk_external,1,0.020618021720452698
+Pennsylvania Real Estate Investment Trust,risk_external,2,-0.021046109473755282
+Pennsylvania Real Estate Investment Trust,risk_external,3,0.0003491904618091661
+Pennsylvania Real Estate Investment Trust,risk_legal,1,-0.010759583160885301
+Pennsylvania Real Estate Investment Trust,risk_legal,2,0.0058177918617132555
+Pennsylvania Real Estate Investment Trust,risk_legal,3,0.0015973393713566491
+Pennsylvania Real Estate Investment Trust,risk_uncertainty,1,-0.009297484558359612
+Pennsylvania Real Estate Investment Trust,risk_uncertainty,2,0.0028891744883944603
+Pennsylvania Real Estate Investment Trust,risk_uncertainty,3,0.0021169031698566507
+Perficient,risk_constraint,1,0.012414380109637888
+Perficient,risk_constraint,2,-0.004825434549729118
+Perficient,risk_constraint,3,-0.0031545565647157652
+Perficient,risk_external,1,-0.024939079789538122
+Perficient,risk_external,2,0.01262342746282593
+Perficient,risk_external,3,0.004890218619586877
+Perficient,risk_legal,1,0.009566205614371538
+Perficient,risk_legal,2,-0.002870754723385895
+Perficient,risk_legal,3,-0.002849440211988629
+Perficient,risk_uncertainty,1,0.01907788759639556
+Perficient,risk_uncertainty,2,-0.009205650286251985
+Perficient,risk_uncertainty,3,-0.0039636673159907185
+Pernix Therapeutics Holdings,risk_constraint,1,0.0006362278580531518
+Pernix Therapeutics Holdings,risk_constraint,2,0.004045044918305665
+Pernix Therapeutics Holdings,risk_constraint,3,-0.006540266187863069
+Pernix Therapeutics Holdings,risk_external,1,-0.007965200940895268
+Pernix Therapeutics Holdings,risk_external,2,-0.001180109876940631
+Pernix Therapeutics Holdings,risk_external,3,0.010352408894333856
+Pernix Therapeutics Holdings,risk_legal,1,0.004949718070771921
+Pernix Therapeutics Holdings,risk_legal,2,2.8937363166687408e-05
+Pernix Therapeutics Holdings,risk_legal,3,-0.005414509714039169
+Pernix Therapeutics Holdings,risk_uncertainty,1,-0.002611050669244238
+Pernix Therapeutics Holdings,risk_uncertainty,2,0.002679753420475276
+Pernix Therapeutics Holdings,risk_uncertainty,3,-0.0010411202598801625
+PetroQuest Energy,risk_constraint,1,0.01914957072294278
+PetroQuest Energy,risk_constraint,2,-0.004585556769223942
+PetroQuest Energy,risk_constraint,3,-0.00630692408480471
+PetroQuest Energy,risk_external,1,-0.013575999743662144
+PetroQuest Energy,risk_external,2,0.015059731691726698
+PetroQuest Energy,risk_external,3,-0.0004399106336339016
+PetroQuest Energy,risk_legal,1,0.010318823812066003
+PetroQuest Energy,risk_legal,2,-0.0011474032436305068
+PetroQuest Energy,risk_legal,3,-0.003948960216532567
+PetroQuest Energy,risk_uncertainty,1,0.016479357589386463
+PetroQuest Energy,risk_uncertainty,2,-0.0016769588336825814
+PetroQuest Energy,risk_uncertainty,3,-0.006371221242787557
+Piksel,risk_constraint,1,0.0009050047599824718
+Piksel,risk_constraint,2,0.0031198657443095162
+Piksel,risk_constraint,3,-0.0023204374302019286
+Piksel,risk_external,1,0.00037566484158618046
+Piksel,risk_external,2,-0.014007590108051594
+Piksel,risk_external,3,0.008201650142063551
+Piksel,risk_legal,1,0.0012479060022357422
+Piksel,risk_legal,2,0.005408887236792507
+Piksel,risk_legal,3,-0.0038625814424866124
+Piksel,risk_uncertainty,1,0.00855640459081208
+Piksel,risk_uncertainty,2,-0.0016828287072700786
+Piksel,risk_uncertainty,3,-0.0032649131217383567
+Pinnacle Airlines Corp.,risk_constraint,1,0.011519691585523241
+Pinnacle Airlines Corp.,risk_constraint,2,-0.007324072798033732
+Pinnacle Airlines Corp.,risk_constraint,3,-0.0020207429535215697
+Pinnacle Airlines Corp.,risk_external,1,-0.010235793771554624
+Pinnacle Airlines Corp.,risk_external,2,0.02102455988079898
+Pinnacle Airlines Corp.,risk_external,3,-0.004635539969027909
+Pinnacle Airlines Corp.,risk_legal,1,0.021585996037310685
+Pinnacle Airlines Corp.,risk_legal,2,-0.010002883887082101
+Pinnacle Airlines Corp.,risk_legal,3,-0.005435071767717015
+Pinnacle Airlines Corp.,risk_uncertainty,1,0.0040035721329971866
+Pinnacle Airlines Corp.,risk_uncertainty,2,-0.0034998734154239467
+Pinnacle Airlines Corp.,risk_uncertainty,3,-0.00027946048006682596
+Point.360,risk_constraint,1,-0.001650311013170015
+Point.360,risk_constraint,2,0.0019413491849816838
+Point.360,risk_constraint,3,-0.00010007506612335834
+Point.360,risk_external,1,-0.019516261870784667
+Point.360,risk_external,2,0.008349721546344403
+Point.360,risk_external,3,0.0034441610686034396
+Point.360,risk_legal,1,-0.0059060497588954
+Point.360,risk_legal,2,0.001346346860598546
+Point.360,risk_legal,3,0.0014162266547003224
+Point.360,risk_uncertainty,1,0.013073149965461207
+Point.360,risk_uncertainty,2,-0.0017627399397557647
+Point.360,risk_uncertainty,3,-0.0035205002343890626
+Quadrant 4 Systems Corp.,risk_constraint,1,-0.010542992826924051
+Quadrant 4 Systems Corp.,risk_constraint,2,0.007093084682684547
+Quadrant 4 Systems Corp.,risk_constraint,3,0.00391405344623858
+Quadrant 4 Systems Corp.,risk_external,1,0.02273260234664824
+Quadrant 4 Systems Corp.,risk_external,2,-0.02694556649263295
+Quadrant 4 Systems Corp.,risk_external,3,0.003171457461058052
+Quadrant 4 Systems Corp.,risk_legal,1,-0.013027111026432428
+Quadrant 4 Systems Corp.,risk_legal,2,0.009523691274283541
+Quadrant 4 Systems Corp.,risk_legal,3,0.004079580132404273
+Quadrant 4 Systems Corp.,risk_uncertainty,1,-0.00403095745547204
+Quadrant 4 Systems Corp.,risk_uncertainty,2,0.0021984066289822283
+Quadrant 4 Systems Corp.,risk_uncertainty,3,0.0020082150027190895
+Quicksilver Resources,risk_constraint,1,0.011727556702883973
+Quicksilver Resources,risk_constraint,2,-0.0010234023901928115
+Quicksilver Resources,risk_constraint,3,-0.004525161040379959
+Quicksilver Resources,risk_external,1,-0.006842056364775251
+Quicksilver Resources,risk_external,2,0.01001593219051357
+Quicksilver Resources,risk_external,3,-0.0012403549559079155
+Quicksilver Resources,risk_legal,1,0.015051778585595907
+Quicksilver Resources,risk_legal,2,-0.003313021113565965
+Quicksilver Resources,risk_legal,3,-0.004984062743819319
+Quicksilver Resources,risk_uncertainty,1,0.017918564112931475
+Quicksilver Resources,risk_uncertainty,2,-0.000873113656066336
+Quicksilver Resources,risk_uncertainty,3,-0.007198498224751739
+R.H. Donnelley Corp.,risk_constraint,1,0.0015681153415923461
+R.H. Donnelley Corp.,risk_constraint,2,-0.006246844228057173
+R.H. Donnelley Corp.,risk_constraint,3,0.0020312539873386126
+R.H. Donnelley Corp.,risk_external,1,-0.010615588112670677
+R.H. Donnelley Corp.,risk_external,2,0.027995714451955988
+R.H. Donnelley Corp.,risk_external,3,-0.0027894826361456646
+R.H. Donnelley Corp.,risk_legal,1,0.002127338344769247
+R.H. Donnelley Corp.,risk_legal,2,-0.012613013174544684
+R.H. Donnelley Corp.,risk_legal,3,0.005929367765775507
+R.H. Donnelley Corp.,risk_uncertainty,1,0.0005093151378254126
+R.H. Donnelley Corp.,risk_uncertainty,2,-0.0005310567202303995
+R.H. Donnelley Corp.,risk_uncertainty,3,-0.000488978626144336
+R1 RCM,risk_constraint,1,-0.0007837034424940711
+R1 RCM,risk_constraint,2,0.0005226447307110659
+R1 RCM,risk_constraint,3,-0.00043361576026094625
+R1 RCM,risk_external,1,-0.010032438197066274
+R1 RCM,risk_external,2,-0.005611610132137806
+R1 RCM,risk_external,3,0.019847984803243273
+R1 RCM,risk_legal,1,-0.01817901211762977
+R1 RCM,risk_legal,2,0.005332189035236364
+R1 RCM,risk_legal,3,0.003962793622752238
+R1 RCM,risk_uncertainty,1,0.017926601439258998
+R1 RCM,risk_uncertainty,2,-0.004128047882147878
+R1 RCM,risk_uncertainty,3,-0.006240969393664378
+RAIT Financial Trust,risk_constraint,1,0.015945322331418547
+RAIT Financial Trust,risk_constraint,2,-0.003596730041758053
+RAIT Financial Trust,risk_constraint,3,-0.007623940090204815
+RAIT Financial Trust,risk_external,1,-0.017429474291118095
+RAIT Financial Trust,risk_external,2,0.006148677430055755
+RAIT Financial Trust,risk_external,3,0.004575056171166254
+RAIT Financial Trust,risk_legal,1,0.022722675094771973
+RAIT Financial Trust,risk_legal,2,-0.005982663941270093
+RAIT Financial Trust,risk_legal,3,-0.009411306913811503
+RAIT Financial Trust,risk_uncertainty,1,0.011839092673011586
+RAIT Financial Trust,risk_uncertainty,2,-0.005516643075825478
+RAIT Financial Trust,risk_uncertainty,3,-0.000835912776874918
+RPT Realty,risk_constraint,1,-0.011347388350421353
+RPT Realty,risk_constraint,2,-0.002647306086376687
+RPT Realty,risk_constraint,3,0.016889029521982103
+RPT Realty,risk_external,1,0.04391327797958117
+RPT Realty,risk_external,2,-0.007838138825532956
+RPT Realty,risk_external,3,-0.03075949548288861
+RPT Realty,risk_legal,1,-0.005097718062640967
+RPT Realty,risk_legal,2,-0.0065536573789067515
+RPT Realty,risk_legal,3,0.01785129515962263
+RPT Realty,risk_uncertainty,1,-0.012527962501345913
+RPT Realty,risk_uncertainty,2,-0.0037644108232907066
+RPT Realty,risk_uncertainty,3,0.020256599470374444
+Rand Logistics,risk_constraint,1,-0.01529991668255742
+Rand Logistics,risk_constraint,2,0.005804117402869393
+Rand Logistics,risk_constraint,3,0.009265142772342243
+Rand Logistics,risk_external,1,0.03252451895815219
+Rand Logistics,risk_external,2,-0.015871326321101636
+Rand Logistics,risk_external,3,-0.014176191419014593
+Rand Logistics,risk_legal,1,-0.007828084945768575
+Rand Logistics,risk_legal,2,-0.0001260306166104956
+Rand Logistics,risk_legal,3,0.009576875782368084
+Rand Logistics,risk_uncertainty,1,-0.015706464384185433
+Rand Logistics,risk_uncertainty,2,0.004671572683870766
+Rand Logistics,risk_uncertainty,3,0.011521691969152799
+Rentech,risk_constraint,1,-0.0057709465030357275
+Rentech,risk_constraint,2,0.002030685548012103
+Rentech,risk_constraint,3,0.0027615653262621992
+Rentech,risk_external,1,0.020213736092754533
+Rentech,risk_external,2,-0.01454788375972259
+Rentech,risk_external,3,-0.0009335377213351851
+Rentech,risk_legal,1,-0.00641919938492393
+Rentech,risk_legal,2,0.0027025044032970525
+Rentech,risk_legal,3,0.0025502258673865347
+Rentech,risk_uncertainty,1,-0.015038139818232136
+Rentech,risk_uncertainty,2,0.0047623234431983155
+Rentech,risk_uncertainty,3,0.007818348145128747
+Revenir Energy,risk_constraint,1,0.01963283824107651
+Revenir Energy,risk_constraint,2,-0.009153740030185506
+Revenir Energy,risk_constraint,3,-0.007606298459176504
+Revenir Energy,risk_external,1,-0.028042164232543156
+Revenir Energy,risk_external,2,0.03243167766268507
+Revenir Energy,risk_external,3,-0.004554537293708361
+Revenir Energy,risk_legal,1,0.021249605428440527
+Revenir Energy,risk_legal,2,-0.007807967894612815
+Revenir Energy,risk_legal,3,-0.009905093779355488
+Revenir Energy,risk_uncertainty,1,0.019005833835233896
+Revenir Energy,risk_uncertainty,2,-0.00641081492267247
+Revenir Energy,risk_uncertainty,3,-0.009315385026925558
+Revlon Group Holdings LLC,risk_constraint,1,-0.00024860628875625454
+Revlon Group Holdings LLC,risk_constraint,2,-0.004252138004414725
+Revlon Group Holdings LLC,risk_constraint,3,0.004890514370213808
+Revlon Group Holdings LLC,risk_external,1,-0.004787485384211355
+Revlon Group Holdings LLC,risk_external,2,0.016831822227861427
+Revlon Group Holdings LLC,risk_external,3,-0.014469045718357242
+Revlon Group Holdings LLC,risk_legal,1,-0.001955963709041586
+Revlon Group Holdings LLC,risk_legal,2,-0.0037636366056968485
+Revlon Group Holdings LLC,risk_legal,3,0.005799364508641768
+Revlon Group Holdings LLC,risk_uncertainty,1,0.01075700387376449
+Revlon Group Holdings LLC,risk_uncertainty,2,-0.0078045507295121785
+Revlon Group Holdings LLC,risk_uncertainty,3,-0.0005237931998870694
+Rite Aid Corp.,risk_constraint,1,0.015737546235083114
+Rite Aid Corp.,risk_constraint,2,-0.006243106839721812
+Rite Aid Corp.,risk_constraint,3,-0.00416627028434721
+Rite Aid Corp.,risk_external,1,-0.014608978598769803
+Rite Aid Corp.,risk_external,2,0.021101724078319103
+Rite Aid Corp.,risk_external,3,-0.0025499016653727285
+Rite Aid Corp.,risk_legal,1,0.018422650811058996
+Rite Aid Corp.,risk_legal,2,-0.006755202517341879
+Rite Aid Corp.,risk_legal,3,-0.005109000675336896
+Rite Aid Corp.,risk_uncertainty,1,0.014228131576657858
+Rite Aid Corp.,risk_uncertainty,2,-0.003126954048405296
+Rite Aid Corp.,risk_uncertainty,3,-0.004822119051331534
+Roust Corp.,risk_constraint,1,-0.0011471453251612014
+Roust Corp.,risk_constraint,2,0.0022637962827009852
+Roust Corp.,risk_constraint,3,-0.0008177011969154712
+Roust Corp.,risk_external,1,-0.018760924965915103
+Roust Corp.,risk_external,2,-0.0018711330184356442
+Roust Corp.,risk_external,3,0.011773847151337436
+Roust Corp.,risk_legal,1,0.0061676933023027385
+Roust Corp.,risk_legal,2,-0.0036215862496716805
+Roust Corp.,risk_legal,3,-0.0011314429668815738
+Roust Corp.,risk_uncertainty,1,-0.017452610316910158
+Roust Corp.,risk_uncertainty,2,0.007770825119684533
+Roust Corp.,risk_uncertainty,3,0.004803188402425598
+SONIFI Solutions,risk_constraint,1,0.0013451205364981313
+SONIFI Solutions,risk_constraint,2,-0.0007925657010689046
+SONIFI Solutions,risk_constraint,3,-0.0016657263081032818
+SONIFI Solutions,risk_external,1,-0.009757511313946502
+SONIFI Solutions,risk_external,2,0.013667039395801267
+SONIFI Solutions,risk_external,3,0.006125258566018697
+SONIFI Solutions,risk_legal,1,0.0020600501137369043
+SONIFI Solutions,risk_legal,2,-0.0038298012604493495
+SONIFI Solutions,risk_legal,3,-0.0005825886501915826
+SONIFI Solutions,risk_uncertainty,1,0.001731253262547237
+SONIFI Solutions,risk_uncertainty,2,0.0025645048524470175
+SONIFI Solutions,risk_uncertainty,3,-0.004841208240017883
+SP Plus Corp.,risk_constraint,1,-0.021265943075821143
+SP Plus Corp.,risk_constraint,2,0.00850001981518292
+SP Plus Corp.,risk_constraint,3,0.006503364376883942
+SP Plus Corp.,risk_external,1,0.033086855956179904
+SP Plus Corp.,risk_external,2,-0.026118923850603673
+SP Plus Corp.,risk_external,3,-0.0015590137457530255
+SP Plus Corp.,risk_legal,1,-0.022029978027246176
+SP Plus Corp.,risk_legal,2,0.011517049327102558
+SP Plus Corp.,risk_legal,3,0.004936976571483115
+SP Plus Corp.,risk_uncertainty,1,-0.01763855714791679
+SP Plus Corp.,risk_uncertainty,2,0.005331411186985466
+SP Plus Corp.,risk_uncertainty,3,0.00653499879602841
+SRC Liquidation LLC,risk_constraint,1,0.0014907753078322213
+SRC Liquidation LLC,risk_constraint,2,0.0029803614418460567
+SRC Liquidation LLC,risk_constraint,3,-0.006963654333013429
+SRC Liquidation LLC,risk_external,1,-0.009438971961219279
+SRC Liquidation LLC,risk_external,2,-0.005002300613352554
+SRC Liquidation LLC,risk_external,3,0.02266144183607631
+SRC Liquidation LLC,risk_legal,1,0.00023535033469007736
+SRC Liquidation LLC,risk_legal,2,0.004809689780082516
+SRC Liquidation LLC,risk_legal,3,-0.007804419856834739
+SRC Liquidation LLC,risk_uncertainty,1,0.005040171962406794
+SRC Liquidation LLC,risk_uncertainty,2,-0.0009489262288452861
+SRC Liquidation LLC,risk_uncertainty,3,-0.006506831773675593
+Sculptor Capital Management,risk_constraint,1,0.00028018490511796923
+Sculptor Capital Management,risk_constraint,2,-0.0006269606018643645
+Sculptor Capital Management,risk_constraint,3,0.00026324799541848666
+Sculptor Capital Management,risk_external,1,0.02077871861962718
+Sculptor Capital Management,risk_external,2,-0.009954949958397383
+Sculptor Capital Management,risk_external,3,-0.007999581465296826
+Sculptor Capital Management,risk_legal,1,0.003638005390651744
+Sculptor Capital Management,risk_legal,2,-0.0013050378209264807
+Sculptor Capital Management,risk_legal,3,-0.0017304198643570533
+Sculptor Capital Management,risk_uncertainty,1,-0.011166618430729174
+Sculptor Capital Management,risk_uncertainty,2,-0.00033998119458651145
+Sculptor Capital Management,risk_uncertainty,3,0.008584554474140464
+Seagen,risk_constraint,1,0.008339518728571398
+Seagen,risk_constraint,2,-0.004521516911252633
+Seagen,risk_constraint,3,-0.0016862179716733952
+Seagen,risk_external,1,-1.7134401356297402e-06
+Seagen,risk_external,2,0.014924389665664018
+Seagen,risk_external,3,-0.006367541010304915
+Seagen,risk_legal,1,0.015959846900208456
+Seagen,risk_legal,2,-0.007519448180204107
+Seagen,risk_legal,3,-0.003710752660420475
+Seagen,risk_uncertainty,1,0.01547765404923787
+Seagen,risk_uncertainty,2,-0.006116057162869692
+Seagen,risk_uncertainty,3,-0.0041005313169124626
+Sears Holdings Corp.,risk_constraint,1,-0.01557540775563872
+Sears Holdings Corp.,risk_constraint,2,0.012275923148664183
+Sears Holdings Corp.,risk_constraint,3,0.009543199385326804
+Sears Holdings Corp.,risk_external,1,0.014270818160837124
+Sears Holdings Corp.,risk_external,2,-0.029528837690831616
+Sears Holdings Corp.,risk_external,3,0.007887353116717618
+Sears Holdings Corp.,risk_legal,1,-0.016317224891202933
+Sears Holdings Corp.,risk_legal,2,0.016092533841219083
+Sears Holdings Corp.,risk_legal,3,0.007057469436623306
+Sears Holdings Corp.,risk_uncertainty,1,-0.015021645335944748
+Sears Holdings Corp.,risk_uncertainty,2,0.011922974702300713
+Sears Holdings Corp.,risk_uncertainty,3,0.009127935211725193
+Sequential Brands Group,risk_constraint,1,0.014929555669272995
+Sequential Brands Group,risk_constraint,2,-0.007103496809951393
+Sequential Brands Group,risk_constraint,3,-0.002145038255773107
+Sequential Brands Group,risk_external,1,-0.011809994782760298
+Sequential Brands Group,risk_external,2,0.015028118566832036
+Sequential Brands Group,risk_external,3,-0.017044371881534136
+Sequential Brands Group,risk_legal,1,0.015641782208325888
+Sequential Brands Group,risk_legal,2,-0.007518261410491757
+Sequential Brands Group,risk_legal,3,-0.0020962139714196908
+Sequential Brands Group,risk_uncertainty,1,0.012812019560389054
+Sequential Brands Group,risk_uncertainty,2,-0.0055103521439629636
+Sequential Brands Group,risk_uncertainty,3,-0.0030072652031490257
+SilverBow Resources,risk_constraint,1,0.004825450868737454
+SilverBow Resources,risk_constraint,2,-0.004033654899524773
+SilverBow Resources,risk_constraint,3,-0.0005408543350693836
+SilverBow Resources,risk_external,1,0.005189788768023367
+SilverBow Resources,risk_external,2,0.00038766304125609804
+SilverBow Resources,risk_external,3,-0.002962092005073568
+SilverBow Resources,risk_legal,1,-0.006837962276242523
+SilverBow Resources,risk_legal,2,0.002397866993666973
+SilverBow Resources,risk_legal,3,0.0024377221023323503
+SilverBow Resources,risk_uncertainty,1,-0.0008821779400872555
+SilverBow Resources,risk_uncertainty,2,-0.0032109231377773564
+SilverBow Resources,risk_uncertainty,3,0.0020876427388798052
+Six Flags,risk_constraint,1,0.0014537566474378193
+Six Flags,risk_constraint,2,-0.008119811746805117
+Six Flags,risk_constraint,3,0.0036691261894429574
+Six Flags,risk_external,1,-0.012453590410938725
+Six Flags,risk_external,2,0.03622887133871489
+Six Flags,risk_external,3,-0.005690462003218626
+Six Flags,risk_legal,1,0.0023298027403437145
+Six Flags,risk_legal,2,-0.012660838889563226
+Six Flags,risk_legal,3,0.005608283933628116
+Six Flags,risk_uncertainty,1,0.0016236614332325698
+Six Flags,risk_uncertainty,2,-0.008096453613242089
+Six Flags,risk_uncertainty,3,0.0033469838667000754
+Southwestern Energy Co.,risk_constraint,1,0.001997459584970106
+Southwestern Energy Co.,risk_constraint,2,-0.001665984980984702
+Southwestern Energy Co.,risk_constraint,3,-0.0020520213368519324
+Southwestern Energy Co.,risk_external,1,-0.005960124621230211
+Southwestern Energy Co.,risk_external,2,0.010134586117253564
+Southwestern Energy Co.,risk_external,3,0.002231073305164165
+Southwestern Energy Co.,risk_legal,1,0.0006596776165669934
+Southwestern Energy Co.,risk_legal,2,-0.0022798082398083988
+Southwestern Energy Co.,risk_legal,3,0.0006259383760242743
+Southwestern Energy Co.,risk_uncertainty,1,0.0006384250987890133
+Southwestern Energy Co.,risk_uncertainty,2,-0.0002839919247193134
+Southwestern Energy Co.,risk_uncertainty,3,-0.0008431541153510105
+Sovra,risk_constraint,1,-0.0022124885223419894
+Sovra,risk_constraint,2,0.002410181514658166
+Sovra,risk_constraint,3,-0.00016261499924481314
+Sovra,risk_external,1,0.00664942880555635
+Sovra,risk_external,2,-0.012032383082511432
+Sovra,risk_external,3,0.007020609144948273
+Sovra,risk_legal,1,-0.005743014112090527
+Sovra,risk_legal,2,0.006498653478661756
+Sovra,risk_legal,3,-0.0007528477618446868
+Sovra,risk_uncertainty,1,-0.00683080700155071
+Sovra,risk_uncertainty,2,0.0009981992298282439
+Sovra,risk_uncertainty,3,0.008286082192645651
+Spectrum Pharmaceuticals,risk_constraint,1,0.005787778078048369
+Spectrum Pharmaceuticals,risk_constraint,2,0.0028695105618889113
+Spectrum Pharmaceuticals,risk_constraint,3,-0.01004235999275831
+Spectrum Pharmaceuticals,risk_external,1,0.0018954113774959603
+Spectrum Pharmaceuticals,risk_external,2,-0.010605573015051665
+Spectrum Pharmaceuticals,risk_external,3,0.014282233007653133
+Spectrum Pharmaceuticals,risk_legal,1,0.00680202996917868
+Spectrum Pharmaceuticals,risk_legal,2,0.005712694003436438
+Spectrum Pharmaceuticals,risk_legal,3,-0.015363968534796402
+Spectrum Pharmaceuticals,risk_uncertainty,1,0.0021671288764044095
+Spectrum Pharmaceuticals,risk_uncertainty,2,0.006566645846054327
+Spectrum Pharmaceuticals,risk_uncertainty,3,-0.012118855678359852
+Stericycle,risk_constraint,1,0.0027225302240137064
+Stericycle,risk_constraint,2,0.0050713822131553355
+Stericycle,risk_constraint,3,-0.003760539694992669
+Stericycle,risk_external,1,-0.010708759387707871
+Stericycle,risk_external,2,-0.006150551897620811
+Stericycle,risk_external,3,0.008297662828648893
+Stericycle,risk_legal,1,0.0063530330098068785
+Stericycle,risk_legal,2,0.004994231422171082
+Stericycle,risk_legal,3,-0.005555874922992053
+Stericycle,risk_uncertainty,1,0.002312061843334711
+Stericycle,risk_uncertainty,2,0.006760962569606862
+Stericycle,risk_uncertainty,3,-0.004348696782258212
+SunPower Corp.,risk_constraint,1,0.01827745433537993
+SunPower Corp.,risk_constraint,2,-0.005716739935484119
+SunPower Corp.,risk_constraint,3,-0.005795257667769902
+SunPower Corp.,risk_external,1,-0.022409898657260927
+SunPower Corp.,risk_external,2,0.02255761630449532
+SunPower Corp.,risk_external,3,0.00037322486117407185
+SunPower Corp.,risk_legal,1,0.01594434632675426
+SunPower Corp.,risk_legal,2,-0.005605945656325438
+SunPower Corp.,risk_legal,3,-0.004787497692881505
+SunPower Corp.,risk_uncertainty,1,0.009273777612687398
+SunPower Corp.,risk_uncertainty,2,-0.0016814418911616394
+SunPower Corp.,risk_uncertainty,3,-0.0034683398405099316
+Surgalign Holdings,risk_constraint,1,-0.01550544265608518
+Surgalign Holdings,risk_constraint,2,0.007248881932054289
+Surgalign Holdings,risk_constraint,3,0.009125173898350858
+Surgalign Holdings,risk_external,1,0.027265950533392116
+Surgalign Holdings,risk_external,2,-0.029136289536089207
+Surgalign Holdings,risk_external,3,0.006170932061459978
+Surgalign Holdings,risk_legal,1,-0.017098255266615178
+Surgalign Holdings,risk_legal,2,0.010341443273804925
+Surgalign Holdings,risk_legal,3,0.006879737807965709
+Surgalign Holdings,risk_uncertainty,1,-0.013420774467966842
+Surgalign Holdings,risk_uncertainty,2,0.0023413254599507077
+Surgalign Holdings,risk_uncertainty,3,0.013229838821380464
+Sycamore Networks,risk_constraint,1,0.0002548627491019039
+Sycamore Networks,risk_constraint,2,-0.0019616166440343964
+Sycamore Networks,risk_constraint,3,0.0010651583064500802
+Sycamore Networks,risk_external,1,-0.0024654964917468253
+Sycamore Networks,risk_external,2,0.009051674524319491
+Sycamore Networks,risk_external,3,-0.0027757987199630617
+Sycamore Networks,risk_legal,1,0.00023380362205753188
+Sycamore Networks,risk_legal,2,-0.005924734943915384
+Sycamore Networks,risk_legal,3,0.004106322066464071
+Sycamore Networks,risk_uncertainty,1,0.00012868903458428373
+Sycamore Networks,risk_uncertainty,2,8.352761600227649e-05
+Sycamore Networks,risk_uncertainty,3,-0.0002768600408056643
+Synergy Pharmaceuticals LLC,risk_constraint,1,-0.02084418802084196
+Synergy Pharmaceuticals LLC,risk_constraint,2,0.013020306971035739
+Synergy Pharmaceuticals LLC,risk_constraint,3,0.0074724450566982
+Synergy Pharmaceuticals LLC,risk_external,1,0.052401103286653476
+Synergy Pharmaceuticals LLC,risk_external,2,-0.05790058470859295
+Synergy Pharmaceuticals LLC,risk_external,3,0.007029471097351437
+Synergy Pharmaceuticals LLC,risk_legal,1,-0.021803509773015158
+Synergy Pharmaceuticals LLC,risk_legal,2,0.014815032305832861
+Synergy Pharmaceuticals LLC,risk_legal,3,0.006590158629560021
+Synergy Pharmaceuticals LLC,risk_uncertainty,1,-0.024853786054165362
+Synergy Pharmaceuticals LLC,risk_uncertainty,2,0.012919713834299993
+Synergy Pharmaceuticals LLC,risk_uncertainty,3,0.011581953454811982
+TBS International Plc,risk_constraint,1,0.02182587809979275
+TBS International Plc,risk_constraint,2,-0.012258481175296956
+TBS International Plc,risk_constraint,3,-0.009590349548965194
+TBS International Plc,risk_external,1,-0.04385044855575348
+TBS International Plc,risk_external,2,0.05956897466930756
+TBS International Plc,risk_external,3,-0.007925981156692479
+TBS International Plc,risk_legal,1,0.02766648332902261
+TBS International Plc,risk_legal,2,-0.024536308926710076
+TBS International Plc,risk_legal,3,-0.005154041731382951
+TBS International Plc,risk_uncertainty,1,0.01193094681945034
+TBS International Plc,risk_uncertainty,2,-0.006772751397715755
+TBS International Plc,risk_uncertainty,3,-0.005186649078009985
+TMST,risk_constraint,1,0.0009862465199996055
+TMST,risk_constraint,2,-0.0026029282011223076
+TMST,risk_constraint,3,0.0003040765182721534
+TMST,risk_external,1,-0.008472716935476243
+TMST,risk_external,2,0.01660237474869629
+TMST,risk_external,3,0.0017518793809040544
+TMST,risk_legal,1,0.0017776145811857222
+TMST,risk_legal,2,-0.0040312438467007645
+TMST,risk_legal,3,4.7710424200110655e-05
+TMST,risk_uncertainty,1,0.0015581735899555165
+TMST,risk_uncertainty,2,-0.0024701850468321226
+TMST,risk_uncertainty,3,-0.0007640265385830291
+TOUSA,risk_constraint,1,0.0016184227803602278
+TOUSA,risk_constraint,2,-0.007279247459205084
+TOUSA,risk_constraint,3,0.002750255836454563
+TOUSA,risk_external,1,-0.010290389279939603
+TOUSA,risk_external,2,0.026956151282126573
+TOUSA,risk_external,3,-0.002692575297266814
+TOUSA,risk_legal,1,0.0016512385491741235
+TOUSA,risk_legal,2,-0.009799173505156755
+TOUSA,risk_legal,3,0.004621945041600733
+TOUSA,risk_uncertainty,1,0.0012709722071878372
+TOUSA,risk_uncertainty,2,-0.0022733388146604356
+TOUSA,risk_uncertainty,3,-0.0004757888282779888
+Tandy Brands Accessories,risk_constraint,1,0.0013824554611069338
+Tandy Brands Accessories,risk_constraint,2,-0.0021186126950137646
+Tandy Brands Accessories,risk_constraint,3,-0.0007156823430703772
+Tandy Brands Accessories,risk_external,1,-0.008785786538911107
+Tandy Brands Accessories,risk_external,2,0.015967721739339916
+Tandy Brands Accessories,risk_external,3,0.0026580396315146683
+Tandy Brands Accessories,risk_legal,1,0.0009961968056186776
+Tandy Brands Accessories,risk_legal,2,-0.0023963952935964574
+Tandy Brands Accessories,risk_legal,3,0.00014096314009182423
+Tandy Brands Accessories,risk_uncertainty,1,0.0027921166678011164
+Tandy Brands Accessories,risk_uncertainty,2,-0.00380653109325656
+Tandy Brands Accessories,risk_uncertainty,3,-0.0018021238661515453
+The Great Atlantic & Pacific Tea Co.,risk_constraint,1,-0.0004988305907598031
+The Great Atlantic & Pacific Tea Co.,risk_constraint,2,-0.007726821063529623
+The Great Atlantic & Pacific Tea Co.,risk_constraint,3,0.006859046570121473
+The Great Atlantic & Pacific Tea Co.,risk_external,1,-0.0007473069529972936
+The Great Atlantic & Pacific Tea Co.,risk_external,2,0.01994417714953878
+The Great Atlantic & Pacific Tea Co.,risk_external,3,-0.014170875967113661
+The Great Atlantic & Pacific Tea Co.,risk_legal,1,0.0010561768642029967
+The Great Atlantic & Pacific Tea Co.,risk_legal,2,-0.01600053977687338
+The Great Atlantic & Pacific Tea Co.,risk_legal,3,0.010575889894992741
+The Great Atlantic & Pacific Tea Co.,risk_uncertainty,1,-0.003245997785627926
+The Great Atlantic & Pacific Tea Co.,risk_uncertainty,2,-0.0005228707121291932
+The Great Atlantic & Pacific Tea Co.,risk_uncertainty,3,0.006042023589975931
+The Parent Co.,risk_constraint,1,0.0006473746353039368
+The Parent Co.,risk_constraint,2,0.0032675846325342667
+The Parent Co.,risk_constraint,3,-0.0037067295406786123
+The Parent Co.,risk_external,1,-0.0028144955792931315
+The Parent Co.,risk_external,2,-0.004547477461546746
+The Parent Co.,risk_external,3,0.009064383519462487
+The Parent Co.,risk_legal,1,0.0009612478890496655
+The Parent Co.,risk_legal,2,0.004782186119654631
+The Parent Co.,risk_legal,3,-0.005453052245856346
+The Parent Co.,risk_uncertainty,1,0.0005166722169095345
+The Parent Co.,risk_uncertainty,2,0.004103365426150273
+The Parent Co.,risk_uncertainty,3,-0.004050080975941378
+The Penn Traffic Co.,risk_constraint,1,0.0007203091330063447
+The Penn Traffic Co.,risk_constraint,2,-0.008433811673347351
+The Penn Traffic Co.,risk_constraint,3,0.005264156392412636
+The Penn Traffic Co.,risk_external,1,-0.006790583495788687
+The Penn Traffic Co.,risk_external,2,0.030055133803184295
+The Penn Traffic Co.,risk_external,3,-0.01119948788657479
+The Penn Traffic Co.,risk_legal,1,0.0023063046879743046
+The Penn Traffic Co.,risk_legal,2,-0.01861912781248285
+The Penn Traffic Co.,risk_legal,3,0.010339783413037018
+The Penn Traffic Co.,risk_uncertainty,1,-0.002485929684663026
+The Penn Traffic Co.,risk_uncertainty,2,-0.0006694393657602701
+The Penn Traffic Co.,risk_uncertainty,3,0.004969863454407731
+Town Sports International Holdings,risk_constraint,1,0.007863272194532244
+Town Sports International Holdings,risk_constraint,2,-0.004535637971396115
+Town Sports International Holdings,risk_constraint,3,-0.0010975903267178046
+Town Sports International Holdings,risk_external,1,-0.0011922741007457886
+Town Sports International Holdings,risk_external,2,0.013592335485229829
+Town Sports International Holdings,risk_external,3,-0.0068384590856234466
+Town Sports International Holdings,risk_legal,1,0.01461043947925247
+Town Sports International Holdings,risk_legal,2,-0.008435714343027558
+Town Sports International Holdings,risk_legal,3,-0.0020349265796183163
+Town Sports International Holdings,risk_uncertainty,1,0.012449017631094308
+Town Sports International Holdings,risk_uncertainty,2,-0.0062434620767418125
+Town Sports International Holdings,risk_uncertainty,3,-0.0022464705901924105
+Trailer Bridge,risk_constraint,1,0.000196592385764495
+Trailer Bridge,risk_constraint,2,-0.0020196866011909873
+Trailer Bridge,risk_constraint,3,0.0012006713914542917
+Trailer Bridge,risk_external,1,-0.00778549360594883
+Trailer Bridge,risk_external,2,0.01678647661420211
+Trailer Bridge,risk_external,3,0.0004301422711357778
+Trailer Bridge,risk_legal,1,0.001735051351099351
+Trailer Bridge,risk_legal,2,-0.004611238942237229
+Trailer Bridge,risk_legal,3,0.0005648351415861042
+Trailer Bridge,risk_uncertainty,1,0.0019593157116002016
+Trailer Bridge,risk_uncertainty,2,-0.004091934434243181
+Trailer Bridge,risk_uncertainty,3,-0.0002089124319139832
+Triangle Petroleum Corp.,risk_constraint,1,0.0002353163674416476
+Triangle Petroleum Corp.,risk_constraint,2,-0.002385695988304351
+Triangle Petroleum Corp.,risk_constraint,3,0.002879812076229364
+Triangle Petroleum Corp.,risk_external,1,-0.0002811492898651055
+Triangle Petroleum Corp.,risk_external,2,0.0009553971788027128
+Triangle Petroleum Corp.,risk_external,3,-0.0008362607674156381
+Triangle Petroleum Corp.,risk_legal,1,0.0017393270719440993
+Triangle Petroleum Corp.,risk_legal,2,0.00032674433899748597
+Triangle Petroleum Corp.,risk_legal,3,-0.003399082927277465
+Triangle Petroleum Corp.,risk_uncertainty,1,0.0028240627639564125
+Triangle Petroleum Corp.,risk_uncertainty,2,0.0015981602606866153
+Triangle Petroleum Corp.,risk_uncertainty,3,-0.006986305199487096
+Trico Marine Services,risk_constraint,1,0.0001872364664875449
+Trico Marine Services,risk_constraint,2,-0.004011236516890743
+Trico Marine Services,risk_constraint,3,0.002747637704788352
+Trico Marine Services,risk_external,1,-0.005265296973134872
+Trico Marine Services,risk_external,2,0.01673916419682596
+Trico Marine Services,risk_external,3,-0.0037842877276618426
+Trico Marine Services,risk_legal,1,0.00208387894127096
+Trico Marine Services,risk_legal,2,-0.008842879967266931
+Trico Marine Services,risk_legal,3,0.003194333590486584
+Trico Marine Services,risk_uncertainty,1,-0.0010873296214515557
+Trico Marine Services,risk_uncertainty,2,-0.0005648944794265892
+Trico Marine Services,risk_uncertainty,3,0.002294905359997153
+Tricon Residential,risk_constraint,1,-0.023745820034028035
+Tricon Residential,risk_constraint,2,0.0033582884022671745
+Tricon Residential,risk_constraint,3,0.015811896216266587
+Tricon Residential,risk_external,1,0.034875712867398934
+Tricon Residential,risk_external,2,-0.013463675720692365
+Tricon Residential,risk_external,3,-0.013701204859933203
+Tricon Residential,risk_legal,1,-0.02318976274550619
+Tricon Residential,risk_legal,2,0.003302099352621074
+Tricon Residential,risk_legal,3,0.015416569032826104
+Tricon Residential,risk_uncertainty,1,-0.025214631814727134
+Tricon Residential,risk_uncertainty,2,-0.0008557460117274551
+Tricon Residential,risk_uncertainty,3,0.021725114663350677
+TrueContext Corp.,risk_constraint,1,0.020345440339963817
+TrueContext Corp.,risk_constraint,2,-0.010593355848499977
+TrueContext Corp.,risk_constraint,3,-0.003127422393380469
+TrueContext Corp.,risk_external,1,-0.0037758228629946817
+TrueContext Corp.,risk_external,2,0.014631840956543574
+TrueContext Corp.,risk_external,3,-0.006219905535095304
+TrueContext Corp.,risk_legal,1,0.0138803708565271
+TrueContext Corp.,risk_legal,2,-0.009054497564818235
+TrueContext Corp.,risk_legal,3,-0.0011525371586764818
+TrueContext Corp.,risk_uncertainty,1,0.029110963266204135
+TrueContext Corp.,risk_uncertainty,2,-0.012924504288477676
+TrueContext Corp.,risk_uncertainty,3,-0.005673636393800468
+Uni-S (R)lect,risk_constraint,1,-0.008329526478200107
+Uni-S (R)lect,risk_constraint,2,-0.005346568273776504
+Uni-S (R)lect,risk_constraint,3,0.016962525733665926
+Uni-S (R)lect,risk_external,1,0.00867212047947241
+Uni-S (R)lect,risk_external,2,0.038101859600573044
+Uni-S (R)lect,risk_external,3,-0.06924954166005398
+Uni-S (R)lect,risk_legal,1,-0.012263983543419578
+Uni-S (R)lect,risk_legal,2,-0.008271965134234914
+Uni-S (R)lect,risk_legal,3,0.025608948626894834
+Uni-S (R)lect,risk_uncertainty,1,0.0055436602847330286
+Uni-S (R)lect,risk_uncertainty,2,-0.00940934563339876
+Uni-S (R)lect,risk_uncertainty,3,0.009272812146524968
+UniTek Global Services,risk_constraint,1,0.004732558670000094
+UniTek Global Services,risk_constraint,2,-0.0051869360084487535
+UniTek Global Services,risk_constraint,3,0.0026476841575445247
+UniTek Global Services,risk_external,1,-0.004112449094812955
+UniTek Global Services,risk_external,2,0.007342918145123484
+UniTek Global Services,risk_external,3,-0.006622613879575054
+UniTek Global Services,risk_legal,1,-8.61116794001997e-05
+UniTek Global Services,risk_legal,2,0.0002448756795997058
+UniTek Global Services,risk_legal,3,-0.00027755161270510975
+UniTek Global Services,risk_uncertainty,1,0.016269156454777417
+UniTek Global Services,risk_uncertainty,2,-0.007523524683433489
+UniTek Global Services,risk_uncertainty,3,-0.006608193685250542
+VIVUS,risk_constraint,1,-0.02369032955656903
+VIVUS,risk_constraint,2,0.011067969730805573
+VIVUS,risk_constraint,3,0.004543853910975034
+VIVUS,risk_external,1,0.03827130815422312
+VIVUS,risk_external,2,-0.03126564316338881
+VIVUS,risk_external,3,-0.0024543383971989616
+VIVUS,risk_legal,1,-0.02094084903843561
+VIVUS,risk_legal,2,0.012462743475708452
+VIVUS,risk_legal,3,0.003038456978451719
+VIVUS,risk_uncertainty,1,-0.02832414427581262
+VIVUS,risk_uncertainty,2,0.01042578115680488
+VIVUS,risk_uncertainty,3,0.006457308117382781
+VJGJ,risk_constraint,1,-0.02078059122533436
+VJGJ,risk_constraint,2,0.00685608687852814
+VJGJ,risk_constraint,3,0.01473830846817027
+VJGJ,risk_external,1,0.00932943272383444
+VJGJ,risk_external,2,-0.011671268257028806
+VJGJ,risk_external,3,0.007074680127799289
+VJGJ,risk_legal,1,-0.024369560636108102
+VJGJ,risk_legal,2,0.011297274835151798
+VJGJ,risk_legal,3,0.012094271543725941
+VJGJ,risk_uncertainty,1,-0.021585899414498837
+VJGJ,risk_uncertainty,2,0.003539567159295924
+VJGJ,risk_uncertainty,3,0.021016932459805005
+Vector Group Ltd.,risk_constraint,1,-0.009205408594691754
+Vector Group Ltd.,risk_constraint,2,0.0029335471335828834
+Vector Group Ltd.,risk_constraint,3,0.003318048285391797
+Vector Group Ltd.,risk_external,1,0.023409380853432783
+Vector Group Ltd.,risk_external,2,-0.006963603242966187
+Vector Group Ltd.,risk_external,3,-0.009651869775980931
+Vector Group Ltd.,risk_legal,1,-0.007217288676655393
+Vector Group Ltd.,risk_legal,2,0.002214326649921016
+Vector Group Ltd.,risk_legal,3,0.002810918464534064
+Vector Group Ltd.,risk_uncertainty,1,-0.011558074472893684
+Vector Group Ltd.,risk_uncertainty,2,0.002362195559053837
+Vector Group Ltd.,risk_uncertainty,3,0.00739699360704037
+Verso Technologies,risk_constraint,1,0.0014889611476912904
+Verso Technologies,risk_constraint,2,-0.0033442209221533907
+Verso Technologies,risk_constraint,3,-2.0321904957443086e-05
+Verso Technologies,risk_external,1,-0.009728852156047962
+Verso Technologies,risk_external,2,0.02162547571982317
+Verso Technologies,risk_external,3,0.00030455589014542956
+Verso Technologies,risk_legal,1,0.0019386860720000205
+Verso Technologies,risk_legal,2,-0.008994360680995543
+Verso Technologies,risk_legal,3,0.00350620113013453
+Verso Technologies,risk_uncertainty,1,0.0009045622392733573
+Verso Technologies,risk_uncertainty,2,-0.0003976712240994994
+Verso Technologies,risk_uncertainty,3,-0.0012563643377894514
+Vigie SA,risk_constraint,1,-0.017656076913488868
+Vigie SA,risk_constraint,2,0.017637372769704555
+Vigie SA,risk_constraint,3,-0.005856104948345356
+Vigie SA,risk_external,1,0.012734743863420052
+Vigie SA,risk_external,2,-0.047320105201116486
+Vigie SA,risk_external,3,0.05826618783876756
+Vigie SA,risk_legal,1,-0.011689680484892315
+Vigie SA,risk_legal,2,0.019082245248143895
+Vigie SA,risk_legal,3,-0.015443499833198265
+Vigie SA,risk_uncertainty,1,-0.04329637178766073
+Vigie SA,risk_uncertainty,2,0.024186205085847255
+Vigie SA,risk_uncertainty,3,0.015417480446235825
+Waterman Logistics,risk_constraint,1,-0.016781658905217066
+Waterman Logistics,risk_constraint,2,0.007430273097430199
+Waterman Logistics,risk_constraint,3,0.005861807903136311
+Waterman Logistics,risk_external,1,0.03230730932576099
+Waterman Logistics,risk_external,2,-0.023613777138936767
+Waterman Logistics,risk_external,3,0.00421803373419152
+Waterman Logistics,risk_legal,1,-0.006599459749116098
+Waterman Logistics,risk_legal,2,0.0028575623520798116
+Waterman Logistics,risk_legal,3,0.0024124680589001114
+Waterman Logistics,risk_uncertainty,1,-0.025409555621325394
+Waterman Logistics,risk_uncertainty,2,0.011494191662123407
+Waterman Logistics,risk_uncertainty,3,0.008469487334706715
+WestRock Co.,risk_constraint,1,0.010828721430059243
+WestRock Co.,risk_constraint,2,-0.0053480251170655935
+WestRock Co.,risk_constraint,3,-0.004227159835114106
+WestRock Co.,risk_external,1,-0.02632818661115989
+WestRock Co.,risk_external,2,0.03003577807231213
+WestRock Co.,risk_external,3,-0.0037914103370432534
+WestRock Co.,risk_legal,1,0.02036331356618851
+WestRock Co.,risk_legal,2,-0.009549151720611214
+WestRock Co.,risk_legal,3,-0.008368541129974203
+WestRock Co.,risk_uncertainty,1,0.01586089903888891
+WestRock Co.,risk_uncertainty,2,-0.006865709742261582
+WestRock Co.,risk_uncertainty,3,-0.006990756110583331
+Winthrop Realty Trust,risk_constraint,1,-0.009177605275960688
+Winthrop Realty Trust,risk_constraint,2,0.007120990757832381
+Winthrop Realty Trust,risk_constraint,3,0.0003122015348464651
+Winthrop Realty Trust,risk_external,1,0.023172674752681952
+Winthrop Realty Trust,risk_external,2,-0.02486269200669267
+Winthrop Realty Trust,risk_external,3,0.011116310459955318
+Winthrop Realty Trust,risk_legal,1,-0.005684215659248656
+Winthrop Realty Trust,risk_legal,2,0.0052532671886603224
+Winthrop Realty Trust,risk_legal,3,-0.0012644090079673219
+Winthrop Realty Trust,risk_uncertainty,1,-0.011634662837768593
+Winthrop Realty Trust,risk_uncertainty,2,0.007856778215255789
+Winthrop Realty Trust,risk_uncertainty,3,0.002420589307749746
+Wireless Telecom Group,risk_constraint,1,0.011749522529487414
+Wireless Telecom Group,risk_constraint,2,-0.002662645885486723
+Wireless Telecom Group,risk_constraint,3,-0.0033343921674177483
+Wireless Telecom Group,risk_external,1,-0.030183232789057858
+Wireless Telecom Group,risk_external,2,0.005726980471207363
+Wireless Telecom Group,risk_external,3,0.010519102990678729
+Wireless Telecom Group,risk_legal,1,0.0019301641668265919
+Wireless Telecom Group,risk_legal,2,-2.0203769940136057e-05
+Wireless Telecom Group,risk_legal,3,-0.0012799506399543028
+Wireless Telecom Group,risk_uncertainty,1,0.02863154097478275
+Wireless Telecom Group,risk_uncertainty,2,-0.005433867085411395
+Wireless Telecom Group,risk_uncertainty,3,-0.009976034883439948
+Wm Morrison Supermarkets Ltd.,risk_constraint,1,0.008250274785784734
+Wm Morrison Supermarkets Ltd.,risk_constraint,2,-0.0020407938885507334
+Wm Morrison Supermarkets Ltd.,risk_constraint,3,-0.002702412268072697
+Wm Morrison Supermarkets Ltd.,risk_external,1,-0.015774526831921595
+Wm Morrison Supermarkets Ltd.,risk_external,2,0.00926174965100605
+Wm Morrison Supermarkets Ltd.,risk_external,3,0.0021373496043047375
+Wm Morrison Supermarkets Ltd.,risk_legal,1,0.034930955524865914
+Wm Morrison Supermarkets Ltd.,risk_legal,2,-0.012000023783535478
+Wm Morrison Supermarkets Ltd.,risk_legal,3,-0.009542797064569541
+Wm Morrison Supermarkets Ltd.,risk_uncertainty,1,0.0023903264356732656
+Wm Morrison Supermarkets Ltd.,risk_uncertainty,2,-0.004445923577753958
+Wm Morrison Supermarkets Ltd.,risk_uncertainty,3,0.0013959256030571673
+Xinergy Ltd.,risk_constraint,1,0.010735673747293537
+Xinergy Ltd.,risk_constraint,2,-0.003950988137871076
+Xinergy Ltd.,risk_constraint,3,-0.003592501562254483
+Xinergy Ltd.,risk_external,1,0.006059545062108246
+Xinergy Ltd.,risk_external,2,-0.0006719728381413134
+Xinergy Ltd.,risk_external,3,-0.005113135222019565
+Xinergy Ltd.,risk_legal,1,0.0039697524843658166
+Xinergy Ltd.,risk_legal,2,-0.001008655478181541
+Xinergy Ltd.,risk_legal,3,-0.0022240975238192375
+Xinergy Ltd.,risk_uncertainty,1,-0.0032899973809129034
+Xinergy Ltd.,risk_uncertainty,2,0.0026750420177651278
+Xinergy Ltd.,risk_uncertainty,3,-0.0017986434866040825
+eMagin Corp.,risk_constraint,1,0.012502324112647355
+eMagin Corp.,risk_constraint,2,-0.005604714770651214
+eMagin Corp.,risk_constraint,3,0.0007301556467759862
+eMagin Corp.,risk_external,1,-0.007230526184658722
+eMagin Corp.,risk_external,2,0.01026817802300687
+eMagin Corp.,risk_external,3,-0.018280760573436708
+eMagin Corp.,risk_legal,1,0.0019076127638384776
+eMagin Corp.,risk_legal,2,-0.0006041580023488418
+eMagin Corp.,risk_legal,3,-0.0005265395187064776
+eMagin Corp.,risk_uncertainty,1,0.0189623280670613
+eMagin Corp.,risk_uncertainty,2,-0.0073139722430415645
+eMagin Corp.,risk_uncertainty,3,-0.0019086132261009808

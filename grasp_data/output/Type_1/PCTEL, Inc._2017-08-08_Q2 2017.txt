@@ -1,0 +1,124 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+John W. Schoen — Senior Vice President & Chief Financial Officer, PCTEL, Inc.
+David A. Neumann — Chief Executive Officer, PCTEL, Inc.
+Jaeson A. M. Schmidt — Analyst, Lake Street Capital Markets LLC
+Aman Gulani — Associate Analyst Equity Research, B. Riley Financial
+Robert Alexander Meeder — Senior Vice President-Investments, UBS Financial Services
+
+Management Discussion Section
+
+Question And Answer Section
+
+Welcome to PCTEL Second Quarter Earnings Release Conference Call. At this time, all participants are in a listen-only mode. At the conclusion of our prepared remarks, we will conduct a question-and-answer session. As a reminder, this conference is being recorded.
+
+I will now turn the call over to John Schoen, the company's CFO.
+
+Thank you for joining us on today's conference call to discuss PCTEL's second quarter 2017 financial results. With me today is David Neumann, the company's CEO.
+
+Before we begin, let me remind you that this call may contain forward-looking statements. While these forward-looking statements reflect PCTEL's best current judgment, they are subject to risks and uncertainties that could cause actual results to materially differ from these forward-looking projections. Risk factors that could cause PCTEL's actual results to materially differ from its projections are discussed in the earnings release, which was issued today. It's also available on our website and in our most recent Annual Report on Form 10-K.
+
+Additionally, our commentary will include reference to the following non-GAAP measures: non-GAAP earnings per share, adjusted EBITDA and free cash flow. We believe these non-GAAP measures facilitate comparability of results over different periods. A full reconciliation of these non-GAAP measures to our GAAP basis measures is included in our quarter earnings press release that was issued earlier today.
+
+On today's call, we will be speaking about the company's performance and prior-period comparisons for only our continuing operations. The company sold its network engineering services unit on July 31, 2017. The assets, liabilities and results of operations of the NES business unit will be presented as discontinued operations in the company's financial statements in its reports on Form 10-Q for the six months ended June 30, 2017 and in subsequent filings for the period thereafter. The company has included in its earnings press release the historical income statements for continuing operations by quarter for 2015, 2016 and the first quarter of 2017.
+
+With that, it's now my pleasure to turn the call over to David Neumann.
+
+Good afternoon. First half 2017 revenue, gross profit, EBITDA margin and non-GAAP earnings per share improved when compared to the same period last year. We confirm our annual revenue targets for antenna and scanning receiver products. Last week, we announced that we sold the assets of our network engineering services business. PCTEL is now a products-focused company and we will continue to leverage our deep RF expertise to develop antenna systems and scanning receiver test products to solve complex problems.
+
+Our mission is to provide performance-critical RF technology solutions. Our long-term view for antenna solutions and scanning receiver opportunities has not changed. Digital automation drives the need for more wireless capacity and higher reliability. Although overall carrier infrastructure spend is expected to be flat or declining, the portion allocated to new spectrum and new deployment models like small cells and FirstNet will grow.
+
+In Connected Solutions, we had a number of significant wins in the second quarter for small cells, enterprise Wi-Fi and fleet. We start volume shipments of our new integrated TDD LTE small cell antenna with a major OEM. We were awarded the design win with a key Wi-Fi OEM for 802.11ac Wave 2 and we began shipping our high-precision, multiband GNSS antenna for fleet applications. Product sales to major utilities remain strong.
+
+In RF Solutions, cellular and non-cellular wireless applications continue to drive demand for IBflex and MXflex scanning receivers with strong sales in the U.S. These scanning receivers are widely used for public LTE networks and are now being used to design, deploy, optimize and monitor private wireless networks. The scanning receiver software-defined radios can be programmed to measure non-3GPP frequency bands for private LTE networks, P25 and TETRA for public safety and in other non-cellular applications such as satellite radio.
+
+Our antennas and scanning receivers are both well positioned to take advantage of growth in public and private wireless systems and applications. To further this effort, PCTEL recently joined the Citizens Broadband Radio Service, CBRS, Alliance. This group is focusing on promoting LTE-based solutions in the 3.5-gigahertz spectrum that is now being made available on a shared basis. Anticipated users and use cases will support enterprise, industrial IoT and neutral host solutions, all consistent with PCTEL's capabilities and focus areas.
+
+I would like to note that John and I will be attending the Midwest IDEAS Investor Conference in August 30 in Chicago. We look forward to meeting with investors at the conference.
+
+With that, I will now turn the call over to John Schoen for a closer look at our second quarter and first half financial results as well as third quarter 2017 guidance.
+
+Thanks, David. I will be addressing the 2017 results for the second quarter and first half and comparing them to the same periods last year. The reason we will be reviewing year-to-date performance and trends going forward is that revenue and operating results for the company are historically uneven by quarter due to the ebb and flow of large customer projects. As a result, our primary focus is on annual results and how we are progressing toward our financial targets on a year-to-date basis.
+
+Revenue was $21.5 million in the second quarter and $44.5 million in the half, an increase of 1% in the quarter and 10% in the half compared to last year. Gross profit margin was 41.7% in the quarter and 41.4% in the half, down 20 basis points in the quarter and up 90 basis points in the half. Adjusted EBITDA margin as a percentage of revenue was 8% in the quarter and in the half compared to 10% in the quarter and 7% in the half last year. Non-GAAP earnings per share was $0.05 in the quarter and $0.10 in the half, up $0.02 or 25% for the half compared to last year. Free cash flow was positive $2.0 million in the quarter and $2.9 million in the half.
+
+Now, I will review the results for each segment. For the Connected Solutions segment, revenue in the second quarter was $16.9 million, up 7% and $34.1 million in the half, up 12%. Gross profit was 34.0% in the quarter, up 270 basis points, and 32.6% in the half, up 220 basis points. Antennas for small cell, fleet and utility applications delivered growth in the quarter and the half. A favorable mix of higher-margin products in the early stage of their lifecycle contributed to higher gross profit in the quarter and the half.
+
+For the RF Solutions segment, revenue was $4.7 million in the second quarter, down 16%, and $10.4 million in the half, up 3%. Gross profit was 69.1% in the quarter, down 240 basis points, and 69.8% in the half, down 60 basis points. First half revenue is consistent with a $20 million to $22 million annual revenue run rate, which was what we have historically seen in the year between new technology deployments. First half revenue grew in North America, Asia Pacific and Central and Latin America, but was largely offset by revenue decline in Europe.
+
+Now, let's turn to guidance for the third quarter of 2017. Third quarter revenue from continuing operations is expected to be between $23 million and $23.5 million. Gross profit is expected to be between 41.0% and 42.0% and non-GAAP earnings per share are expected to be between $0.07 and $0.08 per share at that revenue range. At the midpoint of our third quarter guidance, revenue will be up 11% for the quarter and 10% through the three quarters ended September compared to last year.
+
+Before we take questions, I would like to turn the call over to David to make a few closing remarks.
+
+Thanks, John. To summarize, both segments of PCTEL's business, Connected Solutions and RF Solutions, are in a strong position to benefit from small cell deployments, enterprise Wi-Fi, Internet of Things and FirstNet. We are pleased with our first half results and the momentum we have going into the second half of 2017. With the sale of the services business, we are an RF products company with significant improvements in revenue trajectory and gross profit profiles.
+
+With that, John and I would like to open up the call for questions. Operator? [Operator Instructions]
+
+Your first question comes from Jaeson Schmidt from Lake Street Capital Markets. Your line is open.
+
+Hey, guys. Thanks for taking my questions. I just want to start first on the Q2 results. I apologize if I missed it, but just a clarification, the delta between the results and your guidance, is that entirely due to the engineering services business that you sold?
+
+Yeah. As you may recall, during the last earnings call, we said we were going to do roughly about $0.04, but buried in that was $0.01 loss for services. So, now, that $0.01 loss comes out and $0.04 becomes $0.05. So, we basically met the guidance that we had for our products.
+
+Oh, okay. And the same is true on the revenue line? I'm just looking at that...
+
+Yeah. Yeah.
+
+Okay.
+
+Yeah. And so, this would be an in-line quarter from a guidance perspective.
+
+Okay. That's helpful. And then, if you could just talk about what you're seeing in the small cell market, how traction is going with Huawei and how visibility within that market is going.
+
+Well, small cell is still growing, but not growing at the same rate. So, we have seen some slowdown in China, but overall, it's still a big – or important part of our business. Long-term growth will be there, but it has slowed a bit in China.
+
+Okay. And how should we think about OpEx trending the rest of this year and maybe just thinking about 2018 big picture-wise?
+
+Okay. So, the way we kind of see the second half is we're comfortable with revenue of $47 million to $47.5 million. We're comfortable with gross margin percentage in that 41%, 42% range and we're comfortable with $0.14 to $0.16 non-GAAP earnings per share in the second half. 2018 – because I know all the models have services still in them, without services in 2018, we're looking at a $99 million to $100 million in revenue outlook at this point. Non-GAAP gross margin in the [ph] 42-point (13:28) range and somewhere in the $0.32 to $0.35 non-GAAP earnings per share.
+
+Okay. Thank you. That's very helpful. And then, the last one from me and I'll jump back in the queue, could you talk a little bit about the FirstNet opportunity if there has been any improvement on kind of your visibility within that opportunity?
+
+Well, for FirstNet, we've already started selling some antennas for the fleet portion. In terms of states opting in, I think it's four or five states now. But AT&T from the infrastructure perspective isn't planning to roll that out until towards the end of 2017. I've seen some reports that we should start to see that in Q4.
+
+With that, we expect – and Q4 is typically a pretty strong quarter anyways for scanning receivers and test equipment. So, we expect that to drive test equipment a bit. And then as the municipalities upgrade their fleets with antennas to support FirstNet, that should help drive some of our antenna sales as well.
+
+Okay. Thanks a lot, guys.
+
+I think the bulk of FirstNet's going to be in 2018.
+
+Okay. Thank you. [Operator Instructions]
+
+Your next question comes from Aman Gulani from B. Riley & Company. Your line is open.
+
+Hey, guys. Thanks for taking my call. Just one quick question from me. How would you characterize current demand in Asia right now?
+
+It's not as strong as it was. We had a very strong Q1 in Asia both for test measurement equipment and for small cell. It has slowed down quite a bit. In fact, in Q2, the U.S. is probably our strongest market for both of those divisions.
+
+I guess, yes, that's all the questions I have. I'll jump back in the queue.
+
+Your next question comes from Bob Meeder from UBS Financial. Your line is open.
+
+Hello. Thanks for taking my questions. Just a couple. Number one, it looks like G&A is up double-digits. Should we expect to get more leverage on that going forward or is that line expected to continue to grow apace with revenues?
+
+Well, there's a couple of things going on here. In continuing ops, what we have is we switched this year to an all-cash short-term incentive plan. So, on a non-GAAP basis, we have probably – there's probably $1 million rise in there just based going from stock-based compensation to cash-based compensation. But we have factored that in because that is a drag on EBITDA and yet we still absorbed that with a $10 million target for the short-term plan, but that what's driving a lot of it.
+
+So, there's no more stock-based compensation or is just a lower amount going forward?
+
+No. There is, but in our non-GAAP operating cost, we pull out stock-based compensation.
+
+Right. The stock-based compensation is still trending like – it's actually trending down.
+
+Trending down.
+
+It's still going to be $2 million or $3 million a year, all things being equal.
+
+Yeah.
+
+Okay. And is there any other flavor you can give us on the rollout of 5G and when we might hope to see it in some of you numbers?
+
+5G, the official 5G spec won't be finished until 2019/2020. And then the first implementation will most likely be fixed broadcasting to replace some of the fiber-to-the-home. Mobile applications for 5G realistically are probably going to be 2021, 2022. That being said, there's still a lot of growth opportunities in 4G and in 4.5G leading up to 5G, but if you're looking at purely 5G, I wouldn't expect test measurement piece to ramp up until late 2018, mid-2019. And then, the antennas will be predominantly first fixed and that's probably going to be 2019 as well.
+
+Okay. That's all I had. Thank you.
+
+There are no further questions at this time. This concludes today's conference call. You may now disconnect.

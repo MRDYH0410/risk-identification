@@ -1,0 +1,342 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+Steven van der Velden — Chairman & Chief Executive Officer, Elephant Talk Communications Corp.
+Paul Burmester — Chief Executive Officer, ValidSoft Ltd.
+Mark Nije — Chief Financial Officer, Elephant Talk Communications Corp.
+Stan Berenshteyn — Analyst, Sidoti & Company
+Edward Woo — Analyst, Ascendiant Capital Markets LLC
+
+Management Discussion Section
+
+Question And Answer Section
+
+Good day, everyone and welcome to the Elephant Talk Communications Corporation Third Quarter 2014 Conference Call. Today's conference is being recorded. At this time, I would like to turn the conference over to [indiscernible] (00:00:09) of Capital Markets Group. Please, go ahead sir.
+
+Thank you. Good morning to everyone in the United States and good afternoon to our European listeners, and thank you for joining us for the Elephant Talk Communications shareholder update conference call. On our call today will be Steven Van der Velden, CEO of Elephant Talk; Mark Nije, CFO of Elephant Talk, and Paul Burmester, CEO of ValidSoft. Following management's discussion there will be a Q&A session open to all participants on the call as the operator has already mentioned.
+
+Now before we get started, I'm going to review the company's Safe Harbor statement. Remarks made on this call may contain forward-looking statements within the meaning of Section 27A of the Securities Act of 1933 as amended and Section 21E of the Securities Exchange Act of 1934 as amended.
+
+All forward-looking statements are inherently uncertain as they are based on current expectations and assumptions concerning future events or future performance of the company. Listeners are cautioned not to place undue reliance in these forward-looking statements which are only predictions and speak only of the date hereof. In evaluating such statements, perspective investors should review carefully various risks and uncertainties, identified in this conference call and the matter stated in the company's SEC filings. These risks and uncertainties could cause the company's actual results to differ materially from those indicated in the forward-looking statements.
+
+With that, out of the way, I would like to turn the call over to Steven van der Valen, Chairman and CEO.
+
+Thank you, [ph] Thomas (00:01:43). And thanks to everyone for joining us today for our shareholder update call. The first quarter of 2014 once again saw a strong sequential growth in our mobile and security services revenue, which now marks our 13th consecutive quarter of growth.
+
+One of the many important achievements during this quarter is the fact that we have positive cash flows from operations, which was approximately $1.7 million. Additionally, we are pleased that we now also achieve full positive EBITDA of $200,000. These are major milestones as they validate the scalability of our mostly monthly recurring revenue mobile platform model.
+
+Revenue for the third quarter increased 40% to $7.3 million compared to $5.2 million for the same quarter of 2013. Our adjusted EBITDA increased to approximately $1.085 million for the quarter versus a negative $85,000 a year ago. And this almost doubled sequentially from $553,000 reported in the second quarter of this year.
+
+We believe these trends will increase throughout the remainder of the year as we continue to further migrate subscribers from Iusacell, and benefit from additional growth from Vodafone and [ph] the start (00:03:40) of the hopefully soon to be licensed MVNO partner Axiom on the Zain mobile network. Along this other co-branded services that will run over the Elephant Talk platform.
+
+Outside the financial results, we are pleased with the progress of our global sales collaboration agreement with HP. Since announcing this relationship, we have submitted many requests, both for qualification, as well as proposals together with HP.
+
+In regards to our Elephant Talk Software DNA 2.0 platform, we now have over 3.5 million total subscribers provisioned on our various platforms from our customers. On the Iusacell front, we are continuously working to migrate new subscribers to our platform.
+
+Although there has been some modest delays as we continue to diligently transition the old data from the legacy platform, our platform is performing well and Iusacell and their clientele are pleased with the increased capabilities that we are providing. We continue to work closely with the teams at Iusacell to streamline this process and to ensure that future migrations continue to take place seamlessly.
+
+Our contract with Zain in Saudi Arabia is progressing. As you know, Zain announced its brand Matrix that is hosted on the Elephant Talk platform. Zain is provisioning additional subscribers on the platform, and the expectation is for further marketing of the Matrix brand in the coming month.
+
+Throughout the next several quarters, we expect the number of subscribers being hosted on our platform to grow [ph] rapidly (00:05:40). Even though the Saudi market has been limited – has seen limited of activity to date, we have been able through a mix of hosting and development fees to begin generating significant billings in this market, which should continue to grow.
+
+Our relationship with Vodafone continues to strengthen. We continually receive monthly payments from Vodafone for our increased scope of work. For many years now, we have been hosting a growing base of satisfied customers on behalf of Vodafone. And I can only repeat that we are very well-positioned to service a rapidly growing number of Vodafone customers in the future on our platform.
+
+We expect that based upon contract development work that we are currently implementing, our growing number of managed SIMs for Vodafone to further increase over the next 18 months.
+
+In the United States, Elephant Talk North America currently has three smaller virtual operators under contract and is working with another two that are expected to sign by the end of the first quarter next year. Elephant Talk North America is thereby working with various GSM and CDMA carriers. The primary focus of Elephant Talk North America is to recruit enable virtual operators, while offering a turnkey empowerment solution off its multi-carrier access combined with the sophisticated IT platform, licensed from a third-party supported by third-party device logistics and device financing options [indiscernible] (00:07:39) operators to focus their efforts on the important tasks of sales and marketing.
+
+Elephant Talk North America also brings opportunities for our group to present its full mobile platform capabilities to [indiscernible] (00:07:56) mobile operators and large scale virtual operators in the United States.
+
+In terms of our platform solution, early this year, we upgraded one of our platforms successfully to be able to fully handle all types of 4G LTE traffic. We are currently upgrading one of our other platforms to also be fully 4G LTE capable later this year, including a substantial capacity expansion. Both these developments will be welcoming additional business starting next year.
+
+In one of these markets, we're currently expanding our existing system to be fully geographically redundant thereby preparing the platform for increased performance while handling a growing amount of customers continuously and carry great service levels.
+
+In 2015, we expect to also launch new brands of two major mobile operators in two of our existing locations. Through our continuing work with Vodafone, Zain, Iusacell, and HP, we are confident that our platform possesses the key features to lead us to multiple new global contracts in the coming years.
+
+Over to our security business now. I will turn the call over to Paul to discuss ValidSoft in further depth. Paul?
+
+Thank you, Steven. As you are aware, the initial focus of ValidSoft was with a suite of products that we now call Device Trust comprising of SIM swap detection, [indiscernible] (00:09:48) detection, and international location correlation. However, due to the mobile network operators restricting access to this data, it is proven not to be a globally scalable business at this point in time. ValidSoft is working with the mobile operators governing body, the GSM Association, to educate the mobile operators on this problem and the opportunity. With the objective of changing the industry standards in order to make the required data available.
+
+Nonetheless, ValidSoft has been very successful in securing access to the required data from the mobile operators within the UK market and is now growing this business in terms of both customers and volumes.
+
+In addition to this, I'm pleased to announce that we've recently received two further patent awards relating to our device trust products, applicable within the Russian Federation. ValidSoft applied for these patents, utilizing the patent cooperation treaty. And although there was no guarantee that the US patents and trademark office or the European Patent Office will follow the Russian decision in practice as a good indication.
+
+When granting such patents, each patent office whether Russian, American or European will conduct a worldwide search for conflicting patents. So the fact that the Russian Patent Office has not found our inventions to be covered by any other prior patents, is a very strong indication that the invention is unique.
+
+The first patent, Card False Positive Prevention System covers our international location correlation process. And the second patent, Card Present Security System anonymously correlates the location of the card present transaction with a mobile cell location.
+
+In support of our continued efforts to refine our commercialization and go-to-market strategy, it's becoming apparent that biometrics is the hot topic in the world of security and authentication right now. Having spoken at both the Money20/20 and FICO World Conferences this month, I can attest to the fact that the use of biometrics to authenticate uses, transactions, and access control was the most popular topic being debated and this is supported by the number of announcements from major financial services companies, all connecting to the used biometrics over the coming years.
+
+After a successful period of development and productization, we believe that with the superior functionality and application of our own voice biometric engine as a part of our multifactor authentication solution, we're very well placed to address this fast-developing market opportunity.
+
+Market reaction to this development has been very positive, and we now have a number of large proof of concept trials underway both direct and in conjunction with new and existing channel partners in the financial services and enterprise market sectors.
+
+Finally in support of the more focused go-to-market approach and commercialization strategy for ValidSoft, we have recently appointed our first senior sales person in North America whose wealth of experience in the voice biometrics market should help develop and accelerate our channel partner and pipeline building program for our voice biometric technology in this region. And we very much look forward to sharing developments on this front with you.
+
+I will now hand over to Mark to discuss our financial data. Mark?
+
+Thanks, Paul. I would provide the financial highlights for the third quarter of 2014. In addition to Steven's comments on the financials of this quarter such as positive cash flow from operations of $1.7 million, positive EBITDA of $200,000 and further increase of revenues and adjusted EBITDA, I would like to provide some additional comparisons primarily related to the nine months of this and last year.
+
+Despite the decrease by $3.3 million in landline services, which by the way are now fully [ph] fringed out (00:14:18), overall revenue for the nine months this year increased with almost $4 million to $20.7 million, an increase of 23%. While excluding the rent line services, the mobile and security revenues increased from $13.3 million last year by $7.2 million to $20.5 million this year, an increase of 54%.
+
+Despite the continued investments in growing our organization, we were able to offset part of those increased cost with the increase in revenues. As a result, adjusted EBITDA improved by $4.4 million from a negative $2.5 million for the nine months 2013 to a positive $1.9 million in 2014. EBITDA itself followed suits and improved by $6.5 million from a negative $8.1 million last year to a negative of $1.6 million this year.
+
+When taking into account also depreciation and amortization whereby we have to realize that amortization is a substantial portion of that, we arrived at loss from operations having improved by $5.3 million compared to last year.
+
+We also continue to invest in our technological capabilities which meant that investments increased from $4.2 million in 2013 to $5.6 million in 2014.
+
+In 2013, however, we needed to also invest in our operations for a total of $3.5 million, whereas in 2014, operations actually generated cash of $1.3 million. The result was that cash flow from operations and investment activities were negative $4.3 million compared to $7.7 million the previous year, an improvement therefore of $3.3 million. This quarter in particular, we were able to fund the investments we made with the cash generated by operations.
+
+Lastly, we managed to remove certain liabilities from the financial statements being around $600,000 related to a joint venture loan that was forgiven in this quarter and the part repayment and conversion of the $6 million outstanding convertible note that we partly repaid and converted subsequent to this third quarter.
+
+This concludes our financial summary. I would like now to turn the call back to Steven for his closing remarks. Steven?
+
+Thank you, Mark. Based on the success of our existing contracts, we continue to be well-positioned for both near-term growth and long-term financial success. As we have demonstrated, it's a great testament to our platform that we are able to keep our marginal costs down and improve our operational results. This has allowed us to finally become full EBITDA positive for the very first time, [ph] and further (00:17:47) our investments with cash flow from operations in the quarter, as already stated by Mark.
+
+We are working to accelerate the migration and provisioning plans with Iusacell and Zain, as we have now achieved an inflection point in our operations. It has seen the number of subscribers more than doubled on our platform.
+
+Increasing number of subscribers hosted on our platforms is placing us in a position to reach profitability in the very near future.
+
+Yesterday, we closed $12 million [ph] debt deal (00:18:24) with minimal dilution. This loan will provide us with substantial capital to operate the company for the foreseeable future. Based on our improved financial results and the closing of this facility, we were able to remove the growing concern from our 10-Q filing.
+
+Based on us achieving cash flow positive status, and the closing of this facility with net proceeds of approximately $9 million, after the repayment of $3.1 million in convertible debt, we are working with the New York Stock Exchange to regain compliance with the listing standards. We expect to resolve the listing issue over the next couple of days and our management team believes we will have a positive outcome.
+
+In summary, I believe our platform, our contracts and our pipeline has never been stronger. We believe our strategic relationships and industry knowledge will continue to provide us with excellent global contract opportunities. We are now achieving financial success working diligently to continue to drive our results and create value for our loyal shareholders.
+
+This concludes management's update portion of the call. I would now like to open the floor for any questions that you may have. [Operator Instructions]
+
+Our first question comes from Stan Berenshteyn with Sidoti & Company. [ph]
+
+Thanks (00:20:38) for taking my call. Steven, let's start by looking at the delays in new system migration. Can you give us some more color as to why these delays are happening, and maybe what's the guidance going forward?
+
+Thanks, Stan. Well, let's start with the fact that there is no problem with any of our platforms whatsoever. On the contrary, our platforms perform very well and consistently provide service levels above the so-called contractually agreed upon SLAs, services level agreements, that determine the minimum performance levels we have to adhere to.
+
+Actually, we usually perform substantially better on the service levels that our platforms are therefore clearly marked as being carrier grade. And even though we have tried to be transparent in the past, then the constraints are confidential agreements with our customers as stated, those – general those are mobile operators as well as our virtual operator customers, more and more tend to become less open about disclosing specific asset of individual contracts and their customer base.
+
+Actually, not only for competitors, but also increasingly for regulatory reasons. As this is fully understandable, we are trying to minimize the use and disclosure of any such specific piece of information. And in the Iusacell case, this is clearly the case.
+
+Above all that, as a consequence of the now sensitive situation as a result of the transaction with AT&T acquiring Iusacell, we hope that everyone understands that we will be a little bit hesitant in detailing more of the current deployments with Iusacell.
+
+The only mark I would like to make is that we are still on course of successfully migrating additional pockets of customers away from Iusacell's legacy system on our mobile platform, and thereby ultimately substantially growing their host of customer base on our platforms.
+
+Okay. Yeah. I was actually going to follow-up with AT&T. Can you maybe give us some more details as to what implications of this buyout would be? Is there any change happening in regards to a risk that AT&T will take Iusacell off the platform once it migrates or conversely maybe give you additional business?
+
+Very good question, of course, and very relevant at the moment. However, I mean, the announcement of the transaction has been pretty sure to go. And at this moment, there is no reason to whatsoever to assume that certain transaction will endanger our position with Iusacell.
+
+On the contrary, actually, there is a growing feeling that with AT&T looking to many more countries outside the United States, but actually the fact that they are acquiring Iusacell could turn into a great opportunity for the company. But in all honestly, it's just too short. It's just too new to make any reasonable guidance [indiscernible] (00:23:52), but I would certainly not expect anything to change in the very near future.
+
+Okay. And as for Vodafone, you said that you have an opportunity to grow this organically, can you maybe give us an idea on a percentage basis perhaps what's the opportunity size to grow Vodafone from its current subscriber base?
+
+Hey, that's a little difficult, because of course being a business-to-business supplier, we are dependent on the success of our customers in marketing services, attracting customers, retaining customers to avoid churn et cetera. And I think to give exact numbers on what to expect in this space would just be not realistic. But based upon the additional work Vodafone has provided to us, the expansion of platforms, the additional features that we are building in, we can only expect that business to grow substantially over the next few years. And as you know the current base is around 1.4 million to 1.5 million customers. And we certainly expect that possibly to double over the next few years, but the real trends in how that will pick up is difficult to foresee.
+
+Okay. Do you have any clarity on Axiom getting the licensing for Saudi Arabia market?
+
+No. We have not and we are eagerly awaiting the formal approval of the license by the regulators of Saudi Arabia. But we are not insiders there, and again here also, we are [indiscernible] (00:25:29) supplier and we assume that Axiom will down the road get the license, what the timeframe will be, we don't know, and if for whatever reason, it's not going to Axiom that will get the license, then there will always be another operator that will be hosted on the Zain platform and does hosted on the Elephant Talk platform. So it's not that, on the long run the opportunity is not there, there is just some delay in allowing one of the virtual operators to start business on the same platform.
+
+Got it. Got it. Can you maybe address on the client pipeline a bit, I know you mentioned the partnership with Hewlett-Packard. Can you give us some idea as to where in the process potential clients are on discussion maybe securing additional live contracts for these potential clients?
+
+Yeah. That's of course also a very good question. But as you know, from earlier sessions, it's very difficult to answer, not only because there is a whole range of different opportunities where some opportunities are just simply easier for a potential customer to absorb other opportunities are just more, let's say, impacting such organization, so that the timeline to come to any meaningful conclusion, may simply take longer.
+
+And I think again, I think it's too tricky to really focus on any specific timeline. There are many, many opportunities and definitely comparison to last quarter, a couple of them has progressed substantially, but at the end of the day, it's all about side contracts that are transferred to revenue generating opportunities. And I still think that at this phase, it would not be corrected is too much guidance as we simply don't know which of those opportunities will come first, and which will ultimately be turn into an active contracts was a revenue generating capacity.
+
+But if you look at the pipeline, I think the quality is improving, the speed that we can address certain opportunities improving. And yeah, I mean bottom line is that I would be extremely disappointed. It was in the next 12 to 18 months, but at least one major contract would be [indiscernible] (00:27:42) executed and be implemented shortly thereafter.
+
+Okay. And as for Elephant? [indiscernible]
+
+(00:27:53) for mobile platform, it's correct.
+
+Our next question comes from [ph] Robert Scath (00:27:57), private investor.
+
+Hi, Steven. Thanks for the update. It sounds like our existing customer base brings us close to 10 million SIMs once they are fully migrated to the level that they've committed to. And if you look at the new customers coming on board, even the small ones aren't that small it seems like we're well on our way to 15 million to 20 million SIMs. How is ETAK going to handle the installation of these new customers?
+
+Yeah. That's of course one of the challenges of management to prepare the organization for future growth. As you all have seen from our reporting, the organization has grown substantially over the last couple of years. Even though we were cash flow negative, we still fell that expanding the organizational capabilities is key, because having sales cycle of a year or longer it would be really [indiscernible] (00:28:54) once you win a contract you would not give a very good services.
+
+So, we have been expanding our organization. We have been able to attract very, very topnotch talent around the world, and I feel that currently we are definitely able to not only service our current customers pretty well, but we're also able to expand the business and scope in which we are servicing our customers.
+
+So in that anticipation, we have indeed grown the organization to be able to service a few more customers down the road. And actually over years, we should become a very scalable business with these teams that can implement and provision new customers, being freed up asset that was installation processes and moving on to new territories. And ultimately, we believe that we should be able to handle at least a couple of these contracts every year and that's what we're trying to achieve with expanding the organization.
+
+For the US market, are they – people who are brand new in the business, are they established like a mobile?
+
+No. I think that's a – it's a mix of existing businesses expanding into mobile as well as existing mobile businesses that look for a change of operating environment and therefore are looking to work with us in the United States.
+
+Ultimately, the real target group we are focusing upon is the group of more sophisticated operators that want to start now on a more of an IT platform, as we described, but can ultimately migrate to our full MVNO platform that is directly linked to mobile operators and will bring the capabilities of bringing unbundled services that need to be packaged and bundled by a virtual operator itself into the marketplace. And we see this as a stepping stone from the current IT environment which is kind of a limited light MVNO platform that those customers will ultimately be interested to step up their act and to move over to our full capability platform.
+
+Okay. Thank you.
+
+Our next question comes from [ph] Dan Noble with Delek Partners (00:31:04).
+
+Hi. Good morning. I'd like to know what the Iusacell contract, I know last call you mentioned there were about 1.75 million subscribers. What are the numbers as we speak at this point? I mean, how much has that increased from the 1.75 million?
+
+As I stated before, we took the position as of today, based upon requests from our customers, do not disclose too many individual numbers and situations per contract. As you can imagine that with the sensitive situation of AT&T acquiring that business now, we think we certainly should adhere to the requests from Iusacell management to not go into too many details at this moment.
+
+Okay. But could you say that there was an increase in the subscriber base?
+
+Yeah, there was an increase. Absolutely.
+
+Okay. And you said, you're still on course, so at least from what you said that publicly at the last call, we could take it be that what you had said last call, you're kind of on-course for doing that?
+
+Yeah, we are still on course, and we are still planning to migrate larger pockets of Iusacell customers. Of course, some of the priorities may have changed, but we believe at the end of the day, it's still the target for Iusacell's management to get all of their subscribers onto our platform and we are diligently working to achieve that in the very near future.
+
+Could you talk a little about – you had in the press release [indiscernible] (00:32:42) said three new MVNO contracts. Could you talk a little bit about that and what can we expect revenue wise from that in 2015?
+
+Yeah, as stated, there was a three mobile virtual operator contracts in North America, in the United States. As we indicated, we should only expect modest revenues from those customers, not because [indiscernible] (00:33:07).
+
+Hello? Hello?
+
+It appears we may be experiencing technical difficulties at this time. One moment, please.
+
+Okay. Am I still on? Hello?
+
+Yes, sure, you are still on. At least we can hear you.
+
+Okay, you heard that. I couldn't hear anything for – the comments you made in response to my last question. But actually another question, if you could quantify the number of subscribers that you currently have with Zain, I imagine that might be – you don't put it out there, but if it's a small base right now using your technology. And how much growth do you perceive with Zain in the coming quarters?
+
+Sorry, sir, to interrupt you. This is Mark Nije, CFO of the company. Steven apparently dropped off the line. And I have the idea that a number of other participants in the call have dropped off as well. So, we're experiencing some technical difficulties.
+
+Oh. Okay.
+
+So, if you could bear with us for a minute.
+
+So, I'm back here, Mark. Sorry, yeah, apparently the line dropped for a minute.
+
+Okay. It's good.
+
+Can you repeat the last question please?
+
+Okay. The question was could you quantify the number of subscribers Zain currently has using your technology? And how much growth can you perceive with Zain in the coming quarters?
+
+Yeah. Thank you. Well, the current number of SIM is pretty limited. And in line with my earlier remarks, we will not disclose individual numbers. But again, it's pretty limited. However, we would expect those platforms to be pretty successful, and we believe that Zain has contracted with a couple of substantial grants that may really expand the business. And ultimately, it could very well be that the Saudi platform will be one of our more successful platforms.
+
+Thank you.
+
+Our next question comes from [indiscernible] (00:35:32), private investor.
+
+Yes, hi, Steve. Very good quarter I'm very happy to hear that the numbers and some of the progressions that you guys made on the business side. Just to follow-up on the last caller's question regarding North America three MNOs that you guys have contracted. Can you shed more light into that? I know you said you don't want to disclose exact number of SIMs, but, is there – first of all, are those three within the United States or North America in terms of United States and Canada? And secondly, if there's a roundabout number of some kind of a picture that you could produce for us and size of scope of this kind of – these three new contracts, that'd be grateful?
+
+Yeah. Thank you. Good question. All these three...
+
+[Technical Difficulty] (00:36:30)
+
+Oh my – Hello? Hello?
+
+It appears we're experiencing technical difficulties. One moment please. Mr. Van der Velden, we cannot hear you at this time.
+
+...our expectations in the domain.
+
+Steve, I'm not sure if you hear me, but we didn't hear anything you said at least I didn't. I'm not sure what's going on.
+
+Yes. Can you hear me now? Hello?
+
+I can hear you. I can hear you. Anybody else on the call can hear it?
+
+Okay. As I stated before, the three MVNO in North America are indeed within United States focusing on specific seconds in the North American market. Each of them could easily have a potential to grow to a 50,000 to 100,000 customer base. However, let's not be too optimistic about what they might be achieving. Easily, one of them could grow into a lot much larger operation, but I think for the time being it's better to be a little bit modest in those expectations.
+
+Thank you.
+
+Our next question comes from Ed Woo, Ascendiant Capital.
+
+Yeah. Thanks for taking my question. Do you see any impact from foreign currency in the quarter end? What are you seeing out there in some of the economies of the world, and is that impacting any of your contracts?
+
+So, yeah that's a good question, Ed. Yeah actually...
+
+Steve, do you want me to take that?
+
+Yes, please. If you would like to do this Mark? Yes.
+
+Yeah. This is Mark Nije, the CFO of the company. We have from a reporting point of view, we have a certainly impacts on resulting from exchange rate difference for instance, this particular quarter, the euro lost considerable amount of value as compared to the US dollar. And since most of our assets that also SG&A is euro-based, it meant that on a reporting level which is in US dollars a substantial changes that they placed. If you look at the other loss – other comprehensive loss, you will actually see a substantial amount. Just to be clear that those amounts do not have any cash impact, they're only reporting numbers and changes.
+
+If you look at the business perspective of our company, still a lot of our revenues are also in euros, so it's tied out with the – and ties in with the SG&A that we have as a company with a result that we have a natural hedge there in the currencies. With the increase of US dollar revenues, at this point in time, the US dollars nicely cover the SG&A that we have in US dollars.
+
+So, an actual level of exchange rate effect that affects our cash flows, it's very limited. However, from a reporting level, you will see a lot of variations in valuations following the discrepancy between the euro-based company as we are versus the reporting that we need to do in US dollars.
+
+Great. And then I had a slightly different question on ValidSoft. You mentioned that, it looks like maybe the opportunities look different now because some information to the carriers can now provide. What should we think about in terms of opportunity and whether you will start to see increasing revenue from ValidSoft over the next couple of quarters?
+
+Paul, I suppose you take that question?
+
+Yes. Thank you, Steven. It's – you're quite right, it is something of a change, but actually it's an exciting opportunity for us. The original products which were somewhat restricted by access to the mobile operator's data presented a challenge on a country-by-country mobile, operated by mobile operator basis. And that's several scalability challenges for us.
+
+In terms of the voice biometric engine that we have, that's something which obviously kind of be applied globally and across multiple markets not just financial services, but enterprise, mobile operators, et cetera. As it happens, that particular topic has become very hot over the last year, we've heard some of the major security breaches and we've heard major banks and credit card-issuing companies make commitments to releasing biometric usage for their customers over the next year or two.
+
+So we think we're very-well placed to address that. and as I mentioned earlier, we are actually in a couple of proof of concept trials now, both in the financial services sector and also in the enterprise sector, which is a very exciting sort of new market opportunity for us.
+
+Great. Well, thank you and good luck.
+
+Thank you very much.
+
+Our next question comes from [ph] Bill Peters (00:42:47), private investor.
+
+Steven, thank you for taking the call. I appreciate it. I got a question in regards to the Iusacell in the SIM migrations. Based upon 10-Q from yesterday, it states that the two major customers of ETAK, being about a 45% and a 40% revenue. I just want to ask strategically going forward, you say there's going to be limited transparency regarding that since making announcements to the shareholders. With this in recollection, previously we've been told that with migration schedule 2.5 million SIMs, first and foremost in the 60- to 90-day range, and then subsequently a 4- to 6-week range. Can we kind of assume that these migrations have not taken place in these two time frames? And subsequently, do you think that maybe with a mistake to have put those numbers out there with the timelines in the past?
+
+All right. Thank you. Well, regarding the concentration disclosures, of course, we will keep those disclosures in our Q's and our K's as that's requirement and the percentage is of around 40% of the two main markets. It's probably going to be like that, although we expect those two countries to become over time less dominant in our revenue mix, but definitely we hope that those countries will stay around as being a very important contributor to our overall revenues.
+
+With respect to the migrations that Iusacell has stated before, we are definitely on track to reach the levels that we have communicated earlier, it's just driven by being very prudent towards our customers, about their customer's needs and the quality that can be provided to their end users. And in that respect, migrations are a complex manner of many moving elements and we believe that what is most important is that on the [indiscernible] (00:44:54) on those customers will be on our platforms and to-date there is no reason whatsoever to assume that that would not be the case.
+
+So as stated before, we are on track and we are working diligently to migrate all these customers, and we will for sure communicate levels of total subscribers on our platforms in the near future. But as indicated, we will do that on more of an aggregated basis next to the concentration numbers in our Q's and K's.
+
+Okay. And just as a follow-up and I guess more fun intended with the AT&T and Iusacell. Will ETAK stay and if hypothetically, I understand you probably can't deal on hypotheticals, but I got to ask anyways. If AT&T were to come in and say 18 months from now decide to choose a separate platform other than ETAK. What is ETAK's contract wise, what's the – or protection for something like that happening? Is there still payments that are going to be made to ETAK from say AT&T for the remaining three and half years or whatever may be invested in the initial contract?
+
+Yeah. Of course, a relevant question. But in line with what I said earlier, I think it's not very prudent to go into those details. As you indicated yourself, that is pure speculative. And the organization is working closely with Iusacell and we also have contacts with AT&T to see how we can serve then in the future. And I suggest that we leave these questions for the future.
+
+We believe we have a solid contract. So, from that perspective, legally, we are in a good position. However, at the end of the day, a customer should be happy to be serviced by you to have a long-term value for all parties involved. And I think let's give it some time to discuss these matters with the relevant parties. And then hopefully in the future, we can draw better conclusions in that.
+
+But as I said before, we are very optimistic that we provide very good service and especially in light of the fact that for example, through the [indiscernible] (00:47:03) acquisitions of AT&T, AT&T is also more focused on other countries in Latin America. And actually it may open up a great opportunity for AT&T working with us in Mexico to expand our base to [indiscernible] (00:47:15).
+
+So, yes you should always keep your eyes open for any scenario. But for the time being, I would put my bets on an expansion scenario instead of a limitation scenario.
+
+Okay. Great. Thank you.
+
+Our next question comes from the Stan Berenshteyn with Sidoti & Company.
+
+Yes. Hi. Just wanted to do a quick follow-up with Mark regarding the debt refinancing. Can you maybe give us an idea of what kind of interest expense can we expect going forward?
+
+Yes. Sure. Thanks for asking. Yeah. As we've disclosed in the 10-Q, it's a 10% interest rate with an added LIBOR amount. And the way that the deal was structured is that the amortizations will start to kick in in 2016 and will be increased a step up in 2017, up till the 1st of January 2016, we will be paying monthly interest amounts.
+
+Okay. Thank you.
+
+Our next question comes from [ph] Greg Harrison (00:48:26), Private Investor.
+
+Hey, Steve. Thank you for all the work you do. A question I have, you're getting $12 million from the loan, and I'm wondering can that be – would you all use that to pay off any other small debt and consolidate so that it would be possible for the company to say that the debt is, in fact, the $12 million loan? I think there's a $3-plus-million loan with your company from some sourced. Could that money be used to pay them off and then you have a real standalone debt, $12 million?
+
+Yeah. Thanks for the question. Maybe, Mark, you can just answer that. But in general, let me just say that we have outside the current $12 million all along hardly and the auto debts on the balance sheet. As Mark pointed out, we extinguished an around $600,000 debt in Q3. And mostly we are completely refinanced by this $12 million. But Mark, maybe you can add some color to this?
+
+That's it – thanks, Mark, that answers the questions for me but go head.
+
+No, if it's answered...
+
+That pays off. But I have.
+
+So just to confirm, maybe to just give you a brief number is that, the gross proceeds were $12 million of debt facility. We have an outstanding convertible of around $6 million in our books, half of that is going to be converted and the remainder part around $3 million is going to be repaid out of the $12 million which means that including the extinguishment of the debt Steve talked about, that really the only debts amount in the balance sheet will remain to $12 million.
+
+Yeah. Okay. I like that. It's a real clean to look at. And then the last question is this, I appreciate the confidentiality on SIM card loadings per customer, but from time-to-time, would the company let inform the shareholders that we now have about 4 million SIMs etcetera in the future, without identifying who migrated?
+
+Yeah, I mean as we stated, we will report aggregate numbers of SIMs in the future. On top of that, we will have the concentration paragraph in our Qs and Ks identifying from which customers or markets, which percentage of revenue came and as was pointed out a little earlier some 85% did come from two customers. So that can already give you quite some guidance – what kind of revenue levels are being achieved in Mexico as well, next to Spain.
+
+And in the future, hopefully, we believe that as I said before, there's a percentage that such will get lower in the total revenue mix, but that we will still see increasing revenue numbers on a per-country basis. And due to the effect of the overall increased revenues, of course the percentages may go down.
+
+All right. thank you.
+
+Welcome.
+
+Our next question comes from [ph] Robert Skaas (00:51:46), a private investor.
+
+Hi, Steven, a follow-up on the whole concentration question that you graciously answered. Our existing customers should substantially increase in SIM count and revenue base, so if our concentration is to go down, that means there's some massive customers that are somewhere in the pipeline. And I know you can't give names, but the only way for concentration to go down based on the growth of Iusacell and maybe Vodafone, is for some really big customers to be coming in. and I know, you wouldn't be saying concentration is going down unless you are confident. So can you speak to that a little bit?
+
+Yeah, surely. I mean as I stated, we of course expect our revenue base to go up. And the whole mathematics is simply that we expect our overall revenue base to increase faster than the individual pockets of these concentrated customers. Did you take into account the country like Saudi Arabia, the opportunities in the North America that we just referred to, the additional opportunities for ValidSoft, additional business in the Netherlands, we definitely expect that our overall revenue base will grow somewhat faster than the revenue increases in both Mexico and Spain. And thereby ultimately reducing the concentration percentage, but at the same time improving the absolute numbers and revenues.
+
+Right. But Mexico and Spain combined, they're going to double in the foreseeable future?
+
+Yes, but possibly other businesses are growing as well and at the end of the day, as we discussed earlier, I think in a conference call a couple of sessions ago, then of course the more customers you serve in a particular geography, the sliding skill that determines which money should we get for additional customer will go down. So the average revenues will go down, even though the absolute numbers will go up. And if we then start growing in newer countries, where we are still earlier in the sliding skill of pricing, we'll have a positive effect on those percentages going up.
+
+Okay. But it's still the [indiscernible] (00:54:03) to revenues tripling now in the next 12 to 18 months for concentration to go down?
+
+Well, let's wait and see how revenues will develop, but I think tripling is kind of aggressive in the timeframe. But we certainly feel comfortable that directly the base will substantially grow.
+
+Okay. Thank you.
+
+Welcome.
+
+It appears, we have no further questions in the queue at this time. I'd like to turn the conference back over to Mr. van der Velden for any additional or closing remarks.
+
+Thank you. Again, on behalf of everyone at Elephant Talk Communications and ValidSoft, I would like to thank everyone for joining us on today's call. And thank you to all our long-term shareholders for their patience and commitments to the company. We look forward to providing additional updates on future developments [indiscernible] (00:54:57) in the future. Thank you and have a great day.
+
+That does conclude today's conference. Thank you for your participation.

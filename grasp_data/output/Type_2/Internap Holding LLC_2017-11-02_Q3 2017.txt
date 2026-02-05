@@ -1,0 +1,264 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+Richard R. Ramlall — Vice President, Investor and Public Relations, Internap Corp.
+Peter D. Aquino — President, Chief Executive Officer & Board Member, Internap Corp.
+Robert M. Dennerlein — Chief Financial Officer, Internap Corp.
+Barry Michael Sine — Analyst, Drexel Hamilton LLC
+Frank Garreth Louthan — Analyst, Raymond James & Associates, Inc.
+Daniel L. Kurnos — Analyst, The Benchmark Company, LLC
+George Frederick Sutton — Analyst, Craig-Hallum Capital Group LLC
+
+Management Discussion Section
+
+Question And Answer Section
+
+Good day, ladies and gentlemen, and welcome to the Internap Corporation Third Quarter 2017 Conference Call. At this time, all participants are in a listen-only mode. Later, we will conduct a question-and-answer session and instructions will follow at that time. [Operator Instructions] As a reminder, this conference call is being recorded.
+
+I would now like to turn the conference over to Richard Ramlall, Vice President, Investor and Public Relations. Sir, you may begin.
+
+Good morning and thank you for joining us today. I'm joined by Pete Aquino, our Chief Executive Officer; and Robert Dennerlein, our Chief Financial Officer. Following prepared remarks, we will open up the call for your questions. The slides we reference in the call are available on our website in the Presentations section of our IR page.
+
+During this call, we will present both GAAP and non-GAAP financial measures. A reconciliation of non-GAAP measures for the most directly comparable GAAP measures are included in today's earnings press release.
+
+Management believes that our presentation of non-GAAP financial measures provides useful supplemental information to investors regarding our results of operations and our non-GAAP financial measures should only be considered in addition to and not as a substitute for or superior to any measure of financial performance prepared in accordance with GAAP. The earnings press release is available under the Financial Information section of our Investor Relations page under the Quarterly Results link.
+
+Today's call contains forward-looking statements as described on Page 2 of the slide presentation we reference in the call, which we urge you to read. These statements are not guarantees of future performance. Because these statements are based on certain assumptions and involve risks and uncertainties. There are important factors that could cause our actual results to differ materially from those in the forward-looking statements. We discuss these factors in our filings with the SEC, which are available from the SEC or on our IR website. We undertake no obligation to amend, update or clarify these statements made as of today, November 2, 2017.
+
+Now let me turn the call over to Peter Aquino. Pete?
+
+Thank you, Rich; and good morning, everyone. So let's start with slide 4. During the third quarter, we are on track with our financial and operating objectives for the year. This consistency in execution gives INAP real momentum going into 2018.
+
+As we discussed over the last year, there were many opportunities for improvement that got us to this point. This third quarter features a continued cleanup, real estate assets in key markets, which we'll cover today.
+
+We are happy to report that we also are seeing very positive signs of traction by our new sales team. We're now at full strength with 60 direct sales reps and support staff, driving new sales and focusing on retention.
+
+We are close to turning the corner on a top line and have just begun the fight. The energy and the excitements back into the system and a new sales success is becoming very infectious.
+
+Another great story line is our continued success in the Phoenix market. We recently increased our presence there to provide more COLO space for our customers. And soon after we secured the additional space with the right to expand, we literally signed up commitments for the entire footprint. In the next couple of months, we'll be completing the build-out and plan to secure additional space. We're very bullish on the Phoenix market.
+
+We're also supporting new sales team as many ways as possible, including rebooting our channel sales, with our channel partners, and, for example, we're hosting our Dallas channel partners at the end of November to walk through the expansion project and prepare for pre-sales.
+
+In addition, we're feeling many requests for additional colocation space in Montreal. We currently operate three datacenters in Canada, with two dedicated to cloud services, including iWeb, and our third datacenter is primarily dedicated to colocation, but we're looking for creative ways to gain even more space in the near term. Given the inbound interest and the attractiveness of lower power costs in Quebec, we're sourcing new inventory to capture this potential growth.
+
+With our INAP datacenter portfolio improving every day, we now see our identity emerging as a leading colocation provider in North America with value-added services on top. We have significant Tier 3-like facilities and 12 of the top 15 MSAs in the country, as well as a strong presence in a number two market in Canada.
+
+Our value-added proposition above and beyond colocation includes, managed services and hosting, AgileCLOUD and bare-metal servers, and a global high-performance network. This emerging identity reflects our unwavering commitment to provide our customers with a customized, high-touch solution and a relationship that's more akin to a partnership.
+
+As we help our customers grow by providing them with state-of-the-art Internet infrastructure that we can expect to grow with them as our business grows. Other highlights for the quarter include management's decisive action to take full responsibility for our majority investment in Japan.
+
+It has been a long time JV with NTT, and we frankly have not been too involved in it, but now we want to be more helpful as opposed to passive. This change resulted in a majority control of the board and the consolidation of Japan's JV results into INAP. We're now adding Tokyo and Osaka to our market list and look forward to working with the team to find ways to grow our business together. And Bob will cover this in more detail.
+
+Finally, with INAP stock appreciation over 200% in the last 52 weeks, we decided to implement our plan reverse stock split. This was outlined and approved by shareholders at the Annual Meeting this past June. The announced 1-for-4 reverse stock split will improve optics when attracting customers and has the added benefit of matching us up better with the peer group. We are pleased to kick this off today, which after proper notifications, procedures to be followed with NASDAQ and the transfer agents, all this will be affective by November 20.
+
+So now let's move to slide 5. What is most impressive about our portfolio is that INAP has a strong presence in major markets around the world, especially, in North America. Our sales team can present a broader inventory and footprint that catches the attention of multinational companies.
+
+We are coaching our sales leaders to focus on datacenters where we have the capacity available now on a retail or wholesale basis. This matches the opportunities that customers demand. [indiscernible] (07:30) market can be a real advantage for us. What you don't see here is that we have dark fiber in certain major markets that we control, connecting all parts and datacenters to form one seamless footprint. To name a few, we have fiber rings in Northern California, L.A., Seattle, Dallas and the New York Metro Area.
+
+These middle mild fiber rings carry customer traffic as well as backbone traffic. These metro rings provide high-speed transport over a protected network to enhance our service levels. We have yet to take full advantage of this great network and it puts all of our assets in a market on [indiscernible] (08:10). We're now presenting prospects with a global portfolio and through continued execution management will be striving to drive sales consistently throughout INAP's top 21 markets worldwide.
+
+And so to summarize, our new updated INAP claim, today, we operate in 21 metropolitan markets, primarily in North America with 50 datacenters and 89 POPs worldwide. INAP currently has nearly 1 million square feet under lease and we're still growing.
+
+So, at this point, let me turn it over to our CFO, Bob Dennerlein, take us through the quarter in more detail. Bob?
+
+Thank you, Pete; and good morning, everyone. I am pleased to report another quarter of sequential EBITDA margin expansion in addition to progress on the sales organization front. While we continue to drive some of our cost reduction initiatives to completion in the quarter, we were also excited about our expansion projects in Dallas and Phoenix, given the strong demand for our services.
+
+Also this quarter, we officially re-launched the INAP brand and celebrated by ringing the closing bell at NASDAQ. Specifically, for the third quarter, we realized the full revenue and expense impact of exiting our New York datacenter as part of our datacenter rationalization efforts.
+
+Also along the same lines, we decided to exit our Atlanta headquarters location and we'll be consolidating our Atlanta employees into available administration space in our downtown datacenter. This keeps our whole team together and resident in our datacenter with our new [ph] knock (09:49). It's a great showcase and we spend some dollars to upgrade our presence there.
+
+The headquarters lease expires in March of 2019 and the annual rent is approximately $1.7 million. This is a big cash savings. We plan to have everyone fully situated in the new location by Q2 2018. This decision was made in conjunction with completing the renegotiation and extension of our Atlanta datacenter lease. The result of which is the capital leases, we're housing a datacenter along with sales, operations and administration groups.
+
+In Phoenix, we expect the additional space we committed to last quarter, which is now officially under contract to begin generating revenue in 2018. We also announced that due to the strong demands in our Dallas market, we are expanding and adding more power to support the needs of existing and new customers.
+
+Finally, in the third quarter, we seized an opportunity to grow our business internationally, took more active role in our Japan joint venture, and as of August 15, began consolidating our monthly results from Japan rather than including them as an equity investment.
+
+The Japan business generates between $1.5 million and $2 million in revenue per quarter. And currently the EBITDA contribution is de minimis. So it has been a busy few months and we are building a lot of positive momentum. That said, let's turn to this quarter's financial results.
+
+So let's turn to the consolidated earnings summary on slide 6. Our third quarter 2017 results reflects a decrease in the rate of revenue decline, along with a continued expansion of our margins as we further rationalize our assets and take advantage of opportunities that create value.
+
+Reported revenue in the third quarter was $68.9 million, declining 1% from second quarter 2017 and 6.8% from third quarter 2016, $0.4 million of this sequential decline was driven by the planned closure of our facility on 75 Broad Street in New York, partially offset by approximately $1 million of revenue from INAP Japan.
+
+GAAP net loss in the third quarter was $10.9 million, which included $0.7 million of one-time expenses, like goodwill impairment, exit activities, stock-based comp, and in this quarter, a non-cash gain associated with the write-up of INAP Japan's assets to fair market value.
+
+On a normalized non-GAAP basis, third quarter 2017 net loss increased by $4.2 million from $5.9 million in the prior quarter and $2.4 million versus last year. The increase was primarily due to interest expense from an increase in our capital leases and depreciation from increased capital expenditures.
+
+Cash flow from operations was $3.3 million in the quarter versus $14.8 million in the prior quarter and $11.5 million last year. The main drivers were working capital timing related to capital purchases, interest payments on the new term loan, which change from being paid on the last day of the month to being paid the first week or the following month along with biweekly payroll timing.
+
+Adjusted EBITDA in the third quarter was $23.3 million with adjusted EBITDA margin of 33.8%. Adjusted EBITDA increased by $0.2 million versus prior quarter and $3.5 million year-over-year. EBITDA margin grew 70 points sequentially and 700 basis points compared to the third quarter 2016.
+
+The positive EBITDA performance despite the absolute revenue decline is driven by our datacenter portfolio initiatives of eliminating unproductive sites and investing in long-term key markets.
+
+During the quarter, as I mentioned, we renegotiated our Atlanta datacenter lease, which resulted in capital lease treatment and positively impacted adjusted EBITDA by $0.7 million. With the positive traction, we're gaining in sales and continued focus on improving profitability, we will continue to improve our return on assets.
+
+Capital expenditures in the third quarter were $11 million compared to $6.7 million last quarter and $12.9 million third quarter 2016. As we stated last quarter, we planned our second half CapEx investments to be somewhat higher than the first half of the year. We will continue to apply rigor when it comes to our investments for the remainder of the year and are maintaining current guidance. Third quarter 2017 adjusted EBITDA less CapEx was $12.3 million, a decrease of $4 million sequentially, however, almost twice as much as the third quarter 2016.
+
+Let's move on to slide 7, our INAP COLO business unit. Overall INAP COLO revenue totaled $51.3 million in the third quarter of 2017, a decrease of 1.3% from $52 million sequentially and 6.7% from $54.9 million year-over-year.
+
+The largest driver of the sequential decrease was the full quarter effect of the exit from 75 Broad. The decline was offset by the addition of INAP Japan, which is fully included in the INAP COLO business.
+
+Within the network services segment, the increase is driven by the inclusion of INAP Japan, offsetting the impact of continued industry downward pricing trends. INAP COLO BU third quarter 2017 contribution of $22.3 million was higher sequentially by $0.3 million and year-over-year by $3.2 million or 17%. The sequential increase was due to our initiatives of eliminating the unproductive sites and making investments in long-term key markets.
+
+The 43.4% contribution margin is 120 basis points higher sequentially versus 42.2% in the prior quarter and 870 basis points higher than 34.7% from the prior year. We believe that continued margin expansion in INAP COLO puts us on a more level playing field with our competition and we remain focused on increasing these margins even further through profitable growth as our sales organization gains momentum.
+
+Now let's turn to slide 8 to discuss our INAP CLOUD business unit. INAP CLOUD's third quarter revenue totaled $17.6 million, which was flat sequentially and a decrease of $1.3 million or 6.9% year-over-year. Within INAP CLOUD, iWeb revenue decreased sequentially, while AgileCLOUD revenue increased both sequentially and versus the prior year.
+
+Another positive for AgileCLOUD was lower sequential churn levels. INAP CLOUD contribution of $8.5 million increased $0.4 million sequentially, primarily due to the 75 Broad facility exit and decreased $0.1 million year-over-year.
+
+Third quarter INAP CLOUD contribution margin of 48.2% increased sequentially from 46% in second quarter 2017 and was higher by 270 basis points compared to 45.5% in the prior year. Like INAP COLO, we will continue to look for ways to increase sales and manage our cost structure more efficiently moving forward in the INAP CLOUD segment.
+
+Now let's look at our cash flow and balance sheet summary on slide 9. Free cash flow defined as cash generated from operations, less capital expenditures, was a negative [ph] 7.7% (18:16) in the quarter, a decline of $15.7 million from the prior quarter and $6.3 million from prior year due to lower net cash flows from operating activities, driven by working capital timing as well as higher CapEx spending levels.
+
+As I mentioned previously, capital expenditures were $11 million in the quarter comprised of $9.3 million of growth-related spend and $1.7 million of maintenance. Cash interest was a $11 million in the third quarter bringing un-levered free cash flow to $3.3 million compared to $15.6 million in the previous quarter and $6.2 million last year.
+
+Cash and cash equivalents were $12 million at the end of the third quarter versus $17.5 million from prior quarter. The decrease of $5.5 million was driven by the cash from operations, less capital expenditures, of [ph] 7.7%, (19:10) cash used in our financing of $2 million, which is primary cap leases and debt payments, plus the cash acquired from consolidating INAP Japan of $3.8 million.
+
+Total debt of $507.6 million includes $218.7 million in capital lease obligations, a $158.4 million of our capital lease obligations are excluded debt for bank covenant purposes as they were operating leases at the time of refinancing. Our leverage ratio was 4.2 in the quarter, which is the same as last quarter and lower than 4.6 a year ago.
+
+Turning to slide 10 is our updated outlook. Adjusted EBITDA guidance is being revised upward, reflecting our successes to-date, along with our remaining opportunities in 2017.
+
+We are increasing our guidance to a range of $87 million to $92 million. We are also tightening our revenue guidance for the prior year to a range of $277 million to $282 million as we enter the final quarter.
+
+As we've discussed previously, we continue to manage CapEx tightly by both leveraging the assets we have in place, as well as investing opportunistically in growth. As such, we are maintaining our capital expenditure guidance range of $32 million to $37 million since we just updated the CapEx outlook last quarter.
+
+Our results so far reflect our continued commitment to deliver on our promises and continuously strive for improvement. We believe we have not yet maximized our potential as a company, nor are we getting our fair share of the high growth datacenter market yet.
+
+With our reorganization, recapitalization and the rebuilding of our sales force and channel partners, we are in much better shape to capitalize on opportunities in the marketplace and continue our profitable growth and value creation.
+
+Now let me turn the call back to Pete.
+
+Thanks, Bob. So let's turn to slide 11. So as I reflect on the completion of my first year as INAP's CEO and Bob celebrating his first anniversary, I definitely have to admit that I'm more optimistic today than I was when I first started. I certainly know a lot more about our potential and believe there's absolutely more room to grow our business across the board.
+
+INAP is a great platform to build on and to create value for our shareholders. It is our job to optimize this portfolio and improve cash flow from operations as we capture growing demand for Internet infrastructure in the markets we serve.
+
+In the near term, we believe that success-based CapEx in Phoenix, Dallas, Montreal will be great investments for our company. We have faith in our sales leaders and the all-star team that they put in place. They demonstrate a winning attitude and a culture that fits well for the new INAP.
+
+To accelerate new growth, we're looking at potential acquisitions as well to fill gaps that we have in certain markets. For example, where we prefer to have our own COLO facilities to improve profitability, we are pursuing tuck-ins. In other areas where we need to improve our product set, we will look for smart bolt-ons. These bring talent and growth. We are very deliberate on our target list and not wasting a whole lot of time.
+
+So the bottom line is that we're looking for ways to grow our company profitably for the long term and to continue to create value for our shareholders.
+
+So this concludes our prepared remarks. At this point, operator, we'll take questions.
+
+Thank you. [Operator Instructions] And our first question comes from Barry Sine with Drexel Hamilton. Your line is now open.
+
+Good morning, gentlemen. Wanted to get a little bit more visibility on the sales force build. I know that's in the slide deck as a bullet point for priorities. Could you give us an update on numerically where is the sales force at now? Are your targets still the same?
+
+And then just remind us, as you build that sales force, what is the typical timeframe for a sales force to get productive? And then, from the time they actually sign a customer until you install it and start generating revenue? Thank you.
+
+Hey, Barry, good morning. We reported today that we're at 60 direct sales force and support staff that's the target we were shooting for. Our HR team and recruiters constantly look for plus 10, plus 20. So I think we're at a point where we can maintain good strong level for what we are today. It has to be supplemented by the channel partners that Bob and I talked about. So we think we're on offense now pretty strongly.
+
+The other side of it is to make sure we do a good job in retention. So that environment that we've been focused on for a year since I've been here, I think is at a point where it actually took that long to get here. And we're really happy to be here now, to be honest with you. And the excitement that's happening that we see we'll be reporting on is just it's about time type of feeling and more to come.
+
+So what's happening in the case of Phoenix, for example, when you build out or at least lease some space and you have to build out for a customer, it does take time. The good news is that we can accelerate a lot of this build just by the nature of the facility we have. So it tends to be anywhere from two to six months on the long side to generate revenue, but we're leaning towards two.
+
+That means the beginning of next year we should see Phoenix start to come on. We hope that Dallas starts to make some progress really in the first quarter and we have the original organic growth still cooking across the board, too. So the new builds, as you would imagine, take a little bit more time depending what the customer wants. It's not automatic where as AgileCLOUD is basically very spontaneous. So we have two angles there.
+
+In terms of productivity of the sales force, as we reported in the past, we hired the leaders first. They brought in a lot of their team, and to the extent, that they hit the track running, it's better for us. We're seeing that, too. But for the most part, if it's a brand-new sales person hitting the street cold, that is a longer process. There's some of that in our 60, less than 10% probably; for the most part, we're bringing in people that can hit the track running. And again, that's been our strategy all along.
+
+And have you seen an inflection in bookings? Are we growing bookings?
+
+We're not reporting the bookings externally anymore, but I would tell you the confidence we have and what I'm seeing now is very good. We're going to be careful to not give out too much detail there because it's very lumpy. And so to track it, month-to-month is a little misleading even for us. So we're looking at it by customer, by location, by market, by sales team leader, and it's very positive.
+
+I would say, if we can get to the point where we cover churn, we'll start to turn that corner. We're literally on the edge of that right now. So the progress we made up to basically September is very encouraging. We've probably had at least two years of significant revenue decline, driven by network costs to a certain extent, plus what the management team is doing proactively to take some, what I would say, unproductive revenue out of our body, some of those are done on purpose.
+
+But if you look at the last two years of the decline, we're at a point now where I feel really confident that with some organic strength, with some tuck-ins, we should turn this corner pretty soon. And you can see us leaning forward now, suggesting we're going in that direction.
+
+All right. Thank you very much, Pete.
+
+Okay. Thanks, Barry.
+
+Thank you. And our next question comes from Frank Louthan with Raymond James. Your line is now open.
+
+Great. Thank you. On the tuck-in deals, can give us more color on what you're looking for there and how large of a deal do you feel like you have the capacity for? First.
+
+And then, as you've had good success improving the EBITDA margins, where do you think those can top out, how much more room do you think you have to go and are there other – is it simple as other things like the Atlanta HQ? Or are there other products or how should we think about the margin growth?
+
+Yes. Thanks, Frank. I'll start and I'll turn it over to Bob. But for the most part, if you look at the direct contribution of the business units in the 40s or high 40s on a streamline basis, the business units are doing very well. They got to that point probably faster than I thought, which bodes well for total company at 34%.
+
+I'm trying to push as much as possible to get close to 40% as possible, but there's some other things we've got to do. We're still working on the network cost. I think there's opportunity to clean that up more. We also think we could productize some of the dark fiber rings eventually. So we're looking at that on the talk.
+
+On the tuck-ins, these relationships we have in the original 34% other people's site is still a drag on us to a certain extent. So we're looking for tuck-ins as substitute to those properties. And because we're in NFL cities for the most part, they're available. The amount of facilities that we could theoretically pick from to get out of a site that's dragging us down. The pickings are pretty good. So we just have to pick wisely, pick the right markets, make a strategic and justify it.
+
+And in case of Atlanta, we're exiting the Ravinia headquarters, we're saving a lot of money that Bob's already capturing. But in that market alone, we have other sites that maybe we could do better. So we've got our eyes open in Atlanta. We've got our eyes open in Chicago, in northern Virginia. And that's probably a facility's view.
+
+From a product view, I think we can do more with managed services to managed hosting. Our team is looking for good bolt-ons there to the extent there are datacenters that match that could make sense. We've got a credit facility that has some bumpers on it right now. So these are not big investments from the standpoint of tuck-ins. And if we see anything bigger than a breadbasket, we'll have to address the credit facility in its entirety.
+
+So we're not constrained by the current credit facility. If something is opportunistic and we want to pursue it, then we'll look at what's involved in that. And that would probably require refinancing. [indiscernible] (31:21) where we came out between you and everybody else on the call, I think we could do better. So it's just a matter of time to get in position to improve our credit facility.
+
+And what is it the top on the current facility that you can do under that?
+
+I think the basket, Bob – we've got $50 million plus, we've got $25 million revolver, which is basically untapped.
+
+Got it. And then, just one follow-up on the sales force. What is the split now within the sales force between direct colocation sales and support and hosting sales?
+
+The teams can sell both. So when we first came out with pure-plays, we tried to stay in our lanes for a little bit in the beginning of the year just to get some discipline. But probably, half way through, we opened it up for the sales team to sell all products. That's actually unleashed a little bit more excitement, because you're just in discussions that basically you need to have both in your bag. And so we basically opened it up, sales guys can sell all.
+
+On the other support staff, they're catching anything that's come in due. We're talking to customers in advance of a renewal of being more proactive in that area. And I think we could do more there. So it's sort of $60 million plus, plus, plus, because the back office is also involved in the retention and customer relationship. But from QBR perspective, out of the $60 million, is probably in the 50s plus range that are really on the street. And others are doing it from their office. But there's a lot more even behind that.
+
+Great. That's very helpful. Thank you.
+
+Thank you. And our next question comes from Dan Kurnos with The Benchmark Company. Your line is now open.
+
+Great, thanks. Good morning. Pete, obviously, you've done an excellent job thus far controlling costs. You've raised your EBITDA guide. And you're certainly looking to return to growth. Can you just give us a sense of how much low-hanging fruit you still think is left on those cost cutting initiatives?
+
+And I know you've given some longer-term margin outlooks. But will there be any lumpiness if you have to integrate some tuck-ins? Or do you get immediate benefits from scale from the acquisitions that you're looking at?
+
+The acquisitions we're looking for are – they have to be accretive and synergistic and fill some sort of hole that we have. But I would say, we're still probably – we're probably around the fourth or fifth inning on cost cuts, because the real estate deals that we're doing still take time. And there's still a few of them, if not, several of them that are suspects.
+
+The ones that Bob mentioned today were meaningful, we can get at sooner. But there's still more on real estate. And that's just good business for us, because if we could just get those done smartly over time, that's very accretive to our company. On network, we have 89 POPs around the world, now including Japan, which gives us another stronghold in Asia and we can use that team to help us more. And I'm really excited about that, frankly. But the network that spreads the world has been put together since 1996.
+
+So you can imagine, if it's a continuous pylon to circuits and routes over those years with some optimization, I'm sure along the way. But where we sit today it's kind of – we've got to start over from the standpoint of looking at everything and it could be consolidating carriers to get better scale, get better pricing.
+
+We have to be really careful that certain routes we have that were supporting a lot of customers may not be worth holding up anymore, those customers could have been diluted or gone even, God forbid, and it takes a lot more work on the network side. We are basically a big network company with datacenters.
+
+So to the extent we can get the network optimized, that's going right to the bottom line and it will make our business even better. And that's very – I wouldn't say easy to do, but we know how to do that. But it takes a lot of analysis and we're in the middle of that pile right now. We called out Phase 2 and Phase 3 cost cuts early in the year. Phase 2 is real estate and we've probably got a bigger jump on that. And I would say because we've got a lot of people in different places that can help us with the real estate work.
+
+On network, it takes network engineers and it takes a lot of network talent to really go find that stuff worldwide. And we've been bringing that talent in. And I feel really good about what we can do there. So those two categories are still on the table.
+
+Got it. That's helpful. And then, just on international, look, we've seen some asset-light business models, particularly, in China, as [ph] ViaNet's (36:57) done it over there with Pincus Warburg JV. You just consolidated your JV in Japan.
+
+Just can you think – can help us think about is there further incremental international opportunities for you, or are we getting way ahead of ourselves here and still want to focus on the domestic business primarily?
+
+That's a great question. Our leader in Canada, Andy Day who has been working with us for a long time is going to be dealing my [indiscernible] (37:27). So I may be announcing that on this call, but he knows it already. But I think international for the most part is a good opportunity for us if we pick wisely.
+
+We have a presence in Amsterdam, in Hong Kong, in London, Singapore, now in Japan. We can pick wisely there. It could be anything from AgileCLOUD pods to more network connectivity, potentially some COLO if we're smart about it. I think excluding Canada approximately 10% of our revenue today comes from international. And I would say we want to keep our eyes open for smart deals where we already have a presence. If you look at our top 21 markets, we go all the way to Sydney.
+
+So we have to take a look at our POPs, our locations, our network, where we have some smart people and try to put that on our target list, too. So we're not really avoiding it. We're just being opportunistic, I would say, in international.
+
+Got it. And then, just one more for me. I know the M&A question has been asked, sort of little bit more in-depth. But so just as we think about the reverse split, you mentioned the impact on the sales process. I understand that you guys had a problem historically with customers worried about you going out of business, you've clearly cleaned up the balance sheet.
+
+Is that just more of the same rationale on the reverse split – on the sales impact? And does it help with M&A if you're considering using equity as a component of any deal?
+
+As you know, the reverse split is mostly algebra. It really don't mean anything to a lot of folks, especially, the investors. But the optics of a single-digit stock price is something psychologically we wanted to address, because with 80 million shares out the reverse just puts us better pretty much in a better group.
+
+And if we could get the optics to improve, it helps customers too, because if they have to look at that and think about that, we get a phone call and they have to explain it. That's one call I could avoid. And so – and Bob gets those calls, I'm sure he'd like to avoid those. So it made a lot of sense optically from a customer perspective and the amount of outstanding shares was very high certainly for small cap. So it came mostly from that angle. And I think our normal stock appreciation would have been fine, too.
+
+But I wanted to jump on that as an opportunity to improve the optics and to the extent even others can use it against us, wanted to take that away too. So had a lot of good attributes as to why to do it. I was pleased that the shareholders approved it already. It's just a matter of timing and since we – our recent high suggested anywhere near $5 was kind of the – at least a mental target we were thinking about and we just got prepared for it to do it.
+
+All right. Great. Thanks for the color, Pete. Appreciate it.
+
+You're welcome.
+
+Thank you. [Operator Instructions] And our next question comes from George Sutton with Craig-Hallum. Your line is now open.
+
+Thank you. I actually wanted to think even more strategically, so I want to quote you, Pete, from a conference you said. When we're done, we're going to be a company that can't be compared to others in our peer group. And I wondered if you could just give us a sense of what you mean with that statement?
+
+I was about to say joke, but there is a lot of things I say that I don't remember saying, but, George, I think that at $300 million as a public company in the datacenter business is kind of on the lighter side of the public datacenter companies. As you know, you look at the REIT, it's just a big step-up from here.
+
+So you're not going to recognize us if we can have our way by simply being more of a COLO-centric company with value-added services that theoretically can grow through organic or acquisition growth. And I think the NFL city presence that we had, it really differentiates us from those maybe in Tier 2 markets.
+
+We're in markets that have a lot of demand and we're creating solutions for customers as partners. So I think the vision we have is that we're going to be unique potentially both in larger markets as well as high-touch provider. But I think we need to grow and we need to grow organically certainly at sort of the baseline and we can optimize this portfolio by growing to a size that matters in terms of market cap is something we're going to focus on. And we're going to try to do that smartly and very accretively.
+
+So if that's what I said back then, it's a match, if not, you could try to remind me what I said, but it's been a consistent methodical walk down this whole year. And I'd like to say even from the start when we put out guidance, we're setting goals and disciplines to hit our numbers the best we can. But we want to keep moving forward. And so that's kind of the vision that we're exploiting right now.
+
+I apologize, because I know when people bring up things, I've said in the past, it's not always very comfortable. So I want to move on. You mentioned the REIT status and I do get asked that by a lot of by clients. I know, Bob, it doesn't make a lot of sense financially. But you look at the valuation disparity. I'm just curious how do you think of that longer term?
+
+Well, I think one side of my brain says, as long as we are readable that makes us attractive from a strategic standpoint down the road. We haven't really spent a lot of time going through the process ourselves internally. Obviously, there's been a lot of other priorities that have taken precedent. But I think it's something that gives us somewhat of an attraction down the road certainly from a strategic standpoint.
+
+Okay. Thanks, guys.
+
+Thank you. I'm not showing any further questions at this moment. I would like to turn the call back to Mr. Aquino for any further remarks.
+
+Thank you, operator, and thank you all for your time today. We look forward to reporting the fourth quarter coming up in a few months, I guess, and thank you for your time.
+
+Ladies and gentlemen, thank you for participating in today's conference. This concludes today's program. You may all disconnect. Everyone, have a great day.

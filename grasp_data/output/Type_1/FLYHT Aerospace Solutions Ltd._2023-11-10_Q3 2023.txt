@@ -1,0 +1,253 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+Matt Chesler — Partner, FNK IR
+Kent Jacobs — President & Chief Executive Officer, FLYHT Aerospace Solutions Ltd.
+Alana Forbes — Chief Financial Officer, FLYHT Aerospace Solutions Ltd.
+Richard Ryan — Analyst, The Oak Ridge Financial Services Group, Inc.
+Kris Tuttle — Analyst, Blue Caterpillar LLC
+Marcus Berger — Analyst, MKB Associates Inc.
+
+Management Discussion Section
+
+Question And Answer Section
+
+Thank you for standing by. This is the conference operator. Welcome to the FLYHT Aerospace Solutions Third Quarter 2023 Results Conference Call. As a reminder, all participants are in listen-only mode and the conference is being recorded. After the presentation, there will be an opportunity to ask questions. [Operator Instructions] Due to the volume of questions expected on today's call, we ask that you limit yourself to three questions to allow time for others in the queue. If there are any outstanding questions at the end of the call, the company will be happy to take them by e-mail to investors@flyht.com.
+
+I would now like to turn the conference over to Matt Chesler, Investor Relations. Please go ahead, Matt.
+
+Thank you for joining our third quarter 2023 earnings call. On the call with me today is Kent Jacobs, President and Interim CEO for FLYHT; and Alana Forbes, FLYHT's Chief Financial Officer. On our website, flyht.com, we posted a press release covering the information we'll review today, as well as a webcast of today's conference call. An archived version of the call will be posted on the Investor Relations section of FLYHT's website as soon as it is available from the conference call provider.
+
+Before we start, I'd like to remind everyone to read the forward-looking statements and non-GAAP financial and other information that we've included in the quarterly report. Certain of the statements made today may constitute forward-looking statements. And these statements are our best and present expectations. Relevant factors that could cause actual results to differ materially are listed in our earnings materials and in our SEDAR filings, including our quarterly report, which is filed on SEDAR.
+
+During the course of today's call, we will also discuss certain non-GAAP financial measures. You can find the reconciliation of these to the nearest comparable GAAP measures in the quarterly report.
+
+With that, I'd now like to turn the call over to Kent.
+
+Thank you, Matt. Good morning, everyone, and thank you for joining us. I appreciate your time and your interest in FLYHT. FLYHT's third quarter was marked by significant progress as we execute on our AFIRS Edge and weather strategies, two of the largest opportunities in our 25-year history. We have now established solid foothold for these two global markets and are poised for an exciting year of installations and revenues in 2024.
+
+With a backlog that has increased to $38 million, our AFIRS Edge in production and SaaS offerings that leverage our new 5G capabilities, we have successfully positioned ourselves to implement our vision established some 18 months ago.
+
+Commercialization of the AFIRS Edge is well underway. Recent contract signings with Flair Airlines and Canada Jetlines are providing installation access for the Edge on both the Boeing 737 MAX and the Airbus A320. With engineering tests completed on the A320, we are preparing for formal testing and the activation STC submission to Transport Canada Civil Aviation. Initial hardware production runs for the AFIRS Edge have been completed and following STC approval, we will begin installation on our customers' schedules.
+
+With both Flair Airlines and Canada Jetlines contracting for a full suite of hardware and recurring SaaS products, we are excited to have our customers using the ClearPort, FuelSense and Gateway applications. It was only two weeks ago that we completed our engineering tests and installation on that A320 with Canada Jetlines. It was a wild success, that installation. It was the first of type and the engineering test went extremely smoothly. It's a real credit to the engineering and to the development teams of FLYHT that a new product on a new aircraft type to us was such an exact.
+
+The continued success in our weather business has secured multi-year contracts with two of the largest national meteorological agency. Both the UK Met and NOAA have signed contracts with FLYHT to equip partner airlines with our AFIRS Edge with the FLYHT WVSS-II relative humidity sensor and Iridium Certus 100 connectivity. Both national agencies are looking to FLYHT to help improve the accuracy of weather forecast and to aid in the prediction of localized severe weather events.
+
+We expect to begin generating meaningful upfront hardware sales in 2024 and thereafter realize the recurring revenue associated with the aircraft-based observation that will be generated for these weather agencies. Our strategic approach to engage directly with government agencies has not only provided the means to secure these contracts, but it also provides our partner airlines with the opportunity to benefit from significantly reduced capital cost for their AFIRS Edge and SATCOM connectivity. With the signing of both contract, FLYHT's purchase of the WVSS-II sensor two years ago for $500,000 and our strategy to directly target the government meteorological agencies have both been validated. Again, it was only a couple of weeks ago that FLYHT had access to the first aircraft, which we will be installing the WVSS-II on and we now have those completed aircraft surveys, we've got inventory purchases proceeding underway and the FDC which we have been initiated purchases proceeding underway and the STC's have been initiated for both the SATCOM, the Certus 100 SATCOM and the WVSS-II on that aircraft type -- that aircraft type being the Embraer 145.
+
+Our maintenance, repair and overhaul solutions business CrossConsense continues to land new contract. During the third quarter, FLYHT landed our largest new MRO solutions contract since CrossConsense was acquired a 1.5 year ago. CrossConsense has been engaged by a leading management consultancy with a deep European heritage and a strong international footprint to manage an aircraft data migration project for one of its airline's clients, a large flag carrier in Europe.
+
+Financially, our revenue continues to grow strongly when excluding last year's large OEM licensing order, which benefited the third and fourth quarters of 2022. This includes our sixth consecutive quarter of double-digit SaaS growth, driven by the ongoing recovery of customer FLYHT activity, higher demand for soundings from our weather data partners, and adoption of our actionable intelligence suite from renewing customers.
+
+As we do not yet have consistent positive EBITDA, we are driven to live within our means by being disciplined and structured on controllable operating expenses. I'm very pleased these efforts contributed to FLYHT successfully increasing our cash balance during the quarter.
+
+FLYHT strategic planning and tactical management is bringing a coordinated effort into focus. R&D activities while continuing are now starting to make way for production of AFIRS Edge unit and sellable Saas solutions. As we build our product offerings around the Edge and our 5G capabilities, we are seeing hardware sales start to grow. STC activities and installations are underway on the two most popular commercial aircraft types in the world. And we are confident these installations will lead to the SaaS revenues as expected in both the actionable intelligence and weather markets. Heading into the final months of the year, I'm extremely confident in FLYHT's prospects. I would like to thank our customers for the opportunity to continue serving them and thank our shareholders for their loyal support.
+
+I'd now like to turn the call over to Alana for a review of our financial performance.
+
+Thank you, Kent. I will begin by reviewing third quarter 2023 results, then we'll discuss key operating metrics. FLYHT's revenues decreased by 24% to $5.1 million year-over-year, which was largely due to the record licensing order we delivered on in Q3 and Q4 last year. That large order is proving to be very tough to beat. Excluding licensing, we showed growth in all other categories with those combined revenues showing an increase of 44% year-over-year. SaaS revenue increased 34% to $2.7 million in Q3 2023 over Q3 2022. Continued post-pandemic recovery of our customer base and an increase in weather data being provided to meteorological organizations were the main contributors to this increase.
+
+Hardware revenues increased just over 100% from Q3 2022 to $1 million in this past quarter. A total of 18 installation kits were shipped in Q3, which was an increase over the 8 shipped in Q3 of 2022. Year-to-date shipments have totaled 62 compared to 53 kits shipped in the first three quarters of 2022.
+
+Licensing revenue decreased to $495,000 due to the large 2022 order I mentioned earlier that was not replicated this past quarter. Technical services revenue increased 28% to $815,000 in Q3 of 2023 compared to the comparative quarter as a result of data migration project work delivered as well as an increase in customer requests for certification services.
+
+In terms of profitability, we reported a strong quarter of margins with gross margins in the quarter of 58.7% compared to just over 72% in Q3 2022. The decrease in gross margins was due primarily to changes in the mix of revenue sources during the quarter with Q3 2022's revenue dominated by our highest margin licensing revenue. Our margin percent in Q3 was more in line with what we've been producing throughout 2023.
+
+Total operating expenses decreased by 12% to $3.6 million in Q3, compared to $4.1 million reported in the same period last year, reflecting the efforts we continue to put into living within our means. Distribution expenses increased 15% year-over-year, showing our increased emphasis on sales and marketing related to the AFIRS Edge and its associated software solutions. Other factors in this category included the addition of CrossConsense staff in late Q1 2022, together with the effect of COVID-19 related government grants received in 2022 that are no longer available in 2023.
+
+Administration expenses decreased by 25% year-over-year, due to a reduction in staffing costs, together with costs of the CrossConsense acquisition that did not reoccur this year. R&D expenses decreased 13% year-over-year due to a difference in specific project requirements. EBITDA loss totaled $431,000 compared to positive EBITDA of $925,000 during the same period last year.
+
+Net loss was $729,000 compared to net income of $704,000 reported in the same period last year. As of September 30, our working capital balances were at $1.6 million compared to $4.3 million at the end of last year, a decrease of $2.7 million. We ended Q3 with balances of $1.9 million in cash and cash equivalents and an undrawn credit facility of $2 million. We have been balancing investments in our products in development with the cash produced by our sustaining business and we're successful in increasing our cash balances in Q3 by $220,000.
+
+We continue to focus on funding our operations by adding higher margin revenue and its resulting cash flow, including from our suite of SaaS services and from the OEM licensing order we received in June, which certainly bolsters our near-term cash position in the fourth quarter. We are really fortunate that we have a suite of existing services that sustain us, generating cash flow that allows us to invest for the future and we continue to be flexible with our product -- project prioritization efforts, being carefully strategic with where we invest our available capital to ensure that we continue to have the financial resources at our disposal to move as swiftly as possible as we go after these large and exciting opportunities.
+
+Looking ahead, we expect continued growth in our business, driven by the ongoing recovery of the global aviation industry, as well as the execution of our strategy. We expect over the coming years, Edge platform sales will drive increased hardware sales and that SaaS revenue will likewise enjoy continued growth.
+
+A second phase of SaaS growth should occur as we begin generating hardware sales and realize the recurring revenue associated with the ABOs that will be generated for the meteorological agencies. Our solutions continue to be in demand as the aviation industry recognizes the need for improved efficiency, profitability and a more sustainable environment.
+
+With that, we will take some questions that we received in advance at investors@flyht.com. We've got lots of questions in advance of today's call, which is exciting to see.
+
+The first one in light of 2019 revenue as a backdrop with revenue in 2020 and 2021 sloping downwards, it would seem that possibly COVID was responsible for the downturn after the success of 2019. To corroborate that, many other successful organizations have a similar revenue graph of highs in 2019 then slumps and a return or an exceeding recently. Does the organization consider the industry and also itself to have passed the COVID slope of the graph and that a normal 2019 type demand for its product has returned as well as normal 2019 type ability for it to fill that space again successfully and increase revenues significantly? Or is the organization still feeling the downward pull of the COVID effect?
+
+I'll say we were really happy to see all of our revenue categories increase. We have definitely, in the past, felt the impact of COVID on the business. We definitely saw it in revenues in 2020 and 2021. We consider that most of our customers have largely recovered. The industry has largely recovered, although there is still some room, there's no question there. However, during the pandemic, FLYHT really doubled down on our development. And the result of that is our Edge product and the associated suite of software solutions. And so while we're happy definitely to see our customers having recovered and our revenues having recovered in tandem with that, we're not just depending on that alone to fuel our future success. So the Edge suite of products is really going to be a large determinant in increasing FLYHT's revenues heading into the future.
+
+And if I may add, the industry, the revenue passenger miles are coming back to 2019 values across the world. That doesn't mean that the airlines are operating in the same way that they were back in 2019. They've been affected by the pandemic and there will be lingering effects. They're decreasing. It's great to see the passenger kilometers coming back, the passenger miles coming back. And we're very confident that things are returning to normal.
+
+Okay. Next up, we've seen the first part of the UK Met contract awarded. Is the second part soon to follow?
+
+The second part being the, I think the second airline that we're going to have to join that UK met program. We're actively working with an airlines down that front to get that signed and to begin the process of putting the Edge, the SATCOM system and the WVSS-II on those aircraft.
+
+The discussions have been going on for a while. They're right where we expect them to be. We're making great progress. The beauty of bringing the second airline online is that we don't have to redo the contract with UK Met. There was a lot of effort over the last year that was put into the contract with UK Met. Loganair being the first airline to joined the second airline, actively negotiating with them now.
+
+Great. Next up, I saw that the two STCs, Boeing and Airbus would've been [ph] activated (00:18:13) already. How is the timeline holding up against your expectations?
+
+Man, I wish they would've been activated, too. It's – it is a bit of a challenge. We would of course, we would have liked to have moved to that faster. The efforts to coordinate aircraft, to coordinate those installations, and then to coordinate the government agencies is large. And we're dealing with airlines, with large government agencies. It really is a challenge and it's been a difficult time to get that sorted out.
+
+Having said that, we often talk about the activation STC, which is the end goal, but we don't -- we FLYHT we sometimes don't share all the milestones that happen along the way towards that activation STC. And if I could just talk about the success we had at Jetlines – at Canada Jetlines last week or two weeks ago with the A320, and the initial installation on that aircraft, which was completed in the time allocated, which was a lot of time. We were given just enough time by the airline to complete our installation and to do the engineering test. Everything was completed, in fact, the engineering test went beyond just the installation that will be done for Canada Jetlines, to include other features that will make STC approvals easier as we move forward on that aircraft type. So we're meeting many of these milestones, that are kind of intermediate steps. We did just recently have that great success.
+
+The product performed, the product being the Edge and the Gateway ground system, performed. I had extremely high expectations for the way it would perform when first running on an aircraft and it exceeded my expectations. The product is a fantastic product, not only for the wireless QAR data transfer, but also the aircraft interface device, the FLYHT deck. So a long way to come back to the STC and say we do wish it was going a little bit quicker. We recognize that it's an important part of our company and we're working on it as quickly as we can.
+
+Great. In Q4 2022, you mentioned you were expecting to move into a different tier of airlines, thanks to the people you've recently brought on-board. Since then, we've had contracts with smaller airlines come in. Are you still confident you'll be able to access a tier of larger airlines?
+
+100% that we are going to access that larger tier of airlines. The contracts we have signed with the Edge, agreed are with smaller, progressive, creative and clever airlines. The work that we're doing with the Tier 1 airlines and the effort that we're putting into those sales, with the sales team that we've expanded over the last year, it takes a long time to deal with that tier of airline. And that process is even maybe a tiny bit slower than I had expected. Making great progress. We absolutely will crack that tier. FLYHT will be selling to tier 1 airlines in the future -- in the near future.
+
+Great. We've got another set here. First up, contracted backlog is up from $21 million to $38 million since Q2. This is a huge jump. Congratulations on that. I imagine it's largely from the weather and Edge contracts we've seen come in. That said I wonder if the legacy 228 part of the backlog is also growing.
+
+And I can speak to this. This investor, you're correct. The jump is largely from the recent contracts that we've announced. However, there are other components in the increase. What we announced publicly are the larger contracts, material contracts, but we're also receiving smaller POs and smaller contracts regularly. And looking at our legacy 228 business, the interest in that product remains strong. Some of those POs that we're receiving and contracts that we're signing include the 228. There's a long tail on that business. It's alive and well, and it remains a core part of FLYHT's offering and a really important part of our sustaining business.
+
+Next, I've recently read FLYHT's letter supporting the Weather Act Reauthorization Act. Would the Bill Reauthorization have any consequences in terms of the relationship between NOOA and FLYHT? Might the volume of sensors or the amount of data per sensor change as a result of what seems to be an increased budget and a drive for better input data FLYHT can provide.
+
+It's great question. There's quite a bit to unpack in there. First of all, the relationship between NOOA and FLYHT is only strengthened by things like this Weather Act Reauthorization. We believe that it's a $10 million expansion or budget that is tagged for the years 2024 to 2028. It is not directly assigned to WVSS-II program or to FLYHT, but we think we have an excellent opportunity, especially with the work that we're doing in 2023 and that we know that we're going to be doing in 2024 to set ourselves up to take a large chunk of that. Whether the – well, it will increase the volume of sensors that are put on aircraft, because that's what we would do with the money. The money would be tagged for additional sensors and aircraft installations. The data volume coming off the aircraft, I don't think, I mean, beyond having more data transmitted, because there are more units on planes flying, we wouldn't I don't think expand the volume of data coming off per FLYHT.
+
+Greta. Pratt & Whitney has recalled some engines due to possible cracks. The overhaul of the engine can take around 300 days. Do you anticipate this to affect our revenue going forward?
+
+Yeah, the Pratt & Whitneym, the GTF-geared turbofan engines are, they have provided some problem for the airlines. And the airlines have been dealing for several months now with how they're going to address the additional overhaul and inspection work that is going to be assigned to those engines. Beyond the headaches for the airline dealing with it, and they – the airlines are not going to bring down 600 aircraft if 1,200 GTFs are going to be adversely inspected. Airlines have to address that. They have to keep the airplane flying. So does it have an impact on our revenues going forward? No, it doesn't. The airlines will continue to operate those aircraft. They will figure out how to do the inspections, it's their responsibility, not ours. And they have to keep the planes in the air and as the airplanes fly, we draw our revenue.
+
+Okay. Has there been early demand for FLYHT's Edge plus 5G WQAR replacement of Teledyne's 2G, 3G product.
+
+Absolutely. That demand is what is driving most of the work with the -- and the interactions and discussions with the larger airlines, the Tier 1 airline. It is that Teledyne replacement, the simple, we call it the five-minute replacement that, leveraging and using the tray and the installation is already in the aircraft. That is very much of interest to airlines as they look to move to a 5G product over the older 2G, 3G LPE products. So yes, large demand working with the airlines. Stay tuned.
+
+Okay. How much money is the US government preparing to allocate for more sensor installs? How many of would that buy. What region would they be deployed in and who might the airlines be? More with UPS or Southwestern or someone else? Are they thinking Alaska, Hawaii, Midwest?
+
+Yeah. We believe that is the 10 million that the US government is preparing to allocate for more sensor installation. So beyond the contract that FLYHT already has with NOAA for this year and next year. Where they might be deployed is very much dictated by where NOAA would like to collect the information. And it doesn't have to be an American Airline. It could be another carrier from different countries. If they happen to be flying in areas that where the aircraft are moving through an air map, it could end up over the continental US, which is where NOAA seems to be focusing their attention on right now. So it could be with countries like UPS, Southwestern, but it could be others.
+
+Okay. Kent mentioned earlier this year that FLYHT expects to sign a Tier 1 airline in the near future. Please provide an update on this statement. Although I suppose you kind of have already.
+
+Yeah. Yeah. We've talked a little bit about that. Yeah. A lots of activity with various Tier 1s around the world and hoping to break through into that market.
+
+The backlog has increased substantially to $38 million. How much of this do you expect to become revenue in 2024?
+
+We definitely, we don't want to issue any guidance necessarily. However, the backlog is all composed of signed contracts that we anticipate delivering on in the near future. These contracts are, the vast majority of them are five-year contract and we're at varying points in delivery on each of those contracts. So I would say that the backlog, the majority you can expect and we expect to convert into revenue over the next 18 months, 24 months, 2.5 years that kind of timeframe.
+
+Okay. That is everything that we received in advance. Ashia, we can go back to you for questions from the line.
+
+Thank you. We will now begin the question-and-answer session. [Operator Instructions] The first question comes from Dick Ryan with Oak Ridge Financial. Please go ahead.
+
+Thank you, and thanks for the detail you provided so far, guys. So I was wondering on the licensing side, 2022 was a huge year. You did announce this $1.4 million in June. How much of that or when is the timeframe for that to be delivered? And can you give us a sense of how the pipeline might look going forward for any new licensing orders coming down the pike?
+
+So the PO that we received in June, that has been 100% recognized and we recognized some of that in Q2 and the remaining portion that was outstanding in Q3. So that has been fully recognized.
+
+Regarding additional opportunities or additional licensing revenues, we don't get very good or detailed projections from our partner there. So while there is the opportunity for more to come in, I can imagine that it's going to slow down over the next year. They've purchased a lot. We don't know, we don't have great information as to how much is going to come in in the next little while. That's why it's always been -- Alana described it as lumpy and it is genuinely lumpy.
+
+Yeah, it's been a really great product line for us ever since its inception in 2012 and it's our partner's projections for themselves are based on and the demand for this product is based on demand on the Airbus OEM line. But unfortunately, we don't have great projections or really a whole lot of information as to the direct connection. So the direct connection with Airbus' demand has been difficult at best to predict on our part.
+
+So with that statement, you don't have a sense of whether those orders are concentrated into a handful of airlines or is it broad based or any sort of customer mix?
+
+That's correct.
+
+Okay. Then when you're getting into the commercialization, the STC work, the installation of the Edge and whether going forward, Alana, what do we – what should we be thinking about OpEx, I know you've got to live within your means, but what kind of trend in OpEx should we be anticipating?
+
+Our OpEx. I can see it, there being varying needs. We don't anticipate huge requirements for it to grow as we're producing product on that -- for that product line and executing on those contracts. I think the larger contracts that we sign, I think the most pressure that we'll see probably in the production and supply chain area. We do rely on our contract manufacturers and so we do have a really good ability to scale without a whole lot of extra OpEx in that area. But that's not infinite. I think if we do see bigger volumes, we will have to grow that team somewhat, and there may be potential for our aircraft certification group as well to expand as we work harder to get those STCs in as quickly as possible. But like overall OpEx, I don't see significant growth occurring.
+
+Okay. And you may have addressed it, I may not have heard it, but what's the installation time for the Edge, as you're working on the initial installs here, how long does it take?
+
+Yeah, it's a good question. And we have some data now based on the completion of the A320 installation. It's very similar to an AFIRS 228 installation. So it's around that 120, 150 hours. One of the challenges is that those first installations are, this is for the [indiscernible] (00:34:10) I just want to be clear. This is for the installation that we've just completed on the A320. It's similar in time to an AFIRS 228. What happens over time, though, is that, that installation drop, time drops down significantly as we become more familiar with it.
+
+During the first installation, there were a couple of wires that were a little short based on routing in the aircraft, bad information or misinformation we received from the manufacturer. Yeah, it's around that time.
+
+But I would like to mention that the 4-MCU version, we keep talking about it being the 5-minute installation and when we start to replace those existing those wireless QARs that are already in the field. It's a 5-minute installation, right? The entire tray with all the wiring to the tray is in place on the aircraft, it's a removal of that product and a slide into the AFIRS Edge, the green light comes on the product and the aircraft is back in service.
+
+In your conversations with the top Tier airlines and judging their interests, do they need to plug and play or are they, would they be interested in the flange?
+
+They're primarily interested in the plug and play solution. That's because they fly large aircraft G7s, A320s and up and they have room in their avionics bay and they most likely have aircraft in their fleet that already have the existing product in it, which makes them a prime candidate. So that's where they're primarily interested in that in the 4-MCU product.
+
+And Kent how would or how would you put the timeline out there for the STC for the plug and play unit? What's the kind of handicap the timing of getting those certifications?
+
+Yeah. That's a little difficult to answer right now. One of the nice things about that STC work is that we will be leveraging the installation that's already in the aircraft. I don't know if you remember, Dick, we did an STC modification on in Canada for the AFIRS 228 based on a different SATCOM installation that's already in several aircraft. Or it can be purchased direct from Boeing. So we know that the STC effort on the 4-MCU is going to be significantly less than the STC effort on the flange. But we're -- I don't have timelines on it right now. I don't want to, until we finish off the flange STC. Maybe we just focus on that for now. If I could, oh, go ahead.
+
+No, no. I said, I understand. that's good. And congratulations on the progress. Good job, guys.
+
+Thank you, Dick. If I If I could just mention, just based on part of the discussion we just had, it's important to remember we are excited about the Tier 1 opportunities. We're very excited about those. Some of the largest airlines in the world are regional, are smaller operators – not all are smaller operator, large airlines with large numbers of aircraft but operate smaller aircraft. And they simply cannot take the 4MCU product. There's no room in those aircraft. It'll be a real challenge. And that's where the flange product is specifically targeted. So we're very well set, not only at the Tier 1 side with the large operators, with large aircraft. We've also got the regional markups on up with the flange product. It's something that we haven't seen in the competition in the past.
+
+Thank you.
+
+The next question comes from [indiscernible] (00:38:22) private investor. Please go ahead.
+
+Hi, there. All my questions have been asked. Thank you.
+
+Oh. Great. Nice to hear from you, [ph] Bruce (00:38:35).
+
+Yeah. Always good to hear from you. Thanks, [ph] Bruce (00:38:37). [Operator Instructions]
+
+The next question comes from Kris Tuttle with Caterpillar Investment. Please go ahead.
+
+Hey. Thanks for taking my question. Most of them have been covered already, but I did just have a couple outstanding. One is we haven't talked that much about CrossConsense. And I'm assuming that shows up in the technical services line, is that right, Alana?
+
+It's a combination. They do have a recurring element and there's a bigger recurring element to their revenue than the technical services line. But the big jump that you see in technical services from starting mainly in Q2 last year and onwards is contributions, mainly from CrossConsense.
+
+Okay. So they'll show up in SaaS as well?
+
+They will.
+
+Okay. And can you give me a sense of the CrossConsense business, like how big is that opportunity? What should we think about in terms of like over the next few years, how significant that could be in terms of revenue?
+
+I think that we're really pleased to see the latest contract that was just signed, that was the first material contract that CrossConsense had signed since joining FLYHT. However, they're always adding smaller amounts periodically to our revenues. They – in terms of growth, there are several large opportunities in front of them, some of them quite significant, some of them exceeding the one that was just announced. However, they do have a sales cycle that is not as long as a lot of what FLYHT has been seeing with our lines of business but it's not insignificant. The use of the AMOS product, which CrossConsense is largely focused on, is very prevalent in that part of the world. And there are a lot of users for that product and therefore a lot of airlines that have that product embedded into their operations and are on the sales target list for CrossConsense.
+
+Okay. Great. That's helpful. One last minor question on CrossConsense. Back when you did the deal back in March of 2022. And I'm wondering there was a tranche of stock that they were that would have been released, I guess, in July. I just wanted to confirm with you that I guess would have been a little over 6,00,000 shares like that was that released to them in July?
+
+They were – you're testing my memory here but there were several tranches. The – I think the final one was 24 months following the acquisition, like 4, 16 and I think 24 months following.
+
+That the last one 28 months. I only know it because I'm looking at it.
+
+Okay. Thanks.
+
+Okay. So they would have gotten a 6-month one in July, if I guess?
+
+Yeah. Yeah, that's correct.
+
+Okay. And then just a couple more quick ones I hope. On the backlog, you've already discussed it, but could you just maybe take a swag at, what's the composition like in terms of percentage like 228 versus Edge, is it just hardware in the backlog or is that also SaaS like I'm just trying to get a color on it, it doesn't have to be exact?
+
+Okay. Sure. The two most recent contracts that we announced with the Edge and Edge are definitely in our backlog. Backlog does comprise everything that we have signed and has not yet delivered. We scrub it regularly for just if there are some accounts that we're not 100% sure on because of lingering impacts of COVID or something going on in the customers fleet. We do a regular scrub. The Edge product is probably, I think about maybe 20% of that backlog now. The remainder being largely the 228 sustaining business together in combination with our weather business and CrossConsense active contracts that they continue to deliver on. And then as far as hardware SaaS composition, I would say my best guess is about 60% of the backlog would be hardware at this point.
+
+All right. That's super helpful. And let's see, last one, the, just I'm just trying to get a sense of capacity. I know you guys use contract manufacturing, but, there's a lot of inputs and there's a process I'm, you shipped I think it said 18 hardware kits last quarter. What do you feel is like a comfortable quarterly hardware shipping capacity for you, where you wouldn't have to sweat or do anything unnatural. Just trying to get a sense of what that run rate looks like based on your capacity to deliver.
+
+Yeah. I think with our existing SaaS, existing facilities, we could quite comfortably do double that. I think beyond that, our contract, the contract manufacturer has really very few limits with a bit of notice and then notice period that we would be able to provide them. I don't see any constraint there at all. Our physical facility, I don't see any constraints there. And I'd say that beyond doubling, we would just probably need to add an extra SaaS or so, depending on how much you're talking about, which we're certainly talking about large numbers and planning for that.
+
+Okay. Terrific. I'll leave it at there and I'll leave a couple of follow ups for later on offline. All right. Thanks, guys. Great job. Always enjoy catching up with you.
+
+Thanks, Kris.
+
+Thank you, Kris.
+
+The next question comes from Marc Berger with MKB Associates. Please go ahead.
+
+Hi, guys. Congratulations on how you guys are progressing. One question. I know your backlogs are extremely high and they went up nicely. But can you talk about your [ph] OP ops (00:46:02) request for proposals, how large a amount is that -- has that is increased if it hasn't from prior and anyway you can break that down into how much would be for the Tier 1 airlines versus the weather side or any other granular information you can give us? Thank you.
+
+Sure. Our pipeline is always -- it's been more active than ever. Our sales team is constantly evaluating new opportunities. We're applying -- we're going through many RFP processes at any given time with a large number of airlines. Our top level pipeline right now. We also -- when we look at our pipeline and all of the opportunities that are contained within it, we're always assigning probability that they'll come to fruition. And those are also changing daily or hourly. But our pipeline is looking really healthy. It's just under 80 million right now. And there's a lot of Edge product in there. There's a lot of weather opportunities, particularly with four or five governments around the globe. And I would say that there's a healthy mix in Tier 1 airlines versus regional operators. And also some potential for follow on business with customers that are like existing customers that are currently employing our products as they -- some customers could have been 228 customers for years. And there's a possibility to add an Edge into their suite of products. So, [indiscernible] (00:48:15)
+
+No, it's great. It is [indiscernible] mentioned it. It's a much more dynamic pipeline than it has been in the past, the sales organization off late is quite critical and aggressive with that pipeline. So the fluctuation between like Alana said national carrier, Tier 1's, regional, it's constantly in flux. But the confidence is growing in that pipeline over the last year.
+
+As is the diversity.
+
+Yeah.
+
+Diversity of the product lines that people are seeking, but also the diversity in the airline business.
+
+Having the [indiscernible] (00:48:59) is huge in that.
+
+As you mentioned that you present probabilities of how much or how quick or you can be able to close one of these deals what would the probability out of the $80 million you have there as potential be rated 50% or better to close within the next year.
+
+That we can't answer that right now.
+
+A lot of the pipeline carries high probability, a lot of the pipeline carries low probability. It all kind of comes together and results in that high $70 million pipeline number.
+
+Okay. Last question. With regard to your stock price and volume of trading, mostly it seems sometimes you don't even trade at all. Is there anything that you are looking into to try to be able to bring more attention to the company and get more volume of trading?
+
+Yeah. We continue our, yeah, we continue our IR activities. It's sliding down fairly heavily in that we're looking at changing a little bit maybe about how we're adjuting that maybe laterals less – more less conferences and more roadshows, specifically targeting, meetings throughout over a two or three day period in parts of the world or parts of the North America. It's constantly on our mind, Marc. We're actively trying to figure out how to get that that volume up. It is tough. It's a challenge for us right now, but we are addressing it, we're working on it. We've got great support from SNK and we're addressing that on a regular basis.
+
+We also feel that one of the best ways to impact share price and our future success is to execute on the business and to really execute on our promises. Let you know what we're planning to do and then follow up by doing it. And I think that we've been really working hard on that. We've been communicating as much as possible our FCC timelines, our Edge development timelines and milestones. And we look forward to continuing to deliver on what we're planning to do.
+
+Okay. Thank you. That's all from me.
+
+Thanks, Marc.
+
+Thanks, Marc.
+
+This concludes the question-and-answer session. I would like to turn the conference back over to Mr. Kent Jacobs for closing remarks. Please go ahead.
+
+Thank you. FLYHT is successful in implementing our SaaS and weather business division. Our strategic approach to R&D is paying off as we begin the transition to selling both our existing and new avionics hardware. And as we begin to realize the additional SaaS opportunities afforded by our new 5G capabilities. The discipline with which FLYHT continues to operate, and the release of the Edge plans this year and the 4 MCU form factor next year means we are on track for a successful 2024.
+
+I thank everyone on the call for your interest and your continued support of FLYHT. I appreciate your time. Thank you.
+
+This concludes today's conference call. You may disconnect your lines. Thank you for participating and have a pleasant day.

@@ -1,0 +1,104 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+Michael Kandell — Chief Financial Officer, Wireless Telecom Group, Inc.
+Timothy Whelan — Chief Executive Officer & Director, Wireless Telecom Group, Inc.
+Fernando Martinez Perez Canto — Chairman, Agrícola Nacional SACEI
+
+Management Discussion Section
+
+Question And Answer Section
+
+Good morning, ladies and gentlemen, and welcome to the Wireless Telecom Group Q2 Earnings Call. At this time, all participants have been placed on a listen-only mode and we will open the floor for your questions and comments after the presentation.
+
+It is now my pleasure to introduce your host, Mike Kandell, Chief Financial Officer; and Tim Whelan, Chief Executive Officer. Mr. Kandell, the floor is yours.
+
+Thank you, Kate. Good morning, everyone, and thank you for joining us for our second quarter 2018 earnings call. Before we begin, I would like to remind everyone on the call that our remarks today could include forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. These statements can be identified by the fact that they do not relate strictly to historical or current facts. The company's forward-looking statements are based on management's current expectations and assumptions regarding the company's business and performance, the economy and other future conditions and forecasts of future events, circumstances and results.
+
+Forward-looking statements are not guarantees of future performance and involve a number of risks and uncertainties that could materially affect actual results. Important factors that could cause the company's actual results to differ materially from those in its forward-looking statements include those risk factors set forth in the company's annual report on Form 10-K filed with the SEC. The company does not undertake any obligation to update or revise any forward-looking information to reflect changes and assumptions, the occurrence of unanticipated events or otherwise.
+
+Also, we want to point out that in addition to GAAP information, we will provide information relating to certain non-GAAP measures. We believe that presenting these non-GAAP or adjusted measures provides additional meaningful information to investors which reflect how management views the business. Detailed reconciliations of non-GAAP measures to GAAP measures are set forth in a reconciliation table in our press release issued earlier this morning and furnished with the Form 8-K filed this morning with the SEC.
+
+I will now turn the call over to Tim Whelan, our Chief Executive Officer.
+
+Thank you, Mike. Good morning, everyone. Thank you for joining us. After some prepared remarks, Mike will review the financials and then we will open the line for some Q&A. To start, we are very pleased with our Q2 revenues of $13.4 million which is above the high end of our guidance. Our results reflect another quarter of both sequential and year-over-year consolidated revenue increases, as well as strong contribution from each of our three segments.
+
+Our Q2 revenues reflect 12.4% consolidated organic growth, which includes Embedded Solutions organic growth of 42% quarter-over-quarter, driven by higher demand for our signal processing hardware parts which we expect to continue throughout the year. We were also pleased to report the higher revenue self-drive improving gross profit, improving operating income and improving net income as compared to the prior year.
+
+On a non-GAAP basis, in Q2, we delivered $1.1 million of non-GAAP adjusted EBITDA. And for our trailing 12 months ending June 30, 2018, we delivered approximately $5 million of consolidated adjusted EBITDA. Our Q2 results also included a solid quarter of bookings, and we are exiting the quarter with almost $2 million of higher backlog as compared to June 30 of last year. And Mike will go through this in more detail later.
+
+Across our segments, we have also continued to make progress executing on new products and solutions, lean operations and improved go-to-market strategies. In our Network Solutions segment, we have realized performance on par with the prior year and we are pleased with these results given some unpredictability of carrier spend and pricing.
+
+Our expectation is consistent water flow in revenues in the segment and we continue to see demand for our products and solutions which enable 4G densification and advance of 5G rollouts, deployment of new spectrum and multi-carrier deployments.
+
+The carriers continue to focus on investments which included DRAN and CRAN designs which enable them a flexible and efficient network with centralized architecture and control. As compared to more expensive active DAC solutions, these designs create improved demand for Microlab's high performance solutions including our high quality RF conditioning components, our specialized integrated point of interface solutions and our new digital GPS repeater splitter product line.
+
+Within this segment, we are also continuing to improve our supply chain and procurement cost profiles which allows us to remain very competitive on pricing for our customers while also maintaining our margins and maintaining our brand reputation for superior performance and quality. We are working collaboratively with our customers on the front end of product deal flows with consultative design reviews and design improvements which was an area of focus on our go-to-market improvement initiatives. Going forward in Network Solutions, we expect to continue our investments in 5G readiness, public safety and emerging standards.
+
+In our Test and Measurement segment, we are very pleased with the 6.6% quarter-over-quarter and the nearly 15% growth in the six months ended June 30, 2018, compared with the same period in 2017. This growth has been driven by improvements we have made to our sales channels, new product interest, and the successful capture of what we believe will be a continued higher spend environment in the government and military customer base.
+
+Our recent launch of our next-generation peak power measurement product, the 4500C is focused on the challenging demands of high-speed, high-throughput manufacturing tests of next-generation wireless devices. And we are very pleased with the interest in this new platform, which replaces our older 4500B product. Going forward, in Test and Measurement, we expect to continue to invest in other product enhancements to address emerging test requirements in millimeter wave and 5G designs in this segment.
+
+And finally, in our Embedded Solutions segment, we have realized increased demand for our signal processing network cards which I mentioned earlier as the key driver to growth in this segment in the quarter, and we expect those volumes and demand to continue throughout the year. The Embedded Solutions hardware cards enable the testing of base stations and test systems and replicate complex network performance of multiple users, multiple cells, and different access technologies.
+
+The higher volume expectation is aligned to our view of continued overall demand for network testing due to the continued 4G-based build and densification due to network deployments requiring integrated connectivity solutions supporting various wireless technologies and due to 5G early deployment. This improved performance expectation in Embedded Solutions has also resulted in a higher estimate of the CommAgility earn-out. And therefore, we've recorded a P&L charge to increase our reserves, which Mike will discuss later. We are exceptionally pleased with the performance of this business unit and excited beyond just the increased demand for hardware solutions by an existing customer.
+
+Going forward, in Embedded Solutions, we expect to continue to invest in our LTE software releases and software customization projects for private network applications and digital signal processing embedded technology. And we are excited about this avenue for a potential growth in future years.
+
+Netting it out, our Q2 results reflect considerable traction on our strategic vision to build a larger enterprise, enabling the development, testing, and deployment of customized wireless solutions through organic growth and acquisitions. Our expected continued revenue growth should drive greater operational leverage, which we expect will result in improved GAAP operating results as well as improved non-GAAP adjusted EBITDA margins and a higher operating cash flow generation.
+
+In closing, our Q2 2018 results reflect five significant accomplishments. It represents the 9th quarter of revenue growth for Wireless Telecom Group since the first quarter of 2016. It reflects the improving profitability from scale and a non-GAAP EBITDA result of $5 million for the trailing 12 months. It demonstrates organic growth success in the legacy Network Solutions, and Test and Measurement segments as compared to prior years. And it reflects a successful acquisition and integration of CommAgility business, which now makes up Embedded Solutions and finally demonstrates revenue and profit organic growth success in CommAgility since its acquisition.
+
+We are continuing to execute on our strategy, investing in and strengthening our three segments to address the demand for growth of wireless connectivity. Our segments are benefiting from [indiscernible] (00:09:59) carrier densification, increased military spending, private network deployment investment, 5G investment, and the growth through industrial IoT. And we continue to invest in the long-term growth trends and larger market opportunities aligned to our core expertise across the lifecycle in developing, testing and deploying highly customized, high performance wireless communications solutions.
+
+With that, I'm going to turn the call over to Mike to walk us through the financials.
+
+Thank you, Tim. Good morning, again, everyone. As Tim mentioned, we were pleased with our Q2 results which were above expectations. Consolidated revenues of $13.4 million represented growth of $1.5 million or 12% from the year-ago period. The increases in the quarter were primarily driven by the Embedded Solutions segment where we realized higher demand for our digital signal processing hardware used in network test systems.
+
+Our consolidated gross profit increased $2.8 million from $3.3 million in Q2 2017 or 28% of revenue to $6.2 million or 46% of revenue in Q2 2018. The lower Q2 2017 gross profit includes a one-time non-cash inventory impairment charge of $1.9 million. Excluding the inventory impairment charge, we realized a 140 basis point gross profit improvement in Network Solutions and a 440 basis point gross profit improvement in Test and Measurement, driven by material cost savings, product mix and improvements in the lean operations.
+
+On a segment level for the quarter ending June 30, 2018, as compared with the same quarter last year, Network Solutions revenues were consistent. Test and Measurement revenue increased 6.6% or $218,000, driven by higher sales of power meter solution. And in Embedded Solutions, we realized $1.2 million of higher revenue which reflects higher demand for our hardware cards.
+
+On a regional basis, the Americas, which we define as Canada, the U.S., and South America, continues to account for the majority of our revenue. For the quarter ending June 30, 2018, Americas, EMEA, and APAC revenues accounted for approximately 60%, 33%, and 7% of consolidated revenues respectively. In the same quarter last year, Americas, EMEA, and APAC accounted for 70%, 26%, and 4% of consolidated revenues respectively.
+
+The increase in EMEA revenue and decline in the Americas revenue reflect the higher Embedded Solutions hardware sales in the UK. Across all of our regions, we see our businesses and channels performing well, and we are focused on continuing to drive more growth from the regions outside of North America. Our Q2 2018 bookings were approximately $11.9 million, which compares to $12.1 million in the prior year period. With higher revenues this quarter, this resulted in a 0.88 book-to-bill ratio.
+
+We are exiting the second quarter with a backlog of orders of $8.8 million, which represents an increase in backlog of approximately $1.8 million from the June 30, 2017, backlog of approximately $7 million. Our consolidated operating expenses were $6.1 million in Q2 2018 compared to $5.8 million in the same period a year ago.
+
+Some highlights on the operating expenses. R&D expenses were slightly higher on 5G investments particularly in our Embedded Solutions segment. Sales and marketing expense increased due to investments in expanding our sales channel and sales head count. And G&A expenses decreased slightly due to lower M&A and integration of expenses.
+
+Lastly, included in our Q2 2018 results is a $213,000 charge for the change in the estimated fair value of contingent consideration expected to be paid related to the CommAgility acquisition. Also referred to as the CommAgility earn-out, the contingent consideration liability is based on CommAgility expected financial performance in calendar 2018, specifically adjusted EBITDA as defined in the share purchase agreement. Due to increased demand for signal processing hardware, we've increased our financial forecast for CommAgility for 2018 and therefore increased the amounts expected to ultimately be paid as part of the earn-out provisions of the share purchase agreement.
+
+Netting it all out, we have realized operating income of $33,000 for the second quarter compared to an operating loss of $2.2 million in the same quarter in 2017, which included the $1.9 million inventory impairment charge. In Q2 2018, we recorded a consolidated tax provision of $105,000, primarily due to the impact of the global intangible low tax income tax which pertains to foreign earnings and was enacted as part of the Tax Cut (sic) [Cuts] (00:14:51) and Jobs Act.
+
+In taking a look at our non-GAAP adjusted EBITDA, we delivered $1.1 million in Q2 2018 compared to non-GAAP adjusted EBITDA of $907,000 in the same period a year ago. This improvement to non-GAAP adjusted EBITDA was largely driven by revenue growth in 2018. For the last 12 months, we have delivered $5 million of non-GAAP adjusted EBITDA.
+
+With regard to cash flow, we generated $196,000 of cash flow from operations for the six months ended June 30, 2018, compared to $489,000 in the same period in 2017. This reflects working capital increases of approximately $2.1 million in accounts receivable which was driven by higher sales to our larger customers with longer payment terms and $1 million in inventory which reflects a higher backlog and funnel of opportunities, for which timely delivery is critical to win rates. We remain optimistic about our ability to generate cash flow from operations during 2018.
+
+At this time, I would like to turn it over back to Tim for some closing remarks.
+
+Thanks, Mike. Again, we are very pleased with our first half results of 2018 and our continued execution driving top line growth and profitability. With the $26.7 million of revenue in the first half of the year, we are on track for 2018 organic growth as compared to 2017. Looking into our third quarter ending September 30, we expect Q3 revenues in the range of $13 million to $13.5 million, we expect gross margins of approximately 45% to 46%, and we expect non-GAAP operating expenses to be between $5.4 million and $5.5 million.
+
+In summary, Wireless Telecom Group has a deep level of expertise in RF wireless communication. We have known and well-recognized brand names with long tenured history, and we have a large installed base of products and customers. We are an approved and trusted vendor with carriers, defense contractors, the military, and government agencies.
+
+Together, Wireless Telecom Group and our three segments represents an investment in the continued growth and evolution of wireless communication in a company collectively centered and focused on a unified mission across three lifecycle areas enabling the development, testing, and deployment of wireless communications technology.
+
+We expect to take advantage of the anticipated long-term trends in wireless communication, while at same time we are also diversified across solutions sets, diversified across stages of the wireless technology lifecycle, and diversified across customer segment addressability.
+
+Thank you, and Kate, please open the lines now for questions.
+
+Thank you. Ladies and gentlemen, the floor is now open for questions. [Operator Instructions] And our first question today is coming from Fernando Canto. Please announce your affiliation, then pose your question.
+
+Good morning, Tim and Michael. When should we expect to see any meaningful net income for the company because we're increasing revenues, but we haven't seen it reflected on the bottom line?
+
+Yeah. Thanks, Fernando. It's Mike. One of the things that impacted us this quarter from a net income perspective is the tax provision. We had an impact of this global intangible low tax income tax charge which is part of the new act and imposes a tax on our foreign earnings. That is going to continue to impact us as we go forward. It won't have the cash impact due to our NOLs, but that is going to impact our ability to generate net income going forward.
+
+Overall, from an operating income perspective, we had a higher mix of hardware this quarter which has a lower gross profit. As that mix changes to more software specifically in Embedded Solutions, we should see more operating income going forward.
+
+All right. Thank you very much, Mike.
+
+Thank you. We have no further questions in the queue at this time.
+
+Very good. Thank you, Kate. Thank you for joining our call today, everyone. We look forward to speaking with you again in the future.
+
+Thank you. Ladies and gentlemen, this does conclude today's conference call. You may disconnect your phone lines at this time and have a wonderful day. Thank you for your participation.

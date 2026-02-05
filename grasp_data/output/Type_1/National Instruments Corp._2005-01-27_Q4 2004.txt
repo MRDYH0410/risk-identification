@@ -1,0 +1,329 @@
+raw transcript
+
+
+National Instruments
+ 
+NATI
+ 
+Q4 2004 Earnings Call
+ 
+Jan. 27, 2005
+
+
+Company
+
+ 
+Ticker
+
+ 
+Event Type
+
+ 
+Date
+
+
+
+www .Ca ll St r eet . com
+ 
+•
+ 
+21 2. 9 31 . 65 1 5 •
+ 
+C op yr i g ht © 20 0 4 C a ll S tr ee t
+ 
+1
+
+
+MANAGEMENT DISCUSSION SECTION
+
+
+Operator: Good day, everyone, and welcome to the National Instruments Corporation's Fourth
+
+
+Quarter 2004 Earnings Release Conference Call. Today's call is being recorded. You may refer to
+
+
+your press packet for the replay dial-in number and passcode. The replay will be available from 7
+
+
+PM Central Time today and will end at midnight Central Time on February 2, 2005. With us today
+
+
+are Dr. James Truchard, President and Chief Executive Officer, Alex Davern, Chief Financial
+
+
+Officer, and John Graff, Vice President of Marketing. For opening remarks, I would now like to turn
+
+
+the conference over to Mr. David Hugley, Corporate Counsel. Mr. Hugley, please go ahead, Sir.
+
+
+David Hugley, Corporate Counsel
+
+
+Good afternoon. During the course of this conference call, we shall make forward-looking
+
+
+statements regarding the future financial performance of the Company, including statements
+
+
+regarding our expected revenue and earnings per share, strong new product output in 2005, and
+
+
+expanding market opportunities. We wish to caution you that such statements are just predictions,
+
+
+and that actual events or results may differ materially. We refer you to the documents the
+
+
+Company files regularly with the Securities and Exchange Commission, including the Company's
+
+
+annual report on Form 10-K for the year ended December 31, 2003, and our Form 10-Q for the
+
+
+quarter ended September 30, 2004. These documents contain and identify important factors that
+
+
+could cause our actual results to differ materially from those contained in our forward-looking
+
+
+statements. With that, I will now turn it over to the President and CEO of National Instruments
+
+
+Corporation, Dr. James Truchard.
+
+
+James Truchard, President & Chief Executive Officer
+
+
+Thank you, David. Good afternoon and thank you for joining us. Our key points today are record
+
+
+quarterly revenue, up 9% sequentially, record sales of LabVIEW, PXI, Data Acquisition and Module
+
+
+Instruments in Q4; and record annual revenue up 21% year-over-year with net income of 46%. We
+
+
+are pleased with the strong sales of our virtual instrumentation platform in Q4. Our strong
+
+
+investments in R&D, coupled with excellent sales and marketing execution, resulted in record
+
+
+revenue for the quarter and for the year.
+
+
+In our call today, Alex Davern, our CFO, will review our financials, John Graff, our Vice President of
+
+
+Marketing will discuss our business; and I will close with a few comments before we open up for
+
+
+your questions. Alex.
+
+
+Alexander Davern, Chief Financial Officer
+
+
+Thank you for joining us today. We had a strong Q4 with revenue of $137 million, up 12% from Q4
+
+
+2003 and up 9% sequentially. This represents the highest quarterly revenue in NI's history. The
+
+
+sequential growth in Q4 is in line with the average Q4 sequential increase we typically see. Our
+
+
+growth rate in Q4 is significant when compared to the unusually high 16% sequential revenue
+
+
+growth we saw in Q4 of 2003.
+
+
+Revenue for the full year was $514 million, up 21% from 2003. This represents the highest annual
+
+
+revenue in NI's history. We are pleased to pass the milestone of $0.5 billion in revenue. I feel that
+
+
+in 2004 we made good progress towards our goal of reaching $1 billion in revenue in 2008.
+raw transcript
+
+
+National Instruments
+ 
+NATI
+ 
+Q4 2004 Earnings Call
+ 
+Jan. 27, 2005
+
+
+Company
+
+ 
+Ticker
+
+ 
+Event Type
+
+ 
+Date
+
+
+
+www .Ca ll St r eet . com
+ 
+•
+ 
+21 2. 9 31 . 65 1 5 •
+ 
+C op yr i g ht © 20 0 4 C a ll S tr ee t
+ 
+2
+
+
+Fully diluted earnings per share for Q4 was 20 cents with net income of $16.5 million, up 47% from
+
+
+Q4 2003. This represents the highest quarterly net income in NI's history. Net income for the full
+
+
+year was $49 million, a 46% increase over 2003. Fully diluted earnings per share was 59 cents per
+
+
+share. With a 21% increase in revenue and a 46% increase in net income, we are pleased to have
+
+
+delivered on our goal of driving operating leverage in 2004.
+
+
+Now looking at Q4 revenue in more detail. Sales of our Instrument Control products were down 3%
+
+
+sequentially, and down 4% year-over-year. And we’re impacted by weak sales in Test &
+
+
+Measurement and semiconductor capital equipment companies and by a decline in the Global PMI
+
+
+during Q4. Sales of rest of our product portfolio, i.e., our virtual instrumentation platforms were up
+
+
+16% year-over-year compared to a very strong Q4 last year.
+
+
+During Q4 we saw growth in all regions. Revenue was up 11% in Europe and Asia and was up
+
+
+15% in the Americas, giving overall growth of 12%. We believe that the slowdown in year-over-
+
+
+year growth in Europe is due to the weakening of the industrial economies in Europe during Q4. In
+
+
+Asia, our growth rate was pulled down by a 16% decline in sales of our Instrument Control
+
+
+products, which make up a larger percentage of our Asian revenues. However, we continue to see
+
+
+good growth in our virtual instrumentation products in Asia, which had growth of over 20%.
+
+
+Now we’ll look in more detail at the income statement for the quarter. Gross margins in Q4 were
+
+
+73.5%, up from 72.7% in Q3 on a 9% sequential increase in revenue. Total operating expenses
+
+
+were $79.3 million up 3% over Q4 2003. Total expenses included a $2.1 million net credit for
+
+
+patent litigation and an expense of approximately $2 million for educational donations. Our R&D
+
+
+expenses were flat sequentially and were up 6% year-over-year. Software development expenses
+
+
+capitalized in the quarter amounted to $860,000. Also during the quarter, $1.9 million in previously
+
+
+capitalized software development costs were amortized to cost of goods sold.
+
+
+Sales of marketing expenses were up by $2.2 million sequentially, and by 12% year-over-year.
+
+
+This included approximately $2 million in donations, which we made to 150 educational institutions
+
+
+worldwide in Q4. Consistent with what we said in our October earnings call, we used $2 million of
+
+
+the award we received from The MathWorks case in Q4 to further engineering education, and to
+
+
+extend the adoption of LabVIEW and our virtual instrumentation platforms in universities worldwide.
+
+
+The net patent litigation credit of $2.1 million is made up of two elements. The first represents a net
+
+
+gain of approximately $6 million from damages related to the Court of Appeals affirmation of our
+
+
+victory against The MathWorks in our 2003 jury trial. This gain is offset by a $4 million charge we
+
+
+have taken in Q4 related to a new patent case concerning The MathWorks newly released version
+
+
+of Simulink. This new version of SimuLink – service pack 1 for release 14 – was released by The
+
+
+MathWorks in an effort to avoid the court's infringement injunction. While this release did remove
+
+
+some functionality from Simulink, we believe that this new version continues to infringe NI's
+
+
+LabVIEW patents. The Federal court for the Eastern district of Texas has ruled that a new trial is
+
+
+needed to decide the infringement issues presented by the newly released version of SimuLink.
+
+
+This charge of $4 million represents the accrual for estimated legal costs to take this case through
+
+
+trial.
+
+
+G&A expenses in Q4 were up 20% year-over-year and included approximately $1.4 million related
+
+
+to our efforts to comply with Section 404 of Sarbanes-Oxley. For 2004, we estimate this cost at
+
+
+approximately $2.5 million.
+
+
+Now looking below the operating income line, other operating expenses included a net charge of
+
+
+$2.3 million, related to a $2.5 million write-off of an investment, offset by a $242,000 gain on the
+
+
+sale of a subsidiary. The $2.5 million write-off related to a 10% minority position NI owns in a small
+
+
+start up. This investment was made in 2001 and represents the only minority investment that NI
+
+
+has. As a result of a deterioration in the performance of this Company and weakened prospects for
+
+
+future profitability, we took this charge in Q4.

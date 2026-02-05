@@ -1,0 +1,114 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+John W. Schoen — Senior Vice President & Chief Financial Officer, PCTEL, Inc.
+David A. Neumann — CEO, PCTEL, Inc.
+Jaeson A. M. Schmidt — Analyst, Lake Street Capital Markets LLC
+
+Management Discussion Section
+
+Question And Answer Section
+
+Welcome to the PCTEL Third Quarter's Earning Release Conference Call. At this time, all participants are in listen-only mode. At the conclusion of our prepared remarks, we will conduct a question-and-answer session. As a reminder, this conference is being recorded.
+
+I would now like to turn the call over to John Schoen, the company's CFO. You may begin.
+
+Thank you for joining us on today's conference call to discuss PCTEL's third quarter 2017 financial results. With me today is David Neumann, the company's CEO. Before we begin, let me remind you that this call may contain forward-looking statements. While these forward-looking statements reflect PCTEL's best current judgment, they are subject to risks and uncertainties that could cause actual results to differ materially from these forward-looking projections.
+
+Risk factors that could cause PCTEL's actual results to materially differ from its projections are discussed in the earnings release which was issued today. It is also available on our website and in our most recent Annual Report on Form 10-K, both of which are available on our website.
+
+Additionally, our commentary will include reference to the following non-GAAP measures, non-GAAP earnings per share, adjusted EBITDA, and free cash flow. We believe these non-GAAP measures facilitate comparability of results over different periods. A full reconciliation of these non-GAAP measures to our GAAP basis measures is included in our quarter earnings press release that was issued earlier today.
+
+With that, it's now my pleasure to turn the call over to David Neumann.
+
+Good afternoon. Third quarter and year-to-date revenue, gross profit, EBITDA margin, and non-GAAP earnings per share all improved when compared to the same periods last year.
+
+We confirm our annual revenue targets for antenna and scanning receiver products. John will discuss our financial results later in the call.
+
+Industrial IoT, small cells, and the migration of 5G are all significant long-term growth drivers for PCTEL. We have a strong and growing position in our core antenna verticals, including fleet, industrial, small cells, and enterprise Wi-Fi.
+
+Our antenna solutions solve complex RF problems, and that applies to our test and measurement group as well. PCTEL is recognized as a leading provider of RF scanning receivers that pinpoint coverage and interference issues across multiple technologies, including P25 for public safety, Narrowband IoT, and 4G/5G/LTE.
+
+In Connected Solutions, fleet and Industrial IoT were strong this quarter, including shipments to a major public safety OEM for their new radio line, deliveries of our rugged multi-band antenna for Precision Agriculture, and increased shipments of our high precision, multi-band GNSS antenna to support specialized fleet applications.
+
+We believe global small cell growth will be a significant driver for antennas and test equipment over the long-term as networks become denser, but there may be some variance one quarter to the next. Small cells play a role in 4G today and their use will be expanded in 5G, especially in the millimeter-Wave bands which travel shorter distances.
+
+We won a new small project from one of the largest OEMs, and small cell projects are starting to ramp up in the U.S. Infrastructure deployments in the quarter also drove cells of our Precision GPS Timing Antennas.
+
+Last week, we announced the opening of our wireless system performance lab in Bloomingdale. Our new lab enhances our RF design capabilities to optimize Wi-Fi antenna solutions and it allows us to offer pre-certification, over-the-air testing, and integration of systems to our customers who are building wireless products.
+
+Within our solutions, we are optimistic about the business for several reasons. Two new OEM partners were added in the U.S. and we captured significant scanning receiver business at one of the largest U.S. operators. Our [ph] MXflex (00:04:39) scanning receiver running with our latest SeeHawk Touch software continues to show its versatility beyond coverage verification and interference mitigation.
+
+Our newest public safety application includes features that significantly decrease the time to test wireless systems that are critical for first responders. We continue to make investments in our scanning receiver technology to support 5G networks. Our MXflex is the only stand-alone scanning receiver on the market that supports 4x4 MIMO. And with our new down converter options, it is an ideal solution to support higher frequencies planned for 5G.
+
+To support our Industrial IoT and small cell strategies, we joined the MulteFire Alliance in September. MulteFire is an LTE-based technology for small cells operating in unlicensed or shared spectrum that will have the simplicity of Wi-Fi-like deployments. It is expected that MulteFire trials could start as early as the first half of 2018 and our products support MulteFire frequencies today.
+
+We are well-positioned in both divisions to serve the Industrial IoT, small cell, and 5G market segments.
+
+I would like to note that John and I will be attending the Southwest IDEAS Investor Conference on November 16 in Dallas. We look forward to meeting with investors at the conference next week.
+
+With that, I will now turn the call over to John Schoen for a closer look at our third quarter and September year-to-date financial results as well as fourth quarter 2017 guidance. John?
+
+Thanks, David. I will be addressing the 2017 results from continuing operations for the third quarter and the three quarters ended September, comparing them to the same periods last year. Revenue was $23.7 million in the quarter and $68.1 million year-to-date, an increase of 13% in the quarter and 11% year-to-date.
+
+Gross profit margin was 42.9% in the quarter and 41.9% year-to-date, up 340 basis points in the quarter and 170 basis points year-to-date. Adjusted EBITDA margin as a percent of revenue was 11% in the quarter and 9% to date, up 270 basis points in the quarter and 110 basis points year-to-date. Non-GAAP diluted earnings per share was $0.09 in the quarter and $0.19 year-to-date, up $0.06 or 54% year-to-date. Free cash flow was positive $2.1 million in the quarter and $5 million year-to-date.
+
+Now, I will review the results for each segment. For the Connected Solutions segment, revenue in the quarter was $18 million, up 5%, and $52.1 million year-to-date, up 9%. Gross profit was 34.2% in the quarter, up 50 basis points, and 33.2% year-to-date, up 160 basis points. The growth leaders in the quarter and year-to-date continue to be antennas for fleet and utilities applications. Gross margin improved in the quarter and year-to-date from a continuing revenue shift to products earlier in their life cycle, as well as achievement of supply chain efficiencies.
+
+For the RF Solutions segment, revenue was $5.7 million in the quarter, up 50%, and $16.2 million year-to-date, up 16%. Gross profit was 69.8% in the quarter, up 430 basis points, and 69.8% year-to-date, up 70 basis points. The increased revenue is being driven by the U.S. market. Margins were higher in the quarter and year-to-date on increased revenue, leveraging fixed cost of goods sold.
+
+Now, let's turn to guidance for the fourth quarter 2017. Fourth quarter revenue is expected to be between $23.5 million and $24 million. Gross profit is expected to be between 42.5% and 43%, and non-GAAP diluted earnings per share from continuing operations are expected to be $0.08 or $0.09 per share at that revenue range. At the midpoint of our fourth quarter guidance, revenue will be up 8% for the year.
+
+Before we take questions, I would like to turn the call over to David to make a few closing remarks.
+
+Thanks, John. We're pleased with our performance in each of our targeted verticals. PCTEL is in a strong position as we approach 2018. To summarize, we had a strong quarter for scanning receivers and antennas sold in the fleet and Industrial IoT. We continue to make investments in equipment, staff and facilities to support 5G and the associated applications. And we are pleased with our results through the first three quarters and the momentum we've generated to finish the year.
+
+With that, John and I are available to answer questions. Operator? [Operator Instructions]
+
+[ph]
+
+I wonder if it's everyone. Sounds bad. (00:10:36).
+
+Your first question comes from the line of Jaeson Schmidt.
+
+Hey, guys. Thanks for taking my questions. I just want to dig in on that new small cell win. Is that with an existing customer or a new customer? And is there any way you can help us size the potential opportunity there?
+
+The small cell win is within an existing customer and I think we've talked in the investor presentations. There's really three vendors and two of those are pretty strong within -- in Nokia and Huawei. So, it's with one of those two existing customers. Small cell business, as I said in our comments, is really a long-term play with 5G in shorter wavelengths. You really need to have the sites closer together. Now, we have some challenges in the U.S., mostly around getting the permits and the permission to build out small cells. I think I've read recently there's probably less than 50,000 small cells deployed in the U.S., but they really need hundreds of thousands of the sites to support 5G.
+
+So, once the permitting and the application process is a little bit more streamlined, I think we'll see even more business in the U.S. And, of course, China is a big market for the small cells as they bring their technology and then their wireless infrastructure up to the current standards.
+
+Okay. That's helpful. And then, looking at the FirstNet opportunity. I know you guys have talked about that being more of an 2018, 2019 type of story. Any update on your thinking as far as timeline goes and any – and traction you're seeing in that market?
+
+I think with FirstNet, there's really two opportunities. One is with infrastructure as AT&T deploys infrastructure to support FirstNet. That's going to be, I think, a smaller opportunity and probably more long-term. And the reason is AT&T has a pretty good coverage over most of the U.S. already. So, once FirstNet is implemented, they'll be able to give priority to the first responders on the existing network and they'll really need to build out the rural areas or 23%, 24% of the U.S. that they don't have covered. So, I don't think that's going to happen until probably mid next year or later.
+
+The other interesting component of FirstNet for PCTEL is that we – fleet is a large market for us. So, as the municipalities upgrade their vehicles to support LTE and multi-band GPS and Wi-Fi, we'll have an opportunity to sell into those markets.
+
+Okay. And then, the last one for me, and I'll jump back in the queue, gross margin was really strong in the quarter and just – I know part of that is due to the recent sale of the RF engineering services business, but how should we think about gross margin trending longer term?
+
+Well, first, you have to think of the two segments separately. And so, what we've got on a GAAP basis is somewhere in the 70-point range for GAAP. It is a consistent gross margin that we model for scanners. On a non-GAAP basis, it's about 73% to 74%, so I know you do a non-GAAP model.
+
+On a -- as far as the antennas go, it's a little different because it's – think of a large stack of antenna SKUs that are in different ages of their life cycles stacked on top of each other, that come and go, and it's higher at the front end as we get [ph] spec-ed (00:15:05) in. And then, as the supply chain of our customer cost reduce over the life cycle, it tends to lower.
+
+And so, we long-term are modeling on a non-GAAP base, call it 33.5 points long-term for antennas. This quarter happened to be a little stronger just based on the age cycle. But just as the business is lumpy, the age cycle of what ships in a particular quarter ebbs and flows. But 33.5 points and 73 points for non-GAAP is how you should be thinking long-term about gross margins for the two different segments.
+
+Okay. That makes sense. Thanks a lot, guys.
+
+Okay. [Operator Instructions]
+
+Your next question comes from the line of [ph] Mike Wasserman (00:16:03).
+
+Yeah. Hi. I think you partially answered my question earlier. But everything I'm hearing suggests 5G is still quite a long ways away in the U.S. Are you mostly focusing on overseas business you may be getting, perhaps nearer term in 5G?
+
+5G standard is really a global standard. So, it's not necessarily international versus U.S. issue. With 5G, the official specs will be out 2020, I think, for the [ph] fixed (00:16:46) version and 2022 for mobile. But there are interim, we call them 4.5 or 4.9G that Verizon and other carriers want to implement to take advantage of some of the capabilities of the new radio within 5G and to address some of the applications, as an example, for the fixed wireless, sending a beam to the homes versus [ph] laying (00:17:12) fiber.
+
+For PCTEL, 5G – even though it's a little bit further down the road and we need to make investments now and in 2018 to support it, it's really the densification of a network that drives our business. So, with 5G at the higher frequencies, the cell sites have to be much closer together. So, for us, small cell is an important market for us and that means more small cells deployed globally and it also means that you're going to have more RF in the area at different frequencies on top of the 4G frequencies which makes it a little bit more complicated and you need to test the measurement tools that we provide from RFS.
+
+So, although 5G is not officially going to be launched for several years, I think you'll see some of the 5G applications are running now. And it will be in interim versions until I get to the official release. Now, 5G and the small cell play for PCTEL is really driving our infrastructure business. So, small cell antennas are put on the towers, they're on light poles. We're really not in the consumer space. So, we don't have – we're not manufacturing antennas for TVs or [indiscernible] (00:18:42) boxes. The 5G opportunity for PCTEL is really with infrastructure.
+
+Okay. Got it. Thank you. [Operator Instructions]
+
+And there are no further questions at this time. I would now like to turn the call back to David Neumann for closing remarks.
+
+Well, we'd like to thank you all for joining the call, and John and I hope we see some of you next week in Dallas. John and I are available for calls if you want to give us a call after the conference and have a great afternoon. Thank you.
+
+This concludes today's conference call. You may now disconnect.

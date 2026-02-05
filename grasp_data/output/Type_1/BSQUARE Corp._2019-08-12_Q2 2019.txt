@@ -1,0 +1,89 @@
+Participants
+CORPORATE PARTICIPANTS
+Leslie Phillips — Director, The Blueshirt Group LLC
+Ralph C. Derrickson — President, Chief Executive Officer & Director, BSQUARE Corp.
+Peter J. Biere — Chief Financial Oficer, BSQUARE Corp.
+
+Management Discussion Section
+
+Good day, ladies and gentlemen, and welcome to the BSQUARE Corporation Second Quarter 2019 Financial Results Conference Call. Today's conference is being recorded.
+
+At this time, I'd like to turn the call over to Ms. Leslie Phillips, Investor Relations. Please go ahead.
+
+Thank you and good afternoon, everyone. Before we begin, we'd like to remind you that this call is being webcast, and that a recording of the call and the text of our prepared remarks will be available on BSQUARE's website.
+
+During this call, we will be making forward-looking statements. These statements are based on current expectations and assumptions that are subject to risks and uncertainties that could cause actual results to differ materially. Please refer to the cautionary text regarding forward-looking statements contained in BSQUARE's earnings release issued today and in the posted version of these prepared remarks on our website at www.bsquare.com under Investors, both of which apply to the content of this call. All per share amounts discussed today are fully diluted numbers where applicable.
+
+Now, I'd like to turn the call over to Ralph Derrickson, BSQUARE President and CEO.
+
+Thank you Leslie, it's a pleasure to speak with you today and participate in this, my second earnings call, since joining BSQUARE. When I joined the company in March of 2019 we initiated an assessment of our product and service offering, the market landscape, and our experience with industrial Internet of Things or IIoT customers and legacy smart device customers. Since our founding in 1994 our business has largely focused on providing software solutions and services to businesses that develop market and sell dedicated purpose standalone smart devices. Our solutions include reselling software from Microsoft.
+
+Examples of these smart devices include connecting computing devices such as smart phones, set-top boxes, point of sale terminals, kiosks, tablets, and handheld data collection devices as well as smart vending machines, ATMs, and digital signs, and in-vehicle telematics and entertainment devices. These smart devices utilize various versions of Microsoft Windows Embedded, Android, Linux, or QNX Operating Systems and are typically connected to a network via a wired or wireless connection. Our customers for these smart devices include world-class equipment manufacturers, original design manufacturers, corporate enterprises, silicon vendors, and peripheral vendors. The majority of our revenue continues to derive from the reselling of Microsoft Windows operating system software to these customers.
+
+In early 2014, the company initiated development of a proprietary software platform to address the then emerging IIoT market. This business initiative referred to as DataV included software, products, applications and services designed to allow IIoT devices to generate meaningful and actual data for our customers. The intention of the DataV initiative was to enter a new market with a software-as-a-service business model with higher margins and recurring revenue. At the time the Internet of Things and IIoT market were identified as high growth opportunities by industry analysts and venture investors poured millions of dollars into IoT and IIoT startup companies.
+
+BSQUARE initiated sales and marketing of DataV late in the first quarter of 2016 becoming an early player in the IIoT market. The company believed that revenue from reselling Microsoft Windows Operating System software would decline quickly and the DataV program became the primary focus of our sales and marketing efforts.
+
+We continued to market DataV in 2017 and 2018. Most of the DataV were for proof of concept prototypes or pilot projects that did not proceed to operational deployment. However, four large industrial customers did proceed beyond pilot projects into deployment, and we continue to serve those customers today. The IoT and IIoT markets which I'll refer to collectively as IoT continue to represent a significant growth opportunity for BSQUARE and are the focus of leading technology companies including Microsoft, Amazon Web Services, Google, and Intel. We believe the promise of IoT will be realized through development of intelligent devices and intelligent systems that are cloud enabled, contribute data, facilitate distributed control and decision making, and operate securely at scale.
+
+In May of 2019 we announced a series of initiatives we call One BSQUARE that recognize and build on the connection between the emerging IoT opportunity and our historic smart device business that includes the resale of third party software including Microsoft's Embedded OS. Our expertise in embedded operating system, smart devices, and our early experience with IIoT from our DataV efforts uniquely position BSQUARE to help customers transform their business and operations.
+
+As part of our One BSQUARE initiatives we are going to market with an edge-to-cloud software and service suite that connects our customers' devices edge to the cloud creating an intelligent system that allows the devices and systems to operate securely at scale, sharing critical operating and performance data, empowering AI and machine learning that lowers operating costs and creates the potential for new business models.
+
+BSQUARE's software and services will allow customers to upgrade and enhance existing devices and systems or to build the capability into new devices and systems. Our solution will include embedded OS software and services as well as IoT software components and services that we harvested that from our DataV platform. These – excuse me these data and services enhance the capabilities of cloud platforms offered by Microsoft and Amazon Web Services.
+
+Our solutions take customers from the hardware and operating system on the edge to the cloud at scale with service and support to help them manage their business in the cloud and very importantly our software and service offering allows to partner naturally with our cloud offerings from Microsoft and AWS,
+
+and their technology partners. Technology partnerships dating back to Microsoft Win CE in the early 1990s are a hallmark of BSQUARE's history and reputation.
+
+Moving forward, our revenue is expected to be a mix of revenue from the resale of third-party software including Microsoft Embedded OS, revenue from the licensing of BSQUARE software and professional services including software development, DevOps services, and cloud management.
+
+Let's talk about the One BSQUARE implementation. In May we began implementation of the One BSQUARE initiative that we announced on our last earnings call. Recall we announced the following five initiatives, one, revising our go-to-market strategy; two, strengthening our strategic partnerships; three, offering customers an edge-to-cloud software and services offering; four, retooling sales and marketing; and five focusing on operating excellence.
+
+Starting with operating excellence, we began the process of restructuring our executive leadership team, adding entrepreneurial leaders and flattening the organization. I'd like to highlight the addition of Mary Haggard, VP of Strategic Partnerships to build on our existing relationship with Microsoft and Amazon and develop new ones. More on partnerships in a moment.
+
+We also downsized our software development organization to better align capacity and utilization. We are implementing a common approach for managing projects throughout all regions building on best practices and the processes developed in our UK operation. We have revised our corporate messaging and will be rolling out changes to our marketing material and website in Q3 that reflect our edge-to-cloud focus. We have consolidated our sales efforts creating one sales team selling all products and services. And in June, we announced the new customer in the facilities management space, Arcus FM, that we believe is representative of the type of business and customers we will be selling to moving forward.
+
+We are also investing heavily in partnerships with the formation of a team dedicated to building and maintaining strategic partnerships with hardware, software, and cloud partners.
+
+We have a long history of partnership with Microsoft in the embedded OS space that we intend to build on. We have new relationships such as Amazon Web Services that will evolve and mature and we are forging new relationships that we'll be announcing in the second half of this year.
+
+Looking at our operations progress, our revenue was near the high end of our guidance and our One BSQUARE efforts to manage expense are starting to impact our financials, excluding restructuring costs our expenses were at the lowest level since Q4 2016 when we started ramping expense to invest in DataV. While I'm pleased with these results, it will likely take another two or three quarters before the full impact of our rebuilding efforts is consistently evident in our operating results. As I mentioned on our last call, until we have improved visibility we will not provide guidance at the timing of profitability. I would expect by year end we will have a much better sense of our progress.
+
+Now let me turn it over to Peter Biere, our Chief Financial Officer to discuss the second quarter of 2019 financial results.
+
+Thank you, Ralph. First, let's look at our revenue for the second quarter. Total revenue was $14.2 million near the high end of the $12.5 million to $14.5 million guidance range announced in our Q1 2019 earnings call. Compared to the prior-year quarter total revenue was down 26% and down 6% sequentially.
+
+Reviewing results by revenue grouping, third party software revenue was $11.7 million lower year-over-year and sequentially. The year-over-year decline resulted from software buying across the portfolio with the biggest impact coming from the loss of Honeywell's EMEA business which we previously announced in our Q1 2018 earnings call. Both year-over-year and sequential declines are attributable to the quarterly variability we've experienced over the past two years.
+
+Proprietary software revenue was $300,000, down 8% year-over-year, but up 3% sequentially. Professional engineering services revenue which totaled $2.2 million was up 16% year-over-year and 28% sequentially. The year-over-year and sequential increases were primarily the result of completion of an existing DataV project in North America during the current quarter.
+
+Next I'll discuss gross profit and margins in the second quarter. Gross profit totaled $22.4 million during the quarter or 17% of revenue. Second quarter gross profit was down year-over-year and flat sequentially with gross margin at the upper end of our guidance of 15% to 17% announced in our Q1 2019 earnings call. Third party software gross margin was 15%, flat when compared with the prior year quarter and last quarter. Professional engineering services gross margin was 22% compared to 29% in the prior year quarter and 23% last quarter driven primarily by a lower margin on the DataV project completed in the current quarter.
+
+Turning to operating expenses and our bottom line results in the second quarter. Total operating expense for the second quarter were $6.4 million including a $1.4 million charge for restructuring costs. The restructuring charge reflects approximately $1 million of severance costs associated with previously announced head count reductions and just under $400,000 associated with the non-cash write down of previously capitalized software development costs. Excluding the charge for restructuring costs operating
+
+expenses were $5 million, an improvement of $2 million from the prior year quarter, reflecting the cost reductions we've made over the past several quarters. Sequentially, operating costs excluding the charge for restructuring costs improved by $300,000.
+
+We've recorded a net loss of approximately $3.8 million or negative $0.30 per share for the second quarter of 2019. Excluding the $1.4 million charge for restructuring costs, net loss for the second quarter of 2019 was $2.5 million or negative $0.19 per share, compared to a net loss of $3.7 million or negative $0.29 per share in the year ago quarter, and a net loss of $2.8 million or negative $0.22 per share in the first quarter of 2019.
+
+Adjusted EBITDAS is a non-GAAP financial measure defined as operating income before depreciation, amortization, stock based compensation, restructuring costs and goodwill impairment. Our adjusted EBITDAS was negative $2.2 million in the second quarter of 2019, compared to a negative $3.6 million in the year ago quarter, primarily due to lower revenue year-over-year and partially offset by lower operating expenses from the cost reductions we took in 2018 and 2019.
+
+Please refer to the reconciliation to the comparable GAAP financial measures in our earnings release issued today and posted on our website at bsquare.com under Investors.
+
+Moving to the balance sheet, cash, restricted cash and investments totaled $12.6 million as of June 30, 2019; down $2.7 million from March 31, 2019. In spite of lower expense levels, cash usage for the period was higher as a result of the timing of receivables collections and lower revenues. We continue to expect an easing in cash utilization in the second quarter of 2019.
+
+Our accounts receivable balance totaled approximately $9 million at June 30, 2019 about $2 million of which is from Honeywell. We extend 270-day terms to Honeywell and pay Microsoft for these products in 45 days. So approximately $1.7 million of this receivable will convert to cash.
+
+Moving to guidance for the third quarter of 2019, as noted in today's press release we currently have the following expectations for the third quarter of 2019. We expect revenue in the range of $12.5 million to $14.5 million, and we anticipate blended gross margin to be in the 15% to 17% range.
+
+I will now turn the call back to Ralph for his closing remarks.
+
+Thank you, Peter. While I'm pleased with the progress of our One BSQUARE initiatives today, there is much work to do. I look forward to sharing our progress as we continue to building a future based on integrity, innovation, collaboration with our customers and our partners and fiscal responsibility that builds value for you, our shareholders.
+
+Moderator, please open the call for questions.
+
+Thank you. [Operator Instructions] We have no questions at this time. I would like to turn the conference back to management for any additional or closing remarks.
+
+Thank you. Before concluding the call on behalf of the entire BSQUARE team I would like to thank our investors, our customers, our business partners for your interest and for your business. We look forward to reporting back to you in next quarter. Thank you again for joining us today.
+
+Ladies and gentlemen this concludes today's conference. We appreciate your participation.

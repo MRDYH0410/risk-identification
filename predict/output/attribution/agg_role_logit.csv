@@ -1,0 +1,2647 @@
+company_id,role,z_label,C_logit
+ACE Aviation Holdings,Analyst,1,0.549731171184028
+ACE Aviation Holdings,Analyst,2,-0.7343327554334451
+ACE Aviation Holdings,Analyst,3,0.18460158424940978
+ACE Aviation Holdings,Operator,1,0.25032448555390796
+ACE Aviation Holdings,Operator,2,0.3761555738145771
+ACE Aviation Holdings,Operator,3,-0.626480059368507
+AG&E Holdings,Analyst,1,0.6152120174443256
+AG&E Holdings,Analyst,2,-0.7759199937903547
+AG&E Holdings,Analyst,3,0.16070797634602205
+AG&E Holdings,CEO,1,1.3425749679857073
+AG&E Holdings,CEO,2,-0.7555960559034312
+AG&E Holdings,CEO,3,-0.586978912082293
+AG&E Holdings,CFO,1,0.7050730203242633
+AG&E Holdings,CFO,2,-0.3129030767407161
+AG&E Holdings,CFO,3,-0.39216994358355733
+AG&E Holdings,IR,1,0.31396068892252427
+AG&E Holdings,IR,2,-0.7462302756772075
+AG&E Holdings,IR,3,0.432269586754674
+AG&E Holdings,Operator,1,0.2528674266419261
+AG&E Holdings,Operator,2,0.36761553830920146
+AG&E Holdings,Operator,3,-0.6204829649511496
+AG&E Holdings,President,1,0.006971182817420332
+AG&E Holdings,President,2,-0.6478029762310629
+AG&E Holdings,President,3,0.6408317934136363
+Acorda Therapeutics,Analyst,1,0.6458512214128997
+Acorda Therapeutics,Analyst,2,-0.7956324871700793
+Acorda Therapeutics,Analyst,3,0.1497812657571726
+Acorda Therapeutics,CEO,1,1.3894480305875985
+Acorda Therapeutics,CEO,2,-0.7411846022234118
+Acorda Therapeutics,CEO,3,-0.6482634283642034
+Acorda Therapeutics,CFO,1,0.6325805785252322
+Acorda Therapeutics,CFO,2,-0.257161643189751
+Acorda Therapeutics,CFO,3,-0.37541893533549203
+Acorda Therapeutics,CTO,1,-0.05360785664152165
+Acorda Therapeutics,CTO,2,-0.27184973477425856
+Acorda Therapeutics,CTO,3,0.3254575914157592
+Acorda Therapeutics,Operator,1,0.25573097603062744
+Acorda Therapeutics,Operator,2,0.3553370742946146
+Acorda Therapeutics,Operator,3,-0.6110680503252641
+Acorda Therapeutics,President,1,0.036252242571288736
+Acorda Therapeutics,President,2,-0.6788529616629261
+Acorda Therapeutics,President,3,0.6426007190916306
+Activision Blizzard,Analyst,1,0.5274324175270814
+Activision Blizzard,Analyst,2,-0.7196078944262492
+Activision Blizzard,Analyst,3,0.19217547689916023
+Activision Blizzard,Operator,1,0.25416864987381427
+Activision Blizzard,Operator,2,0.3618180822554843
+Activision Blizzard,Operator,3,-0.6159867321293208
+Airspan Networks Holdings,Analyst,1,0.623864179349359
+Airspan Networks Holdings,Analyst,2,-0.7814261198704657
+Airspan Networks Holdings,Analyst,3,0.15756194052109973
+Airspan Networks Holdings,CEO,1,1.3546379681921001
+Airspan Networks Holdings,CEO,2,-0.74995077479551
+Airspan Networks Holdings,CEO,3,-0.6046871933966068
+Allkem Ltd.,Analyst,1,0.6332159393899949
+Allkem Ltd.,Analyst,2,-0.7871272500389199
+Allkem Ltd.,Analyst,3,0.15391131064891808
+Allkem Ltd.,CEO,1,1.502836355353867
+Allkem Ltd.,CEO,2,-0.7018870295530413
+Allkem Ltd.,CEO,3,-0.8009493258008427
+AmericanWest Bancorporation,Analyst,1,0.6154657606988296
+AmericanWest Bancorporation,Analyst,2,-0.7765221024421048
+AmericanWest Bancorporation,Analyst,3,0.16105634174326816
+AmericanWest Bancorporation,Operator,1,0.24595203898574386
+AmericanWest Bancorporation,Operator,2,0.3934454815434394
+AmericanWest Bancorporation,Operator,3,-0.6393975205292051
+Argo Group International Holdings,Analyst,1,0.6250545884306252
+Argo Group International Holdings,Analyst,2,-0.7823974870514867
+Argo Group International Holdings,Analyst,3,0.15734289862085443
+Argo Group International Holdings,CEO,1,1.300326909601331
+Argo Group International Holdings,CEO,2,-0.7719726948771234
+Argo Group International Holdings,CEO,3,-0.5283542147242242
+Argo Group International Holdings,CFO,1,0.625887877929158
+Argo Group International Holdings,CFO,2,-0.25014163084379337
+Argo Group International Holdings,CFO,3,-0.37574624708537546
+Argo Group International Holdings,Head,1,-0.7202780667848292
+Argo Group International Holdings,Head,2,0.09604605475135158
+Argo Group International Holdings,Head,3,0.6242320120334751
+Argo Group International Holdings,IR,1,0.23253389127493063
+Argo Group International Holdings,IR,2,-0.7105871231950074
+Argo Group International Holdings,IR,3,0.47805323192006755
+Argo Group International Holdings,Operator,1,0.25488108970716206
+Argo Group International Holdings,Operator,2,0.35924475792898347
+Argo Group International Holdings,Operator,3,-0.6141258476361677
+Argo Group International Holdings,President,1,-0.020685390363871584
+Argo Group International Holdings,President,2,-0.6156719447017177
+Argo Group International Holdings,President,3,0.6363573350655837
+Audacy,Analyst,1,0.6336810983623771
+Audacy,Analyst,2,-0.7877955720624739
+Audacy,Analyst,3,0.15411447370008996
+Audacy,CEO,1,1.309420104384285
+Audacy,CEO,2,-0.7679623262143359
+Audacy,CEO,3,-0.5414577781699659
+Audacy,CFO,1,0.5961004611138907
+Audacy,CFO,2,-0.2268024835649071
+Audacy,CFO,3,-0.3692979775489949
+Audacy,Operator,1,0.25471415690936244
+Audacy,Operator,2,0.35967900493034577
+Audacy,Operator,3,-0.6143931618397304
+Avid Technology,Analyst,1,0.6054534891763153
+Avid Technology,Analyst,2,-0.7700592040067646
+Avid Technology,Analyst,3,0.16460571483044237
+Avid Technology,CEO,1,1.386089644077805
+Avid Technology,CEO,2,-0.7392326533799574
+Avid Technology,CEO,3,-0.6468569906978645
+Avid Technology,CFO,1,0.715367105416135
+Avid Technology,CFO,2,-0.3195487342109311
+Avid Technology,CFO,3,-0.395818371205214
+Avid Technology,CTO,1,-0.10019378183982831
+Avid Technology,CTO,2,-0.2718384646823651
+Avid Technology,CTO,3,0.3720322465221721
+Avid Technology,IR,1,0.28449657261519007
+Avid Technology,IR,2,-0.7317918344847046
+Avid Technology,IR,3,0.44729526186950536
+Avid Technology,Operator,1,0.24411684260578229
+Avid Technology,Operator,2,0.4025735266544061
+Avid Technology,Operator,3,-0.6466903692602102
+Avid Technology,President,1,-0.004035595071364008
+Avid Technology,President,2,-0.6324949351894034
+Avid Technology,President,3,0.6365305302607616
+Axion International Holdings,Analyst,1,0.6044977325918047
+Axion International Holdings,Analyst,2,-0.7689855396394009
+Axion International Holdings,Analyst,3,0.1644878070475892
+Axion International Holdings,CEO,1,1.3624960111352558
+Axion International Holdings,CEO,2,-0.7479264195955744
+Axion International Holdings,CEO,3,-0.6145695915396981
+Axion International Holdings,CFO,1,0.7550325316694344
+Axion International Holdings,CFO,2,-0.3557724516719983
+Axion International Holdings,CFO,3,-0.39926007999744567
+Axion International Holdings,IR,1,0.28216067006215106
+Axion International Holdings,IR,2,-0.7326151307074291
+Axion International Holdings,IR,3,0.45045446064526884
+Axion International Holdings,Operator,1,0.23818387945214342
+Axion International Holdings,Operator,2,0.42730685910868615
+Axion International Holdings,Operator,3,-0.6654907385608512
+BSQUARE Corp.,Analyst,1,0.6234116165554231
+BSQUARE Corp.,Analyst,2,-0.7814048028048819
+BSQUARE Corp.,Analyst,3,0.15799318624945172
+BSQUARE Corp.,CEO,1,1.3558130064387917
+BSQUARE Corp.,CEO,2,-0.7491740731266497
+BSQUARE Corp.,CEO,3,-0.6066389333121587
+BSQUARE Corp.,CFO,1,0.6750473481120973
+BSQUARE Corp.,CFO,2,-0.2869803056747364
+BSQUARE Corp.,CFO,3,-0.38806704243737145
+BSQUARE Corp.,CTO,1,-0.06414409702690149
+BSQUARE Corp.,CTO,2,-0.27197947223105656
+BSQUARE Corp.,CTO,3,0.3361235692579371
+BSQUARE Corp.,Chair,1,-0.2163776502264379
+BSQUARE Corp.,Chair,2,0.15523445130710034
+BSQUARE Corp.,Chair,3,0.061143198919309534
+BSQUARE Corp.,IR,1,0.22278352074681188
+BSQUARE Corp.,IR,2,-0.705215763548239
+BSQUARE Corp.,IR,3,0.48243224280141794
+BSQUARE Corp.,Operator,1,0.23993745504572173
+BSQUARE Corp.,Operator,2,0.4198996390557591
+BSQUARE Corp.,Operator,3,-0.6598370941015025
+Basic Energy Services,Analyst,1,0.6083194855985339
+Basic Energy Services,Analyst,2,-0.7713643146710909
+Basic Energy Services,Analyst,3,0.16304482907254994
+Basic Energy Services,CEO,1,1.2182250439702247
+Basic Energy Services,CEO,2,-0.8004448197863382
+Basic Energy Services,CEO,3,-0.4177802241839031
+Basic Energy Services,CFO,1,0.5913317001034012
+Basic Energy Services,CFO,2,-0.22404574760033064
+Basic Energy Services,CFO,3,-0.3672859525030819
+Basic Energy Services,Operator,1,0.24648343111918564
+Basic Energy Services,Operator,2,0.3933686906054299
+Basic Energy Services,Operator,3,-0.6398521217246373
+Boardriders,Analyst,1,0.531853436529366
+Boardriders,Analyst,2,-0.72270302470474
+Boardriders,Analyst,3,0.1908495881753664
+Boardriders,Operator,1,0.24498612046872936
+Boardriders,Operator,2,0.3993757182582905
+Boardriders,Operator,3,-0.6443618387270417
+BowFlex,Analyst,1,0.6026421802717243
+BowFlex,Analyst,2,-0.7682834977071082
+BowFlex,Analyst,3,0.1656413174353769
+BowFlex,CEO,1,1.3950683496642535
+BowFlex,CEO,2,-0.7374811055133877
+BowFlex,CEO,3,-0.6575872441508824
+BowFlex,CFO,1,0.6543516494142019
+BowFlex,CFO,2,-0.2724986697115631
+BowFlex,CFO,3,-0.3818529797026494
+BowFlex,COO,1,-0.6066569832017065
+BowFlex,COO,2,-0.5440021870302327
+BowFlex,COO,3,1.1506591702319444
+BowFlex,Head,1,-0.6858838384914827
+BowFlex,Head,2,0.07820912207211628
+BowFlex,Head,3,0.6076747164193648
+BowFlex,IR,1,0.2599789723277839
+BowFlex,IR,2,-0.7225555262081104
+BowFlex,IR,3,0.46257655388031726
+BowFlex,Operator,1,0.2424793800457956
+BowFlex,Operator,2,0.4078686929350902
+BowFlex,Operator,3,-0.6503480729809076
+BowFlex,President,1,-0.004771066910498348
+BowFlex,President,2,-0.6315339418237635
+BowFlex,President,3,0.636305008734256
+CDC Corp.,Analyst,1,0.593589888619622
+CDC Corp.,Analyst,2,-0.7616878800581837
+CDC Corp.,Analyst,3,0.1680979914385546
+CDC Corp.,CEO,1,1.4055049793674954
+CDC Corp.,CEO,2,-0.7350856062532464
+CDC Corp.,CEO,3,-0.6704193731142658
+CDC Corp.,CFO,1,0.8630212809892885
+CDC Corp.,CFO,2,-0.437009280483637
+CDC Corp.,CFO,3,-0.4260120005056601
+CDC Corp.,IR,1,0.15810993623987407
+CDC Corp.,IR,2,-0.6768314523172516
+CDC Corp.,IR,3,0.5187215160773684
+CDC Corp.,Operator,1,0.24864893822633466
+CDC Corp.,Operator,2,0.3839233379139725
+CDC Corp.,Operator,3,-0.632572276140329
+CIRCOR International,Analyst,1,0.6064180618775664
+CIRCOR International,Analyst,2,-0.7703350840491457
+CIRCOR International,Analyst,3,0.16391702217157236
+CIRCOR International,CEO,1,1.4572871624135386
+CIRCOR International,CEO,2,-0.7170660759658354
+CIRCOR International,CEO,3,-0.7402210864477201
+CIRCOR International,Operator,1,0.2477305819555347
+CIRCOR International,Operator,2,0.38778034056148136
+CIRCOR International,Operator,3,-0.635510922517038
+CWC Energy Services Corp.,Analyst,1,0.6300286508010858
+CWC Energy Services Corp.,Analyst,2,-0.7850880677018921
+CWC Energy Services Corp.,Analyst,3,0.15505941690079916
+CWC Energy Services Corp.,CEO,1,1.3534154829118732
+CWC Energy Services Corp.,CEO,2,-0.7543080532514674
+CWC Energy Services Corp.,CEO,3,-0.5991074296604224
+CalAmp Corp.,Analyst,1,0.6261616330459212
+CalAmp Corp.,Analyst,2,-0.7831530978757761
+CalAmp Corp.,Analyst,3,0.15699146482984808
+CalAmp Corp.,CEO,1,1.4139212097129337
+CalAmp Corp.,CEO,2,-0.7277346805219123
+CalAmp Corp.,CEO,3,-0.6861865291910382
+CalAmp Corp.,CFO,1,0.6464265675257388
+CalAmp Corp.,CFO,2,-0.2656429827608254
+CalAmp Corp.,CFO,3,-0.38078358476492413
+CalAmp Corp.,CTO,1,-0.08692455587999806
+CalAmp Corp.,CTO,2,-0.27190976870743144
+CalAmp Corp.,CTO,3,0.35883432458740844
+CalAmp Corp.,IR,1,0.25649085358892143
+CalAmp Corp.,IR,2,-0.7205465959580081
+CalAmp Corp.,IR,3,0.4640557423690774
+CalAmp Corp.,Operator,1,0.24550036022966845
+CalAmp Corp.,Operator,2,0.3967919032551793
+CalAmp Corp.,Operator,3,-0.6422922634848696
+CalAmp Corp.,President,1,-0.012752590845031574
+CalAmp Corp.,President,2,-0.6223765701571131
+CalAmp Corp.,President,3,0.635129161002139
+Callon Petroleum Co.,Analyst,1,0.6167540431403841
+Callon Petroleum Co.,Analyst,2,-0.7764911972842444
+Callon Petroleum Co.,Analyst,3,0.15973715414385328
+Callon Petroleum Co.,CEO,1,1.414173367665271
+Callon Petroleum Co.,CEO,2,-0.731624973131844
+Callon Petroleum Co.,CEO,3,-0.6825483945334436
+Callon Petroleum Co.,CFO,1,0.6911612886277463
+Callon Petroleum Co.,CFO,2,-0.3038201209503799
+Callon Petroleum Co.,CFO,3,-0.38734116767737675
+Callon Petroleum Co.,CTO,1,-0.11533081783289635
+Callon Petroleum Co.,CTO,2,-0.272002815735986
+Callon Petroleum Co.,CTO,3,0.38733363356886086
+Callon Petroleum Co.,IR,1,0.24315118597422483
+Callon Petroleum Co.,IR,2,-0.7153506191279128
+Callon Petroleum Co.,IR,3,0.47219943315367874
+Callon Petroleum Co.,Operator,1,0.2526471080012012
+Callon Petroleum Co.,Operator,2,0.368835446664366
+Callon Petroleum Co.,Operator,3,-0.6214825546655893
+Callon Petroleum Co.,President,1,-0.013252866993937379
+Callon Petroleum Co.,President,2,-0.6257266624825265
+Callon Petroleum Co.,President,3,0.6389795294764581
+Cambridge Bancorp,Analyst,1,0.6154150509289616
+Cambridge Bancorp,Analyst,2,-0.7763138814872796
+Cambridge Bancorp,Analyst,3,0.16089883055831097
+Cambridge Bancorp,CEO,1,1.500857743593011
+Cambridge Bancorp,CEO,2,-0.6991162276188995
+Cambridge Bancorp,CEO,3,-0.8017415159741282
+Cano Petroleum,Analyst,1,0.5778069326472726
+Cano Petroleum,Analyst,2,-0.7521435271443155
+Cano Petroleum,Analyst,3,0.1743365944970358
+Cano Petroleum,Operator,1,0.2401495620848918
+Cano Petroleum,Operator,2,0.4186013162628487
+Cano Petroleum,Operator,3,-0.6587508783477622
+Carrols Restaurant Group,Analyst,1,0.6032229515635616
+Carrols Restaurant Group,Analyst,2,-0.7685336397957109
+Carrols Restaurant Group,Analyst,3,0.16531068823214212
+Carrols Restaurant Group,CEO,1,1.3792899669214551
+Carrols Restaurant Group,CEO,2,-0.7436279082198813
+Carrols Restaurant Group,CEO,3,-0.6356620587015906
+Carrols Restaurant Group,Operator,1,0.2528191075605586
+Carrols Restaurant Group,Operator,2,0.3674907824466133
+Carrols Restaurant Group,Operator,3,-0.6203098900071939
+Centamin Plc,Analyst,1,0.612176154800721
+Centamin Plc,Analyst,2,-0.7732847883184713
+Centamin Plc,Analyst,3,0.16110863351774327
+Centamin Plc,CEO,1,1.3712661440221736
+Centamin Plc,CEO,2,-0.7487884127768706
+Centamin Plc,CEO,3,-0.6224777312453197
+Centamin Plc,CFO,1,0.6527206579677953
+Centamin Plc,CFO,2,-0.2762939158712464
+Centamin Plc,CFO,3,-0.3764267420965594
+Centamin Plc,COO,1,-0.6047025029465715
+Centamin Plc,COO,2,-0.5480639251524908
+Centamin Plc,COO,3,1.1527664280990675
+Centamin Plc,Chair,1,-0.2126307936025798
+Centamin Plc,Chair,2,0.1455719200048152
+Centamin Plc,Chair,3,0.06705887359773684
+Centamin Plc,Head,1,-0.6691774836919648
+Centamin Plc,Head,2,0.06915001281200699
+Centamin Plc,Head,3,0.6000274708799563
+Centamin Plc,IR,1,0.21896990928596236
+Centamin Plc,IR,2,-0.7057966314669952
+Centamin Plc,IR,3,0.48682672218102374
+Centamin Plc,Operator,1,0.24915675493091466
+Centamin Plc,Operator,2,0.3840003378513625
+Centamin Plc,Operator,3,-0.6331570927822991
+Cineworld Group Plc,Analyst,1,0.5880958846056412
+Cineworld Group Plc,Analyst,2,-0.7585599758610931
+Cineworld Group Plc,Analyst,3,0.1704640912554447
+Cineworld Group Plc,CEO,1,1.4375514991595375
+Cineworld Group Plc,CEO,2,-0.724510320203326
+Cineworld Group Plc,CEO,3,-0.7130411789562284
+Cineworld Group Plc,CTO,1,-0.11243997076568191
+Cineworld Group Plc,CTO,2,-0.27208400961211476
+Cineworld Group Plc,CTO,3,0.38452398037777513
+Cloud Peak Energy,Analyst,1,0.64060188936448
+Cloud Peak Energy,Analyst,2,-0.7919176811477273
+Cloud Peak Energy,Analyst,3,0.15131579178324045
+Cloud Peak Energy,CEO,1,1.240294535879541
+Cloud Peak Energy,CEO,2,-0.7959035044127083
+Cloud Peak Energy,CEO,3,-0.4443910314668491
+Cloud Peak Energy,CFO,1,0.6238237099232843
+Cloud Peak Energy,CFO,2,-0.2516849806658923
+Cloud Peak Energy,CFO,3,-0.37213872925740293
+Cloud Peak Energy,IR,1,0.16079158394477822
+Cloud Peak Energy,IR,2,-0.6801457552513077
+Cloud Peak Energy,IR,3,0.5193541713065203
+Cloud Peak Energy,Operator,1,0.2524313791657942
+Cloud Peak Energy,Operator,2,0.3697372859414715
+Cloud Peak Energy,Operator,3,-0.6221686651072877
+Cloud Peak Energy,President,1,0.016323385748135945
+Cloud Peak Energy,President,2,-0.6615870957754012
+Cloud Peak Energy,President,3,0.6452637100272588
+Cobalt International Energy,Analyst,1,0.6474944048932882
+Cobalt International Energy,Analyst,2,-0.796020033987614
+Cobalt International Energy,Analyst,3,0.14852562909431888
+Cobalt International Energy,CEO,1,1.3638438172319827
+Cobalt International Energy,CEO,2,-0.7501764084283535
+Cobalt International Energy,CEO,3,-0.613667408803646
+Cobalt International Energy,CFO,1,0.43564792209196723
+Cobalt International Energy,CFO,2,-0.10535664038881692
+Cobalt International Energy,CFO,3,-0.330291281703163
+Cobalt International Energy,Operator,1,0.2579526479326911
+Cobalt International Energy,Operator,2,0.34867074093723394
+Cobalt International Energy,Operator,3,-0.6066233888699474
+Coldwater Creek,Analyst,1,0.6031678383587178
+Coldwater Creek,Analyst,2,-0.7686546885136765
+Coldwater Creek,Analyst,3,0.16548685015495157
+Coldwater Creek,CEO,1,1.3640377284060579
+Coldwater Creek,CEO,2,-0.7481166991033781
+Coldwater Creek,CEO,3,-0.6159210293026963
+Coldwater Creek,Operator,1,0.24471434053770852
+Coldwater Creek,Operator,2,0.39915264593552424
+Coldwater Creek,Operator,3,-0.6438669864732546
+Computer Task Group,Analyst,1,0.6194592461330016
+Computer Task Group,Analyst,2,-0.7788257418202121
+Computer Task Group,Analyst,3,0.1593664956872035
+Computer Task Group,CEO,1,1.3122072732155075
+Computer Task Group,CEO,2,-0.7669276491603713
+Computer Task Group,CEO,3,-0.5452796240551527
+Computer Task Group,CFO,1,0.7548162361596478
+Computer Task Group,CFO,2,-0.35454679479221485
+Computer Task Group,CFO,3,-0.4002694413674425
+Computer Task Group,CTO,1,-0.07152996731783427
+Computer Task Group,CTO,2,-0.2718930355903063
+Computer Task Group,CTO,3,0.3434230029081196
+Computer Task Group,Chair,1,-0.21230417033366455
+Computer Task Group,Chair,2,0.15633773304808968
+Computer Task Group,Chair,3,0.05596643728554669
+Computer Task Group,IR,1,0.18172686074316557
+Computer Task Group,IR,2,-0.6877156583754223
+Computer Task Group,IR,3,0.5059887976322476
+Computer Task Group,Operator,1,0.24043691553169905
+Computer Task Group,Operator,2,0.4170169683155547
+Computer Task Group,Operator,3,-0.6574538838472754
+Computer Task Group,President,1,-0.008291645409011464
+Computer Task Group,President,2,-0.6275106612809349
+Computer Task Group,President,3,0.6358023066899405
+Computer Task Group,VP,1,-1.5017512332696725
+Computer Task Group,VP,2,0.2784965512156913
+Computer Task Group,VP,3,1.223254682053975
+Consolidated Communications Holdings,Analyst,1,0.6235129971761869
+Consolidated Communications Holdings,Analyst,2,-0.7814220157637464
+Consolidated Communications Holdings,Analyst,3,0.15790901858755255
+Consolidated Communications Holdings,CEO,1,1.3474040488834398
+Consolidated Communications Holdings,CEO,2,-0.7530573140531109
+Consolidated Communications Holdings,CEO,3,-0.5943467348303456
+Consolidated Communications Holdings,CFO,1,0.6463959513402652
+Consolidated Communications Holdings,CFO,2,-0.26593378091946696
+Consolidated Communications Holdings,CFO,3,-0.38046217042080893
+Consolidated Communications Holdings,COO,1,-0.6085302606637054
+Consolidated Communications Holdings,COO,2,-0.544430304997659
+Consolidated Communications Holdings,COO,3,1.1529605656613697
+Consolidated Communications Holdings,IR,1,0.2081478595707374
+Consolidated Communications Holdings,IR,2,-0.7000038016869312
+Consolidated Communications Holdings,IR,3,0.49185594211618455
+Consolidated Communications Holdings,Operator,1,0.2464579807403337
+Consolidated Communications Holdings,Operator,2,0.3927908677182178
+Consolidated Communications Holdings,Operator,3,-0.6392488484585733
+Consolidated Communications Holdings,President,1,-0.04330563206161617
+Consolidated Communications Holdings,President,2,-0.5893820617435038
+Consolidated Communications Holdings,President,3,0.6326876938051149
+Constar International,Analyst,1,0.6189233988949754
+Constar International,Analyst,2,-0.7781213205064051
+Constar International,Analyst,3,0.15919792161142277
+Constar International,CEO,1,1.2679080045807072
+Constar International,CEO,2,-0.7819169107845949
+Constar International,CEO,3,-0.48599109379612904
+Constar International,CFO,1,0.6539354118069602
+Constar International,CFO,2,-0.2726318387869976
+Constar International,CFO,3,-0.38130357301997325
+Constar International,IR,1,0.17199201882649237
+Constar International,IR,2,-0.6853407272305958
+Constar International,IR,3,0.5133487084040943
+Constar International,Operator,1,0.26096764321885785
+Constar International,Operator,2,0.3338879363834215
+Constar International,Operator,3,-0.5948555796023016
+Corinthian Colleges,Analyst,1,0.5522683066349832
+Corinthian Colleges,Analyst,2,-0.7356493691270773
+Corinthian Colleges,Analyst,3,0.1833810624920868
+Corinthian Colleges,Operator,1,0.25695128086646807
+Corinthian Colleges,Operator,2,0.349622973337009
+Corinthian Colleges,Operator,3,-0.6065742542034992
+Crestwood Equity Partners LP,Analyst,1,0.626103005537834
+Crestwood Equity Partners LP,Analyst,2,-0.7824739427287823
+Crestwood Equity Partners LP,Analyst,3,0.15637093719094147
+Crestwood Equity Partners LP,CEO,1,1.4316278681299162
+Crestwood Equity Partners LP,CEO,2,-0.7199506526090996
+Crestwood Equity Partners LP,CEO,3,-0.7116772155208333
+Crestwood Equity Partners LP,CFO,1,0.7667834051376178
+Crestwood Equity Partners LP,CFO,2,-0.3649246358985002
+Crestwood Equity Partners LP,CFO,3,-0.40185876923912706
+Crestwood Equity Partners LP,Operator,1,0.24474056888724774
+Crestwood Equity Partners LP,Operator,2,0.39983911678148226
+Crestwood Equity Partners LP,Operator,3,-0.6445796856687518
+Denbury,Analyst,1,0.6399432167864282
+Denbury,Analyst,2,-0.7912978585857466
+Denbury,Analyst,3,0.15135464179931146
+Denbury,CEO,1,1.4633281943937708
+Denbury,CEO,2,-0.7115212881510329
+Denbury,CEO,3,-0.7518069062427549
+Denbury,CFO,1,0.6317543109294042
+Denbury,CFO,2,-0.25684651210276543
+Denbury,CFO,3,-0.3749077988266496
+Denbury,Operator,1,0.24666567061995787
+Denbury,Operator,2,0.39249762564934587
+Denbury,Operator,3,-0.6391632962693257
+Dex Liquidating Co.,Analyst,1,0.6146844600533142
+Dex Liquidating Co.,Analyst,2,-0.7756001761852916
+Dex Liquidating Co.,Analyst,3,0.16091571613197048
+Dex Liquidating Co.,CEO,1,1.4069736103743071
+Dex Liquidating Co.,CEO,2,-0.7309878512952288
+Dex Liquidating Co.,CEO,3,-0.6759857590790952
+Dex Liquidating Co.,CFO,1,0.7862906631344094
+Dex Liquidating Co.,CFO,2,-0.3777270830192001
+Dex Liquidating Co.,CFO,3,-0.40856358011521865
+Dex Liquidating Co.,IR,1,0.2861615983927849
+Dex Liquidating Co.,IR,2,-0.7333569941629681
+Dex Liquidating Co.,IR,3,0.447195395770174
+Dex Liquidating Co.,Operator,1,0.2507968771234869
+Dex Liquidating Co.,Operator,2,0.3758188837893918
+Dex Liquidating Co.,Operator,3,-0.6266157609129007
+Dex Liquidating Co.,President,1,0.001917991710189984
+Dex Liquidating Co.,President,2,-0.6395550689261913
+Dex Liquidating Co.,President,3,0.6376370772159953
+Diamond Offshore Drilling,Analyst,1,0.6534186722010551
+Diamond Offshore Drilling,Analyst,2,-0.7999956787677236
+Diamond Offshore Drilling,Analyst,3,0.14657700656666156
+Diamond Offshore Drilling,CEO,1,1.4913572447251615
+Diamond Offshore Drilling,CEO,2,-0.6997958346529718
+Diamond Offshore Drilling,CEO,3,-0.7915614100722068
+Diamond Offshore Drilling,CFO,1,0.5584427708077802
+Diamond Offshore Drilling,CFO,2,-0.19980346370708513
+Diamond Offshore Drilling,CFO,3,-0.35863930710070663
+Diamond Offshore Drilling,Operator,1,0.2562230962054086
+Diamond Offshore Drilling,Operator,2,0.3533949403033508
+Diamond Offshore Drilling,Operator,3,-0.6096180365087817
+Dune Energy,Analyst,1,0.6119470093166014
+Dune Energy,Analyst,2,-0.7736126550417272
+Dune Energy,Analyst,3,0.1616656457251186
+Dune Energy,CEO,1,0.8422850810155283
+Dune Energy,CEO,2,-0.9383202344896057
+Dune Energy,CEO,3,0.09603515347406144
+Dune Energy,Operator,1,0.24776492487086924
+Dune Energy,Operator,2,0.3878546839165395
+Dune Energy,Operator,3,-0.6356196087874307
+DynaVox,Analyst,1,0.6204830614275493
+DynaVox,Analyst,2,-0.7796139580559677
+DynaVox,Analyst,3,0.1591308966284114
+DynaVox,CEO,1,1.2200250781196174
+DynaVox,CEO,2,-0.8004290899098319
+DynaVox,CEO,3,-0.41959598820980204
+DynaVox,CTO,1,-0.08756927594249667
+DynaVox,CTO,2,-0.2720235154224012
+DynaVox,CTO,3,0.3595927913648769
+DynaVox,Operator,1,0.2569093261230907
+DynaVox,Operator,2,0.34966945775495983
+DynaVox,Operator,3,-0.6065787838780726
+Eagle Bulk Shipping,Analyst,1,0.6192302949153121
+Eagle Bulk Shipping,Analyst,2,-0.7787173550168415
+Eagle Bulk Shipping,Analyst,3,0.1594870601015223
+Eagle Bulk Shipping,CEO,1,1.3303419656549276
+Eagle Bulk Shipping,CEO,2,-0.7650992947722601
+Eagle Bulk Shipping,CEO,3,-0.5652426708826838
+Eagle Bulk Shipping,CFO,1,0.6569257895827624
+Eagle Bulk Shipping,CFO,2,-0.2795697618846703
+Eagle Bulk Shipping,CFO,3,-0.3773560276981025
+Eagle Bulk Shipping,IR,1,0.26339885030433186
+Eagle Bulk Shipping,IR,2,-0.7249404411206608
+Eagle Bulk Shipping,IR,3,0.4615415908163197
+Eagle Bulk Shipping,Operator,1,0.2554464283138519
+Eagle Bulk Shipping,Operator,2,0.35562724480867486
+Eagle Bulk Shipping,Operator,3,-0.6110736731225491
+Ebix,Analyst,1,0.6152292176413714
+Ebix,Analyst,2,-0.7760001862248818
+Ebix,Analyst,3,0.16077096858350332
+Ebix,CEO,1,1.3505920381468666
+Ebix,CEO,2,-0.7537114009404333
+Ebix,CEO,3,-0.5968806372064499
+Ebix,CFO,1,0.6407069079988895
+Ebix,CFO,2,-0.26143207695908033
+Ebix,CFO,3,-0.37927483103981985
+Ebix,IR,1,0.2236837304636015
+Ebix,IR,2,-0.7062879064880975
+Ebix,IR,3,0.48260417602448685
+Ebix,Operator,1,0.24177305170235494
+Ebix,Operator,2,0.4117442712156251
+Ebix,Operator,3,-0.6535173229180018
+Ebix,President,1,-0.018997693467639007
+Ebix,President,2,-0.6158951318559229
+Ebix,President,3,0.6348928253235563
+Education Holdings 1,Analyst,1,0.5569839163879342
+Education Holdings 1,Analyst,2,-0.7386177796574379
+Education Holdings 1,Analyst,3,0.18163386326949638
+Education Holdings 1,Operator,1,0.25008073935972286
+Education Holdings 1,Operator,2,0.377806189091463
+Education Holdings 1,Operator,3,-0.6278869284512077
+Electroglas,Analyst,1,0.5739270726787687
+Electroglas,Analyst,2,-0.7494697257247962
+Electroglas,Analyst,3,0.1755426530460201
+Electroglas,Operator,1,0.2485051617142996
+Electroglas,Operator,2,0.3848204697264406
+Electroglas,Operator,3,-0.633325631440762
+Empresas ICA SAB de CV,Analyst,1,0.6244647002591068
+Empresas ICA SAB de CV,Analyst,2,-0.781528681584518
+Empresas ICA SAB de CV,Analyst,3,0.1570639813254043
+Empresas ICA SAB de CV,CEO,1,1.4241365775875168
+Empresas ICA SAB de CV,CEO,2,-0.7293724659997755
+Empresas ICA SAB de CV,CEO,3,-0.6947641115877582
+Empresas ICA SAB de CV,CFO,1,0.6920429892172892
+Empresas ICA SAB de CV,CFO,2,-0.3061171227180816
+Empresas ICA SAB de CV,CFO,3,-0.3859258664992179
+Empresas ICA SAB de CV,COO,1,-0.605323150970026
+Empresas ICA SAB de CV,COO,2,-0.544350457403983
+Empresas ICA SAB de CV,COO,3,1.1496736083740142
+Empresas ICA SAB de CV,CTO,1,-0.07811917700635063
+Empresas ICA SAB de CV,CTO,2,-0.2717554913544055
+Empresas ICA SAB de CV,CTO,3,0.3498746683607349
+Empresas ICA SAB de CV,Head,1,-0.7124116858751234
+Empresas ICA SAB de CV,Head,2,0.0917942920222284
+Empresas ICA SAB de CV,Head,3,0.6206173938528927
+Empresas ICA SAB de CV,IR,1,0.20916542474737354
+Empresas ICA SAB de CV,IR,2,-0.7013734248215329
+Empresas ICA SAB de CV,IR,3,0.4922080000741501
+Empresas ICA SAB de CV,Operator,1,0.2459509420603166
+Empresas ICA SAB de CV,Operator,2,0.39561996644274683
+Empresas ICA SAB de CV,Operator,3,-0.6415709085030853
+Encore Wire Corp. (Delaware),Analyst,1,0.6076368547164889
+Encore Wire Corp. (Delaware),Analyst,2,-0.7710363964367365
+Encore Wire Corp. (Delaware),Analyst,3,0.16339954172024052
+Encore Wire Corp. (Delaware),CEO,1,1.4195686906514655
+Encore Wire Corp. (Delaware),CEO,2,-0.7279083126905942
+Encore Wire Corp. (Delaware),CEO,3,-0.6916603779608882
+Encore Wire Corp. (Delaware),CFO,1,0.7278280120249156
+Encore Wire Corp. (Delaware),CFO,2,-0.3318170459414589
+Encore Wire Corp. (Delaware),CFO,3,-0.39601096608346653
+Encore Wire Corp. (Delaware),CIO,1,3.773109536627262
+Encore Wire Corp. (Delaware),CIO,2,-1.3695143793013713
+Encore Wire Corp. (Delaware),CIO,3,-2.40359515732586
+Encore Wire Corp. (Delaware),IR,1,0.27404684768414744
+Encore Wire Corp. (Delaware),IR,2,-0.7289759757254584
+Encore Wire Corp. (Delaware),IR,3,0.4549291280413016
+Encore Wire Corp. (Delaware),Operator,1,0.24611569703058117
+Encore Wire Corp. (Delaware),Operator,2,0.39473794180316246
+Encore Wire Corp. (Delaware),Operator,3,-0.6408536388337653
+Encore Wire Corp. (Delaware),President,1,-0.002461384111072877
+Encore Wire Corp. (Delaware),President,2,-0.6353710868111867
+Encore Wire Corp. (Delaware),President,3,0.6378324709222537
+Energy Conversion Devices,Analyst,1,0.6132527537071149
+Energy Conversion Devices,Analyst,2,-0.7746729415982583
+Energy Conversion Devices,Analyst,3,0.16142018789113638
+Energy Conversion Devices,CEO,1,1.3766969104805706
+Energy Conversion Devices,CEO,2,-0.7454413033581682
+Energy Conversion Devices,CEO,3,-0.631255607122419
+Energy Conversion Devices,CFO,1,0.7409434492937007
+Energy Conversion Devices,CFO,2,-0.3403761991391211
+Energy Conversion Devices,CFO,3,-0.40056725015458927
+Energy Conversion Devices,IR,1,0.26887786186447954
+Energy Conversion Devices,IR,2,-0.725573182187894
+Energy Conversion Devices,IR,3,0.4566953203234052
+Energy Conversion Devices,Operator,1,0.2481595115106996
+Energy Conversion Devices,Operator,2,0.38557044297054177
+Energy Conversion Devices,Operator,3,-0.6337299544812633
+Essential Energy Services Ltd.,Analyst,1,0.630897106587443
+Essential Energy Services Ltd.,Analyst,2,-0.7857524367297823
+Essential Energy Services Ltd.,Analyst,3,0.15485533014233233
+Essential Energy Services Ltd.,CEO,1,1.3157277120602573
+Essential Energy Services Ltd.,CEO,2,-0.766323869472459
+Essential Energy Services Ltd.,CEO,3,-0.5494038425878149
+Essential Energy Services Ltd.,CFO,1,0.6629209615853581
+Essential Energy Services Ltd.,CFO,2,-0.2806848679253361
+Essential Energy Services Ltd.,CFO,3,-0.3822360936600324
+Essential Energy Services Ltd.,COO,1,-0.6065583962461967
+Essential Energy Services Ltd.,COO,2,-0.5464653957954086
+Essential Energy Services Ltd.,COO,3,1.1530237920416104
+Essential Energy Services Ltd.,CTO,1,-0.13637831025276514
+Essential Energy Services Ltd.,CTO,2,-0.2720394399754862
+Essential Energy Services Ltd.,CTO,3,0.40841775022822974
+Essential Energy Services Ltd.,IR,1,0.2550147730511941
+Essential Energy Services Ltd.,IR,2,-0.7206188062092292
+Essential Energy Services Ltd.,IR,3,0.465604033158026
+Essential Energy Services Ltd.,President,1,-0.014727442394585469
+Essential Energy Services Ltd.,President,2,-0.6221263875042722
+Essential Energy Services Ltd.,President,3,0.6368538298988519
+Exide Technologies LLC,Analyst,1,0.5507344592657007
+Exide Technologies LLC,Analyst,2,-0.7340422316580566
+Exide Technologies LLC,Analyst,3,0.1833077723923483
+Exide Technologies LLC,Operator,1,0.25652244522310463
+Exide Technologies LLC,Operator,2,0.3520725373298981
+Exide Technologies LLC,Operator,3,-0.608594982553025
+FLYHT Aerospace Solutions Ltd.,Analyst,1,0.6235952425290522
+FLYHT Aerospace Solutions Ltd.,Analyst,2,-0.7813332076852599
+FLYHT Aerospace Solutions Ltd.,Analyst,3,0.15773796515620095
+FLYHT Aerospace Solutions Ltd.,CEO,1,1.3479211459200091
+FLYHT Aerospace Solutions Ltd.,CEO,2,-0.7548797405745225
+FLYHT Aerospace Solutions Ltd.,CEO,3,-0.5930414053455033
+FLYHT Aerospace Solutions Ltd.,CFO,1,0.6002845206954694
+FLYHT Aerospace Solutions Ltd.,CFO,2,-0.23018415017789437
+FLYHT Aerospace Solutions Ltd.,CFO,3,-0.37010037051758626
+FLYHT Aerospace Solutions Ltd.,IR,1,0.1917603678375125
+FLYHT Aerospace Solutions Ltd.,IR,2,-0.6927316005430758
+FLYHT Aerospace Solutions Ltd.,IR,3,0.5009712327055542
+FLYHT Aerospace Solutions Ltd.,Operator,1,0.24155917317616055
+FLYHT Aerospace Solutions Ltd.,Operator,2,0.41284570780536645
+FLYHT Aerospace Solutions Ltd.,Operator,3,-0.6544048809815487
+FLYHT Aerospace Solutions Ltd.,President,1,-0.02466815726279089
+FLYHT Aerospace Solutions Ltd.,President,2,-0.610829977059482
+FLYHT Aerospace Solutions Ltd.,President,3,0.6354981343222673
+Fleetwood Enterprises,Analyst,1,0.5724064664020135
+Fleetwood Enterprises,Analyst,2,-0.7481751419373828
+Fleetwood Enterprises,Analyst,3,0.17576867553536185
+Fleetwood Enterprises,Operator,1,0.2566647749970148
+Fleetwood Enterprises,Operator,2,0.3516376732208526
+Fleetwood Enterprises,Operator,3,-0.6083024482178896
+Foundation HealthCare,Analyst,1,0.6157616775167598
+Foundation HealthCare,Analyst,2,-0.7764545835039645
+Foundation HealthCare,Analyst,3,0.16069290598719763
+Foundation HealthCare,CEO,1,1.426545784793372
+Foundation HealthCare,CEO,2,-0.7234752349996159
+Foundation HealthCare,CEO,3,-0.7030705497937728
+Foundation HealthCare,CFO,1,0.7173090924347665
+Foundation HealthCare,CFO,2,-0.3202787350326634
+Foundation HealthCare,CFO,3,-0.39703035740211323
+Foundation HealthCare,CTO,1,-0.13672337426673584
+Foundation HealthCare,CTO,2,-0.2721227374001247
+Foundation HealthCare,CTO,3,0.4088461116668389
+Foundation HealthCare,IR,1,0.3224352416500075
+Foundation HealthCare,IR,2,-0.749754196523011
+Foundation HealthCare,IR,3,0.4273189548729943
+Foundation HealthCare,Operator,1,0.23514573381785975
+Foundation HealthCare,Operator,2,0.4373473784959892
+Foundation HealthCare,Operator,3,-0.6724931123138707
+Foundation HealthCare,President,1,-0.01332169342547073
+Foundation HealthCare,President,2,-0.6229508852827397
+Foundation HealthCare,President,3,0.6362725787082046
+Fraser Papers,Analyst,1,0.6162640663393961
+Fraser Papers,Analyst,2,-0.776351467688717
+Fraser Papers,Analyst,3,0.16008740134931376
+Fraser Papers,Operator,1,0.2498874317920128
+Fraser Papers,Operator,2,0.3788365413997043
+Fraser Papers,Operator,3,-0.628723973191739
+Frozen Food Express Industries,Analyst,1,0.5928794379952372
+Frozen Food Express Industries,Analyst,2,-0.76184296130691
+Frozen Food Express Industries,Analyst,3,0.16896352331166567
+Frozen Food Express Industries,CEO,1,1.4478448081175572
+Frozen Food Express Industries,CEO,2,-0.7206316048634672
+Frozen Food Express Industries,CEO,3,-0.7272132032541068
+Frozen Food Express Industries,CFO,1,0.6674915748580357
+Frozen Food Express Industries,CFO,2,-0.283018389732433
+Frozen Food Express Industries,CFO,3,-0.3844731851256133
+Frozen Food Express Industries,IR,1,0.18751809414641263
+Frozen Food Express Industries,IR,2,-0.6895304086486871
+Frozen Food Express Industries,IR,3,0.5020123145022652
+Frozen Food Express Industries,Operator,1,0.2439632288730767
+Frozen Food Express Industries,Operator,2,0.4027279867984853
+Frozen Food Express Industries,Operator,3,-0.6466912156715838
+GSE Systems,Analyst,1,0.6200315981836854
+GSE Systems,Analyst,2,-0.7788432415238191
+GSE Systems,Analyst,3,0.15881164334012685
+GSE Systems,CEO,1,1.332876060355732
+GSE Systems,CEO,2,-0.7602665231691097
+GSE Systems,CEO,3,-0.5726095371866388
+GSE Systems,CFO,1,0.6363142017970697
+GSE Systems,CFO,2,-0.25738497425263174
+GSE Systems,CFO,3,-0.3789292275444487
+GSE Systems,CTO,1,-0.0922718160384883
+GSE Systems,CTO,2,-0.27184178422314487
+GSE Systems,CTO,3,0.36411360026161194
+GSE Systems,IR,1,0.19985270699276952
+GSE Systems,IR,2,-0.6960462219378787
+GSE Systems,IR,3,0.49619351494509994
+GSE Systems,Operator,1,0.24968319764135574
+GSE Systems,Operator,2,0.38002670989324766
+GSE Systems,Operator,3,-0.6297099075346253
+GSE Systems,President,1,-0.028616728098046433
+GSE Systems,President,2,-0.6054268208228248
+GSE Systems,President,3,0.6340435489208658
+GTT Communications,Analyst,1,0.622607456188482
+GTT Communications,Analyst,2,-0.7807455266439431
+GTT Communications,Analyst,3,0.1581380704554541
+GTT Communications,CEO,1,1.4249931451904856
+GTT Communications,CEO,2,-0.7258682973583916
+GTT Communications,CEO,3,-0.6991248478321107
+GTT Communications,CFO,1,0.6133668693453163
+GTT Communications,CFO,2,-0.2400381970584738
+GTT Communications,CFO,3,-0.37332867228685357
+GTT Communications,CTO,1,-0.08668514465168267
+GTT Communications,CTO,2,-0.2719949326638498
+GTT Communications,CTO,3,0.35868007731551127
+GTT Communications,Chair,1,-0.2123141871637614
+GTT Communications,Chair,2,0.1576735039135729
+GTT Communications,Chair,3,0.05464068325016033
+GTT Communications,IR,1,0.2053422427486319
+GTT Communications,IR,2,-0.6975473440903547
+GTT Communications,IR,3,0.4922051013417137
+GTT Communications,Operator,1,0.2539001764328064
+GTT Communications,Operator,2,0.36421923516891447
+GTT Communications,Operator,3,-0.618119411601743
+GTT Communications,President,1,-0.011155292180460963
+GTT Communications,President,2,-0.6248437990457187
+GTT Communications,President,3,0.6359990912261739
+GeoPharma,Analyst,1,0.5588527269795682
+GeoPharma,Analyst,2,-0.7399343688378366
+GeoPharma,Analyst,3,0.18108164185826112
+GeoPharma,Operator,1,0.24968908561225572
+GeoPharma,Operator,2,0.3802273951421908
+GeoPharma,Operator,3,-0.6299164807544684
+Geokinetics,Analyst,1,0.5603059886799073
+Geokinetics,Analyst,2,-0.7401916495530894
+Geokinetics,Analyst,3,0.17988566087317467
+Geokinetics,Operator,1,0.25373582832779096
+Geokinetics,Operator,2,0.3642175806568168
+Geokinetics,Operator,3,-0.6179534089846298
+Geokinetics,President,1,-0.016361896618163993
+Geokinetics,President,2,-0.6209293606995925
+Geokinetics,President,3,0.6372912573177508
+Greenhill & Co.,Analyst,1,0.6510125323970406
+Greenhill & Co.,Analyst,2,-0.7987920240946158
+Greenhill & Co.,Analyst,3,0.14777949169756832
+Greenhill & Co.,CEO,1,1.5039846383141167
+Greenhill & Co.,CEO,2,-0.696655232192388
+Greenhill & Co.,CEO,3,-0.8073294061217456
+Greenhill & Co.,CTO,1,-0.04532737408254743
+Greenhill & Co.,CTO,2,-0.27175779018739454
+Greenhill & Co.,CTO,3,0.31708516426992106
+Guaranty Financial Group,Analyst,1,0.5341557175356831
+Guaranty Financial Group,Analyst,2,-0.723355976562055
+Guaranty Financial Group,Analyst,3,0.18920025902636414
+Guaranty Financial Group,Operator,1,0.2552535256089477
+Guaranty Financial Group,Operator,2,0.3576671473234502
+Guaranty Financial Group,Operator,3,-0.61292067293242
+HNI HoldCo,Analyst,1,0.6093624151448714
+HNI HoldCo,Analyst,2,-0.7722491472805348
+HNI HoldCo,Analyst,3,0.16288673213565624
+HNI HoldCo,CEO,1,1.1921328649107787
+HNI HoldCo,CEO,2,-0.8119666029932955
+HNI HoldCo,CEO,3,-0.3801662619174998
+HNI HoldCo,CFO,1,0.7756653069285291
+HNI HoldCo,CFO,2,-0.36772922729148466
+HNI HoldCo,CFO,3,-0.40793607963705386
+HNI HoldCo,IR,1,-0.04290277798966305
+HNI HoldCo,IR,2,-0.5881209435728754
+HNI HoldCo,IR,3,0.6310237215625294
+HNI HoldCo,Operator,1,0.2526418059366706
+HNI HoldCo,Operator,2,0.36780987264397624
+HNI HoldCo,Operator,3,-0.6204516785806687
+Hamilton Thorne Ltd.,Analyst,1,0.6265622402725344
+Hamilton Thorne Ltd.,Analyst,2,-0.7834752568741744
+Hamilton Thorne Ltd.,Analyst,3,0.1569130166016331
+Hamilton Thorne Ltd.,CEO,1,1.340648029713922
+Hamilton Thorne Ltd.,CEO,2,-0.75726874041849
+Hamilton Thorne Ltd.,CEO,3,-0.5833792892954487
+Hamilton Thorne Ltd.,CFO,1,0.6950437375513755
+Hamilton Thorne Ltd.,CFO,2,-0.30397397292715284
+Hamilton Thorne Ltd.,CFO,3,-0.39106976462423293
+Hamilton Thorne Ltd.,IR,1,0.26811499382160786
+Hamilton Thorne Ltd.,IR,2,-0.7255041195324224
+Hamilton Thorne Ltd.,IR,3,0.4573891257108053
+Hawaiian Holdings,Analyst,1,0.6379080801737068
+Hawaiian Holdings,Analyst,2,-0.7905816066735802
+Hawaiian Holdings,Analyst,3,0.15267352649986649
+Hawaiian Holdings,CEO,1,1.3326786074916064
+Hawaiian Holdings,CEO,2,-0.7616443224088583
+Hawaiian Holdings,CEO,3,-0.5710342850827644
+Hawaiian Holdings,CFO,1,0.6532690763734861
+Hawaiian Holdings,CFO,2,-0.27343128192984284
+Hawaiian Holdings,CFO,3,-0.37983779444365395
+Hawaiian Holdings,CTO,1,-0.07513798989503866
+Hawaiian Holdings,CTO,2,-0.27196194480576297
+Hawaiian Holdings,CTO,3,0.3470999347007805
+Hawaiian Holdings,IR,1,0.28192107492616125
+Hawaiian Holdings,IR,2,-0.7334784509947911
+Hawaiian Holdings,IR,3,0.4515573760686207
+Hawaiian Holdings,Operator,1,0.25097356299282836
+Hawaiian Holdings,Operator,2,0.3739394683324694
+Hawaiian Holdings,Operator,3,-0.6249130313253197
+Hawaiian Holdings,President,1,-0.00681951533138242
+Hawaiian Holdings,President,2,-0.632307753863477
+Hawaiian Holdings,President,3,0.6391272691948535
+Haynes International,Analyst,1,0.5990923588672002
+Haynes International,Analyst,2,-0.7656851231287867
+Haynes International,Analyst,3,0.16659276426157937
+Haynes International,CEO,1,1.395097866458117
+Haynes International,CEO,2,-0.7374957809380634
+Haynes International,CEO,3,-0.6576020855200707
+Haynes International,CFO,1,0.7086555122824036
+Haynes International,CFO,2,-0.31763523111773484
+Haynes International,CFO,3,-0.3910202811646789
+Haynes International,IR,1,0.24101757718827388
+Haynes International,IR,2,-0.7148275850435599
+Haynes International,IR,3,0.4738100078552769
+Haynes International,Operator,1,0.2526697867736616
+Haynes International,Operator,2,0.3678504930212168
+Haynes International,Operator,3,-0.6205202797949004
+Haynes International,President,1,-0.008062544274058822
+Haynes International,President,2,-0.6287970065067883
+Haynes International,President,3,0.6368595507808413
+Heritage-Crystal Clean,Analyst,1,0.6092936611479521
+Heritage-Crystal Clean,Analyst,2,-0.7721867428835048
+Heritage-Crystal Clean,Analyst,3,0.1628930817355457
+Heritage-Crystal Clean,CEO,1,1.3892493395178018
+Heritage-Crystal Clean,CEO,2,-0.7393891665153896
+Heritage-Crystal Clean,CEO,3,-0.6498601730024289
+Heritage-Crystal Clean,CFO,1,0.6542277049215299
+Heritage-Crystal Clean,CFO,2,-0.27333483768695754
+Heritage-Crystal Clean,CFO,3,-0.3808928672345831
+Heritage-Crystal Clean,COO,1,-0.6068315585545105
+Heritage-Crystal Clean,COO,2,-0.5433497633456161
+Heritage-Crystal Clean,COO,3,1.1501813219001318
+Heritage-Crystal Clean,IR,1,0.24038565264777553
+Heritage-Crystal Clean,IR,2,-0.7143338444580188
+Heritage-Crystal Clean,IR,3,0.47394819181023407
+Heritage-Crystal Clean,Operator,1,0.26172807599099596
+Heritage-Crystal Clean,Operator,2,0.3316733234113478
+Heritage-Crystal Clean,Operator,3,-0.593401399402366
+Heritage-Crystal Clean,President,1,0.024273582367594713
+Heritage-Crystal Clean,President,2,-0.6661867377919644
+Heritage-Crystal Clean,President,3,0.6419131554243632
+Hersha Hospitality Trust,Analyst,1,0.6411346573397891
+Hersha Hospitality Trust,Analyst,2,-0.7927089644218744
+Hersha Hospitality Trust,Analyst,3,0.15157430708207834
+Hersha Hospitality Trust,CEO,1,1.3280312142869946
+Hersha Hospitality Trust,CEO,2,-0.7633611271026094
+Hersha Hospitality Trust,CEO,3,-0.5646700871844017
+Hersha Hospitality Trust,CFO,1,0.6507925837242642
+Hersha Hospitality Trust,CFO,2,-0.27139797274360733
+Hersha Hospitality Trust,CFO,3,-0.3793946109806675
+Hersha Hospitality Trust,COO,1,-0.6068765759145971
+Hersha Hospitality Trust,COO,2,-0.5451149245252183
+Hersha Hospitality Trust,COO,3,1.1519915004398205
+Hersha Hospitality Trust,CTO,1,-0.09138113253428545
+Hersha Hospitality Trust,CTO,2,-0.2719714900138243
+Hersha Hospitality Trust,CTO,3,0.36335262254808853
+Hersha Hospitality Trust,IR,1,0.19982418004921912
+Hersha Hospitality Trust,IR,2,-0.6967285555959207
+Hersha Hospitality Trust,IR,3,0.4969043755466924
+Hersha Hospitality Trust,Operator,1,0.2558658513760074
+Hersha Hospitality Trust,Operator,2,0.3539733819816942
+Hersha Hospitality Trust,Operator,3,-0.6098392333577238
+Hibbett,Analyst,1,0.5937415119610598
+Hibbett,Analyst,2,-0.7625214241401761
+Hibbett,Analyst,3,0.16877991217910912
+Hibbett,CEO,1,0.8821174531222976
+Hibbett,CEO,2,-0.9235815876739008
+Hibbett,CEO,3,0.04146413455158715
+Hibbett,Operator,1,0.23886093570596378
+Hibbett,Operator,2,0.4223974303119305
+Hibbett,Operator,3,-0.661258366017916
+Hill International,Analyst,1,0.6202545460913562
+Hill International,Analyst,2,-0.7789634114797842
+Hill International,Analyst,3,0.15870886538842105
+Hill International,CEO,1,1.333070603473216
+Hill International,CEO,2,-0.7596289735189509
+Hill International,CEO,3,-0.5734416299542819
+Hill International,CFO,1,0.6586505542176425
+Hill International,CFO,2,-0.2769246501840195
+Hill International,CFO,3,-0.3817259040336335
+Hill International,COO,1,-0.6062647230414614
+Hill International,COO,2,-0.5451556331086136
+Hill International,COO,3,1.1514203561500802
+Hill International,CTO,1,-0.12413369356738939
+Hill International,CTO,2,-0.272061721529609
+Hill International,CTO,3,0.396195415096977
+Hill International,IR,1,0.1929599077413602
+Hill International,IR,2,-0.6932059060117338
+Hill International,IR,3,0.5002459982703644
+Hill International,Operator,1,0.246722184877552
+Hill International,Operator,2,0.3924963775388276
+Hill International,Operator,3,-0.6392185624164015
+Hill International,President,1,-0.015325454161640363
+Hill International,President,2,-0.6214102317611523
+Hill International,President,3,0.6367356859227868
+Hipcricket,Analyst,1,0.6164123413946718
+Hipcricket,Analyst,2,-0.7766639780305388
+Hipcricket,Analyst,3,0.16025163663585995
+Hipcricket,CEO,1,1.5273096447250802
+Hipcricket,CEO,2,-0.6831095986635997
+Hipcricket,CEO,3,-0.8442000460614977
+Hipcricket,IR,1,0.10629757193733486
+Hipcricket,IR,2,-0.6561423408091915
+Hipcricket,IR,3,0.5498447688718475
+Hipcricket,Operator,1,0.24762141708996135
+Hipcricket,Operator,2,0.3882557232605284
+Hipcricket,Operator,3,-0.6358771403505117
+Holly Energy Partners LP,Analyst,1,0.6148751210317315
+Holly Energy Partners LP,Analyst,2,-0.7755003587109146
+Holly Energy Partners LP,Analyst,3,0.1606252376791761
+Holly Energy Partners LP,CEO,1,1.3775538609607114
+Holly Energy Partners LP,CEO,2,-0.7433727680797672
+Holly Energy Partners LP,CEO,3,-0.6341810928809608
+Holly Energy Partners LP,CFO,1,0.689213771142057
+Holly Energy Partners LP,CFO,2,-0.30067976063249435
+Holly Energy Partners LP,CFO,3,-0.3885340105095729
+Holly Energy Partners LP,IR,1,0.29811160403243775
+Holly Energy Partners LP,IR,2,-0.7383837484418582
+Holly Energy Partners LP,IR,3,0.4402721444094112
+Holly Energy Partners LP,Operator,1,0.24817172067754864
+Holly Energy Partners LP,Operator,2,0.3857860615449269
+Holly Energy Partners LP,Operator,3,-0.6339577822224975
+HollySys Automation Technologies Ltd.,Analyst,1,0.5988897705702977
+HollySys Automation Technologies Ltd.,Analyst,2,-0.765324170615213
+HollySys Automation Technologies Ltd.,Analyst,3,0.16643440004490823
+HollySys Automation Technologies Ltd.,CEO,1,1.277770289161523
+HollySys Automation Technologies Ltd.,CEO,2,-0.781024338349723
+HollySys Automation Technologies Ltd.,CEO,3,-0.4967459508118166
+HollySys Automation Technologies Ltd.,CFO,1,0.6674727366537573
+HollySys Automation Technologies Ltd.,CFO,2,-0.28507731237184086
+HollySys Automation Technologies Ltd.,CFO,3,-0.38239542428192697
+HollySys Automation Technologies Ltd.,IR,1,0.14340252810938955
+HollySys Automation Technologies Ltd.,IR,2,-0.6729899180297023
+HollySys Automation Technologies Ltd.,IR,3,0.5295873899203035
+HollySys Automation Technologies Ltd.,Operator,1,0.25431488717808154
+HollySys Automation Technologies Ltd.,Operator,2,0.3637504844483246
+HollySys Automation Technologies Ltd.,Operator,3,-0.6180653716264284
+Home Capital Group,Analyst,1,0.627323841829119
+Home Capital Group,Analyst,2,-0.7838498257063348
+Home Capital Group,Analyst,3,0.15652598387720873
+Home Capital Group,CEO,1,1.2479836160247706
+Home Capital Group,CEO,2,-0.7917972065666508
+Home Capital Group,CEO,3,-0.4561864094581362
+Home Capital Group,CFO,1,0.5876608289239995
+Home Capital Group,CFO,2,-0.22156145445433623
+Home Capital Group,CFO,3,-0.36609937446967455
+Home Capital Group,CTO,1,-0.11600802433496041
+Home Capital Group,CTO,2,-0.2720547417247314
+Home Capital Group,CTO,3,0.38806276605967027
+Home Capital Group,Chair,1,-0.20750462331341127
+Home Capital Group,Chair,2,0.157115618718179
+Home Capital Group,Chair,3,0.05038900459520401
+Home Capital Group,IR,1,0.179329833196773
+Home Capital Group,IR,2,-0.6878280943540162
+Home Capital Group,IR,3,0.5084982611572341
+Home Capital Group,Operator,1,0.24810399808847594
+Home Capital Group,Operator,2,0.3856486282075462
+Home Capital Group,Operator,3,-0.6337526262960441
+Home Capital Group,President,1,0.009877089272142953
+Home Capital Group,President,2,-0.650700005230219
+Home Capital Group,President,3,0.6408229159580698
+Home Capital Group,VP,1,-1.588686213164497
+Home Capital Group,VP,2,0.24974895415743437
+Home Capital Group,VP,3,1.3389372590070567
+Hooper Holmes,Analyst,1,0.6149314464092
+Hooper Holmes,Analyst,2,-0.7759678105083997
+Hooper Holmes,Analyst,3,0.1610363640991928
+Hooper Holmes,CEO,1,1.3645644476786505
+Hooper Holmes,CEO,2,-0.7467939202308745
+Hooper Holmes,CEO,3,-0.6177705274477927
+Hooper Holmes,CFO,1,0.6414363127648319
+Hooper Holmes,CFO,2,-0.26092605198804397
+Hooper Holmes,CFO,3,-0.38051026077679867
+Hooper Holmes,CTO,1,-0.10538629948047895
+Hooper Holmes,CTO,2,-0.2720223065278087
+Hooper Holmes,CTO,3,0.3774086060082663
+Hooper Holmes,IR,1,0.2072974257489097
+Hooper Holmes,IR,2,-0.6991766922834515
+Hooper Holmes,IR,3,0.4918792665345326
+Hooper Holmes,Operator,1,0.25002903983812647
+Hooper Holmes,Operator,2,0.3781916899917584
+Hooper Holmes,Operator,3,-0.6282207298299068
+Hooper Holmes,President,1,-0.03296549653277662
+Hooper Holmes,President,2,-0.6013741999415756
+Hooper Holmes,President,3,0.6343396964743468
+ION Geophysical Corp.,Analyst,1,0.6445975356765042
+ION Geophysical Corp.,Analyst,2,-0.7945601225536305
+ION Geophysical Corp.,Analyst,3,0.14996258687711933
+ION Geophysical Corp.,CEO,1,1.382828244508914
+ION Geophysical Corp.,CEO,2,-0.7399442519333407
+ION Geophysical Corp.,CEO,3,-0.64288399257559
+ION Geophysical Corp.,CFO,1,0.5781253947179241
+ION Geophysical Corp.,CFO,2,-0.2111580722484166
+ION Geophysical Corp.,CFO,3,-0.36696732246951885
+ION Geophysical Corp.,CTO,1,-0.06806461445771626
+ION Geophysical Corp.,CTO,2,-0.2718255966223383
+ION Geophysical Corp.,CTO,3,0.3398902110800336
+ION Geophysical Corp.,Head,1,-0.7057529024197083
+ION Geophysical Corp.,Head,2,0.08848971303835311
+ION Geophysical Corp.,Head,3,0.6172631893813529
+ION Geophysical Corp.,IR,1,0.09718740372846485
+ION Geophysical Corp.,IR,2,-0.6498007448194268
+ION Geophysical Corp.,IR,3,0.5526133410909528
+ION Geophysical Corp.,Operator,1,0.25307911222782203
+ION Geophysical Corp.,Operator,2,0.36667282642860416
+ION Geophysical Corp.,Operator,3,-0.6197519386564483
+ION Geophysical Corp.,President,1,-0.0316346299916175
+ION Geophysical Corp.,President,2,-0.6028580204529719
+ION Geophysical Corp.,President,3,0.6344926504445839
+Icpw Liquidation Corp.,Analyst,1,0.5496109079899578
+Icpw Liquidation Corp.,Analyst,2,-0.7338705829752168
+Icpw Liquidation Corp.,Analyst,3,0.18425967498525153
+Icpw Liquidation Corp.,CEO,1,1.3955520458958128
+Icpw Liquidation Corp.,CEO,2,-0.7373273574503504
+Icpw Liquidation Corp.,CEO,3,-0.6582246884454792
+Icpw Liquidation Corp.,CTO,1,-0.1001964704621664
+Icpw Liquidation Corp.,CTO,2,-0.27198065124300586
+Icpw Liquidation Corp.,CTO,3,0.37217712170515094
+Icpw Liquidation Corp.,Operator,1,0.24466597013375618
+Icpw Liquidation Corp.,Operator,2,0.4005718166193187
+Icpw Liquidation Corp.,Operator,3,-0.6452377867530967
+ImmunoGen,Analyst,1,0.664579022421599
+ImmunoGen,Analyst,2,-0.8076360341410903
+ImmunoGen,Analyst,3,0.14305701171948454
+ImmunoGen,CEO,1,1.3900980615526892
+ImmunoGen,CEO,2,-0.7394627130200812
+ImmunoGen,CEO,3,-0.6506353485326251
+ImmunoGen,CFO,1,0.6226781468179732
+ImmunoGen,CFO,2,-0.2502463846816291
+ImmunoGen,CFO,3,-0.37243176213635504
+ImmunoGen,IR,1,0.07701528488521259
+ImmunoGen,IR,2,-0.6423812214672258
+ImmunoGen,IR,3,0.5653659365820041
+ImmunoGen,Operator,1,0.2496063136581228
+ImmunoGen,Operator,2,0.38021904384665256
+ImmunoGen,Operator,3,-0.6298253575047973
+ImmunoGen,President,1,-0.1042059961214838
+ImmunoGen,President,2,-0.5227646788265563
+ImmunoGen,President,3,0.626970674948036
+ImmunoGen,VP,1,-1.4607679922065204
+ImmunoGen,VP,2,0.2918064754951556
+ImmunoGen,VP,3,1.1689615167113585
+Imperial Logistics Ltd.,Analyst,1,0.6125096128772649
+Imperial Logistics Ltd.,Analyst,2,-0.7739747455294995
+Imperial Logistics Ltd.,Analyst,3,0.16146513265222756
+Imperial Logistics Ltd.,CEO,1,1.3225678216698957
+Imperial Logistics Ltd.,CEO,2,-0.7649140075825189
+Imperial Logistics Ltd.,CEO,3,-0.5576538140873932
+Imperial Logistics Ltd.,CFO,1,0.659374756777087
+Imperial Logistics Ltd.,CFO,2,-0.2799501766896745
+Imperial Logistics Ltd.,CFO,3,-0.379424580087423
+Imperial Logistics Ltd.,Head,1,-0.7063784033777792
+Imperial Logistics Ltd.,Head,2,0.08853184863271717
+Imperial Logistics Ltd.,Head,3,0.6178465547450598
+Imperial Logistics Ltd.,IR,1,0.17070346248904936
+Imperial Logistics Ltd.,IR,2,-0.6838048830707102
+Imperial Logistics Ltd.,IR,3,0.5131014205816516
+Imperial Logistics Ltd.,President,1,-0.015344958180315761
+Imperial Logistics Ltd.,President,2,-0.6219711874823599
+Imperial Logistics Ltd.,President,3,0.6373161456626699
+Indigo Books & Music,Analyst,1,0.5973936294296653
+Indigo Books & Music,Analyst,2,-0.7646654247573726
+Indigo Books & Music,Analyst,3,0.16727179532770015
+Indigo Books & Music,CEO,1,1.3425221247145758
+Indigo Books & Music,CEO,2,-0.7559641936423811
+Indigo Books & Music,CEO,3,-0.5865579310722112
+Indigo Books & Music,CFO,1,0.7138952797448037
+Indigo Books & Music,CFO,2,-0.32070495832463264
+Indigo Books & Music,CFO,3,-0.39319032142018107
+Indigo Books & Music,Head,1,-0.6781566622651615
+Indigo Books & Music,Head,2,0.07431521714478559
+Indigo Books & Music,Head,3,0.6038414451203742
+Indigo Books & Music,IR,1,0.23670179672580538
+Indigo Books & Music,IR,2,-0.7128683522904098
+Indigo Books & Music,IR,3,0.4761665555645952
+Indigo Books & Music,Operator,1,0.24910238056906167
+Indigo Books & Music,Operator,2,0.38424453024504257
+Indigo Books & Music,Operator,3,-0.6333469108141262
+Internap Holding LLC,Analyst,1,0.6167877248364703
+Internap Holding LLC,Analyst,2,-0.777170526334036
+Internap Holding LLC,Analyst,3,0.16038280149755874
+Internap Holding LLC,CEO,1,1.3842181357522945
+Internap Holding LLC,CEO,2,-0.740149124382175
+Internap Holding LLC,CEO,3,-0.6440690113701364
+Internap Holding LLC,Operator,1,0.2512514375189987
+Internap Holding LLC,Operator,2,0.37305817006545033
+Internap Holding LLC,Operator,3,-0.6243096075844708
+Interphase Corp.,Analyst,1,0.5894976855732414
+Interphase Corp.,Analyst,2,-0.7596278741708635
+Interphase Corp.,Analyst,3,0.170130188597615
+Interphase Corp.,CEO,1,1.4136654448002137
+Interphase Corp.,CEO,2,-0.7271964672044279
+Interphase Corp.,CEO,3,-0.6864689775958026
+Interphase Corp.,CFO,1,0.8440037828437937
+Interphase Corp.,CFO,2,-0.41999768002727533
+Interphase Corp.,CFO,3,-0.4240061028165273
+Interphase Corp.,IR,1,0.24006931741636228
+Interphase Corp.,IR,2,-0.7109867441061415
+Interphase Corp.,IR,3,0.47091742668977
+Interphase Corp.,Operator,1,0.24067693760619965
+Interphase Corp.,Operator,2,0.4157354374696548
+Interphase Corp.,Operator,3,-0.6564123750758761
+Interphase Corp.,President,1,-0.014677202657915951
+Interphase Corp.,President,2,-0.620409458433822
+Interphase Corp.,President,3,0.6350866610917324
+Invacare Corp.,Analyst,1,0.6311710908493549
+Invacare Corp.,Analyst,2,-0.7863670252321265
+Invacare Corp.,Analyst,3,0.15519593438276472
+Invacare Corp.,CEO,1,1.3294150968832856
+Invacare Corp.,CEO,2,-0.7600074356504708
+Invacare Corp.,CEO,3,-0.5694076612328315
+Invacare Corp.,CFO,1,0.602284154921757
+Invacare Corp.,CFO,2,-0.23102027999209762
+Invacare Corp.,CFO,3,-0.37126387492967056
+Invacare Corp.,CTO,1,-0.07346386139869948
+Invacare Corp.,CTO,2,-0.2719263906845404
+Invacare Corp.,CTO,3,0.3453902520832188
+Invacare Corp.,IR,1,0.178941182424379
+Invacare Corp.,IR,2,-0.6865939884477241
+Invacare Corp.,IR,3,0.507652806023336
+Invacare Corp.,Operator,1,0.24632568992025122
+Invacare Corp.,Operator,2,0.39261146376411343
+Invacare Corp.,Operator,3,-0.6389371536843864
+Iteris,Analyst,1,0.6276164974989815
+Iteris,Analyst,2,-0.7840081092807941
+Iteris,Analyst,3,0.15639161178180563
+Iteris,CEO,1,1.3365858874725791
+Iteris,CEO,2,-0.7555089013646518
+Iteris,CEO,3,-0.5810769861079441
+Iteris,CFO,1,0.6832560795486191
+Iteris,CFO,2,-0.29350883206928297
+Iteris,CFO,3,-0.3897472474793465
+Iteris,IR,1,0.2632825117085448
+Iteris,IR,2,-0.7226391953927773
+Iteris,IR,3,0.45935668368422333
+Iteris,Operator,1,0.24792608742288985
+Iteris,Operator,2,0.38688888684202943
+Iteris,Operator,3,-0.6348149742649412
+Iteris,President,1,-0.026231664079972523
+Iteris,President,2,-0.606355422901549
+Iteris,President,3,0.632587086981516
+Jackson Hewitt Tax Service,Analyst,1,0.5584538413662005
+Jackson Hewitt Tax Service,Analyst,2,-0.7396938860512128
+Jackson Hewitt Tax Service,Analyst,3,0.18124004468500501
+Jackson Hewitt Tax Service,Operator,1,0.24868703085200478
+Jackson Hewitt Tax Service,Operator,2,0.38334141926733156
+Jackson Hewitt Tax Service,Operator,3,-0.6320284501193583
+James River Coal Co.,Analyst,1,0.5292453400231605
+James River Coal Co.,Analyst,2,-0.7202860941586564
+James River Coal Co.,Analyst,3,0.19104075413548854
+James River Coal Co.,Operator,1,0.25015668636105576
+James River Coal Co.,Operator,2,0.3794761590819941
+James River Coal Co.,Operator,3,-0.6296328454430719
+KAZ Minerals Ltd.,Analyst,1,0.6173874815922108
+KAZ Minerals Ltd.,Analyst,2,-0.7768196866090291
+KAZ Minerals Ltd.,Analyst,3,0.15943220501681116
+KAZ Minerals Ltd.,CEO,1,1.436554864447893
+KAZ Minerals Ltd.,CEO,2,-0.7238375741535994
+KAZ Minerals Ltd.,CEO,3,-0.7127172902943106
+KAZ Minerals Ltd.,President,1,-0.013039912089902794
+KAZ Minerals Ltd.,President,2,-0.6267756024613947
+KAZ Minerals Ltd.,President,3,0.6398155145512916
+Kaman Corp.,Analyst,1,0.6107847945482862
+Kaman Corp.,Analyst,2,-0.773150243024876
+Kaman Corp.,Analyst,3,0.16236544847658294
+Kaman Corp.,CEO,1,1.387350418879849
+Kaman Corp.,CEO,2,-0.7394870343073024
+Kaman Corp.,CEO,3,-0.6478633845725632
+Kaman Corp.,CFO,1,0.6916421265378103
+Kaman Corp.,CFO,2,-0.3022312436084571
+Kaman Corp.,CFO,3,-0.38941088292936354
+Kaman Corp.,IR,1,0.26074146065546616
+Kaman Corp.,IR,2,-0.7216227150136216
+Kaman Corp.,IR,3,0.4608812543581463
+Kaman Corp.,Operator,1,0.2534558705052359
+Kaman Corp.,Operator,2,0.3646040546810586
+Kaman Corp.,Operator,3,-0.6180599251863166
+Kaman Corp.,President,1,0.01625211062670265
+Kaman Corp.,President,2,-0.656969417567595
+Kaman Corp.,President,3,0.6407173069408861
+LL Flooring Holdings,Analyst,1,0.622467840132118
+LL Flooring Holdings,Analyst,2,-0.7808927414497022
+LL Flooring Holdings,Analyst,3,0.1584249013175772
+LL Flooring Holdings,CEO,1,1.3335415351718523
+LL Flooring Holdings,CEO,2,-0.7600186580287746
+LL Flooring Holdings,CEO,3,-0.5735228771430944
+LL Flooring Holdings,CFO,1,0.04560154877602461
+LL Flooring Holdings,CFO,2,0.21293455752552498
+LL Flooring Holdings,CFO,3,-0.2585361063015664
+LL Flooring Holdings,Operator,1,0.25595182436917124
+LL Flooring Holdings,Operator,2,0.3552968177755063
+LL Flooring Holdings,Operator,3,-0.6112486421446996
+Lakeland Bancorp,Analyst,1,0.6038459962214517
+Lakeland Bancorp,Analyst,2,-0.7689701878148689
+Lakeland Bancorp,Analyst,3,0.16512419159341013
+Lakeland Bancorp,CEO,1,1.4911989216412862
+Lakeland Bancorp,CEO,2,-0.7053817948865332
+Lakeland Bancorp,CEO,3,-0.7858171267547699
+Lannett Co.,Analyst,1,0.628440086241902
+Lannett Co.,Analyst,2,-0.784459702886148
+Lannett Co.,Analyst,3,0.15601961664423913
+Lannett Co.,CEO,1,1.3744865215910358
+Lannett Co.,CEO,2,-0.7447212979625827
+Lannett Co.,CEO,3,-0.62976522362847
+Lannett Co.,CFO,1,0.608595412461548
+Lannett Co.,CFO,2,-0.23740277207829805
+Lannett Co.,CFO,3,-0.37119264038326105
+Lannett Co.,CTO,1,-0.11484451558746836
+Lannett Co.,CTO,2,-0.2720977868172642
+Lannett Co.,CTO,3,0.3869423024047111
+Lannett Co.,Head,1,-0.6794638472548741
+Lannett Co.,Head,2,0.07440178812640179
+Lannett Co.,Head,3,0.6050620591284706
+Lannett Co.,IR,1,0.21271254075165447
+Lannett Co.,IR,2,-0.7017603397373765
+Lannett Co.,IR,3,0.4890477989857128
+Lannett Co.,Operator,1,0.24686946001118806
+Lannett Co.,Operator,2,0.39155612463412404
+Lannett Co.,Operator,3,-0.6384255846453339
+Lannett Co.,President,1,0.034248981086791114
+Lannett Co.,President,2,-0.6811682846052992
+Lannett Co.,President,3,0.6469193035185014
+Liminal BioSciences,Analyst,1,0.6369886795020553
+Liminal BioSciences,Analyst,2,-0.7897712510936802
+Liminal BioSciences,Analyst,3,0.15278257159161787
+Liminal BioSciences,CEO,1,1.3959209444962877
+Liminal BioSciences,CEO,2,-0.7377613458235358
+Liminal BioSciences,CEO,3,-0.6581595986727686
+Liminal BioSciences,CFO,1,0.5684785809740475
+Liminal BioSciences,CFO,2,-0.2058139737388292
+Liminal BioSciences,CFO,3,-0.36266460723522953
+Liminal BioSciences,IR,1,0.15182706968144022
+Liminal BioSciences,IR,2,-0.6765940760239613
+Liminal BioSciences,IR,3,0.5247670063425118
+Liminal BioSciences,Operator,1,0.24558684161170852
+Liminal BioSciences,Operator,2,0.39829925672284744
+Liminal BioSciences,Operator,3,-0.6438860983345779
+Liminal BioSciences,President,1,-0.026145931131991228
+Liminal BioSciences,President,2,-0.6098159386041855
+Liminal BioSciences,President,3,0.6359618697361711
+Logistec Corp.,Analyst,1,0.6334500888541921
+Logistec Corp.,Analyst,2,-0.7872190280784542
+Logistec Corp.,Analyst,3,0.15376893922425527
+Logistec Corp.,CEO,1,1.2407149458490645
+Logistec Corp.,CEO,2,-0.7949580262672372
+Logistec Corp.,CEO,3,-0.4457569195818437
+Luby's,Analyst,1,0.5903952691666898
+Luby's,Analyst,2,-0.7603394836545777
+Luby's,Analyst,3,0.16994421448788088
+Luby's,CEO,1,1.3835924881640724
+Luby's,CEO,2,-0.7414267384322135
+Luby's,CEO,3,-0.6421657497318757
+Luby's,CFO,1,0.7363454786306485
+Luby's,CFO,2,-0.3369465839075261
+Luby's,CFO,3,-0.3993988947231323
+Luby's,COO,1,-0.6073379197523571
+Luby's,COO,2,-0.5467069754422903
+Luby's,COO,3,1.1540448951946525
+Luby's,IR,1,0.2477575849374843
+Luby's,IR,2,-0.7172172160351197
+Luby's,IR,3,0.4694596310976262
+Luby's,Operator,1,0.24494999719518273
+Luby's,Operator,2,0.3985223580267797
+Luby's,Operator,3,-0.6434723552219843
+Luby's,President,1,0.010859828084373656
+Luby's,President,2,-0.649370590041618
+Luby's,President,3,0.6385107619572382
+Luby's,VP,1,-1.5794524287845286
+Luby's,VP,2,0.2529918018386755
+Luby's,VP,3,1.3264606269458472
+M.D.C. Holdings,Analyst,1,0.6341122643058643
+M.D.C. Holdings,Analyst,2,-0.7883258631521403
+M.D.C. Holdings,Analyst,3,0.1542135988462689
+M.D.C. Holdings,CEO,1,1.4489773393301308
+M.D.C. Holdings,CEO,2,-0.7167040310115799
+M.D.C. Holdings,CEO,3,-0.7322733083185677
+M.D.C. Holdings,Operator,1,0.24869681852600067
+M.D.C. Holdings,Operator,2,0.3834068337403339
+M.D.C. Holdings,Operator,3,-0.6321036522663566
+MF Global Holdings Ltd.,Analyst,1,0.5301656084182437
+MF Global Holdings Ltd.,Analyst,2,-0.7209612885109813
+MF Global Holdings Ltd.,Analyst,3,0.19079568009273
+MF Global Holdings Ltd.,Operator,1,0.2555289675731735
+MF Global Holdings Ltd.,Operator,2,0.3568457575275082
+MF Global Holdings Ltd.,Operator,3,-0.6123747251007038
+Macatawa Bank Corp.,Analyst,1,0.5861246178052035
+Macatawa Bank Corp.,Analyst,2,-0.7573862966421103
+Macatawa Bank Corp.,Analyst,3,0.17126167883689958
+Macatawa Bank Corp.,Operator,1,0.2460860250735864
+Macatawa Bank Corp.,Operator,2,0.39366567859003776
+Macatawa Bank Corp.,Operator,3,-0.639751703663646
+Mace Security International,Analyst,1,0.6026280062911571
+Mace Security International,Analyst,2,-0.7679312808719516
+Mace Security International,Analyst,3,0.16530327458078733
+Mace Security International,CEO,1,1.370887064415653
+Mace Security International,CEO,2,-0.7450611097694451
+Mace Security International,CEO,3,-0.6258259546462248
+Mace Security International,CFO,1,0.695965550237922
+Mace Security International,CFO,2,-0.3058813181185531
+Mace Security International,CFO,3,-0.3900842321193789
+Mace Security International,CTO,1,-0.10049971781748152
+Mace Security International,CTO,2,-0.27203747051469784
+Mace Security International,CTO,3,0.37253718833215815
+Mace Security International,IR,1,0.21863329479488158
+Mace Security International,IR,2,-0.7041686184794662
+Mace Security International,IR,3,0.4855353236845754
+Mace Security International,Operator,1,0.24769406281530754
+Mace Security International,Operator,2,0.3884327567250295
+Mace Security International,Operator,3,-0.6361268195403589
+Mace Security International,President,1,-0.010675274734096164
+Mace Security International,President,2,-0.625989837946808
+Mace Security International,President,3,0.6366651126808982
+Magellan Midstream Partners LP,Analyst,1,0.6211441796476667
+Magellan Midstream Partners LP,Analyst,2,-0.7797070779758098
+Magellan Midstream Partners LP,Analyst,3,0.1585628983281363
+Magellan Midstream Partners LP,CEO,1,1.4355732496686298
+Magellan Midstream Partners LP,CEO,2,-0.723597323003131
+Magellan Midstream Partners LP,CEO,3,-0.7119759266655157
+Magellan Midstream Partners LP,CFO,1,0.777687307109085
+Magellan Midstream Partners LP,CFO,2,-0.3692949364209874
+Magellan Midstream Partners LP,CFO,3,-0.4083923706881071
+Magellan Midstream Partners LP,IR,1,0.30461037321084483
+Magellan Midstream Partners LP,IR,2,-0.7401449740594377
+Magellan Midstream Partners LP,IR,3,0.4355346008485836
+Magellan Midstream Partners LP,Operator,1,0.24706042305599582
+Magellan Midstream Partners LP,Operator,2,0.3896084475602539
+Magellan Midstream Partners LP,Operator,3,-0.6366688706162716
+Marathon Oil Corp.,Analyst,1,0.6187197188009084
+Marathon Oil Corp.,Analyst,2,-0.7777805166193537
+Marathon Oil Corp.,Analyst,3,0.15906079781843835
+Marathon Oil Corp.,CEO,1,1.3334514031361218
+Marathon Oil Corp.,CEO,2,-0.7602593791304665
+Marathon Oil Corp.,CEO,3,-0.573192024005672
+Marathon Oil Corp.,Operator,1,0.24265383865223045
+Marathon Oil Corp.,Operator,2,0.4078554126948353
+Marathon Oil Corp.,Operator,3,-0.6505092513470876
+Masonite International Corp.,Analyst,1,0.6314971202372107
+Masonite International Corp.,Analyst,2,-0.7865804923405508
+Masonite International Corp.,Analyst,3,0.1550833721033333
+Masonite International Corp.,CEO,1,1.5075856436366972
+Masonite International Corp.,CEO,2,-0.6987015652867995
+Masonite International Corp.,CEO,3,-0.8088840783499146
+Masonite International Corp.,CTO,1,-0.08182405163884508
+Masonite International Corp.,CTO,2,-0.27195312228558044
+Masonite International Corp.,CTO,3,0.3537771739244045
+Masonite International Corp.,Operator,1,0.25388785590626206
+Masonite International Corp.,Operator,2,0.36247844634690307
+Masonite International Corp.,Operator,3,-0.6163663022531872
+Masonite International Corp.,President,1,-0.018761749311707335
+Masonite International Corp.,President,2,-0.616395634754196
+Masonite International Corp.,President,3,0.6351573840658976
+MediaValet,Analyst,1,0.6037431335456411
+MediaValet,Analyst,2,-0.7686046842916342
+MediaValet,Analyst,3,0.16486155074598602
+MediaValet,CEO,1,1.456691493854796
+MediaValet,CEO,2,-0.7109363615985169
+MediaValet,CEO,3,-0.745755132256296
+Midway Games,Analyst,1,0.5814828842420006
+Midway Games,Analyst,2,-0.7540761471560431
+Midway Games,Analyst,3,0.17259326291403526
+Midway Games,Operator,1,0.24477619171270043
+Midway Games,Operator,2,0.39949277646715875
+Midway Games,Operator,3,-0.644268968179881
+Midwest Banc Holdings,Analyst,1,0.5677478686389453
+Midwest Banc Holdings,Analyst,2,-0.7452043992319398
+Midwest Banc Holdings,Analyst,3,0.17745653059298708
+Midwest Banc Holdings,Operator,1,0.25383027177403183
+Midwest Banc Holdings,Operator,2,0.36280764707413915
+Midwest Banc Holdings,Operator,3,-0.6166379188481931
+Minerva Bunkering,Analyst,1,0.6158987314276048
+Minerva Bunkering,Analyst,2,-0.776340526978334
+Minerva Bunkering,Analyst,3,0.16044179555072222
+Minerva Bunkering,CEO,1,1.3572234046872271
+Minerva Bunkering,CEO,2,-0.7574985574260451
+Minerva Bunkering,CEO,3,-0.5997248472611985
+Minerva Bunkering,CFO,1,0.4802578344684696
+Minerva Bunkering,CFO,2,-0.13794156692229126
+Minerva Bunkering,CFO,3,-0.34231626754619066
+Minerva Bunkering,CTO,1,-0.07785723507154249
+Minerva Bunkering,CTO,2,-0.2719045293291318
+Minerva Bunkering,CTO,3,0.34976176440065304
+Minerva Bunkering,Operator,1,0.24368320821777972
+Minerva Bunkering,Operator,2,0.40431110148448834
+Minerva Bunkering,Operator,3,-0.64799430970229
+Mirati Therapeutics,Analyst,1,0.6452593611395274
+Mirati Therapeutics,Analyst,2,-0.7952587601206295
+Mirati Therapeutics,Analyst,3,0.14999939898109513
+Mirati Therapeutics,CEO,1,1.459764703368077
+Mirati Therapeutics,CEO,2,-0.7157650590758539
+Mirati Therapeutics,CEO,3,-0.7439996442922401
+Mirati Therapeutics,CFO,1,0.6572056766872375
+Mirati Therapeutics,CFO,2,-0.2767826067839426
+Mirati Therapeutics,CFO,3,-0.38042306990330543
+Movie Gallery,Analyst,1,0.5674894203242565
+Movie Gallery,Analyst,2,-0.7459670250995204
+Movie Gallery,Analyst,3,0.17847760477525676
+Movie Gallery,CEO,1,1.3798631380911528
+Movie Gallery,CEO,2,-0.7408748036722583
+Movie Gallery,CEO,3,-0.6389883344189111
+Movie Gallery,Operator,1,0.2464667747260201
+Movie Gallery,Operator,2,0.3919639719898296
+Movie Gallery,Operator,3,-0.6384307467158714
+NXXI,Analyst,1,0.5203291794343325
+NXXI,Analyst,2,-0.715151954873947
+NXXI,Analyst,3,0.1948227754396069
+NXXI,Operator,1,0.24773328697979058
+NXXI,Operator,2,0.3873351076080278
+NXXI,Operator,3,-0.6350683945878404
+National Instruments Corp.,Analyst,1,0.6445680196182673
+National Instruments Corp.,Analyst,2,-0.7948387754504997
+National Instruments Corp.,Analyst,3,0.15027075583222554
+National Instruments Corp.,CEO,1,1.377671736162962
+National Instruments Corp.,CEO,2,-0.7424707281616628
+National Instruments Corp.,CEO,3,-0.6352010080013158
+National Instruments Corp.,CFO,1,0.7054425808265492
+National Instruments Corp.,CFO,2,-0.3140308980248874
+National Instruments Corp.,CFO,3,-0.39141168280167193
+National Instruments Corp.,COO,1,-0.6056433226854463
+National Instruments Corp.,COO,2,-0.5530802674049293
+National Instruments Corp.,COO,3,1.158723590090381
+National Instruments Corp.,Head,1,-0.6989976848314692
+National Instruments Corp.,Head,2,0.08501727204417367
+National Instruments Corp.,Head,3,0.6139804127872935
+National Instruments Corp.,IR,1,0.31195596897271355
+National Instruments Corp.,IR,2,-0.744549642902199
+National Instruments Corp.,IR,3,0.4325936739294763
+National Instruments Corp.,Operator,1,0.24734224117376824
+National Instruments Corp.,Operator,2,0.3884083611123481
+National Instruments Corp.,Operator,3,-0.6357506022861382
+National RV Holdings,Analyst,1,0.5367928465630002
+National RV Holdings,Analyst,2,-0.725844774055583
+National RV Holdings,Analyst,3,0.18905192749257543
+National RV Holdings,Operator,1,0.24794817103705863
+National RV Holdings,Operator,2,0.38650579177578825
+National RV Holdings,Operator,3,-0.6344539628128687
+Navios Maritime Holdings,Analyst,1,0.598457803995841
+Navios Maritime Holdings,Analyst,2,-0.7653580860272601
+Navios Maritime Holdings,Analyst,3,0.16690028203141177
+Navios Maritime Holdings,CEO,1,1.3369372865345777
+Navios Maritime Holdings,CEO,2,-0.7620588842662306
+Navios Maritime Holdings,CEO,3,-0.5748784022683635
+Navios Maritime Holdings,CFO,1,0.7091242227490843
+Navios Maritime Holdings,CFO,2,-0.3208940299037597
+Navios Maritime Holdings,CFO,3,-0.38823019284533455
+Navios Maritime Holdings,Chair,1,-0.2061803640337666
+Navios Maritime Holdings,Chair,2,0.1514879879523476
+Navios Maritime Holdings,Chair,3,0.054692376081391
+Navios Maritime Holdings,Operator,1,0.2519753896296568
+Navios Maritime Holdings,Operator,2,0.3700154804439396
+Navios Maritime Holdings,Operator,3,-0.6219908700736185
+Navios Maritime Holdings,President,1,-0.0005444905446708379
+Navios Maritime Holdings,President,2,-0.6421882580891757
+Navios Maritime Holdings,President,3,0.6427327486338404
+Newcrest Mining Ltd.,Analyst,1,0.6242728749941391
+Newcrest Mining Ltd.,Analyst,2,-0.7810695254294483
+Newcrest Mining Ltd.,Analyst,3,0.15679665043530222
+Newcrest Mining Ltd.,CEO,1,1.44353628997854
+Newcrest Mining Ltd.,CEO,2,-0.7238389909425388
+Newcrest Mining Ltd.,CEO,3,-0.719697299036018
+Newcrest Mining Ltd.,CFO,1,0.63626251179912
+Newcrest Mining Ltd.,CFO,2,-0.26229054393738127
+Newcrest Mining Ltd.,CFO,3,-0.3739719678617494
+Newcrest Mining Ltd.,IR,1,0.22411668540448706
+Newcrest Mining Ltd.,IR,2,-0.7072713618120078
+Newcrest Mining Ltd.,IR,3,0.48315467640751153
+Newcrest Mining Ltd.,Operator,1,0.24481251658006342
+Newcrest Mining Ltd.,Operator,2,0.40126967667086855
+Newcrest Mining Ltd.,Operator,3,-0.646082193250954
+NextGen Healthcare,Analyst,1,0.616085530379425
+NextGen Healthcare,Analyst,2,-0.7767637639750443
+NextGen Healthcare,Analyst,3,0.16067823359561245
+NextGen Healthcare,CEO,1,1.3850588132494308
+NextGen Healthcare,CEO,2,-0.7388525822991954
+NextGen Healthcare,CEO,3,-0.6462062309502522
+NextGen Healthcare,CFO,1,0.6905503672326339
+NextGen Healthcare,CFO,2,-0.30221459795542616
+NextGen Healthcare,CFO,3,-0.38833576927721797
+NextGen Healthcare,IR,1,0.15852683883696522
+NextGen Healthcare,IR,2,-0.6772397630690995
+NextGen Healthcare,IR,3,0.5187129242321251
+NextGen Healthcare,Operator,1,0.24737200617313326
+NextGen Healthcare,Operator,2,0.3883629270559571
+NextGen Healthcare,Operator,3,-0.6357349332291121
+NuStar Energy LP,Analyst,1,0.6165282151547805
+NuStar Energy LP,Analyst,2,-0.7766163225102648
+NuStar Energy LP,Analyst,3,0.1600881073554773
+NuStar Energy LP,CEO,1,1.4008993473390858
+NuStar Energy LP,CEO,2,-0.7363936170381058
+NuStar Energy LP,CEO,3,-0.6645057303009967
+NuStar Energy LP,CFO,1,0.8113547347113733
+NuStar Energy LP,CFO,2,-0.398954661305452
+NuStar Energy LP,CFO,3,-0.4124000734059303
+NuStar Energy LP,IR,1,0.18403398783580227
+NuStar Energy LP,IR,2,-0.6878583087172309
+NuStar Energy LP,IR,3,0.5038243208814195
+NuStar Energy LP,Operator,1,0.24467252120735067
+NuStar Energy LP,Operator,2,0.3999251606652392
+NuStar Energy LP,Operator,3,-0.6445976818726118
+NuVasive,Analyst,1,0.6128264085106577
+NuVasive,Analyst,2,-0.7747426842800641
+NuVasive,Analyst,3,0.16191627576939932
+NuVasive,CEO,1,1.3377365733916529
+NuVasive,CEO,2,-0.7546660015286906
+NuVasive,CEO,3,-0.583070571862979
+NuVasive,CFO,1,0.7484210227499558
+NuVasive,CFO,2,-0.3446043967444897
+NuVasive,CFO,3,-0.4038166260054758
+NuVasive,COO,1,-0.6068891703273058
+NuVasive,COO,2,-0.5473020086418225
+NuVasive,COO,3,1.1541911789691335
+NuVasive,IR,1,0.2832514793894703
+NuVasive,IR,2,-0.7314185998925633
+NuVasive,IR,3,0.44816712050308377
+NuVasive,Operator,1,0.2458020888227745
+NuVasive,Operator,2,0.39522488070540046
+NuVasive,Operator,3,-0.6410269695281967
+NuVasive,President,1,0.0022547920167604804
+NuVasive,President,2,-0.6369735843406246
+NuVasive,President,3,0.6347187923238581
+OPP Liquidating Co.,Analyst,1,0.5936798255188479
+OPP Liquidating Co.,Analyst,2,-0.7623911746769536
+OPP Liquidating Co.,Analyst,3,0.16871134915809857
+OPP Liquidating Co.,CEO,1,1.4347688436104962
+OPP Liquidating Co.,CEO,2,-0.7238425897037555
+OPP Liquidating Co.,CEO,3,-0.7109262539067576
+OPP Liquidating Co.,CFO,1,0.8514352268916883
+OPP Liquidating Co.,CFO,2,-0.42720843687695237
+OPP Liquidating Co.,CFO,3,-0.42422679001474456
+OPP Liquidating Co.,CTO,1,-0.11258241619945737
+OPP Liquidating Co.,CTO,2,-0.27203580656057624
+OPP Liquidating Co.,CTO,3,0.38461822276001223
+OPP Liquidating Co.,Chair,1,-0.21147429070743212
+OPP Liquidating Co.,Chair,2,0.15683699439318743
+OPP Liquidating Co.,Chair,3,0.054637296314216606
+OPP Liquidating Co.,IR,1,0.31946768764311995
+OPP Liquidating Co.,IR,2,-0.7459899017914201
+OPP Liquidating Co.,IR,3,0.42652221414829095
+OPP Liquidating Co.,Operator,1,0.24310749327384135
+OPP Liquidating Co.,Operator,2,0.40676867169920583
+OPP Liquidating Co.,Operator,3,-0.6498761649730689
+OPP Liquidating Co.,President,1,-0.0027438619912483544
+OPP Liquidating Co.,President,2,-0.6339307914610369
+OPP Liquidating Co.,President,3,0.6366746534522795
+Old ANR LLC,Analyst,1,0.5871780699829543
+Old ANR LLC,Analyst,2,-0.7578714562690452
+Old ANR LLC,Analyst,3,0.1706933862860837
+Old ANR LLC,Operator,1,0.25433119994809705
+Old ANR LLC,Operator,2,0.3619755230602635
+Old ANR LLC,Operator,3,-0.6163067230083826
+Old API Wind-down Ltd.,Analyst,1,0.6327534026404066
+Old API Wind-down Ltd.,Analyst,2,-0.7872415828120273
+Old API Wind-down Ltd.,Analyst,3,0.15448818017161384
+Old API Wind-down Ltd.,CEO,1,1.4671383640891142
+Old API Wind-down Ltd.,CEO,2,-0.71111364648128
+Old API Wind-down Ltd.,CEO,3,-0.7560247176078514
+OneSoft Solutions,CEO,1,1.3479803034414917
+OneSoft Solutions,CEO,2,-0.7537717715745739
+OneSoft Solutions,CEO,3,-0.5942085318669346
+OneSoft Solutions,CFO,1,0.8704554540107584
+OneSoft Solutions,CFO,2,-0.4453506277063374
+OneSoft Solutions,CFO,3,-0.42510482630442953
+OneSoft Solutions,President,1,-0.01532106484206467
+OneSoft Solutions,President,2,-0.6193628385829477
+OneSoft Solutions,President,3,0.6346839034250067
+OpSens,Analyst,1,0.6346699977575974
+OpSens,Analyst,2,-0.7884487879210509
+OpSens,Analyst,3,0.15377879016344664
+OpSens,CEO,1,1.3187148139545675
+OpSens,CEO,2,-0.7636062212068073
+OpSens,CEO,3,-0.5551085927477768
+OpSens,CFO,1,0.776210624402442
+OpSens,CFO,2,-0.36798195878561124
+OpSens,CFO,3,-0.40822866561684035
+OpSens,IR,1,0.2252893653227345
+OpSens,IR,2,-0.7063570410931478
+OpSens,IR,3,0.4810676757704041
+OpSens,Operator,1,0.23552057913747207
+OpSens,Operator,2,0.43574277803334877
+OpSens,Operator,3,-0.6712633571708427
+Orbital Infrastructure Group,Analyst,1,0.6160731537631514
+Orbital Infrastructure Group,Analyst,2,-0.7764115410212996
+Orbital Infrastructure Group,Analyst,3,0.16033838725814129
+Orbital Infrastructure Group,CEO,1,1.3645401539517408
+Orbital Infrastructure Group,CEO,2,-0.7479558278484655
+Orbital Infrastructure Group,CEO,3,-0.616584326103292
+Orbital Infrastructure Group,CFO,1,0.6590989316016127
+Orbital Infrastructure Group,CFO,2,-0.2770523348407806
+Orbital Infrastructure Group,CFO,3,-0.38204659676084257
+Orbital Infrastructure Group,CTO,1,-0.10479726379398588
+Orbital Infrastructure Group,CTO,2,-0.27195295007043074
+Orbital Infrastructure Group,CTO,3,0.3767502138643952
+Orbital Infrastructure Group,Chair,1,-0.21053600969009195
+Orbital Infrastructure Group,Chair,2,0.15819943846621434
+Orbital Infrastructure Group,Chair,3,0.05233657122384943
+Orbital Infrastructure Group,IR,1,0.24949887063903503
+Orbital Infrastructure Group,IR,2,-0.7177374429442924
+Orbital Infrastructure Group,IR,3,0.4682385723052483
+Orbital Infrastructure Group,Operator,1,0.23514573381785975
+Orbital Infrastructure Group,Operator,2,0.4373473784959892
+Orbital Infrastructure Group,Operator,3,-0.6724931123138707
+Orbital Infrastructure Group,President,1,-0.0004725843780792882
+Orbital Infrastructure Group,President,2,-0.6374047946027014
+Orbital Infrastructure Group,President,3,0.6378773789807746
+Overseas Shipholding Group,Analyst,1,0.6434226489405626
+Overseas Shipholding Group,Analyst,2,-0.7941703749747226
+Overseas Shipholding Group,Analyst,3,0.15074772603415318
+Overseas Shipholding Group,CEO,1,1.3640980292340907
+Overseas Shipholding Group,CEO,2,-0.7518749705502135
+Overseas Shipholding Group,CEO,3,-0.6122230586838937
+Overseas Shipholding Group,CFO,1,0.5703724451232344
+Overseas Shipholding Group,CFO,2,-0.2083156065024766
+Overseas Shipholding Group,CFO,3,-0.36205683862076926
+Overseas Shipholding Group,CTO,1,-0.07379737944143494
+Overseas Shipholding Group,CTO,2,-0.272005772720629
+Overseas Shipholding Group,CTO,3,0.3458031521620427
+Overseas Shipholding Group,Head,1,-0.7221474610774011
+Overseas Shipholding Group,Head,2,0.09691043422903525
+Overseas Shipholding Group,Head,3,0.6252370268483634
+Overseas Shipholding Group,IR,1,0.14082876731802257
+Overseas Shipholding Group,IR,2,-0.6719145356667595
+Overseas Shipholding Group,IR,3,0.5310857683487279
+Overseas Shipholding Group,Operator,1,0.24580142273998257
+Overseas Shipholding Group,Operator,2,0.39383137829206455
+Overseas Shipholding Group,Operator,3,-0.6396328010320691
+Overseas Shipholding Group,President,1,-0.006560541096383883
+Overseas Shipholding Group,President,2,-0.6346988796239739
+Overseas Shipholding Group,President,3,0.6412594207203519
+Overseas Shipholding Group,SVP,1,2.601145838829848
+Overseas Shipholding Group,SVP,2,-0.9408487251464221
+Overseas Shipholding Group,SVP,3,-1.6602971136834062
+P&F Industries,Analyst,1,0.6000380764317939
+P&F Industries,Analyst,2,-0.7661939372535695
+P&F Industries,Analyst,3,0.1661558608217686
+P&F Industries,CEO,1,1.477946933722717
+P&F Industries,CEO,2,-0.7082565383746936
+P&F Industries,CEO,3,-0.7696903953480402
+P&F Industries,CFO,1,0.8211683488499941
+P&F Industries,CFO,2,-0.40856272507261676
+P&F Industries,CFO,3,-0.41260562377738624
+P&F Industries,IR,1,0.1604437898290645
+P&F Industries,IR,2,-0.6786650304902929
+P&F Industries,IR,3,0.5182212406612193
+P&F Industries,Operator,1,0.24316665292015413
+P&F Industries,Operator,2,0.40593713884135735
+P&F Industries,Operator,3,-0.6491037917615332
+P&F Industries,President,1,-0.008227720383608639
+P&F Industries,President,2,-0.6288799146563976
+P&F Industries,President,3,0.6371076350400005
+PCTEL,Analyst,1,0.6149641479894303
+PCTEL,Analyst,2,-0.7759533226081279
+PCTEL,Analyst,3,0.1609891746186906
+PCTEL,CEO,1,1.3901299944673062
+PCTEL,CEO,2,-0.7366759354364504
+PCTEL,CEO,3,-0.6534540590308726
+PCTEL,CFO,1,0.7524876527677433
+PCTEL,CFO,2,-0.34853258371659546
+PCTEL,CFO,3,-0.4039550690511575
+PCTEL,IR,1,0.2754551425927217
+PCTEL,IR,2,-0.7280003398494257
+PCTEL,IR,3,0.45254519725669473
+PCTEL,Operator,1,0.24432902302521103
+PCTEL,Operator,2,0.40115315243303973
+PCTEL,Operator,3,-0.6454821754582726
+PCTEL,President,1,-0.00024641387581762764
+PCTEL,President,2,-0.6358083618168133
+PCTEL,President,3,0.636054775692625
+PDC Energy,Analyst,1,0.6109164668687144
+PDC Energy,Analyst,2,-0.7727685561833695
+PDC Energy,Analyst,3,0.16185208931464806
+PDC Energy,CEO,1,1.4542349987320156
+PDC Energy,CEO,2,-0.7142396317556599
+PDC Energy,CEO,3,-0.7399953669763727
+PDC Energy,CTO,1,-0.06200234542741777
+PDC Energy,CTO,2,-0.2719631016794518
+PDC Energy,CTO,3,0.3339654471068486
+PDC Energy,Operator,1,0.2473036326634882
+PDC Energy,Operator,2,0.39025567930959587
+PDC Energy,Operator,3,-0.6375593119731059
+PFF Bancorp,Analyst,1,0.602272574703685
+PFF Bancorp,Analyst,2,-0.7677170282830376
+PFF Bancorp,Analyst,3,0.16544445357934548
+PFF Bancorp,Operator,1,0.24377990180232495
+PFF Bancorp,Operator,2,0.402944742881686
+PFF Bancorp,Operator,3,-0.6467246446840328
+PFSweb,Analyst,1,0.6420315372241936
+PFSweb,Analyst,2,-0.7931226052291663
+PFSweb,Analyst,3,0.15109106800496586
+PFSweb,CEO,1,1.336971005505986
+PFSweb,CEO,2,-0.7568964723317918
+PFSweb,CEO,3,-0.580074533174211
+PFSweb,CFO,1,0.6698153518364567
+PFSweb,CFO,2,-0.2842439371472063
+PFSweb,CFO,3,-0.3855714146892608
+PFSweb,CIO,1,3.793892634190396
+PFSweb,CIO,2,-1.376374969042141
+PFSweb,CIO,3,-2.417517665148224
+PFSweb,COO,1,-0.6064408557161787
+PFSweb,COO,2,-0.5485680556112258
+PFSweb,COO,3,1.1550089113274096
+PFSweb,CTO,1,-0.06850218062779895
+PFSweb,CTO,2,-0.2717217307830333
+PFSweb,CTO,3,0.34022391141081115
+PFSweb,EVP,1,1.2294246224814638
+PFSweb,EVP,2,-0.44157728329814633
+PFSweb,EVP,3,-0.7878473391833077
+PFSweb,IR,1,0.23345301187798786
+PFSweb,IR,2,-0.7101035231074286
+PFSweb,IR,3,0.4766505112294316
+PFSweb,Operator,1,0.2558096305242996
+PFSweb,Operator,2,0.35552635513288694
+PFSweb,Operator,3,-0.6113359856572087
+PFSweb,President,1,-0.027378522301089774
+PFSweb,President,2,-0.6068851404665032
+PFSweb,President,3,0.6342636627675875
+PGS ASA,Analyst,1,0.6290370040494947
+PGS ASA,Analyst,2,-0.7847692684075456
+PGS ASA,Analyst,3,0.15573226435804388
+PGS ASA,CEO,1,1.3103086065622074
+PGS ASA,CEO,2,-0.7698955682243831
+PGS ASA,CEO,3,-0.5404130383378408
+PGS ASA,CFO,1,0.5934751124527484
+PGS ASA,CFO,2,-0.22642072273890537
+PGS ASA,CFO,3,-0.3670543897138543
+PGS ASA,IR,1,0.23612193426474798
+PGS ASA,IR,2,-0.7125966252337127
+PGS ASA,IR,3,0.4764746909689556
+PGS ASA,Operator,1,0.24934719753792345
+PGS ASA,Operator,2,0.3807993527904065
+PGS ASA,Operator,3,-0.6301465503283521
+PGS ASA,President,1,-0.02162578600754917
+PGS ASA,President,2,-0.6125735968620947
+PGS ASA,President,3,0.6341993828696384
+PGT Innovations,Analyst,1,0.6034087562664745
+PGT Innovations,Analyst,2,-0.768560254356262
+PGT Innovations,Analyst,3,0.1651514980897804
+PGT Innovations,CEO,1,1.3537117943390309
+PGT Innovations,CEO,2,-0.752369926425627
+PGT Innovations,CEO,3,-0.6013418679134208
+PGT Innovations,CFO,1,0.7546719781842428
+PGT Innovations,CFO,2,-0.35017031502461915
+PGT Innovations,CFO,3,-0.4045016631596334
+PGT Innovations,CTO,1,-0.11612729358412577
+PGT Innovations,CTO,2,-0.27214196174824745
+PGT Innovations,CTO,3,0.3882692553323518
+PGT Innovations,Head,1,-0.7027765896559229
+PGT Innovations,Head,2,0.08752627381625144
+PGT Innovations,Head,3,0.6152503158396694
+PGT Innovations,IR,1,0.3361578491981776
+PGT Innovations,IR,2,-0.7535795298630705
+PGT Innovations,IR,3,0.41742168066488383
+PGT Innovations,Operator,1,0.24923610962157017
+PGT Innovations,Operator,2,0.38096697391182477
+PGT Innovations,Operator,3,-0.6302030835334169
+PHH Liquidation Trust,Analyst,1,0.6064302423217625
+PHH Liquidation Trust,Analyst,2,-0.7707591535842732
+PHH Liquidation Trust,Analyst,3,0.1643289112625036
+PHH Liquidation Trust,CEO,1,1.3982147897349602
+PHH Liquidation Trust,CEO,2,-0.7405495561268115
+PHH Liquidation Trust,CEO,3,-0.6576652336081652
+PHH Liquidation Trust,Operator,1,0.2407399218881956
+PHH Liquidation Trust,Operator,2,0.41504090322339626
+PHH Liquidation Trust,Operator,3,-0.6557808251116136
+Pareteum Corp.,Analyst,1,0.6308337376096762
+Pareteum Corp.,Analyst,2,-0.785849718699502
+Pareteum Corp.,Analyst,3,0.15501598108981898
+Pareteum Corp.,CEO,1,1.4755478119166732
+Pareteum Corp.,CEO,2,-0.7086950859496673
+Pareteum Corp.,CEO,3,-0.7668527259670228
+Pareteum Corp.,CFO,1,0.598864287564465
+Pareteum Corp.,CFO,2,-0.22785470733545365
+Pareteum Corp.,CFO,3,-0.3710095802290224
+Pareteum Corp.,CTO,1,-0.03860496933096612
+Pareteum Corp.,CTO,2,-0.2717220451796289
+Pareteum Corp.,CTO,3,0.31032701451057426
+Pareteum Corp.,Operator,1,0.23514573381785975
+Pareteum Corp.,Operator,2,0.4373473784959892
+Pareteum Corp.,Operator,3,-0.6724931123138707
+Pareteum Corp.,President,1,-0.021926867793286862
+Pareteum Corp.,President,2,-0.6133184519905971
+Pareteum Corp.,President,3,0.6352453197838783
+Park Lawn Corp.,Analyst,1,0.6245491396541374
+Park Lawn Corp.,Analyst,2,-0.7819656037804075
+Park Lawn Corp.,Analyst,3,0.15741646412626306
+Park Lawn Corp.,CEO,1,1.2562185615751065
+Park Lawn Corp.,CEO,2,-0.7858287452732718
+Park Lawn Corp.,CEO,3,-0.4703898163018513
+Particle Drilling Technologies,Analyst,1,0.5310732273087176
+Particle Drilling Technologies,Analyst,2,-0.7214963014099676
+Particle Drilling Technologies,Analyst,3,0.19042307410124246
+Particle Drilling Technologies,Operator,1,0.25889989814426884
+Particle Drilling Technologies,Operator,2,0.3440839123722207
+Particle Drilling Technologies,Operator,3,-0.6029838105165117
+Pennsylvania Real Estate Investment Trust,Analyst,1,0.6205434724727259
+Pennsylvania Real Estate Investment Trust,Analyst,2,-0.7795873295462461
+Pennsylvania Real Estate Investment Trust,Analyst,3,0.15904385707351312
+Pennsylvania Real Estate Investment Trust,CEO,1,1.3141143724332764
+Pennsylvania Real Estate Investment Trust,CEO,2,-0.7673084904255284
+Pennsylvania Real Estate Investment Trust,CEO,3,-0.5468058820077647
+Pennsylvania Real Estate Investment Trust,CFO,1,0.6591729399140087
+Pennsylvania Real Estate Investment Trust,CFO,2,-0.27615370110102977
+Pennsylvania Real Estate Investment Trust,CFO,3,-0.38301923881298944
+Pennsylvania Real Estate Investment Trust,Operator,1,0.24963081453272296
+Pennsylvania Real Estate Investment Trust,Operator,2,0.37978875523808675
+Pennsylvania Real Estate Investment Trust,Operator,3,-0.6294195697708317
+Perficient,Analyst,1,0.5981055359516574
+Perficient,Analyst,2,-0.765152689696817
+Perficient,Analyst,3,0.16704715374515267
+Perficient,CEO,1,1.4018587870402692
+Perficient,CEO,2,-0.7344481742200157
+Perficient,CEO,3,-0.6674106128202704
+Perficient,CFO,1,0.7482332500948656
+Perficient,CFO,2,-0.3474580684899749
+Perficient,CFO,3,-0.40077518160490044
+Perficient,CTO,1,-0.1232663833548796
+Perficient,CTO,2,-0.2721403087811665
+Perficient,CTO,3,0.39540669213602475
+Perficient,Operator,1,0.24230110553840895
+Perficient,Operator,2,0.4098378428512916
+Perficient,Operator,3,-0.6521389483897223
+Pernix Therapeutics Holdings,Analyst,1,0.6237617667578541
+Pernix Therapeutics Holdings,Analyst,2,-0.7816180961695636
+Pernix Therapeutics Holdings,Analyst,3,0.15785632941170252
+Pernix Therapeutics Holdings,CEO,1,1.3736506713363608
+Pernix Therapeutics Holdings,CEO,2,-0.746516013007606
+Pernix Therapeutics Holdings,CEO,3,-0.6271346583287714
+Pernix Therapeutics Holdings,CFO,1,0.6230999235701753
+Pernix Therapeutics Holdings,CFO,2,-0.24898261260130636
+Pernix Therapeutics Holdings,CFO,3,-0.37411731096887985
+Pernix Therapeutics Holdings,CTO,1,-0.0787401591424858
+Pernix Therapeutics Holdings,CTO,2,-0.27188892387776414
+Pernix Therapeutics Holdings,CTO,3,0.3506290830202288
+Pernix Therapeutics Holdings,Head,1,-0.7148641176298893
+Pernix Therapeutics Holdings,Head,2,0.09345410374116764
+Pernix Therapeutics Holdings,Head,3,0.6214100138887194
+Pernix Therapeutics Holdings,IR,1,0.2288422347294185
+Pernix Therapeutics Holdings,IR,2,-0.7095133321649486
+Pernix Therapeutics Holdings,IR,3,0.48067109743552083
+Pernix Therapeutics Holdings,Operator,1,0.24776046211653974
+Pernix Therapeutics Holdings,Operator,2,0.38715253916085773
+Pernix Therapeutics Holdings,Operator,3,-0.6349130012774195
+Pernix Therapeutics Holdings,President,1,-0.010420439520820952
+Pernix Therapeutics Holdings,President,2,-0.6268817552113806
+Pernix Therapeutics Holdings,President,3,0.6373021947321957
+PetroQuest Energy,Analyst,1,0.6361476877810763
+PetroQuest Energy,Analyst,2,-0.7888957445197929
+PetroQuest Energy,Analyst,3,0.15274805673870973
+PetroQuest Energy,CEO,1,1.4749609472846836
+PetroQuest Energy,CEO,2,-0.7067389192370395
+PetroQuest Energy,CEO,3,-0.7682220280476614
+PetroQuest Energy,Operator,1,0.24711299015851587
+PetroQuest Energy,Operator,2,0.3920791077861439
+PetroQuest Energy,Operator,3,-0.6391920979446817
+Piksel,Analyst,1,0.6300784704499123
+Piksel,Analyst,2,-0.7854260928062257
+Piksel,Analyst,3,0.1553476223563065
+Piksel,CEO,1,1.3838982219572544
+Piksel,CEO,2,-0.7411050077865016
+Piksel,CEO,3,-0.6427932141707694
+Piksel,CFO,1,0.7338514200639566
+Piksel,CFO,2,-0.3364682540572089
+Piksel,CFO,3,-0.39738316600675755
+Piksel,IR,1,0.16373438723162087
+Piksel,IR,2,-0.6793147368929326
+Piksel,IR,3,0.5155803496613026
+Piksel,Operator,1,0.2490832910824049
+Piksel,Operator,2,0.3825674985469379
+Piksel,Operator,3,-0.6316507896293648
+Pinnacle Airlines Corp.,Analyst,1,0.6239485663836682
+Pinnacle Airlines Corp.,Analyst,2,-0.7814630636606772
+Pinnacle Airlines Corp.,Analyst,3,0.157514497277002
+Pinnacle Airlines Corp.,CEO,1,1.4589255293092331
+Pinnacle Airlines Corp.,CEO,2,-0.7184341446765965
+Pinnacle Airlines Corp.,CEO,3,-0.7404913846326535
+Pinnacle Airlines Corp.,Operator,1,0.252807424137654
+Pinnacle Airlines Corp.,Operator,2,0.3664507696312825
+Pinnacle Airlines Corp.,Operator,3,-0.6192581937689586
+Point.360,Analyst,1,0.5662025444619319
+Point.360,Analyst,2,-0.7444504606443574
+Point.360,Analyst,3,0.17824791618241836
+Point.360,CEO,1,1.3475014410458916
+Point.360,CEO,2,-0.7513661275213268
+Point.360,CEO,3,-0.5961353135245816
+Point.360,CFO,1,0.6801140392394183
+Point.360,CFO,2,-0.2925064193293097
+Point.360,CFO,3,-0.387607619910119
+Point.360,Operator,1,0.24229141992706754
+Point.360,Operator,2,0.41009505500811244
+Point.360,Operator,3,-0.6523864749352017
+Quadrant 4 Systems Corp.,Analyst,1,0.6312033281464711
+Quadrant 4 Systems Corp.,Analyst,2,-0.7861736299368283
+Quadrant 4 Systems Corp.,Analyst,3,0.1549703017903502
+Quadrant 4 Systems Corp.,CEO,1,1.3256864943466917
+Quadrant 4 Systems Corp.,CEO,2,-0.7608860688249524
+Quadrant 4 Systems Corp.,CEO,3,-0.564800425521756
+Quadrant 4 Systems Corp.,Chair,1,-0.21506815420094055
+Quadrant 4 Systems Corp.,Chair,2,0.14848134688027126
+Quadrant 4 Systems Corp.,Chair,3,0.0665868073206416
+Quicksilver Resources,Analyst,1,0.6490668806552208
+Quicksilver Resources,Analyst,2,-0.7971563674166513
+Quicksilver Resources,Analyst,3,0.14808948676142364
+Quicksilver Resources,CEO,1,1.482677357713831
+Quicksilver Resources,CEO,2,-0.7049321057742285
+Quicksilver Resources,CEO,3,-0.7777452519396193
+Quicksilver Resources,Operator,1,0.24826578712372227
+Quicksilver Resources,Operator,2,0.38715745428447346
+Quicksilver Resources,Operator,3,-0.6354232414082175
+R.H. Donnelley Corp.,Analyst,1,0.5371065441140364
+R.H. Donnelley Corp.,Analyst,2,-0.7258334845932766
+R.H. Donnelley Corp.,Analyst,3,0.18872694047923275
+R.H. Donnelley Corp.,Operator,1,0.2499091853311307
+R.H. Donnelley Corp.,Operator,2,0.37868999117569685
+R.H. Donnelley Corp.,Operator,3,-0.6285991765068495
+R1 RCM,Analyst,1,0.6329222144789969
+R1 RCM,Analyst,2,-0.7873952652551737
+R1 RCM,Analyst,3,0.15447305077616988
+R1 RCM,CEO,1,1.3056088388926572
+R1 RCM,CEO,2,-0.7674736708055742
+R1 RCM,CEO,3,-0.5381351680870998
+R1 RCM,CFO,1,0.6785774475749868
+R1 RCM,CFO,2,-0.2909249319753563
+R1 RCM,CFO,3,-0.3876525155996409
+R1 RCM,COO,1,-0.6069165477165803
+R1 RCM,COO,2,-0.5447101907032788
+R1 RCM,COO,3,1.1516267384198642
+R1 RCM,IR,1,0.21271694812549863
+R1 RCM,IR,2,-0.7009833101077468
+R1 RCM,IR,3,0.4882663619822392
+R1 RCM,Operator,1,0.256434711840261
+R1 RCM,Operator,2,0.3526225929447255
+R1 RCM,Operator,3,-0.6090573047850086
+R1 RCM,President,1,-0.03365088448813871
+R1 RCM,President,2,-0.5995258657288822
+R1 RCM,President,3,0.6331767502170156
+R1 RCM,SVP,1,2.608031655852744
+R1 RCM,SVP,2,-0.9430701481031999
+R1 RCM,SVP,3,-1.664961507749524
+RAIT Financial Trust,Analyst,1,0.6015331668839008
+RAIT Financial Trust,Analyst,2,-0.7672371657116777
+RAIT Financial Trust,Analyst,3,0.16570399882776982
+RAIT Financial Trust,CEO,1,1.4107383468575314
+RAIT Financial Trust,CEO,2,-0.7332972260930786
+RAIT Financial Trust,CEO,3,-0.6774411207644695
+RAIT Financial Trust,CFO,1,0.7150978926965649
+RAIT Financial Trust,CFO,2,-0.32219666938956726
+RAIT Financial Trust,CFO,3,-0.39290122330700766
+RAIT Financial Trust,COO,1,-0.6071001453941482
+RAIT Financial Trust,COO,2,-0.5499545763067134
+RAIT Financial Trust,COO,3,1.1570547217008667
+RAIT Financial Trust,CTO,1,-0.11039349916101165
+RAIT Financial Trust,CTO,2,-0.2720746198645983
+RAIT Financial Trust,CTO,3,0.38246811902558847
+RAIT Financial Trust,IR,1,0.2897574652556591
+RAIT Financial Trust,IR,2,-0.7363776516804578
+RAIT Financial Trust,IR,3,0.44662018642478934
+RAIT Financial Trust,Operator,1,0.25279496978027566
+RAIT Financial Trust,Operator,2,0.36748988577876174
+RAIT Financial Trust,Operator,3,-0.6202848555590594
+RPT Realty,Analyst,1,0.6221139789571043
+RPT Realty,Analyst,2,-0.780470218395737
+RPT Realty,Analyst,3,0.15835623943862578
+RPT Realty,CEO,1,1.2873919610823232
+RPT Realty,CEO,2,-0.7775785247762733
+RPT Realty,CEO,3,-0.5098134363060662
+RPT Realty,CFO,1,0.7151008534257087
+RPT Realty,CFO,2,-0.32349930776104124
+RPT Realty,CFO,3,-0.39160154566467753
+RPT Realty,CTO,1,-0.09813316527099553
+RPT Realty,CTO,2,-0.2720191006409853
+RPT Realty,CTO,3,0.3701522659119596
+RPT Realty,IR,1,0.2795920694155781
+RPT Realty,IR,2,-0.7318921411389845
+RPT Realty,IR,3,0.4523000717233972
+RPT Realty,Operator,1,0.2541948659970744
+RPT Realty,Operator,2,0.36090854285112894
+RPT Realty,Operator,3,-0.6151034088482255
+RPT Realty,President,1,0.01703363901011134
+RPT Realty,President,2,-0.6586469431504977
+RPT Realty,President,3,0.64161330414038
+Rand Logistics,Analyst,1,0.6223259638835847
+Rand Logistics,Analyst,2,-0.7807414215598856
+Rand Logistics,Analyst,3,0.1584154576762938
+Rand Logistics,CEO,1,1.3044172838902177
+Rand Logistics,CEO,2,-0.7720405488514213
+Rand Logistics,CEO,3,-0.532376735038813
+Rand Logistics,CFO,1,0.6407448056222711
+Rand Logistics,CFO,2,-0.26378904860917163
+Rand Logistics,CFO,3,-0.3769557570131103
+Rand Logistics,CTO,1,-0.06948378346102879
+Rand Logistics,CTO,2,-0.2719545662200718
+Rand Logistics,CTO,3,0.34143834968107944
+Rand Logistics,Chair,1,-0.20058384788783595
+Rand Logistics,Chair,2,0.16195201260497188
+Rand Logistics,Chair,3,0.03863183528283558
+Rand Logistics,Head,1,-0.6859092234974504
+Rand Logistics,Head,2,0.07801685501104347
+Rand Logistics,Head,3,0.6078923684864052
+Rand Logistics,IR,1,0.23127017794911955
+Rand Logistics,IR,2,-0.7110476264816326
+Rand Logistics,IR,3,0.4797774485325039
+Rand Logistics,Operator,1,0.2555599571129815
+Rand Logistics,Operator,2,0.35544707464437986
+Rand Logistics,Operator,3,-0.6110070317573836
+Rand Logistics,President,1,-0.02452301845026248
+Rand Logistics,President,2,-0.6129955399920798
+Rand Logistics,President,3,0.6375185584423367
+Rentech,Analyst,1,0.6302739806787557
+Rentech,Analyst,2,-0.7852994166671681
+Rentech,Analyst,3,0.15502543598840532
+Rentech,CEO,1,1.3480323352748123
+Rentech,CEO,2,-0.7554174508390585
+Rentech,CEO,3,-0.5926148844357704
+Rentech,CFO,1,0.6566683462041539
+Rentech,CFO,2,-0.27600337742621384
+Rentech,CFO,3,-0.38066496877795064
+Rentech,IR,1,0.20720902115752937
+Rentech,IR,2,-0.699806691526489
+Rentech,IR,3,0.49259767036895047
+Rentech,Operator,1,0.2570426192743904
+Rentech,Operator,2,0.35139558474643023
+Rentech,Operator,3,-0.6084382040208429
+Rentech,President,1,-0.023609095367452655
+Rentech,President,2,-0.6128276955218656
+Rentech,President,3,0.6364367908893127
+Revenir Energy,Analyst,1,0.6145699351567366
+Revenir Energy,Analyst,2,-0.7750461381492227
+Revenir Energy,Analyst,3,0.16047620299247906
+Revenir Energy,CEO,1,1.4931826526157534
+Revenir Energy,CEO,2,-0.7029071439607407
+Revenir Energy,CEO,3,-0.7902755086550296
+Revlon Group Holdings LLC,Analyst,1,0.6082426622761339
+Revlon Group Holdings LLC,Analyst,2,-0.7717377519062901
+Revlon Group Holdings LLC,Analyst,3,0.16349508963014914
+Revlon Group Holdings LLC,CEO,1,1.400173481979846
+Revlon Group Holdings LLC,CEO,2,-0.7339741807472215
+Revlon Group Holdings LLC,CEO,3,-0.6661993012326412
+Revlon Group Holdings LLC,CFO,1,0.6391517630392699
+Revlon Group Holdings LLC,CFO,2,-0.26088951186305037
+Revlon Group Holdings LLC,CFO,3,-0.37826225117623025
+Revlon Group Holdings LLC,IR,1,0.20945893421992193
+Revlon Group Holdings LLC,IR,2,-0.7004441650444955
+Revlon Group Holdings LLC,IR,3,0.49098523082456447
+Revlon Group Holdings LLC,Operator,1,0.2509532085251758
+Revlon Group Holdings LLC,Operator,2,0.37430253245400724
+Revlon Group Holdings LLC,Operator,3,-0.625255740979205
+Revlon Group Holdings LLC,President,1,0.011493393205663366
+Revlon Group Holdings LLC,President,2,-0.6527386950321113
+Revlon Group Holdings LLC,President,3,0.6412453018264418
+Rite Aid Corp.,Analyst,1,0.6337791651741476
+Rite Aid Corp.,Analyst,2,-0.7879658635027551
+Rite Aid Corp.,Analyst,3,0.15418669832860069
+Rite Aid Corp.,CEO,1,1.4808435832701983
+Rite Aid Corp.,CEO,2,-0.7077628168041482
+Rite Aid Corp.,CEO,3,-0.7730807664660669
+Rite Aid Corp.,Operator,1,0.24910939169391985
+Rite Aid Corp.,Operator,2,0.38146795272906703
+Rite Aid Corp.,Operator,3,-0.6305773444230087
+Roust Corp.,Analyst,1,0.5722213425688452
+Roust Corp.,Analyst,2,-0.7481028524232761
+Roust Corp.,Analyst,3,0.17588150985442366
+Roust Corp.,CEO,1,1.3497880300767893
+Roust Corp.,CEO,2,-0.7556949099430059
+Roust Corp.,CEO,3,-0.5940931201338001
+Roust Corp.,CFO,1,0.6980401911550166
+Roust Corp.,CFO,2,-0.3115081913451605
+Roust Corp.,CFO,3,-0.38653199980986613
+Roust Corp.,IR,1,0.11882397724243976
+Roust Corp.,IR,2,-0.6602444933870322
+Roust Corp.,IR,3,0.5414205161445833
+Roust Corp.,Operator,1,0.2516835852007337
+Roust Corp.,Operator,2,0.37174454288568315
+Roust Corp.,Operator,3,-0.6234281280864389
+SONIFI Solutions,Analyst,1,0.5653706134109102
+SONIFI Solutions,Analyst,2,-0.7442846581053847
+SONIFI Solutions,Analyst,3,0.178914044694467
+SONIFI Solutions,Operator,1,0.24143588340394334
+SONIFI Solutions,Operator,2,0.4117845167686652
+SONIFI Solutions,Operator,3,-0.6532204001726303
+SP Plus Corp.,Analyst,1,0.6402607275754983
+SP Plus Corp.,Analyst,2,-0.7920112662711067
+SP Plus Corp.,Analyst,3,0.15175053869560134
+SP Plus Corp.,CEO,1,1.3062997984210774
+SP Plus Corp.,CEO,2,-0.7692613361687441
+SP Plus Corp.,CEO,3,-0.5370384622523496
+SP Plus Corp.,CFO,1,0.6043179010108863
+SP Plus Corp.,CFO,2,-0.23284437610741648
+SP Plus Corp.,CFO,3,-0.3714735249034809
+SP Plus Corp.,IR,1,0.1987411360810259
+SP Plus Corp.,IR,2,-0.6954781571750298
+SP Plus Corp.,IR,3,0.4967370210939948
+SP Plus Corp.,Operator,1,0.2542740464090727
+SP Plus Corp.,Operator,2,0.36133473052111215
+SP Plus Corp.,Operator,3,-0.6156087769302069
+SRC Liquidation LLC,Analyst,1,0.6128702279332965
+SRC Liquidation LLC,Analyst,2,-0.7745865152200618
+SRC Liquidation LLC,Analyst,3,0.16171628728675833
+SRC Liquidation LLC,CEO,1,1.3339200944444927
+SRC Liquidation LLC,CEO,2,-0.7578691941837171
+SRC Liquidation LLC,CEO,3,-0.5760509002607921
+SRC Liquidation LLC,CFO,1,0.6742820884838198
+SRC Liquidation LLC,CFO,2,-0.28799617646114206
+SRC Liquidation LLC,CFO,3,-0.3862859120226882
+SRC Liquidation LLC,CTO,1,-0.09867094492553014
+SRC Liquidation LLC,CTO,2,-0.27199068217757794
+SRC Liquidation LLC,CTO,3,0.37066162710308675
+SRC Liquidation LLC,IR,1,0.20425809603491207
+SRC Liquidation LLC,IR,2,-0.6979802346638659
+SRC Liquidation LLC,IR,3,0.49372213862894465
+SRC Liquidation LLC,Operator,1,0.24781787757653218
+SRC Liquidation LLC,Operator,2,0.38744894235746846
+SRC Liquidation LLC,Operator,3,-0.6352668199340226
+SRC Liquidation LLC,President,1,-0.016102901171848927
+SRC Liquidation LLC,President,2,-0.6198732698051506
+SRC Liquidation LLC,President,3,0.6359761709769938
+SRC Liquidation LLC,VP,1,-1.4914045187107479
+SRC Liquidation LLC,VP,2,0.28194851088789574
+SRC Liquidation LLC,VP,3,1.2094560078228458
+Sculptor Capital Management,Analyst,1,0.6374548348596355
+Sculptor Capital Management,Analyst,2,-0.7901523556272451
+Sculptor Capital Management,Analyst,3,0.15269752076760262
+Sculptor Capital Management,CEO,1,1.3773745534473276
+Sculptor Capital Management,CEO,2,-0.7469936186018848
+Sculptor Capital Management,CEO,3,-0.6303809348454595
+Sculptor Capital Management,CTO,1,-0.08049747212669187
+Sculptor Capital Management,CTO,2,-0.27188882010466314
+Sculptor Capital Management,CTO,3,0.3523862922313339
+Sculptor Capital Management,Operator,1,0.2571549618862038
+Sculptor Capital Management,Operator,2,0.35093880817742873
+Sculptor Capital Management,Operator,3,-0.6080937700636548
+Seagen,Analyst,1,0.6494055859134723
+Seagen,Analyst,2,-0.7977903449070223
+Seagen,Analyst,3,0.14838475899354303
+Seagen,CEO,1,1.4823651542156133
+Seagen,CEO,2,-0.7061865807003945
+Seagen,CEO,3,-0.7761785735152354
+Seagen,Operator,1,0.25543410630933117
+Seagen,Operator,2,0.3567051840429961
+Seagen,Operator,3,-0.6121392903523495
+Sears Holdings Corp.,CEO,1,1.2689137998058675
+Sears Holdings Corp.,CEO,2,-0.7829483714368738
+Sears Holdings Corp.,CEO,3,-0.48596542836901013
+Sears Holdings Corp.,CFO,1,0.5890925521257784
+Sears Holdings Corp.,CFO,2,-0.2207925027344682
+Sears Holdings Corp.,CFO,3,-0.3683000493913214
+Sears Holdings Corp.,President,1,-0.025658841781559402
+Sears Holdings Corp.,President,2,-0.6100179279159711
+Sears Holdings Corp.,President,3,0.6356767696975251
+Sequential Brands Group,Analyst,1,0.5962387078506464
+Sequential Brands Group,Analyst,2,-0.7637873376831763
+Sequential Brands Group,Analyst,3,0.1675486298325229
+Sequential Brands Group,CEO,1,1.428153270656488
+Sequential Brands Group,CEO,2,-0.7266008837490103
+Sequential Brands Group,CEO,3,-0.7015523869074944
+Sequential Brands Group,CFO,1,0.7109297206392658
+Sequential Brands Group,CFO,2,-0.31848862802749034
+Sequential Brands Group,CFO,3,-0.39244109261178567
+Sequential Brands Group,Chair,1,-0.21475420298823744
+Sequential Brands Group,Chair,2,0.1538245542889849
+Sequential Brands Group,Chair,3,0.06092964869922456
+Sequential Brands Group,IR,1,0.2588230980047948
+Sequential Brands Group,IR,2,-0.7224811930777562
+Sequential Brands Group,IR,3,0.4636580950729521
+Sequential Brands Group,President,1,0.002772432631868167
+Sequential Brands Group,President,2,-0.6422277298712229
+Sequential Brands Group,President,3,0.6394552972393487
+SilverBow Resources,Analyst,1,0.6127426714125048
+SilverBow Resources,Analyst,2,-0.7739400906988831
+SilverBow Resources,Analyst,3,0.16119741928637146
+SilverBow Resources,CEO,1,1.3682553101414445
+SilverBow Resources,CEO,2,-0.7458598166839927
+SilverBow Resources,CEO,3,-0.6223954934574687
+SilverBow Resources,Operator,1,0.25304357142369494
+SilverBow Resources,Operator,2,0.36767123189235645
+SilverBow Resources,Operator,3,-0.6207148033160734
+Six Flags,Analyst,1,0.5270969040622849
+Six Flags,Analyst,2,-0.7198517116537179
+Six Flags,Analyst,3,0.19275480759142533
+Six Flags,Operator,1,0.2527480674186769
+Six Flags,Operator,2,0.36671615099036337
+Six Flags,Operator,3,-0.6194642184090624
+Southwestern Energy Co.,Analyst,1,0.5815798760275952
+Southwestern Energy Co.,Analyst,2,-0.7538180059417063
+Southwestern Energy Co.,Analyst,3,0.17223812991410395
+Southwestern Energy Co.,Operator,1,0.24670377708662844
+Southwestern Energy Co.,Operator,2,0.394041039950798
+Southwestern Energy Co.,Operator,3,-0.6407448170374483
+Sovra,Analyst,1,0.6124563624367061
+Sovra,Analyst,2,-0.7742277863379761
+Sovra,Analyst,3,0.1617714239012629
+Sovra,CEO,1,1.3240215812104406
+Sovra,CEO,2,-0.7642560045279047
+Sovra,CEO,3,-0.5597655766825526
+Sovra,President,1,-0.018335004381460254
+Sovra,President,2,-0.616745294615936
+Sovra,President,3,0.6350802989973907
+Spectrum Pharmaceuticals,Analyst,1,0.6421535436013224
+Spectrum Pharmaceuticals,Analyst,2,-0.7931885432292765
+Spectrum Pharmaceuticals,Analyst,3,0.15103499962794711
+Spectrum Pharmaceuticals,CEO,1,1.4146649615459548
+Spectrum Pharmaceuticals,CEO,2,-0.7314357834570774
+Spectrum Pharmaceuticals,CEO,3,-0.6832291780888942
+Spectrum Pharmaceuticals,CFO,1,0.6638935174887217
+Spectrum Pharmaceuticals,CFO,2,-0.279288980411244
+Spectrum Pharmaceuticals,CFO,3,-0.38460453707748815
+Spectrum Pharmaceuticals,CTO,1,-0.0742495067079749
+Spectrum Pharmaceuticals,CTO,2,-0.2718745507358349
+Spectrum Pharmaceuticals,CTO,3,0.3461240574437887
+Spectrum Pharmaceuticals,IR,1,0.22744343487165342
+Spectrum Pharmaceuticals,IR,2,-0.7086381783491995
+Spectrum Pharmaceuticals,IR,3,0.48119474347753693
+Spectrum Pharmaceuticals,Operator,1,0.24778212661100407
+Spectrum Pharmaceuticals,Operator,2,0.3877152623591754
+Spectrum Pharmaceuticals,Operator,3,-0.6354973889702015
+Spectrum Pharmaceuticals,President,1,-0.03856087926218732
+Spectrum Pharmaceuticals,President,2,-0.5969869122096261
+Spectrum Pharmaceuticals,President,3,0.635547791471808
+Stericycle,Analyst,1,0.613521247479226
+Stericycle,Analyst,2,-0.7748421791925758
+Stericycle,Analyst,3,0.16132093171334294
+Stericycle,CEO,1,1.3763130052429369
+Stericycle,CEO,2,-0.7458085944943899
+Stericycle,CEO,3,-0.6305044107485637
+Stericycle,Operator,1,0.2373734660282488
+Stericycle,Operator,2,0.42912143592716684
+Stericycle,Operator,3,-0.6664949019554374
+SunPower Corp.,Analyst,1,0.6134444675209159
+SunPower Corp.,Analyst,2,-0.7747802940868693
+SunPower Corp.,Analyst,3,0.16133582656594636
+SunPower Corp.,CEO,1,1.4534468556656315
+SunPower Corp.,CEO,2,-0.7183491734490993
+SunPower Corp.,CEO,3,-0.7350976822165489
+SunPower Corp.,Operator,1,0.24566252852769435
+SunPower Corp.,Operator,2,0.39715230884000596
+SunPower Corp.,Operator,3,-0.642814837367722
+Surgalign Holdings,Analyst,1,0.622071692119551
+Surgalign Holdings,Analyst,2,-0.780467039537617
+Surgalign Holdings,Analyst,3,0.15839534741805894
+Surgalign Holdings,CEO,1,1.2576492671568216
+Surgalign Holdings,CEO,2,-0.7870286110241982
+Surgalign Holdings,CEO,3,-0.47062065613263987
+Surgalign Holdings,CTO,1,-0.08598061134366493
+Surgalign Holdings,CTO,2,-0.27197917146688877
+Surgalign Holdings,CTO,3,0.3579597828105326
+Sycamore Networks,Analyst,1,0.5861275106417281
+Sycamore Networks,Analyst,2,-0.7573647726769066
+Sycamore Networks,Analyst,3,0.17123726203517145
+Sycamore Networks,Operator,1,0.25079490631969903
+Sycamore Networks,Operator,2,0.37591691429884266
+Sycamore Networks,Operator,3,-0.6267118206185636
+Synergy Pharmaceuticals LLC,Analyst,1,0.6602386088724462
+Synergy Pharmaceuticals LLC,Analyst,2,-0.8048314177236893
+Synergy Pharmaceuticals LLC,Analyst,3,0.1445928088512361
+Synergy Pharmaceuticals LLC,CEO,1,1.2478319973040808
+Synergy Pharmaceuticals LLC,CEO,2,-0.7911525238549562
+Synergy Pharmaceuticals LLC,CEO,3,-0.45667947344914106
+TBS International Plc,Analyst,1,0.5589181632465118
+TBS International Plc,Analyst,2,-0.7398313242067408
+TBS International Plc,Analyst,3,0.18091316096022167
+TBS International Plc,CEO,1,1.4958857645410302
+TBS International Plc,CEO,2,-0.703335798602008
+TBS International Plc,CEO,3,-0.7925499659390391
+TBS International Plc,Operator,1,0.2506271272996116
+TBS International Plc,Operator,2,0.3769212396563879
+TBS International Plc,Operator,3,-0.6275483669560217
+TBS International Plc,President,1,-0.01133431403464253
+TBS International Plc,President,2,-0.6286710611923255
+TBS International Plc,President,3,0.6400053752269621
+TMST,Analyst,1,0.5661161163105181
+TMST,Analyst,2,-0.7448145708896271
+TMST,Analyst,3,0.17869845457910177
+TMST,Operator,1,0.24621990056800824
+TMST,Operator,2,0.3925263493568917
+TMST,Operator,3,-0.6387462499249219
+TOUSA,Analyst,1,0.5450063616770162
+TOUSA,Analyst,2,-0.7307660930775415
+TOUSA,Analyst,3,0.18575973140051788
+TOUSA,Operator,1,0.24963832617243426
+TOUSA,Operator,2,0.37889828508550016
+TOUSA,Operator,3,-0.6285366112579562
+Tandy Brands Accessories,Analyst,1,0.5728692563175581
+Tandy Brands Accessories,Analyst,2,-0.749111328439583
+Tandy Brands Accessories,Analyst,3,0.17624207212201765
+Tandy Brands Accessories,Operator,1,0.2452244273634463
+Tandy Brands Accessories,Operator,2,0.397554842568809
+Tandy Brands Accessories,Operator,3,-0.6427792699322772
+The Great Atlantic & Pacific Tea Co.,Analyst,1,0.5596302503572217
+The Great Atlantic & Pacific Tea Co.,Analyst,2,-0.7400686261424837
+The Great Atlantic & Pacific Tea Co.,Analyst,3,0.18043837578525462
+The Great Atlantic & Pacific Tea Co.,Operator,1,0.2611575448019545
+The Great Atlantic & Pacific Tea Co.,Operator,2,0.3335014614106595
+The Great Atlantic & Pacific Tea Co.,Operator,3,-0.5946590062126363
+The Parent Co.,Operator,1,0.23514573381785975
+The Parent Co.,Operator,2,0.4373473784959892
+The Parent Co.,Operator,3,-0.6724931123138707
+The Penn Traffic Co.,Analyst,1,0.5313382028304872
+The Penn Traffic Co.,Analyst,2,-0.7219304616507489
+The Penn Traffic Co.,Analyst,3,0.1905922588202541
+The Penn Traffic Co.,Operator,1,0.25833893537027963
+The Penn Traffic Co.,Operator,2,0.3454169760950654
+The Penn Traffic Co.,Operator,3,-0.6037559114653672
+Town Sports International Holdings,Analyst,1,0.606589804150484
+Town Sports International Holdings,Analyst,2,-0.7706615565654461
+Town Sports International Holdings,Analyst,3,0.16407175241495497
+Town Sports International Holdings,CEO,1,1.4018218878935447
+Town Sports International Holdings,CEO,2,-0.7355381195208983
+Town Sports International Holdings,CEO,3,-0.666283768372663
+Town Sports International Holdings,CFO,1,0.6831502408628982
+Town Sports International Holdings,CFO,2,-0.29717323559918307
+Town Sports International Holdings,CFO,3,-0.38597700526372536
+Town Sports International Holdings,IR,1,0.31959166523956406
+Town Sports International Holdings,IR,2,-0.7489456393270137
+Town Sports International Holdings,IR,3,0.42935397408744047
+Town Sports International Holdings,Operator,1,0.2446011258719158
+Town Sports International Holdings,Operator,2,0.3995864975280756
+Town Sports International Holdings,Operator,3,-0.6441876234000132
+Trailer Bridge,Analyst,1,0.5679267437388087
+Trailer Bridge,Analyst,2,-0.7465144694248047
+Trailer Bridge,Analyst,3,0.1785877256859887
+Trailer Bridge,Operator,1,0.24729191067819964
+Trailer Bridge,Operator,2,0.3874417986984047
+Trailer Bridge,Operator,3,-0.6347337093766262
+Triangle Petroleum Corp.,Analyst,1,0.6149290570336028
+Triangle Petroleum Corp.,Analyst,2,-0.7753496682668797
+Triangle Petroleum Corp.,Analyst,3,0.1604206112332698
+Triangle Petroleum Corp.,CEO,1,1.415598836617669
+Triangle Petroleum Corp.,CEO,2,-0.7306479386721156
+Triangle Petroleum Corp.,CEO,3,-0.6849508979455704
+Triangle Petroleum Corp.,COO,1,-0.605663597280635
+Triangle Petroleum Corp.,COO,2,-0.5470537420388039
+Triangle Petroleum Corp.,COO,3,1.152717339319444
+Triangle Petroleum Corp.,VP,1,-1.553049708485607
+Triangle Petroleum Corp.,VP,2,0.26192805777544503
+Triangle Petroleum Corp.,VP,3,1.2911216507101557
+Trico Marine Services,Analyst,1,0.5615790176960003
+Trico Marine Services,Analyst,2,-0.7417327318597231
+Trico Marine Services,Analyst,3,0.1801537141637155
+Trico Marine Services,Operator,1,0.25185661643199564
+Trico Marine Services,Operator,2,0.3698205568849767
+Trico Marine Services,Operator,3,-0.6216771733169945
+Tricon Residential,Analyst,1,0.6176751661389837
+Tricon Residential,Analyst,2,-0.7776062071374903
+Tricon Residential,Analyst,3,0.1599310409984996
+Tricon Residential,CEO,1,1.2609573416202233
+Tricon Residential,CEO,2,-0.7866102148824649
+Tricon Residential,CEO,3,-0.4743471267377749
+Tricon Residential,CFO,1,0.6111692474976922
+Tricon Residential,CFO,2,-0.23853106918776534
+Tricon Residential,CFO,3,-0.37263817830993795
+Tricon Residential,CTO,1,-0.1375614308291211
+Tricon Residential,CTO,2,-0.2720157306772196
+Tricon Residential,CTO,3,0.409577161506319
+Tricon Residential,IR,1,0.2697518617228951
+Tricon Residential,IR,2,-0.7273415953080918
+Tricon Residential,IR,3,0.4575897335851875
+Tricon Residential,Operator,1,0.2540253717231836
+Tricon Residential,Operator,2,0.36381793004569757
+Tricon Residential,Operator,3,-0.6178433017689035
+TrueContext Corp.,Analyst,1,0.5966804584731389
+TrueContext Corp.,Analyst,2,-0.7641537281654791
+TrueContext Corp.,Analyst,3,0.16747326969233325
+TrueContext Corp.,CEO,1,1.400235382192303
+TrueContext Corp.,CEO,2,-0.7346030957399098
+TrueContext Corp.,CEO,3,-0.66563228645241
+TrueContext Corp.,CFO,1,0.7752661289227384
+TrueContext Corp.,CFO,2,-0.36821491303243736
+TrueContext Corp.,CFO,3,-0.40705121589031046
+TrueContext Corp.,IR,1,0.35998840511076574
+TrueContext Corp.,IR,2,-0.7662381159391298
+TrueContext Corp.,IR,3,0.4062497108283548
+TrueContext Corp.,Operator,1,0.242246678305087
+TrueContext Corp.,Operator,2,0.41184776056560146
+TrueContext Corp.,Operator,3,-0.6540944388707102
+Uni-S (R)lect,Analyst,1,0.6044928923443705
+Uni-S (R)lect,Analyst,2,-0.7691193250381407
+Uni-S (R)lect,Analyst,3,0.16462643269376312
+Uni-S (R)lect,CEO,1,1.407921327554618
+Uni-S (R)lect,CEO,2,-0.7335684485121031
+Uni-S (R)lect,CEO,3,-0.6743528790425317
+Uni-S (R)lect,CFO,1,0.5630200602240121
+Uni-S (R)lect,CFO,2,-0.19680205672209747
+Uni-S (R)lect,CFO,3,-0.36621800350192624
+Uni-S (R)lect,COO,1,-0.6064623700962002
+Uni-S (R)lect,COO,2,-0.5386979581432738
+Uni-S (R)lect,COO,3,1.1451603282394793
+Uni-S (R)lect,IR,1,0.22802619153661774
+Uni-S (R)lect,IR,2,-0.707092011662434
+Uni-S (R)lect,IR,3,0.4790658201258071
+Uni-S (R)lect,Operator,1,0.23797603644045448
+Uni-S (R)lect,Operator,2,0.42822077810598674
+Uni-S (R)lect,Operator,3,-0.6661968145464627
+Uni-S (R)lect,President,1,0.035978849058063485
+Uni-S (R)lect,President,2,-0.6814344723567325
+Uni-S (R)lect,President,3,0.6454556232986624
+UniTek Global Services,Analyst,1,0.621040070794273
+UniTek Global Services,Analyst,2,-0.779677121178828
+UniTek Global Services,Analyst,3,0.15863705038454806
+UniTek Global Services,CEO,1,1.393631395226929
+UniTek Global Services,CEO,2,-0.735655954903211
+UniTek Global Services,CEO,3,-0.6579754403237348
+UniTek Global Services,CFO,1,0.6831596841323009
+UniTek Global Services,CFO,2,-0.2955083639488722
+UniTek Global Services,CFO,3,-0.38765132018343906
+UniTek Global Services,CTO,1,-0.08042541475064285
+UniTek Global Services,CTO,2,-0.2717080779667029
+UniTek Global Services,CTO,3,0.3521334927173246
+UniTek Global Services,Chair,1,-0.21293853586245817
+UniTek Global Services,Chair,2,0.15642344585538775
+UniTek Global Services,Chair,3,0.05651509000704235
+UniTek Global Services,Head,1,-0.7097110293340575
+UniTek Global Services,Head,2,0.09049598304405639
+UniTek Global Services,Head,3,0.6192150462899988
+UniTek Global Services,IR,1,0.22164905238989124
+UniTek Global Services,IR,2,-0.7050848674631489
+UniTek Global Services,IR,3,0.4834358150732485
+UniTek Global Services,Operator,1,0.25006033035983605
+UniTek Global Services,Operator,2,0.37934811877989383
+UniTek Global Services,Operator,3,-0.6294084491397518
+UniTek Global Services,President,1,0.012798204282192992
+UniTek Global Services,President,2,-0.6527287873654467
+UniTek Global Services,President,3,0.6399305830832474
+VIVUS,Analyst,1,0.6402686749283975
+VIVUS,Analyst,2,-0.7920635722167735
+VIVUS,Analyst,3,0.151794897288369
+VIVUS,CEO,1,1.2913720933056776
+VIVUS,CEO,2,-0.7755560942299767
+VIVUS,CEO,3,-0.5158159990757174
+VIVUS,CFO,1,0.5681073753179741
+VIVUS,CFO,2,-0.20669850294232414
+VIVUS,CFO,3,-0.36140887237566144
+VIVUS,Operator,1,0.25278547827912257
+VIVUS,Operator,2,0.36683592348213945
+VIVUS,Operator,3,-0.6196214017612841
+VJGJ,Analyst,1,0.6402037209542042
+VJGJ,Analyst,2,-0.7919837922971316
+VJGJ,Analyst,3,0.15178007134292051
+VJGJ,CEO,1,1.3214307138335033
+VJGJ,CEO,2,-0.7638382258499219
+VJGJ,CEO,3,-0.5575924879835981
+VJGJ,CFO,1,0.5638648847874861
+VJGJ,CFO,2,-0.20062212866823498
+VJGJ,CFO,3,-0.3632427561192628
+VJGJ,CTO,1,-0.16356769940451946
+VJGJ,CTO,2,-0.2722016842021026
+VJGJ,CTO,3,0.43576938360660017
+VJGJ,IR,1,0.131883710488966
+VJGJ,IR,2,-0.6657206719736319
+VJGJ,IR,3,0.5338369614846568
+VJGJ,Operator,1,0.25718145149940747
+VJGJ,Operator,2,0.3501664600164131
+VJGJ,Operator,3,-0.6073479115158428
+VJGJ,President,1,-0.02073125455798709
+VJGJ,President,2,-0.6145123138765898
+VJGJ,President,3,0.6352435684345713
+Vector Group Ltd.,Analyst,1,0.6197399955359504
+Vector Group Ltd.,Analyst,2,-0.7788431251206674
+Vector Group Ltd.,Analyst,3,0.15910312958471
+Vector Group Ltd.,CEO,1,1.3302224960063964
+Vector Group Ltd.,CEO,2,-0.7619006029908073
+Vector Group Ltd.,CEO,3,-0.5683218930156057
+Vector Group Ltd.,CFO,1,0.585280457310306
+Vector Group Ltd.,CFO,2,-0.2186489110676121
+Vector Group Ltd.,CFO,3,-0.3666315462427051
+Vector Group Ltd.,COO,1,-0.6064658956351155
+Vector Group Ltd.,COO,2,-0.546733859386855
+Vector Group Ltd.,COO,3,1.1531997550219757
+Vector Group Ltd.,CTO,1,-0.041852824215154696
+Vector Group Ltd.,CTO,2,-0.2716989144317322
+Vector Group Ltd.,CTO,3,0.3135517386468661
+Vector Group Ltd.,IR,1,0.2636642620593602
+Vector Group Ltd.,IR,2,-0.7245795205162563
+Vector Group Ltd.,IR,3,0.46091525845688697
+Vector Group Ltd.,Operator,1,0.2556024816536233
+Vector Group Ltd.,Operator,2,0.35595819929424277
+Vector Group Ltd.,Operator,3,-0.6115606809478882
+Vector Group Ltd.,President,1,-0.01956243156320507
+Vector Group Ltd.,President,2,-0.6168155654163936
+Vector Group Ltd.,President,3,0.6363779969795931
+Verso Technologies,Analyst,1,0.5510224975827509
+Verso Technologies,Analyst,2,-0.7349343460219768
+Verso Technologies,Analyst,3,0.18391184843921846
+Verso Technologies,Operator,1,0.2474455010232583
+Verso Technologies,Operator,2,0.38921703053206824
+Verso Technologies,Operator,3,-0.6366625315553484
+Vigie SA,Analyst,1,0.6449184453523752
+Vigie SA,Analyst,2,-0.7947056353813587
+Vigie SA,Analyst,3,0.14978719002897659
+Vigie SA,CEO,1,1.2731224436538455
+Vigie SA,CEO,2,-0.7851355505438794
+Vigie SA,CEO,3,-0.48798689310998256
+Vigie SA,CFO,1,0.6107661696106965
+Vigie SA,CFO,2,-0.2424866680899978
+Vigie SA,CFO,3,-0.36827950152070954
+Vigie SA,CTO,1,-0.06940783205153593
+Vigie SA,CTO,2,-0.2717438949896134
+Vigie SA,CTO,3,0.3411517270411281
+Vigie SA,IR,1,0.034629883306397186
+Vigie SA,IR,2,-0.6246150877327508
+Vigie SA,IR,3,0.5899852044263445
+Vigie SA,Operator,1,0.24520444282934242
+Vigie SA,Operator,2,0.39895011429648797
+Vigie SA,Operator,3,-0.6441545571258525
+Vigie SA,President,1,-0.019427788934671578
+Vigie SA,President,2,-0.6180313706866573
+Vigie SA,President,3,0.637459159621323
+Waterman Logistics,Analyst,1,0.636656276543988
+Waterman Logistics,Analyst,2,-0.7896015457160889
+Waterman Logistics,Analyst,3,0.15294526917209372
+Waterman Logistics,CEO,1,1.3144478630921663
+Waterman Logistics,CEO,2,-0.7682884169722219
+Waterman Logistics,CEO,3,-0.5461594461199609
+Waterman Logistics,CFO,1,0.6221271612545445
+Waterman Logistics,CFO,2,-0.25005197729644935
+Waterman Logistics,CFO,3,-0.372075183958106
+Waterman Logistics,CTO,1,-0.0719274453423583
+Waterman Logistics,CTO,2,-0.27191163281840003
+Waterman Logistics,CTO,3,0.3438390781607371
+Waterman Logistics,IR,1,0.22507414939779175
+Waterman Logistics,IR,2,-0.7084559255414059
+Waterman Logistics,IR,3,0.48338177614360495
+Waterman Logistics,Operator,1,0.2576099464973494
+Waterman Logistics,Operator,2,0.3475495307761599
+Waterman Logistics,Operator,3,-0.6051594772735316
+Waterman Logistics,President,1,-0.04148865699745861
+Waterman Logistics,President,2,-0.594250587450507
+Waterman Logistics,President,3,0.6357392444479603
+WestRock Co.,Analyst,1,0.6004528413936754
+WestRock Co.,Analyst,2,-0.7664972625492804
+WestRock Co.,Analyst,3,0.1660444211555979
+WestRock Co.,CEO,1,1.4622229842104701
+WestRock Co.,CEO,2,-0.714935298841428
+WestRock Co.,CEO,3,-0.747287685369059
+Winthrop Realty Trust,Analyst,1,0.6219620622912431
+Winthrop Realty Trust,Analyst,2,-0.7802955757404695
+Winthrop Realty Trust,Analyst,3,0.15833351344921937
+Winthrop Realty Trust,CEO,1,1.2942184318545296
+Winthrop Realty Trust,CEO,2,-0.7755391759626705
+Winthrop Realty Trust,CEO,3,-0.5186792558918756
+Winthrop Realty Trust,CTO,1,-0.027048598487239922
+Winthrop Realty Trust,CTO,2,-0.27168245150594506
+Winthrop Realty Trust,CTO,3,0.29873104999316424
+Winthrop Realty Trust,IR,1,0.21041251532694713
+Winthrop Realty Trust,IR,2,-0.7015883917324269
+Winthrop Realty Trust,IR,3,0.49117587640547067
+Winthrop Realty Trust,Operator,1,0.2524144268259686
+Winthrop Realty Trust,Operator,2,0.3684116556413555
+Winthrop Realty Trust,Operator,3,-0.6208260824673462
+Winthrop Realty Trust,President,1,-0.024657179835780703
+Winthrop Realty Trust,President,2,-0.6117547020796161
+Winthrop Realty Trust,President,3,0.6364118819153914
+Wireless Telecom Group,Analyst,1,0.6145871541813536
+Wireless Telecom Group,Analyst,2,-0.7755284456567059
+Wireless Telecom Group,Analyst,3,0.1609412914753453
+Wireless Telecom Group,CEO,1,1.3680368403403618
+Wireless Telecom Group,CEO,2,-0.7443845031853015
+Wireless Telecom Group,CEO,3,-0.6236523371550771
+Wireless Telecom Group,CFO,1,0.6935893462438104
+Wireless Telecom Group,CFO,2,-0.30388882272365025
+Wireless Telecom Group,CFO,3,-0.38970052352017037
+Wireless Telecom Group,CIO,1,3.7705117022569885
+Wireless Telecom Group,CIO,2,-1.3687249099868015
+Wireless Telecom Group,CIO,3,-2.401786792270156
+Wireless Telecom Group,CTO,1,-0.08678565301071446
+Wireless Telecom Group,CTO,2,-0.27192605174891854
+Wireless Telecom Group,CTO,3,0.3587117047596119
+Wireless Telecom Group,IR,1,0.3015537807597917
+Wireless Telecom Group,IR,2,-0.740455144196403
+Wireless Telecom Group,IR,3,0.43890136343660213
+Wm Morrison Supermarkets Ltd.,Analyst,1,0.5972361934193444
+Wm Morrison Supermarkets Ltd.,Analyst,2,-0.7644862928827272
+Wm Morrison Supermarkets Ltd.,Analyst,3,0.1672500994633756
+Wm Morrison Supermarkets Ltd.,CEO,1,1.415475297569698
+Wm Morrison Supermarkets Ltd.,CEO,2,-0.7346227799822793
+Wm Morrison Supermarkets Ltd.,CEO,3,-0.6808525175874353
+Wm Morrison Supermarkets Ltd.,CFO,1,0.7472877532578553
+Wm Morrison Supermarkets Ltd.,CFO,2,-0.3499953136452858
+Wm Morrison Supermarkets Ltd.,CFO,3,-0.3972924396125791
+Wm Morrison Supermarkets Ltd.,IR,1,0.23215540719760924
+Wm Morrison Supermarkets Ltd.,IR,2,-0.7115628007726769
+Wm Morrison Supermarkets Ltd.,IR,3,0.47940739357505835
+Wm Morrison Supermarkets Ltd.,Operator,1,0.24705412041968075
+Wm Morrison Supermarkets Ltd.,Operator,2,0.3896277383889635
+Wm Morrison Supermarkets Ltd.,Operator,3,-0.6366818588086665
+Xinergy Ltd.,Analyst,1,0.6260026870143587
+Xinergy Ltd.,Analyst,2,-0.7823914367067054
+Xinergy Ltd.,Analyst,3,0.15638874969233982
+Xinergy Ltd.,CEO,1,1.3936024201037955
+Xinergy Ltd.,CEO,2,-0.738327569201618
+Xinergy Ltd.,CEO,3,-0.6552748509021943
+Xinergy Ltd.,CFO,1,0.6787657739327962
+Xinergy Ltd.,CFO,2,-0.29423887732542253
+Xinergy Ltd.,CFO,3,-0.384526896607384
+Xinergy Ltd.,IR,1,0.24234784646707935
+Xinergy Ltd.,IR,2,-0.7154244861504648
+Xinergy Ltd.,IR,3,0.4730766396833763
+Xinergy Ltd.,President,1,-0.010842193529037043
+Xinergy Ltd.,President,2,-0.627111838695852
+Xinergy Ltd.,President,3,0.6379540322248831
+eMagin Corp.,Analyst,1,0.5972496044184336
+eMagin Corp.,Analyst,2,-0.7643044393473761
+eMagin Corp.,Analyst,3,0.16705483492893558
+eMagin Corp.,CEO,1,1.3978640953991988
+eMagin Corp.,CEO,2,-0.7346274838943692
+eMagin Corp.,CEO,3,-0.6632366115048466
+eMagin Corp.,CFO,1,0.7329650050246489
+eMagin Corp.,CFO,2,-0.3340909060896318
+eMagin Corp.,CFO,3,-0.398874098935027
+eMagin Corp.,COO,1,-0.6075049711361558
+eMagin Corp.,COO,2,-0.5441939729193614
+eMagin Corp.,COO,3,1.1516989440555225
+eMagin Corp.,CTO,1,-0.10405000499666842
+eMagin Corp.,CTO,2,-0.27190144487553447
+eMagin Corp.,CTO,3,0.3759514498721816
+eMagin Corp.,IR,1,0.26432325111325067
+eMagin Corp.,IR,2,-0.7241258374461056
+eMagin Corp.,IR,3,0.45980258633284565
+eMagin Corp.,Operator,1,0.24377087828392618
+eMagin Corp.,Operator,2,0.40458109298596195
+eMagin Corp.,Operator,3,-0.6483519712699098
+eMagin Corp.,President,1,-0.003215016651579125
+eMagin Corp.,President,2,-0.6332778024344153
+eMagin Corp.,President,3,0.6364928190859885

@@ -1,0 +1,99 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+Babak Pedram — Co-Founder, OverActive Media Group
+Alvaro Pombo — Founder, Chief Executive Officer & Director, ProntoForms Corp.
+David Croucher — Chief Financial Officer, ProntoForms Corp.
+Gabriel Leung — Analyst, Beacon Securities Ltd.
+
+Management Discussion Section
+
+Question And Answer Section
+
+Good morning, ladies and gentlemen, and welcome to the ProntoForms Corporation Second Quarter 2021 Results Conference Call. At this time, all participant lines are in a listen-only mode but, following the presentation, we will conduct a question-and-answer session. [Operator Instructions] Also note that this call is being recorded on Thursday, August 19, 2021.
+
+I now would like to turn the conference over to Babak Pedram, Director of Investor Relations. Please go ahead, sir.
+
+Thanks very much. Good morning, everyone. Before we begin, I will read our cautionary note regarding forward-looking information. Certain information to be discussed during this call contains forward-looking statements within the meaning of applicable security laws including, among others, statements concerning the company's 2021 objectives, the company's strategy to achieve those objectives, as well as statements with respect to management's beliefs, plans, estimates, and intentions, and similar statements concerning anticipated future events, results, circumstances, performance, or expectations that are not historical facts.
+
+Such forward-looking statements reflect management's current beliefs and are based on information currently available to management and is subject to a number of significant risks and uncertainties that could cause the actual results to differ materially from those anticipated.
+
+Also, our commentary today will include adjusted financial measures, which are non-GAAP measures. These should be considered as a supplement to, and not as a substitute for GAAP financial measures. Reconciliations between the two can be found in our MD&A, which is available on sedar.com and our website. And finally, note that, because we report in US dollars, all amounts discussed today are in US dollars, unless otherwise indicated.
+
+With that, I will hand over the call to our CEO, Mr. Alvaro Pombo, to go over our operational highlights for the quarter.
+
+Hey. Thank you, Babak, and thank you, Sylvie. Good morning, everybody, and welcome to our company's conference call. Before I hand the call over to our CFO, Dave Croucher, to discuss this quarter's financials, I would like to take some time to discuss the ProntoForms business.
+
+I'm pleased to report a steady growth in our annualized recurring revenue, ARR, which increased by 4.2% in the 2021 second quarter following an increase of 4.7% in the first quarter in Q1 2021. We are in the right space at the right time and have an excellent product that is well acknowledged as a leader in the industry for its ease of building sophisticated workflows to support field workers.
+
+Look no further than the G2 Crowd's great report to mobile forms automation that quarter-over-quarter identifies us as leaders in the space. There are many macro trends that support this strong interest for our solution. Four key points here: Number one, companies are trying to backfill and rapidly onboard new field employees to replace their experienced, retiring technicians. It's happening everywhere. Two, assets are becoming more complex and more interconnected, which adds new layers of difficulty to field service. The third one, work and safety compliance have become more stringent, harder to do. And finally, our customers are experiencing an increased demand for fieldwork due to rapid changes in the economy, which will grow even more with the US infrastructure build just approved.
+
+All of these trends drive a quantifiable demand for technology that helps business improve field technician enablement, productivity and compliance. Bookings for the quarter continue to demonstrate that beyond a couple of isolated events in 2020, namely the pandemic and AT&T cleanup, we have been growing in a predictable manner for several quarters.
+
+We have a sound strategy in place and continue to improve execution with good team additions like our recently announced CRO, Mike Kramer. We continue to steadily attract new large enterprises and commercial logos. We all know that our product expands once we establish a foothold with our customers. So we have been investing significantly in our expansion motions around people, processes, community, which we'll be launching soon, learning assets, targeted marketing, and more precision on vertical solution descriptions. All these to accelerate one thing, propagation of the product inside the organizations.
+
+So let me talk about that propagation and some of those examples, and let's speak about those customers and those key examples that I referred to. Number one, a Fortune 500 HVAC and refrigerator manufacturer deployed ProntoForms to over 1,000 technicians to improve asset management. They use ProntoForms as an extension to their current field service management solution to tackle complex workflows and produce professional services documentation. They wanted to provide regional teams with customizable document control while maintaining the consistency of company-wide operational data for assets deployed in customer locations.
+
+Number two, an enterprise utility company focused on construction and maintenance in the utility industry expanded its commitment to ProntoForms by over $43,000 of ARR. The company uses ProntoForms to handle assets and compliance inspections on large-scale electric, natural gas, and communications infrastructure projects.
+
+Third one, one of the world's largest HVAC companies expanded its commitment by over $73,000 of ARR for a deployment in EMEA. They now use ProntoForms in the field to empower thousands of field service technicians globally. They build custom apps to improve key business processes, including new equipment installations, maintenance and repair, detailed and rich data collected in the field is leveraged by all facets of the organization, from design and manufacturing through preventive maintenance, all combining to improve asset uptime driving higher [ph] C-set (06:18).
+
+Fourth one, a consulting firm that provides solutions for operations automation, and efficiency expanded its commitment from ProntoForms by $40,000 of ARR. They use our platform for job tickets, work orders, as well as managing and purchasing inventory for customer projects. So, these are some examples of positive business outcomes companies derive from our product as well as the diversity and the continuum of solutions that people realize when deploying our product.
+
+I also want to invite you all to the call and your colleagues to our EMPOWER'21 event, which will be virtual. It's a full day of conversation with our customers, our partners, plus our employees, illustrating constant innovation and improvements for field workers. We also have great keynotes and presentations. The best one is mine. I'm just kidding. But seriously, hearing directly from our customers will bring to life the excitement and potential of the opportunity that we have in our hands. Registration is free. Just visit empower21@prontoforms.com to come, and seriously join us. We'd love to have you there.
+
+I'm very happy with how our product is evolving in support of our strategy. Over the last quarter, we saw the deployment of features that facilitates our integration with Salesforce. We made further investments in that partnership, as well as ServiceMax, and we're seeing great benefits in both new businesses and expansions. We also released some great enhancements around search, ingestion of data, and document consumption in the field. Learn more at our EMPOWER Conference. Make no mistake that our myopic focus on field worker continues to pay off. And we have a road map of great functionality to enable more efficiency for both citizen developers, that are the ones who build these workflows, and the field workers, who executes them in the front line.
+
+Last but not least, we are finalists in a couple of amazing people and culture awards. As I said before, we have a great team in place, but more importantly, a great culture centered around our three core values: solve, perform, and care. Considering the large culture shifts that organizations are making lately, it is great for our team to be recognized as leaders by experts for internalizing and growing a culture that matters to people. These values are not just simply words on a wall. They are the way we naturally act and perform, and it represents the talent we attract.
+
+As CEO, I'm very proud that we have achieved more – at what we have achieved, but more importantly, at the potential that is unveiling in front of our eyes. We empower field workers to be safer and more effective at their work, and that's being shown everywhere.
+
+I will now defer to Dave to discuss our financial results for the quarter. Dave?
+
+Thank you, Alvaro. Good morning, and nice to have everyone on the call. I'll go through the financial highlights, but I refer to the MD&A on sedar.com for more details. Total revenue in Q2 2021 was $4.8 million, a 5% increase from Q1 2021 and a 16% increase compared to Q2 2020. Recurring revenue in Q2 2021 was $4.6 million, an increase of 6% sequentially and an increase of 17% year-over-year. Our annualized recurring revenue base or ARR base as of June 30, 2021 was $18.7 million, representing an increase of 4.2% sequentially and an increase of 15.8% from June 30, 2020. Bookings in Q2 2021 grew sequentially by 4.2%, following 4.7% sequential growth in Q1. Enterprise remains strong as customers with greater than $100,000 of ARR remains at 40%, flat from last quarter and an increase of 38% from the year prior.
+
+We also added a number of new enterprise-sized customers that are attractive logos with good expansion opportunity. The return to steady growth is encouraging, but we are looking for more growth in our key verticals, and we are continuing to invest in our go-to-market activities to push for the higher growth. Also, recall that we had higher churn in Q4 2020 as we sunsetted AT&T relationship in that quarter. There's been no ongoing churn effect from that.
+
+Revenue from professional services was $291,000 in Q2 2021, a decrease of 5% sequentially and an increase of 7% from Q2 2020. Gross margin on total revenue for the second quarter was 85%, which is consistent sequentially and a decrease from 88% for the same period last year. Gross margin on recurring revenue in Q2 2021 was 90%, slightly down from 91% in Q1 and from 93% in Q2 2020. Recall that gross margins for the comparative Q2 2020 were boosted temporarily by pandemic-related government funding.
+
+Operating expenses in Q2 2021 were $5.2 million, an increase of 3% sequentially and up 55% from Q2 2020. Once again, recall that, in Q2 2020, we took a more careful approach to spending, plus we received the one-time pandemic-related government funding that significantly reduced our OpEx and briefly swung us to positive earnings in that particular quarter. The increase in gross bookings in the second half of 2020 and into 2021, mainly in our key verticals, has reinforced our resolve to return to the pattern of investing more in product management and go-to market activities around these key enterprise verticals.
+
+Loss from operations in Q2 2021 was $1.1 million versus loss from operations of $1.1 million in the first quarter of 2021 and a gain of $347,000 in Q2 2020. Net loss for Q2 2021 was $1.1 million compared to $1.1 million in the first quarter of 2021, and a net gain of $208,000 in Q2 2020. Non-GAAP loss from operations for Q2 was $952,000 compared to a loss of $904,000 in Q1 and a gain of $446,000 in Q2 2020. Our cash balance at the end of June 30, 2021 was $7.1 million compared to $7.7 million at December 31, 2020.
+
+To conclude, our Q2 and first half of 2021 is a contrast to the lower growth and lower EBITDA losses we saw in the first half of 2020. We are fortunate in our growing SaaS business that we can toggle the rate of spend faster or slower to match or drive growth. We are encouraged by the steadiness of our net bookings, and by the progress we are making in adding new enterprise logos with strong potential for expansion.
+
+We are investing more in new product and sales to push our go-to-market activities to take advantage. We want to get back to the compounding nature of growth and reinvestment in sales and marketing to get even more growth. We continue to get the benefit of mitigating our losses with cash flow from prepaid enterprise contracts, and we finished Q2 with a strong cash position, and we feel that we have the resources to be able to push for more growth.
+
+That concludes the financial highlights. With that, I will ask the moderator to open the line for questions. Thank you.
+
+Thank you, sir. [Operator Instructions] And your first question will be from Gabriel Leung at Beacon Securities. Please go ahead.
+
+Good morning, and thanks for taking my questions, and congrats on the quarter. Just a couple of questions here. So, first, Alvaro, can you talk a little bit about the – what you're seeing in the demand environment? Are you still feeling some lingering impacts from COVID? And have some of your customers talked about sort of their views on how the rest of the calendar year is going to shape up in light of some of the ongoing uncertainties, I guess, around that front?
+
+Yeah. Hey, Gabe. Good – thank you for coming, and thanks for the question. It's good to hear you. Look, I'll tell you, we were very, very, call it, with the ear tuned to anything related to COVID for many quarters. We're not hearing it anymore, okay? We're not hearing delays in buying. We're not hearing anything that is COVID-related, but it's such a big word that definitely what we're hearing our customers saying is the impact that they have in the field. They're all struggling with bringing new people in. They're all struggling with training, with making sure that they're – and there was a lot of retirement of people as well. There has been a fundamental change in the field industry, but it's, I mean, people related.
+
+So how does that connect to our product? In those conversations with those customers, we're looking at things to help them with, and emphasize that our product, I mean, we're seeing more and more use cases around training, around bringing people up to speed, around compliance of what they do because the younger workforce that is coming in. And that's their biggest challenge, materials and people. And we have those conversations and they're all in the eyes of, how can we help them, which is great actually. It's a great conversation to have with our largest customers.
+
+Got you. Thanks for that. And secondly, so you talked, Dave, I guess in your preamble, you talked a little bit about increasing investments to capitalize on the growth opportunities, which you have been already. But I'm curious if there's been any changes in terms of, your thought process in terms of potentially accelerating the current investments to capitalize on the opportunities in front of you and what that might mean in terms of your willingness to take on additional free cash flow burn, and what that means in terms of your targets for recurring revenue growth over the next couple of years?
+
+Yeah, great question, Gabriel. So, I think, the way to look at it is, we did get ahead of the investment. So, we started increasing in Q4 just based on good gross bookings in Q3 last year. And then, we continued that. And as you know, we've refocused to really put together strong stories around the verticals, taking good stories from existing customers and packaging that so we can have better conversations with new or customers that haven't expanded as much yet.
+
+And that's still, I'd say, a work in process. So, we're still working through that and we're seeing some good effects from that. We are attracting new enterprise customers. We're attracting good customers through our channels, our partner channels, and they have really good opportunity for growth. And while we would say that our first half of the year has been steady growth, we haven't got the additions in big chunks that we saw in earlier periods.
+
+So, the way that we look at it is, if you go back to 2019 before the pandemic, we were growing the base at the high 20s, and I want to say 27% to 28%. That's a good rhythm that we were in at that time. And then things slowed down last year. We grew by only 10%. And then, this year, we're on a pace of around 20% for the first half of the year.
+
+So, we're not all the way back. And maybe there is some overhang from the pandemic, but it's more around execution. And we feel like the building blocks are there and the pieces are there. There's nothing different now than what we saw in 2019 in a major way. So, I feel like that's really what we're pushing for.
+
+Got you. Thanks for the feedback and congrats again on the quarter.
+
+Great. Thanks, Gabriel.
+
+Thank you, Gabe.
+
+Thank you. [Operator Instructions] And at this time, gentlemen, we have no further questions registered. Please proceed.
+
+Okay. So, thank you, Sylvie again. We plan to continue investing in our product and go-to market, specifically in the enterprise, as we've been doing. We are excited about what's ahead for the field service management market and how our offering fits in that market. We continue to see the next phase of growth of our customers and our company.
+
+And that's all I have for you this morning. I want to thank everybody for spending their time with us. And as always, I would like to thank you for your continued support. Thank you and have a great day.
+
+Thank you, sir. Ladies and gentlemen, this does indeed conclude your conference call for today. Once again, thank you for attending. And at this time, we do ask that you please disconnect your lines.

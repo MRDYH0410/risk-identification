@@ -1,0 +1,163 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+Kevin McGowan — Chief Financial Officer & Vice President, PCTEL, Inc.
+David A. Neumann — Chief Executive Officer, PCTEL, Inc.
+Jaeson Allen Min Schmidt — Analyst, Lake Street Capital Markets LLC
+John H. Bair — Analyst, Ascend Wealth Advisors LLC
+
+Management Discussion Section
+
+Question And Answer Section
+
+Welcome to PCTEL's First Quarter 2021 Earnings Release Conference Call. At this time, all participants are in a listen-only mode. At the conclusion of our prepared remarks, we will conduct a question-and-answer session. As a reminder, this conference is being recorded.
+
+I will now turn the call over to Kevin McGowan, the Company's CFO.
+
+Thank you for joining us on today's conference call to discuss PCTEL's first quarter 2021 financial results. With me today is David Neumann, the company's CEO.
+
+Before we begin, let me remind you that this call may contain forward-looking statements and projections based upon current circumstances. While these forward-looking statements and projections reflect PCTEL's best current judgment, they are subject to risks and uncertainties, particularly related to the COVID-19 pandemic and the impact of our acquisition of Smarteq Wireless AB that could cause actual results to differ materially from these forward-looking statements and projections.
+
+Risk factors that could cause PCTEL's actual results to materially differ from its projections are discussed in the earnings press release which was issued today and the company's annual report on Form 10-K and subsequent filings. The company assumes no obligation to update forward-looking statements or information which speak as of their respective dates.
+
+Additionally, our commentary will include reference to the following non-GAAP measures: non-GAAP earnings per share and adjusted EBITDA. We believe these non-GAAP measures facilitate comparability of results over different periods. A full reconciliation of these GAAP measures to our non-GAAP measures is included in our quarterly earnings press release that was issued earlier today.
+
+I'm now pleased to turn the call over to David Neumann.
+
+Thank you, Kevin. Welcome and thank you for joining us this afternoon.
+
+In addition to providing commentary on the first quarter financial results, we're excited to share that we acquired Smarteq Wireless for approximately $6.8 million, which is less than 1 times projected 2021 revenue. We will make further investments in the company and expect a modest positive impact on the bottom line this year. Smarteq is based near Stockholm, Sweden, specializing in industrial IoT and vehicular antennas with particular focus on smart metering, electric vehicle charging stations, and heavy construction and forestry vehicles.
+
+We expect that the US infrastructure bill and EU incentives to use electric vehicles will drive demand for charging stations with wireless connectivity. Smarteq's antenna products complement PCTEL's offerings in two of our primary vertical markets: industrial IoT and intelligent transportation.
+
+While a majority of Smarteq's sales are in the European Union, we believe we can create demand for their products in the US where a majority of PCTEL's current end customers are located. The acquisition expands our capabilities to sell our GNSS antenna products and IoT devices in Europe through Smarteq's sales team, their French subsidiary, and our now combined established distribution channels.
+
+To summarize, we believe this acquisition will contribute to revenue and earnings growth, expand PCTEL's presence in Europe, add product lines in our key vertical markets, increase our global R&D capabilities, and provide support to launch our IoT devices in Europe. We're excited to have the Smarteq team join us, and we will work with them to provide excellent support to our expanded customer base.
+
+In addition to our M&A activity, we've made progress in our existing product lines that support global 5G deployments and industrial IoT applications. I'll review the Q1 results, and then will discuss our organic growth initiatives in more detail.
+
+As you may have seen in our press release issued after the market close, the first quarter results were in line with our expectations despite ongoing COVID-19 challenges such as supply chain lead times and transportation delays. We will continue to work closely with our suppliers and customers to limit the impact of these delays.
+
+In Q1, we achieved $17.7 million in revenue, approximately $700,000 in adjusted EBITDA and breakeven non-GAAP earnings per share. Revenue was nominally higher year-over-year and EBITDA was approximately the same in the first quarter 2021 compared to the prior year. We achieved gross margins of 47.1% for the quarter, slightly higher than the first quarter last year.
+
+Our incoming order rate for the first quarter met our expectations. We believe that quarterly revenue and earnings will increase through the remainder of the year driven by the improving US economy, the global rollout of 5G, an anticipated increase in European revenue as a result of the Smarteq acquisition, and the demand for industrial IoT devices as the world becomes more reliant on wireless connectivity.
+
+In addition to inorganic growth, we are expanding our industrial IoT product lines and developing solutions to dominate 4G/5G radio access network testing. With respect to industrial IoT devices, our industrial Wi-Fi access point is in the final stages of FCC certification for US markets. The European approval is complete. Several of our industrial process automation customers are integrating the access point, and production will begin upon completion of FCC certification. As mentioned on previous calls, we believe deliveries will begin in the second half of this year and be a long-term revenue generator for the company.
+
+With respect to antennas, we are actively engaged with several of our large industrial/enterprise OEM customers to provide antenna solutions for their planned rollout of 5G devices. Recently, our seven-in-one multi-band antenna was selected by a major modem/router OEM for their new 5G modem for industrial IoT and enterprise applications. Our intelligent transportation segment remains strong, and demand within precision agriculture increased in Q1.
+
+We continue to see momentum in utilities with several new projects being driven by a move to cellular from private networks. In this space, we had a key design win for a multi-band antenna and have received the first significant order.
+
+In rail, we are working with Tier 1 railroads on sizable new opportunities for multi-band and base station antennas for improved connectivity using cellular for fringe area coverage and for the migration to 4G and eventually to 5G. Besides benefiting our antenna product lines, we believe this migration to cellular networks and other verticals such as utilities and rail will also benefit our scanner business.
+
+I also note that we recently added two strategic distribution partners to increase our reach into IoT, intelligent transportation, and enterprise wireless markets. These distributors will complement our expansion in Europe through Smarteq. We are confident that targeting specific markets through distribution channels that stock products will contribute meaningful, long-term revenue growth.
+
+In addition to the demand for antennas, we believe 5G deployments through 2021 will result in another strong year for scanning receiver products. Following our historic record-setting quarter for test and measurement revenue ending December 2020, we achieved our highest test and measurement revenue for a first quarter in the past 15 years. We were pleased to see strong 5G scanner revenue in the quarter for sales in Europe and Asia as operators secure spectrum and begin deploying networks.
+
+Globally, 5G deployment is still in an early stage given that less than 20% of the global operators that currently use LTE have deployed 5G. The US and Northeast Asia markets continue to deploy 5G aggressively for both public and private networks. COVID has slowed deployments in regions most impacted by the pandemic. But once COVID is under control, we believe there will be pent-up demand as those countries to upgrade to 5G.
+
+4G and 5G cellular deployments drive most of our scanner revenue, but we're extremely pleased with our success in selling our public safety scanner solution, which is used to test in-building wireless communications for first responder networks. More than 100 engineering companies rely on PCTEL's innovative public safety tools to test the reliability of wireless communication systems used by first responders. We saw incremental revenue growth for scanning receivers for public safety markets in the US as COVID occupancy restrictions begin to ease and access to building for testing improves.
+
+We're making the testing of public safety networks easier by launching our cloud-based SeeHawk Central workflow automation reporting tool for public safety projects. This analysis tool has generated positive feedback because it helps engineers manage data collected over time across many buildings on one platform and efficiently generate reports.
+
+We also recently joined The Critical Communication Association or TCCA, a global organization for the critical communication sector. PCTEL will assist in supporting testing requirements for first responder networks, whether they are FirstNet/LTE, 5G, P25, DMR or TETRA. The public safety market for both antennas and scanning receivers in the US is recovering, and we believe this market will contribute meaningful revenue in 2021.
+
+With that, I will now turn the call over to Kevin for a closer look at our first quarter and a discussion of our financials. Kevin?
+
+Thank you, David. I will review the financial results for the first quarter ended March 31, 2021, and I will provide second quarter 2021 guidance. As David mentioned, our first quarter results were within our guidance despite challenges with transportation delays in our supply chain that impacted revenues for antennas and industrial IoT devices.
+
+Revenues of $17.7 million, which were at the lower end of our guidance in the first quarter 2021 were 1.1% or approximately $200,000 higher compared to the first quarter 2020. By product line, it was our best first quarter for test and measurement product revenues with revenues of $6.2 million, an increase of $0.1 million compared to the first quarter 2020.
+
+The first quarter 2021 revenues for test and measurement products were 2% better than last year as revenues for US public safety applications offset lower US revenues for 5G technologies compared to the first quarter 2020. Revenues for antennas and industrial IoT devices were $11.7 million, an increase of $0.3 million compared to the first quarter 2020. The increase in revenues for antennas and industrial IoT devices was from fleet and transit applications.
+
+The first quarter 2021 gross profit margin on a GAAP basis was 47.1%, slightly higher than the first quarter 2020 gross profit margin of 46.9%. An increase in the gross profit margin percentage for test and measurement products offset a lower gross profit margin percentage for antennas and industrial IoT devices.
+
+The gross profit margin percentage for test and measurement products was 3.3% higher in the first quarter 2021 compared to the prior year because of lower intangible asset amortization and lower employee costs. The gross profit margin percentage for antennas and industrial IoT devices was 2.2% lower in the first quarter 2021 compared to the prior year due to less favorable product mix, the unfavorable impact of foreign currencies related to manufacturing costs, and higher logistics costs.
+
+Operating expenses on a non-GAAP basis were $8.5 million in the first quarter 2021, approximately the same as the first quarter 2020. By functional area, higher R&D and G&A expenses in the first quarter 2021 offset lower sales and marketing expenses compared to the prior year.
+
+Sales and marketing expenses declined compared to the prior year due to lower travel expenses as business travel is still very limited during this recovery period from COVID-19. R&D expenses increased due to expenses for new product development, and G&A expenses increased with professional fees associated with the acquisition of Smarteq.
+
+Net other income was $39,000 in the first quarter 2021 compared to $198,000 in the first quarter 2020. The lower net income was primarily due to lower interest income because of lower interest rates.
+
+Adjusted EBITDA of approximately $700,000 and adjusted EBITDA as a percentage of revenue of 4% were approximately the same as the first quarter 2020. Non-GAAP diluted earnings per share was approximately $0 in the first quarter 2021 compared to $0.01 in the first quarter 2020.
+
+Cash and investments, including long-term investments, were $40.6 million at March 31, 2021. Cash and investments declined by approximately $400,000 compared to year-end 2020 as we generated free cash flow of $1.3 million but used $1.7 million on financing activities related to our quarterly dividend and payment of payroll taxes related to stock compensation programs. While we only purchased a small number of shares during the first quarter under our share repurchase program, we still may repurchase up to $3.2 million of our common stock through the end of 2021 under the existing share repurchase program. In April, we used $6.8 million of available cash to purchase Smarteq as David mentioned earlier.
+
+We will continue to be subject to uncertainties with the global recovery from the pandemic, but as David discussed, we expect improvement in our financial results compared to the first quarter.
+
+For the second quarter 2021, we expect revenues between $21 million and $22 million, of which we expect Smarteq to contribute revenues in an approximate range of $1 million to $1.4 million for the balance of the quarter. We project our GAAP gross profit margin percentage to be in the range of 46% to 47% and the non-GAAP earnings per share to be in the range of $0.04 to $0.07.
+
+We are making these projections based upon current information and circumstances which could change. We continue to believe that the second half of the year will be stronger as the global economy recovers. We will continue to manage our costs and our working capital through the year, but we will make investments necessary to grow the business.
+
+David?
+
+Thank you all for joining us. Before we take questions, I would like to share a few closing comments. We're on track and we see continual improvement in revenue and earnings through the year based on the rate of 5G deployments, IoT design wins for both antennas and devices, contributions from Smarteq, and the increasing rate of incoming orders for the antenna products. The pandemic and regional hot spots will still create risks to industries which we operate, but we remain confident that our business will grow this year. We're extremely pleased with adding Smarteq to our team. And with our strong balance sheet, we will continue to look for additional inorganic opportunities that meet our capital allocation goals.
+
+Kevin and I will be attending the Sidoti Virtual Conference on May 19 and 20. We will also be attending the East Coast IDEAS Investor Conference virtually on June 16. We look forward to meeting with investors at these conferences.
+
+With that, Kevin and I are available to take questions. Operator?
+
+Thank you. [Operator Instructions] And we do have a question coming in from Jaeson Schmidt. Jaeson, your line is live. Please announce your affiliation and pose your question.
+
+Hey, guys. Thanks for taking my questions. Just curious if you're seeing any impact from the supply chain constraints or if you anticipate seeing that tightening within the supply chain impacting you guys going forward.
+
+Yes. So, I think we have mentioned in the prepared remarks that we see really two impacts. One is with supply chain, longer lead time on some of the components; and then the other impact is just logistics. And given that we manufacture a good portion of the antenna products out of China, the transportation to the US has become a bit of a challenge.
+
+Now, that being said, our supply chain team and customer service team has been working on this since the beginning of the pandemic. And we've been able to manage supply chain, even with the increased lead time. And in fact, working very closely with customers, they realize that this is a global challenge. And some of our larger customers have actually improved their forecasting and given us a longer lead time on the forecast, so we can manage the supply chain.
+
+So, yes, this is a – I think this is a global challenge, and we will continue managing it as we need to. I don't know when it's going to end, but I do think it's – we have a pretty good handle on it.
+
+Okay. Did that take away some revenue in Q1? And I guess relatably, is that impacting what guidance could have been for Q2 as well?
+
+Jaeson, it did impact revenues for Q1. It did – we didn't take into account for Q2. But as David mentioned, we had more time to prepare and work with our customers and work with our suppliers. So, we don't think it has big impact in Q2.
+
+Yeah. And historically, Q1 is typically light anyways, especially on – even though we did really well with the scanning receivers. Those forecasts or budgets don't usually get approved until later in the quarter. And then you have Chinese New Year with manufacturing. So, the – Q1 is usually a bit lighter, Q2 is much stronger. And we do see improvements, but we're being conservative because of some of potential challenges.
+
+Okay. That's helpful. And then last one for me and I'll jump back into queue. Looking at the Smarteq acquisition, how should we think about the potential growth rate there? Or what was sort of the historical growth rate of that business?
+
+Yeah. Smarteq, I think it's going to be consistent with the growth rate in the markets that we focus on as well. So, if you break down the products, they fit very nicely in our intelligent transportation, a vertical market that we focus on; and then also industrial IoT. So, they – they're in, I would say, some new and interesting areas such as the charging stations for electric vehicles which were not in, but still in the IoT space. I would estimate that their growth rate in those spaces would be similar to what we estimate for our antennas. So, it's probably high single digits to low double digits growth for the antenna business.
+
+I think the biggest difference between Smarteq and PCTEL is a majority of our revenue is in the US; and a majority, if not all, revenue for Smarteq is coming from Europe.
+
+Okay. Thanks a lot, guys.
+
+Thanks, Jaeson.
+
+Thanks, Jaeson.
+
+Thank you. [Operator Instructions] And we did have another question coming from John Bair. John, your line is live. Please announce your affiliation and pose your question.
+
+Thank you. John Bair with Ascend Wealth Advisors. Just wondering if you could speak to what you're seeing in the area of being able to get back into buildings and lining up your testing systems and so forth in that regard.
+
+Yeah. I think there's two components there. One, many of the buildings are starting to allow visitors back in the buildings. So, it helps our engineering services companies which would purchase the scanning receiver and public safety solution from PCTEL. But I also believe that over time, the building owners realize it's much easier to test buildings when they're empty.
+
+So, in the last, I would say, quarter, maybe a little bit longer, we've been – or our engineering services company partners have been able to get in buildings, because they're empty. And they can do their testing, they don't have to necessarily worry about keeping distance with the people in the building. So, between those two, that business has started to pick up. It's a very strong area for PCTEL because based on our scanning receiver history with the cellular market, it was relatively – and I don't want to make – oversimplify for the engineering team. But relatively straightforward, to add the P25 and other protocols to our scanning receiver.
+
+So, we're able to get to the market first. As I mentioned previously, we've got over 100 engineering services company using the tools. And now that they can get into the building, we're seeing an uptake in purchases of that system.
+
+Do you see any potential issue with – I mean, hearing a lot of different companies and different industries saying they're going to bring their workforce back and so forth. And do you think there's any potential issue with being able to meet an increased interest in the building management companies to allow for more servicing and testing and so forth? In other words, any kind of personnel issues, staffing issues?
+
+I don't know if I understand your question, John.
+
+Well, if you're – if these companies and building managements are starting to open up and allow...
+
+Right.
+
+...the stuff to come in, are – the folks that are actually doing the testing and so forth, is there a potential issue that they won't be able to meet – have the personnel to do that? I mean, it'd be a nice problem, I guess, but...
+
+Yeah. The, I would say, rate of purchases of our tools is pretty strong. I mean, it's not that – I don't think there's a shortage of engineers to do the testing. I don't think that's really an issue. And keep in mind too that our tools are sold to engineering services companies that are basically spread out across United States. So, yeah, quite a bit of competition in each city.
+
+So, I would believe or think that if there was a shortage from one engineering company in an area, that some of the other companies could step up and fill that need. So, I don't think that's an issue.
+
+Okay. Very good. That's all I have. Thank you.
+
+Good. Thank you, john.
+
+Thank you. And there were no other questions in the queue at this time. I'd now like to hand the call back to David Neumann to make any closing remarks.
+
+Thank you, and thank you, all, for joining us this afternoon. We'd like to thank all of our employees for grinding through some of these challenging times. I do think we're at the tail end of some of the challenges. And rest of the year looks pretty good, and we're excited to execute and grow through 2021. Also like to welcome our Smarteq team again. We're really in the first week of integration/transition, but it's exciting to have them as part of the team. And, of course, want to thank our customers, suppliers and distribution partners for their loyalty to PCTEL and working closely with us.
+
+So, with that, stay safe, be well, and I'll turn it back over to the operator.
+
+Thank you for joining us today for PCTEL's first quarter 2021 earnings call. You may now disconnect your lines.

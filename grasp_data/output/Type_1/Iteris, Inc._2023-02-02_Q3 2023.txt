@@ -1,0 +1,286 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+Todd Kehrli — President, MKR Group, Inc.
+Joe Bergera — President, Chief Executive Officer & Director, Iteris, Inc.
+Douglas L. Groves — Senior Vice President & Chief Financial Officer, Iteris, Inc.
+Jeff van Sinderen — Analyst, B. Riley FBR, Inc
+Michael Latimore — Analyst, Northland Capital Markets
+Ryan Sigdahl — Analyst, Craig-Hallum Capital Group LLC
+Tim Moore — Analyst, EF Hutton Group
+
+Management Discussion Section
+
+Question And Answer Section
+
+Good day, and welcome to the Iteris Fiscal Third Quarter 2023 Financial Results Conference Call. At this time, all participants have been placed on a listen-only mode and we will open the floor for your questions and comments after the presentation. Please note this event is being recorded.
+
+I would now like to turn the conference over to Todd Kehrli of MKR Investor Relations. Please go ahead.
+
+Thank you, operator. Good afternoon, everyone and thank you for participating in today's conference call to discuss Iteris' financial results for its fiscal 2023 third quarter ended December 31, 2022. Joining us today are Iteris' President and CEO, Mr. Joe Bergera and the company's CFO, Mr. Doug Groves.
+
+Following their remarks, we'll open the call for questions from the company's covering sell side analysts. Before we continue, we'd like to remind all participants that during the course of this call, we may make forward-looking statements regarding future events or the future performance of the company, which are statements based on current information are subject to change and are not guarantees of future performance. Iteris is not undertaking an obligation to provide updates to these forward-looking statements in the future.
+
+Actual results may differ materially from what is discussed today, and no one should assume that at a later date, the company's comments from today will still be valid. Iteris refers to the documents the company files from time to time with the SEC specifically the company's most recent Forms 10-K, 10-Q, and 8-K which contain and identify important risk factors that could cause actual results to differ materially from those that are contained in any of the forward-looking statements.
+
+As always, you'll find a webcast replay of today's call on the Investors section of the company's website at www.iteris.com.
+
+Now I'd like to turn the call over to Iteris' President and CEO, Mr. Joe Bergera. Joe, please proceed?
+
+Super. Thank you, Todd, and a good afternoon to everyone. I appreciate you joining us today. Before we begin our regular earnings commentary, I want to make some remarks about today's announcement that Kerry Shiba will be joining Iteris as SVP and Chief Financial Officer effective February 3, 2023. Kerry brings significant, highly relevant experience that we believe will be particularly valuable with Iteris having achieved a critical inflection point and now poised for its next stage of growth. I look forward to Kerry joining our team tomorrow and working with him to execute our business strategy and of course, to increase shareholder value.
+
+Unfortunately, with Kerry's arrival, we'll be saying goodbye to Doug Groves. Doug has made a huge contribution to Iteris over the past three years, which have been extremely challenging due to unanticipated global events, largely outside our control. And I cannot imagine a better partner than Doug to navigate the complexities of COVID-19 and the associated global supply chain crisis. To ensure an orderly transition, Doug is committed to serve as a Senior Advisor for four months, which will allow him to contribute to the preparation of our 10-K and other critical projects. Of course, I wish Doug the very best in his future endeavors.
+
+Now, let's turn our attention to our third quarter results. For the fiscal 2023 third quarter, a Iteris reported record total revenue of $40.7 million, representing a 27% increase year-over-year. The growth was due to strong demand for our products and services and the progress of our supply chain improvement program, which began to normalize the underlying economics of our Vantage sensor product lines. More specifically, our product gross margins improved 2,640 basis points on a sequential basis as we began shipping products with the alternative circuit boards that were released to production in our second quarter. In a few minutes, I'll provide more color on our supply chain initiatives.
+
+Despite concerns about a potential slowdown in the broader economy, customer adoption of the ClearMobility Platform remains very positive. In the third quarter, we reported strong total net bookings of $41.1 million, representing a slight increase over the prior year. We were pleased with the results, given the combination of an unusual prior-period comparison and the impact of seasonal holidays, which tend to cause procurement delays. This is the fifth quarter in a row that we reported bookings of more than $40 million.
+
+Although not included in our third quarter bookings results, I'm pleased to share that Iteris has received a notice of intent to award a multiyear, multi-element contract from a public agency in Southern California. We do not normally comment on notices to award. However, this award is unique for two reasons. First, it includes a healthy mix of both products and services, demonstrating the progress of our cross-selling efforts. And second, we expect at least a portion of this project to be funded by the Infrastructure Investment and Jobs Act, making this our first notable award to include IIJA funding. It is likely to take a couple of quarters before this opportunity progresses from notice of award to signed contract, at which time we'll provide additional information.
+
+Due to our sustained strong sales pipeline velocity and total net bookings, we ended the December 31 period with a record total ending backlog of $112.2 million, representing a 22% increase year-over-year. As always, our reported total net bookings and ending backlog figures reflect firm customer orders. The total value of customer contracts, which varies from quarter to quarter averages on a historical basis about 200% of our total ending backlog.
+
+In the fiscal 2023 third quarter, product revenue increased 44% year-over-year to a record $22.9 million, demonstrating continued market share gains. We believe our sensor portfolio continues to take market share due to excellent sales execution and superior product performance. And in the third quarter, we extended our product performance lead with further enhancements to our AI-based object classification, detection system scalability, and security framework.
+
+Due to our strong market position, we continue to win virtually every large competitively sourced detection sensor, fixed travel time sensor, and cellular or CV2X sensor initiatives across the country. For example, in the third quarter, our sensors were selected for the following representative smart mobility initiatives, full high-definition AI-based detection for Phase 2 of the Coachella Valley Smart Region Program with an order value of $4.5 million. This is likely the largest single deployment of this form of detection technology in the nation to-date.
+
+Cellular V2X or CV2X sensors to extend coverage on I-4 between Tampa and Orlando as part of the Florida Regional Advanced Mobility Elements or FRAME Program. This is another series of Iteris sensor purchases related to the I-4 FRAME Program. Travel time and CV2X sensors will be deployed as part of an I-275 design build project near Tampa, Florida, video-based sensors for intersection detection to replace in-ground wired loops throughout the city of Meridian, Mississippi; and video-based sensors for intersection detection to replace the prior implementation of our competitors' video sensors across the traffic corridor in Richmond, Virginia.
+
+These representative third quarter orders demonstrate Iteris' ability, as we've discussed previously, to successfully execute on the following five dimensions to expand our market footprint. First, we are executing on our strategy to maximize our win rate of large scale modernization initiatives like CVAG that drive region-wide standardization of our sensor portfolio. Second, we are leveraging our leadership in intersection detection to penetrate adjacent categories, including the emerging C-V2X category, as we did with the I-4 FRAME and I-275 deals in Florida.
+
+Third, we're attaching annual recurring revenue to each new Vantage Apex system and sense – Spectra CV sensor as occurred with the CVAG and Florida orders. Fourth, we're capturing a disproportionate share of migration revenue as customers similar to Meridian continue to replace legacy in-ground detection with advanced sensors. And fifth, we continue to displace above-ground detection vendors such as we did in Richmond due to our superior product performance, total cost of ownership, and customer success model.
+
+Since our last earnings call, we released to production four more alternative circuit boards that will enable further reductions in our aftermarket component purchases, better optimization of our component inventory, additional improvements in our manufacturing linearity, and enhanced purchasing power with traditional supply sources. This brings us to a total of six alternative circuit boards released to production from the inception of our supply chain improvement program. In a moment, Doug will comment on the implications of these new alternative circuit boards on our fourth quarter purchase price variance and product gross margins going forward.
+
+Now I want to review the performance of our service lines of business. Fiscal 2023 third quarter total service revenue was $17.8 million, representing a 10.5% increase year-over-year. In addition, we recorded $16.1 million in net service bookings, of which 41% will be recognized in the future as annual recurring revenue.
+
+Notable new customer agreements include a combined $1.8 million in orders to extend our managed services activities for the Virginia Department of Transportation, a $1.3 million subscription agreement for ClearData from the Utah Department of Transportation, a $1.3 million task order for the second phase of a project to develop and support a smart county plan for the San Bernardino County Transportation Authority. A $1 million task order from the Florida Department of Transportation District 7 for arterial performance monitoring and management activities, a $1 million combined – or a series of awards worth a combined $1 million for a subscription agreement for ClearGuide, including ClearGuide SPM from various agencies in the US and Canada, and a ClearData subscription for a non-disclosed value from a confidential commercial customer.
+
+Additionally, we saw an acceleration in the attach rate of connected services or annual recurring revenue to our infrastructure sensors. At this time, we have over 3,000 intersections and 2,000 travel time and C-V2X sensors, which are either connected or in process of being connected to our ClearMobility Cloud. To sustain market share growth we continued in the third quarter to enhance our Software-as-a-Service, Data-as-a-Service, and cloud-enabled managed service solutions. For example, we introduced a new safety-related data set that customers can access on a subscription basis through our clear data application programming interface.
+
+And we integrated this new data set into our mobility intelligence software, ClearGuide to address new Vision Zero and Safe Streets for all use cases. Given the strength of our value proposition, we also began to introduce strategic price increases on certain of our Software-as-a-Service offers.
+
+So in summary, we are pleased with our third quarter record total revenue and record total ending backlog as well as the progress we made on our supply chain improvement program, and the associated sequential improvement in cost of goods sold and adjusted EBITDA. With various financial metrics trending in a favorable direction, we believe Iteris achieved an important financial inflection point in the third quarter consistent with our prior expectations.
+
+On that note, I'd like to turn the call over to Doug to provide more color on our third quarter financials after which I will further discuss our fourth quarter expectations.
+
+Thanks, Joe. Good afternoon, everyone. As a reminder, please see the company's 10-Q filing and press release, which are posted on our IR website for further description of matters under discussion during the call today. As Joe mentioned and as we expected, the third quarter was an inflection point in our hardware business as we began to see the benefits of our supply chain management improvement plan really take hold.
+
+We continue to face supply chain challenges on certain components again this quarter, but the impacts on the top and bottom line were not as severe as the last several quarters. To that point, we only spent approximately $970,000 in inventory purchases from the secondary markets, i.e. brokers, which was down from $8.4 million in Q2. The impact from previously purchased broker parts in prior quarters was an increase in cost of goods sold of $3.9 million in this quarter, but was down significantly from $7.8 million in the prior quarter.
+
+From a revenue standpoint, the amount of on unshipped backlog decreased from $900,000 at the end of Q2 to $100,000 in Q3. The orders that didn't ship in the current quarter are expected to ship in Q4. As Joe mentioned, our ongoing supply chain initiatives are improving the situation, which is why we expect the fourth quarter hardware gross margins to be back to the low 40% range compared to only 20.6% in the first three quarters of this year. Demand for our products and services continues to be strong, as evidenced by our record backlog of $112.2 million, which was up 22% over the prior year third quarter.
+
+Now, I'll move on to the details of the third quarter results. Total revenue for the fiscal 2023 third quarter increased 27.1% to $40.7 million, compared to $32 million in the same quarter a year ago. Our gross margins in the third quarter decreased 560 basis points to 29.1%, compared to 34.7% from the same quarter last year. Adjusting for the net increase in component costs of approximately $2.4 million quarter-over-quarter, the gross margins would have been 35% or up 30 basis points compared to the same prior-year quarter.
+
+Turning to our revenue mix, the product revenues increased 44% to $22.9 million compared to $15.9 million in the same quarter last year. This strong demand underscores our market-leading position in the sensor market; and as Joe noted, we continued to win on all large sensor deals. Product gross margins all large sensor deals. Product gross margins decreased 440 basis points and were 30.1% compared to 34.5% for the same quarter last year. However, the product gross margins did increase 2,640 basis points over the second quarter as our supply chain improvement program continued to make great progress and we can continue to deplete the high cost inventory on our balance sheet from previous quarters.
+
+Our service revenues increased 10.5% to $17.8 million compared to $16.1 million in the prior-year quarter, primarily driven by stronger software and managed services revenue. In the third quarter, 23% of total revenue was annual recurring revenue. This was down from prior quarters as the revenue mix changed with product revenue outpacing the services revenue. And as a reminder, our annual recurring revenues are comprised of our software and managed services revenues.
+
+Service gross margins decreased 700 basis points to 27.8%, compared to 34.8% from the same quarter last year. This was primarily due to a change in our licensing fee structure for third-party data providers on our SaaS platforms and more than usual subcontractor content on our professional services revenue, which tends to be at very low margins.
+
+Operating expenses in the third quarter were up $900,000 and $14 million in the current quarter. General and administrative expenses were down $400,000 or 7.4%, while R&D was up $100,000, driven primarily by the circuit board redesigned efforts. Sales and marketing costs increased $1.2 million, which was related to increases in our sales and product support head count to support the higher sales this year and going forward.
+
+We reported a GAAP operating loss in the third quarter of $2.2 million compared with the GAAP operating loss of $2 million in the same quarter a year ago. The operating loss was solely attributable to the higher component costs, as previously mentioned. With progress being made on the circuit board redesigns, we're anticipating spending less than $600,000 in broker market components in Q4, which is down 38% when compared to Q3.
+
+The GAAP net loss from continuing operations in the third quarter was $2 million or a loss of $0.05 per share, which compares to a net loss from continuing operations of $2.4 million or $0.06 per share in the same quarter a year ago. Adjusted EBITDA for the third quarter was a loss of $400,000 or 1% of revenue, which compares to EBITDA of approximately $100,000 or 0.3% of revenue in the third quarter of last year. The GAAP operating loss, GAAP net loss, and adjusted EBITDA loss were driven by the supply chain issues as previously noted.
+
+With the supply chain improvement plans outlined by Joe, we anticipate a continued improvement in our supply chain position in the coming quarters, since it will take additional time for the redesign of the key circuit boards to ship through to our customers. With six alternative circuit boards released to production inception to-date, this has largely mitigated our need to procure components in the broker markets as previously mentioned. These key redesign activities should return the product gross margins to about 40% in the fourth quarter of this year and improve progressively as the hardware sales volumes increase in addition of new circuit boards that are introduced.
+
+Turning to liquidity and capital resources, cash was $10.2 million at the end of the third quarter and working capital was approximately $24.7 million. The $2.2 million increase in cash from the second quarter was a result of the improved profitability due to the lower component costs. With the expectation that fourth quarter parts purchased in the broker market will continue to decrease, this will further improve our working capital and we would expect our ending cash balance this fiscal year to be in the range of $12 million to $14 million as the profitability continues to improve and our circuit board redesigns continue to progress. Lastly, we spent $134,000 in purchases of property and equipment in the third quarter, and we still expect the full-year CapEx to be less than 1% of revenues reflecting our asset-light business model.
+
+In summary, we continue to be laser-focused on our supply chain challenges and our multi-point supply chain recovery plan is progressing well, which will return our Vantage sensor gross margins back to historical levels. Lastly, as Joe mentioned, at the beginning of the call, this will be my last earnings call with Iteris. I want to thank all of our investors and sell-side analysts for all the support I received over the last three years. I certainly hope I cross paths with many of you in the future in my yet to be finalized next endeavor.
+
+With that, I'll turn the call back over to Joe. Joe?
+
+Great. Thank you, Doug. The Smart Mobility Infrastructure Management market represents significant long-term opportunities due to favorable secular trends and historic new investment from the IIJA. And despite the challenges of COVID and the subsequent supply chain constraints, we've continued to strengthen Iteris' position in this dynamic market over the last several quarters. Therefore, given the strength of our position in this large dynamic market, we remain extremely optimistic about the growth opportunity in front of Iteris despite potential challenges in the broader economy.
+
+To realize this opportunity, Iteris will continue to deliver on an aggressive solutions roadmap that includes the following fourth quarter planned releases, a new connected vehicle safety alert for our Spectra CV sensor that is targeted at both public and private sector markets, new safety features for our Vantage Apex sensors will further enhance our Safe Streets for All value proposition, new scalability features for Vantage Apex that will enable us to better price differentiate based on certain intersection characteristics, new safety analytics and connected vehicle reporting features for ClearGuide, our mobility intelligence application. And new features to enhance a connected vehicle-based Transit Signal Priority solution that we are scheduled to pilot in Florida this spring.
+
+We believe these new releases will drive the further adoption of our ClearMobility platform, enhance the cross-sell of our ClearMobility offerings, and improve the monetization of our mobility data sets. In addition, we'll continue to execute against our supply chain improvement program with the release to production of four more alternative circuit boards in the fourth quarter. Upon the release of those boards, we will have achieved all of the objectives of the fiscal 2023 supply chain improvement program that we reviewed on our June 1, 2022 earnings call. More importantly, the release of these boards will further reduce our dependence on broker purchased parts, which as Doug mentioned, we estimate will be less than $600,000 in our fourth quarter.
+
+Given these dynamics for the fiscal 2023 fourth quarter, we anticipate revenue to increase approximately 18% year-over-year. EBITDA margins to improve more than 900 basis points on a sequential basis, and net cash flow to be in the range of $1.5 million to $3.5 million. As a result, we're raising the low end of our full year fiscal 2023 revenue guidance, with the new range being $152 million to $155 million. And we're lowering the high end of our full year adjusted EBITDA guidance with the new range being negative 2% to negative 3% of full year fiscal 2023 revenue, reflecting the impact of global supply chain constraints on our fiscal 2023 year-to-date results.
+
+In closing, the last several quarters have been difficult due to COVID and subsequent global supply chain constraints. However, we continue to execute against our platform-centric business strategy and extended our leadership position in the Smart Mobility Infrastructure Management market. Additionally, our global supply chain improvement program is not only generating significant near-term benefits, but lasting value for the company. Therefore, we believe Iteris remains poised to create significant shareholder value as outlined by our Vision 2027 operating plan.
+
+With that, we'll – we'd be delighted to respond to any questions or comments. Operator, are there any questions from our covering analysts?
+
+Absolutely. At this time, we'll be conducting a question-and-answer session. [Operator Instructions] Your first question is coming from Jeff van Sinderen from B. Riley. Your line is live.
+
+Hi, everyone. And let me first say, Doug, we'll miss you and wish you the best in whatever you're doing going forward.
+
+Thank you, Jeff. I appreciate it.
+
+My first question for you guys is really sort of around the service revenue growth. I think it came in around 10%. Just wondering what your expectations are for growth in that segment of the business over the next few quarters. What do you think that should be? And maybe just talk about some of the drivers that could potentially accelerate that growth rate.
+
+And then sort of I apologize, this is kind of a multi-part question here, but I know you said service was down – I think you said service was down 700 bps in terms of margin and then you had the change in the license fee structure, I think, on SaaS and more sub-content included. So, maybe you can touch a little bit on that. And then, I think you did say how much was recurring in Q3, but wondering how much of that was actual SaaS? And then what are your thoughts on getting kind of the, I guess, going forward, what the level of concentration of recurring is that you expect over the next few quarters? Apologize there's a lot in there, but it is kind of [indiscernible] (00:26:06)
+
+All right. So, I think I got...
+
+I'll help you set through.
+
+Feel free to pipe in if we missed anything. So, I'll start off and then let Doug add to it. So, yeah, I think that the first thing you noted is that the service revenue at 10.5% was not at the same rate of growth that we saw with that hardware coming in at 44%. And so, to provide some context there, there's obviously just a ton of market demand for our traditional detection sensors, as well as the new forms of sensors that we've introduced over the last few quarters. And so, that is what drove the tremendous growth, and we expect very strong continued sensor growth going forward.
+
+With respect to the service revenue, remember, that's made up of a couple of different components, both professional services and then annual recurring revenue. And to your point, Jeff, annual recurring revenue is further made up of two parts: managed services and SaaS.
+
+During the third quarter, our professional services revenue came in relatively soft, not due to a lack of demand, but this is historically a difficult quarter for us. Most of our professional services revenue is directly tied to the number of billable hours that we have in the quarter, and due to the holidays, we have a lot of employees that are taking PTO and, therefore, they're not billing to our various consulting projects. And so, that's always throttled our professional services in the December 31 period and it continued to have an impact in the current quarter. Our annual recurring revenue and specifically our SaaS revenue grew at substantially higher rates than our professional services revenue.
+
+The – with respect to Q4, I would expect that our services revenue growth will rebound and will come in at a higher rate than the 10.5% that we had in the third quarter. With respect to the decrease in the gross margins on the services revenue and Doug's reference to the new contracts we have in place with some of our data providers over the long-term, these – the new agreements are actually a good thing. But in the short-term, it did have a negative impact on our gross margins.
+
+Essentially, the prior structure that we had with our various suppliers was that we were paying essentially an incremental fee on each customer deployment for the associated data that we were processing for that particular customer. And so our costs, we're – for the data we're continuing to grow in relation to the amount of SaaS and data-to-the-service revenue from our various customers.
+
+We renegotiated those contracts. So we, basically, have an all-you-can-eat-type of licensing arrangement with our various data providers. As you would expect, in order to get that all-you-can-eat agreement, we needed to raise the floor. So we now currently have a higher floor than we had. But as our revenue continues to increase, we won't have to pay any incremental royalty for that data going forward. So, over the long-term, this is going to actually benefit our gross margins. But until we reach that threshold, you will see a little bit of an impact on our gross margin line.
+
+The bigger impact was actually due to the high percent of subcontract revenue. Like of the professional services revenue that we did recognize in the period, a substantial portion of it was subcontractor based and we don't get the same kind of gross margin on subcontractor revenue that we do on direct labor revenue.
+
+Let me stop there and see if Doug, you have anything you want to add to any of those points?
+
+No. I think you hit them all. I was writing them down as Jeff was rattling them off. But Jeff, did we get them all?
+
+No. No. No. You did. You guys did great.
+
+Okay.
+
+Appreciate that. Just had sort of a follow-up along those. And I know you said long-term benefits, short-term...
+
+Pain. Yeah.
+
+...a little bit of pain in the margin. But I guess sort of any color you can give us on where that threshold is that will have you [ph] inflect to (00:30:50) getting that long-term benefit? Do you think that's a quarter out, three quarters out, any color or metrics you can give us around that quantification?
+
+Yeah. I think it's hard for us to give you that that the – we have multiple data suppliers and that's because different data suppliers are better at different things and others. And as a result of that, there's kind of an implication for this – the attach rate that we see on certain software products and certain data-as-a-service products which will impact our ability to hit that critical threshold for these various contracts, each of which have different terms. So, the actual make-up of the orders that we see over the next couple of quarters will impact how quickly we reach that inflection point. So, it's a very complicated optimization problem. It's difficult at this point for us to give a lot of guidance. But I would generally say that this is not like going to take years to get there. I think that it is probably, on balance, a matter of quarters, at which point we should start to hit that inflection point.
+
+Okay. Got it. Thank you.
+
+And again, the several hundred basis point decrease, again, was in, I believe, more attributable to the subcontractor content and the professional services revenue than these new agreements. So, again, I just want to make sure that you understand that.
+
+Okay. That's helpful. And then if we could shift for a minute, I know you mentioned the SoCal project that is soon to be a contract. Any sense you can give us kind of the size of that project for you in dollars and the timeframe when you can realize that?
+
+Yeah. So, we don't want to negotiate against ourselves by making any sort of specific comments about any of the financial aspects of the contract. But I would say that this is a relatively large contract for us.
+
+Okay.
+
+And I think other than that, I need to leave it at that. And then further, with respect to the timeline, as I said, we were anticipating that it would probably be a couple quarters, like probably about six months before this progresses from award to contract, but I have to like I always get in trouble when I put out a timeline because it's amazing how long it can take for this – in certain circumstances, for awards to convert to contract. We actually have seen it be in excess of a year. But this seems to be moving along pretty quickly, and I would anticipate approximately six months.
+
+Okay. That's helpful. And I guess I'll also say welcome aboard to Kerry and I guess he's joining tomorrow so it'll take a while for him to get up to speed.
+
+Yes. But I know he'll be interested in meeting all of our analysts and any interested investors as well. So, I'd encourage you and any investors who would like an opportunity to speak with him to just reach out to Todd or me. And we'll make sure that we make those introductions happen.
+
+Okay. Terrific. And then just one more, if you don't mind, I think you've got a couple more months here to your fiscal year. You got a pretty solid backlog. Backlog continues to grow. And I'm not asking you to guide here, but any early thoughts on...
+
+Yes, you are, Jeff.
+
+...full year?
+
+You're totally asking us to guide...
+
+And any – well, I guess what I'm trying to get at and no, this really isn't quantitative guidance, I'm just trying to get a sense if you think that you can sustain sort of an above market revenue growth rate in fiscal 2024? Or we have a little bit of a kind of rebound or pent-up effect, I guess you would say, at this moment. How are you thinking about that – how are you sort of thinking about revenue growth normalizing over the next several quarters?
+
+So, in other words, what's your guide? As you know, we really tried to make a practice. We're pretty small – we're a small public company for sure, right? And so like small variances make like in percentage terms can be pretty sizable, right? So, we really don't want to get ahead of ourselves and as a normal practice on our – when we do our fourth quarter earnings, we'll provide full year guidance. But just I think you're basically saying like, but still, like how strong does the market seem? What kind of – what – how does your pipeline velocity work? Do you think that overall your sort of demand signals are they like strong or weak? Are you seeing like a change one way or the other?
+
+And so to try to answer that kind of a qualitative question, the environment still seems very positive. And I think that, that's true really across the broader sector, but I do feel that our product strategy is really resonating well in the marketplace and our sense that we're going to continue to take market share. I can't say exactly for how long, but obviously, we're going to continue to move the ball forward, take the leadership position, try to define the competitive landscape. And as I said in my remarks on today's call, and I've said in the past, I think that we've got the most productive channel in the industry, and we'll continue to invest in that and improve on it.
+
+Okay. Great. Thanks so much for taking my questions and best of luck.
+
+Thanks.
+
+Thank you.
+
+Thank you. Next question is coming from Mike Latimore from Northland Capital Markets. Your line is live.
+
+All right. Great. Thanks, and Doug, nice working with you, best of luck in your new ventures.
+
+Thank you.
+
+I guess just a basic question here. From an OpEx standpoint, should we think about OpEx as sort of remaining stable here from this point for a while?
+
+Absolutely. I mean, if you look particularly at the G&A line, we've done a pretty good job of keeping that really flat for quite some time. And the sales and marketing was up a little bit this year but that was a conscious decision to invest. And that part of the organization bringing on new salespeople and product support people, and R&D, I think will continue to probably hover around that sort of 5% to 5.5% of revenue. So I think with the increase in the revenue, we will start to really see some leverage in the P&L with the hardware business now getting back on its feet.
+
+Okay. Great. In terms of the roadside unit product category, do you have a rough range of what that contributed to the quarter?
+
+That's a great question. Look, I would guess because we don't actually break it out that way, but I would guess would be like, to say, in the range of like even like $2 million to $4 million, do you think?
+
+Yeah.
+
+Yeah.
+
+Exactly.
+
+Okay.
+
+Yeah. So, about 10% to 20% of our sensor revenue.
+
+All right, got it.
+
+And remember, we only started talking about that on our – that segment, that whole product strategy a year ago, December. This is a very early stage market. We think that the total addressable market in North America right now is probably $30 million to $50 million. But our expectation, I think most people's expectation is that over probably a five-year timeframe that could look like potential $1 billion TAM.
+
+Yeah. Yeah. Great. And then you talked about winning pretty much a large sensor deal. Is there sort of a consistent message from these customers as to why they're choosing it? Was it the core sensor itself? Is this a software strategy to get attached to the sensor or something else, any kind of consistent message?
+
+I think it's really all of the above. But the way that people express it is that the technology just works. It addresses, their business priorities and that's a function of a lot of things. It's the fact that I think that we have unique domain expertise, and that's because we benefit from the traffic engineering capability. It's just part of our DNA because of the our leadership in the consulting sector. And so understanding how people operate these sensors and what kinds of information they need out of it has allowed us to build product that meets the needs of the customers. And then we supplement that with we think the best field support in the industry. So, I think, again, I mean just generally, people are like, wow, this does exactly what I need, whereas I don't see this from other vendors. But there's a lot that goes into that, right? I mean, it sounds easy, but there's a lot of work on the back end.
+
+Yeah. Yeah. And then you talked about sort of the data providers to use. Are there a couple that are just clearly the largest data provider to your ecosystem?
+
+Yeah. Well, so we've put out some announcements about some of those relationships. For a long time, we've talked about our relationship with HERE Technologies. We've had a number of announcements with HERE. We both utilize HERE's map in – within ClearMobility Cloud because a lot of the data is presented in a map format. But we also ingest data from HERE. And then also we recently put out announcements about agreements with Wejo and Otonomo.
+
+We do have agreements with various other parties. Some of them right now are confidential. So, I can't comment on those. But we receive – we get data from multiple third-party commercial suppliers. And then additionally, because of our relationships with agencies, we have unique access to a lot of agency data. Like there are certain states where we have access to virtually all of the state's IoT devices deployed across like the state's entire highway system. And that's a function of our relationship with the agencies.
+
+Now, that's not exclusive arrangement. Of course, like, the agencies aren't going to enter into exclusive relationship with anybody about their data because they would view it as either proprietary or a public asset. But we're – because of our relationships we're in a unique position. We have know-how, knowing the relationships, to understand how to get access to that data. So, the answer is we get the data from multiple sources. It's uniquely curated. But in terms of the commercial arrangements I'm able to discuss publicly, our primary ones at this point would be HERE, Wejo and Otonomo.
+
+Yeah, that's good. Super. Thanks a lot.
+
+Thank you.
+
+Thank you. Your next question is coming from Ryan Sigdahl from Craig-Hallum Capital Group. Your line is live.
+
+Good afternoon guys. Just one for us. And you maybe alluded to this a little bit earlier, but I want to ask it more directly. So, you raised the revenue guidance, qualitative commentary all seems quite positive. But yet, you lowered the EBITDA for the year. So, what, I guess, is causing the additional margin pressure relative to your expectations a couple of months ago?
+
+I think it's mostly the costs of developing the alternative circuit boards, some of which we incurred in the third quarter and some in the fourth. And Doug, maybe you could explain, but we have a dependency on some third parties to develop some of the prototypes and rights, some of the firmware. And there are a lot of other companies in the same position as we are, and so we're seeing the availability of those resources getting really scarce.
+
+Yeah. No, that's exactly right, Joe. So, it's just really the cost to get those additional circuit boards into production. So, we're competing with a lot of other companies that are using the same resources and it's just – it's costing us a little bit more than we had anticipated.
+
+And so Ryan, that's a temporary issue. As I said, we expect by the end of the fourth quarter we will have delivered released to production all of the alternative circuit boards that we originally identified as critical as part of the supply chain improvement programs, so that will be behind us. It's not to say that we won't continue to develop alternative circuit boards, but we won't be under the same time pressure. And that should change the pricing scenario, because especially when we're asking people to do things quickly in order to meet our timeframe, we're incurring various markups in this environment.
+
+Okay. Thanks, guys.
+
+Thank you. Your next question is coming from Tim Moore from EF Hutton. Your line is live.
+
+Thanks and congratulations on a strong sales growth in the quarter. I am curious when you compete for attached software services in a bid, do those type of negotiations in bidding take a few extra months longer than less bundled services? I'm just trying to think if the training or higher price point of the bundle package triggers a longer lead time to close the award.
+
+Yeah. Tim, that's an extremely good observation. And that's an analysis that we do on virtually every opportunity, right. I mean, our desire is to attach annual recurring revenue or cloud revenue to every sensor sale, every professional services engagement that we have. But you're exactly right, in some cases, you introduce complexity and it can occasionally slow things down.
+
+There are certain actions that we're taking which we don't want to discuss right now. So, I think we've – we think we have a pretty smart approach to try to thread this needle, which we don't want to share with competitors at this point. But we think that there's a way around that. I mean, not to say that it's going to go away, but that we can get better at that. And we're going to start implementing some of these sales techniques. Actually, we're – in fact we're in the process of introducing some of those sales techniques right now. That does – isn't going to completely eliminate the issue. But we do think that we have an interesting way to thread the needle.
+
+And I would say that the good news on the flip side is that when we're able to attach that recurring revenue, right, then the outcome for us on so many levels is so much better than having just sold like a piece of hardware on a transactional basis. And then the next time we're selling to that customer, it's like another transaction sale, right. So – and to the extent that we're able to attach recurring revenue to these units is going to be great over the long term, which obviously you know. But again, it can create complexity upfront and we think we have a way to mitigate it.
+
+That's very helpful. I appreciate the color on that. For your AI-powered Vantage Apex offering, are most of those features now available and activated for customers since December? And I know it was launched a little over a year ago. I'm just trying to maybe wrap my head around the Vantage Apex acceleration sales growth potential and all the other launches you mentioned earlier in the call, as they may be came on momentum. Is that attracting more customers now that the features are more activated on?
+
+Yeah. That's another really astute question. So, we have three – four generations actually of sensors – detection sensors in the market right now. We have our Edge product which we're in the middle of end of [indiscernible] (00:49:27) but for the – through the December 31 period, we were still selling it.
+
+We have our next product which today represents by far the largest portion of our detection product sales. And then we have Apex and Fusion which were in our industry which moves pretty slowly because it's very risk averse. They were introduced just very recently. And so at this point I think that we have sold like our bookings, our Apex bookings probably represent maybe 1,000 to 2,000 units.
+
+And remember, there could be multiple units like we talk about in terms of systems, there'd be hundreds of systems, thousand – a couple of thousand sensors. And yeah – and our biggest deal to-date is actually that [ph] C-Bag (00:50:27) deal, the Coachella Valley deal that I just mentioned on today's call. That represents I think about 125, 150 intersections and that'll be the largest one. That'll be the largest one in the nation of high definition AI-based detection.
+
+But anyway the point is, it's still – we're still in the early innings with respect to that product. And then on Fusion is we've sold even fewer units of that today. I want to make sure that everybody understands that, that was our expectation because we've found that this market moves very slowly. It took us about three years before our next product really became mainstream in the marketplace. And so we're right on track with both our Apex and our Fusion products, but to your point, Tim, we've sold relatively few Apex units on so far.
+
+No. No. That's helpful. I'm sure as more features can activate it customers like it more and word spreads. Yeah. Just my next question, I know your fiscal year ends next month and you'll probably give guidance on the call for that call. But when I'm looking back on this fiscal year, I'm just trying to ballpark in my head the headwinds that you're going be lapping on the costs front. It seems like you had not only the development costs of the circuit boards and you had maybe at least 70 basis points of drag from the supplemental broker costs. Were there any other big one-off costs that you incurred this fiscal year that probably won't repeat next year?
+
+No, I think those are the big ones. I mean, if you look at the just the purchase price variance numbers we've been talking about, I mean, the – the full impact, this year is, it's almost $15 million. So, that's a big number for a company our size. So, and the development costs, as we work through this will come down, because as Joe mentioned, the majority of the ones that are really going to drive the continued cost improvement, it will be done this year, I mean, there always be circuit board redesigns as part of just evolution of the supply chain and availability. But I think those are the two biggest like one-off that wouldn't be recurring next year items.
+
+Thanks. That's really helpful, Doug. And my last question is around your acquisition appetite. And I'm just wondering has there been a improve sellers willingness to founder owned or family owned businesses lately, maybe as the market turns south between the summer and December or have you guys just been so busy with organic growth that you really haven't spent much time recently in acquisitions?
+
+Well, yeah, I mean, it's – unfortunately, we've been so busy trying to resolve our own supply chain issues. We've been very internally focused on getting that right. And not only to take management attention to work through those issues, but we've also consumed a lot of cash and also because of the impact on our profitability, we've seen negative impact on our share price. So, for all those reasons, it wasn't practical time for us to be focused on acquisitions.
+
+But we do feel like we've achieved critical inflection point and our circumstances are going to change. And I think we'll be in a much better position to start again to pursue acquisitions, as we progress through our new fiscal year FY 2024 starts on April 1. In terms of the overall market conditions, I would say that we probably don't want to buy a business that is like financially nonviable, so we probably wouldn't be looking at anything that's a distressed asset anyway.
+
+With respect to the businesses that are more viable, I don't – like, these are – it's a very fragmented market made up of a lot of really small companies which are not necessarily that sophisticated. So, there are not a ton of platform or processes that are going on, but I would say that the few processes that have occurred and then some of the people that have, like, kind of sniffers out to see if there's a potential buyer, I think that – they've experienced a lot of reticence, given the current market conditions. And so, I think that people have decided to just kind of keep their heads down and sort of work through their problems the same way that we have. So, I don't think we've lost a lot of deals. I would expect that the activity will pick up. I'm not sure exactly when, but I think generally in the next 6 to 12 months, which I think aligns pretty well with our own timeline.
+
+Great. Well, thanks for that color and Doug, best wishes with your next endeavor.
+
+Thank you very much, Tim.
+
+Thank you. [Operator Instructions] Please hold while we poll for questions. Thank you. That concludes our Q&A session. I will now hand the conference back to Joe Bergera for closing remarks. Please go ahead.
+
+Super. Thanks, Matt. I appreciate it. So as always, I appreciate everybody's support and your thoughtful questions. On the Investor Relations front, I wanted to reiterate that we plan to host the first in a series of short investor updates this quarter. Specifically, we're looking at March. The first update will focus on various aspects of that IIJA, such as a breakdown of budget line items and the status of new programs will be created as a result of the legislation.
+
+Additionally, we'll be participating in various investor outreach events. And as always, we're always available to speak with investors should you have any follow-up questions. So, please feel free to reach out to us. In the meantime, we look forward to updating you again on our continued progress when we report on our fiscal 2023 fourth quarter and our full year results.
+
+So with that, that concludes today's call. Thank you everyone.
+
+Thank you. That concludes today's event. You may disconnect at this time and have a wonderful day. Thank you for your participation.

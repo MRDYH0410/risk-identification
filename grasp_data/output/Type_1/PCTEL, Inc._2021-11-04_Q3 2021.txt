@@ -1,0 +1,98 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+Kevin McGowan — Chief Financial Officer & Vice President, PCTEL, Inc.
+David A. Neumann — Chief Executive Officer, PCTEL, Inc.
+John H. Bair — Analyst, Ascend Wealth Advisors, LLC
+
+Management Discussion Section
+
+Question And Answer Section
+
+Welcome to the PCTEL's Third Quarter 2021 Earnings Release Conference Call. At this time, all participants are in a listen-only mode. At the conclusion of our prepared remarks, we will conduct a question-and-answer session. As a reminder, this conference is being recorded.
+
+I will now turn the call over to Kevin McGowan, the company's CFO.
+
+Thank you for joining us on today's conference call to discuss PCTEL's third quarter 2021 financial results. With me today is David Neumann, the company's CEO.
+
+Before we begin, let me remind you that this call may contain forward-looking statements and projections based upon current circumstances. While these forward-looking statements and projections reflect PCTEL's best current judgment, they are subject to risks and uncertainties, particularly related to the COVID-19 pandemic, the global supply chain and transportation challenges and the impact of our acquisition of Smarteq Wireless AB that could cause actual results to differ materially from these forward-looking statements and projections. Risk factors that could cause PCTEL's actual results to materially differ from its projections are discussed in the earnings press release which was issued today and the company's Annual Report on Form 10-K. The company assumes no obligation to update any forward-looking statements or information, which speak as of their respective dates.
+
+Additionally, our commentary will include reference to the following non-GAAP measures, non-GAAP gross margin percentage, non-GAAP operating expense, non-GAAP earnings per share and adjusted EBITDA. We believe these non-GAAP measures facilitate comparability of results over different periods. A full reconciliation of these non-GAAP measures to GAAP is included in our quarterly earnings press release that was issued earlier today.
+
+I'm now pleased to turn the call over to David Neumann.
+
+Thank you, Kevin. Welcome and thank you for joining us this afternoon. In our call today, I'll review our Q3 results, including the impact of supply chain disruptions, discuss significant product launches and design wins across our three product lines, and then share our thoughts on the remainder of the year and our expectations for 2022.
+
+As you may have seen in our press release issued after the market close, we met our earnings estimate on lower than forecasted revenue. Revenue grew sequentially, but the revenue shortfall compared to our guidance was principally due to two supply chain issues, which limited our ability to manufacture, ship and recognize revenue for certain antenna products during the quarter. Incoming orders remained strong and improved sequentially over the second quarter, which, as you may recall, was one of our best quarters for incoming orders since the second quarter of 2019. We've addressed these two supply chain issues, and we will continue to address others as they arise, but we believe quarterly revenue and earnings will grow through the end of the year and into 2022.
+
+Our customer service and operations team have done an excellent job working closely with our customers to minimize the impact from supply chain delays. While raw material shortages delayed some shipments of our antenna products, we ensured that we met our customers' critical demand through planning, proactive communications and engagement. Constrained supply of specialized plastic materials and adhesives used in certain of our antenna products posed the most significant challenges and had the greatest impact on our revenue for the quarter. These issues were resolved late in the quarter and we do not currently expect similar constraints through year end.
+
+In Q3, we achieve $22.4 million in revenue, $2.3 million in adjusted EBITDA and $0.08 in non-GAAP earnings per share. Earnings grew sequentially and revenue grew both sequentially and year-over-year. Revenues were 18.4% higher quarter-over-quarter and EBITDA was higher by $100,000 compared to the second quarter. We achieved non-GAAP gross margins of 46.7% for the quarter which was lower than the third quarter last year as the result of a shift in product mix towards lower margin antenna revenue.
+
+Next, I would like to provide an update on achievements in our three main product areas: antennas, industrial IoT devices, and test and measurement tools. Our antenna business, driven by strong incoming orders for agriculture and vehicular applications, is performing well. We had three new distributors since our last call and released a new 5G, configurable and low-profile antenna platform that supports intelligent transportation and public safety applications. The new Trooper Max 5G antenna platform is designed to add Land Mobile Radio, or LMR, connectivity through an external whip port if required. It is compatible with the world's leading cellular routers supporting 600 megahertz to 6 gigahertz frequencies and covers Wi-Fi 6 frequency ranges as well.
+
+Our Smarteq team continues to exceed expectations. Smarteq is recognized as a leader in supporting wireless connectivity for electric vehicle charging stations in the Nordic countries. And the team recently won the antenna business for additional smart meter and cargo tracking projects in Europe, which will begin to generate revenue in early 2022. We are pleased with our performance, and we will continue to invest in our capabilities and leverage these reference customers for open opportunities in the United States.
+
+Within our IoT device products, we delivered our first ruggedized Wi-Fi access points that provide reliable Wi-Fi connectivity in harsh environments for industrial equipment, heavy machinery, and construction equipment. We expect to receive additional orders for the access points in the fourth quarter.
+
+As we mentioned in our last earnings call, we expected to see a temporary slowdown of 5G test and measurement purchases due to European and Asian 5G deployment delays. These are short-term issues primarily related to the pandemic such as spectrum auction and deployment delays. 5G networks still only cover about 20% of a the global mobile user markets. The unique capabilities of 5G such as 100 megahertz bandwidth and support for millimeter wave frequencies require more advanced test and measurement tools that PCTEL provides. In addition, wireless operators need to test 5G simultaneously with legacy technologies like 4G LTE and 3G to support existing customer bases. This further complicates testing.
+
+With our emphasis on engineering expertise, PCTEL has a long history of developing innovative scanning receivers that often lead the industry and capabilities for testing efficiency. PCTEL is a leader in providing advanced scanning receiver solutions. We're very excited to announce the availability of our next generation scanner, the Gflex. The Gflex scanning receiver is designed to support drive testing, in-building testing and government applications for 5G and legacy networks. The Gflex is a single lightweight scanner that collects all millimeter wave and sub-8 gigahertz data required to benchmark multiple operator networks in one testing session with one unit. In some cases, engineers may need four or more of competitor scanners to accomplish the same tasks, making the Gflex more cost efficient. The Gflex is the only drive test scanner that collects data across the entire 100 megahertz channel and also includes [ph] I&Q (00:07:50) hardware that supports detailed measurements often used in government applications. We believe the scanner presents new opportunities for PCTEL for homeland security, the military and other government applications. As the pandemic situation improves and broadband applications grow, we expect pent-up demand for 5G services, thus driving deployments and the need for more advanced and compact scanning receiver products.
+
+In the public safety space for test and measurement, we announced our cloud-based SeeHawk Central application last quarter and are pleased to share that we received our first order from one of our major public safety customers. SeeHawk Central will be used to improve testing efficiency by essentially storing collected data from the field, automating the processing and providing secure access to test results across entities responsible for ensuring reliable communications for first responders. Our plan is to add features to the platform and launch new products in the public safety space to maintain and grow our leadership position.
+
+As I mentioned, we continue to add strategic distributors that are interested in PCTEL's broad product portfolio, including our industrial IoT solutions. We believe the growth in the US economy, the recovery of international markets and the rollout of wireless IoT applications will drive PCTEL's product sales for antennas, scanning receivers and IoT devices to create long-term revenue growth.
+
+With that, I will now turn the call over to Kevin for a closer look at our second quarter and a discussion of our financials. Kevin?
+
+Thank you, David. I will review the financial results for the third quarter ended September 30, 2021, and I will provide fourth quarter 2021 guidance.
+
+We reported sequential financial improvement for revenues and earnings in the third quarter. Revenues of $22.4 million were 18.4% higher in the third quarter 2021 compared to the third quarter 2020, but below our guidance due to the two supply chain issues that David mentioned. Our earnings for the quarter were within our guidance. Revenues for antennas and industrial IoT devices were $16.7 million, an increase of $4.4 million compared to the third quarter 2020. This increase for the third quarter 2021 is due to both the revenue recognized from Smarteq, which was acquired on April 30, 2021, and an increase in organic revenues from the sale of antennas and industrial IoT devices. Test and measurement revenues were $5.9 million for the third quarter 2021, a decrease of $0.9 million compared to the third quarter 2020. The third quarter 2021 revenues for test and measurement products were approximately 13% lower than last year, due primarily to lower revenues for products with 5G technologies.
+
+The third quarter 2021 gross profit margin on a non-GAAP basis was 46.7% which was 4.2% lower than the third quarter 2020. The decrease in the gross margin percentage was primarily due to the higher mix of antennas and industrial IoT devices. The non-GAAP gross profit margin percentage for test and measurement products was higher by 1.9% compared to the third quarter 2020, primarily due to product mix.
+
+Operating expenses on a non-GAAP basis were $8.9 million in the third quarter 2021, an increase of $0.9 million compared to the third quarter 2020. The increase results from inclusion of Smarteq's operating expenses in addition to higher employee-related costs. Operating expenses for the third quarter 2020 were lower due in part to measures the company took at the beginning of the pandemic to control costs, including temporary reductions in salaries, travel and other discretionary spending.
+
+Adjusted EBITDA was $2.3 million in the third quarter 2021 compared to $2.4 million in the third quarter 2020 and improved sequentially by $0.1 million. EBITDA as a percentage of revenue was approximately 10% in the third quarter 2021 compared to 12% in the third quarter 2020 and non-GAAP diluted earnings per share was $0.08 in the third quarter 2021, the same as the third quarter 2020.
+
+Cash and investments were $32.5 million at September 30, 2021. Cash and investments declined by approximately $1 million during the third quarter. We generated free cash flow of $2.5 million, used $2.5 million to repurchase 382,000 shares and paid $1 million for our quarterly dividend. As of September 2021, we completed our $5 million share repurchase program.
+
+Based on the strong incoming orders during the second and third quarters for antennas and with the revenues that shifted to the fourth quarter due to the supply chain delays, we expect higher sequential revenues in the fourth quarter. Our revenue guidance for the fourth quarter is in the range of $23.5 million to $24.5 million and our non-GAAP earnings per share guidance is in the range of $0.08 to $0.10. We project our non-GAAP gross profit margin percentage to be in the range of 45% to 46%.
+
+With that, I'll now turn the call back to David.
+
+Thank you, Kevin. Thank you all for joining us. Before we take questions, I'd like to share a few closing remarks. We're pleased to see two consecutive quarters with very strong incoming orders for our antenna business, which support our view that demand for our products is increasing. Most of the current supply chain issues we have encountered have been addressed. We're investing in critical material and component inventory and most importantly, we continue to maintain deep engagement with our customers resulting in exceptional service levels and excellent customer satisfaction.
+
+We're excited to provide the industry with the most advanced 5G scanning receiver on the market and believe this platform will create growth opportunities in 5G and in government applications for years to come. As a company, we will continue to invest in engineering, which have had six US patents allowed so far in 2021.
+
+Our new and existing distributors are performing well and we continue to build our public safety business for both antennas and test and measurement products. Our design wins, including those from Smarteq and industrial IoT products deliveries are increasing across applications, including network synchronization, cargo tracking, smart meters and intelligent transportation. We continue to look for additional acquisition opportunities that complement our product portfolio and will in turn support meaningful growth in 2022 and beyond.
+
+Kevin and I will be attending the Southwest IDEAS Investor Conference on November 17 in Dallas. This will be our first in-person conference in many months and we look forward to meeting with investors.
+
+With that, Kevin and I are available to take questions. Operator?
+
+Thank you. Ladies and gentlemen, the floor is now open for questions. [Operator Instructions] We have no questions in the queue at this time.
+
+Well, with that, I think we'll wrap up the call. If I think...
+
+I'm sorry. We do have a question coming in.
+
+Oh, John. Perfect.
+
+Okay. We have a question coming from John Bair at Ascend Wealth Advisors. Your line is live. You may begin.
+
+Thanks. Good afternoon. I thought that other people would be in there and maybe ask some questions. I wanted to ask – your cash level is down a little bit, and is that a function of the Smarteq acquisition?
+
+No, John, in the quarter, we bought back 2.5 million of shares. So, that was the main reason. We actually had free cash flow of $2.5 million in the quarter, but the share repurchase was the main reason why we didn't generate cash.
+
+Okay. Okay. Very good. All right. Very good. Look forward to seeing you in a couple of weeks.
+
+Okay, John. Take care.
+
+Thank you.
+
+So, it doesn't look like we have any other questions. Of course, if any investors would like to reach out to Kevin and I, we're always available. I'd like to thank everyone for joining us this afternoon. We did speak of the challenges in supply chains, keeping our staff safe and meeting customer needs. I would like to thank our employees for their dedication in addressing some of these challenges and, of course, thank our customers for their patience as we jointly worked through many of these issues. Even with the slower recovery in the second half of the year, we've been able to grow our business. We believe we can maintain this momentum through 2022 to support another year of growth for the year and beyond.
+
+So, with that, have a great afternoon. Stay safe and thank you. Operator?
+
+Thank you. Ladies and gentlemen, this does conclude today's event. You may disconnect at this time and have a wonderful day. We thank you for your participation.

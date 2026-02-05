@@ -1,0 +1,212 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+Jim Byers — Senior Vice President, MKR Group, Inc.
+Joe Bergera — President, Chief Executive Officer & Director, Iteris, Inc.
+Kerry A. Shiba — Chief Financial Officer & Senior Vice President, Iteris, Inc.
+Jeff Van Sinderen — Analyst, B. Riley Securities, Inc.
+Derek Greenberg — Analyst, Maxim Group LLC
+
+Management Discussion Section
+
+Question And Answer Section
+
+Good day and welcome to Iteris's Fiscal First Quarter 2025 Conference Call. At this time, all participants have been placed on a listen-only mode. And we will open the floor for your questions and comments after the presentation. Please note this event is being recorded.
+
+I would now like to turn the conference over to Jim Byers of MKR Investor Relations. Please go ahead.
+
+Thank you, operator. Good afternoon, everyone, and thank you for participating in today's conference call to discuss Iteris's financial results for its fiscal 2025 first quarter ended June 30, 2024. Joining us today are Iteris's President and CEO, Mr. Joe Bergera; and the company's CFO, Mr. Kerry Shiba. Following their remarks, we'll open the call for questions from the company's covering sell-side analysts. Then we will answer investor questions, if any, that were submitted to the company in advance of the call per the instructions in our press release dated July 29, 2024.
+
+Before we continue, we would like to remind all participants that during this call we may make forward-looking statements regarding future events or the future performance of the company. These statements are based on current information, are subject to change, and are not guarantees of future performance. Iteris is not undertaking an obligation to provide updates to these forward-looking statements in the future. Actual results may differ substantially from what is discussed today, and no one should assume that at a later date the company's comments from today will still be valid. Iteris refers you to the documents that the company files from time to time with the SEC, specifically the company's most recent Forms 10-K, 10-Q and 8-K, which contain and identify important risk factors that could cause actual results to differ materially from those that are contained in any forward-looking statements. As always, you'll find a webcast replay of today's call on the Investors section of the company's website at www.iteris.com.
+
+Now, with that said, I'd like to turn the call over to Iteris's President and CEO, Mr. Joe Bergera.
+
+Great. Thank you, Jim, and good afternoon to everyone. I appreciate all of you joining us today. Iteris reported record total revenue of $45.8 million in our fiscal 2025 first quarter representing an increase of 5% year-over-year. As a reminder, we had an unusually strong prior year comparison due to the combination of two events that were related to post-COVID recovery. These events were first, the release of a large number of sensor shipments that were delayed as a result of previous supply chain constraints. And second, the achievement of certain milestones for some very large long-term consulting projects and our fiscal 2024 first quarter.
+
+Given this unusual prior year comparison, we were particularly pleased with our fiscal 2025 first quarter revenue growth comparison. Customer adoption of the ClearMobility Platform remains very strong and in our fiscal 2025 first quarter, we reported total net bookings of $48.8 million, resulting in a record trailing six month total net bookings of $102.1 million, which compares favorably to the $100 million target we set for the first six months of calendar year 2024. On a year-over-year basis, fiscal 2025 first quarter bookings decreased 8% compared to our second quarter highest quarterly bookings period on record, which included a $15 million four year SaaS order in our fiscal 2024 first quarter.
+
+As noted on prior calls, we expect some degree of bookings lumpiness for the next several quarters due to the timing of various large sales opportunities, such as the one recorded in our fiscal 2024 first quarter. Reflective of our sustained strong bookings results. We ended the June 30, 2024 period with a record total ending backlog of $126.8 million, representing a 2% increase year-over-year.
+
+As always, our ending backlog and net bookings figures reflect firm customer orders rather than total contract value. The total value of customer contracts, which varies from quarter-to-quarter averages on a historical basis, about 200% of our total ending backlog. Also, keep in mind that our backlog excludes a portion which of course varies from period-to-period of our sensor bookings, since those orders typically convert to shipments within a single quarter.
+
+At this point, I'd like to share some details about the performance of our product portfolio. For our sensors and third party hardware, which we refer to collectively as Products. we reported fiscal 2025 first quarter revenue of $24.4 million, representing a 3% increase year-over-year. As a reminder, the year-over-year comparison was very challenging due to the release of sensor backlog, which it accumulated over prior periods as a result of global supply chain constraints that we experienced in the prior year.
+
+During the first quarter, our teams continued to meet critical commercial and product milestones that will drive future growth. These milestones included the launch of our new Vantage PedSafe sensor, which is the product resulting from a technical collaboration with Sumitomo Electric Industries that we discussed on our May earnings call. The release to production of our new Vantage Next and VantageRadius, advanced connectivity solutions will enhance our VantageCare offer and accelerate our annual recurring revenue attach rate and the initiation of field testing for our new Vantage Apex Rackmount sensors that are scheduled to start shipping in October 2024.
+
+Now, I'd like to review the performance of our services portfolio which includes our various consulting services, managed services, software-as-a-service and data-as-a-service offerings. We reported record service revenue of $21.4 million in our fiscal 2025 first quarter representing an 8% increase year-over-year and that's despite the challenging comparison I mentioned earlier. This growth is attributable to continued strong demand particularly for our software-as-a-service solution, ClearGuide.
+
+We also benefited from further improvements in our internal labor capacity, reflecting the progress of the various initiatives we've discussed on prior calls. To sustain strong customer adoption of our services portfolio, we continue to introduce important new enhancements to our ClearMobility Platform. For example, in the first quarter, we introduced a traffic flow data fusion engine, new intersection risk and work zone impact models using Applied AI and web services and database systems enhancements. We expect to improve the user experience, increase our cross-sell rate and lower our cost of goods sold.
+
+In summary, we're very pleased with our fiscal 2025 first quarter record revenue. Our record trailing six-month net bookings and record-ending backlog. Additionally, we believe Iteris continues to demonstrate significant progress and involved – in evolving to a platform based business model that will produce significant strategic and financial benefits for the company. As a result, we remain very confident, Iteris has positioned to realize progressive improvements in our financial profile over the next several quarters.
+
+And on that note, I'm going to pass the mic to Kerry to provide more color on our first – our fiscal 2025 first quarter financial results. And then after that, as I typically do, I'll come back to further discuss our expectations for the second quarter and the full year.
+
+Thanks, Joe, and good afternoon or evening to everyone. As you review our first quarter results, I want to reiterate Joe's comments regarding prior year comparisons when assessing the overall momentum of the business. The prior year comparisons have been affected by dynamics stemming from prior global supply chain constraints, particularly for sensor shipments, while we also benefited from certain key milestone achievement for some very large consulting projects in the first quarter last year, which we commented on at the time. As Joe also described, I want to underscore that our strength in the market continues to be demonstrated by our record bookings level for the six month trailing period and our record backlog at the end of the first quarter of this year. Because Joe already addressed revenue results, I will move down the income statement as usual to the gross profit line and provide some underlying details.
+
+On a consolidated basis, the fiscal 2025 first quarter consolidated gross profit reached $17.3 million, an improvement of $500,000 or 3% over last year. The increase was driven by a $900,000 improvement in services, which partially was offset by decline in products. The services gross profit improvement reflects the 8% year-over-year revenue increase Joe mentioned, as well as the benefit of stronger consulting labor mix resulting from increased internal labor capacity. The first quarter decline in products gross profit primarily reflects the impact of product from increased internal labor capacity. The first quarter decline in products gross profit primarily reflects the impact of product mix and some negative inventory adjustments.
+
+Looking at gross margins, the first quarter of this year reached 37.9% in the aggregate, which was 70 points basis – I'm sorry, 70 basis points lower when compared to the same period last year. Services gross margin improved 220 basis points, reflecting the improvement in labor mix. Product gross margin was 280 basis points lower due to product mix and negative inventory adjustments. Operating expenses in aggregate for the first quarter of fiscal 2025 were $17.1 million or 15% higher than when compared to the same period last year and 320 basis points higher when measured as a percentage of revenue. The increase was largest in the sales and marketing category and resulted from higher head count and increased sales and marketing expenses associated with several large sales pursuits.
+
+The next highest increase was in research and development, and reflects expected investment growth to support new products. And then finally, higher general and administrative expense was due to executive severance costs. The factors discussed related to revenue, gross profit and operating expense fundamentally explain the major comparisons in operating income and net income. For adjusted EBITDA, these same factors is also apply with the exception of the impact of executive severance costs, which was excluded from adjusted EBITDA. As Joe noted, adjusted EBITDA was $2.9 million for the first quarter of fiscal 2025, which compares to $4 million for the same quarter last year.
+
+Total cash and cash equivalents at the end of the first quarter of fiscal 2025 were $21.4 million, which compares to $25.9 million at the end of the preceding quarter. The reduction primarily reflects an increase in accounts receivable relating to the timing of sales and collections. In our effort to continue to focus on the range of actions to create shareholder value. We also spent $600,000 to repurchase common stock during the quarter.
+
+I now will turn the call back over to Joe, who will discuss our fiscal 2025 guidance and provide closing comments.
+
+Great. Thank you, Kerry. The smart mobility and structure management market continues to represent significant long-term opportunities due to favorable technology and market trends. For example, the adoption of cloud infrastructure, artificial intelligence and connected and automated vehicles will continue to drive significant smart mobility investments by state and local agencies, as well as by various private sector entities. Therefore, we remain extremely optimistic about the long-term opportunity in front of Iteris, especially given the breadth of our platform, our brand equity and our customer reach.
+
+Over the balance of fiscal 2025, Iteris will continue to deliver against an aggressive solutions roadmap that includes the following major releases. A new form factor that will significantly expand the serviceable addressable market for our AI-based detection system Vantage Apex. A new mobility dataset will address various new use cases and will expand the universe of prospective buyers for mobility data, including new commercial entities like the recent deal we announced with Telenav. A cloud-connected edge solution provider on a subscription basis for remote monitoring and management of critical third-party assets deployed across local and statewide transportation networks. A combination of new cloud and edge applications will enhance, expand our connected vehicle solution portfolio and will drive both product and annual recurring revenue. And a highly advanced radar-based pedestrian detection system developed in partnership with Sumitomo that will be fully integrated with our ClearMobility Platform and is expected to transform pedestrian detection and pedestrian safety in North America.
+
+We believe our fiscal 2025 release plan will increase our total and serviceable addressable markets, accelerate the adoption of our ClearMobility platform and improve the monetization of our expanding mobility datasets in fiscal 2025 and beyond. For example, as noted earlier, the release of our new pedestrian detection system, which is scheduled to occur in our fiscal third quarter, will more than double Iteris's total addressable market for detection solutions from approximately $500 million to $1 billion.
+
+In addition to the focus on our Solutions portfolio, we'll continue to pursue key operational priorities, including the productivity of our distribution network, maturity of our customer success function and internal labor capacity of our consulting teams. As a reminder, the tactics outlined on our prior earnings calls have already produced measurable improvement in our internal labor capacity.
+
+Next, I want to address our guidance. We continue to expect fiscal 2025 full-year total revenue to be in the range of $188 million to $194 million, representing organic growth of 11% year-over-year at the midpoint of the guidance range. Due to the volume improvement and our continued cost discipline we also continue to expect an improvement in our full year adjusted EBITDA margin to be in the range of 8% to 10% of revenue. This would represent a 150 basis point improvement in adjusted EBITDA margin at the midpoint of the guidance range even after we continue to invest in talent acquisition and talent development. Although we're not providing that bookings guidance, we do continue to expect some bookings lumpiness over the next several quarters due to the timing of several large pending orders.
+
+With respect to our fiscal 2025 second quarter guidance, we expect total revenue to be in the range of $44 million to $48 million, representing organic growth of 6% year-over-year at the midpoint of the guidance range. This rate of growth is a result of some revenue that was previously expected to occur in our fiscal 2025 second quarter, but instead occurred in our fiscal 2025 first quarter. Also, our fiscal 2025 second quarter rate of growth reflects the timing of various new product releases that will not occur until the end of our fiscal 2025 second quarter or the start of our fiscal 2025 third quarter. Due to costs associated with the final development and pre-launch activities for those product releases. We expect fiscal 2025 second quarter adjusted EBITDA margins to be in the range of 6% to 7%. The midpoint of the guidance range represents a 20-basis point sequential increase, but a 20-basis point decrease year-over-year. While we're not providing fiscal 2025, third or fourth quarter guidance at this time, we continue to anticipate sequential improvement in adjusted EBITDA margins as our fiscal 2025 full-year guidance clearly implies. Due to the forecasted increase in fiscal 2025 total revenue and adjusted EBITDA margin, we anticipate continued improvements in our liquidity, which should provide adequate cash for future tuck-in acquisitions. And additionally, we will continue to evaluate other actions such as further share repurchases to return excess liquidity to shareholders.
+
+Looking beyond fiscal 2025, we continue to believe Iteris is on track to achieve our Vision 2027 targets. In other words, we continue to estimate fiscal 2027 revenue to be in the range of $245 million to $265 million before any additional acquisitions, which would represent a five year organic revenue CAGR of nearly 14% at the midpoint. With a substantial increase in annual revenue. We also anticipate progressive benefits from scale to result in fiscal 2027 adjusted EBITDA margins in the range of 16% to 19%. And additionally, we anticipate our acquisition program would be additive to our organic Vision 2027 targets.
+
+So with that, we would be delighted to respond to any analyst questions or comments. Operator? Are there any questions for us at this time?
+
+Yes. [Operator Instructions] Your first question comes from the line of Jeff Van Sinderen with B. Riley. Please go ahead.
+
+Yes. Hi, everyone. Just wanted to circle back to the quarterly revenue progression and I know you gave guidance for Q2 and we see kind of what's implied in the annual revenue guidance. Can you maybe just touch on the timing elements that you're looking at today regarding what the second half revenue cadence might look like?
+
+Yeah, I mean, we're obviously implying like high teens, organic revenue growth in the second half. And I'll just say that that's a function of various products that are being released in September or the beginning of our third quarter. By definition, what I'm suggesting is these tend to be products. They're going to generate product revenue. It's a bit more specifically, I'm talking about our Apex Rackmount sensor and our pedestrian detection sensor. The revenue is directly tied to when we begin shipping those products, which we're already selling. But beyond that, Kerry do you want to talk about what's going to lay out in the third and fourth quarter?
+
+Yeah, I think, the – some of it's a little redundant, Jeff, but so releases especially for the pedestrian radar will be during the third quarter. It should continue to ramp up in the fourth quarter and then we'll still have some of the overall seasonality impact where our fourth quarter, clearly we would expect to be stronger than our third just from a normal pattern. So, that should be the cadence and we should continue to see some upward trajectory progressively as we go through the year.
+
+Okay. That's helpful. And then as we're thinking about gross margin and modeling that, I know mix is a big play there and you've got some new products launching for second half. How should we think about kind of the cadence of gross margin end of the year?
+
+Yeah, I think it should similarly be on an upward track as we go along. I think part of that's going to be clearly just revenue leverage that will help us clearly from an EBITDA margin perspective, that would be the case. But even at the gross margin level, I think there should be some directional small picks upwards as the year.
+
+And I know, Kerry, you might want to comment that there're additionally some product related and marketing related investments that are occurring in the first half in anticipation of these product launches too.
+
+Yeah, on the OpEx, for example, sales and marketing, as I commented, were unusually large because of both proposal activity that is being worked on for some large opportunities that we're chasing, as well as some other things....
+
+Like pre-launch activity.
+
+Yeah.
+
+Associated with these product releases.
+
+Yeah. I might as well just continue, our R&D, we do expect to continue to – we have planned on spending more money this year overall. I think, the first quarter was reflective of that, Jeff. So, I would almost use that more as a benchmark than what happened in the prior year. SG&A, we did have a blip this quarter, as I'd mentioned.
+
+Okay. So when we're thinking about SG&A, so could SG&A dollars be down sequentially in Q2 or should we just think that the rate is going to ease?
+
+I think that you, from a nominal perspective, ought to expect SG&A to be down nominally.
+
+Okay, good. Good to know. And then if we could, I just wanted to circle back because since we're on the topic of new products, anything new to add on the pedestrian detection product with Sumitomo. I think you said that you're selling that now. Maybe is that out in the field? What does it look like? Anything around that?
+
+Yeah. So we launched the product in – earlier this quarter, which means that we're actively selling it. But obviously we won't recognize revenue until we begin shipping units. Associated with the launch activities, we do have demonstration product and we are initiating some pilots with various customers. We are seeing very favorable market response, high level of customer interest at this time, and we are beginning to take orders.
+
+Okay. Great. And then similarly on the Rackmount product.
+
+Yeah. So the Rackmount product is different. It's that we have our Apex product is already available on a form factor which we call Shelf mount. There's no functional difference between the Rackmount and the shelf mount product. However, about half of the country, the jurisdictions have a standard which requires them to utilize the Rackmount form factor, which means that we've not been able to sell the Vantage Apex product in at least half of the country. So we are currently taking orders for the Rackmount version and customers are very familiar with the Apex product. And again, there's no functional difference, but we significantly increase our serviceable addressable market with the introduction of this new form factor. And that product is scheduled for release in October.
+
+Okay. So it's just..
+
+It's related to the traffic cabinet basically that...
+
+Right, which drives that form – the appropriate form factor, right? Correct.
+
+Yeah. So, I guess the follow-up to that is just, has that been holding you back, the fact that you didn't have a Rackmount unit and now you will in October, you have that shipping.
+
+Oh, absolutely. Yeah.
+
+Yeah.
+
+Yeah, it's totally held us back. And in those geographies which, only use a Rackmount form factor, it's been an obstacle to upgrade people from our Edge or our Next product to the Apex family. There's significant demand for the Apex product, and we will be able to get – begin fulfilling that in our third quarter.
+
+I think, at this point...
+
+Okay. Great to hear. Sorry, go ahead.
+
+I think, [indiscernible] (00:26:19) release was logical for us to start with a shelf mount and then move to the Rackmount as far as kind of the engineering sequence, but we're very...
+
+Oh, absolutely. But I mean, further, just to be totally transparent. I mean, we would have had the Rackmount version in market probably four quarters ago, if not for the supply chain issues, which required us to refactor a lot of our circuit boards. And, so it consumed a lot of development capacity. And so we're behind schedule that we'll be addressing that market demand, in the very near future.
+
+All right, there just one last one, if I could squeeze it in. Are there any supply chain issues at this point that you're either experiencing or seeing or anticipating?
+
+Not in anything that's affecting our ability to manufacture our products. Joe, I don't know if there is anything in the surrounding marketplace that's sort of is [indiscernible] (00:27:21)
+
+Yeah. So, Jeff, I'm just trying to answer your question, like to kind of apply like the prior lens that we were looking at to answer. I think, the answer is like clearly no.
+
+Okay.
+
+We're not experiencing any kind of broad global supply chain constraints similar to what we experienced several quarters ago. We don't anticipate that occurring.
+
+There from time to time we will receive notification of, like, end of life of certain components. And so, we need to endeavor to figure out how we're going to best replace those products. And then, we're always trying to figure out how to optimize our component costs and so we're also making those changes. I think what Kerry is referring to, which is an excellent point, is this has nothing to do with our supply chain, which we think is very robust at this point in time. But we do have some third-party dependencies. For example, if an agency has decided to modernize an arterial corridor, which would include kitting the intersection with the newest detection equipment, that's probably going to require them to get a new cabinet and maybe other components like a new signal controller. We do from time to time continue to hear about some delays in those third-party products. And that can have a knock-on consequence for us in just simply delaying projects. But in terms of our supply chain, we are not experiencing any kind of exposure.
+
+And we don't think there's any existential kind of things going on around us. It's going to affect timing more – we don't think it's going to affect fundamental demand. But sometimes we can't control the timing of everything going on around us.
+
+Right.
+
+Yeah. And Jeff, the reason there I think we're still from time to time we will experience some delays with these third-party products is that, as you know, we were extremely aggressive in working through our supply chain issues, and so they're well behind us. But I think, that there are some other participants in our marketplace that weren't able to move as swiftly as we have and so they're still getting caught up. And then additionally, as we've talked about, there are labor constraints in the marketplace which can also impact some of these third parties as well. But again, we do not feel any particular exposure to unusual global supply chain constraints ourselves.
+
+Okay, great. Thanks for taking my questions. I'll let someone else jump in.
+
+Thanks, Jeff.
+
+Your next question comes from the line of Michael Latimore with Northland Capital Markets. Please go ahead.
+
+Hey, guys, this is actually [ph] Alex Latimore (00:30:21) on for Mike Latimore here. I've just got two questions for you guys. The first one being you said that you've had a goal of hitting 110% on SaaS net dollar retention rates. If you could shed some light maybe on what it was in this quarter and where you see that level going for fiscal year 2025, that would be great?
+
+That's great question. I don't know if we have, our net dollar retention rate handy for the current quarter.
+
+I hate to quote it because I don't have it in front of me, [ph] Alex. (00:30:56)
+
+Yeah. [ph] Alex, (00:30:57) if we can get you that number on our follow-up call it'd be probably better than us speculating. In terms of fiscal 2025, I don't think that we've formulated – well for the year, you know our target is 110%. But if you're meaning like beyond that, I don't think we've formulated a view that we'd feel comfortable sharing with people at this point. But I would say that our view is that anything over 105% is a very good net dollar retention rate.
+
+Okay.
+
+Obviously, we endeavor to do better. Don't get me wrong, we want to be best practice or best in class, but our objective is definitely to be north of 105%.
+
+Sweet. And then my second question here is, do you see the budgets specifically in California, Texas and Florida for the upcoming year as favorable to your areas and if so or if not, why?
+
+Yeah. [ph] Alex, (00:31:56) that's an excellent question. So, we have not specifically been notified of any – by our customers, of any particular budget issues that have resulted in any opportunities that we're pursuing going away or necessarily being pushed out. Now, we do see things move to the right as a result of a lack of labor capacity, both within agencies and with other third parties. And then some of the components that I talked about. So we do see things pushing to the right, but so far we haven't seen anything with respect to budget. But that being said, there I think everyone is obviously paying close attention to kind of broader economic conditions. And I would say that our agency customers are – they're certainly mindful of that as well. So far, in the few instances that I'm aware of where there have been budget shortfalls that could have impacted specific projects in those instances, again, based on what I'm familiar with, that state or local agency has been able to backfill that budget gap with federal funding, which would have obviously been distributed through some kind of IIJA mechanism, could either be the result of like formula funding that provided a backstop, some special grant or some kind of competitive grant money that they've been able to secure as a backstop.
+
+Okay. Perfect. That's great color there. That's all I've got. Thanks for your time, guys.
+
+Sure enough.
+
+Thank you.
+
+Your final question comes from the line of Allen Klee with Maxim Group. Please go ahead.
+
+Hey, guys, this is Derek Greenberg on for Allen. My first question is just with the Orange County Transportation Order from couple months back, that $10 million deal. I was just wondering how that's progressing and how you foresee the impact of that playing out from a timing perspective.
+
+Yeah, it's a great question. So that project is on schedule. There – of the nearly $10 million, about $2 million of it is SaaS revenue for our ClearGuide product. And so that's recognized ratably over the three-year term. The professional services element, even though that nature of the work changes, from phase to phase, the overall sort of estimated labor capacity remains relatively constant over that period. So I don't foresee any particular fluctuations in terms of the revenue recognition against that – on that contract. And as I said, you know, it's in – it's on schedule. We are currently recognizing revenue against it and I'd expect the revenue recognition to remain relatively constant for the duration of the contract.
+
+Okay. Great. And then maybe just a little bit on the, the labor and talent acquisition program you guys have.
+
+Yeah, sure. So as for people who aren't following all this closely, I'll just provide some context. Obviously generally the labor market has been constrained, I think across basically all economic sectors, but it has been particularly constrained in the traffic engineering and more generally even in probably the transportation sector. And that impacted agencies. It's impacted other participants with whom we in certain instances have various dependencies we talked about, and it's frankly impacted our ability to hire as much talent as we had anticipated, particularly last year. And as we talked about, that was a limiter in terms of, our revenue recognition, our rate of growth. About the same time last year, we announced that we were going to initiate various programs to try to amp up our talent acquisition capabilities, including sourcing more talent out of international markets, which then was going to require us to spend more from a legal perspective in order to get the appropriate work permits for those individuals.
+
+I would say that by and large, our program has met our expectations. I wouldn't say that we're at 100%, but I would say that, we're, I don't know, maybe like 60% to 80% of goal. And, we feel like our talent pipeline continues to improve. So I would not expect I mean, Kerry, I think, kind of alluded to, I mean, there were some modest impacts in the – with respect to mix in that most recent periods. And to some degree, that's because there were still instances where we needed to use third-party contractors to perform some work. So we didn't have the direct labor capacity. But the degree to which that's happening is continuing to get less and less and we expect that to continue going forward. And I'd also say more broadly that while we are concerned I think as everybody is about what the future economic environment is going to look like that actually is going to make it easier for us to recruit and maintain talent, which – so there's a silver lining to that.
+
+I think progressively knock-on benefit too, is that even though attracting talent – finding and then attracting talent, at kind of more experienced levels as we have found people that maybe are younger and 10-year younger and experienced, they're going to continue to get trained up also. So progressively over time, their capability is going to continue to improve. So...
+
+Right. For sure and there was really that mid-level cohort that was a particular pinch point for us and that's why trying to access that talent in international markets. So these would be people with like 5 to 10 years of experience that we've been able to pull in from other geographies has been extremely beneficial and kind of fill that hole.
+
+Okay. Great. Thank you. That's very helpful. My last question is just on the litigation and if there's any updates there.
+
+Yeah, a great question. So we had previously said that, we had expected the Wavetronix trial to occur in the April period. That obviously didn't happen. I think, we talked about on our last call. At that time, we were expecting the trial to occur in early September. At this point, we are working with the court as well as Wavetronix to agree on a particular trial date. We still expect that to occur in September. But we don't have a specific trial date at this time.
+
+All right. Got it. Thank you.
+
+Thank you. Mr. Bergera, there are no more questions from covering analysts. Would you like to address any investor questions before providing your closing remarks?
+
+Yeah. Sure. Thank you, operator. Actually, we did receive, in fact, several questions from one investor regarding artificial intelligence. Unfortunately, given the limited amount of time we have on this call and also that this particular venue, I'm going to limit today's comments to our AI strategy and the opportunities we believe AI represents for Iteris. As stated in the AI white paper we published last year, I just want to reiterate that we believe Iteris is pursuing the most comprehensive, holistic AI strategy in our end market. Our strategy is multilayered, and it leverages various forms of AI and machine learning across all levels of our ClearMobility platform.
+
+For example, we use AI in our Edge devices such as our video sensors for detailed object classification, which derives valuable metadata and enriches our data lake. And additionally, this object classification data enables agencies to categorize corridors by type of vehicle traffic over time, such as periods of high commercial vehicle traffic that can then be used to improve traffic flow and reduce noise and air pollution.
+
+Going forward, we intend to introduce additional AI capabilities in our Edge devices to address use cases for highway vehicle tracking, pedestrian movement, active use trails and urban mixed environments. And then at the cloud layers as opposed to that Edge layer, which I just talked about, again at the cloud layers of our ClearMobility Platform, we continue to add more data and more types of data from our – across our entire ecosystem. These constantly growing data sets also enable us to expand our uses of AI. So, for example, the new intersection safety and work zone models which I mentioned earlier, are a byproduct of our unique access to verified event data and our multi-layered approach to AI.
+
+For further context, our AI based intersection model uses AI to predict accidents and recommend appropriate countermeasures and likewise, our work zone model identifies various risks and countermeasures to inform work zone design and management. Because we operate in a highly competitive marketplace, as you all know, we're going to continue to be measured in terms of our comments about our AI roadmap. But that being said, I want to confirm that we continue to identify very compelling uses of AI. They'll create social and economic value for both our public sector and our private sector customers and we'll continue to provide our investors more visibility to these specific opportunities in due course.
+
+So, with that, I want to note that we'll be conducting various investor outreach activities over the next few months. And, of course, as always we're available to speak with investors should you have any follow-up questions. In the meantime, I want to say we look forward to updating you again on our continued progress when we report our fiscal 2025 second quarter results. And with that, we're going to go ahead and conclude today's call.
+
+Thank you, everyone.
+
+Ladies and gentlemen, that concludes today's call. Thank you all for joining. You may now disconnect.

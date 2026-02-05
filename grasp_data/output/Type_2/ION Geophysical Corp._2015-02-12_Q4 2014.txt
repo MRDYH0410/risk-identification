@@ -1,0 +1,182 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+Karen Abercrombie — VP-Marketing & Head-Media Relations, ION Geophysical Corp.
+R. Brian Hanson — President, Chief Executive Officer & Director, ION Geophysical Corp.
+Steven Bate — Chief Financial Officer & Executive Vice President, ION Geophysical Corp.
+Georg P. Venturatos — Analyst, Johnson Rice & Co. LLC
+Joe Maxa — Analyst, Dougherty & Co. LLC
+Rudy A. Hokanson — Analyst, Barrington Research Associates, Inc.
+Robert L. Jones — Research Analyst, Simplon Partners LP
+
+Management Discussion Section
+
+Question And Answer Section
+
+Greetings. Welcome to the ION Geophysical Fourth Quarter Earnings Conference Call. At this time, all participants are in a listen-only mode. A brief question and answer session will follow the formal presentation. [Operator Instructions] As a reminder this conference is being recorded. I'd now like to turn the conference over to your host Karen Abercrombie, Vice President of Communications. Thank you Ms. Abercrombie. You may begin.
+
+Thank you, Rob. Good morning and welcome to ION Geophysical Corporation's fourth quarter 2014 earnings conference call. We appreciate you joining us today. As indicated on slide two, our hosts today are Brian Hanson, President and Chief Executive Officer and, Steve Bate, Executive Vice President and Chief Financial Officer. Before I turn the call over to them, I've a few items to cover. We'll be using slides to accompany today's call. They're accessible via a link on the Investor Relations page of our website, iongeo.com. There you'll also find a replay of today's call.
+
+Moving on to slide three. Information reported on this call speaks only as of today, February 12, 2015 and, therefore, you're advised that time-sensitive information may no longer be accurate at the time of any replay. Before we begin, let me remind you that certain statements made during this call may constitute forward-looking statements, which are based on our current expectations and include known and unknown risks, uncertainties and other factors, many of which we're unable to predict or control that may cause our actual results or performance to differ materially from any future results or performance expressed or implied by those statements. These risks and uncertainties include the risk factors disclosed by ION from time to time in our filings with the SEC, including in our Annual Report on Form 10-K and our Quarterly Report on Form 10-Q.
+
+Furthermore, as we start this call, please refer to the disclosure regarding forward-looking statements incorporated into our press release issued yesterday and please note that the contents of our conference call this morning are covered by these statements.
+
+I'll now turn the call over to Brian who will begin on slide four.
+
+Thanks, Karen, and good morning, everyone. As we reported yesterday, our full year revenues were $510 million, down 7% from 2013. Three of our four business segments were negatively impacted by the slowdown in exploration spending by E&P companies, the exception being our Ocean Bottom Services segment.
+
+Our fourth quarter results were impacted by several one-time restructuring and special items, all with the exception of $2 million, our non-cash items. I'll hit the highlights but Steve will cover these in more detail later in the call. First, in the light of the expected prolonged slowdown, we initiated a restructuring plan, reducing our workforce by approximately 10%. This reduction should result in an annual cash savings of $15 million.
+
+This restructuring is a significant move to better integrate and align our entire workforce with our strategy of providing solutions directly to E&P companies. Second, the special items I just mentioned included a write-down of data library investments associated with our Arctic and onshore North America programs. We expect these regions to be timed out for the next two to three years, which is the accounting, not economic life of these programs.
+
+Third, and consistent with our strategy of moving away from the equipment business, we also wrote down our investment in INOVA Geophysical and our evaluating our strategic options related to our ongoing ownership in the joint venture. Although we never anticipated seeing $50 oil, we did identify the oncoming slowdown in our industry in the third quarter of 2013 and made the decision to conservatively manage our business and to focus on cash generation.
+
+Our cash balance at the end of 2013 landed at $113 million and through 2014, we successfully increased it by another $60 million to over $170 million, while at the same time investing in our Ocean Bottom business. We will continue to manage our business just as conservatively in 2015. We are pleased with our continued penetration into the Ocean Bottom Services market through OceanGeo, which generated significant cash and over $100 million in revenues in 2014.
+
+During the fourth quarter, we completed acquisition of a survey offshore West Africa and were awarded and completed another survey in an adjacent area with a new customer. Whereas the towed streamer market is being hampered by the pullback in exploration spending, the outlook for Ocean Bottom Seismic, which is typically employed later in the exploration and production life cycle, looks strong.
+
+During 2014, as we increased our ownership in OceanGeo to 100%, we upgraded our vessels for more efficient operations. OceanGeo is ready to take advantage of continued demand for Ocean Bottom Seismic, especially in West Africa, where demand is strong.
+
+Shifting to our multi-client business, while our fourth quarter and full year revenues were down for both our new venture and data library businesses, our strong cash position enabled us to selectively invest in projects that make sense, leveraging lower vessel day rates. In the fourth quarter, we initiated three new 2D BasinSPAN programs: [ph] NamibiaSPAN (00:05:35) a 10,000 kilometer survey we're developing in offshore Namibia in collaboration with BGP; PeruSPAN, a 12,000 kilometer program we're developing in cooperation with PeruPetro to be processed using our wideband broadband processing; and LibyaSPAN a 7,700 kilometer survey being developed in collaboration with BGP, designed to create a comprehensive picture of the geology north of the Libyan coast in the Mediterranean sea. In all of these programs, we maintained our discipline around underwriting standards and did not take any more than 30% exposure in any given project, consistent with past practices.
+
+In our data processing business, our focus throughout 2014 was to improve efficiency through aggressive cost control, while continuing to add new technologies to our data processing tool kit. During the year, we introduced PrecisION, an innovative compressed seismic inversion process for building earth reconstructions with improved accuracy to help geo-scientists better understand exploration risk and uncertainty. And we continue to advance and evolve our Full Waveform Inversion technology designed to help our clients drive high fidelity earth models that can be used for more accurate prospect evaluation and reservoir exploitation. We completed several Full Waveform Inversion projects during the year.
+
+Our software business has proven to be remarkably resilient, generating slightly higher revenues in 2014 than in 2013, adjusted gross margins of 72% and adjusted operating margins of 51%. Throughout the year, we continued to penetrate Tier 2 contractors with our core Orca command and control software. In addition, as we mentioned on our last call, we are diversifying our software portfolio to include E&P systems for managing simultaneous operations in both seismic and production environments, a family of offering we call Marlin, which is now commercial. Marlin is another example of extending our solutions into the later stages of the exploration and production life cycle.
+
+And finally, as expected, our Systems segment revenues were down as the offering continues to mature and marine contractors reduce spending on new equipment, preferring to maintain their older kit. As we have stated in the past, we are not investing in R&D in this area. Rather we are focusing R&D and developing technologies to deliver higher value solutions directly to E&P companies.
+
+I'm going to turn the call over to Steve now to go through the financials, then I'll come back and wrap up.
+
+Thanks, Brian. Good morning, everyone. Before I get into our operating results by segment, I would first like to provide an overview of the significant charges that we took this quarter, resulting from our restructurings.
+
+We reported a fourth quarter GAAP net loss of $181 million, or a loss of $1.10 per share, which included several restructuring and other special charges, totaling $170 million that reduced our earnings per share by $1.03. Excluding these charges, our net loss was $11 million, or a loss of $0.07 per share. Of these restructuring charges and special items, $109 million of charges impacted cost of sales, of which $101 million primarily related to a write-down of the multi-client data library within the Solutions segment and $8 million related to inventory write-downs and severance related charges within the Systems segment.
+
+$33 million of charges impacted operating expenses, of which $25 million related to impairment of goodwill within the Systems segment, $2 million was associated with the write-down of intangible assets within the Solutions segment and $6 million was attributable primarily to the write-down of receivables due from INOVA Geophysical within the Corporate and Other segment.
+
+$34 million of charges impacted equity earnings primarily due to the full write-down of our equity method investment in INOVA Geophysical. And $6 million of gains impacted other income, primarily related to our sale of the cost method investment. Of the total $170 million of special charges, only $2 million required using cash. With that the remainder of this call will be focused on our core results, excluding the restructurings and other special items.
+
+Turning to slide nine, our fourth quarter revenues were $137 million, a 37% decrease from the fourth quarter of 2013. This decrease was due to a decline in revenues across our Solutions, Software and Systems segments, which more than offset revenues generated by our Ocean Bottom Services segment. Our consolidated adjusted gross margin decreased to 34%, compared to 47% in the fourth quarter of 2013. Our adjusted operating margins were 4% compared to 30% last year.
+
+This decrease in both gross and operating margins was primarily driven by the revenue decline in our Solutions and Systems segments, which more than offset the uplift in margins from our Ocean Bottom Services segment. Our adjusted EBITDA for the quarter was $25 million, compared to $104 million one year ago. This year-over-year decrease was the result of last year's record fourth quarter data library revenues by our Solutions segment, which were not repeated this quarter.
+
+Now let's take a closer look at our fourth quarter performance, starting on slide 10. Our fourth quarter Solutions segment revenues were $80 million, a 52% decrease from the fourth quarter of 2013, within the Solutions segment, new ventures revenue were $22 million, down 64%; data library revenues were $36 million, down 52%; and data processing revenues were $22 million, down 25%. All businesses within the Solutions segment continued to be impacted by the ongoing softness of exploration spending.
+
+Solutions had an adjusted operating profit of $10 million and an operating margin of 13%, down from an adjusted operating profit of $61 million and an operating margin of 37% in the fourth quarter of 2013. Given our disciplined spending throughout 2014, our full year investment in our multi-client library was $68 million, down from $115 million in 2013.
+
+Turning to slide 11. Our Software segment revenues were down compared to the record revenues generated in the fourth quarter of 2013, primarily due to lower Orca licensing revenues. Despite this, the segment generated solid overall adjusted gross and operating margins of 66% and 41% respectively during the quarter.
+
+Moving on to slide 12. Systems segment revenues were $16 million, a decline of 59%. This year-over-year decrease was primarily due to a reduction in sales of new marine positioning systems and land geophone strings compared to the fourth quarter of 2013.
+
+In the fourth quarter, Systems adjusted operating loss was $900,000 and the segment recorded a negative 5% operating margin. This compares to an adjusted operating profit of $12 million and a 30% operating margin in the fourth quarter of 2013. This decrease in our Systems operating margin was primarily due to a decline in revenues, as well as our continued investment in the development and support of our Ocean Bottom Systems for OceanGeo.
+
+Turning to slide 13. Ocean Bottom Services segments revenues were $32 million, resulting from OceanGeo work performed off shore West Africa. OBS operating profit was $7 million, a 21% operating margin in the fourth quarter of 2014.
+
+Turning to slide 14. As Brian mentioned, we wrote our investment balance in INOVA down to zero. We currently have no contractual commitments or intend to continue to fund INOVA's losses going forward. Therefore, given our investment balance is now zero, we would discontinue recording our share of losses in the joint venture going forward.
+
+Turning to slide 15. Our financial bright spot for 2014 was our ability to generate cash flows during this continued soft period of exploration spending. As of December 31, our cash balance stood at $174 million and our net debt, defined as total debt less our cash balances, was $17 million. During 2014, we generated net cash flows before financing activities of $81 million, compared to a use of cash before financing activities of $11 million in 2013. We have not drawn upon our new credit facility, which we entered into with a group of western banks in August, 2014.
+
+With that, I'll turn the call back over to Brian.
+
+Thanks, Steve. 2014 was a challenging year and we see those challenges continuing through 2015 and into 2016. Budgets are being locked-in late this year and, as such, many of our customers have been in a wait-and-see mode and not committing to data processing work and underwriting new venture programs. Although many data processing projects are being quoted to customers, they are simply waiting to see their budgets before making decisions to move forward. Typically, the data processing business fares well in down cycles, as E&P customers shoot less data but utilize the latest processing algorithms on existing datasets to get the most out of them with the least capital outlay.
+
+However, it's still too soon to see if this cycle will repeat this historical experience. We even saw the impact of delayed budgets in Ocean Bottom business as the tendering process we are currently working through for our next job was delayed by several weeks as the customer struggled with the dramatic drop in the oil price. In the end, it was finally kicked-off and we're now in the middle of negotiations. This will create a couple of months of unexpected downtime for the crew, which we're taking advantage of to implement system upgrades and complete necessary maintenance on the vessels.
+
+We're optimistic we should be back to work in three to five weeks. However, there are no guarantees in today's rapidly changing environment. As for the multi-client business, we expect our CapEx will be down from 2014 levels. However, we have not locked in our budget until we see what our customers are doing. We expect the lock-in by the end of March and we'll give more color on CapEx spending plans on our next call.
+
+Once our customers' budgets are locked-in, I'd expect we'd see exploration side of E&P budgets to be down an estimated 25% to 35%, compared to 2014 and I'd also expect to see our customers to take their time committing their spend on those budgets as we weather the current commodity price storm.
+
+In short, we're expecting the first half of the year to be slower than the second. While we can't control the price of oil, or E&P CapEx spending, we can and will continue to manage our business conservatively with the continued focus on cash preservation. Consistent with 2014, we will continue to exercise spending discipline across all of our businesses, funding new programs only when they have been adequately underwritten by our customers and we will continue to invest in key strategic technologies and market opportunities.
+
+With that I will turn the call back over to the operator for Q&A.
+
+Thank you [Operator Instructions] . Thank you. Our first question is from the line of George Venturatos with Johnson Rice. Please go ahead with your question.
+
+Hey, good morning guys.
+
+Good morning George.
+
+Hey, just wanted to kickoff on the Ocean Bottom Services side. Obviously, a very strong quarter for you guys. Just wanted to clarify in terms of when that contract came off-contract in the fourth quarter. Presumably it was towards the end. And then in terms of the tenders that you're working on, or tender you're working on right now in terms of negotiation, what should we expect in terms of term length there? And then also given the margins that during the quarter, should we anticipate this should continue to be kind of an – operating margin around the 20% range?
+
+Yeah. So, let me take each one of those individually. So, the first is we worked pretty steadily right up until like – somewhere around the middle of December and then we steam the vessels up to Las Palmas, where we're doing – where we put them into our maintenance program up there. That was always planned, Georg. What we didn't expect was the delay in the actual tendering process. So, they're going to be spending more weeks in Las Palmas than we had originally intended.
+
+The length of the tender, we're actually pursuing multiple jobs in the same region. And each of those has a different duration, and each of them – we're working on each of them at the same time. And so my expectation is the duration, if we execute all three of those, which is a high probability, the duration of those will take us well into 2016. Now, as far as margins, our expectation is if we're going to be in the OBC business, we're going to be in it to make money. And so we're being very disciplined about quoting our work at those required margin levels. And to the extent that we're not – as you can appreciate, we're more asset-light, much more flexible.
+
+So, we're not in the position where we have to take on unprofitable work to keep vessels operating to stay in business. We've got a portfolio of offering that we can turn to if we need to.
+
+Okay, great. And then I just wanted to follow up. You had mentioned the cost cutting efforts, workforce reduction, 10%, and annual cash savings there. Should we see that as a largely fully reflective in 4Q, or do we still have some of that wasn't entirely baked into what operating margins looked like last quarter?
+
+Yeah, you'll see, it should be fully reflective. And what we've communicated to you is what we have already executed upon. And quite frankly, if you step back and looked at how we navigated through 2014, we had a number of cost reduction initiatives in the second quarter that will get more full year benefit for in 2015 and then we'll follow it on with an additional 10% in the fourth quarter,
+
+Okay. And then a last one from me and then I will re-queue but on the data library side, do you anticipate any further impairment in the near term on anything that you looked at during the quarter?
+
+No. I don't anticipate anything.
+
+Okay.
+
+It was a pretty thorough review.
+
+Sounds good, thanks a lot Brian.
+
+Thanks, Georg.
+
+Our next question is from the line of Joe Maxa with Dougherty & Co. Please proceed with your question.
+
+Thank you. Back on the OceanGeo side, as these – as it kind of idles, I guess, if your will, what does that cost you per month, when you're not out shooting and generating revenue?
+
+Yeah, it's an – every situation is going to be a little bit different, Joe, depending on where we're located and what carrying cost of the crew is et cetera and what we're doing. But generally speaking in today's environment, we're somewhere between $5 million and $6 million a month.
+
+Okay. And when you're generating revenue, assuming everything is going well, it looks like you're doing about $10 million per month. Is that a fair number just to think about?
+
+You can't look at it that way because everywhere you work is different. There is different tax structures, there is different agent fee agreement orientations. There is different cost for security. So, I can't give you that number.
+
+Okay. On the Systems business, you lost money last quarter on some old revenue. And if those revenues are expected to be soft, I'm just wondering what's your strategy – does that just kind of teeter out over time, or do you move on and look to sell that business or how should we kind of be thinking about that Systems business now?
+
+I think the challenge is – what you're looking at is a Systems segment versus the systems business. And what I mean by that is that's the legacy way of reporting, which we're going to address as we move forward this year. But in that, you have your legacy marine product line, which actually is still a quite a nice generator of cash and profitability. And in addition, you have all of the sustaining engineering work that's attributable to supporting OceanGeo, because that has always been reported back when we were doing sustaining engineering to support VSO as a product line sold into the open market. And in addition to that you've all of the other R&D programs that we are developing, other innovative technologies targeting the E&P clientele. So, it looks like it's actually losing money but what you're really seeing, if I had to sum it up, is a fairly nicely profitable business and a bunch of R&D and sustaining engineering expense associated with doing other activities. And we're going to be reporting on that differently in the near future, so you can get better visibility to it.
+
+Okay, that's helpful. The comments you've made about the industry being down 25% to 35%, once they figure out their CapEx budgets, is that a good proxy for how you're looking at your business in 2015?
+
+I think it's a little early for me to tell you that. If I had to guess – and I'll have more firm information on the next call – I'm still waiting to see how the data processing business is going to respond to this particular cycle. And I can tell you when we go back and look at historical cycles, the data processing business has actually grown through them, because of what I said during the call, how activity is directed to reprocessing with current algorithms on older datasets. At this point in time, we have not seen that yet, simply because everybody is still a deer in the headlights, and we've got to wait for our customers to lock-in their budgets. And by the time they do that we'll get a feel for what kind of activity the data processing business is going to be. So, it could be anywhere from significantly down to up. I don't know the [indiscernible] (00:24:40).
+
+On the new ventures side and the data library side, I would expect that that business will be down and CapEx budgets will probably be a pretty good proxy. On the Ocean Bottom business, that business again has – to the extent we're successful in tendering, I'd expect we create a nice backlog for our first crew. And again, there is a lot of activity around the world, both in Asia and Brazil. And so there's still quite a lot of potential for that business, and that business could see itself growing into 2016 as well.
+
+Right, okay. Just two more from me with the 10% head count reduction, wondering what would be a good proxy for operating expenses – I mean a good baseline for operating expenses? In Q1 and going forward, I know they'll vary a little bit, but just want to make sure I'm on the right track. And then secondly, just may be if you could explain a little more on the significance of that data library impairment or write-down. I mean what drove that, or was it just all libraries or ones that just you didn't expect to be utilized? And then that's it from me [indiscernible] (00:25:47).
+
+All right, as far as the – I'll take the second question. I think probably the kind of the baseline question might be better if you called Steve after and he can talk to you about that. I don't have the numbers in front of me. But the second question on the – if you look at the data libraries, the two fundamental areas that we wrote down, one was the Arctic and the other was onshore North America. And so if you think about the accounting treatment, if you're not selling libraries, you're reverting to straight-line amortization. And lot of those programs have two or three years of amortized life left in them.
+
+So, you could just expect that we're going to revert to straight-line for the next two to three years because – for two reasons. One, we all know what's happening in the Arctic and the international oil companies are pulling in and where they're not going is up in the Arctic right now. Now, down the road, I fully expect the Arctic will be a very promising area, but I think it's timed out for the next few years. And then onshore, I mean we've already seen 480 rigs come out in North American rig count and we're projected what – to see another 200, 300, 400, 500. So, we're not expecting this whole lot of data sales for people trying to figure out where to drill the next hole.
+
+Okay. Thank you.
+
+Our next question is from the line of Rudy Hokanson with Barrington. Please go ahead with your question.
+
+Thank you. Could you please talk a little bit more about the importance of the new technologies that you're adding in data processing, the PrecisION or PrecisION inversion tool and also the Full Waveform Inversion, what do those mean in terms of potential revenue and what are they exactly meeting in terms of demand in this market?
+
+Yeah, Rudy that's a very difficult question. I mean, I'd go back in time and I'd give you a real world experience that we had. We developed the tool and put it in a toolkit called RTM and very difficult to anticipate just how the adoption rate is going to be for the tool or how ultimately successful the tool will be, and it's difficult to predict how long it will take before your competition catches up and as a comparable offering. But RTM was a huge success for us. It was one of the primary growth factors that drove our processing business for a couple of years and then we reinvented the next spin of RTM that increased its speed by a factor of 15 to 30 times and we stayed ahead of the competition.
+
+So, it was a – it demonstrates the importance of constantly reinventing yourself in this business to the extent one does not invest in a new tool and the toolkit and always have a new offering, you're going to get commoditized quickly. So, rather than try and give you market shares and what the potential is, I think the better indicator is to the extent we're not developing those tools, we're going to commoditize our business and we're going to be a me-too and that's not what we want to be.
+
+Okay, thank you. And then sort of along the same line but over on software, could you talk a little bit about Marlin and, again now that it's commercial, how that sets into your portfolio?
+
+Yeah, we've been working on Marlin for – Marlin was a derivative of our Narwhal, and then it gained traction. And if you think about the complexity and the production environment, especially where you have multiple platforms, a lot of shipping activity, potentially you have a seismic survey involved there, you have drilling, diving et cetera, you have an awful lot of activity in one area. And there is a challenge in managing, coordinating all that activity and also making sure you do it from a health and safety perspective. So, our Marlin offering is one stop shop to track, coordinate and practically manage all of that activity in a production environment. And 2014 was a year where we put the fine touches on it, and it's actually commercial and we've sold and have installed the first application and we're out there actively using it now. I can't tell you too much more about the job or the customer for competitive reasons, but we're excited about it.
+
+Okay. And this is a complement to Narwhal?
+
+Yeah, it really is. It's actually an expansion. It was – when we got into Narwhal and we started designing it that very specifically for Ice and [ph] encumbered (00:30:38) environments, very similar applications and realized that there is a much broader application for the toolkit. We didn't have to just narrow it to Narwhal. So, now – almost think about this way, Narwhal [ph] birthed (00:30:51) SimOps, SimOps or Marlin. Narwhal will ultimately become a derivative of it. So, it's just the evolution of developing the offering.
+
+Okay, thank you. Those are my questions right now.
+
+Thanks, Rudy.
+
+Thank you. [Operator Instructions] . Your next question comes from the line of Bobby Jones with Simplon Partners. Please proceed with your question.
+
+Could you give us an update on the pending Western lawsuit?
+
+Sure. We're moving on nicely. We've got the – the hearing for the appeal has been scheduled for the early part of March. So, we're going to get our day in court and then we will expect that we'll potentially hear something back from a ruling perspective in three to six months. It could be longer. But I'm optimistic that we'll be navigating through this process for sure.
+
+Thanks.
+
+Thank you. At this time, there are no additional questions. I would like to turn the floor back to management for further comments.
+
+Okay, thank you for taking the time to attend the conference call and we look forward to talking to you on the next first quarter call.
+
+Thank you. This concludes teleconference. You may disconnect your line at this time and we thank you for your participation.

@@ -1,0 +1,203 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+Michael Kandell — Chief Financial Officer, Wireless Telecom Group, Inc.
+Timothy Whelan — Chief Executive Officer & Director, Wireless Telecom Group, Inc.
+Michael D. Potter — Analyst, Monarch Capital Group LLC
+Sam Rebotsky — Analyst, SER Asset Management
+
+Management Discussion Section
+
+Question And Answer Section
+
+Good morning, ladies and gentlemen, and welcome to the Q4 Earnings Conference Call. At this time, all participants have been placed on a listen-only mode and the floor will be open for your questions and comments after the presentation.
+
+It is now my pleasure to turn the floor over to your host, Mike Kandell. Sir, the floor is yours.
+
+Thanks, Paul. Good morning, everyone, and thank you for joining us for our fourth quarter 2019 earnings call. Before we begin, I would like to remind everyone on the call that our remarks today could include forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. These statements can be identified by the fact that they do not relate strictly to historical or current facts.
+
+The company's forward-looking statements are based on management's current expectations and assumptions regarding the company's business and performance, the economy and other future conditions and forecasts of future events, circumstances and results. Forward-looking statements are not guarantees of future performance and involve a number of risks and uncertainties that could materially affect actual results.
+
+Important factors that could cause the company's actual results to differ materially from those in its forward-looking statements include those risk factors set forth in the company's Annual Report on Form 10-K filed with the SEC. The company does not undertake any obligation to update or revise any forward-looking information to reflect changes in assumptions, the occurrence of unanticipated events or otherwise.
+
+Also, we want to point out that in addition to GAAP information, we will provide information related to certain non-GAAP measures. We believe that presenting these non-GAAP or adjusted measures provides additional meaningful information to investors which reflect how management views the business. Detailed reconciliations of non-GAAP measures to GAAP measures are set forth in a reconciliation table in our press release issued earlier this morning and furnished with the Form 8-K filed this morning with the SEC.
+
+I will now turn the call over to Tim Whelan, our Chief Executive Officer.
+
+Thank you, Mike. Good morning, everyone. Thank you for joining us. As you know, 2019 proved to be a more challenging year than expected. We realized unexpected disruption and delays to large projects in Network Solutions due to uncertainty over the T-Mobile merger, delayed purchase orders from the Navy for bid awards in Test & Measurement, and lower-than-expected hardware card demand from our largest customer in Embedded Solutions. We have taken actions to reduce our expenses in light of these declines, and Mike will discuss more of that later.
+
+The good news is that we are seeing Q1 order flow for the large venue projects we were expecting last year and we are seeing project spend driven by T-Mobile also begin to shake loose. These are encouraging signs that the Network Solutions pullback in 2019 was more of a timing issue.
+
+Further, in Q1 of this year, we have realized a new customer win and success with our SMART Passives public safety solutions, which were launched in the first quarter of 2019. This product release underscores our strategy of launching specialized product sets aligned to our core capabilities for new customers and new applications.
+
+This win also represents the successful close of a six-month pursuit on projects where our new SMART Coupler solution was specifically designed to reach new customers for public safety applications in the in-building wireless markets. We continue to see this as one of our growth opportunities going forward, as these are new products, new customers and new applications.
+
+With respect to Test & Measurement, our 2020 expectations are modest for POs being placed under the Navy orders awarded in 2018. But our persistence and attention to our channels and customers in 2019 have unlocked other opportunities, which we believe will lead us to an improved first half order flow in 2020 and good indicators for growth in this segment this year.
+
+Our design-in initiatives for our Noisecom solutions we announced throughout 2019 are also expected to yield growth opportunity in 2020. And we expect repeat orders for our specialized noise sources from a handful of customers where our design-in noise solutions are embedded into their systems.
+
+Finally, with regard to hardware shipments in our largest customer Embedded Solutions, we realized an unexpected change to demand forecast which changed our outlook. Our expectation is that this segment will see a decline in hardware card volumes in 2020. The good news is, this is not a terminated contract nor the end of our relationship. We are working closely with our customer to understand the changes to their product offerings and demand drivers in order to serve their needs in the year ahead, and we remain cautiously optimistic for continued order flow, while being financially conservative in our assumptions.
+
+On a strategic and operational level, we've made considerable progress throughout 2019, which we expect will provide foundations for growth going forward. First, our increases in R&D spend in 2019 focused primarily on our 5G software stack which we released on October. In parallel, we made progress executing on our strategy to expand our 5G partnerships working with NXP Semiconductors throughout the year and announcing our NXP development partnership in January of this year.
+
+This allows us to go to market together to provide specialized solutions for 5G and private network deployments, and we are collaboratively speaking to potential customers today about solutions, which will include our 5G software stack running on NXP chips. As we noted in our release, this has already led to an increase in the number of funnel opportunities and an increase in the size of the total opportunity ahead. While these solution sales can take a long time to come to decision and delivery, the relationships and revenue opportunity are equally long term and meaningful. And the software element of future sales is expected to increase our margins, offsetting declines in lower margin hardware card revenues.
+
+We also closed the Holzworth acquisition, which was announced in November. Holzworth solutions include specialty, phase noise analyzers and signal generators used on the cutting edge of high technology research, development, and production in government, commercial, and academic environments, and used in blue-chip customers in research and automated test environments. This is an adjacent technology to many of our test and measurement products with common customers and common channel partners. They are a perfect complement to our specialty noise generation and higher performance radio frequency power measurement solutions.
+
+The Holzworth acquisition is aligned to our focus on the growth of test and measurement solutions, which will enable the future of wireless technology in radar, satellite communications, 5G and beyond. This acquisition is expected to drive future growth and accretive margins in our Test & Measurement segment. We are encouraged by customer bookings quarter to date and extremely excited by the feedback received from both customers and channel partners alike.
+
+With that, I'm going to turn the call over to Mike to walk us through the financials.
+
+Thank you, Tim, and good morning again, everyone. Consolidated revenues for the fourth quarter 2019 were $11.6 million, which was a decrease of approximately 4.3% from the fourth quarter of 2018. Network Solutions and Test & Measurement revenue increased from the prior year period 4.3% and 34.6%, respectively, as we experienced a surge of bookings and shipments that historically occurred in the third quarter of each fiscal year.
+
+This was offset, however, by a $1.9 million or 49.3% decrease in Embedded Solutions revenue, which was due to lower shipments of our digital signal processing hardware cards and lower sales of LTE software licenses and services. Consolidated gross profit for the fourth quarter 2019 was $5.6 million or 48.4% of revenue, compared to $5.3 million or 43.5% of revenue in the 2018 fourth quarter. The increase in gross profit margin was driven by our Test & Measurement segment, which had a gross profit margin of 57% in the fourth quarter due to favorable product mix and higher volumes which drove better absorption of fixed labor and overhead costs. Network Solutions and Embedded Solutions gross profit margins were flat with the year ago period.
+
+Consolidated operating expenses for the fourth quarter 2019 were $6.2 million as compared to $6 million in the prior year period. Fourth quarter 2019 general and administrative expenses include certain non-recurring expenses, including approximately $800,000 of expenses related to acquisitions and approximately $127,000 of restructuring expenses. Our non-GAAP operating expenses decreased in the fourth quarter of 2019 from the prior year period by $180,000, as we're starting to see the benefit of some expense reduction actions we initiated in the third quarter of 2019.
+
+Net income was $200,000 for the fourth quarter 2019, as compared to a net loss in the fourth quarter of 2018 of $700,000. The fourth quarter 2019 net income includes a $1.1 million tax benefit, primarily for a tax deduction in the UK related to our LTE and 5G research and development activities at CommAgility. Non-GAAP adjusted EBITDA for the fourth quarter 2019 was approximately $900,000, an increase of approximately $500,000 from the fourth quarter 2018 due to the improvement in gross profit margin and a reduction in some of our operating expenses.
+
+Now, turning to the full year results; consolidated revenues for the year ended 2019 were $48.9 million, a decrease of approximately $3.9 million or 7.3% from the prior year. Breaking this down by segment, Embedded Solutions 2019 revenue decreased $2.8 million or 17% compared to the prior year due to lower sales of LTE software licenses and services, which were only partially offset by increased sales of digital signal processing hardware to our largest customer.
+
+We believe the decrease in LTE software and services sales was due to the fact that we are in a transition period away from 4G, and many potential customers are now considering 5G for their private network projects. Test & Measurement revenue for the year decreased $600,000 or 4.5% from 2018 due to fewer government orders and large projects. Network Solutions 2019 revenue decreased $400,000 or 2% from 2018 due to fewer large projects in a highly competitive pricing environment, which is impacting the entire industry.
+
+Consolidated gross profit was $22.3 million or 45.6% of revenue in 2019, as compared to $24.2 million or 45.8% of revenue in 2018. Embedded Solutions gross profit decreased $1.6 million from the prior year, down from 45.4% of revenue in 2018 to 42.5% of revenue in 2019. Embedded Solutions gross profit margin declined on product mix, as higher margin software and services sales declined year over year, as well as lower volumes resulting in lower absorption of fixed labor and overhead charges.
+
+Test & Measurement gross profit increased $300,000 from the prior period on lower revenues. Gross profit margin increased from 49.4% in 2018 to 54% in 2019. The increase was due to favorable product mix, as the company sold higher margin Noisecom noise generation devices and Boonton power sensors.
+
+Network Solutions 2019 gross profit decreased $500,000 from the prior year. Gross profit margin decreased from 43.8% to 42.2% due to the highly competitive pricing environment impacting entire industry, as well as lower volumes resulting in lower absorption of fixed labor and overhead.
+
+Consolidated operating expenses in 2019 were $23.8 million as compared to $23.4 million in 2018, an increase of approximately $400,000. Research and development expenses increased $1 million due primarily to Embedded Solutions' head count deployment on product road map initiatives, specifically the 5G road map. Sales and marketing expenses increased slightly on increased head count in Network Solutions and Test & Measurement, but that was offset by lower commissions expense in the Embedded Solutions segment due to lower volumes.
+
+General and administrative expenses for the full year decreased $100,000 from the prior year due to lower bonus expense, legal and stock compensation expense, which was offset by acquisition expenses. Other expenses decreased $100,000 from the prior year period on lower foreign exchange unrealized and realized losses. Interest expense in 2019 decreased $300,000 from the prior year because of the accretion expense recorded in 2018 on the CommAgility contingent consideration liability that was paid on March 31 of this year.
+
+We recorded a tax benefit of $1.4 million in 2019 due primarily to the research and development deduction we receive in the UK. This compares to tax expense of $48,000 in the prior year. Overall, we recorded a net loss of $400,000 in 2019, as compared to net income of $35,000 in 2018.
+
+The decrease year over year was due to lower consolidated gross profit and higher operating expenses, which were only partially offset by lower interest expense and the recognition of a tax benefit. Non-GAAP adjusted EBITDA for 2019 was $2.5 million compared to $4.8 million in 2018 and is attributable to the decline in revenue and gross profit.
+
+Turning to the balance sheet, as of December 31, 2019, we had net cash of $1.5 million which compares to net cash of $3 million as of December 31, 2018. The decrease in net cash was attributable to our net loss in 2019 and the payment of deferred purchase price and earn-outs related to the CommAgility acquisition, offset partially by lower CapEx.
+
+As noted in our subsequent event footnote in the 10-K, the company completed the acquisition of Holzworth Instrumentation, Inc. in February of this year. The results of Holzworth will be included in our Q1 2020 financials from the date of acquisition. The Holzworth acquisition was financed by our new $8.4 million term loan with Muzinich BDC.
+
+Additionally, in February, we extended the maturity date of our asset-based revolver with Bank of America to March 31, 2023, and we added CommAgility and Holzworth [audio gap] (15:42) under the agreement which will allow us to utilize the accounts receivable of both subsidiaries in our borrowing base calculation. I would also like to note that in early 2020, we initiated restructuring actions and cost and expense reductions across all of our segments. These actions are expected to reduce costs of revenues and operating expenses approximately $1.5 million as compared to fiscal 2019 and include head count reductions, third party costs in other discretionary spend areas.
+
+At this time, I'd like to turn it over to Tim for some closing remarks.
+
+Thank you, Mike. As we noted in the press release, the company is currently evaluating the impact of the coronavirus outbreak on our operations and outlook. With that said, a few key points on what we are seeing. As of today, we have not seen any significant reduction as a result of the coronavirus outbreak on the company's supply chain, no impact on our US or UK-based operations, and no impact on expected purchase flows from customers.
+
+Looking into 2020, we believe our cost reduction actions will positively impact margins and lower our operating expenses. We are seeing quarter-to-date healthy order flow from customers and expect bookings in Network Solutions and Test & Measurement segments in Q1 to exceed that as compared to Q1 of 2019. And we are seeing increasing interest in our 4G and 5G software offerings in Embedded Solutions, and we are encouraged by the feedback and customer discussions.
+
+As you know from what is unfolding daily, the situation related to the coronavirus outbreak is volatile. The situation could change as developments unfold. The company expects to provide additional information regarding its financial outlook once the impact of the coronavirus outbreak is better understood and the situation stabilizes.
+
+The management team and the board are aligned with shareholders on our common goals for growth and improved profitability. We are committed to the execution of the strategic and operational plans now in place, and we believe we are well positioned for successful achievement of our long-term goals.
+
+Thank you. And, Paul, if you could please open the lines for questions.
+
+Certainly. Ladies and gentlemen, the floor is now open for questions. [Operator Instructions] And we do have a couple of questions come in. First question is coming from Michael Potter. Michael, please announce your affiliation and pose your question.
+
+Hi. Monarch Capital Group. Tim, Mike, hoping you could answer a couple questions for me. I know we had merger and acquisition expenses of $845,000. If you can break that out for me, I'd appreciate it.
+
+Good morning, Michael. Thanks for joining us today. I would say that most of that amount are professional fees related to both the attorneys engaged, as well as those professionals that are engaged for quality of earnings and tax assessment.
+
+Yeah. Right.
+
+Okay. Can you break it out specifically, please?
+
+I don't have a specific breakout right now, Michael.
+
+You don't have a specific breakout on $845,000 of expenses on an M&A of a small acquisition?
+
+I would say almost 90% are those professional fees, Michael, and two-thirds of that 90% are legal.
+
+Okay.
+
+And the next question is coming from Sam Rebotsky. Sam, your line is live. Please announce your affiliation and pose your question.
+
+Yes. SER Asset Management. Now, could you sort of – the Holzworth acquisition, what kind of sales did they produce last year? I know you're not able to give us your expectations for the current year, but what was their sales and profitability last year?
+
+Yeah, we actually can talk a little bit about our expectations. We expect that they'll generate approximately $5 million of revenues and their gross margins are greater than 60%.
+
+Well, that sounds very good. Right now, because of the coronavirus, are you closed at any locations? I know we don't know when they might open, but are you closed at all?
+
+We are not closed at all. We are exercising work-from-home policies. Measuring that, I believe we're highly effective in our measurements of the people who are working from home and that's in all of our locations around the world. Within the Parsippany and Boulder operations, we do have people coming in on-site exercising the caution and the guidelines being directed by the state, but we are fully operational, shipping and receiving. And those who can work from home are working from home.
+
+And the reduction in the backlog, is that significant in the sense, are you bidding on more work? Because I know you spoke previously of expectation of $100 million revenue in a certain period of time. So, what about the backlog and the workability? Are you working one full shift, do you need to work more and are you bidding on a lot of projects? What are your expectations with your backlog having been reduced?
+
+Yeah. Our backlog reduction is principally related to the drop in demand for the hardware cards. We are working one shift. We periodically will exercise overtime on that when there's a surge in the backlog, so we have that capacity and our funnel is full and active. And as I mentioned, we expect two of our three segments, Network Solutions and Test & Measurement, to have stronger Q1 bookings in 2020 as compared to Q1 of last year, and potentially greater than Q4 as well. So, sequentially and year over year, we're quite encouraged by the funnel of activity and the quarterly bookings to date.
+
+Do we expect profitability in the current year and the $100 million plan that you had – I think it was in two years – do you expect to achieve that with acquisitions, with growth or what's your expectations?
+
+Yeah. I think right now, we're going to be assessing in terms of the current year just the volatility that could occur with coronavirus. I believe we need another couple weeks or potentially a couple months just like the rest of the world to fully understand how that's going to impact our full year expectations.
+
+With regard to our vision to accomplishing $100 million, that is still our vision and that is still our aspirational targets. We will have to evaluate the return to organic growth, as well as carefully manage the debt we have in place and the acquisition we've just completed and determine at that point whether or not the $100 million is accomplishable with or without M&A. We're very respectful right now in terms of managing the acquisition we've completed and making sure that we grow that successfully and profitably and look to de-lever prior to, I would say, a more robust M&A environment.
+
+And is our capital sufficient to go forward? Presumptively, we don't need to raise capital at this time.
+
+We do not. We are, obviously given the current environment with the coronavirus, looking at our liquidity daily and managing it very closely and applying a very disciplined approach given what's going on in the world today.
+
+All right. Good luck going forward and Wireless had been very successful over a period of time. Hopefully, it should achieve the successes you once had. Good luck.
+
+Very good, Sam.
+
+Thank you.
+
+Thank you for joining us.
+
+Thank you. And we had a follow-up coming from Michael Potter. Michael, your line is live.
+
+Sorry, guys. I think we must have gotten cut off. So, if I do the math correctly, on the $845,000, that's $500,000 in legal fees. Is that correct?
+
+Yes, approximately, Michael.
+
+Okay, got it. That seems awfully high, but I'm sure the board will look into that hopefully anyway. Can you be more specific...
+
+There's no – Michael, it's important to note, no M&A advisory fees were necessary for the transaction. We did have advisory fees in bankers giving us advice on the debt. But there were no banker fees on the acquisition.
+
+Well, this was a small acquisition that you know of. This wasn't brought to you by a banker.
+
+Correct.
+
+Okay. I mean, so it would have been silly to go out there and pay a banker if a banker wasn't needed for the transaction.
+
+Right. I'm just making the point that we're able to do that and save on that.
+
+Okay. But the $500,000 of legal fees seems excessive to me. I think you mentioned that you had nine projects that were pushed out from 2019. We didn't lose them, but they were just pushed out from 2019 that we're hoping to – that they would move forward in 2020. Can you give us the status on those projects?
+
+I mentioned that we are taking orders on a number of them, Michael. It's very, very fluid. The ability to track nine – we're not tracking nine anymore, but we are tracking a number of large projects and these are changing. The reason I say that is because there are some quotes that we take where there are individual locations and each of those locations are identified as a project.
+
+And then, ultimately, when that order comes through, it's coming through distribution and it's more difficult for us to track when these orders are aggregated through a distributor and the equipment is staged, it's much more difficult for us to understand which locations. So, we're moving towards – we're optimistic that the order flow has started to come our way. We're measuring those in dollars right now.
+
+Okay. So, it's not – we can't see on a granular level at this point to which project the orders are coming from?
+
+No. We'll be able to give you much more detail I think as we close out Q1 in terms of how we think about the order flow that's come in in Q1. Again, the situation is very fluid in the environment. Quotes come through, at times those quotes come through for a particular bill of material location.
+
+And then, over a period of many, many months, as designs and redesigns are done, those quotes can be aggregated into individual orders coming through distributors and being staged there. So, we know that the end application for that equipment are the projects that we originally quoted, but it's hard for us then to break that down and understand which of those locations are actually being completed and which are not.
+
+Okay. The backlog as it currently stands, are you able to break that down by division?
+
+We have not done that in the past, Michael. We do do that internally.
+
+Okay. So, will you break it down by division?
+
+We have a number of things that we'll need to consider for that, but certainly a takeaway and it's something we'll think through.
+
+All right. Embedded Solutions, can you give us a little bit more detail on the turnaround plan? I'm assuming we have a more detailed turnaround plan other than waiting for our largest customer to have a 5G product available.
+
+Right. So, remember, it's not a failing product, Michael. It's not a failing product or failing execution. The hardware sales declined because of the significant customer concentration declined unexpectedly. We have been working now over two years on the 5G road map. We have been working for the better part of the year on the NXP relationship. Those two coming together has created quite a bit of traction within our funnel and customers interested in our 5G solution.
+
+That said, we still have customers that are interested in the 4G solution, which is a TI, Texas Instrument-based solution. Some of the pause in 2019 and where the software sales in Embedded Solutions did not overcome or offset the decrease in hardware sales, I believe it's because of that inflection point in the industry where 5G is becoming more real and being released. They're considering that and reconsidering where they had 4G plans. So, I believe it was a pause really within the industry. We're quite encouraged now that both – some of the 4G pursuits as well as the 5G pursuits on the NXP platform are moving forward. But these are large solution sales and complex and take a long period of time.
+
+Okay. In regards to being cash flow positive, will you be cash flow positive in Q1?
+
+We haven't provided that forward guidance, Michael. We're encouraged and optimistic with all of our liquidity and cash flow metrics, quite confident coming into the year, and as Mike noted, we're just keeping an extra eye on that as we go through the impact of this coronavirus.
+
+But to date, we haven't seen any impact of that. We haven't seen a softening of demand from our customers. We haven't seen impact on our employees. We haven't seen an impact on operations, carefully monitoring the supply chain. All of our offshore vendors are open and shipping. So, right now, we feel good about our revenue, profitability, cash flow, and liquidity.
+
+Okay. I'll get back in queue. Thanks.
+
+Very good. Thank you, Michael.
+
+Thank you. And there were no more questions from the lines at this time.
+
+Great. Thank you, everyone, for joining us. And we look forward to speaking with you again soon.
+
+Thank you, ladies and gentlemen. This does conclude today's conference call. You may disconnect your phone lines at this time, and have a wonderful day. Thank you for your participation.

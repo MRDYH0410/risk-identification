@@ -1,0 +1,346 @@
+raw transcript
+
+
+Avici Systems, Inc.
+ 
+AVCI
+ 
+Q3 2006 Earnings Call
+ 
+Oct. 19, 2006
+
+
+Company
+
+ 
+Ticker
+
+ 
+Event Type
+
+ 
+Date
+
+
+
+www .Ca ll St r eet . com
+ 
+•
+ 
+6 4 6. 44 2 .0 2 70 •
+ 
+Co p yr i g h t © 2 0 01- 2 00 6 C a l l Str e et
+
+
+(ed i te d)
+ 
+1
+
+
+MANAGEMENT DISCUSSION SECTION
+
+
+Operator: Ladies and gentlemen, thank you for standing by. Welcome to the Avici Systems Third
+
+
+Quarter Earnings Conference Call. At this time all participants are in a listen-only mode. Later we
+
+
+will conduct a question-and-answer session and instructions will follow at that time. [Operator
+
+
+Instructions]. As a reminder this conference is being recorded. I would now like to turn the
+
+
+conference over to our host Ms. Inna Vyadro. You may begin your conference.
+
+
+Inna Vyadro, Director of Investor Relations
+
+
+Thank you and good morning. Welcome to Avici's third quarter conference call. Joining me today
+
+
+are Bill Leighton, Avici's CEO; Bill Stuart, our CFO; and T. S. Ramesh, Avici's Vice President of
+
+
+Finance. Avici issued a press release that was distributed at approximately 7.30 AM this morning
+
+
+by Businesswire and First Call. A copy of the announcement and the conference call are available
+
+
+on our website at www.avici.com. I would like to remind you that during this call we may be making
+
+
+forward-looking statements including our plans and objectives for future operations as well as our
+
+
+expectations for product delivery, customer activity, and some financial performance and our
+
+
+exploration of operating of strategic alternatives. These forward-looking statements are neither
+
+
+promises nor guarantees that are subject to risks and uncertainties that could cause actual results
+
+
+to differ materially from those contained in the forward-looking statements. Those risks and
+
+
+uncertainties that is further described in our press releases and presented in detail in our Forms 10-
+
+
+K and 10-Q is filed with the SEC. Additionally during the call we will also discuss various non-GAAP
+
+
+financial measures. A reconciliation of non-GAAP financial measures is provided along with the
+
+
+financial tables in our earnings press release which as previously mentioned is available on our
+
+
+website. Our press release results are furnished to the SEC on Form 8-K this morning. At this point
+
+
+I would like to turn the call over to Bill Leighton.
+
+
+William Leighton, President and Chief Executive Officer
+
+
+Thanks Inna, good morning everyone, and thank you for joining us. I am very pleased to announce
+
+
+that this morning Avici reported third quarter revenue of $20.2 million, a net income of $2.7 million
+
+
+or $0.20 per share on a GAAP basis. This quarter Avici continued to report both positive GAAP as
+
+
+well as non-GAAP results. We also generated a record $11 million of positive cash flow.
+
+
+Throughout the quarter Avici continued to expand its presence in AT&T's global IP network. AT&T
+
+
+has further increased network capacity to accommodate traffic growth and a migration of other
+
+
+networks. AT&T continued its deployment of the Avici QoS routing system adding two more
+
+
+systems to their network. As we have previously stated the significant volumes we have
+
+
+experienced to date in 2006 have exceeded our expectations due to a surge in traffic and
+
+
+acceleration of demand. We again stress caution that the business conditions driving this demand
+
+
+can change significantly and accordingly shareholders should not necessarily expect that 2006
+
+
+financial performance to date will be indicative of future performance. We have restructured our
+
+
+business to be profitable of what we believe is a reasonable revenue baseline over the near term of
+
+
+approximately 40 to $50 million annually, even though 2006 revenue will substantially exceed those
+
+
+levels and we continue to aggressively manage our cost structure going forward.
+
+
+The preponderous [ph] of our revenue comes from AT&T. Although we have benefited from the
+
+
+increased demand and growth of AT&T's network this is clearly not sustainable in the long-term
+
+
+given today's competitive environment and it will imprudent to plan that way. Hence we are
+
+
+increasingly focused on furthering our strategic initiatives. Fortunately as a result of our
+
+
+restructuring efforts earlier in the year, Avici's increasing cash balances, strong financial position
+
+
+enable us to consider a wide range of strategic alternatives which we are pursuing vigorously. We
+raw transcript
+
+
+Avici Systems, Inc.
+ 
+AVCI
+ 
+Q3 2006 Earnings Call
+ 
+Oct. 19, 2006
+
+
+Company
+
+ 
+Ticker
+
+ 
+Event Type
+
+ 
+Date
+
+
+
+www .Ca ll St r eet . com
+ 
+•
+ 
+64 6. 4 42 . 02 7 0 •
+ 
+C op yr i g ht © 20 0 1-2 00 6 C a ll S tr ee t ( e d it ed )
+2
+
+
+believe that future generations of network must place a greater emphasis on service oriented
+
+
+functionality in a more seamless integration of network elements. We are seeing carriers confront
+
+
+the challenges of complex network elements, forcing substantial customization and we continue to
+
+
+believe in our vision for simple secure network. We will participate in the network from the future
+
+
+leveraging our major capabilities namely our network technology and insight, carrier and industry
+
+
+connections, highly talented engineering personnel, and dedicated management team. While
+
+
+carriers and larger vendors focus on consolidation in addressing today's problems, we aim to
+
+
+continue our early initiatives in developing solutions that will yield customer value as low as a return
+
+
+on our investment network.
+
+
+In line with our previously outlined strategy aimed at driving the profitability and positive cash flow
+
+
+we announced last week that Avici has terminated its supply agreement with Alcatel Teletas. This
+
+
+was a tactical move which we initiated since it was unlikely to disarrange with every week positive
+
+
+contribution margin. Bill Stuart, will provide more detail on our financial arrangements and
+
+
+termination later in the call.
+
+
+At this point we are reiterating our 2006 annual guidance of $75-85 million of revenue for the year.
+
+
+We will not be providing separate quarterly guidance. I will now turn the call over to Bill Stuart, who
+
+
+will discuss our financial results in more detail.
+
+
+William J. Stuart, Chief Financial Officer, Senior Vice-President Finance and Administration
+
+
+Thanks Bill, and good morning. Today Avici reported gross revenues for it's third quarter ended
+
+
+September 30, 2006 of 20.2 million compared to $25.3 million in the preceding quarter ended June
+
+
+30, 2006 and $8.7 million in the prior years third quarter. On a GAAP basis the company reported
+
+
+another profitable quarter with net income of $2.7 million up $0.20 per share in the third quarter of
+
+
+2006 as compared to a loss of 7.8 million or $0.60 per share in the prior year third quarter. GAAP
+
+
+net income and GAAP earnings per share for the nine months ended September 30, 2006 were 5.3
+
+
+million or $0.39 per share compared to the loss of 16.1 million or $1.25 per share for the
+
+
+comparable nine months period of 2005. The calculating GAAP earnings per share the number of
+
+
+shares used in the calculation for the 2006 period has been adjusted to include the dilutive effect of
+
+
+stock option and restricted stock grants.
+
+
+In the first quarter of 2006, the company announced a plan to restructure its business and realign
+
+
+its cost to structure. Associated with such plan the company recorded ongoing costs towards the
+
+
+company’s workforce reduction of 0.8 million which is included in the GAAP net income for the third
+
+
+quarter of 2006. Also, included in the third quarter of 2006 is a charge of 1.7 million for the
+
+
+inventory and inventory related effect of the termination of the Alcatel Teletas supply agreement.
+
+
+GAAP net income for the nine months ended September 30, 2006 includes $10.2 million in special
+
+
+charges of which 3.1 million is included in cost of sales. Special charges for the nine months ended
+
+
+September 30, 2006 include costs associated with the company’s workforce reduction, charges for
+
+
+certain inventory considered in excess of anticipated future requirements, the inventory and
+
+
+inventory related effects of the termination of the company’s supply agreement with Alcatel Teletas,
+
+
+the write-off of certain contract distribution rights been compared and certain other costs directly
+
+
+associated with the company’s decision to restructure it's business and realign it's cost to structure.
+
+
+Additionally, GAAP net income include common stock warrant discounts, certain non-cash equity
+
+
+base charges relating to the prospective adoption of Financial Accounting Standard Board Opinion
+
+
+123R which now requires the fair value of stock option at the expense in the Company’s 2006
+
+
+GAAP financial statements and price for certain inventory utilization and assignment of claimant
+
+
+bankruptcy. A comparative quarterly and year-to-date GAAP consolidated statements of operations
+
+
+along with the comparative non-GAAP consolidated statements of operations excluding these
+
+
+charges and credits and a reconciliation between them, the company’s – our press release can also

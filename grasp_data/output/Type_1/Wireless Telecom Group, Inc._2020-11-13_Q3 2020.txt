@@ -1,0 +1,233 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+Michael Kandell — Chief Financial Officer, Wireless Telecom Group, Inc.
+Timothy Whelan — Chief Executive Officer & Director, Wireless Telecom Group, Inc.
+Alfred Rodriguez — Chief Revenue Officer, Wireless Telecom Group, Inc.
+Marc Wiesenberger — Analyst, B. Riley Securities, Inc.
+John Roy — Analyst, Water Tower Research LLC
+Michael D. Potter — Analyst, Monarch Capital Group LLC
+
+Management Discussion Section
+
+Question And Answer Section
+
+Good morning, ladies and gentlemen, and welcome to the Wireless Telecom Group Q3 Earnings Call. At this time, all participants have been placed on a listen-only mode, and the floor will be opened for questions and comments after the presentation.
+
+It is now my pleasure to turn the floor over to your host, Mike Kandell. Sir, the floor is yours.
+
+Thank you, Kate. And good morning, everyone, and thank you for joining us on today's conference call to discuss Wireless Telecom Group's third quarter 2020 financial results. With me today are Tim Whelan, the company's CEO; and Alfred Rodriguez, our Chief Revenue Officer.
+
+Before we begin, I would like to remind everyone on the call that our remarks today could include forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. These statements can be identified by the fact that they do not relate strictly to historical or current facts. The company's forward-looking statements are based on management's current expectations and assumptions regarding the company's business and performance, the economy and other future conditions and forecasts of future events, circumstances and results.
+
+Forward-looking statements are not guarantees of future performance and involve a number of risks and uncertainties that could materially affect actual results. Important factors that could cause the company's actual results to differ materially from those in its forward-looking statements include those risk factors set forth in the company's 2019 annual report on Form 10-K and our 2020 quarterly reports on Form 10-Q filed with the SEC. The company does not undertake any obligation to update or revise any forward-looking information to reflect changes in assumptions, the occurrence of unanticipated events or otherwise.
+
+Also, we want to point out that in addition to GAAP information, we will provide information relating to certain non-GAAP measures. We believe that presenting these non-GAAP or adjusted measures provides additional meaningful information to investors, which reflect how management views the business. Detailed reconciliations of non-GAAP measures to GAAP measures are set forth in a reconciliation table in our press release issued earlier today and furnished with Form 8-K filed today with the SEC.
+
+With that, it's now my pleasure to turn the call over to Tim Whelan.
+
+Thank you, Mike. Good morning, everyone, and thank you for joining us. The first nine months of 2020 have certainly seen its share of challenges globally, and I'm pleased to report the company has navigated through this difficult period. Our global sales, operations and engineering teams have all exercised incredible levels of energy, commitment and creativity to work through these challenges.
+
+Throughout all of this, we have focused on employee safety with rigorous health and safety protocols as our top priority while, at the same time, executing on our core values and serving our customers. I am proud of our team's execution and delivery, and this gives me great confidence as we face whatever challenges emerge in the quarters ahead.
+
+Another important observation from these challenges is that our mission of delivering specialized solutions, which enable the development, testing and deployment of current and next-generation wireless communications and technology has never been more important. The essential nature of what we do is mission-critical for enterprise, military and government applications. We are incredibly proud of how our employees have made the workplace adjustments needed to contribute to our mission, and we are so thankful for their dedication.
+
+Turning to our Q3 performance. The headlines of our results include increased software and services revenues, and increased test and measurement revenues, leading to a 740 basis point improvement to gross profit margin and over 600% improvement to non-GAAP Adjusted EBITDA compared to the same period last year.
+
+Partially offsetting the improvements in the RBS and T&M product groups was lower demand for RF components beyond our expectations. We saw project delays and cancellations and distributor inventory adjustments due to COVID-19. We expect this trend to continue until this pandemic is behind us.
+
+That said, our channel checks have indicated some optimism for demand to increase for RF components at some point next year as carriers are expected to activate delayed projects and start a period of anticipated higher investments for in-building network densification and venues, which are expected to see increased attendance as malls, stadiums, entertainment venues and large facilities reopen. These investments are expected to include bandwidth deployment acquired in the spectrum auctions for CBRS and C-Band spectrum, which is important for their 5G deployments and where we have continued to build out our product roadmaps to address ultra-wide band spectrum initiatives.
+
+Our increases of software revenue from our RBS product solutions as well as increases in our Test & Measurement portfolio offset the revenue declines in RF components. These increases also, and importantly, contributed to much higher gross margins and a higher gross profit. Increasing our gross margins above 50% is an important milestone and is a key objective to our strategic goal of 15% annual EBITDA margins as a percent of revenue.
+
+I'm also pleased to report our momentum for increased software and services sales has continued, and we signed a new software and services deal in the third quarter for approximately $1 million for 4G satellite application. In addition, we signed another software contract in October for approximately $400,000.
+
+Our year-to-date totals of our success driving our 4G and 5G RBS software and services solutions includes the following. We have signed four new customers to software and services contracts to date, totaling $2.4 million. This includes two contracts in Q2 totaling approximately $1 million, one contract in Q3 for approximately $1 million, and one contract in October for approximately $400,000.
+
+We've recognized software and services revenue of approximately $600,000 in Q2 and approximately $500,000 in Q3. Of the four deals signed, two are 4G solutions and two are 5G solutions. And one of the 5G solutions includes the NXP platform. And the deals signed include an LTE rail application, a specialized small cell application, a satellite application and a research lab focused on government work.
+
+Additionally, as we highlighted in the press release, we are excited about other customer discussions, and we expect to sign additional new contracts for software and services before the year is over as well as in the early part of next year based on current late-stage negotiations.
+
+With regard to our Q3 order flow, we realized bookings of approximately $11 million, consistent number with last year's bookings for the quarter. Our backlog at September 30 was $6.1 million, consistent with our June 30 backlog of $6.2 million and compares to $7.6 million in the year-ago quarter. The bookings for our current quarter and the backlog at September 30 include a higher percentage of higher margin T&M and RBS solutions.
+
+So we continue to make progress with our strategic goals since the year began, and we believe we are just starting to see that our success reflected in our financial results. While the near-term macro level uncertainties remain due to the COVID-19 crisis, we remain confident in our strategic focus on long-term themes of growth, including network densification, 5G investment and satellite communications.
+
+With that, I'm going to turn the call over to our new Chief Revenue Officer, Alfred Rodriguez, to say a few words.
+
+Thank you, Tim. Good morning, everyone. I joined Wireless Telecom Group in August 2020 after nearly 17 years with Xilinx. Xilinx's focus on wired and wireless telecommunications and other industry verticals is important to WTT. My roles at Xilinx included multiple executive sales and marketing roles where I set the direction for the $1 billion of communications business.
+
+I'd first like to start by discussing what attracted me to Wireless Telecom Group. First, this was a company which had a very specific plan with very specific goals and demonstrated milestones of success. There was a vision, strategy and a long-term view of the business. Second, the company is being transformed both organically through the investments they are making in R&D, the product roadmap and people, as well as inorganically to two very successful acquisitions.
+
+Third, I was joining an incredibly talented executive team in a new role as CRO with clear participation and empowerment as part of this executive team to drive the company to its next level of success. And fourth and most exciting was that Wireless Telecom Group had positioned itself to participate in multiple long-term growth themes in wireless communications, solid investments and 5G transformation. And they bring with them a long legacy of serving some of the largest most demanding blue-chip enterprises in the world. Clearly, this was a company who punches above its weight to participate in the transformational change of 5G investments.
+
+I'd like to go over my first three months with the company, which has reinforced my earlier views and, if anything, I'm even more excited three months into this role than when I was on day one. During my first 100 days, I have been assessing the sales and go-to market strategy, understanding our people, and working directly with our customers. I look forward to working with Tim, the rest of the management team, and the board to continue to build upon the strength and foundation for growth realization.
+
+Some additional observations in my first 100 days, I've been really impressed with the level of skill, talent, and dedication of this company. There's an agile entrepreneurial spirit of innovation and energy to bring new specialized solutions to market. I've been impressed by the strong culture of teamwork and service, the executive team's dedication to employees' safety and health to navigate through the challenges of COVID-19, the dedication to the core values of customer responsiveness, peak performance, and growth orientation. It is evident how advanced the company's products and roadmaps are, specifically within RBS. They appear to have a leadership advantage amongst certain 5G technology building blocks and the funnel of opportunity is deep, growing, and exciting across multiple applications. The wins in Q2, Q3, and in October are just the start and evident of what the future holds. I'm excited to add and contribute to this.
+
+What is most important to me is how well-known the company is in customer discussions, the potential for increased cross-sell opportunities as we leverage some incredible customer relationships. I'm ready to bring my own customer relationships to bear to grow this even further and directly contribute to the growth opportunity ahead. So with that, I'm incentivized to drive top line growth and eager to continue the hard work at hand, contribute to the mission, and lean in with the executive leadership team shoulder to shoulder to drive growth and shareholder value.
+
+I'll turn the call over now to Mike to discuss the numbers.
+
+Thank you, Alfred. Good morning again, everyone. As Tim mentioned, we continue to feel the impacts of the COVID-19 pandemic on revenues, specifically in the RFC product group as well as the ongoing lack of sales of our digital signal processing hardware cards to our former largest customer.
+
+This was offset, however, by increased sales of software and services in the RBS product group and the top line contribution of our newest acquisition, Holzworth. The high margin profile of software licenses and the Holzworth product line contributed to higher gross profit margin in the quarter. Additionally, we remain disciplined with regard to operating expenses both of which contributed to improved non-GAAP adjusted EBITDA as compared to the prior year period.
+
+Consolidated revenues for the third quarter of 2020 were $10.9 million, which was flat with the year ago period. Breaking this down by product line, revenue in our RBS product group decreased $2 million due to the ongoing lack of sales of our digital signal processing hardware cards. This was offset partially by sales of our higher margin LTE software licenses and services in the quarter. Revenue in the T&M product group increased $2.8 million due to the contribution from Holzworth, which was acquired on February 7 of this year. Revenue on our other product groups in T&M were flat with the year ago period. As we're starting to see signs of recovery from the COVID-19 pandemic in these groups.
+
+Revenue in the RFC product group decreased $767,000 from the prior year period due to lower spending by carriers' uncertainty caused by the COVID-19 pandemic. Consolidated gross profit increased to $829,000 from the prior year period due primarily to the contribution of Holzworth in the quarter to the T&M product group.
+
+Our consolidated gross profit margin increased 740 basis points from 44.6% in the prior year to 52% in the current year due to high margin software sales and Holzworth products along with the impact of cost savings activities on overhead and other fixed costs.
+
+Turning to operating expenses, our Q3, 2020 operating expenses include a full quarter of Holzworth expenses, which were offset by expense reduction initiatives that we implemented at the beginning of fiscal 2020 as well as additional cost savings we undertook during the year.
+
+Consolidated R&D expenses increased $483,000 due to the inclusion of Holzworth R&D expenses of $166,000 and increased third-party spend of $296,000, primarily on our T&M product line. Consolidated sales and marketing expenses were flat with the prior-year period, as the inclusion of Holzworth sales and marketing expenses of $400,000 were offset by decreases due to expense reductions. These expense reductions included head count, travel expenses and commissions.
+
+General and administrative expenses were flat with the prior-year period, as the inclusion of Holzworth general and administrative expenses of $246,000 were offset by lower merger and acquisition expenses and other discretionary expense reductions.
+
+Overall, consolidated operating expenses for the third quarter of 2020 were $6 million, which is an increase of approximately $500,000 from the year-ago period. At a high level, this breaks down as follows: Holzworth added approximately $800,000 an operating expenses in the quarter and our increase in third-party R&D spend was approximately $300,000, which were both offset by reductions of approximately $600,000 from the prior-year period.
+
+Other income and expense decreased $151,000 due to higher foreign exchange losses, and interest expense increased $196,000 due to our new term loan facility used to finance the Holzworth acquisition.
+
+The company recorded tax expense in the quarter of $128,000 as compared to a tax benefit in the prior-year period of $169,000, primarily due to qualified PPP loan expenses that cannot be deducted for tax purposes if the loan is expected to be forgiven. The company, however, is not a US cash taxpayer due to our federal and state NOLs.
+
+Our net loss for the quarter increased $300,000 from the prior-year period as lower GAAP operating loss was offset by higher foreign exchange losses, higher interest expense and higher tax expense. Non-GAAP adjusted EBITDA, however, improved $624,000 over the prior-year period due to our improved gross profit only partially offset by higher non-GAAP operating expenses.
+
+Turning to the balance sheet, consolidated cash as of September 30 was $2.2 million, availability under our asset-based revolver was $6.5 million and gross debt was $10.4 million. Included in our gross debt is $2 million related to the Paycheck Protection Program loan, which we received on May 4. The 24-week covered period of the PPP loan has expired. Accordingly, the company will apply for forgiveness of the loan this quarter. As of mid-July, all the proceeds of the PPP loan have been spent on qualified expenses as defined under the PPP program.
+
+I'll now turn the call back over to Tim for some closing remarks.
+
+Thank you, Mike. We are very pleased with the strategic goals we've accomplished in the first nine months of the year despite the numerous challenges in the market. COVID-19 continues to cloud the outlook and creates a great deal of customer uncertainty on the timing of projects and purchasing decisions, which creates challenges to provide guidance. But with that said, we are proud of the progress we've made for brighter quarters ahead.
+
+We have aggressively managed our cost base. We have added incredible talent with a new Chief Revenue Officer. We have signed four new customers for software and service deals totaling $2.4 million. We have successfully acquired, integrated and increased sales of Holzworth solutions. We have advanced our product roadmaps to address 5G and other major growth trends and launched eight new products to the markets. And we've extended our channels and selling capabilities through our acceptance to the [ph] NSC and IWRP (00:17:50) consortiums. We are highly excited about our strategic direction and future and the ability to drive growth over the next several quarters. Our employees continue to be engaged and motivated and the leadership team is energized, excited, and empowered to drive success.
+
+Thank you. And, Kate, if you could please open the lines for questions.
+
+Thank you. Ladies and gentlemen, the floor is now open for questions. [Operator Instructions] And our first question today is coming from Marc Wiesenberger. Please announce your affiliation, then pose your question.
+
+Good morning. This is Marc Wiesenberger from B. Riley Securities. Thanks for taking my question. Could you talk about the dynamics you're seeing in the Boonton and Noisecom end markets relative to those of Holzworth? And is there any reason why we shouldn't expect Holzworth to perform around these levels going forward?
+
+Thank you, Marc. Appreciate you joining us this morning. Yeah. So the brands within Boonton and Noisecom, which are the legacy brands prior to Holzworth, are geared more towards R&D [ph] bench top (00:19:29), lab instrumentation. We're very excited about the smart noise sources that are embedded and being designed into other solutions. So quite pleased with that. Boonton is a little slower than it was last year. And we just think that the spend for those products falls into more of a maintenance bucket than an investment bucket.
+
+Within Holzworth, the investments we're seeing there are aligned more towards semiconductor automated test environments. They're related to defense, space programs, quantum computing. And so I believe those fall more into a bucket of investment dollars that has been less impacted by any COVID-19 pullback. So we still feel good about all of our brands going forward. And yes, we believe that the Holzworth improvements and increases will sustain themselves over the next few quarters and years.
+
+Great. That's good to hear. And maybe just as my final question, how should we think about the level of activity and the margin profile next quarter relative to what we just saw in this quarter? Thank you.
+
+Yeah, Marc. That's – it's a little challenging now with some of the software contracts that we're working on because the timing of those contracts both being brought to completion could be at the very end of the quarter and those could push a few weeks. So, that'll have a pretty big impact on the outcome of the quarter. So, it's difficult right now to say with any kind of certainty what that quarter will look like. We're enthusiastic about the conversations we're in. We have confidence in the win. But the ability to sign a contract, deliver either a software license or perform the services work on top of the software, we have less certainty of timing here with just about six, seven weeks left in the quarter.
+
+Understood. Thank you.
+
+Thank you, Marc.
+
+Thank you. Our next question today is coming from John Roy. Please announce your affiliation and then pose your question.
+
+Yeah. This is John Roy from Water Tower Research. I had a question about your 15% EBITDA margin. Is that something you guys think is achievable before COVID ends or is that really more of a, look, it's COVID really going to have to end for us to achieve that?
+
+Yeah, that's a long-term target for us. And so as we think about that in terms of a few years of work to get to that. So, I would say, yeah, that's – the sustainability of 15% EBITDA margin annually is something that's post-COVID.
+
+Right. And on the back to kind of a gross margin kind of question asked before, rather than just the next quarter, your expectations are obviously with more software content that gross margin should kind of continue to ramp up over the next couple of years?
+
+I think there are two contributors to the improved margins. Both the software and services within the RBS product set, but also the greater contribution of the test and measurement solution set, which also carries a heavier margin. So those two – the increases in those two solution sets and the growth there, yes, those will be the two primary drivers to improve gross margins going forward.
+
+Great. Thank you so much.
+
+Great. Thank you, John.
+
+Thank you. Our next question today is coming from [ph] Robert Morrison (00:23:08). Please announce your affiliation, then pose your question. [ph]
+
+Robert Marson, Penn Capital (00:23:14). Congratulations on a decent quarter, guys. Although, it seems like Holzworth was a pretty big chunk of it. And with hindsight, turned out to be a pretty solid deal. Could you comment on the other acquisition, which is doing much less well than it did in a couple of years ago. CommAgility peaked at $15 million to $16 million in revenue and the amount of revenue this year is considerably down and we all know why and it's been rehashed over. So we don't need to address that. But as you look forward into budgeting for the RBS business for next year, could you give us a sense, I know it's a lumpy business, it's a big deal, maybe big deal, no-yes situation. But could you at least give us a sense on how you're looking at budgeting for revenue for that division in calendar 2021?
+
+Yeah. Thank you, Robert. Yeah. So as we think about the composition of the revenue when you called it out, it's really the decline of those hardware cards for that significant customer at the end of 2019 and throughout the year. If you look at the margin profile, the hardware cards are the low 40s where the software and services revenue is near 100%.
+
+And so as we think about the trade-off, we're looking to recover about half of that in software and services. So getting to that $7 million or $8 million almost fully recovers the margin profile that we had. So that's one data point. With regard to lumpy quarters, I think to the extent there's a sale of a software license that is delivered with no other contingencies or services that could create some lumpiness. But some of these larger deals that we're working on are going to include the delivery of services and customization and specialization on top of the license.
+
+And so that will be recognized over multiple quarters and periods of time and that actually could serve as a vehicle whereby we have a more predictable path and pattern of revenue recognition as we deliver that. So we're actually quite enthused about that. So, our goal going forward is to make sure that we fully make up the loss margin from those hardware cards and to go beyond it. And so, that's how we're thinking about 2021, and we're going through the planning stage now for 2021. That's already been kicked off in earnest and will conclude in the end of December.
+
+Could you give us some qualitative comments on the funnel because you're saying it's broad, it's deep, and you're proud of it, but we haven't seen a lot of revenue yet? And is there any way to compare the backing of NXP generating leads for you versus the CommAgility people generating leads? Is it multiple times? How would we try to scale the prospect opportunity with NXP helping us?
+
+Yeah. I think a couple of comments we've made in the past is that our funnel has increased the magnitude of four to five times since late 2019 to current state. So that's one color commentary. The other commentary I'd make, [ph] Robert (00:26:47), is really just if you think about momentum and think about timing, we released the R15, software release was October of last year. The NXP partnership was announced in January of this year. We signed two contracts in Q2, one in Q3, one in October. And of those four, only one was with NXP, and two of the four were on 4G – were for 4G technology.
+
+So we do believe we're entering a stage where both there's greater investment in LTE and customized LTE for specialized applications as well as investment growth within 5G. And so, as we think about just the last six months, and really signing four contracts in six months. We are starting to see that funnel come to fruition. About one-third of the funnel, our opportunities that have been brought to us through the NXP affiliation and collaboration, about one-third of those opportunities are those that we brought to NXP. So they came in through our own channels. And about one-third of those opportunities remain in the 4G and non-NXP category. So we're quite enthusiastic that we're seeing investment for both 4G and 5G, and that the funnel has both NXP and non-NXP opportunity. And just excited as we think about the last six months what the next six months will bring.
+
+Okay. Thank you. And one final question on this area. Do you have opportunities globally? Does NXP – since they are a very large global company, do they expand the geographical breadth of your ability to chase down prospects? I assume, we're doing well in North America and Europe from CommAgility's legacy. But does NXP help us expand the geography beyond those two regions?
+
+Yeah. No, absolutely. Our funnel is very global. We see probably the strongest opportunity set out of North America, followed by Europe, but we have discussions happening in other parts of the world. So very much global opportunities, yes.
+
+Thank you.
+
+Thank you, [ph] Robert (00:29:21).
+
+Thank you. Our next question today is coming from Michael Potter. Please announce your affiliation, then pose your question.
+
+Hi. It's Michael Potter from Monarch Capital Group. Good morning, guys. Congratulations on a good quarter and another step forward.
+
+Very good. Thank you, Michael.
+
+Just a couple of questions, and they're basically follow-ups to the prior callers. On RBS CommAgility, can you give us a little bit more detail on the pipeline, Tim, military versus, I guess, IoT, industrial size, use to some degree on some of the contracts that have been signed to date, the four contracts that have been signed to date and some of the ones that you're excited about that are currently in the pipeline?
+
+Sure. So again, as we mentioned, the four deals that we've signed include an LTE rail application. It includes a government lab – well, it includes a lab, academic lab focused on government research. It includes a satellite application. And the fourth one is a specialized small cell.
+
+So we're happy with the deals that we've signed that we're seeing an array of opportunity across of 5G investment and across how we think about private network. The deals in the late stages in front of us have the same characterization as the ones that we've signed. There is a military 5G trial opportunity. There is an enterprise solution for government and law enforcement applications and then a host of others that, again, range from potential specialized small cells – not all small cells are the same – all the way through to more of an industrial application.
+
+And can you give us some sense of the size of some of these opportunities?
+
+Very similar to what we've signed. You'll see what we've signed. There is one deal in Q3 that was seven figures, a deal in October that was $400,000 in size. The two deals in Q2, one was $600,000, one was $400,000. So we're going to see an array of – I think the sweet spot of the range as we think about the future will be everything between $250,000 all the way up to $2.5 million. I think that's probably the sweet spot of the range of deals that we'll be signing.
+
+Thank you. [Operator Instructions] We do have a follow-up question in queue from [ph] Robert Marson (00:32:26).
+
+Thank you.
+
+Your line is live.
+
+Thank you. Can you give us some granularity on Holzworth, on how it's playing out, the integration, the revenue synergy potential? And whether this quarter, which you said is sustainable and it seems to be a very high run rate, included any kind of one-off large deals that might not be recurring? Almost $2.8 million quarter is a lot higher on an ARR basis than we ever imagined, I would assume, going into the transaction.
+
+Sure. Yeah. So on the first point, integration, that is largely complete, [ph] Robert (00:33:14). We are fully integrated across people, organizational structure, IT, financial consolidation, the sales channel. The training has been rolled out. We have a unified sales force. Our reps have embraced the product and contributed to some of that revenue growth and synergies. So we're really largely complete with the integration. In terms of the revenue...
+
+Revenue synergy detail, so...
+
+Right. So in terms of the revenue synergy, this was a company doing approximately $5 million of business annually. And we have in just the first six months of ownership or less than – it was a February deal, we're seeing close to $6 million, about $5.5 million, $5.7 million year-to-date. So we feel good about that. Yes, there are some lumpy deals in there, but some of those deals are from names that have a global installed base of instruments. And so we feel we will get repeat order flow from some of these large customers that we have helped win.
+
+There are specific deals within the revenue and the bookings, which have come from our channels and have come from our ability to book business as an already qualified vendor. And so we have taken orders in here in Parsippany as an already approved vendor to large defense contractors that would have been a barrier to a win for the Holzworth team.
+
+I think the other element is the completion of the ISO 9001 certification, has certainly stepped up their profile and allowed them to bid on more RFP opportunities than they ordinarily would have without that certification. So we feel good. We feel good about the customer names that are buying their product. We feel that some of these customer names have a global base, and getting into a single lab allows us to go after the land-and-expand strategy, as Alfred likes to say.
+
+If you can win an automated test environment in Texas, you should be going after every other one of those environments that that company may have all around the world and all around the US. So getting in a win in a single location improves your chance of opportunity and success at other locations.
+
+Did we have any chance to use their business contacts and customer relationships globally for the Test & Measurement and production businesses and bring our legacy Test & Measurement products into that environment, because it's a totally different environment they focus on [indiscernible] (00:36:08)?
+
+Yeah. But once you get into – the answer is yes, [ph] Robert (00:36:12). Once you get into a customer account, so if you think about some of the largest defense contract or some of the largest semiconductor manufacturers that you absolutely have the ability to grow both ways. I think the opportunity set is larger for them to leverage our long-term relationships across all our existing brands, but they certainly do have names and relationships of customers and even within common customers, different relationships that we would hope to leverage over time.
+
+Okay. Thank you.
+
+Very good.
+
+Thank you. We do have a follow-up coming from Michael Potter. Your line is live.
+
+Hey, Tim. I was just in the middle of another question before when we got cut off. The RBS contract that you signed in October, $400,000 – I think you said it was for $400,000.
+
+Correct.
+
+What was the application?
+
+That was for a academic lab focused on government research.
+
+Okay. Okay. And then the question that I also had was a lot of these contracts that we're signing at this point, are they development contracts? Or these are kind of one and done?
+
+I would say that two of the contracts of the four we've signed was the delivery of a software license, and that could be characterized as one and done, although that's not really our approach. I mean what's done is our delivery of the license and our recognition of the revenue.
+
+We would hope, though, that in addition to the license we sold them, we can then sell them others. So if they only bought that [indiscernible] (00:38:07) license, we can sell them a different – additional [ph] rep chain (00:38:11) licenses as they advance their work or protocol licenses as they also continue to work. So we would hope that that license recognition, while maybe one and done for revenue recognition purposes, that there's more opportunity for us to expand.
+
+The other two of the four we've signed is the delivery of services. And so in one of those contracts, revenue would be recognized, I believe, over three quarters, depending on the milestones of delivery, completion, acceptance, payment and all the criteria that goes into a more complex revenue recognition methodology. [indiscernible]
+
+(00:38:53).
+
+So I think – and the rule of thumb is the larger the contract, typically the more that's involved and the longer the delivery cycle. And I would say that most delivery cycles from the deals we've signed as well as the ones where we're in late stages have three to four quarters of delivery associated with them.
+
+Okay. Terrific. Thank you.
+
+Okay. Thank you, Michael.
+
+We have no further questions in queue at this time.
+
+Great. Kate, thank you. Thank you, everyone, for your continued confidence and faith in our direction. We wish you all continued good health, and we look forward to speaking with you again. Have a great day.
+
+Thank you, ladies and gentlemen. This does conclude today's conference call. You may disconnect your phone lines at this time, and have a wonderful day. Thank you for your participation.

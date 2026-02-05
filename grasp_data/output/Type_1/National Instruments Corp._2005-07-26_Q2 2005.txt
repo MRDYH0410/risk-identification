@@ -1,0 +1,332 @@
+raw transcript
+
+
+National Instruments Corp.
+ 
+NATI
+ 
+Q2 2005 Earnings Call
+ 
+Jul. 26, 2005
+
+
+Company
+
+ 
+Ticker
+
+ 
+Event Type
+
+ 
+Date
+
+
+
+www .Ca ll St r eet . com
+ 
+•
+ 
+21 2. 9 31 . 65 1 5 •
+ 
+C op yr i g ht © 20 0 4 C a ll S tr ee t
+ 
+1
+
+
+MANAGEMENT DISCUSSION SECTION
+
+
+Operator: Good day everyone and welcome to the National Instruments Corporation Second
+
+
+Quarter 2005 Earnings Release Conference. Today's call is being recorded. You may refer to your
+
+
+press packet for the replay dial in number and the pass code. The replay will be available from
+
+
+7:00 PM Central Time today and will end at midnight Central Time on August, 02nd. With us today
+
+
+are Dr. James Truchard, President and Chief Executive Officer; Alex Davern, Chief Financial
+
+
+Officer; and John Graff, Vice President of Marketing.
+
+
+Now for opening remarks and introductions, I would like to turn the conference over to Mr. David
+
+
+Hugley, Corporate Counsel. Please go ahead.
+
+
+Mr. David G. Hugley, Corporate Council
+
+
+Good afternoon. During the course of this conference call we shall make forward-looking
+
+
+statements regarding the future financial performance of the company including statements
+
+
+regarding our expected revenue and earning per share, success of our new products and
+
+
+expanding market opportunities. We wish to caution you that those statements are just predictions
+
+
+and that actual events or results may differ materially. We refer you to the documents the company
+
+
+files regularly with the Securities and Exchange Commission including the company’s annual report
+
+
+on Form 10-K for the year ended December 31, 2004 and our Form 10-Q for the quarter ended
+
+
+March 31, 2005. These documents contain and identify important factors that could cause our
+
+
+actual results to differ materially from those contained in our forward-looking statements. With that,
+
+
+I will now turn it over to the President and CEO of National Instruments Corporation, Dr. James
+
+
+Truchard.
+
+
+James J. Truchard, Chairman, President, and Chief Executive Officer
+
+
+Thank you, David. Good afternoon and thank you for joining us. Our key points today are record
+
+
+revenue of a 141 million up 11% year-over-year, record revenue from new products and year-over-
+
+
+year GAAP net income up 32 percent. We are pleased with the strong sales of our virtual
+
+
+instrument patient platform in Q2 and the penetration of our new products into new application
+
+
+areas including RF communications tests, MD echo test and [indiscernible] industrial control. Our
+
+
+strong sales in marketing execution coupled with record new product revenue resulted in record
+
+
+revenue for the quarter. In our call today, Alex Davern, our CFO, will review our financials; John
+
+
+Graff, our Vice President of Marketing will discuss our business; and I will close with a few
+
+
+comments before we open up for your questions. Alex?
+
+
+Alexander M. Davern, Chief Financial Officer
+
+
+Thank you for joining us today. We had a strong second quarter with revenue of $141 million up
+
+
+11% year-over-year and up 9% from Q1. This represents the highest quarterly revenue in NI’s
+
+
+history and is a very good performance given the decline that we saw in the J.P. Morgan Global
+
+
+Purchasing Managers Index during April and May.
+
+
+GAAP net income was $15 million up 32% from Q2 2004 with fully diluted GAAP earnings per
+
+
+share of 19 cents. Included in GAAP net income are number of items related to acquisitions. It
+
+
+includes a $400,000 non-cash charge to cost of goods sold and a $200,000 non-cash to R&D
+
+
+related to the amortization of acquisition related intangibles.
+raw transcript
+
+
+National Instruments Corp.
+ 
+NATI
+ 
+Q2 2005 Earnings Call
+ 
+Jul. 26, 2005
+
+
+Company
+
+ 
+Ticker
+
+ 
+Event Type
+
+ 
+Date
+
+
+
+www .Ca ll St r eet . com
+ 
+•
+ 
+21 2. 9 31 . 65 1 5 •
+ 
+C op yr i g ht © 20 0 4 C a ll S tr ee t
+ 
+2
+
+
+Additionally, as our patent litigation with Measurement Computing was settled on acquisition, the
+
+
+company reversed its remaining accruals of $1.9 million, which is equivalent to 2 cents per share.
+
+
+This is netted with our other patent litigation expenses on the income statement. The resolution of
+
+
+this litigation and the addition of several additional graphical programming patents strengthens our
+
+
+overall IP position. Our instruments revenue growth was driven by the success of our new products
+
+
+along with record revenues from our data acquisition, industrial communications, PXI, modular
+
+
+instruments, and motion control products.
+
+
+The improvement in our growth was also driven by significant increase in revenue from our larger
+
+
+orders over $20,000, which helped increase our average order size by 6% sequentially to almost
+
+
+2900, close to the record we saw in Q4. It is likely that some of this increase in orders over
+
+
+$20,000 is largely related to pent-up demand after a pause in Q1. Our instrument control products,
+
+
+which now represent 13% of revenues continue to show a year-over-year decline, falling by 16%
+
+
+year-over-over and by 5% sequentially. Year-over-year revenue growth for our other products was
+
+
+plus 16 percent, reflecting the success of our new products in what was a tough quarter overall for
+
+
+test and measurement companies. On a year-over-year basis the acquisitions of electronic
+
+
+[indiscernible] Measurement Computing, net of the divestiture of our German system integration
+
+
+business added $2.4 million in revenue in Q2.
+
+
+During Q2, we saw year-over-year revenue growth in all regions. Year-over-year revenue was up
+
+
+19% in Asia, up 11% in Europe, and up 8% in Americas giving overall growth of 11 percent.
+
+
+Moving on to income statement, gross margins at Q2 were 74 in line with Q2 last year or down
+
+
+approximately 1% from Q1. The main drivers of the sequential decrease in gross margin are the
+
+
+addition of the lower gross margin sales from the acquisition of Measurement Computing and the
+
+
+amortization of $400,000 of intangibles related to acquisitions. This non-cash amortization charge
+
+
+will continue to appear on our GAAP financials for several years; however, we are specifying the
+
+
+amount in future earnings calls.
+
+
+Total expenses dropped from 62% of revenue in Q2, 2004 to 60% this quarter. Our R&D expenses
+
+
+increased by $2 million or 9% sequentially from Q1. This includes the incremental R&D cost we
+
+
+picked up in the acquisition of electronic [indiscernible] Measurement Computing as well as a
+
+
+$200,000 non-cash charge related to the amortization of acquisition related intangibles. In Q2 we
+
+
+actually capitalized $3.4 million of internally developed software costs, up slightly from $3 million in
+
+
+Q1. We expect this total of capitalization to continue through Q3. Amortization, the cost of goods
+
+
+sold from previously capitalized software development costs was $2.1 million in Q2, up from $1.8
+
+
+million in Q1. SG&A expenses were flat sequentially. Our GAAP operating income increased by
+
+
+35% sequentially and represented 14% of revenue compared to 11% in Q1.
+
+
+Now, turning to the balance sheet. Inventory was flat sequentially with inventory days dropping on
+
+
+the higher revenue level. Accounts receivables were down $2 million and our day’s sales
+
+
+outstanding falling on the high yield revenue. Net cash from short-term investments were $157
+
+
+million compared to $221 million on March 31st. This is net of dividends, stock repurchase, and
+
+
+cash payments related to the acquisitions of Measurement Computing and high perception.
+
+
+headcount as of June 30th was 3632, up 119 from March 30th. Excluding personnel added via
+
+
+acquisition personnel was up by 48 in the quarter.
+
+
+During the quarter the company paid $4 million in dividends and paid $41.5 million to repurchase
+
+
+1,741,000 shares of the company’s common stock at an average price of $23.85 per share. This is
+
+
+equivalent to 2.2% of the company’s outstanding stock. On July 22nd, the Board of Directors
+
+
+declared a cash dividend of 5 cents per common share payable August 25th, 2005 to shareholders
+
+
+of record on August 8.
+
+
+Now, looking at Q3. Due to an attributable seasonal pattern and the impact of the recent
+
+
+[indiscernible] of the Europe, which will have a negative effect on revenue in Q3. We are expecting

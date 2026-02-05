@@ -1,0 +1,427 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+Robert Roose — Director-Corporate Development & Strategic Planning, Avid Technology, Inc.
+Louis Hernandez, Jr. — Chairman, President & Chief Executive Officer, Avid Technology, Inc.
+Brian E. Agle — Chief Financial Officer & Senior Vice President, Avid Technology, Inc.
+Hamed Khorsand — Founder, President & Chief Compliance Officer, BWS Financial, Inc.
+Steven Frankel — Analyst, Dougherty & Co. LLC
+Matt E. Galinko — Analyst, Sidoti & Co. LLC
+
+Management Discussion Section
+
+Question And Answer Section
+
+Good day and welcome to the Avid Technology, Inc. Fourth Quarter 2016 Earnings Release Conference Call. As a reminder, today's conference is being recorded.
+
+At this time, I'd like to turn the conference over to Robert Roose, Director of Investor Relations. Please go ahead, sir.
+
+Good evening. I'm Robert Roose, Director of Investor Relations at Avid Technology. Welcome to our Q4 2016 earnings call. With me today are Louis Hernandez Jr., Avid's Chairman and Chief Executive Officer, and Brian Agle, Avid's Senior Vice President and Chief Financial Officer.
+
+On our call today, we'll be using both non-GAAP measures and certain operational metrics, both of which are defined in our Form 8-K and supplemental, financial and operational datasheet available on our Investor Relations webpage. These non-GAAP measures are also reconciled with GAAP measures in the slide deck that accompanies this call, the tables to our press release and in the supplemental, financial and operational datasheet.
+
+I would also like to remind you that certain statements made on this call are considered forward-looking statements within the meaning of the Securities laws such as, for example, statements about expected future operating results and financial performance, and the progress of our transformation. Forward-looking statements are inherently uncertain, not guarantees of future performance, and are subject to certain risks and uncertainties that could cause actual results to differ materially from our historical experience and our present expectations or projections. Any forward-looking information relayed on this call speaks only as of this date and we undertake no obligation to update the information, except as required by law.
+
+For additional information, including a discussion of some of the key metrics, key risks and uncertainties associated with these forward-looking statements, please see the Forward-Looking Statements section of our press release issued today, as well as the Risk Factors and Forward-Looking Statements sections of our 2016 Annual Report on Form 10-K available from the SEC, the Avid Technology website and our Investor Relations Department.
+
+We've also added a supplemental presentation in an effort to complement today's narrative. We hope that you find it helpful. We will be recording today's call, which will be made available for a two-week replay. You may replay this conference call and access the supplemental presentations by going to the Investor Relations page of our website and clicking the Events & Presentations tab. Later, we will be conducting a question-and-answer session and instructions will be given at that time.
+
+And now, I'd like to turn the call over to our Chairman and Chief Executive Officer, Louis Hernandez, Jr.
+
+Louis?
+
+Thank you, Robert, hello, everyone. I'd like to first thank everyone for their patience on the timing of our earnings release. We had planned to hold this call last week until we learned, hours before the call, that our new auditors were still finishing routine procedures to complete the 2016 audit. We could have proceeded with the call, however, added with abundance of caution, we felt that it was more prudent to wait until all the numbers were final. These final procedures now have been completed, there were no changes to the results, and we filed our Form 10-K yesterday.
+
+Let me now provide you a summary of our results. If you can turn to page 6 of the presentation. We met or exceeded our guidance on all financial metrics. Bookings, non-GAAP revenue and adjusted free cash flow were in line and above the midpoint of the guidance range. Non-GAAP operating expenses and adjusted EBITDA were above the high-end of guidance. Bookings increased 42% sequentially on a constant currency basis and produced advances in all customer tiers and all geographies. We were able to deliver positive adjusted free cash flow for the quarter. Last quarter, we discussed several areas of focus that will drive performance here in Q4, and I'll provide you an update on these areas that we discussed on the last call.
+
+The performance of our storage applications improved, driven by NEXIS, our new, award-winning software-defined storage platform. That benefited from the release of the key enterprise features that were issued at the end of Q3, and this [ph] shows (04:40) adoption of our enterprise clients and led to a rebound to our storage business overall. Orad-related applications improved to levels close to their historical run rate, reflecting the initial actions we've taken to address the challenges related to logistics and sales training.
+
+We also continued to see strong growth in our cloud-enabled subscriptions and digital sales. We had tractions on the enterprise deals that we talked about in Q4, with several important enterprise announcements including the global enterprise and cloud agreement with Al Jazeera. We continued execution of our efficiency program, which drove non-GAAP operating expenses down by 30%, contributing to improved adjusted EBITDA and adjusted free cash flow. Now, we believe these trends in the quarter begin to reveal a core financial model that is improving significantly as we near the end of our transformation.
+
+As you know, our results have been challenging to interpret during the transformation due to significant changes to the core business model and the impact of the pre-2011 amortization, and the elimination of the implied PCS revenue. These transformative changes are wrapping up, and the impact of this revenue accounting has been declining, ultimately becoming de minimis after Q2 of 2017. If you adjust out the impact of the pre-2011 amortization and the elimination of the implied PCS revenue, our revenue grew by $9.4 million in 2016, and our Q4 adjusted EBITDA was up $16.9 million year-over-year and $9.4 million sequentially, along with adjusted free cash flow which improved $4.6 million sequentially.
+
+Also, adding to our revenue visibility in 2017, the current year, is the increasing shift to recurring revenue and the $429 million of deferred revenue and committed backlog. Now, the transformation will be declared complete after Q2 2017, as planned, and we will be transitioning to the next phase with a clear, more predictable financial model as outlined in our guidance.
+
+We've also have the benefit of greater financial flexibility having updated our agreement with the noteholder that you may have read about, a couple of days ago. We've been laying the foundation of our next phase of growth by increasing our investment in cloud-enabled applications and striking important commercial and technology partnerships including the Jetsen agreement which I'll review with you shortly. We also enhanced our organizational structure and management team as we prepare for the next phase.
+
+Let's turn now to page 7.
+
+I'd like to take a moment to discuss our storage applications because it was a significant driver of our sequential bookings growth this quarter, and the new NEXIS platform is a key piece of the final product strategy for Avid Everywhere, which allows clients to fully leverage the platform, and was the basis for this product transformation.
+
+Now, as you remember, NEXIS is an award-winning first and only software-defined storage platform specifically designed for storing and managing media. And in fact, I just left Dubai where we yet won another award for CABSAT for NEXIS. This NEXIS product allows customers to be hardware-agnostic over time. It is substantially more powerful in terms of capacity, density and price and provide a secure cloud option. NEXIS adoption by enterprise customers drove storage bookings up 50% in the quarter and while this surge is a strong signal of market acceptance, we believe there's still pent-up demand and headroom available over time. NEXIS has been adopted by several of the world's leading media companies since the rollout began. This quarter, we were pleased to see many installations and expansions, including by AMC Networks and the Church of Jesus Christ of Latter Day Saints.
+
+As I mentioned last quarter, our rollout of NEXIS had an unintended consequence of freezing the enterprise market when we initially launched the product with capabilities targeted to the non-enterprise clients. While that was happening, our enterprise customers, which have historically been large and consistent purchasers of storage, chose to defer purchases until the enterprise NEXIS version was available. That offering was released in September of 2016, the very end of last quarter, and we're now seeing – third quarter, sorry, we're now seeing the adoption from that enterprise segment.
+
+Now, as we head into 2017, we're focused on driving continued adoption of NEXIS by enterprise customers. And while we're optimistic about the growth from this segment, the enterprise market remains volatile, and storage is typically included in these large enterprise deals. We're also very excited about the emerging opportunities that the NEXIS application's open architecture provides. We are now able to target new customer segments because NEXIS can operate with third-party products.
+
+A key example is that we have integrated Adobe Premier and Apple Final Cut editorial products on the NEXIS platform, so that customers using those third-party applications can experience the same efficiencies and collaboration from NEXIS that they could, if they were using an Avid editor. This is something that wasn't possible before, and it's only possible due to the unique openness and flexibility of Avid MediaCentral and NEXIS.
+
+And finally, we are preparing for the launch of NEXIS in the cloud. We look forward to sharing more exciting news about this at our annual customer event, Avid Connect 2017, in April in Las Vegas. You'll hear more about that in just a moment.
+
+Let's turn on now to the next page. Also, during the quarter, we had continued traction on key elements of the product strategy that has been part of this transformation. And this is an update to some of the metrics that we've been tracking since the beginning of the transformation. We saw continued strong platform adoption with 29% growth year-over-year. This is an important vehicle to cross-selling [ph] and are (10:56) growing customer wallet share, and is also the basis for many of the enterprise deals that we have signed and are negotiating.
+
+Cloud-enabled subscriptions and digital sales continued to surge. Paying subscribers were up 2.4 times, and digital sales were up 27%. We had more than 10,000 paying cloud-enabled subscribers that we added during the quarter. That's our largest quarterly increase to-date. This is an important area of high growth that's beginning to reach meaningful scale. In fact, if you combine the annual bookings related to digital and cloud-enabled subscriptions, based on the current run rate, this represents a double-digit percentage of our overall business, and over $40-million run rate.
+
+Also, recurring revenue bookings adds to increased visibility. Recurring revenues bookings were 45% of total bookings for the quarter, and remember where we started. We've grown the percentage of recurring revenue bookings from about 13% before the transformation now to the mid-40s or higher, depending on the quarter.
+
+And we've also continued to deliver on our efficiency program. We executed more than the planned $76 million savings in 2016 and this gives us confidence we're able to complete the additional, greater than $30 million targeted for this year. Now, the efficiencies drove non-GAAP operating expenses down 30% year-over-year, which contributed to the strong adjusted EBITDA and the adjusted free cash flow for the quarter.
+
+I want to now turn to the next page.
+
+By combining the best and most comprehensive set of applications across the media workflow and the most open and integrated platform in the industry, with flexible deployment pricing and pricing options, we were able to create a new type of sale for Avid. This is a larger enterprise sale that includes Avid's MediaCentral and multiple applications bundled and delivered to provide superior value to the client, something that's difficult for any single vendor in the industry to match.
+
+Now, we've signed several of key deals, but the timing of the deals remains hard to predict. And as we are formalizing enterprise pricing, our processes, our sales organization modifications, our delivery organizations, these should become more predictable part of our business. However, that may take several quarters.
+
+Now, I mentioned earlier, we closed a large enterprise deal with Al Jazeera. It's exciting deal. I just met with them out in Dubai. It's a multi-year, multi-million dollar enterprise Global Services Agreement. We agreed upon a framework that facilitates future deployments to standardize MediaCentral and applications across the global organization for Al Jazeera, an initiative that where we collaborate on developing the industry-leading cloud-based newsroom workflows to take major steps towards moving a global news organization to operating entirely in the cloud.
+
+You know what I think's important about this relationship is, Al Jazeera has been a customer of Avid for more than 10 years, and they bought a lot of solutions from us over time. This agreement, however, represents a new level of commitment, and we believe that it's further proof that the industry's leading global media companies recognize the power of our strategy, enough to expand on their heritage relationships with large multi-year agreements that address their core business problems.
+
+If you think about what's happening here, multiple continents of Al Jazeera's operation will be running on a single centralized platform, MediaCentral, which is the heart and soul of the Avid Everywhere strategy. It's pretty exciting.
+
+Now, other examples of enterprise agreements signed this quarter including deals with DHX Media and FotoKem. These are examples of continued enterprise deals from long-term customers.
+
+DHX Media is the owner and producer of some of the world's most loved and watched children's programming. This multi-year enterprise agreement is intended to allow DHX to access advanced technologies more efficiently across multiple media facilities, with many of Avid's applications including, of course, NEXIS shared storage which is part of that deal.
+
+FotoKem is a leading film and video post production facility headquartered very near our offices in Burbank. And if you're from the Hollywood area, FotoKem is very well known to you if you're in the media business. And to future proof its facilities and the performance capacity needed to accommodate high-resolution projects, FotoKem has upgraded its entire end-to-end workflow with Avid, including, of course, its NEXIS storage and editorial systems. It also includes sound mixing control services, an example of how it's all integrated onto a common platform.
+
+Let's turn to the next page, moving now to slide 10. And you may have heard about the partnership we recently announced with Jetsen. From Dubai, I flew out to Beijing where I am now. We've been having a series of events here with Jetsen, promoting the partnership that you might have read about not too long ago. I think this is another example of a longstanding partner of Avid, in this case, one of the fastest-growing and most forward-thinking solution providers in China.
+
+They're publicly listed on the Shenzhen Stock Exchange with about a $3.7 billion market cap. And what they've done is they've decided to step up their investment, much like Al Jazeera, who we've been with for a long time, and more strategically commit to Avid. After 10 years of [ph] our reselling and (16:36) because they believe in the power of what we're doing and the opportunity of Avid Everywhere in the Greater China market and the excitement of what we've demonstrated in the cloud, we've executed this long-term partnership.
+
+And to recap for those of you who didn't hear it initially, Jetsen has committed to minimums for bookings and cash payments that guarantees $76 million over three years and includes a 15% annual growth rate. The partnership will facilitate greater access, of course, to major media companies in China and accelerate our cloud strategy, which is allowing Avid to reduce its cost structure in the region. And this trip here that I'm on is a good example. The first day, we had every one of the major state broadcasters and CCTV, the government – major government broadcaster in a room, celebrating this partnership and it was all put on by Jetsen.
+
+Now, the team and I this week, as I've said, have a series of these industry events, much like I've described in client meetings up until early next week. Jetsen is clearly investing to not only meet but exceed together with us the minimums, hopefully. Jetsen has also agreed, as part of this arrangement, to make an $18 million strategic equity investment in Avid, which is expected to close by the end of Q2 and includes a delayed pricing mechanism, limiting dilution of our stock price if it rises.
+
+The five-year relationship, $76 million of guaranteed bookings over the first three years, and $18 million equity investment mark a significant investment from a regional partner and, we believe, further demonstrate what's possible for growth post transformation.
+
+Now, before turning the call over to Brian, on slide 11, if you can focus on the slide with me, I'd like to provide an update on the transformation itself. Those of you who've been with us since then and since I joined and the team joined know that since the beginning, we have said that the transformation would end in Q2 2017.
+
+For over three years, we've been repeating the same timeline as we closed offices, as we launched new products, and hired and transitioned over half our staff, and all of the other changes that we went through and, of course, the nine-year restatement that we had to go through as well. And the only difference about those periods when I talked about the ending is that Q2 2017 is actually next quarter and we are on target to complete what we had hoped.
+
+And as you know, we have defined the transformation with three events. And if you look at those events, they were at the top of this page, the defining events. We said that we would mark the conclusion when we rolled off the non-marketed products, which had been completed. We said that when we completed the efficiency programs, which we have now exceeded the $76 million target in 2016 and are now executing on the greater than $30 million of additional savings. And we said also when the end of the pre-2011 revenue amortization, as well as the elimination of implied PCS, which is substantially complete by the end of 2016.
+
+Now, in tandem, we have added these other two work streams that we've been tracking operationally. And these defining events include completing the ambitious product strategy, which is the launch of Avid MediaCentral; the investing in the best and most comprehensive suite of proprietary and certified products that we've been building out to have a more complete offering and gain wallet share; and finally, we want to be able to offer flexible deployment and pricing options including cloud-enabled enterprise pricing, something we didn't have before when we started this whole process.
+
+And all this contributes in the final work stream on the bottom of page 11 to an emerging economic model; one that is clear, more predictable, more scalable, and more profitable. With a typical rate of cash conversion, I'm happy to say, we believe we will be able to announce after Q2 that we have completed and successfully transitioned the company to represent these three work streams.
+
+And with that, I'd now like to turn the call over to Brian to review our financial results and guidance in more detail. Brian?
+
+Thank you, Louis, and good afternoon, everyone.
+
+First, let me apologize for the postponement of our conference call last Wednesday. We realized that it was an inconvenience to many of you who have joined the call today. The delay was not planned but became necessary. We simply chose to proceed with an abundance of caution. In hindsight, we could have gone forward with the call, but we are comfortable with the decision we made.
+
+As you know, Avid's financials are complicated. Our auditor was conducting their first full-year audit, and we were not able to finalize normal and routine audit procedures in a timely manner. We appreciate our auditor's efforts over the last few months in completing the audit. Now, I look forward to further discussing the financials and guidance that we have released.
+
+We had a strong finish to the year, meeting or exceeding our guidance on all metrics this quarter. In particular, adjusted EBITDA and non-GAAP operating expenses were favorable to our guidance. Bookings, revenue and adjusted free cash flow fell within guidance range.
+
+Let's move to slide 14 to discuss the Q4 results in more detail. Please note, in today's presentation, all numbers that I discuss will be non-GAAP numbers, unless specified. For a reconciliation of GAAP to non-GAAP, please refer to the schedule found at the back of the presentation.
+
+We showed a sequential growth in bookings, adjusted EBITDA and adjusted free cash flow. Total bookings on a constant currency basis were $134.5 million, up 42% sequentially and down 33% year-over-year. You'll recall, we had a large booking with Sinclair in the fourth quarter of 2015.
+
+On an as reported basis, bookings were $125.3 million, up 40% sequentially and down 35% year-over-year. We were pleased to see a recovery in bookings, with solid sequential growth across product categories, all three major group geographies and customer tiers.
+
+Non-GAAP revenue was $115.3 million for the fourth quarter, down 3% sequentially and down 17% year-over-year. Excluding the impact of the pre-2011 revenue amortization and the elimination of implied post-contract support or PCS, revenue was up 3% sequentially.
+
+Our non-GAAP gross margin as a percentage of revenue was 61.9%, which is up 110 basis points year-over-year and down 320 basis points sequentially. If you normalize for the impact of pre-2011 revenue amortization, our gross margin as a percentage of revenue improved by 350 basis points year-over-year, which is indicative of our trending product mix.
+
+Non-GAAP operating expenses for the quarter were $50.1 million, which is favorable to our guidance range of $56 million to $62 million. Our non-GAAP operating expenses decreased $21.2 million year-over-year or 30% and $8.3 million sequentially, down 14%. This is primarily due to the benefit of our cost efficiency program.
+
+In addition, please note that the Q4 operating expenses included favorable items of $2.4 million attributable to unrealized foreign currency transaction gains from the revaluation of our balance sheet, and lower amounts of accrual for variable compensation programs both year-over-year and sequentially.
+
+Adjusted EBITDA of $25.2 million also came in well ahead of our guidance range for the quarter, and increased both year-over-year and sequentially. While we continue to see the impact of the pre-2011 revenue amortization and the elimination of implied PCS, our cost efficiency efforts more than offset the impact on adjusted EBITDA. Excluding the impact of the pre-2011 revenue amortization and the elimination of implied PCS, our adjusted EBITDA was up over 835% year-over-year and improved 170% sequentially.
+
+Adjusted free cash flow was $2 million, ahead of the midpoint of our guidance range and down 14% year-over-year. The sequential improvement was largely driven by lower spending. We expect to be cash flow positive in 2017.
+
+Let me move to providing some more color on Q4 bookings. We were pleased to see strong sequential growth in our products. On a sequential basis, storage bookings increased 50%, and Orad-related products and services grew 44%. This improved performance is encouraging, and we will continue to focus on execution of these areas of opportunity for future growth.
+
+The digital business delivered strong year-over-year growth of 27% and sequential growth of over 46%, with continued growth in cloud-enabled subscribers. We had more than 60,000 paying subscribers at the end of Q4, up 2.4 times from a year earlier. This is the largest quarterly paid subscriber increase in our history. We also saw the impact of some meaningful enterprise customer deals in Q4 that contributed to bookings, including Al Jazeera, as Louis mentioned. Our transition to a recurring revenue model allowing for greater revenue visibility saw increased traction in Q4. The percentage of recurring revenue bookings to total bookings increased sequentially from 39% to 45% of total bookings.
+
+Now, on to slide 16. From an operational perspective, we completed the execution of our original $76 million annualized savings goal, which was calculated off the Q3 2015 run rate. As discussed on our Q3 earnings call, we have identified $30 million of savings in 2017. As a reminder, an important goal of our transformation is to create a leaner, more scalable cost structure. As we continue to expand the scale of the development platform, it enables more opportunities for talent alignment, facilities rationalization and improved productivity profitability.
+
+The chart illustrates that our Q4 operating expense positions us well as we move into 2017. Please note, as I mentioned earlier, the fourth quarter did benefit from unrealized foreign currency transaction gains and a relatively low accrual for 2016 variable compensation programs.
+
+Moving to slide 17 now, I'd like to provide you with a summary of our 2016 full year results. Non-GAAP revenue for 2016 was up $512.5 million, up 1% year-over-year. Excluding the impact of pre-2011 revenue and the elimination of implied PCS, revenue was up $9.4 million or 2%. Non-GAAP gross margin of 66.6%, increased 460 basis points from last year, which represents strong performance driven by revenue recognized related to the elimination of PCS, a mix of higher-margin products, and the benefit of our cost-efficiency programs that we executed upon throughout the year. Non-GAAP operating expenses for 2016 were $240.7 million, a decline of $31.7 million year-over-year, and reflects our cost-efficiency efforts.
+
+Finally, 2016 adjusted EBITDA was $116 million, an increase of $60.9 million or 110% year-on-year improvement. Excluding the impact of pre-2011 revenue and the elimination of implied PCS, adjusted EBITDA increased $64.2 million, adjusted EBITDA improved with and without the impact of pre-2011 revenue and the elimination of implied PCS.
+
+Turning now to the balance sheet on slide 18. At the end of Q4, we had total liquidity of $50 million, including $44.9 million of cash and $5 million undrawn revolver. Our accounts receivable balance was $43.5 million on December 21, 2016, which was up from the third quarter by $2.7 million. Days Sales Outstanding or DSO was 34 days at the end of the quarter. The inventory was down by $4.9 million to $50.7 million sequentially, with an inventory turn ratio of 3.3 times. The sequential decline in inventory was related to an increase in product shipments during the quarter, which included our NEXIS product line.
+
+Our deferred revenue was down, consistent with our revenue amortization, and our off balance sheet backlog was $203.6 million, up $6.5 million sequentially, reflecting enterprise deals in the fourth quarter. On a year-over-year basis, our off balance sheet backlog is flat. We define off balance sheet backlog as firm customer orders we have yet to ship, fulfill or invoice.
+
+The combination of deferred revenue and backlog is $429.3 million as of 12/31/16. This provides us with greater visibility into our 2017 revenue. Long-term debt at the end of Q4 was at $189 million. Please note, we are comfortable and in compliance with our bank covenants.
+
+I'd like to now provide an update on the amendment to our loan agreement. Earlier this week, we announced an amendment to our finance agreement with Cerberus, which provided more favorable leverage ratio requirements for future periods, beginning the quarter ending June 30, 2017 and extending to the final year of the agreement.
+
+The updated schedule of leverage ratios more accurately reflects the impact related to the elimination of PCS. Additionally, we agreed to expand the aggregate amount of allowable one-time charges incurred after February 26, 2016, including restructuring activities and other non-recurring costs from $28.1 million to $38 million. Finally, the agreement acknowledged that proceeds from equity sales transactions may be retained on Avid's balance sheet in the form of cash. We are pleased to have worked with Cerberus on signing this amendment to our financing agreement. As our financing partner, they responded to our request and demonstrated support for Avid as we complete the transformation and deliver a clear, more predictable, and profitable financial model.
+
+On slide 20, we have presented our Q1 2017 financial guidance. For the first quarter, we expect bookings on a constant currency basis to be between $162 million to $176 million, and on a reported basis to be between $154 million to $168 million. This guidance includes $76 million in bookings related to the China Jetsen partnership. We are guiding non-GAAP revenue for Q1 to be in the range of $100 million to $110 million, and non-GAAP operating expenses will be $54 million to $58 million. Adjusted EBITDA is expected to be in the range of $8 million to $14 million. Adjusted free cash flow to be in the range of negative $2 million to positive $6 million as we move to a more normalized cash conversion of adjusted EBITDA.
+
+For the full year of 2017, as our financial model becomes significantly less impacted by the pre-2011 revenue amortization, the elimination of PCS we expect the following. Non-GAAP revenue will be in the range of $405 million to $435 million, non-GAAP operating expense guidance is $205 million to $220 million, and adjusted EBITDA guidance is $45 million to $55 million. Adjusted free cash flow will be in the range of $7 million to $20 million.
+
+You will note that we did not provide an annual bookings range for 2017. During 2017, we plan to provide quarterly bookings guidance. Given that revenue is less impacted by the pre-2011 revenue amortization and elimination of PCS, we believe non-GAAP revenue is now a more meaningful metric indicative of our sales performance.
+
+In conclusion, we believe Avid is well positioned to move into our growth phase as we focus on our core customer base, new growth segments, and leveraging the cloud to deliver enterprise-wide deployments, and cloud-enabled subscriptions to our customers.
+
+I'll now turn it back to Louis for some closing remarks.
+
+Thank you, Brian. On page 23, I'd like to briefly remind everybody of our strategy before and spending just a few minutes on our transition to Avid's next phase of growth. Now, over three years ago, we launched a vision for Avid Everywhere, a single global collaborative ecosystem shared by anyone who wants to participate in any part of the media chain through a common platform with shared tools. And this was a pretty dramatic departure and expansion from the primarily creative tools that the company had started with. But it had this incredible brand and distribution over 140 countries.
+
+The goal was to combine the best and most comprehensive set of creative and workflow tools in the industry. Combine that with the most open and extensive and efficient platform in the world that the industry had not experienced before, with flexible deployment options either on-premise, private or public cloud, and payment options like license which is what we had had before, but now subscription and enterprise options to allow the industry – the whole thing was designed to solve the problems that we had heard about from our customers when [ph] we (35:28) first joined.
+
+In the process, it would allow Avid then to leverage its brand and distribution to expand its addressable market by being able to package solutions to different tiers, different geographies and different segments. As a result, we would create new revenue streams and lower our delivery and operational model to drive greater profits and cash flow.
+
+And I know those [ph] who have met us (35:52) have heard the long version of that explanation of our strategy. Now, as we complete the final refinements of this transformation, this model and its benefits are starting to be revealed and we think they'll become more visible in the coming quarters.
+
+Now, if you turn to page 24, as we enter 2017, we're really focused on completing the transformation. We wanted no disruption to be able to complete in Q2 as we had targeted. And I'm excited at the prospect, believe me, of declaring the conclusion just next quarter and sharing the product and technology achievements at Avid Connect and NAB, which will punctuate the completion of that original product vision.
+
+Now, at the same time, we're preparing for the next phase here at Avid. This will be a phase which will focus on aggressive selling and marketing to drive adoption to what we have created on a larger scale in all segments.
+
+You can see the completed transformation on slide 24 in the upper left, some of the things we've been talking about, and then preparing for the growth includes some of the strategic initiatives that I've defined: a new sales model, the go-to market, preparing for the cloud to expand on the cloud offerings we have today and, really, completing this long journey of the cloud, shifting to this aggressive commercial and selling focus with customer-centric operational excellence. And these are some of the areas that we've been targeting.
+
+As we turn to page 25, as part of the Avid Everywhere strategy, you may recall that we wanted to have a deeper connection with what we thought was a preeminent client community and user community. And that's where we formed the Avid Customer Association. Some of you may have attended our first event where we had a few hundred people. This has now grown from a standing start to over 8,500 numbers today. This community meets throughout the year and then gathers for Avid Connect, our annual customer event.
+
+This year, at Avid Connect 2017, we're excited to share some important announcements related to our cloud-enabled growth strategy including new partnerships and product innovations around the cloud. But we believe that these products will punctuate the strategy and the journey we've been on through this transformation.
+
+Now, many of you have asked about this event, and so we do encourage investors and analysts to join us for Avid Connect 2017. It's held on the weekend just before NAB. This is April 22 and 23 in Las Vegas, I encourage you to come. And for more information, please contact Robert Roose in Investor Relations, and you can find his contact information in today's press release and on the Investor Relations website.
+
+Let's turn to the wrap-up slide here, page 26, so I can recap the highlights of Q4. First, we met or exceeded guidance on all metrics, 42% sequential bookings growth – constant currency bookings growth, positive adjusted free cash flow in the quarter, up $4.6 million sequentially. Our performance was driven by strong execution in some of the key focus areas that we talked about. We saw rebound in storage and improvement in Orad, continued growth in cloud and digital and traction with enterprise deals.
+
+We also continued to execute on the efficiency program which drove significant reduction in operating expenses and improved adjusted EBITDA and free cash flow achievement. With the continued reduction in the revenue impact related to the pre-2011 amortization and the elimination of implied PCS, it's becoming clear that our core financial model is improving dramatically. We are confident that we'll complete the transformation on schedule in Q2 2017, and as you heard us, preparations are underway for the shift to the next phase. I hope you can join us to hear more at Avid Connect in Las Vegas 2017.
+
+And with that, operator, I'd like to entertain questions.
+
+Thank you. [Operator Instructions] We'll take the first question from Hamed Khorsand with BWS Financial.
+
+Hi. Just a couple of questions. I was trying to understand as far as your subscriber numbers, actually, the paying subscribers in the quarter, how much of that increase was related to enterprise licenses and how much was related to your end of year lower price points?
+
+Hi. I couldn't hear completely but, I think, you were asking, how much of the subscriber growth had to do with conversion of prior license subscribers, and then the end of year marketing push, I think, is what you said.
+
+Let me restate the question. What is the composition? What is the reason for the subscriber growth? And the most interesting thing about our subscription growth and our digital sales on subscribers, a vast majority comes from brand-new customers to Avid. So, these are coming from competitive situations there, not folks converting over from a license.
+
+One of the most effective tools we have seen used is the first product, which you may recall. This is where we have a free version of our creative tools, particularly on Pro Tools, which has been out longer. The conversion rate of the free users to a paid subscription is much higher than industry averages. And that has been the primary driver of the subscription growth, much more significant than any license upgrades that we used to do on an ongoing basis.
+
+The digital sales equally were impacted by simply pricing and packaging the product and delivering it in a way that simply were not available before we completed Avid Everywhere. So, most of these subscribers are net new subscribers, and as you heard from the numbers, we are experiencing an acceleration in the number of folks who were adopting the subscription cloud option.
+
+Brian, do you want to add anything to that answer?
+
+Yeah. I'll echo your comments. And just for some specific information data here. More the enterprise folks, the MediaCentral licenses, year-over-year, we went from 33,000 to 42,700. And more for our Tier 3 folks, we went from 25,000 to 60,000.
+
+Yeah. And what I was trying to get to was that during the holiday period, you have a promotion that goes onwards, where it's lowered rate versus the $49.99. So, I'm just trying to assess how much of your paying subscribers, the 60,700, are in that lower price point and how do you keep them engaged once the – the promotion ends at the end of the year, you mean, do you have to give it to them at the same price, I guess, right?
+
+I think the big reason, I think if you look at why we've seen such a surge in subscribers and why the net new is that, first of all, many people didn't believe that they can get the product who was – produced 10 of the top 10 films last year, and every GRAMMY nomination for a low monthly fee that simply wasn't available. So, the price elasticity, we've noticed, hasn't come into play. And while we did launch a promotion during the holidays and plan to do every one so that they could buy their loved ones subscriptions. The real issue is that they have the capability of getting the best tool in the world for a low monthly fee.
+
+If you look at Pro Tools, which is what drove initially the subscriber base and continue to be very strong, one of the most important features of cloud collaboration, so you and I can be on different parts of the world, I'm sitting here in a hotel room in Beijing right now and you, which we've demonstrated to every one of our trade shows, can be where you are, and I can invite you to a track, there's video chat capability, we can work as though we're in the same studio. And there's an app store that has a pop-up capability if you're working on different apps so that our sound is the same, [ph] reducing your mix down later (44:43).
+
+So, the ability through the artist community to connect with anybody around the world, work on the world's leading tool in the world and collaborate consistently, is what is keeping our users from departing. Our churn rate is extremely low and our conversion rate from a free version is well above any industry average. And so, while pricing always helps, the real thing that's retaining this client base is the ability to get the best product and deliver services you simply can't get somewhere else.
+
+Okay. And turning to the financial and cash balance. Reading through the amendment, it sounds like that there's going to be certain charges coming around with the efficiency program this quarter. How much of that is actual cash that's going to be charged in the quarter?
+
+Brian, if you and the team would like to take that one?
+
+Yeah. So, the question is what are the restructuring charges that we're going to incur in Q1.
+
+Yeah. As far as cash is concerned, just the cash charges.
+
+From a cash standpoint, it's right around $4 million in Q1.
+
+Okay. And I guess you're subtracting that from the free cash flow guidance that you're providing.
+
+That's actually excluded from the free cash flow.
+
+Exactly. Okay. All right. And then, and I look at what you're reporting for Q1 and look out for your annual number. It sounds like – are you going to have a seasonal downturn in Q2? Let me make it more broader. Are we going to see typical seasonality as far as your free cash flow is concerned?
+
+We are striving to have a more level cash flow through 2017.
+
+But you're reporting a lot more enterprise sales in Q1 though, right? So, how could you compensate for that?
+
+So, it's a mix, of course, of bookings and the related receivables along with our expense run rates.
+
+Okay. All right. Thank you.
+
+Thank you.
+
+And we'll go next to Steven Frankel with Dougherty & Company.
+
+So, let's start. Your Q1 bookings, if you subtract out Jetsen, are down around 8%. When do you think you get the business to a point where bookings start to grow again?
+
+So, Steve, I assume that your math is on the bottom end of our guidance range. Is that correct?
+
+I took the midpoint. Took the midpoint, took out $76 million, and it looks like it's down around 8% year-on-year.
+
+You probably need to back out some of the China that happened in Q1 of the previous year. So, let's make it an apples-and-apples. So, I would be cautious on that math. Because Jetsen is our China business, so as you compare the numbers, you would also need to exclude the China business on the number that you're comparing it to.
+
+So, what...
+
+I [ph] would say this (48:14), let me suggest this that as you look at year-over-year, the upper half of our range for Q1 bookings represents growth.
+
+Okay. Maybe, I guess I'm going at this different ways because we – let's look at billings rather than revenue or bookings. And billings seem to be following at a faster rate and we're down like 18% in Q4 after being down less than that during the year. So, another way of saying, we'll ax all the deferred revenue impacts, what's going on and when do you start to take some of these great products and turn those into growth in bookings.
+
+What? Hold on, so, Brian, when you answer the question on billings. Bookings, I think [indiscernible] (49:13) analysis, will show an increase. So, we believe, we're at that inflection point now because, again, there were already China sales or bookings coming through. The $76 million included a 15% growth rate. So, you'd have to net that out to get – instead of deducting the entire $76 million, you would be deducting all of our China sales and comparing it to an orange. So, that's why you would have to normalize that and, I think, you see, we are at that inflection point now.
+
+In terms of billings, which is a separate, maybe you can find how you saw billings or if you're reading that from the K, I'll let Brian answer that piece. But for bookings because, at the end, you said bookings again. Bookings should be at that inflection point now. Go ahead, Brian.
+
+So, Steve, on the billings, let me just touch on this. If you look at our Q1 bookings forecast and, obviously, the billings trail from that. Even if you pick the low end of our Q1 bookings guidance, year-over-year that's a 65% increase. And so, obviously, we'll see there's some downstream positive impact to our billings. Frankly, until we see exactly what type of billings, the mix of billings and bookings that come in, we'll get a better feel for what those billings will be candidly over as we complete the quarter.
+
+Okay. I'll leave that one alone for now. Other backlog was only up about $6 million, $7 million sequentially. And given the big sequential increase in bookings, I would have thought that that number would have gone up more than that?
+
+Go ahead, Brian.
+
+Yeah, so, as I look at this, you're right. The backlog from Q3 to Q4 has gone up $6 million and when we look at deferred revenue, we see it's a little challenging here, as I look at some numbers to see the pre-2011 and the post – well, deferred revenue is down slightly given that we had good revenue recognition in Q4.
+
+So, I think as you look at the numbers, you're looking at the right set of numbers.
+
+My question is I think that other backlog is that's like products. That's real stuff, not the burn-off of deferred or PCS and given the bookings number, I would – especially you talk about a rebound in storage, I would've thought that that number would've been up more.
+
+Yeah, so, a lot of that other backlog shift, and obviously it resides in deferred revenue.
+
+Yeah, but your deferred was down, the post-2010 was down. So I see the key components not as up as much as I would've thought given the strength in bookings.
+
+Yes. Of course, the PCS – deferred revenue is down largely because the PCS is draining out somewhat quickly.
+
+What PCS run-off is implied in your Q1 and 2017 guidance?
+
+So, that's a very minimal amount. So, in Q1, the PCS, actually, I've got it here with 2011. I believe it's – I'm looking at a number here that I'm challenging – one minute, please.
+
+While he's looking that up, Steve, do you have another question?
+
+Yeah. So, let me go on to the next one. What's the margin profile of the other bucket of deferred that's burning off the post-2010? As that flows through with – I think there's $136 million that flows through in 2017, what kind of margin is on that revenue?
+
+Brian?
+
+Yeah. So, Steve, I apologize. Let me jump back to your earlier question, then I'll answer this question. So, on the elimination of PCS for Q1, it's in the $7 million range.
+
+And what's beyond that for the rest of the year?
+
+So, beyond that, it's – this is really where Q2, to Louis' point, we see in Q2 it generally ends. It's about $4 million for the balance of the year. It's...
+
+$4 million for the balance of the year. Okay.
+
+Right.
+
+So, there's still a little more. And then while we're talking about adjustments, you gave a free cash flow number that's got a bunch of adjustments to it that you haven't laid out. What will reported free cash flow look like? Will that be a positive number?
+
+Are you referring to 2017, or – I apologize. What period are you referring to?
+
+2017. Let's keep it simple and look at 2017.
+
+Your $7 million to $20 million, kind of what adjustments, because you've got some restructuring and some other stuff, maybe you could size for us what that other stuff is that's boosting up that number in 2017?
+
+Yeah. So, the range would allow the cash balance from beginning to end and this, of course, excludes the $18 million from Jetsen for Q2. The cash balance would – and liquidity would be flat based on that guidance.
+
+Okay. Gross margins have kind of come down. I know they were up year-over-year but they've come down through the year, adjusted for PCS and deferred. What steps are you taking to try to reverse that trend as we go into 2017?
+
+So, Steve, of course, we're trying to improve our gross margins. And you're right, the PCS does impact that based on how that – the benefit of the PCS revenue. But we're simply looking at product mix. The more we're looking at recurring revenue, that's a positive thing. And frankly, we're also trying to really tighten up our inventory to make sure that the inventory we buy is the inventory we ship, and we don't have much write-offs on our inventory. That's a big area...
+
+But I would add – I just wanted to add to that. Sorry. But why don't you finish the second part of your question, Steve.
+
+Well, I was wondering, how much is pricing a factor in that – adjusted gross margins have gone from, call it, 65% in the first quarter to 58% in the fourth quarter. Have you gotten more aggressive on pricing to lock up some of these enterprise deals, and that's what we're seeing in these gross margin numbers?
+
+You're saying X-ed out any of the [indiscernible] (57:17) I mean, the elimination of PCS?
+
+Right. I'm using your numbers, X-ing out the PCS, X-ing out the pre-2011 deferred and just looking kind of at the ongoing business and your gross margins are down from 65% to 58% over the last four quarters.
+
+What do you think a subscription margin should be for a normal industry?
+
+Depends on...
+
+What's your range? What do you normally see from subscription-based companies?
+
+I've seen some 60s, I've seen some 70s. It depends on scale. And again, your subscription business is relatively small compared to the rest of the company. If you...
+
+Yeah. It's growing pretty rapidly. It's over double digits now and it's about $40 million from zero. But the reason I'm asking you, so if you took that one change, and then think about what's happening in these enterprise deals is we're converting most of them from a CapEx to an OpEx model. So, it's not just the mix of product versus revenue, it's also the way these deals are structured.
+
+As you know, Sinclair, the first one that we did, was spread evenly over the period with some escalators when they add new product. But this is the model and this is the big advantage we have. And so, while what Brian said is true, we always like our margins to go up and there are some operational improvements like inventory management, which we'll continue to push, and one of those things that we've gotten out of many of the products that actually have inventory, that's come down dramatically during this transformation.
+
+But having said that, it's possible that we hover with scale close to the 60-ish to 70-ish percent, which is what I would expect for a normal recurring model.
+
+As you know, my last company was almost 90% recurring and those were very comfortable and very attractive recurring models because of the visibility and the cash that it generated.
+
+Here, we're still in that transition. However, because the subscriptions are growing and the enterprise deals, most of which convert our clients from a CapEx to an OpEx where they want to spread those costs evenly throughout the period, it becomes a much more predictable model. That's why the recurring may go up faster than we originally forecasted.
+
+When you and I first talked three years ago, I said the governor could be, as we add all these new products, you could see product revenue begin to accelerate and mute the recurring component. But because these enterprise deals are all shifting, many of them, not all but many of them, to an OpEx model, it's increasing our recurring revenues not because of more product sales, because we're bundling more into an OpEx model. And when you combine that with the subscriptions, together, it becomes more than the double-digit, and that's why the recurring revenue is continuing to go up at a more rapid rate.
+
+Now, how far that goes up, I think, has an impact on the margins that we would be comfortable with. So, the margins you listed are for mature [ph] or (01:00:14) larger companies. I think where we are, I would be very comfortable at these levels if we started shipping a more dramatic amount. And if you think about going into an enterprise deal, who else can bundle the array of products that we have? There is not one company. You name them to me that can bundle from graphics to AR, to VR, to social media management, news [ph] release (01:00:37) management, MAM systems, distribution systems, of course, all of our creative tools, all the cloud offerings and storage and archive. And those are just – that's still not the complete list.
+
+And so, one of the big attractive things for these large enterprise deals is that we give them the flexibility to go from a CapEx to an OpEx, and that includes more services and looks more like a services agreement, which will have a higher recurring element and could suppress the margins in exchange for visibility. And so, those are some of the variables, I think, Steve, that you would want to be monitoring for us. And the cash characteristics, however, should start to get back to what you would normally see with a more recurring base model, where they're converting it at over 50%, as high as 70% rate.
+
+Let me just try to get some clarity on subscriptions. So, today, if I take your reported subscription number, [ph] now then, (01:01:37) is $30 a month, the right ASP to think about in that business or is it lower on average?
+
+Brian, I forget what we give out in terms of the ASP on average. Obviously, the Media Composer's higher and Pro Tools is slightly lower. There are some other components in there, a little bit of servicing, and it could be some plug-ins you're buying from the app store which gets spread as well. But, Brian, do you...
+
+Yeah. I would simply say, so we have the published pricing, but we don't issue the ASP.
+
+Well, I guess what I'm getting at is, if my math is – maybe it's probably my ASP is higher than what you're hitting at, that's 4% of your business, not the larger percentage I keep hearing you guys talk about. That's a $21 million, $22 million annualized run rate off the Q4 number.
+
+I think what we were doing was talking about cloud-enabled subscriptions and digital sales, both areas that were nascent when we first started. When you add those up together, it's over $40 million. If you look at the run rate for Q4, that would represent over 10% of our total bookings.
+
+Right. But the digital sales is basically – like the whole software world has gone to direct downloads, as opposed to somebody shipping somebody a disc and a USB Lock, right?
+
+Yeah. I think the key that we're pointing to is that both our digital sales and subscriptions – subscriptions were nonexistent, obviously. Digital was a nascent part of the business, and most of the combined $40 million is net new. So there is a net new business that's growing, that has become 10% of our business and is growing rapidly. And I guess that's the point we thought investors would be interested in hearing about.
+
+In terms of the recurring, you're right. You would take the subscription piece that's enterprise, that was structured as an OpEx model, plus the subscriptions, and that's how you would get – plus any maintenance, which as you know has, tradition or not's been a huge part of our business because we didn't have high maintenance rates. Maintenance rates have been going up, but I think what's probably a more powerful shift is signing these large enterprise deals that are acting like OpEx and shift it to recurring, and that those three elements would get you the recurring percentage of bookings.
+
+Okay. And I just want to go – last question, your shift to we're only going to provide quarterly bookings guidance rather than annual, yet you did provide annual revenue guidance. So, I guess I don't quite understand the consistency there. I would think – because there's got to be some bookings assumption baked into your annual revenue guidance.
+
+Yes. I think – go ahead, Brian.
+
+No, I would just agree with you, Steve. We do have our estimates of bookings embedded in that revenue target – in that revenue guidance.
+
+So, why not share those rather than kind of drop it and pull one quarter at a time?
+
+I think, as we look forward, this year, quarterly bookings guidance, we think, is appropriate. And, I think, we'll take it from there. I think, ultimately, given that the PCS and the pre-2011 is fading as we just discussed, our recognized revenue is more indicative of the metrics of our business.
+
+Okay. And one last quick one. Maybe you could give us a little more detail on the new material weakness that was pointed out in the K?
+
+Brian, you can feel free to discuss that, if you like.
+
+Yeah. So, as you're probably aware, from the 2015 10-K filing, we started the year with a number of material control weaknesses. They were a relic of our multi-year restatement we completed about two years ago. We spent a considerable amount of time and effort in 2016, redesigning our control environment and implementing new controls to address these legacy weaknesses.
+
+So, I'm happy to report that all but one of the previously reported material control weaknesses has been remediated and, we believe, we can address the final material control weakness shortly. So, we feel very good about the progress that we've made.
+
+Okay. And what about the new set? What's your timetable for addressing those?
+
+Well, that one, we think we're addressing immediately. Frankly, we think we've addressed it. However, in terms of the full testing, we'll have to wait for the audit to be completed in 2017. But we feel very comfortable about the work we've done.
+
+Okay. Thank you.
+
+Thanks, Steve.
+
+We'll go next to Matt Galinko with Sidoti and Company.
+
+Hi, Matt.
+
+Mr. Galinko, we're not hearing your voice.
+
+Hey, can you hear me now?
+
+Yeah.
+
+We can hear you.
+
+All right, appreciate it. So, can you talk about maybe the mix of recurring bookings that are implicit in the guidance you're providing for 2017? If you're not going to break out your bookings guidance for the full-year?
+
+Yeah, so I think the way you should think about it is we've got a trend here. We expect that trend will continue and obviously, well, of course, we would like to see increased recurring revenue bookings. So, we'll look to further the trend that's been put in place.
+
+Okay. And is there any pushback from customers on shifting to the enterprise or kind of recurring model or there's still a legacy component that's going to continue to come in as more perpetual?
+
+I think it's the opposite, Matt. Think about what's happening. You've got tremendous pressure to increase content. You need to make it available to more channels and devices. You need optimized lifetime value, and you want to net lower your cost and shift from more predictable both cost and cap structure.
+
+And so, when you look at how you would do that, you would be talking to between 60 and 100 vendors mostly which would drive the majority of your media tech, and among the 1,500 or so that you evaluate. There's only one place you can go, where somebody can actually consolidate multiple components of your entire operation. And when they hear that we can – so, if you were going to trying to do this, you would have to line up all those vendors and get them to agree that similar terms, cash flow characteristics, or termination provisions, et cetera.
+
+Once you get on MediaCentral, whatever products you have with us, we can transition those to OpEx model. We could then add any licenses to replace your other vendors and shift those to the same thing with one contract. And while you're at it, if you have graphics, augmented reality, virtual reality, storage, sports enhancements, social media, any of the other areas from vendors where you – they weren't deemed kind of strategic vendors, you can really clean up both your operational workflows and meet your financial targets which are intense right now because of the shift to digital and the economic uncertainty that provides.
+
+So, I think the opposite, we have, as you heard us talk about, when we first started doing enterprise deals, they were one-off negotiations that were complicated. We have spent a lot of time and energy working on adding consistency and predictability and we've learned a lot from the 15 or so that we have signed of all various sizes.
+
+When we had launched at NAB, the cloud-based offering which has been well-documented that's coming, it will have to include full enterprise pricing out of the box that a salesperson can go negotiate on day one. And this is driven entirely by the client need to drive down total cost by putting more apps on a single platform, that's what it does, that's how enterprise pricing works, and spreading into and shifting to an OpEx model for consistency. And I would say the opposite has happened is that we have had very strong endorsement and excitement about moving to this model, and there is not another vendor. Every vendor can claim they have a platform for their piece of the workflow, but few can match the breadth of offerings that we can step into. So, when you start talking about bundling to an enterprise OpEx model, you can, through a single vendor, control maybe 20%, 30%, 40%, 50% of your budget with a single vendor to an OpEx model, drive down total costs. It naturally increases what you're paying to Avid and it spreads it, but it lowers your total cost because you eliminate all the integration fees and the other third-party vendors that you had.
+
+And that's why the certifications are so important because you may have a couple that you think are best-of-breed, which could be competitive to us, and we can include those as well because it's an open system. So, somebody who probably, besides our global salesperson, meets with the most amount of customers on this topic, I think it's the opposite and what they've been waiting for is a more – a quicker, more packaged way we can talk about the potential savings of moving to this model.
+
+Got it. All right. Thank you.
+
+Sure, Matt.
+
+And that concludes our question-and-answer session. I will now turn the call back to Robert Roose for any additional or closing remarks.
+
+Thank you, everyone, for joining our call today and we look forward to speaking with you soon and having you join us at Avid Connect 2017. Thank you.
+
+And that concludes our conference for today. Thank you for your participation.

@@ -1,0 +1,396 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+Paul C. Campbell — CFO, Treasurer & Head-Investor Relations, eMagin Corp.
+Andrew George Sculley — President, Chief Executive Officer & Director, eMagin Corp.
+Vasanth N. Mohan — Analyst, Piper Jaffray, Inc.
+Aram Fuchs — Founder & General Partner, Fertilemind Capital
+David Van Zile — CEO, Van Zile Investments
+
+Management Discussion Section
+
+Question And Answer Section
+
+Good day, ladies and gentlemen, and welcome to the eMagin Corporation's Third Quarter 2012 Earnings Call. My name is Chanel and I'll be your operator today.
+
+At this time, all participants are in a listen-only mode. We will conduct a question-and-answer session towards the end of the conference. [Operator Instructions] As a reminder, the call is being recorded for replay purposes.
+
+I'd like to hand the call over to Mr. Paul Campbell, Chief Financial Officer. Please proceed sir.
+
+Thanks very much, Chanel, and welcome everyone to eMagin Corporation's third quarter 2012 earnings conference call.
+
+Before we begin, I would like to remind you that we will be referring to numbers that are part of our 10-Q for the third quarter of 2012 ended September 30.
+
+During today's call, we may make forward-looking statements as they are defined in the Private Securities Litigation Reform Act of 1995. These forward-looking statements are based on the company's current projections, expectations, beliefs and estimates and are subject to a number of risks and uncertainties. Such statements include reference to projections of future revenues, plans for product development and production, the company's ability to ramp up production at its manufacturing facilities, future contracts and commercial arrangements, future product benefits, future operations, liquidity and capital resources, as well as statements containing words like believes, expects, estimates, plans, target, will, intend, could and other similar expressions.
+
+Risk factors are included in the company's Form 10-K for 2011 on file with the Securities and Exchange Commission. Except where it's directly required by Federal Securities Laws, we undertake no obligation to publicly update or revise any forward-looking statements, whether as a result of new information, future events, changes in circumstances or any other reasons.
+
+With that, I'd like to turn the call over to Andrew Sculley, President and CEO of eMagin Corporation.
+
+Thanks, Paul, and thank you, everyone for joining us on the call today. I'd like to begin with a few key highlights, Paul will then discuss our financial results for the third quarter of 2012. And then following our formal remarks, we'll open up the call for your questions.
+
+Demand from our both our existing and new customers continued to grow, particularly in the military markets and our backlog remain strong. Our displays are virtually unmatched in being able to address the most demanding requirements for military as well as other markets we serve, helping us gain market share from our competitors. For the remainder of 2012 and into 2013, we expect further strengthening of demand in our key segments.
+
+Let me take a moment to mention a few of the advantages of our displays. We have the highest resolution full color microdisplay and that's the WUXGA. It has higher resolution than the full color – full HDTV in your living room. At least I hope your living room has full color.
+
+We have shown the smallest pixel pitch at 8.1 microns for full color display. We have the highest brightness monochrome display with a very high contrast ratio and that's while running at that high brightness. The high brightness, it is very difficult to maintain the contrast, but our displays can do that and that's as measured by Night Vision Lab as well as ourselves.
+
+And this is why our displays are able to move into the avionic display – as avionic displays. We've never before been able to do that. We have very low power, for example, our small pixel pitch SXGA, that's a 1,280 by 1,024 with a 9.6 micron full-color pixel pitch, uses less power than other SXGA displays and it doesn't need additional electronics to drive it. It's more plug and play. And our display is about 150 milliwatts of power running at typical luminance. So very low power.
+
+Now as you know, we have been enhancing our manufacturing operations and processes for some time. Part of our plan has been to recruit a seasoned executive to manage our manufacturing operation as we continue to grow. Today, I'm very pleased to announce that John R. Coleman has joined us as Director of Manufacturing. John brings with him more than 25 years of experience in engineering, manufacturing and operations at leading semiconductor companies such as ON Semiconductor, UltraSource Incorporated, STMicro and Amtel.
+
+We're very confident that his experience will be invaluable as we enhance our manufacturing to meet the demands of the future. Particularly important today is the work to continue the optimization of our new equipment, that's the OLED deposition machine and the sealing system. The displays produced on the new equipment show improving quality and uniformity. It's very important to us.
+
+Now, let me give you an update on some specific programs. As mentioned above, our WUXGA microdisplay has higher resolution and a higher contrast than the full HDTV in your living room. It also has full dynamic range at low luminance for night vision applications and it uses very low power for such a high resolution display. These are important for a wide range of applications from a cinematographer who could be making movies at night to a security night vision device or military applications. Our customers including the Night Vision Lab really appreciate these product attributes.
+
+The .S. Special Operations Command program for the commercialization of this WUXGA display is progressing well and remains on schedule for completion in the fourth quarter. We have a $400,000 extension for the program to make additional improvements. This type of effort is very important because it can also be implemented in other displays. The program will result in the commercialization of the WUXGA display. And again, remember that's a very high resolution display.
+
+We shipped first prototypes of our XGA display to a strategic customer for an electronic viewfinder application for a high-end digital camera. We're implementing further improvements prior to general release. One improvement of this product is a 67% improvement in color versus our current displays. This will move our display beyond the capability of some of the TVs in your living room. And it's an excellent improvement for an electronic viewfinder in a high-end camera.
+
+Our work with the strategic customer also includes the packaging of the display to match with this customer's particular camera design. People who buy higher end digital cameras generally want high quality viewfinders. The advantages of an electronic viewfinder result in a smaller, simpler camera. It also gives you the ability to track motion images through the viewfinder and additional information can be shown in the viewfinder, for example, camera settings.
+
+We think OLED is the right way to go, given its key advantages. And just to remind you all what they are, very low power, very high contrast, high speed, and large temperature range, and now, we can add to that the outstanding color we're putting on this display.
+
+We have successfully developed high brightness displays that can be used in avionic applications. As you're aware, we've recently announced a $2.4 million R&D contract from the U.S. Navy for high brightness, 2000x2000 OLED microdisplay with full color. Phase I of this is for $1.1 million. We have a small amount of work left to do in this phase, which will be completed in quarter four. Phase II is for $1.3 million and we'll continue for an additional year.
+
+We're seeing interest from a number of companies for commercial usage of a high brightness display, much of the commercial interest is in high brightness color. There are a few reasons why this is very difficult to accomplish, but we're able to do it. One of the reasons is that an OLED architecture has – you need an OLED architecture that has all the components of light needed each of them capable of high brightness.
+
+The second is today's microdisplays use color filters to separate the white light into colors, which reduces the light output by from 75% to 80%. This is because the filters are not a 100% efficient and each color filter removes two-thirds of the light by design. Our goal is to make prototypes of this high brightness display late next year. And we have the – program is difficult, but we believe we have the way to go. And certainly the U.S. Navy is interested in getting us there as well as the Night Vision Lab.
+
+We are in full production mode with the Display Beam Combiner Assembly, including our display, for the Enhanced Night Vision Goggle program with ITT Exelis.
+
+Our military business continues to expand with new programs. Recently, we received a $2.75 million multi-year purchase order from a subcontractor on a Light Thermal Weapon Sight program. We continue to ship on a $3.1 million follow-on order for the U.S. Army Remote Viewer Thermal Weapon Sight. These displays will be delivered in 2012 as required by the contract. Deliveries continue for other programs as well. In addition, we are shipping products for the high-end cinematography digital camera.
+
+Now I'd like to turn the call back over to Paul, who'll take you through the financial results.
+
+Thanks, Andrew. Let's start with third quarter revenues, $7.5 million. They're broken down into product revenues and R&D contract revenues. Product revenues are mostly display revenues. And those were flat compared to Q3 last year. We had additional orders to fill in the quarter, but we experienced some delays in display production in the quarter, as we were bringing up the new OLED deposition machine. A significant number of these orders were pushed out into Q4.
+
+Year-to-date, our product revenue is up 16% over the last year. Regarding the R&D contract revenue, Q3 was solid, but it was lower than Q3 last year, which was a very strong quarter for contract revenue. We recorded $1.2 million compared to $2 million last year.
+
+R&D contracts, as you probably know, are the smaller part of our business, 13% of our revenue this year is in R&D contracts. On the display side, the 80% plus side of our business revenues continue to grow.
+
+As Andrew mentioned, order bookings and backlog remain strong. At last check, our backlog was about $17 million. As a remainder, our backlog only reflects display orders. There is no POs for our R&D contracts in there for example. So, display orders only, and it consists primarily of relatively short cycle time, non-binding purchase orders.
+
+At the beginning of Q4, about $10 million of the backlog was for Q4 shipments. We expect more Q4 purchase orders will hit the backlog because some customers expect a quicker turnaround on shipment and they wait to place their orders.
+
+Based on all the information we have, we are maintaining our total 2012 revenue guidance of $30 to $34 million. Regarding gross margin for Q3, it was 49%, compared to 53% in Q3 last year.
+
+On the display side, the decreasing margin was due to some higher cost and a lower average price per unit. R&D contract gross margin was 40%, down 9 percentage points from Q3 last year. This is a function of the nature of each of the contracts and the work completed during the quarter.
+
+Operating expenses are comprised of internal non-funded R&D expenses, and SG&A, selling general and administrative expenses. R&D expenses rose to $1.2 million, primarily due to an increase in personnel and other cost to support company-funded R&D activities, including the development of two new displays, the XGA display for the electronic viewfinder market and the digital SVGA, which is an important upgrade of our existing large – it's our largest selling display, the SVGA.
+
+SG&A expenses decreased $74,000 from Q3 last year to $1.9 million. So we've been able to move the organization forward with all the new things we're working on, with no increase in SG&A expense. So, I think we've done a pretty good job there.
+
+Income from operations was $558,000 in the quarter versus $1.6 million last year. And that's a function of the lower revenue number and the lower gross profit number.
+
+Net income was $340,000 or $0.01 per share. We adjust the net income for income taxes since we booked the full income tax rates, but we actually pay very little tax. We pay AMT, alternative minimum tax, because of our past net operating loss carry-forwards. We have over a $100 million in NOL carry-forwards.
+
+So, adjusting for the tax are adjusted net income was $550,000 or $0.02 per share and third quarter adjusted EBITDA was $1.2 million, down from $2.1 million in Q3 last year. Looking at the balance sheet, we had cash, cash equivalents, CDs and corporate bonds totaling $6.6 million compared to the $14.3 million we had at the end of 2011. So year-to-date, we've increased the cash balance by over $2.5 million. And while we did that we invested over $1 million in new equipment year-to-date. We also purchased eMagin shares in Q2. In Q3 we made no additional purchase of eMagin shares during the quarter.
+
+So, therefore as of September 30, we had approximately $2 million remaining to go in our stock repurchase plan. Finally, we continue to have no debt and we've been self-funding for almost four years now since our last equity raise in December of 2008, and therefore no dilution to shareholders from equity raises during that period.
+
+In summary, our financial position remains strong. Our business is growing and well controlled. And we're looking forward to the rest of 2012 and beyond. Now I'd like to turn it back over to Andrew for some more remarks.
+
+Thanks, Paul. As always, we appreciate everyone on the call, your continued confidence, and we'll now turn the call over to question-and-answer period. And we're really pleased with our progress and look forward to a good fourth quarter. We're excited about the progress we're making in the factory and we're excited about the prospects of the future.
+
+But let's turn the call over to questions. And I'll have a couple of other remarks to make at the end of the question-and-answer period.
+
+[Operator Instructions] Our first question comes from the line of Jagadish Iyer, Piper Jaffray.
+
+Hi, good afternoon. This is Vasanth Mohan calling in for Jagadish Iyer. Thank you for taking my question. I have – my first question is on the backlog. And you ended last quarter with $19.8 million in backlog and this quarter it's gone down to $17 million. So did the – and you mentioned that you have had some order push-outs. Can you tell me more about how this math, did you bring in fewer orders for the quarter?
+
+Yes. On the backlog, we had a record backlog at the end of the second quarter that we reported at $19.8 million, I think it was. And that was an increase of 40% from the backlog earlier in the year, which was around $14 million I believe. So anyway $19.8 million was a record backlog and it did go down. Currently it's around $17 million, but still $17 million is a very high backlog for eMagin just not a record like it was last quarter.
+
+Okay.
+
+And I think the important thing to note also on the backlog is about $10 million of that backlog is scheduled for Q4 shipments. And the backlog can be somewhat lumpy also as orders come in, so they don't come in evenly during the year, so the backlog will fluctuate. But – and it's also fairly short cycle. So there is a lot of orders that we'll have for Q1 for example, that aren't in the backlog yet. In fact there's even some Q4 orders they will have, they aren't in the backlog yet. So, I think the backlog overall is still very strong, not quite as strong as it was at the end of Q2 and but actually very, very strong for Q4.
+
+Okay. Thank you. And I presume this one does not – the backlog does not include your defense contract, which at the end of last quarter was $12 million you had defense contract backlog. Can you tell us what it is right now?
+
+It doesn't include the contract revenue, you mean?
+
+Yeah, it does not include the contract.
+
+Correct, it doesn't include the R&D contract revenue, where we break it out on our P&L. We break it into product and contract. So the backlog only covers product revenue.
+
+And what is the contract revenue? Where has it gone from $12 million at the end of last quarter to now?
+
+Contract revenue last quarter?
+
+For the defense backlog.
+
+I don't quite understand your question, I'm sorry.
+
+Yeah. What's the...
+
+So, do you have any defense contracts or what is the sum of your defense contracts?
+
+We don't...
+
+You don't break it that down.
+
+We don't carry a number like that. Most of our businesses is purchase orders.
+
+Okay.
+
+And a lot of our business, we don't have contracts. For some we do, but we basically operate on purchase orders. Most of them are very short cycle and so that's what's represented in our backlog.
+
+Our purchase orders that we received with a ship date. And we do have some contracts. We don't usually report on those. And I don't think we ever reported a number on those, because it only covers a part of our business.
+
+Okay. Thank you. I think somehow I have a list of – I added up the sum of your contracts and it came to $12 million, but I don't think there is a firm timeline on when it's delivered. At present, they're all on average 12-month contracts. Let's get back to the tool. I presume that Satella is still the main tool that all your products are coming out from that.
+
+Yeah. If I were to break it up for you, I'd say the – right now, we have one product, the SVGA. That's our major runner, but there is really two SVGA products, essentially and one is a standard and one is an, we call, XL or it's a higher luminance product.
+
+The standard one is what we've put on the Satella first. So, you can imagine that it's a little under half of our revenue. So, all of the rest of the products are being on the Satella. That's as of the third quarter and now we're moving the other SVGA on to the new machine as well. Each of the products requires new mass. It's a gross level mass. And then each of the products require us to run a significant sample of them and put them on life testing. And our goal is to move the second big one over, and then very simply, since we've had the work with optimization already on the first product, we feel very comfortable to move the rest over as quickly as we are capable.
+
+And one last follow-up, the yield on the new tool, when it comes online or when you make the full transition, is it going to be better than the current Satella?
+
+Yeah, there is two things to think about with the machines, the new tool is much more uniform than the Satella, and looks more – it's more stable as well. So uniformity means across the wafer, the middle displays and the end displays are all the same. And Satella was much more variable, so in that case the yield will be better on the new tool.
+
+Thank you.
+
+And you are right, the Satella has done a lot of work for us in the third quarter. And we really would like to minimize that for the purpose of the – of our production, which we will do in the fourth quarter, the rest of the products, and also so that we can do a little more work on the Satella for other projects; might be a contract revenue.
+
+Thanks, Andrew and thank you, Paul.
+
+You're welcome.
+
+Thanks, Vasanth.
+
+Our next question comes from the line of [ph] Dennis Van Zelfden, Brazos Research. (0:25:19)
+
+Good afternoon, gentlemen.
+
+Hi, [ph] Dennis. (0:25:23)
+
+Paul, can you estimate the amount of orders that were pushed out into the fourth quarter?
+
+Well, I know how many were pushed out.
+
+Or maybe not...
+
+Not a number...
+
+[ph] Isn't it? (0:25:39)
+
+It's not a number that we release. It's a fairly large number. And I think we just – we got a little bit behind in the quarter as far as getting things done. There was a lot going on with the new machinery coming in, but it was a significant number. It is all in the backlog though. So, if you look at the $10 million in backlog that we have for Q4, the orders that we had to push from Q3 to Q4 are in that number.
+
+Okay. And that number excludes any – I'm not sure what you call it, but any kind of follow-on orders or orders yet to be received so to speak?
+
+Well, we get orders kind of routinely all the time. So, we say it's – we're probably getting more orders between now and at the end of the quarter for the backlog. So, they'll hit the backlog, whether we can get those out with this short of a turnaround, we don't know. But yeah, so the backlog will – we'll get more orders probably between now and the end of the year.
+
+Okay. And then regarding the lower gross profit margins, you cited higher costs and lower price per unit. Did the higher costs have to do with the delays in production?
+
+Well, yeah, in a way, we've had to allocate more manpower and we still have yields lower than we want and have sort of planned for. So, I think when there is a lot going on in our production shop, we – things – yield tends to be lower. And the new equipment will only improve that situation not only because inherently the new equipment is more efficient to produce on but it'll also cut down on extra shifts that we have to run and it will make the production effort a lot more easier and straightforward than I think we had to deal with in Q3.
+
+Okay. I guess I'd say that there are a few of us shareholders that would have thought that all of these types of issues, i.e., lower yields, delays, ramping up and stuff like that would have pretty much ended by now. Let me turn it into a question. Have all of those type issues ended now? And will see a much higher gross profit margin, lower cost, higher gross profit margin in the fourth quarter?
+
+We should probably talk about our – where we are with the new machinery as far as qualification.
+
+Yeah. As I mentioned on the answer to the last question, we have one product, the SVGA standard qualified on the machine as of the end of the third quarter and now we're qualifying the other large running SVGA, that's our XL. So – when we get all of the – when we get those two major products on the new machine which is now, the issues that we had with regard to the Satella will be much less. And as you know, we were qualifying the one product during the third quarter and then could ship.
+
+So we don't expect this same issue that we had this quarter, in quarter four. And we expect to qualify the other, although they're small running products now like the SXGA and WUXGA, small running products, but we want to qualify them on the new machine as well, and then we won't have these issues.
+
+Okay. So the bottom line is we might should still expect some less than optimal production in the fourth quarter because you're not finished qualifying everything?
+
+Well, we're not finished qualifying everything. That's correct. And – but still when we have the two large runners on there, we can then optimize the machine for full operation. Right now, we were running in the third quarter one shift, right, one shift per day and that's not the way to run the tool.
+
+Okay. One last question on a different topic, it's the EVFs, let me make sure I understand everything here. Some time ago, you received a set of specs from some camera manufacturer regarding a number of things. You produced some products and you had said that it met all of their specs including the price you needed to produce it at. And now this manufacturer has come back to you and said well, they're fine, but we want you to change some things, is that...?
+
+There are two things. One is the camera wasn't, the easy one, the camera wasn't fully set in terms of the packaging that had to go around the display, so we're still working with them on that, making suggestions, will this work for you et cetera. So, it's final details, if you will. The other thing that they asked us to do is a better color gamut and – sorry, color gamut, that means just better color. And I don't know I'd be happy to give you the details on that where -
+
+It's not necessary.
+
+No. But in this case, they asked us, can you do the – an even better color? And the answer is, yes, we're happy to do this, because it can also be used on all of our other products.
+
+And does this take a long time or is it a quick fix or -?
+
+No, no, it involves two things. One of them is we have to change the OLED stack and also use some different color filters. And we're planning on having this done by the first quarter of next year [ph] or no, (0:32:04) and it's also not a very costly thing. We need to run the product and qualify it, but it's not like making a new display, which costs about a $1 million for a new chip. There's none of that type of cost in it.
+
+Okay. So, if I read this correctly, it's kind of unlikely you will be able to achieve your original thoughts – and I know they were just thoughts – of shipping some of this product to this camera manufacturer in late Q1 and Q2 of next year?
+
+Well, Q1 is possible because we'll have the final product there. And Q2, I would expect they will want product then too. It's really up to them. We will respond in Q1 to their needs; same thing with Q2.
+
+Okay, all right. Thank you very much.
+
+We're not worried about being able to do that, it's not as if it's trivial, but especially because the guy listening on the phone may be the guy who has to do it in our shop, so it's not trivial, but we can do this.
+
+Okay. Thank you.
+
+Our next question comes from Aram Fuchs, Fertilemind Capital.
+
+Hi. I was wondering first if you can start with the reason for the decline in the ASP because it doesn't seem like these were – any products going for some of your low end products categories, so maybe you can talk about that.
+
+Sure. Well, our ASP moves around quite a bit. And the reason it does is we have different displays, there are different prices and especially there are different prices at different quantities that a customer buys. So if you're a customer and you buy 10,000 units, you get a better price than a customer that buys 20 units. So, I think what caused the decline in ASP $17, I think it was – is we had more orders of higher volume customers. And two of our highest volume customers this year, one is Sagem, a French military contractor; another one is L-3 Oasys...
+
+BAE...
+
+BAE Oasys, sorry. It was Oasys acquired by BAE. Those have been two of our larger customers especially in this quarter. And they order large quantities. We're in production programs with both of them. So they get a better price and therefore we get a lower – little lower ASP.
+
+Okay. So you think this is just a bounce, a bounce down or it might bounce up next quarter, that it's in the natural trend.
+
+Yeah, it's in the natural trend. We didn't lower any prices. It's just the mix of customers. We had a little more from the higher volume customers than we did last quarter.
+
+Okay. The R&D contracts, while they're small part of your business, they usually have nice margins. And I was wondering if there is anything you see looking long-term, we're approaching the fiscal cliff as they call it now, are you seeing the Pentagon be a little more frugal, little more stingy with those?
+
+We are. If you look at our R&D contract revenues so far for the year, we are down from last year. Last year was kind of a tight year actually also. This year, we've been fortunate; we've gotten some new programs. And I think what happens is that when we get $1 million or $2 million in an R&D contract, it's pretty significant for us, but in the scheme of the government mill of budgets and contracts, those are pretty small numbers. And the people that support us like the Night Vision Lab and special ops and navy, aviation, to name a few, they've been able to find R&D money in their budgets to fund us. And we expect that to continue to happen to some degree, but we are cautious about future new R&D program money based on the climate, the – I don't know if you would call it part of the fiscal cliff, but just the general budgetary concerns that the government has.
+
+It would be nice if we could get a few non-government contracts going, which we've had several always, we have a couple, we've had many in the past where the R&D contract's not coming from the government, but it's coming from a business. So, we're cautious about it going forward.
+
+Great. Then you've, Andrew, you mentioned the electronic viewfinder product and the digital cinematographer, I was wondering if – you didn't mention anything about the augmented reality or Google Glass specifically as to – can you just talk about AR in the context of your product roadmap?
+
+Yeah, we do have customer today with an augmented reality-type high-end device. I can't mention who it is, some day I would hope we can, you'd recognize the name of the company, and that's still going along very well. They're probably are one of our toughest customers, but it's good for us, you know what I mean. So that's going well.
+
+I did mention that we have a number of inquiries for commercial application of the high brightness color. So that could be – and I'm not mentioning any names there either, some of them would surprise you but some wouldn't. So it's interesting for us. It fits in with what we're trying to do on high brightness color in the NAVAIR program. Of course with the NAVAIR, it's also high brightness full color and a very high resolution display, the other customers aren't necessarily interested in 2000x2000, which means they're separate programs. But there is interest and we're trying to answer the questions that we have and when this type of thing will be available. So, it's an exciting time. And I think of all the companies capable of getting to high brightness with full color. I think, we've got a good shot at that.
+
+Great. Thanks for your time.
+
+Well, you're welcome. Thanks for joining, Aram.
+
+[Operator Instructions] .
+
+Okay. Do we have questions?
+
+Yes. It comes from the line of [ph] Tom McGuire. (0:39:59)
+
+Okay. Hi, [ph] Tom. (0:40:01)
+
+Hey, hi, Andrew, hi, Paul. Just so I understand this, looking at the third quarter in terms of the product revenue, one could say that it understates the demand because of the production snafus that you had. And with Paul mentioning that you got $10 million of production or products scheduled for shipment in the fourth quarter. You could say that maybe the fourth quarter's numbers, when they come out as long as there is no production snafus et cetera, might overstate demand. So, maybe one should look at the six-month period is a better indicator of how things are really going and either the lower quarter this past quarter or the higher quarter next quarter. Does that make any sense?
+
+Well, I would – for a while I would still sort of separate demand from production.
+
+Okay.
+
+Because we've had stronger demand than we've had production. And so that's what happened in the third quarter. We had many orders we couldn't fill as we've had in some past other quarters also. But we expect that to turnaround. We might have expected it a little sooner than it's been, but in Q4, yeah, we should have a nice quarter, we'll have some of those orders that were pushed from Q3 plus we'll have our normal Q4 production.
+
+And so it should be a good quarter. As far as taking the six months, I don't know if that's a good measure or not. We – I think the reporting that we did off the backlog is the thing to look at and going forward we'll give guidance on 2013. I'm not sure when we'll give it, but certainly by March when – that's when – normally when we've given guidance before.
+
+Okay. But if one were to model the fourth quarter and if you have $10 million scheduled for shipment and one presumes that you won't have production problems, is that a good number to start with for product revenue.
+
+Assuming we – it's an assumption that we can produce all of that, but if we can then I think that's a decent number, yeah.
+
+Okay. Thank you. Now, another question is why do you call the customer you're working with for the EVF as a strategic customer? Why is it strategic? Is it because it's the only customer you're working with? Or you're working with it as an exclusive – on an exclusive basis? Or is just because it's your first customer or why is it so strategic?
+
+Well in this case, it's really a customer that we've designed the display with the help of. And that's why it's strategic. And we're actually designing their products, so it fits in their camera. Now that said, that's not to say that we can't change the connection cable or something like that for someone else, but it is – it's the one that's driving the design of the display and the requirements.
+
+Okay. As of now they are now an exclusive customer then, correct?
+
+No, no, they're not exclusive. And we've actually been to – and again, you can name all of these on your – by counting them off, you'll probably know them all off the top of your head. And we've been to other customers on a recent trip that business development had to Asia, and there is interest in other customers for our product.
+
+Okay.
+
+And we do have some advantages over other electronic viewfinders. So I think you're going to see somebody else come to us, what we are counting on in the future. So, no, it's not exclusive.
+
+Okay, good. Thanks so much for clarifying that.
+
+You're welcome.
+
+Yeah, [ph] Tom, (0:44:24) you know that our past record quarter was $8.6 million, so if we do those kind of numbers in Q4 that we are talking about, obviously that's a huge step up for the company. So we're a little bit cautious with that of course.
+
+Yeah, I get – that's why I wanted to make sure I was hearing and thinking along the same lines that you are.
+
+Okay.
+
+Okay. Thank you very much.
+
+Our next question comes from David Van Zile, Van Zile Investments.
+
+Hello, Paul and Andrew.
+
+Hello, David.
+
+Hi, David.
+
+So, yes, hopefully the electric viewfinder market develops for one or more customers, now that would be your first high volume commercial or industrial customer, the first high volume non-military. And so, the point of my question though is in the last few years with all the constraints, if it would have been impossible to have a high volume commercial or industrial customer of any kind. So, yeah, this developed, hopefully EVF or whatever, what do your sales and marketing people say? Will that help validate you with other potential customers, say your eMagin [ph] that's gone through (0:45:53) military units to making 100,000 or 200,000 viewfinder units for example, will that open up to sales and marketing figure, would be my first question.
+
+I think it will certainly be a vote of confidence for us. And if I were to pick on that we announced for the Remote Viewer Thermal Weapon Sight was 20,000 units over a few years, that's military contract, although the price is nice. On something like this, the camera could be a 100,000 units for a model in the year. So, it's a very different step up. So, I think it will be a vote of confidence for us that we can do high volume non-military projects. And you're right that although we do have about 25% of our volume is industrial, non-military that is, it's still none of them are high volume, as we are speaking here with the electronic viewfinder market.
+
+Okay. And then just with current production now on the new machine, so are you getting to the point where your primary VGA, if you'd be in a run, can you continue the run and put these extra inventories to have in the shelf for non-customers.
+
+Yeah, what you're asking is, what – I think what you're advising us is wouldn't it be wise to have some extra inventory on the shelf. So, in case we get purchase orders that and we do...
+
+Yeah.
+
+...during the quarter that wasn't in the backlog that we can make sure we fill them, and the answer is yes. We're looking to do that as well.
+
+Okay. And then lastly I don't think I heard you mentioned much or anything really on the sealing machine, which I believe they're going to progression [indiscernible] (0:48:03) progression of your existing production unit.
+
+Yeah there is...
+
+Any update on that?
+
+Sure. There are two things on the [ph] CLV, (0:48:12) the new OLED deposition machine feeds to a sealing system. The sealing system has a new piece of equipment that is like the standard seal and then an additional one.
+
+We – the new piece of equipment is qualified and mark my words is that I think it was qualified last week. So, it's okay for me to say that. So, that makes our life easier running off the new OLED deposition machine, it can go right into its own seal system and that's much quicker and also has not only more efficient, but has less danger of yield loss.
+
+And the other seal system we're qualifying it. It has shown these are limited statistics, so, I don't usually like to say, but I will anyway, on the limited statistics we have shown the new seal process as a significant advantage. And this is what we had shown before, not in the production environment. So, we're very – looking forward to making this work in conjunction, and we think the yield would be a great improvement. Not only will the yield be an improvement, but also very important to us is to the customers, there is much less likely an issue occurs down stream as well. And that is very valuable to us also.
+
+Okay, perfect. Thank you.
+
+You're welcome.
+
+Our next question comes from the line of Jagadish Iyer, Piper Jaffray.
+
+Hi. This is Vasanth again. Just one quick question. Can you tell us the timeline for the seal equipment and does that have to go through similar qualification with customers want to bring that online like the ones that you're expecting for the new deposition tool?
+
+Yeah, the seal system is not so product specific, so that's good news and that means that the qualification really of one product is essentially the others. However, we'll still do it stepwise. So the seal – new seal system had two steps to it, one is the current process for its brand new – not new, I mean, it's huge piece of equipment, but it's new to us and that we have qualified on the major runner. So it's easy to then run the other products through it. And the new seal system, we're looking forward to getting it up and running and qualify it this quarter.
+
+Okay. Thank you.
+
+You're welcome.
+
+And our final question comes from the line of [ph] Jonathan Pierce. (0:51:05)
+
+Hello, Andrew and Paul.
+
+Hi.
+
+Hello.
+
+Hey, I was just wondering if you would update us on the competitive landscape now that it appears Sony might be selling to Fuji for the XE1 viewfinder.
+
+Right. Yeah, we're – I think you can look through and judge whose displays they are very easily, so if the advantages we have and I'm going to tell you that we obviously bought cameras, maybe Sony cameras and headsets and things and took them apart. Our advantage in our product is it can get to a brightness that at least our strategic customer wants and it has the lifetime at that brightness that our strategic customer wants. And if I were to look at the Sony display for example, it has a lot of heat sync type arrangement because the display gets hot. So, when you drive it hard, it's a problem. And in fact our first camera that we bought with that display did not have the brightness that our strategic customer desired.
+
+So, our intention would be to any customer who buys Sony that we'd like to take our display and we have an XGA display and talk to them and make sure they have the right display in their camera and we will do that.
+
+And we know which one is the right display.
+
+Yeah, we do know which one is the right display. And I say we will do that and perhaps we already have. Next question.
+
+It sounds like you might make a big splash in the camera community with that?
+
+No, I think the display is an outstanding display and that is our goal.
+
+Can I ask one final question. I was wondering if you are actually realizing a certain rate on your new machine as far as – are you actually realizing the 10x rate or something that you can tell us?
+
+If you were to look at the number of wafers per unit of time, it is a much better rate. The other thing calculated in that 10x was the fact that the machine actually could run 24 hours a day, seven days a week, whereas the Satella was incapable of doing that, and as – because we had to take it down after five days. So those two factors plus the yield will get us there. But we really need to run the new machine 24 hours a day in order for us to see that great enhancement.
+
+And hence that's our job in this quarter. We move it from running on one shift only to all shifts with all products. And then you'll get the 10x. And then we wouldn't have any problem with all that deposition, but other things will – we've held off on other pieces of equipment until this one is running well and we need it for very conservative in terms of capital spending. We will have to buy some other non-unique pieces of equipment this time.
+
+Have you gotten your hands on a micro OLED like a Zeiss Cinemizer set yet?
+
+Well, Paul has it at his office a Zeiss Cinemizer.
+
+[ph] Just out. (0:54:54).
+
+Okay. I'll ask you that in the next quarter then?
+
+Yeah, well what we would do, we bought a camera, what would you do is – and our displays are out there, you can do the same thing. We take the camera part, take the display, run it, see how bright it gets, see how hot it gets, see the problems it has, see the good points that it has and that gives a sense what we should do, the Zeiss Cinemizer has a wide VGA display in there and we're using and testing it before we take it apart.
+
+Okay. Thanks for taking my questions. I appreciate it.
+
+You're welcome.
+
+Ladies and gentlemen, that concludes the Q&A session. I'd now like to turn the call back over to Mr. Andrew Sculley.
+
+Thank you. I just want to say thank you to everyone on the line. It is a pleasure to be able to interact with you and a pleasure to answer your questions and a pleasure when you don't hesitate to tell us what we should be doing, it's good to get your ideas. So I appreciate that.
+
+We also want to thank the outstanding effort that we had in manufacturing, trying to do so many things at the same time, the two new pieces of equipment and run production on them at the same time is a tough thing and also trying to move over the other products that we're doing now is a great effort. And everybody in eMagin has pitched in and they will pitch in this quarter as well. So we owe them great thanks.
+
+Also thanks to the effort in product development that's bringing the XGA up to speed at such a rapid rate and also the digital SVGA at such a rapid rate. We just started in one year. It used to take us two years to do this. Those complements of product development as well as the group in Silicon Valley doing the designs, outstanding effort. And of course the R&D group, we wouldn't be anywhere without the effort in doing things like improving the color gamut. These guys are really sharp, probably the best in the OLED industry, and I'm not barring anybody from that statement.
+
+The other thing we owe great thanks to the business development community, who has continued to make our customers aware of our products, to make the sales and the finance and administrative community here in Bellevue, Washington.
+
+Just want to tell every employee we have, thank you very much. And I hope Paul and I will work as hard as you do to make eMagin a success for all the folks on the line, our shareholders. So, thank you very much.
+
+Ladies and gentlemen, that concludes the presentation. Thank you for your participation. You may now disconnect. Have a great day.

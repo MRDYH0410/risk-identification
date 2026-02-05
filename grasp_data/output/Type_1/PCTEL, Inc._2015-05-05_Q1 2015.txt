@@ -1,0 +1,199 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+John W. Schoen — Chief Financial Officer & Senior VP, PCTEL, Inc.
+Martin H. Singer — Chairman & Chief Executive Officer, PCTEL, Inc.
+Matt Robison — Analyst, Wunderlich Securities, Inc.
+Mike Crawford — Analyst, B. Riley & Co. LLC
+
+Management Discussion Section
+
+Question And Answer Section
+
+Ladies and gentlemen, thank you for standing by, and welcome to the PCTEL First Quarter 2015 Conference Call. At this time, all participants are in a listen-only mode. Later, we will open up the call for your questions. Instructions for queuing up will be provided at that time. As a reminder, this conference call is being recorded for replay purposes.
+
+I will now turn the call over to John Schoen, Chief Financial Officer.
+
+Thank you for joining us today for the PCTEL financial results conference call for the first quarter 2015. On today's call will be Marty Singer, Chairman and CEO; and I am John Schoen, Chief Financial Officer.
+
+Before we begin, I would like to read our Safe Harbor statement. Today's call will contain forward-looking statements within the meaning of the Federal securities laws. Comments concerning our future financial performance, new products and features, product development, acquisition efforts, and expectations regarding the future growth of our antenna and wireless RF business are forward-looking statements within the meaning of the Safe Harbor.
+
+Actual results may differ materially from those projected as a result of the risks and uncertainties, including the ability to successfully grow our wireless products business, implement new technologies, and obtain protection-related intellectual property. Additional discussion of these and other factors affecting the company's business and prospects is contained in our periodic SEC filings. These statements are made only as of today and we disclaim any obligation to update information to reflect subsequent events.
+
+I would now like to turn the conference call over to Marty Singer.
+
+Thank you, John, and good evening to all of you. Let me recap some of the non-GAAP highlights from the quarter. We achieved revenue of $26.3 million, an increase of $2.7 million over the same quarter last year. Gross profit margin was 39%, reflecting growth of services and kits relative to our product revenue.
+
+Operating margin was 4%. Net income was $900,000 or $0.05 per diluted share. Cash and investments were $38.9 million. At this point, I will turn the call back to John who will discuss our financial performance in some detail. Later, I will comment on some of our business development, engineering, integration, and marketing efforts over the past quarter as well as some of our current activities. John?
+
+Thank you, Marty. Our investors will note that the company presents non-GAAP financial information in its earnings releases. The company believes that presentation of gross profit, operating profit and net income excluding expenses for restructuring, gain or loss on sale of assets or legal settlements, stock-based compensation, amortization and impairment of intangible assets and goodwill, and non-cash related income tax expense provide meaningful supplemental information to both management and investors.
+
+The non-GAAP financial analysis reflects the company's core results and facilitates comparisons across reporting periods. For more information on our non-GAAP financial results and reconciliation to GAAP measures, please refer to our earnings release that has been filed under Form 8-K with the SEC. The release can also be found at our website at pctel.com under Investor Relations. My discussions of results will be based on our non-GAAP financial results.
+
+Let's turn to revenue. Revenue was $26.3 million in the quarter, up $2.7 million or 11% from the same period last year. Approximately, $1.2 million of the growth is from the company's acquisition during the quarter.
+
+I will speak to the changes by reporting segment. RF Solutions revenues were $9 million in the quarter, up $1.3 million or 17% from the same period last year. Organic revenue was up 2% over the same period last year. As we previously stated, approximately $1.2 million of the increase was from the company's acquisition in the quarter. Organic period-over-period growth was negatively affected by about a $1 million sequential quarter decline in engineering services revenue related to a slowdown in AT&T spending. Connected Solutions revenues were $17.4 million in the quarter, up $1.4 million or 8% on the strength of cellular kitting product revenue.
+
+Gross profit margin. Gross profit margin as a percent of sales was 39% in the quarter compared to 41% in the same period last year. RF Solutions gross profit margin as a percent of sales was 53 points in the quarter compared to 58% in the same period last year. The primary contributors to the decline are larger contribution of network engineering services revenue with its lower gross profit margin relative to scanners and to the AT&T spending slow down previously mentioned.
+
+Connected Solutions gross profit margin as a percent of sales was 32% in the quarter down less than a percentage point from the same period last year. The change is attributed to the higher contribution of cellular kitting products with their lower margin relative to antenna products.
+
+Now, let's turn to non-GAAP operating expenses. Operating expenses were $9.2 million in the quarter, up $700,000 from the same period last year. R&D is down $400,000 due to the IBflex product launch being completed in 2014 partially offset by the cost added from the recent acquisition.
+
+Sales and marketing is up $600,000 from 2014 head count investments in both operating segments as well as the acquisition. G&A is up $500,000 comprised of $700,000 in Q1 2015 [ph] with (05:49) one-time acquisition-related cost partially offset by $200,000 reductions in other areas.
+
+Non-GAAP operating margin excluding the one-time acquisitions cost as a percent of sales was 7% in the quarter compared with 5% in the same period last year. The increased revenue and resulting higher gross profit in the quarter and the year were leveraged over stable operating cost. Non-GAAP other income was $18,000 in the first quarter. [ph] If the amounts (06:17) are largely interest on our investments, the number will continue to be small in the current interest rate environment.
+
+Non-GAAP income tax rate in the quarter was 18% unchanged from 2014. Non-GAAP earnings per share was $0.05 in the quarter, unchanged from the same period last year. Without the one-time acquisition cost, which account for $0.03 per share, non-GAAP earnings per share were $0.08.
+
+Now, let's turn to the balance sheet. Cash on investments ended the first quarter at approximately $38.9 million, about $21.1 million lower than the previous quarter. During the quarter, the company used $20.5 million of cash for the Nexgen acquisition and $929,000 for the regular quarterly dividend and generated $278,000 of cash on investments from all other sources.
+
+As a reminder, the company typically is a net user of cash and investments in the first quarter as a result of paying down annual accrued expenses. And for those that are tracking our free cash flow, our capital expending was $364,000 in the quarter and depreciation was $744,000.
+
+Now, I would like to discuss guidance for the second quarter 2015. We anticipate second quarter revenue to be in the range of $29 million to $31 million. Gross profit margin is expected to be about 39%. Operating costs are expected to be approximately $9 million. The non-GAAP effective income tax rate is expected to remain unchanged going forward at 18%. The fully diluted share count in the second quarter is expected to be about 18.4 million shares. That concludes the financial review.
+
+I'd like to turn the call over to Marty for his summary comments.
+
+Thank you, John. This evening I'll elaborate on our financial results and discuss organic investments, marketing highlights, and our direction with respect to data analytics. Let me begin with some comments on our results.
+
+Despite first quarter challenges including reduced spending by AT&T for engineering services and softness in oil and gas for antenna, and in particular, mobile tower investments, we met or exceeded first quarter revenue goals for antennas, scanning receivers, and Meridian software and related services.
+
+In addition, we had one significant broadband wireless antenna order, a $900,000 order that we anticipated as a first quarter event that moved in to the second quarter which was recognized on April 13.
+
+One month into the second quarter, we anticipate a solid quarter for antennas, continued weakness in mobile towers, but reasonable strength in kitting solutions, scanning receivers at or slightly above Q1 levels largely dependent on the TD-LTE rollout in China, a strong rebound in engineering services as we already are seeing a demand increase, and Nexgen Wireless will be part of PCTEL for a full quarter and we expect good traction as we push into becoming the backbone for test tool providers and MVNOs and carriers. Clearly, it is our goal to diversify our customer base.
+
+In January, we announced our VenU brand antennas, which address the capacity-related challenges of complex, high-density, heterogeneous networks, HetNets that support multiple wireless carriers. PCTEL's robust combination of recognized expertise in high-performance antennas and network engineering services makes us a highly-credible solutions provider in VenU-related connectivity.
+
+We continue to make strides in the transit and precision agriculture verticals. An example of our investment in this area is the launch of our new high-performance mobile platforms with GPS and MIMO LTE and Wi-Fi capabilities. We began shipping antenna farms that include optimized PCTEL antennas and cable assemblies for new locomotives being deployed by railway customers. We also began shipping new products for Wireless LAN Mobile Mesh for agriculture applications.
+
+We expanded our design and product wins with Wireless Infrastructure OEM customers. We are excited that we secured a multiple-phase broadband wireless project with Cisco to supply Wireless LAN MIMO antennas to a major global retailer.
+
+Similarly, we've extended our ongoing work with Extreme Networks and Aruba Networks as they deploy technology infrastructure in multiple stadiums across the U.S. to enhance the game-day experience for fans in attendants at those venues.
+
+As we reported for most of last year, the strongest facet of our Site Solutions operation has been providing qualified and tested kits for installing small cells and macro cells. This past quarter, we shipped over 300 high-powered small cell kits to carriers. We continue to look for new regional markets to apply our logistical and RF expertise to the delivery of kitted solutions. We are investing to maintain leadership in scanners.
+
+In Q1, we launched that MXflex, which enhances our highest performance scanner with our powerful flex software-defined radio technology. This is the only scanning receiver on the market that can stand three technologies concurrently across bands from 130 megahertz to 6 gigahertz. The concurrency feature allows a more complete picture of complex multiple technology networks.
+
+Sales of our IBflex scanning receiver remains strong globally due to the market shift towards in-building measurements and the need to test TD-LTE in China. Both the MXflex and IBflex can be upgraded remotely over the Internet for bands, frequencies, technologies such as LTE, WCDMA and others and software options. Both the MXflex and IBflex come with PCTEL's industry-leading five-year warranty.
+
+Our SeeWave Interference Hunting System has gained momentum due to the increased demand for spectrum clearing across a wider range of LTE bands. SeeWave's ease of use and its cost effectiveness are clear competitive advantages. All current models of PCTEL's scanning receivers can be upgraded to support SeeWave. Data gathered through SeeWave can be loaded into our Hadoop-based meridian platform to create a national database of interference testing information for diagnostic and predictive analytics.
+
+The PCTEL Engineering Services team strengthen its recognized position in the market with high profile projects such as DAS Commissioning Services for the Super Bowl and acceptance testing in
+
+America's oldest subway system, the Massachusetts Bay Transit Authority.
+
+PCTEL expanded into other non-traditional application-based services, including performance critical wireless network testing to reduce the multi-million dollar problem of mishandled baggage for a Tier 1 international airline. The project included testing wireless access for RFID baggage handling at over 200 airports throughout United States. This entrance into new application-oriented services further augments PCTEL's commitment to performance-critical service required in all phases of traditional and non-traditional wireless networks.
+
+On March 2, we hosted our Q4 results call and announced the acquisition of the assets of Nexgen Wireless, a company which provides network analytics and engineering services. Since that time, we have advanced Meridian's capabilities in statistical processing, reporting, and business intelligence insights.
+
+We have focused on the integration of our scanner and tool portfolio with the Meridian capabilities to create a cloud-based analytic capability across all of our RFS products. We are pursuing opportunities to diversify our customer base and provide hosted service solutions for test and measurement solution providers.
+
+As we announced last month, we are working through the loss of a contract. Our efforts include cost reductions, we eliminated 45 drive tests and staff augmentation positions and business development efforts that include establishing our engineers at other major OEM vendors and wireless carriers. We have already expanded our Engineering Services activity with a key OEM vendor. Our goal is to establish Meridian throughout industry as a standard for predictive analytics.
+
+We are extending our expertise and crowd-based data collection. For example, Solutelia announced they have fully integrated PCTEL's IBflex into the WINd application. The WINd platform uses off-the-shelf smartphone capability to collect information to analyze KPIs for carriers.
+
+The integration of the IBflex provides a cloud-based, remote-controlled data collection source. Another example is Enhancell's integration of the IBflex with ECHO. ECHO uses handheld and tablet-based tools optimized for remote, low-cost, in-building data collection by technicians. This combined data can be loaded into Meridian for processing and analysis.
+
+As we disclosed in our 8-K which we filed on April 13, PCTEL signed a term sheet with Nexgen Wireless pertaining to the reevaluation of the Nexgen Wireless assets in light of recent commercial events. We are pleased to report that we signed definitive agreements to that effect today. PCTEL is active at industry-related shows and conferences. We have exhibited, presented or attended 14 shows so far this year. The feedback we received from customers and prospects at these events indicates an increasing appetite for performance-critical solutions to complex network challenges, where we feel PCTEL has a competitive edge.
+
+Of particular interest to us from our experience at the Mobile World Congress was the shift from LMR-type networks to LTE-based private networks with SIM-enabled monitoring devices.
+
+I'll close here by saying, I'm looking forward to seeing as many of you as I can over the next few weeks. PCTEL will be a UTC Telecom in Atlanta on May 6 to May 7. At Cisco Live in San Diego on June 9 to June 11 and at the DAS & Small Cells Congress in New Orleans on June 8 to June 10.
+
+I personally will be at the Robert Baird & Company 2015 Growth Stock Conference in Chicago tomorrow. And also at the annual B. Riley & Company Investor Conference in Los Angeles from May 12 to May 14. Finally, we look forward to seeing you at our Annual Shareholders Meeting on June 10.
+
+With that, we've concluded our prepared remarks and I've set aside 30 minutes for your questions. Operator? [Operator Instructions]
+
+Your first question comes from Matt Robison with Wunderlich. Please go ahead. Your line is open.
+
+Hey, Martin and John. First, John, I have been on three conference calls at the same time. I think, I missed a little bit. What was cash flow from operations and what was the gross margin and OpEx guidance?
+
+Okay. The cash flow from ops is $116,000.
+
+Okay.
+
+CapEx was $374,000. And you were looking for the OpEx guidance was $9 million, and the gross margin guidance was 39%.
+
+Why is gross margin so low again?
+
+Because of the rebound service as AT&T is back.
+
+Okay. But your revenues right I heard was $29 million to $31 million?
+
+I'm sorry, say again?
+
+Your revenue range is $29 million to $31 million?
+
+Correct.
+
+Okay. Are you still thinking you could do [ph] $124 million to $130 million (18:47) this year?
+
+Yes.
+
+Yes.
+
+How are you going – what do you think is going to make up for the shortfall on the first quarter?
+
+Well, in the second quarter, we think we're going to start to see a pretty good rebound in our antenna business. We think antennas, in and of itself, are going to be up $2 million to $2.5 million over the first quarter, and we believe we're going to see strength throughout the year. We've done a very good job of winning these new large OEMs, and we had some unusual events happen in the first quarter like the push-out of a major order.
+
+We also think that our kitting business with carriers will remain at the level that we're now seeing which is a bit stronger. Services is having a great rebound. I think in that area, we will be up 50% this quarter over last quarter. And we see growth beyond that. I can't tell you the carrier name, but for example, just today, and this is one of the great advantages of the acquisition of Nexgen, you know that, our NES Group had resources that were entirely focused in-building. Nexgen brought to us resources that have a lot of experience in macro, performance engineering, drive testing and other areas. Today, we just landed a $700,000 contract with a major carrier. And again, what we've been able to do is to exploit some of our strengths, sales and business development that were unavailable to Nexgen.
+
+We also think that despite this disappointing loss that we had with – contract with Samsung, that we're going to see some traction with other carriers, OEM vendors and then some new players. So, for example, for vendors who have relatively modest tool sets, tool sets that don't have local post-processing capability, Meridian offers them of really great capability. Data collected locally can be immediately transmitted to cloud-based processing where we can offer a portal to those tool vendors and that's what we are attempting to communicate in our recent press releases with two of the smaller vendors in the industry. So we think that there'll be reasonable growth there.
+
+What do you think about gross and operating margin ranges are for this year?
+
+I'm sorry. Well, the – yeah. So, for guidance, I think we're going to be in the 39-point range, because [indiscernible] (21:57) services continue to be a bigger portion than last year and operating costs are going to be somewhere in the [ph] 36.5% to 37.5% (22:07) range.
+
+Okay. That's all I got. Thanks. [Operator Instructions]
+
+Your next question comes from Mike Crawford with B. Riley & Company. Please go ahead, your line is open.
+
+Thank you. Before the Nexgen acquisition, how much of your revenues were with Sprint?
+
+Well, it's – the difficulty in answering that is that the revenues are not directly with Sprint, but through our work with Sprint. So, for example, we sell our scanning receivers into Accuver, who's an important test and measurement vendor into Sprint. And we wouldn't split out those individual revenues by OEM reseller of our scanners but we had a decent business with Sprint.
+
+And I would also mention to you that Nexgen Wireless revenues were not with Sprint. But again, through a surrogate, Samsung. So, the contract was related to the storage and analysis of data out of infrastructure that was part of the Sprint Network but the contract was not with Sprint directly.
+
+So, prior to Nexgen, maybe you had some scan receiver sales to Accuver that did some drive testing for Sprint, but that was probably most of what you did that touched upon Sprint plan?
+
+No. We also have antenna sales, GPS timing antennas that went into – again not Sprint, but through OEM. So, for example, Mike, if we sell our GPS timing antennas that go on to base stations or at a cell site that would be through the OEM infrastructure provider whether it was Alcatel-Lucent, Nokia, Ericsson, and the case of Sprint would be an important vendor, and that's what we continue to sell. And that's how we touch most of these operators.
+
+Okay.
+
+And by the way, that's a growing business for us. We expect to pick up some strong small cell business. Just to give you a little bit of an idea of what I'm going to talk about at your conference, you have one of these small cells, let's say, a Nokia small cell, there are five antennas that go on to each of these small cells; there is a GPS timing antenna, there are two Wi-Fi antennas and there are two LTE antennas. And these can range from about $450 to $600 in total.
+
+And despite the cessation of the small cell rollout program with AT&T, there is significant small cell rollout going with other carriers. And we anticipate securing a fair share of that business.
+
+Okay. Thank you. Just a couple other related questions. So, one, Samsung itself, I think, has other engineers that probably really like the Meridian software now are unlicensed?
+
+Correct.
+
+So what are they doing?
+
+I can't comment on what they're doing internally, but I can say that we continue to press the advantages of Meridian with all OEM infrastructure vendors including Samsung.
+
+Okay. But their engineers shouldn't be using your products without a license, right?
+
+They should not be.
+
+And then, Marty, you've also talked about trying to have Meridian more propagated throughout the market, but it was my understanding that if it was not even directly to Sprint that a lot of the work related to Meridian kind of went to the Sprint's network as opposed to others, is that incorrect?
+
+We are pressing Meridian with all U.S. carriers and with many other infrastructure vendors. Our goal is to get Meridian established with Ericsson, Nokia, Huawei, Alcatel-Lucent, Sprint, Verizon, T-Mobile, and we have a business development plan where we are going to aggressively pursue Meridian opportunities with all of these carriers.
+
+But one of the areas that makes us unique is that we have the capability of using Meridian as a post processing tool not just for infrastructure but for test and measurement tools.
+
+Okay. Thank you. And then last question relates to kind of what may or may not be on your general M&A plate. So in the past few years you've tried a couple of slightly bigger acquisitions, run into some stumbling blocks [ph] along the way (28:00) from which it appears you've quickly recovered and been able to actually renegotiate good terms. I know you still have – would like to have a couple hundred million in revenue which would have to be achieved via some external growth I think in addition to organic growth. So what are you currently still looking or are you sitting back for a while, or what's going on there?
+
+Well, we continue to look at M&A opportunities. But I will disclose freely that we have work to do in completing the integration of Nexgen and that is consuming a fair amount of management time. So we would be cautious before taking on another large acquisition. However, something could happen that was quite unusual, but that isn't our focus right now.
+
+One of the areas that we would like to expand upon though are acquisitions that support our investment in big data or data analytics. And in particular, Mike, we want to be very well prepared for what we think is going to evolve in cellular test and measurement. And that is an absolutely unstoppable evolution to cloud-based data analytics. And so there are some things that we're looking at there. And then we always look opportunities for tuck-in acquisitions that are quite similar to our existing business, let's say, in antennas where we could perhaps acquire a product line without a lot of people and use the current operational assets that we have.
+
+Okay, great. Thank you very much.
+
+You're welcome.
+
+There are no further questions at this time. I will turn the call back over to Marty Singer for closing comment.
+
+I want to thank all of you for attending our earnings conference call. I look forward to seeing you at some of the investment conferences that are coming up, and we look forward to updating you at future conference calls. Thank you.
+
+This concludes today's conference call. You may now disconnect.

@@ -1,0 +1,5 @@
+nohup: ignoring input
+Traceback (most recent call last):
+  File "/home/ubuntu/project/grasp_data/factset_ec_scraper.py", line 8, in <module>
+    from playwright.sync_api import sync_playwright, TimeoutError as PwTimeout, Page, Frame, Route, Request
+ModuleNotFoundError: No module named 'playwright'

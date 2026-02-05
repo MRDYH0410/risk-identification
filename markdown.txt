@@ -1,0 +1,21 @@
+这个文件是全部流程主文件，尤其是很多结果图表和爬虫原始数据都没有上传，所以需要按照这个文件的说明来运行代码
+
+grasp_data是爬虫
+
+RQ1先运行wordbag，这是词袋构建，其中先合并词袋并build_risk_lexicons.py，然后计算风险距离calculate_distance.py，
+在RQ1里我们主要用到输出risk_lexicons.json作为风险成因j的参考
+
+identification里先运行light_risk_classifier，
+运行到大概一半的时候，我们看到MLM做完了，这时候project/identification/llm_ckpt/mlm_continued_ctx/文件夹里文件写完了，说明我们完成了MLM掩码学习
+然后我们运行MLM_light_risk_classifier.py，基于MLM模型的LLM模型内容，主要输出结果：
+sentences_scored_llm_ctx.csv对应句子级变量s，a_mij__sentence_ctx.csv对应汇总级变量a
+
+然后运行predict里的risk_predictor.py，得到预测结果，然后通过predictor_display.py出图，在output里，还有verification
+然后运行predict/explain/attribution.py，这是RQ1的归因分析，结果在output/attribution里
+
+然后到RQ2部分，在term_analyse/内
+首先做build_term.py，完成5.1 重要术语集合的无监督识别，重点关注output/terms_selected_from_raw.json
+然后做term_tone.py，完成5.2 刻画“跨期反复 + 语气变化”的轨迹，并通过analyse_term_tone.py分析作图，结果关注output/step_5_2_term_tone_shift/recurring_terms_with_significant_tone_shift.csv
+然后做term_importance.py，完成5.3 与企业动态风险的关联，并通过analyse_term_importance.py分析作图，结果关注output/importance/term_importance_summary.csv
+最后通过further_analyse_conclusion.py生成RQ2的结论，结果放在output/conclusion里
+

@@ -1,0 +1,310 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+Todd Kehrli — Executive Vice President, MKR Group, Inc.
+Joe Bergera — President, Chief Executive Officer & Director, Iteris, Inc.
+Andrew C. Schmidt — Vice President, Finance and Chief Financial Officer, Iteris, Inc.
+Jeff VanSinderen — Analyst, B. Riley & Co. LLC
+Orin Zvi Hirschman — Analyst, AIGH Investment Partners LLC
+Brett Reiss — Senior Vice President / Investments, Janney Montgomery Scott
+Matthew Sweeney — Analyst & Portfolio Manager, Laughing Water Capital
+
+Management Discussion Section
+
+Question And Answer Section
+
+Good day, ladies and gentlemen, and welcome to the Iteris' Fourth Quarter and Full-Year Fiscal 2016 Financial Results Conference Call. Please note today's conference is being recorded.
+
+At this time, I'd like to turn the conference over to Mr. Todd Kehrli with MKR Group. Please go ahead, sir.
+
+Thank you, operator, and good afternoon, everyone. And thank you for participating in today's conference call to discuss Iteris' financial results for its fiscal fourth quarter and full year ended March 31, 2016. Joining us today are Iteris' President and CEO, Mr. Joe Bergera; and the company's CFO, Mr. Andy Schmidt. Following their remarks, we'll open the call for your questions.
+
+Before we continue, we'd like to remind all participants that during the course of this call, we may make forward-looking statements regarding future events or the future performance of the company, which statements are based on current information are subject to change and are not guarantees of future performance. Iteris is not undertaking an obligation to provide updates to these forward-looking statements in the future.
+
+Actual results may differ substantially from what is discussed today and no one should assume that at a later date, the company's comments from today will still be valid. Iteris refers you to the documents that the company files from time to time with the SEC, specifically the company's most recent Form 10-K, Form 10-Q and 8-K, which can contain and identify important risk factors that could cause actual results to differ materially from those that are contained in any of the forward-looking statements.
+
+I'd like to remind everyone that a webcast today will be available after 7:30 PM Eastern Standard Time through June 30, 2016, via the Investor Relations section of the company's website at www.iteris.com.
+
+Now, I'd like to turn the call over to Iteris' President and CEO, Mr. Joe Bergera. Sir, please proceed.
+
+Great. Thank you, Todd, and good d afternoon, everyone. Thank you for joining us today. As you saw at the close of the market today, we issued our press release announcing the financial results for our fiscal fourth quarter and full year ended March 31, 2016. In Q4, Iteris recorded $19.8 million in total revenue, representing a very strong 10% year-over-year rate of growth.
+
+Our Transportation Systems business unit started to realize the impact of its record backlog growth and our Performance Analytics BU benefited from significant growth of ClearAg. For the full year, Iteris recognized $77.7 million in total revenue. This is an 8% increase against FY 2015, but by particularly strong performance in Roadway Sensors.
+
+The strong Q4 and full year 2016 revenue results are records for Iteris and reflect continued acceleration across all our lines of business. In Q4, Roadway Sensors recorded $9 million in sales. The business unit's flat year-over-year performance is due to transient factors such as project timing and severe weather events, which can cause typical fluctuations in the timing of customer needs.
+
+As we enter our new fiscal year, we remain very optimistic about this business segment. Our Sensors business has a highly defensible market position based on overall product superiority, recognized commitment to customer success and excellent sales execution.
+
+Furthermore, we expect overall market conditions to remain generally favorable through FY 2017 despite some regional variations such as continued softness in the energy sector, which could impact regions such as Texas. Sensors full year growth was 11%.
+
+In Q4, our Transportation Systems BU also recorded $9 million in revenue. This represented 20% year-over-year growth and 16% sequential growth for this BU. For the year, Transportation Systems revenue was up 7%.
+
+During the fourth quarter, Transportation Systems continued to build its backlog, adding approximately $11 million in new orders and exiting the quarter with a record $53 million in backlog. This equates to an approximate 80% backlog increase relative to our prior year Q4 backlog. We continue to see a broad-based increase in market demand with notable wins in Georgia, Utah, Virginia, Texas and LA County.
+
+Similar to the backlog we added in Q3, the vast majority of the new Q4 backlog is made up of software and/or business process outsourcing, also referred to as operations and maintenance. The revenue for these projects is highly predictable. In Q4, the Transportation Systems BU continued to see an increase in average project size. As mentioned last quarter, we believe that a larger average project size will enhance internal efficiencies and improve this BU's margin structure.
+
+In addition to the foregoing software and business process outsourcing contract award, Iteris announced that the Federal Highway Administration, FHWA, awarded us a $19 million Indefinite Delivery/Indefinite Quantity contract. As an IDIQ contract, we do not record any backlog value until we receive a Statement of Work, at which time the value of the SOW is added to our backlog.
+
+In Q4, our Performance Analytics business unit recognized $1.7 million in revenue, representing 19% growth both sequentially and year-over-year. ClearPath Weather service revenue was flat compared to the prior year, while Transportation Analytics realized modest growth. The PA segment's primary growth factor was our digital agriculture platform, ClearAg. Having just launched it as a subscription service last July, we're delighted that ClearAg is already contributing on a material basis to the business unit's revenue performance. ClearAg recorded more than $1 million in bookings in FY 2016 after only eight months in the market.
+
+In February, we announced that Bayer Crop Science had selected ClearAg to provide weather and soil content to Bayer's digital farming platform. We further noted that the rollout would be completed in phases. The first phase targeted two crop types in a limited number of geographic territories. The first phase of the ClearAg implementation is now in production. Subsequent phases will be added both to new crop types and new geographies.
+
+In March, another global crop protection company selected ClearAg to deliver targeted purpose mobile application to its growers, agronomists, and other agro business field staff. Like other ClearAg agreement, this is a Software-as-a-Service model. The contract represents recurring annual subscription revenue, which we expect to achieve 80% gross margins at scale. Under the terms of the agreement, this new customer committed to a minimum number of new users in two geographic regions during phase one. Over time, we expect the customer to add additional users and regions. Currently, we're not able to disclose the identity of this new customer.
+
+In addition to the new crop protection deal, we continue to secure OEM agreements with software publishers and other allied providers. For example, in Q4, we announced a new global agreement with Site-Specific Technology or SST Software. SST will integrate ClearAg's weather content, in other words, our advisories into its market-leading geolocation planning and optimization solution for growers and agricultural retailers, also known as ag retailers.
+
+SST, a pioneer in precision agriculture, has a large customer base in 23 different countries. As mentioned in previous calls, our OEM customers pay us a minimum annual subscription fee to embed ClearAg into their agriculture solutions. We participate in any success above the minimum targets. With the addition of SST, we now have over 180 million wholesale acres under management across 15 different countries including Brazil, France, Mexico, Russia, South Africa and the United States.
+
+Now, I'd like to turn the call over to Andy to walk through our financial results. Andy?
+
+Thank you, Joe. Good afternoon, everyone. First of all, before I go through our fiscal fourth quarter and year 2016 financial highlights, I'd like to bring to everyone's attention that we will be talking to both GAAP and non-GAAP results today. Staying consistent with our past calls, I will provide a non-GAAP view of our fiscal fourth quarter 2016 and year results that adjusts and highlights what management feels are atypical expenses to better present the performance of the company and to provide a more relevant benchmark of operating expenses going forward.
+
+Specifically, our non-GAAP results adjust for past period audit fee overruns and related costs, financial consulting service fees, costs associated with our CEO transition, and the recording of a valuation allowance on the company's deferred tax assets.
+
+In regard to our atypical expenses, we did not experience quarterly review fee increases or financial consulting support fees in Q4 of fiscal 2016 as compared to incurring $65,000 of such fees in Q4 of fiscal 2015.
+
+In regard to executive management transition costs, we did not experience any costs this period; however, recorded $866,000 associated with executive recruiting fees and CEO severance costs in the same period of fiscal 2015. For the fiscal year ended March 31, 2016, audit fee overruns and financial consulting support fees totaled $238,000 as compared to $1.9 million in fiscal 2015.
+
+In regard to executive management transition costs, we recorded $150,000 for fiscal 2016 as compared to approximately $1 million for fiscal 2015. Finally, during fiscal 2016, we recorded a non-cash $10.1 million valuation allowance on our deferred tax assets.
+
+Our non-GAAP adjusted net loss for fiscal 2016 was approximately $2 million or $0.06 loss per share as compared to net income of $675,000 or $0.02 per share. Today's earnings release and related current report on Form 8-K describe how we calculate these non-GAAP financial measures and provide a detailed explanation of our atypical expenses as well as a reconciliation between our non-GAAP financial measures and their most directly comparable GAAP measures.
+
+Moving forward. Our Q4 was a great quarter. Total revenues in the fourth quarter of fiscal 2016 increased 10% to $19.8 million compared to $18 million in the same quarter a year ago. Overall, the quarter was a nice blend of strong performance by all three business units as opposed to a single business unit being the primary driver behind our growth.
+
+Gross margin in the fourth quarter of fiscal 2016 was 40%, consistent with the same period last year. The strong gross margin performance is a great positive in that regardless of the product mix that drives our growth we're able to maintain or improve our margins.
+
+Non-GAAP operating expenses in fourth quarter of 2016 increased to $9.3 million compared to $7.4 million in the year ago quarter. The increase was primarily due to our continued and planned investment in head count, product development, and sales and marketing expenses in our Performance Analytics segment. In addition, we added over 70 heads to our roster to deliver on our Transportation Systems TOC and PMG contracts for the Virginia Department of Transportation during the period.
+
+Non-GAAP operating loss in the fourth quarter was $1.3 million compared to an operating loss of $140,000 in the year ago quarter. Non-GAAP net loss in the fourth quarter was $1.3 million or $0.04 loss per share compared to a net loss of $198,000 or $0.01 per share loss in the same quarter a year ago.
+
+In regard to our total year 2016, we posted record revenues of $77.7 million and a non-GAAP loss of $0.06 per share. Gross margin for the year was up slightly to 39.4% compared to 39.0% in fiscal 2015. Non-GAAP operating expenses for fiscal year 2016 increased to $33.8 million, compared to $27.4 million in the year ago year. The increase was primarily due with the planned investments and head count, product development, sales and marketing expenses in our Performance Analytics segment as well as our buildup of our Transportation Systems business to support the new contract wins.
+
+Non-GAAP operating loss for the year was $3.1 million, compared to operating income of $781,000 in fiscal 2015. Non-GAAP net loss for fiscal 2016 was $2 million or $0.06 per share compared to net income of $675,000 or $0.02 per share for fiscal 2015. Cash and cash equivalents at March 31, 2016 was $16 million as compared to $22 million at March 31, 2015. Cash used by operations was approximately $4.1 million. Capital expenditures were approximately $900,000 and cash used to repurchase share is approximately $1.2 million.
+
+Total backlog at the end of fiscal 2016 increased to $63.3 million compared to $39.2 million at the end of fiscal 2015. Backlog at March 31, 2016 was comprised of $53.3 million from Transportation Systems, $5.2 million from Roadway Sensors and $4.8 million from Performance Analytics. In terms of housekeeping, we expect to file our 10-K within the next week.
+
+This concludes my prepared remarks in the financials. Now, I'd like to turn the call back over to Joe.
+
+Great. Thank you, Andy. Iteris remains in a great position that capitalize on powerful trends in both transportation and agriculture. Our team is laser-focused on accelerating the performance of our transportation segments while also developing a highly meaningful, high-margin subscription model in the agriculture market. We believe the progress we made in FY 2016 provides a strong platform for growth in FY 2017.
+
+With an already strong leadership position in the U.S. market, Sensors will pursue three paths to growth through FY 2017. First, we'll continue to develop our position internationally, focusing on Latin America as well as developed territories within North America where we are currently under penetrated. Second, we'll further enhance our data collection capability, an already strong point of product differentiation. And, third, we'll continue to expand into new market segments that Iteris does not address today.
+
+As noted previously, we'll be introducing a number of new products and features in the coming months. These will include a new detection sensor, new data collection capabilities and innovative improvements to existing products. We believe these new product introductions and other planned product enhancements will not only address near-term market demand, but will reinforce our position as an innovator and product leader and expand the market segments that we serve.
+
+Through the first half of FY 2017, we continue to expect the rate of growth in our Sensors business to move in line with the market rate. Historical average market growth rate is approximately 7%. This return-to-market growth rate is primarily the result of new product introduction cycles. We are confident about the success of our new product introductions and recognize it will take a couple of quarters to develop and attract new customers at a meaningful level.
+
+Iteris continues to see a shift in transportation infrastructure spending toward intelligent Transportation Systems in Connected Vehicle programs. Currently, we are experiencing an increase in demand for programs related to vehicle, to infrastructure integration, actionable traveler information, data analytics and enhanced safety and mobility. As was the case in Q3, the vast majority of 11 million in Transportation Systems orders booked in Q4 align with these program areas.
+
+Iteris is in a strong position to benefit from current spending priorities. Given the favorable market dynamics and our continued strong backlog, we are increasingly strategic about the new business we pursue. We are focused on opportunities that, one, enhance our franchise, the provider of information-based actionable insights in target geographies and market categories; two, enable us to leverage existing platforms and other toolsets; and three, represent sizable multi-year programs with a meaningful level of recurring revenue. We plan to increase our average project size, which will create internal efficiencies and EBITDA leverage for this BU.
+
+As discussed in prior earnings calls, Iteris believes the global food and agribusiness sector represents a significant strategic opportunity. The sector, arguably the world's largest sector, generates $5 trillion in annual economic output. Yet, the sector has been very slow to adopt information technology. Now, the sector faces major structural challenges, global population growth, scarce water supplies, limited arable land, changing consumer preferences and increasing regulations. These dynamics are fueling a significant need for information technology in general and for agronomic, climatologic and biological data analytics in particular.
+
+Within the broader sector, Iteris is focused on the digital agricultural market. Digital agriculture is the intersection of precision agriculture and big data. More specifically, digital agriculture involves the collection, aggregation and analysis of big data for purposes of presenting contextually relevant insights for a variety of agribusiness users. Within the digital agricultural market, Iteris has identified a $1.2 billion plus TAM that includes over 8,000 unique customers in three distinct segments or categories: enterprise, OEM and growers.
+
+In enterprise segment, we continue to target the top 100 crop science companies which we define to include crop protection, crop nutrition and biologics firms. These entities are large enterprises that average more than $1 billion in annual revenue. For these companies, digital agriculture is becoming a competitive necessity. We expect most of the top 100 to implement a digital agriculture strategy and 80% of those to adopt a third-party platform such as ClearAg.
+
+Already five of the top 10 crop protection companies have selected Iteris. Such customers deploy ClearAg to improve product performance in the field, improve the return on their sales and marketing activities and enhance customer life-time value. We have found that ClearAg can produce millions of dollars in revenue contribution, operating efficiencies and risk mitigation. We continue to believe our value proposition is especially powerful within the context of current global economic forces and related structural changes in the agribusiness sector.
+
+We continue to see crop science customers deploy ClearAg in stages. Typically, customers complete an extensive trial, roll out ClearAg from initial products line and/or geographic region and then continue to expand the deployment across product lines, geographies and users. While new customer acquisition cycles can be long, the pace of expansion in existing accounts has been predictable and much more favorable. We continue to believe that each crop science account should conservatively average more than $1 million in annual recurring revenue.
+
+In the OEM segment, we continue to target five types of allied providers, farm management information systems vendors, research service providers, data service providers, supply chain management system vendors and agronomist. Today, we have strong customer relationships in each of these categories and have proven repeatable commercial model.
+
+As mentioned earlier, OEM customers commit to a minimum platform subscription fee and we participate in upside above the minimum targets. Initially, OEM customers have tended to embed our weather content in their solutions. In the first half of FY 2017, we'll release significant new and enhanced agronomic content based on valuable feedback from existing customers. We expect this new content to produce upsell revenue from existing OEM customers as well as increase demand and reduce time to close with new OEM customers.
+
+In Q4, we announced the availability of our ClearAg Mobile solution, a grower analytics application to help farmers improve crop management. This quarter we'll expand the focus of our go-to market plan, which to-date is focused only on crop protection companies and allied providers, and begin promoting our advisory services direct to farmers.
+
+In the first phase of our direct-to-farmer initiative, we'll focus our telesales activities against select North American beacon farmers, in other words, thought leaders with over 10,000 acres. Simultaneously, our channel sales team will start to develop a network of agronomists and ag retailers to extend our market reach.
+
+We believe our continued success in the crop protection market, in particular, further validates our digital agriculture strategy, and we remain confident about the long-term opportunity for Iteris and the agricultural market. Therefore, we plan to continue to invest in our ClearAg business. We believe our ClearAg engineering capacity has reached a sufficient run rate level to sustain current requirements. So, we'll continue to shift the investment mix toward sales and marketing activities.
+
+We do expect some modest operating leverage in FY 2017, which will measure as a ratio between bookings growth, calculated as first-year subscription value to investment. We would expect the incremental contribution margin dollars from our transportation segment to offset, in part, the step up in agriculture investment. Therefore, we anticipate our net investment level to remain consistent for the next four quarters as our digital agriculture business grows to its full potential. On a consolidated basis, we expect operating results to vary somewhat from quarter-to-quarter due to typical seasonality. However, directionally, we expect operating losses to trend lower through FY 2017.
+
+To conclude, in Q4 and full year 2016, Iteris realized significant positive momentum across all lines of business. Our Sensors BU ended the year with 11% revenue growth. Given our highly defensible position in the Sensors market and our new product pipeline, we are confident that BU will maintain its current market share lead. In Q4, our Systems BU began to recognize revenue on the $35 million in orders booked in H2 FY 2016. As we convert this backlog in FY 2017, we expect to continue to realize meaningful revenue growth. Likewise, we've started to realize revenue contributions from our investment in ClearAg, and we are very excited about this new growth opportunity.
+
+Now, we'd be delighted to respond to your questions and comments. Operator?
+
+Thank you so much. [Operator Instructions] Our first question today will come from Jeff VanSinderen with B. Riley.
+
+Good afternoon. Let me say congratulations on the strong results in Q4 and for the year. I know you suggested that Sensors would grow at a market rate. Just wondered if there's any color maybe you can provide on how we should think about the growth in the other segments in Q1 and for the remainder of the year. I know you don't really give guidance to speak of. But wondering if Systems – do you still expect that to be lumpy? Maybe what level of growth we should look for there this year? And then maybe you can also touch on ClearAg and kind of the ramp we should be expecting there. And then, I think, you said that you would expect losses to be reduced throughout this year. Just wondering when you think earnings might start to turn positive. Is that roughly year out, you think?
+
+All right, Jeff. This is Joe. Thanks for the multi-part question there.
+
+Yes.
+
+I'm going to take part of it, some of that over to Andy. So, in terms of Sensors, what we're saying is that we've been growing. Last year, we were at 11%. Historically, the market is growing at about 7%, so we've been growing clearly above market rates.
+
+As we end our FY 2017, we're reaffirming that we expect to maintain our current market share position. We're going to do our very best to try to continue to take market share. We are acknowledging that we are in the middle of a new product cycle with the introduction of new products that are coming up to the most part in the first half. And, therefore, I'd like to think we're being somewhat cautious in projecting growth rate consistent with the overall market average. But, that is, in fact, what we are anticipating. Again, my objective would be to beat that, but that's what we're currently modeling.
+
+With respect to the Systems business, we saw just under 20% growth this quarter. We said previously that we would expect to see that business because of the significant increase in the backlog grow somewhere in the mid-teens to slightly higher than that. And so, we are reaffirming that we'd expect to see sort of similar rates of growth for the next couple of quarters in the Systems business.
+
+And with respect to ClearAg, we're not yet in a position to talk about what the recognized revenue is on that business and partly it's because some of these major new contracts can – they're large in and of themselves and because it's a relatively new business, a new contract can result in fluctuations from quarter-to-quarter. And so, it's difficult to help you guys be what the overall revenue trend line looks like. I think it could be misleading if we're to just kind of talk about quarter-to-quarter. So, we're just trying to – at this point, we're beginning to provide some visibility in the bookings and then later we'll be able to talk about recognized revenue. I will say that was – did contribute materially to Performance Analytics business unit and we do expect it to continue to have a material contribution to that BU.
+
+And Jeff, this is Andy. You had a question about whether or not the quarterly revenue would be lumpy or what have you. It was something that Joe brought forward in his remarks. On the Systems business, a significant part of the increase this year comes from our TOC and our PMG contracts. That's actually very predictable and that's basically 80-plus employees billing at a regular weekly rate. So, that helps us in terms of moderating the quarterly income or quarterly revenue. So, if anything, we should be much smoother in that business and then...
+
+That I said I would just note that we do tend to have seasonality in the business and we would expect to continue to see some degree of seasonality. But anyway, I'm sorry, I thought maybe Andy, you could talk about the last part of that question. I think it was around losses in the ag business.
+
+Sure. Just like Joe said in his – again, in his remarks, we're going to be investing this year and he said, again, we're going to be seeing these losses trail-off by the end of the year and that's just going to be unanticipated recognition of revenue. But also, winning new deals and the implementation of these new deals often times may come with [indiscernible] (31:15) revenue that – we'll take a look at how the contracts are put together and how we recognize revenue, but all in all, as that business grows, losses are going to trail and we're offset by growing transportation businesses. So, once again, investing this year. But, by the end of year, you could see that trend reverse and start seeing less usage of cash, if you will, and less use of more of the revenue generated by transportation.
+
+Okay. That's great to hear and very helpful. And then I know you mentioned in your comments that you're running a higher average project size in Systems and just wondering maybe you can talk a little bit about or a little bit more about what's driving that and then if you expect that to continue in Systems?
+
+Yeah. Well, I think part of its strategy and part of its market dynamics, we are seeing an increase in the size of procurements in the market. So, that's sort of an overall market phenomenon and that's certainly lifting the business. But we've also focused, from a business development perspective on trying to increase project size. And the reason for that is we just think it creates internal efficiencies for us. It's very difficult to maximize resource utilization across a large number of relatively small projects. And so, the desire is try to increase project size and it just – it makes it easier to maximize utilization.
+
+That being said, the downside of having too many large projects is that you can create customer risks. So, we're trying to find the right balance there. But I think for the last several quarters, we've been probably too biased on the side of having a lot of small projects and it's proven to be difficult to manage from a resource utilization and therefore from an internal efficiency perspective.
+
+Okay. That's helpful. And then if I could squeeze in one more, if we could just shift back to ClearAg for a minute. Obviously, you continue to make pretty considerable progress there. Are there other partnerships we should look for over the next few quarters there? I guess, how should we think about kind of the near-term and the longer-term drivers of that business segment? And maybe you can also update us on, I know, you mentioned that the TAM you thought was about $1.2 billion, but how much of that do you think is actually available for Iteris to go after? And then maybe just touch on any milestones, I guess, we should look for in terms of you getting – moving toward capturing your share of that?
+
+Sure. So, the digital ag market is – there are all kinds of different estimates regarding the size. And I have seen reports that say it is, little ag, $3 billion and as big as $20 billion. As I mentioned in my remarks, we estimate our TAM to be $1.2 billion. And so, to answer your question, all of the $1.2 billion TAM is addressable by Iteris. And when we have more time, we can go through how we constructed it – our estimate in some detail.
+
+But I will say that it's all derived from actual pipeline data and then third-party market research that we have commissioned. So, that is not some analyst report that we've said, hey, we can go out to that market. That is our view of what the market opportunity is for ClearAg. It's made up of six different segments of which seeing crop protection, which we've talked about a lot on this call, is a third of the total market or $400 million of the $1.2 billion.
+
+In terms of other milestones and partnerships, there absolutely are other things that you should be looking at. I don't want to get ahead of myself, but I hope we'll have some interesting things to comment on in the not-too-distant future. But there are other things like some of these significant crop protection deals that we think can really move the needle, and we're working hard on these.
+
+Okay. Great. Thanks very much for taking my questions and continued success.
+
+Thank you.
+
+Thank you. And next, we'll hear from [ph] Nick Altmann (35:46) with Northland Capital Markets.
+
+Thanks, guys. Hey, so you guys have mentioned in the past how ClearAg has helped you guys expand geographically. Can you just give us an update on how you're doing internationally and if you've entered any new countries? I think you guys had 14 last quarter. And you mentioned Latin America on the call, but any additional color would be much appreciated.
+
+Yeah. So, hi, [ph] Nick (36:16). Yeah. This is Joe. Yeah, I talked about two different international markets for us. One is the Sensors market. As I said previously, we've seen some – we think meaningful opportunities in the Latin American market. We structured our distributor network a couple of quarters ago and we're starting to see some significant benefit. We're going to continue to make modest, but we think potentially meaningful investments in the Latin American market to further develop our overall Sensors business.
+
+With respect to ClearAg, this is like another set of international markets, you're exactly right. We took 14 last quarter. And in my remarks today, I mentioned 15. We added one new country, and that's South Africa. And we've been able to cost effectively enter that market through our relationship with SST.
+
+Most of our international distribution is coming through crop protection companies where they are embedding us in their platform, which they then generally make available to their customers who then are consuming ClearAg. And it's also coming through our relationships with our OEM partners that are – for the most part, there are other software companies that embed ClearAg into their solutions. A lot of them operate internationally, and that gives us international distribution.
+
+We will look to selectively enter some international markets when we launch our direct-to-grower campaigns. As I mentioned initially, we're going to be focused on North American – large North American growers. But we do anticipate that eventually we will, at a minimum, opportunistically, probably strategically focus on a couple of international markets on a direct-to-marketing and direct-to-telesales basis.
+
+Great. Thanks. And then just one more. If you could give me a ballpark percentage, what percentage of revenue is coming from your top three customers?
+
+I'll let Andy answer that.
+
+Sure. So, again, if you consider that transportation is obviously our biggest revenue source right now, we have several very, very large customers. The Virginia Department of Transportation is very important to us, and that's where we announced that TOC and the PMG deals, very large contracts. And again, it's going to phase year-in, year-out depending on what meat of the projects we're involved in. They're very large. We've got MTC up in Northern California, a very large customer. Those – again, like you say, depending on the contract in the year, in the meat of the project, which could be multiple millions of dollars of projects, that's going to shift somewhat. But right now, again, our large customers are large agencies such as the two that I mentioned...
+
+Yeah.
+
+...driving revenue.
+
+And, I guess, I would just add to that, [ph] Nick (39:39), I think the question is kind of about customer concentration and revenue risk. And we do have a couple of very large contracts with the Virginia Department of Transportation. But that being said, I would add that even though we have a couple of large public agency customers, in general, we have many contracts with them that add up to a large aggregate amount.
+
+And so, even though Virginia, the Bay Area Metropolitan Transportation Commission, the LA Metro, for example, is another large customer of ours. Again, we have multiple contracts with them. But for the most part, we don't have any particularly large single contracts with any single customer. I will note that the two recent awards with the Virginia Department of Transportation, each of them are very large contracts.
+
+Great. Thanks.
+
+Thank you. And our next question will come from [ph] Joel Slutzky with TLP(40:46).
+
+Yes. Building on Jeff's question, I've got two questions and they're both competitive. You mentioned when you talked about the TAM, that you're $1.2 billion and at various estimates of the total market in these spaces, $3 million to $20 million. Yours, the $1.2 billion is for digital agriculture as I understood it. So, I'm curious as to other than digital ag, what is the competing technology or methodology that can result in increasing crop yield? It seems like the world needs something to sort of harnessing another planet. So, what is this competing technology that we should be looking at or should be knowing about?
+
+Sure. [ph] Joel (41:48) that's an interesting question. So, I haven't gone through the detailed reports, so I'm not – I can't speak for the authors of those reports, but I will say that some analysts have consolidated some of the addressable market estimates for what, I think, would classically be described as precision agriculture with digital agriculture. And precision agriculture is mostly about machine learning and related technologies. We can certainly be an input to that process, but we are focused on digital agriculture which is more about data collection and analysis. It's, in our case, happening in the cloud, if not, it's distinct although it's related to precision agriculture. And so we're drawing that distinction.
+
+And again, the $1.2 billion TAM that we've identified is, in our opinion, is a fully addressable market. That's a market that ClearAg can fully address. So, you're seeing our estimate of the market size being smaller but still a very large number. But it is smaller than some of the other estimates that you've seen. So, I would say that precision agriculture technology, those are other things that are going on that are going to contribute to agricultural improvement.
+
+And then, there are other investments that are going on, particularly in the biologics area, that will also improve crop yields and create economic value in the larger agribusiness space. And, again, we can provide – we can support biologic firms, but we're not including any of that activity in our estimate of the TAM.
+
+Thank you. The second question, I know there's a lot of – do you see money being thrown at this space? It's a hot area. What percent – you mentioned that in the last call that you had 10 or more large users, and you brought it up again in this call. I'm not sure if it's 10 or 20 or whatever the number is. What percent are you capturing? We talk about what we have, what – maybe as a better way to say this, what percent are we losing?
+
+Yeah. That's a great question, and it's easier to answer it. I mean it's more meaningful to answer it in terms of what we're losing. And right now, we think we're losing about 15% of the trials that we do. And what that means is that someone will do a trial and say, we appreciate it. We don't see a business opportunity here. And so we're hitting the pause button and maybe we'll get back to you later. But we feel like that opportunity is probably lost.
+
+The other 85% can go in a number of different directions. A lot of them – a lot of our customers will say, hey, we're really, really interested, but now, we've got to find a project sponsor or a project budget and we've got to figure out what our timeline is. And so, let's stay in touch. And those – we continue to track those opportunities but they don't necessarily have a dollar value and we don't have a clear line of sight as to when a decision is going to get made.
+
+The rest of those deals convert into sales. And right now, we're converting more deals than we're losing. But that being said, it's an early stage market and I think a lot of these buyers are still trying to figure out their strategies. So we have a lot of opportunities that are in sort of that intermediate zone. They represent substantial future sales for us, but as I noted, the initial sales in some of these large enterprises are taking a long time to close. We're looking at 12-month to 18-month sales cycles. Not all the time, but we certainly see sales cycles of that length.
+
+I also noted though, I just want to reiterate, that once we've gotten into an account, we've seen that subsequent buying stages move a lot faster. We've already – we validated that technology. People have a really – the customer has a clear idea of what their strategic intent is. And for the most part, we've seen all the subsequent sales have been happening pretty much as we expect. They're on schedule.
+
+Thank you.
+
+Thank you. Our next question will come from Orin Hirschman with AIGH Investment Partners.
+
+Hi. It's AIGH. Thank you. How are you both?
+
+Good. Thanks.
+
+Good.
+
+Good. Congratulations on the progress. A handful of unrelated questions. Just I think ClearAg, can you just review the number of customers? And then you had mentioned initial deal sizes of $1 million. Was that $1 million over the course of the year [indiscernible] (47:08) over two years? And also on ClearAg, with Monsanto merger, there are sort of some of these other mega mergers happened. Does that hurt you because of less customers or should we not view it that way?
+
+Okay. A lot of great questions there. The first one is the number of customers. And so we haven't disclosed the number of paying customers, and we're intending to do that right now. And I'll tell you why. As I mentioned, we address three different segments. We want to have more critical mass in each of those segments so that we can provide customer numbers that are going to be meaningful and provide you guys visibility in terms of the trends that are occurring in each of those segments.
+
+Right now, to be honest, we're kind of new with this, and we haven't been really, really thoughtful about segmenting our – as we look at our customer account, we're not being as thoughtful as we need to be about the various segments. I think it would be misleading to give you numbers because you wouldn't necessarily know which segments to count the – to apply the numbers against. So, anyway, that's the first thing.
+
+The other thing that you asked about was the number of – you said something about 10, is that the number of customers? That's the number of trials that we're doing at any given point in time. We try to target to have 10 ongoing enterprise class customer trials per quarter, of which some of those trials are going to result in customer losses and I told you it's about 15%. The other 85% end up in sort of this middle zone where we know they have an interest, but they haven't figured out a timeline or a specific budget to purchase ClearAg. And then the other percent convert to sales. So, 85% of them convert to sales or we maintain that as an opportunity in our pipeline, but we don't have a dollar value or a time to close against that opportunity.
+
+In terms of the $1 million size, what I was saying is that as we look at the various deals that we have with these major crop protection companies, we anticipate that, on average, each of those relationships will have more than a $1 million annual recurring revenue value to Iteris. So I'm not saying that all of the deals that we're pursuing right now are worth $1 million. Some of them are worth a lot more, some of them are smaller. But I'm saying that when we look at each of these major enterprise class crop science customers, of which there are a hundred, we expect them to average over $1 million a year in annual recurring revenue.
+
+And then with respect to the mega mergers, it's interesting and we'll have to see how that plays out for us. We believe, at this point in time, that if the Bayer and the Monsanto merger were to happen, we think that would likely be net beneficial to us, but we don't know. We'll have to see how things like that play out.
+
+Overall, we think that digital agriculture is an absolute competitive necessity for these large crop protection companies. The way we price, there would be some, I guess, some potential revenue reduction if there was like tremendous consolidation. But since most of the pricing is done on a crop-type or geographic basis or a user basis, we'd expect that those dimensions remain relatively the same regardless of the degree of consolidation in the industry. And so we don't see it having an enormous effect. But at the margins, there could be some. We'll have to see how it plays out.
+
+Okay. And so, anything you can say about the different businesses as to what the margins are today versus a longer term [ph] ago (51:25) gross margin?
+
+Yeah, Andy, can you kind of comment on that?
+
+Sure. So, and their transportation business is, once again, fairly consistent, but in the business for quite some time. And when we consider our Roadway Sensors business, that's primarily a hardware business. We're running about 46% gross margin and again pretty darn consistent.
+
+When we're looking on our Transportation Systems business, this last year, we were about 33% margins, and that's up from about high-31%s last year, so that's improving. And Joe has made a lot of comments in terms of our go-to-market in terms of larger deal size, and we're looking at some of these TOC projects and so on, looking at efficiency. That one, we're looking to improve.
+
+Okay.
+
+On the Performance Analytics side, as a overall business, again that overall business has three different key categories to it, but it's about a $5 million per year business right now, and that one's running at about – just because of size and scale, about 25-point margin. But the ClearAg side of it, we believe, is going to model up into 70%s to near 80% gross margin. So, that's going to come up. And just case in point, our fourth quarter with basically ClearAg starting to jump in there, those margins went from the year average 25% to 36%. So, that's going to work its way up very quickly as we add revenue to that line. So, that gives you an idea of overall business at about 39-point margin, as we speak.
+
+Okay. Great.
+
+And did that answer your question?
+
+Yes. Thank you.
+
+Thank you. Our next question will come from Brett Reiss with Janney Montgomery Scott.
+
+Hi, gentlemen. At the end of last year, John Deere purchased a company Precision Planting, which was a subsidiary of Monsanto. I suppose is a value-added service to aid them in selling their tractors because it aided farmers with their crop and weather management. Does Precision Planting do something similar to what ClearAg does?
+
+No. It doesn't. Monsanto acquired a couple different companies. One of them Precision Planting. They divided Precision Planting into two different pieces and divested one to John Deere. Like, arguably, it's related, but I would put it more in the precision agricultural market that I talked about as opposed to the digital agriculture market, and it has more to do with machine-learning technologies.
+
+Not to say that we don't integrate. We definitely have a potential IoT opportunity. We're very interested in machine learning, but we're much more of a big data cloud analytics type business model as opposed to a more hardcore machine-to-machine-type model. So I would say that Precision Planting is roughly related, but it's not, in any way, a competitor.
+
+Is what you are doing something that John Deere could be interested in to put on their tractors to help the farmers or...?
+
+Yes. For sure. So there's definitely – and we have, from time to time, had discussions with John Deere and other equipment manufacturers about collecting machine data and analyzing that in our cloud. We'll continue to look at opportunities and that certainly could represent a market opportunity for ClearAg. It would not be competitive with what John Deere is doing with Precision Planting.
+
+Great. Thanks a lot.
+
+Thank you. [Operator Instructions] Our next question comes from [ph] William Meyers (55:39) with Miller Asset Management.
+
+Hi. Thanks for all the details on ClearAg, but I would like to go back to the Transportation Systems. I think you said that the new backlog, a significant proportion of it was software. And I was wondering, if in Transportation Systems, you're using a Software-as-a-Service model with recurring revenue or would these be one-time software purchases? How would that work?
+
+Yeah. Sure. So we didn't break out the backlog by software and business process outsourcing. What I was distinguishing between is software and business process outsourcing/operation and maintenance versus IDIQ contracts. And so we're trying to be more and more focused on contracts that are quasi recurring or at least revenue is more predictable from month to month than an IDIQ contract which, by the way, IDIQ contracts definitely have a place in our portfolio but we're trying to emphasize that there's an increasing degree of revenue predictability with some of the new contract vehicles that we've won.
+
+But, anyway, to answer your question, well, I don't know the breakdown between software and BPO in the backlog. I will say that the software contracts that we have are both SaaS-like in nature. So we do have some subscription models. We also have more of a typical enterprise license with a maintenance and support kind of element to it. And then there are also instances where it's more of a job shop model where we will develop a software application and then maintain that for a customer. In that case, we don't get the same degree of internal leverage.
+
+One of our strategies is to try to move away from the job shop model and move more into either a classical commercial software model or a SaaS, with SaaS being preferred. But anyway, to answer the question, within Transportation Systems, we do have some subscription models already to-date.
+
+Okay. Thanks. That's all.
+
+Thank you. And next we will hear from Matt Sweeney with Laughing Water Capital.
+
+How are you doing, guys? Thanks for taking the call. Real quickly on the transportation business and I guess, sensors and transportation together. You had previously commented at some of the sell-side events that those businesses, in hypothetical independent situation, would be kicking off around $8 million in free cash flow. Just curious if you had any update on that number or that type of guidance given your projections for growth as well as margin improvement going forward.
+
+And I'm also curious of that $8 million number, if that's a tax-effected number or if that's a non-tax number assuming that you wouldn't be paying tax since, in reality, that cash flow is not flowing through due to the investments on the other businesses.
+
+Sure. This is Andy. Yeah, sure. That number is a good estimate. But tax-effected or not, it's just pure cash. Again, you can look at our – it helps us our segment reporting that's certainly out on our press release and the 8-K and whatnot, and you can take a look at the two transportation businesses, and they're almost $13 million in operating income, and that's before certain corporate expenses. So, that's another metric that you can always look at in terms of how we report our numbers. It gives you an idea, again, nice and healthy businesses that create significant cash.
+
+So, in summary, the $8 million is still the number going forward? There's no upside to that given projected growth on margin expansion?
+
+It could well be, but we're not providing the refresh number on that.
+
+Okay. Thank you very much.
+
+We do have a follow-up at this time from [ph] Joel Slutzky with TLP (59:45).
+
+Yeah. It was a quick one. The private equity investments in this space, which I commented on, I've been reading a lot about them, and where are we relative to those competitors? Are we ahead? Are any of them directly competitive to what you're doing?
+
+Well, [ph] Joel (01:00:09), that's a great – I mean there are a lot of venture capital-backed companies and then there are also a lot of growth equity-backed companies that are targeting the larger ag tech market and there are – I don't think that there's anyone with our business model. We are unique in that we are a platform that crop protection companies that allied providers can embed into their business processes or their applications and that we also support farmers themselves, growers. There are no other companies like us that serve all three of those segments.
+
+That being said, we obviously do have competitors in some of those segments. For the most part, it's limited to the direct-to-grower market. And again, none of them are like exactly like-for-like competitors, but we certainly do run into people. I think that a lot of people see a big opportunity in ag tech, and that's exactly why you're seeing a lot of smart investors who have very successful track record in venture capital and in growth equity. They're focused on this segment. And we think it's a great segment to be in. It's got a lot of really positive fundamentals.
+
+Thanks.
+
+And ladies and gentlemen, this does conclude our question-and-answer session for today. At this time, I'd like to turn the conference over to management for any additional or closing remarks.
+
+Great. Thank you, operator. We appreciate everyone's support and lots of great thoughtful questions today. Again, thank you and we look forward to updating you on our continued progress very soon on our first quarter conference call. Thanks again, everybody.
+
+Thank you. And again, ladies and gentlemen, that does conclude our conference for today. We thank you for your participation.

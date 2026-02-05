@@ -1,0 +1,196 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+Matt Chesler — Partner, FNK IR
+Kent Jacobs — President & Interim Chief Executive Officer, FLYHT Aerospace Solutions Ltd.
+Alana Forbes — Chief Financial Officer, FLYHT Aerospace Solutions Ltd.
+Kris Tuttle — Analyst, IPO Candy
+Richard Ryan — Analyst, The Oak Ridge Financial Services Group, Inc.
+
+Management Discussion Section
+
+Question And Answer Section
+
+Thank you for standing by. This is the conference operator. Welcome to the FLYHT Aerospace Solutions Second Quarter 2023 Results Conference Call. As a reminder, all participants are in listen-only mode. The conference is being recorded. After the presentation, there will be an opportunity to ask questions. [Operator Instructions] Due to the volume of questions expected on today's call, we ask that you please limit your question to three to allow time for others in the queue. If there are any outstanding questions at the end of the call, the company will be happy to take them by e-mail to investors@flyht.com.
+
+I would now like to turn the conference over to Matt Chesler, Investor Relations. Please go ahead.
+
+Thank you for joining our second quarter 2023 earnings call. On the call with me today is Kent Jacobs, President and Interim CEO for FLYHT; and Alana Forbes, FLYHT's Chief Financial Officer. On our website, flyht.com, we posted a press release covering the information we'll review today, as well as a webcast of today's conference call. An archived version of the call will be posted on the Investor Relations section of FLYHT's website as soon as it is available from the conference call provider.
+
+But before we start, I'd like to remind everyone to read the forward-looking statements and non-GAAP financial and other information that we've included in our quarterly report. Certain of the statements made today may constitute forward-looking statements. And these statements are our present expectations. Relevant factors that could cause actual results to differ materially are listed in our earnings materials and in our SEDAR filings, including our quarterly report, which is filed on SEDAR. During the course of this morning's call, we'll discuss our non-GAAP measures. You can find a reconciliation of these to the nearest comparable GAAP measures in the quarterly report.
+
+And with that, I'd like to turn the call over to Kent. Take it away, Kent.
+
+Thank you, Matt. Good morning, everyone, and thank you for joining us. I'm looking forward to the opportunity to review our Q2 results, and I appreciate your time and interest in FLYHT.
+
+Halfway through 2023, FLYHT's future is looking brighter than ever. After persevering through the pandemic and the loss in December of our former CEO, Bill Tempany, our team remains deeply committed and focused as we – as the demand for our solution continues to grow. Our entire organization is energized as we are on the cusp of delivering on two of our most promising incremental initiatives, the AFIRS Edge and our weather opportunities.
+
+I will begin by discussing some macro factors in the global aviation industry, then I'll discuss many of the positive developments that occurred in our second quarter. Global air passenger demand recorded solid growth in May, with industry-wide revenue passenger-kilometers increasing more than 39% year-on-year and reaching 96% pre-pandemic levels. For the second month in a row, domestic RPK outperformed their pre-COVID level rising 5.3% above 2019 value. Internationally, revenue passenger-kilometers continued to increase in May, growing by nearly 41% year-on-year and restoring 91% of their 2019 level. All regions experienced a positive trend in international traffic demand while Asia Pacific continued to stand out with more than 156% annual growth. Carriers in the Middle East and North America fully recovered their international passenger traffic with RPKs of 17% and 1.8% above 2019 levels, respectively.
+
+Moving on to FLYHT, our flagship product, the AFIRS 228 continues its proven track record with more than 4,000 aircraft utilizing the Iridium Satcom solution. And this quarter, we reached a major milestone with over 5 million cumulative flight hours being reached. This speaks volumes to longevity our solutions have with over 20 years supporting the global aviation industry. Importantly, our long-term AFIRS 228 customers continued to renew with us for multiyear commitments and are increasingly doing so with expanded fleet. Our licensing business remains strong, and we received an additional large order from our long-term OEM partner. This represented the fifth order from this customer over the past three years with an aggregate value over CAD 11 million.
+
+The commercialization of FLYHT's 5G-enabled Wireless Quick Access Recorder, the AFIRS Edge, is making significant progress as we recently announced our first contract for the Edge to be installed on a fleet of Boeing 737 MAX aircraft. Interest continues to grow for FLYHT-WVSS-II water vapor sensor system in conjunction with either an AFIRS Edge or an AFIRS 228 to provide aircraft-based observations. Real-time aircraft-based observations containing relative humidity data from the WVSS-II sensor provides critical data for weather forecasting model. This presents us with a unique opportunity to support airlines and the world's major national meteorological agencies in their efforts to enhance weather forecasting, improve airline operation, and reduce aviation's impact on the environment. Our conversations with UK Met continue to advance in a positive direction as we ready ourselves to further scale the business and accelerate towards these new and exciting opportunities.
+
+FLYHT posted a number of notable achievements in the quarter. In May, we signed two new commercial agreements; the first with Sichuan Airlines, the largest airline in Western China, and the second with Bahamasair, the national airline of the Bahamas. These agreements are for satcom hardware and for recurring software services, and we believe these two contracts signal the ongoing recovery of global aviation. In June, FLYHT announced an agreement with Flair Airlines, Canada's leading independent, ultra-low-cost airline, to purchase AFIRS Edge hardware and Actionable Intelligence services for Flair's fleet of Boeing 737 MAX aircraft. This is particularly meaningful for us as this is the first agreement for FLYHT's AFIRS Edge product, and it includes the SaaS offerings of ClearPort and FuelSense. Also in June, FLYHT announced we received a $1.4 million purchase order for the Iridium modems and license fee from a longtime OEM partner. This partner licenses FLYHT technology and delivered the AFIRS 228 system to their European airframe customer to have the AFIRS directly installed on aircraft that they manufactured.
+
+Additionally, I would like to publicly welcome our two outstanding new directors who joined the company at the AGM in May. Nancy Young is a globally recognized sustainability and environmental attorney and consultant with over 25 years' experience in climate change, aviation environmental matters, environmental and social governance, and sustainable aviation fuels. Pete Large is a senior technology executive with years of experience spanning transportation, aviation, space, civil infrastructure and construction, including specific expertise in transforming how work is done through data-driven digital technologies to provide better business insights, decision-making, efficiency, safety, [ph] first-time (00:08:22) quality and sustainability.
+
+Adding a proven technology and sustainability expertise to FLYHT's board helps validate the progress we have made in establishing our company as a leader in real-time data and insights to improve aviation and the world around us. With Nancy and Pete on our team, we're extremely well-positioned to continue to address the important and complex issue of technological change in aviation, operational efficiency, and environmental necessity.
+
+I'd now like to turn the call over to Alana for a review of our financial performance.
+
+Thank you, Kent. I will begin by reviewing second quarter 2023 results. Then we'll discuss key operating metrics. FLYHT delivered a robust 24% year-over-year and 27% sequential increase in total revenue to CAD 6 million in Q2. All four of our revenue categories – SaaS, hardware, licensing and technical services – increased from Q2 2022 to 2023. First off, SaaS revenue increased by 25% to CAD 2.7 million. Post-pandemic recovery of the company's customer base, together with an increase in weather data being provided to meteorological organizations, contributed to this increase.
+
+Hardware revenue increased 28% to CAD 1.2 million in Q2 2023 over Q2 2022. A total of 15 installation kits were shipped in the quarter equaling the 15 shipped in last year's Q2. Revenue per [ph] shipped kit (00:10:05) will vary based on the aircraft type in combination with the AFIRS variant chosen for install. Licensing revenue increased by 2% to CAD 1.4 million in the quarter due to increases in the number of modems and associated licenses orders for delivery in comparative period. Technical services revenue increased 81% to CAD 747,000 in the quarter compared to the same quarter last year as a result of data migration project work delivered on, as well as an increase in customer requests for certification services. The addition of CrossConsense services to this tech revenue category started in late Q1 of 2022.
+
+In terms of profitability, we reported a strong quarter of margins with Q2 gross margins coming in at 59.6%, increasing 380 basis points year-over-year compared to 55.8% reported for the same period last year. This year-over-year increase in gross margin was driven primarily by our growing SaaS revenue, which, as previously mentioned, increased 25% year-over-year.
+
+Total operating expenses decreased by 4% to CAD 3.6 million in the quarter compared to CAD 3.7 million reported in the same period last year. Distribution expenses increased 19% over last year, mainly due to the effect of COVID-19-related government grants received in 2022 that were no longer available in 2023. This was offset by year-over-year decreases in both administration and research and development expenses. Administration expenses decreased 22% year-over-year mainly due to a reduction in salaries and benefits and contract labor. R&D expenses decreased 9% year-over-year due to a variance in specific project requirements.
+
+EBITDA rebounded to a positive CAD 168,000 compared to a loss of CAD 906,000 during the same period last year. Net loss was CAD 169,000 compared to a loss of CAD 1.1 million reported in the same period last year, representing a positive variance of CAD 972,000. Our results showed positive income from operating activities in Q2. At June 30, the company had working capital of CAD 2.3 million compared to CAD 4.3 million as of December 31, 2022, a decrease of CAD 2 million. The company ended the quarter with balances of CAD 1.7 million in cash and cash equivalents and an undrawn credit facility of CAD 2 million.
+
+It is the company's intention to continue to fund operations by adding a higher-margin revenue and its resulting cash flow, including from the recent large OEM licensing order, which certainly bolsters our near-term cash position, particularly in the third and fourth quarter. We are really fortunate to have a suite of existing services that generate cash flow, which allow us to invest for the future. And our team is always considering our pricing strategies, payment term options, and ways to reduce our costs where possible, without negatively impacting our ability to deliver quality product, ensuring that we continue to have the financial resources at our disposal to move swiftly as we go after these large and exciting opportunities.
+
+Now, looking ahead, we expect continued growth in our business driven by the ongoing recovery of the global aviation industry, as well as the execution of our strategy. We expect over the coming years Edge platform sales will drive increased hardware sales and that SaaS revenue will likewise enjoy continued growth. A second phase of SaaS growth should occur as the installed base of Edge platforms increases and customers recognize and accept the tremendous value that our software solutions provide to their operations.
+
+And with that, we do have several questions that have come in at investors@flyht.com that we'd like to address.
+
+So, the first has to do with STC. So, which STCs are currently in the process of acquisition, for which aircraft types, in which jurisdiction, at what stage are they in the process? Are any contract announcements pending receipt of an STC? Will WestJet be taking the Edge along with AFIRS Satcom for its entire fleet? That's a big question. Kent?
+
+There's a lot to that, so I'll try and knock it off one part at a time. Which STCs are currently in process of acquisition? We're actively working on the Boeing 737 MAX and the Boeing 737 NG and the A320 STCs. The jurisdiction that we're completing those STCs in is Canada. And the idea is that we will familiarize those once we've completed them in Canada to the other jurisdictions like the US through the FAA and EASA.
+
+The state of those is that we've completed the provision STC, and we're doing the installation so that we can get the activation STC. It's a two-stage process. We're more than halfway through. We've done the provisions. We're in the process of doing the installation. The aircraft types, as mentioned, the A320 and the Boeing 737 NG and Boeing 737 MAX. Our jurisdiction is in Canada where we're starting. There are no direct contract announcements pending in SEC. And with WestJet, we're hoping to work with them on the sale of the Edge, along with AFIRS Satcom that we've been [ph] fighting them (00:16:06) for years.
+
+Okay. The next [indiscernible] (00:16:11) is weather, one of our favorite topics. Has Loganair been performing tests of the WVSS-II with the Edge for UK Met? I think that's probably in answer to Loganair's support for our STC work that we posted on social media recently. Will their fleet be the 30 aircraft that will fulfill that contract? Has the deposit been received towards installations as of yet? When will FLYHT start seeing actual revenue from the agreement of the five or so global meteorological offices that FLYHT sees as being similarly interested, which is likely to be next? At what stage are talks with them? After about three years now, where is the ECCC in Canada on their trial? ECCC being the UK equivalent, Environment Canada. Kent, do you want to address that?
+
+Yeah. Again, it's a great question, and there's a lot there. Look, FLYHT has been working very hard with UK Met and with airlines that will be taking the WVSS-II, the FLYHT- WVSS-II sensor and so we can meet the contract with UK Met. With Loganair, we've been able to do an investigation on their aircraft, the aircraft type, and that's – Loganair's a possibility for us to be able to work on that contract with the UK Met.
+
+When we're going to start seeing actual revenue from the agreement? Once the agreement is signed, and we have the product on the aircraft with the SaaS opportunity, and we will be pushing for that, and we'll be generating the data, the aircraft-based observations, the moment the installations are complete.
+
+Of the five or so global meteorological offices, FLYHT is working very closely with UK Met, but also with NOAA. NOAA is a customer of ours right now. They receive our data, and we're looking to expand the relationship not only with UK Met but also with NOAA. The other agencies around the world, the other primary weather agencies around the world are very much waiting to see how the process with UK Met and NOAA falls out. So, as we complete those deals with UK Met and NOAA, we expect other agencies to definitely pay attention, and we think it's a huge opportunity for us moving forward.
+
+What is the stage of the talks with them? We're always in talks with the various weather agencies around the world. As I mentioned, there's an element of waiting to see how the two flagship ones, UK Met and NOAA respond with FLYHT.
+
+And with regards to Canada on their trial, FLYHT has been supplying the environment agency in Canada with data for a year. There is no trial there. We're supplying them with aircraft-based observations, have been for a long time, and we don't see that changing.
+
+And that's under contract. They're – that's a paid arrangement. Yeah. [indiscernible] (00:19:20).
+
+Yeah.
+
+Good question. Okay. The next batch of the major commercial aircraft types, what is the preferred make or model for the installation of the Edge or WVSS-II, and why? What commercial flight characteristics are the most appealing to the met offices to gather the data they want?
+
+When it comes to the preferred make or model, the installation of the Edge or the WVSS, we're happy to supply the Edge product or the AFIRS 228 with a WVSS on any aircraft type. We don't have a preference other than to say we're focusing on the A320 and the Boeing 737 NG and Boeing 737 MAX fleets right now. So, they would be great aircraft. And we like those because they have – they're the most popular aircraft on the aircraft – on the planet, and they give us that best opportunity. But a preferred make or model, something that we have yet to see for, would always be – would be preferred.
+
+When it comes to commercial flight characteristics that are most appealing to the met offices, it's the location where the aircraft are flying that is the primary driver for the data that the met office would like. So, if the met offices are looking for information in parts of Africa or if met offices are looking for information from certain regions in China or anywhere on the world, that's the largest factor for those met agencies. Having said that, it is the ascent – the departure and the descent of the aircraft that are also the most valuable. The on-route data that is collected while the plane is in cruise is very valuable, but not quite as valuable as the information as the aircraft goes up and down through the atmosphere. Yeah.
+
+Okay. Is the WVSS II seen as preferred over the TAMDAR sensor? Do they accomplish different tasks? Would both ever be installed on the same aircraft?
+
+You would never install the TAMDAR probe and the WVSS-II on the same aircraft. It could be done, but it wouldn't – there's no benefit to it. The primary parameters that are gathered from the TAMDAR probe and the WVSS-II that is of value to the met agencies is the relative humidity. The TAMDAR sensor does have independent collection of some data that allows for aircraft-based observations to be captured off aircraft types that don't have a rich [ph] database (00:22:04) to provide that other core information, things like wind speed, wind direction, and temperature. But the aircraft that we're dealing with, especially with the A320s, Boeing 737 NGs and the Boeing 737 MAXs and the other aircraft that we're targeting with our STC, they have that information from the aircraft. So, you wouldn't install the two products on the same aircraft. The preference is for the WVSS-II. It's a different technology. It's a more the advanced product.
+
+Great. So, those are all of the questions that we received in advance. Sierra, we'll turn the call back to you. And we'll be pleased to take call – questions from callers.
+
+Thank you. We will now begin the analyst question-and-answer session. [Operator Instructions] The first question comes from [ph] Bruce Krugel (00:23:28), a private investor. Please go ahead.
+
+Hi, Kent. Hi, Alana. I'm seeing that the expenses are being quite nicely controlled. What is of note in the current quarter is R&D declined sequentially. Would that suggest that Edge 228 (sic) [AFIRS 228] (00:23:50) and Actionable Intelligence development is starting to tail off?
+
+I would say that it's varying quarter-over-quarter for several reasons. Each of the products that are in development have different needs at different points in their development. Our Edge product, what the focus is for that product right now is on STC activity mainly, although there is some, in particular software development, that is still required. But the hardware development is approaching its final piece for the – on the flange side anyway. The 4MCU variant will require more hardware development and some software development. But our focus right now is on the STC work.
+
+There's – [ph] Bruce (00:24:55), there are always SaaS opportunities for us to continue on with the data that's collected specifically off the Edge. And so, that R&D activity will always remain. But we can ramp up and bring that up and down as quickly and as much as needed. But from the hardware standpoint, as Alana mentioned, we're well on the way, especially with the flange.
+
+Yeah. We're trying to be really careful with our expenses and cash flow. And that is – there are several levers that we have at our disposal. And one of those is where exactly to push our R&D dollars in any quarter.
+
+Okay Maybe these two questions are related. So, SaaS revs increased quite nicely on a sequential basis, and European revenues increased on a sequential basis. I know you mentioned weather in your narrative. I'm just wondering if an additional contribution to the increase in sequential SaaS revs is nice traction or decent growth coming out of CrossConsense.
+
+I would say about a quarter of it was resulting from an increase in the CrossConsense shipment.
+
+So, the balance there – or weather, which would suggest that weather's starting to get traction back. And the reason I'm asking is, in my analysis, the weather SaaS – the SaaS revs from weather were quite substantial. Are you starting to see a recovery back to historic levels in that regard?
+
+We are. Yeah. Yeah, we are. [indiscernible]
+
+(00:26:42)
+
+Yeah.
+
+Yeah, it is.
+
+Okay. And then – okay, sorry. And then my final question, the WVSS device can interface with both the AFIRS 228 and the Edge box. Are you seeing any preference from customers what their inclination is? Do they prefer the AFIRS 228, or they're just waiting for the Edge device development to be completed?
+
+First of all, you're absolutely correct, the WVSS-II [indiscernible] (00:27:11) can interface directly with an AFIRS 228 or the AFIRS Edge. And, no, we're not seeing a preference. The value to many airlines when they incorporate the WVSS with an Edge or an AFIRS 228 is the combination of not just the information that's gathered for AVOs but also for all the other services that the AFIRS products provide. So, no, we haven't seen a leaning one way or another towards the AFIRS 228 with the traditional satcom or the new Edge with the 5G capability. Both are capable. And both are being considered by our airline partners.
+
+Okay. Great. Thanks. Those are all my questions.
+
+Thanks, [ph] Bruce (00:27:56).
+
+Thank you, [ph] Bruce (00:27:57).
+
+The next question comes from Kris Tuttle with IPO Candy. Please go ahead.
+
+Hey, thanks and congratulations, guys, on the top line and the margins. Really good. I did have a question on – a couple questions. One on – in AFIRS, how would you characterize either the backlog or the pipeline? I'm not sure how you look at it for AFIRS and maybe some color on the mix between the AFIRS 228 versus the Edge in there?
+
+Sure. So, I think I can answer the question in kind of in two components, one being the backlog, the second being the pipeline. The backlog is comprised of everything that's been contracted to-date that we have yet to deliver that we anticipate to be delivered in the medium term. The backlog is largely AFIRS 228 business. It's – so it's a combination of our hardware and SaaS services. It's the – the contracted backlog currently is around the CAD 20 million mark, and it's about half hardware and then half SaaS services. Looking at our pipeline, we do have a decent pipeline for the AFIRS 228 program. However, the majority of that pipeline is the Edge product. I'd say about 60% to 65% of our outstanding pipeline is for the Edge product.
+
+Okay. That's helpful, Alana. Thank you. One question from a customer perspective. Those that are going with the AFIRS 228 today, have they asked, or is there kind of an upgrade option for them if they want to go with the AFIRS 228 today but interested in shifting over potentially to the Edge? Is that something that is part of your market dynamics, or is that just not something that they ask for?
+
+No, it's – that's a really interesting question. The AFIRS Edge and the AFIRS 228 are very complementary product. The Edge is not a flat-out replacement or upgrade of the AFIRS 228. The AFIRS 228 provides satcom capabilities, both voice and data, and the ATC, Air Traffic Control, data communication capabilities. And customers that have chosen the AFIRS 228 or are considering the AFIRS 228 may very well consider the Edge in parallel to that. In fact, we have multiple opportunities right now where both products are being considered by airlines at the same time, where they would purchase an AFIRS 228 and an Edge. So, an upgrade path for the AFIRS 228 to the Edge is not really something that we're looking at. It's more so if you have an AFIRS 228 already on your fleet, you would consider adding the AFIRS Edge to it to get the additional 5G capability that the AFIRS 228 doesn't provide. So, they're complementary products. Yeah. And we're actually seeing a lot of interest in both on the same aircraft.
+
+Oh, that's great. That's obviously super helpful. Thank you. Shifting over to weather for a second, I know you don't control the timelines here. But I'm wondering if the key agencies that you're working with now, like NOAA in the UK, do they have goals, or have they expressed their desires in terms of a timeline for making decisions that will affect your contracts with them?
+
+Yeah. I feel the pain [indiscernible] (00:32:07). It's so difficult because sometimes these contract negotiations take so much longer than expected. And the agencies that we're dealing with are very much interested in completing the contract negotiations and getting onto the program. They may be government agencies, and they may be fairly bureaucratic, but the people in those programs are desperate for the data. They want it as much as we want to give it to them. So, the timelines are always being – they're always being considered. We push as hard as we can. And often, from the government side, they're pushing hard to get through the negotiations and to get the product on the aircraft.
+
+Okay. Well, yeah, I guess we don't know what we don't know. Last question for me and also on the weather side, so I know some of the congressional testimony, you guys were testifying as was a satellite provider. And from your perspective, are airframe-based sensors complementary to satellite? Are there key advantages that satellite-based versus airframe deliver, or it's just going to be both? I was just – I'd love to get a little bit of perspective from you on that.
+
+Yeah. Look, satellite-based imagery is great. It can provide coverage around the world, but there are significant limitations to it. And the further you come down to the atmosphere, with the satellite-based imagery, the less accurate and the less reliable the information becomes. The testimony that was given by FLYHT and by other groups a couple of months ago, it demonstrated that we really do believe that the weather-based observations, the AVOs of the aircraft, flying through the actual mass of air that is being recorded and reported on is absolutely key to the weather models around the world. The aircraft-based observations have been identified as the second most valuable input to weather models that are run by organizations like NOAA and UK Met. It is that critical to the models.
+
+Okay. Yeah, I can appreciate that. There's no way you're going to get that data other than to have sensors in the atmosphere.
+
+That's correct.
+
+Yeah, it's a...
+
+Yeah.
+
+Yeah, I was just going to say that's good for me. I'll let others jump in. Thanks, guys, again and congratulations.
+
+Thanks, Kris.
+
+Thank you, Kris.
+
+The next question comes from Dick Ryan with Oak Ridge Financial. Please go ahead.
+
+Thank you. So, Kent, on the $1.4 million license award, what's the timing? How should that flow when we look at Q3? Is it – has some of that already gone out in Q2? And what's the prospect of kind of getting follow-on orders from some L3?
+
+We expect that to flow through in Q3.
+
+Yeah, with the majority – the majority came through in Q2, and the remainder...
+
+In Q3
+
+...in Q3.
+
+Thank you, Alana. Yeah. So, that's the way it's spread out between the two. The follow-on orders, as for follow-on orders, look, the licensing is – as Alana has always described, is being lumpy. It comes and goes. It often comes when we're not entirely expecting it. I don't know where we stand with the next orders that will come through. What I do know is that the aircraft – the airframer, the manufacturer, the OEM that uses the product is the most successful on the planet. They build a lot of aircraft. But looking forward are – we don't get a lot of information regarding what's coming down the pipe in that regard. It's a matter of wait and see.
+
+Yeah. And I should also mention, while revenues were split between Q2 and Q3 for that order, all of the cash, none of it was received in Q2. So, that is expected to be received in Q3, which will help fund the rest of the year.
+
+Okay. Great. Thank you. When you look at the [indiscernible] (00:37:01), what's your sales group hearing from their conversations? The incumbent has a big market share. Anything on the competitive landscape that's changing whether it's just to plug and do a 4G LTE, or is there anything else occurring on the 5G side?
+
+Regarding the competitive landscape, we still don't see any direct competition in that 5G space. So, FLYHT is – we're the ones – we're the only ones that are talking about 5G capability of product at the various shows and at the conferences that we're attending. That doesn't mean that there won't eventually be competition in that space. But right now, it's ours for the taking. The quicker that we get the STCs completed, and we start putting the products on the plane, we secure our position in that. So, nothing really new to report on the competitive space.
+
+Have there been significant decisions made by airlines just to do the plug approach, 4G LTE for now and push the 5G decision down the road [ph] a ways (00:38:24)? Or are the airlines sitting back waiting to make those decisions?
+
+Yeah, that's a good question. And I think what we're seeing is a bit of a mix there. So, some airlines have made the choice, and some of them made the choice years ago, to upgrade to the LTE option, which gives them better coverage and better product for a few more years. But we know that that's going to end in the next few years. But there are definitely airlines that made that choice. Some made it before FLYHT even introduced the 5G product. There are airlines that are considering still the LTE product. And they definitely recognize the limitations of it at this point. So, there is a bit of a push from our competition on that LTE side. We think we're very well-positioned to address it and to deal with it. It's a great conversation. We're glad to have it with any airline. But, yeah, the LTE option, it does remain, but we're confident that the 5G product is the way to move forward. It is where the airlines will eventually go.
+
+Okay. Thank you. So, just one last one on the UK Met, you covered that pretty well, but it – has the scope of work in your negotiations with them, has it increased, decreased, stayed about the same level that you've talked about in the past? Just wondering how kind of the ultimate award could be versus what early expectations have been.
+
+Our conversations continue with the UK Met. We're getting closer all the time with them. The conversations have remained largely the same. However, I will say that there are possibilities for increased number of aircraft under that proposed contract heading into the future. So, I could see, in addition to the hardware and the SaaS opportunity that's contemplated at the moment, that there would be room for growth.
+
+Great. Thank you.
+
+Thanks, Dick.
+
+Thank you.
+
+This concludes the question-and-answer session. I would like to turn the conference back over to Mr. Kent Jacobs for any closing remarks. Please go ahead.
+
+Thank you very much. And I want to thank everybody for your time today. I hope everybody is having a great summer, enjoying a bit of time off. And I hope that everybody is excited as we are here at FLYHT. As we look forward to the third quarter, the remainder of this year and into 2024, the excitement around the release and the initial installations of the AFIRS Edge is driving a lot of energy and excitement here in our organization. We're right on the cusp of something with the met agencies. We're so excited about it. It's going to be confirmation that we've made some great choices in the past, and we're very excited about what's going to happen in the next few months and what's going to happen in the next few years. So, thank you, everybody, for your time and your interest in FLYHT.
+
+This concludes today's conference call. You may disconnect your lines. Thank you for participating and have a pleasant day.

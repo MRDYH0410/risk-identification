@@ -1,0 +1,215 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+Thomas R. Schmutz — Chief Executive Officer, FLYHT Aerospace Solutions Ltd.
+Alana Forbes — Chief Financial Officer, FLYHT Aerospace Solutions Ltd.
+Marc Berger — Analyst, MKB Associates, Inc.
+George John Melas-Kyriazi — Analyst, MKH Management Company LLC
+
+Management Discussion Section
+
+Question And Answer Section
+
+Welcome to the FLYHT Aerospace Solutions' First Quarter Conference Call. As a reminder, all participants are in listen-only mode and the conference is being recorded. After the presentation, there will be an opportunity to ask questions. [Operator Instructions] Due to the volume of questions expected on today's call, we ask that you please limit your questions to three to allow time for others in the queue. If there are any outstanding questions at the end of the call, the company will be happy to take them by e-mail to investors@flyht.com.
+
+I would now like to turn the conference over to Mr. Tom Schmutz, Chief Executive Officer for FLYHT. Please go ahead, sir.
+
+Thank you, Carl. I hope everybody that's listening is healthy and safe. This conference call is being recorded and will be published on FLYHT's website, in our Presentations and Webcast within a day or so of this broadcast. After Alana and my presentations, we'll answer any e-mailed questions and then take live questions.
+
+FLYHT finished Q1 2020 with approximately CAD 5.3 million in revenue and with a positive EBITDA of approximately $730,000. This performance was driven by best ever quarters in software-as-a-service and licensing revenues. However, by the time the quarter finished, the COVID-19 pandemic was raging and the landscape per flight and most other corporations had changed in significant ways.
+
+Despite this, FLYHT was able to celebrate some key sales wins and had several positive media exposures about the company and our place in the industry. The first quarter was dominated with revenues in licensing and SaaS. These two revenue categories represented 94% of the total revenue in the quarter. The SaaS in Q1 2020 set a quarterly record and was 1% higher than in Q4 2019 and was 14% better than Q1 of 2019. We have seen consistent growth in this area. So, this was not unexpected.
+
+Licensing revenue was unusually large and set a quarterly record at approximately CAD 2.3 million, or 499% larger than one year ago. Historically, our licensing revenue has been lumpy. We typically see a bigger quarter surrounded by smaller quarters. The timing of this big quarter in licensing revenue was particularly welcome, because our Q1 hardware revenue was disappointing, down 90% relative to one year ago. While we have a very strong backlog of hardware units, very few of our customers were looking for shipments in the first quarter and several that were rescheduled as a result of the impact of the virus. As a result, we only shipped three kits in the first quarter. Despite this, the profitable finish to the quarter was welcomed.
+
+Alana Forbes will take us through a more detailed evaluation of the Q1 financials. Alana?
+
+Thanks, Tom. Thank you all for joining us on this call and I hope everyone is well. I will start with a review of the income statements and then highlight the larger moves on our balance sheet over the past quarter. At CAD 5.3 million, Q1 revenue from traditional sources was CAD 47,000 less than in Q1 2019. SaaS revenues increased by 14% to CAD 2.7 million from CAD 2.4 million in Q1 2019. The increase in SaaS revenue was a combination of a 3% decrease in US dollar amount billable to our customers, buoyed up by an increase in the US dollar value as compared to the Canadian dollar. SaaS revenues accounted for 52% of total revenue in Q1 2020 compared to 45% of total revenue in the same period last year.
+
+There were two obvious moves in the mix of revenues this past quarter, with much higher than average licensing revenues making up for low hardware revenues as compared to Q1 2019. Two large shipments of IP licenses and associated modems made all the difference in maintaining a consistent level of total revenue in the quarter and also hope to maintain a healthy bottom line, as licensing revenue is our highest margin revenue source. Lower hardware revenues were expected, particularly throughout March as operators react to the COVID situation by conserving cash, therefore not outlaying funds for installation kits. We shipped three installation kits this past quarter as compared to 38 in Q1 2019.
+
+Gross margins in the first quarter of 2020 were 75% compared to 55% in Q1 2019, again, reflecting the significantly higher margins associated with licensing revenue. Operating expenses increased 11% from CAD 3.7 million in Q1 2019 to CAD 4.1 million in Q1 2020. The increases were a combination of increased people costs, partially offset by decreases in other areas as we contain costs in certain areas, while COVID remains a factor. A portion of the increase was also the result of a 2020 escalation and depreciation recognized as we accelerated our departure date from our existing facility in Calgary, in anticipation of moving into our new Calgary headquarters shortly.
+
+The other income of CAD 628,000 earned in Q1 2020 was the recognition of the final subsidy amount from Panasonic, associated with our October 2018 acquisition of Panasonic Weather Solutions, came in through a transition period ending March 31, 2020, were made quarterly on a total subsidy of $4.3 million. A large change in finance cost shows the effect of the increasing value of the US dollar as compared to the Canadian throughout the quarter, the same period in 2019 reflected the offices movement. So, our 2020 results show a positive impact as compared to the negative impact in Q1 2019.
+
+And as we turn to our balance sheet, there are a few areas of change since 2019 year's end. The increase in trade and other receivables carried at the end of this first quarter is the result of both anticipated and negotiated delays in payments being received from our customers. Our trade payable balances have also increased as we have in turn been negotiating extended terms with our larger suppliers, though we are able to remain conservative with our cash flow given delays in receipt of customer payments.
+
+We took possession of our new headquarters in Calgary on March 1st and are in construction mode, ensuring the facility is ready for a move-in date in early summer of 2020. Taking possession triggered recognition of both the assets and its associated lease liability on the balance sheet, with both being added at the present value of the future lease payments, in line with the requirements of IFRS 16.
+
+While we are awaiting governmental guidance that will inform our plan for a return of our workforce to our office location and the majority of our employees continue to work from home at the moment, we are excited for a fresh start in the new space, designed to meet our anticipated needs long into the future. All in all, we were pleased with total revenue that was materially comparable to Q1 2019 and with a positive net income result for Q1.
+
+Now, back to Tom, for an update on the effects of the COVID-19 pandemic on FLYHT.
+
+Thanks, Alana. On March 25th, FLYHT published a press release that highlighted the company's response to the virus outbreak, which remains largely unchanged. We've instituted a short-term travel ban since mid-March and have the majority of the company, as Alana mentioned, working from their homes and according to local requirements. We have remained very focused on protecting our cash reserves, so we have not filled several planned or vacant positions, and have had to prioritize the development of some features and delay others to reduce cash burn.
+
+We have implemented some very specific cost-cutting measures within the company and have pursued disaster grant and loan assistance in the United States and Canada. We believe, we will be successful in several of these pursuits and we'll announce any new information as it is required.
+
+There continues to be a significant reduction in flights worldwide since the onset of the pandemic. FLYHT can measure the impact to its own customers by evaluating the data that we collect on UpTime, our enterprise server, from which we provide many of our SaaS services.
+
+For the airlines that were served from UpTime, the average daily number of flights in April 2020 was only 48% of the average daily number of flights in April of 2019. Highlighting the rapid reduction in worldwide flights, the average daily number of flights in April 2020 was only 64% of the average daily number of flights in the month prior, March 2020. So, flights are down about 50% from last year and have reduced about 36% from March to April. This makes sense, given where we are in the worldwide crisis now.
+
+There is some good news, however, I alluded to on the last conference call. China being the first country affected by the virus also appears to be one of the first countries recovering from a commercial aviation standpoint. When we compare the UpTime average daily flights between January and April of this year for the rest of the world and compared to China, the rest of the world flights are only 35% of what they were in January of this year, while the average daily number of Chinese flights in April are 59% of what they were in January, which was a relative [ph] maxima (09:32) in China.
+
+The worst month for China in average daily number of flights was February, which was down 63% from January, about where the rest of the world is now in that time. Comparing the average daily flights in China between April and February, we see a 60% increase in daily flights. So, if April proves to be the rest of the world average daily minimum in UpTime, which seems reasonable given the loosening of restrictions around the world right now, perhaps we can expect a 60% or similar increase in the worldwide flights minus China in two months or by June.
+
+This positive trend is supported by a report from FlightAware, which reports the world commercial aviation traffic has increased six days in a row, the first time this trend was observed since the virus shut down. As I mentioned, UpTime along with our AirMap portal are the enterprise servers that we use to serve SaaS applications to our customers, airlines and lessors. The growth in the SaaS revenues is a focus of our company.
+
+We see the industry needing to rely on better information to be successful in the relaunch of aviation services from the obvious difficulties the pandemic is creating. FLYHT has a long heritage of value added products from the data collected by our AFIRS Systems and with our customers.
+
+We are focused on providing additional insight into operations for our clients to ensure the successful relaunch of their businesses. We will continue to invest in solutions that benefit our clients and take advantage of our rich technology along with their existing systems to help them have clarity on their operations.
+
+On April 2, FLYHT published a first quarter update. The highlights included the securing of $4.6 million in sales contracts and purchase orders. The two key orders achieved in the quarter was a $2.43 million purchase for iridium modems and license fee from a longtime OEM customer and a $1.77 million purchase order for SaaS products from an existing customer, Azure. In this press release, we also updated the value of our sales order backlog as of March 31 at approximately CAD 52 million.
+
+Recently, FLYHT has appeared in the media on several occasions. The most significant was a feature on The National on the Canadian Broadcasting Corporation on January 14, where Derek Graham, our Chief Technical Officer, described FLYHTStream on national TV following the disaster of Ukraine International Airlines Flight 752, which was shot down with a missile in Tehran, Iran, killing 176 occupants, including 63 Canadians.
+
+During the investigation, there was a period where Iran refused to release the flight recorder from the aircraft, which reignited the common sense interest in our technology FLYHTStream, which streams the flight recorder data over satellite communication links in real time. The [indiscernible] (12:35) brought The National film team to FLYHT's Calgary headquarters and learned of our technology first-hand.
+
+The Calgary Herald highlighted FLYHT'S win of the competitive bid at WestJet to equip 160 of their Boeing 737 aircraft with AFIRS for Satcom capabilities. FLYHT won the business with WestJet in December and announced the deal in January. The Calgary Herald article was published on January 23 and highlighted the CAD 6.2 million contract between the two Calgary-based companies. We hope to start the shipping of the equipment later this year, but we'll need to work with WestJet as they manage the impact to their business as a result of the COVID-19 shutdown.
+
+The spotlight was on FLYHT's Production Supervisor, Geoff Warren, as the Guyana Chronicle detailed his life journey and success at FLYHT on February 2. Geoff has been with FLYHT for a little over eight years and his story is very interesting.
+
+In December 1 of 2019, there was an article in Aircraft Commerce magazine where Product Manager, Matt de Ris, described FLYHT's products' applicability to Global Aeronautical Distress and Safety Systems Standards, or GADSS. This article discussed several different companies and the compliance opportunity each brings to the GADSS arena. For FLYHT, this means outstanding solutions for aircraft tracking, as well as the time that your recovery of flight data. All of these media reports can be found under FLYHT's website, under media coverage.
+
+FLYHT also published our efforts to distribute complementary TAMDAR data during the COVID-19 national emergency on March 30 of this year. The dramatic reduction in air traffic due to flight cancellations associated with coronavirus, has also significantly reduced airborne meteorological data collection. A press release from the World Meteorological Organization, or WMO, on 9 April acknowledged the use of FLYHT's data. The article discusses the uses of Aircraft Meteorological Data Relay program or AMDAR, which uses sensors, computers, and communications systems onboard commercial aircraft to automatically collect, process, format and transmit meteorological observations to ground stations via satellite or radio links.
+
+The AMDAR system typically produces over 800,000 weather observations per day. The decrease in commercial airline flights has reduced AMDAR observations from around 50% to more than 80% over the last several weeks of the COVID pandemic. FLYHT's temporary complementary license for TAMDAR and AMDAR data, collected on our customer installed fleets to the WMO, provide additional aircraft based observations during this period of reduced observations for members of the WMO. A representative from the UK Met Office reports that TAMDAR and AMDAR over April files are being distributed on WMO communication networks and that the necessary work to integrate these observations into the numerical weather models is complete.
+
+FLYHT also provided a weather data viewer as part of this free license and have received excellent feedback from users. One meteorologist from the Meteorological Services Singapore stated, the Skew-T viewer has a nice interactive interface that is convenient to read and makes comparison of surroundings with the same location at different times. It also has useful information that enables the operational meteorologist to make an assessment of the current state of the atmosphere.
+
+For example, multiple time steps allow the monitoring of atmospheric instability and moisture in the region. There is also a feature to download data for analysis. And another meteorologist from the WMO remarked, we had tested this application and believe it to be very useful for our data user community. FLYHT is very proud to help the WMO in this time of need. We believe our products are very valuable and that the hard work and diligence of our team will continue to create value for our customers.
+
+With that, we would like to now cover questions that we have received by e-mail.
+
+So right now, I see one question in the e-mail and it comes from [ph] CO (16:44), and it says, please discuss any thoughts or plans management is now having regarding hibernation through this pandemic and preparation for future events like it. Examples would be, terrorism, extreme weather, war, fuel supply disruptions, internet failures, satellite network failure, ash from a large volcanic event, et cetera.
+
+That's a broad question. I will say that the difference between what's happening now is that it's impacting the entire world simultaneously, whereas some of these other examples, though horrible, are more isolated and would not necessarily impact all of the world at once. So that's a big distinction in my mind.
+
+We have a business continuity SOP as most of businesses do that covers most of these specific events, impacts to our IT network, things that would impact the ability of the company to operate from its existing operational bases. So, we have that, we periodically perform tests of that recipe and we thoroughly update that annually to make sure that it satisfies the need for business continuity within our business.
+
+The question on whether or not we would consider hibernation through a period like this, really would ultimately depend upon the duration of the impact on the industry. It's obviously a balancing act for the company, preserving and conserving cash and funds to keep the business solvent, while simultaneously using this time as an opportunity to continue to develop and forward the SaaS products that we feel is essential to satisfying the current needs of the industry and for making sense, as operators need help to bring their businesses back into operation as I mentioned during the earlier part of my presentation. So that balancing act is one that we're very keenly aware of, we're evaluating all of the time with the board of directors and we will continue to do so.
+
+With that, I don't see any other questions. So, if you would like, Carl, we can take questions from listeners.
+
+Thank you, sir. We'll now begin the question-and-answer session. [Operator Instructions] The first question comes from [ph] Bruce Krugell (19:35), a private investor. Please go ahead.
+
+Hey, Tom. Just couple of questions. The first is – and I think you mentioned this on a previous conference call, so if you wouldn't mind repeating it. Can you tell us the dollar value of cost that you've cut and the impact that it might have on Q2, please?
+
+We have taken very specific actions to reduce cost, we've done that through specific measures internal to the company, which I haven't shared. And we've also reduced some of the external contracting that we do, reduce the travel, as I mentioned earlier, that we've done. We've eliminated some contracts. All told, I have not done a specific roundup of those costs, but I speculated on the last call that we thought it would be between CAD 800,000 and CAD 1 million in cost cutting. The majority of that would be achieved before the end of the second quarter, but not all of it.
+
+Ta. With regards to weather strategy, I mean, you gathered the update with the World Meteorological Organization and you have some other initiatives on the weather front as well. If you were to look at through the balance of 2020, could you just tell us how you see your meteorological, sort of, TAMDAR business unfolding or developing?
+
+Well, I think that there's, right now, three buckets as I look at that business. And the first is the existing business that we have through the National Mesonet program. That program is a US government program and the negotiations for the next term are underway, we're waiting for the results of that government negotiation. We operate in the National Mesonet program through our partner, Synoptic. So, they're active in that negotiation as a member of the National Mesonet program. And so, we expect and hope that those funds continue and that we're able to continue to grow our network with efforts with our customers to provide data to that network.
+
+The second bucket there where I view is that the, right now the TAMDAR feed that we provide the National Mesonet program is not shared with the rest of the world. Typically, it's used by NOAA and the National Weather Service, Numerical Weather Prediction. We have intended to market the observations to other meteorological agencies around the world. And as you know, as I mentioned in the last couple of calls and we press release that we have turned on the feed to the WMO, which is the rest of the world so that they can use the data in this time of need.
+
+We hope in the future that as the world returns to a more normal state that there will be opportunities to sell that data to several of those worldwide meteorological bodies that are not receiving it under normal circumstances. So, that's the second opportunity for revenue generation that we hope to create in the future.
+
+And then lastly, in China, we have a couple of opportunities to sell data in the first case and with government agencies there, and we've taken steps and in trials to move that forward. And we expect that will yield fruit in next year. And then secondly, we are working with third parties there that are funded by government agencies that want to use government resources in terms of satellite constellations, et cetera, to gather more data over the Chinese continent for Chinese government weather numerical prediction. And so, we are working on a trial with an entity there that we think can lead to a rather large opportunity if the trial is positive. Those are really the three areas that we're working to diversify revenues in the weather area now.
+
+Great. So, quite a bit going on. Two related questions. One, I know what the answer is and hopefully, we can get an update on the other. Have you seen, the one that I think I know what the answer is, have you seen any renewed interest in any of your products as a result of COVID? And in the follow-on question from that is, with regards to the initiatives to try and accelerate the installation of TAMDAR with one of your customers, are you seeing any evidence on that front?
+
+So, on the first part, I think that the industry is still coming to grips with what's happening in the dramatic reductions in flights, and so I think, right now, it's – I don't think we're to the point yet where companies are turning from a protect the business, hunker down, solidify cash, and understand how you make it through into the mindset of, okay, we see daylight and it's time to start looking for ways that we can capitalize on our re-emergence. So, I think that that time is coming, but I don't think that time is yet around the world. So, we haven't seen that yet. I don't expect that we would have yet. But like I say, I think it's coming.
+
+On TAMDAR and our regular AFIRS business, I don't have any information whether or not we've been able to get installations done. Again, it's a difficult time for communicating. In many cases, there's a lot of people missing from the organization that we normally deal with. So, communications are difficult, whether they're furloughed or they're working without pay or anything, number of things that are going on right now. All of these things are quite a shock to the system. And so, we do expect as time goes by, things will sort themselves out and we'll get a better understanding, but right now it's difficult to assess.
+
+Ta. And then my final question. We've seen that airframers adjusted production schedules for various planes that are coming off the production line. And I'm trying to tie this back to your license fee. Are you seeing anything on your front as it pertains to Airbus that would negatively impact your seat of your licenses from your OEM?
+
+We haven't received any firm guidance. We have a projection that we received prior to COVID. We received a purchase order that we announced in February, I think, it was. We've shipped a good portion of that purchase order in the first quarter, approximately two-thirds of it. The final third is scheduled to ship later this year. But I haven't received guidance that's different.
+
+I have seen, as you have, news of rescheduling and the potential cutback of production rates from the European airframer that we provide our product to through a third party. But, in terms of what that means for our forecast and the remaining shipments, I call it bullish. In the last call, about – I was thinking that we would get that out, given that we'd already shipped two-thirds of it. And right now, we don't have information that is different from that.
+
+Great. Thanks. [Operator Instructions]
+
+The next question comes from Marc Berger of MKB Associates. Please go ahead.
+
+Hi, Tom. Hope everybody is keeping well.
+
+Hi, Marc.
+
+And very surprising good numbers so far for first quarter. On the SaaS business, how much of that is coming from the Chinese?
+
+Marc, we have never spiked out the percentage of our SaaS revenues that come out of China. We do have a non-trivial amount that comes from China. I don't have that answer for you at this time. We have not recorded that before.
+
+Okay. Because obviously if they're doing better than everyone else and assuming they are even half of the business, well, then there is a strong amount of recurring revenue that will still continue to come in for the second and third quarter, which certainly would be very helpful.
+
+Yeah. I would say that they are not half, I would say that they're closer to less than a quarter, but it's just still a substantial amount. As you know, our SaaS revenues last year were more than CAD 10 million.
+
+Yeah. Do you also see Chinese orders the first to come back and potentially have more business coming out of them even with this pandemic?
+
+Yeah, we do have some – we continue to ship product there. I think I mentioned last time in the conference call that several of the cargo carriers are still very, very active around the world and that's true in China as well. So, we've been shipping product to some of our cargo customers there, as well as some of the [ph] PAX (29:50) airline customers earlier in the year. We have several opportunities that we've been working out for a while that I think are going to come to fruition in the relative near term. So, we continue to have people working the business in China and we are optimistic that that will yield fruit.
+
+So, I know you have a lot of or you had some trials that were going on. Are the trials still proceeding or is COVID also stopping or delaying trials that you already scheduled for.
+
+For the most part, trials that were underway have been somewhat interrupted during this time period. It's difficult to focus on trials when your business is at stake. So, in most cases those have been reduced. And in other cases trials that we are planning have been delayed given the current nature of the business.
+
+Could you discuss the two largest potential deals that you're working on, what type of timeframe that you're expecting maybe?
+
+Well, Marc, I really don't feel like it's appropriate for me to speculate on those deals. I would rather continue to pursue them and then we'll report when more successful.
+
+Okay. On TAMDAR, could you give us a potential as to what kind of potential business we're looking at there. Is that going to be something that these weather balloons and everything else we're looking at, maybe something that's CAD 5 million a year, CAD 10 million, CAD 20 million, CAD 30 million, over time?
+
+Yeah. It's a great question. So, as you know, the past quarter that we've been operating under that we just transferred to [ph] PAC asset (31:39) acquisition was producing $2 million a year for the observations that we're producing from – that was about 240, 250 aircraft. As I mentioned earlier in the call that contract is under renegotiation with the government, so we hope that that is re-implemented at the same rate or more, we don't know. We're waiting to find out. So, that's certainly something that we have high hopes for that it continues. But it's a government program, so you have to wait for that to manifest properly.
+
+We think we can augment that, as I mentioned to [ph] Bruce's (32:22) question earlier, we're selling the same data set to other worldwide met agencies. So, that would – using the same data and selling that same data to other users, would continue to improve the margins on that data. And so, we think and hope that over time that could potentially double the revenues that we're getting for that data set.
+
+And then on top of that the opportunities that we're pursuing in China, looking at that blue sky, could we think it overall double the revenues yet again. So, there's a lot of ifs in buts in that and a lot of development that needs to happen, but we see a fairly significant potential revenue that comes from this worldwide weather area.
+
+Okay. Great. Last question. Any plans to do a joint venture with a leasing company to fund purchases for your equipment, so that you could take the front-loaded cost out and transfer that to the life of the contract, like five-year deals you do? Plus it adds another revenue source for you while it also makes the operators feel that the cost savings they are getting are being used to fund their investment and therefore, no major outlays?
+
+We have been interested and remain interested in scenarios like that that make sense for both parties. I pursue those and in several cases, we thought we were going to get something like that done and didn't materialize. So, we continue to be open for opportunities like that, but thus far we haven't been able to create one.
+
+Yeah, I figure a company like GE must have a licensed division there, they're doing engines and other things so they might be a natural potential joint venture partner.
+
+Yeah. That may well be. Again, we haven't found success yet, Marc. So, we continue to look at opportunities that we can grow the business in this segment. Getting into a relationship like that we would be interested in exploring that.
+
+Okay. Thank you very much, and good luck.
+
+Thank you, sir. [Operator Instructions]
+
+The next question comes from George Melas from MKH Management. Please go ahead.
+
+Thank you. Good morning, Tom and Alana. Hope you guys are well.
+
+Hi, George. You as well.
+
+So, those were very solid results. I have just a quick question on the hardware. [Technical Difficulty] (34:57) in the quarter and then just trying to understand whether or not – I think you said you expect that sort of – you have a strong backlog but you expected few units shipped in the first quarter. Just trying to – can you give us a little bit more color on that and maybe also what you expect for the rest of the year?
+
+Sure. Alana, you want to take part of that?
+
+Sure. A large portion of – we did expect and anticipate when we're budgeting the year end Q1, higher levels then were delivered. So, we were able to recognize revenue from three kits in Q1. And really that is a decrease based on the COVID pandemic. Our customers are conserving cash, so they aren't just taking installation kits at the moment as they act relatively conservatively as compared to what we've seen in the past and what we were expecting the pandemic.
+
+As we look to the rest of the year, we do expect that hardware will continue to be lower than traditionally what we've seen. And as our customers do take that – the time to – and remain conservative with their cash balances as they emerge from the COVID situation.
+
+Sure. Okay. The CAD 52 million, help us understand a little bit better that CAD 52 million in backlog? And what does it consist of? And kind of what's the timeline associated with that?
+
+Sure. Our backlog, it contains several aspects of our revenue. So, we have four revenue streams. The backlog does contain portions for all four. So, licensing revenues would be in there to the extent that we received POs, hardware would be included to the extent where we have contracts that we've signed with our customers for future deliveries, where those deliveries have not yet been made.
+
+And SaaS is also included in the backlog number in so far as future revenues that are contracted, but haven't been delivered quite yet. There is a small portion of technical services that's also included in the backlog.
+
+Okay. And is it possible to sort of breakdown the CAD 52 million very roughly between the first three big buckets of, I guess it's really mostly hardware and SaaS I imagine?
+
+Yeah. Yes, that's true.
+
+Okay.
+
+The majority is SaaS. I think the last time that we looked at that, it was – the majority of it is hardware and SaaS. And the last time we looked at it, it was something like 65% SaaS, 35% hardware, something like that. So, I can't say that that's exactly the number, but it's in that neighborhood.
+
+Okay. And if your customers are not flying, if their planes are grounded, then they actually don't have to pay you for the SaaS, because it's sort of a transactional payment based on miles flown? Is that the model or not?
+
+It is not. So, technically, virtually all of our customers have signed contracts that require them to pay for services by aircraft by month, which are installed. That said, we have – we want to come out of this pandemic with a set of customers that continue to be delighted with FLYHT's products and with FLYHT's services. So, we have entered into negotiated agreements with customers that as they park their aircraft that those aircrafts, the data services for those aircraft are discontinued for the period that they're parked.
+
+There are still some charges that they pay depending upon the contract and depending upon the customer during that time period. But, we are working very hard to help our customers through this very difficult time, because they're strapped of cash and at the same time, keep the company solvent and make sure that we continue to be able to have the power that we need, the power forward.
+
+So, in order to help our customers, we've made certain amendments. In order to help us, we've reached out to our supply chain and equally made amendments and we hope that this continues to ingratiate us with our customer base. And as they continue to emerge from this, we can get back to normalcy and we'll continue on with the contracts as we originally wrote them.
+
+Okay. Great. Thanks for this explanation. Okay, good luck. Thank you.
+
+Thank you, George.
+
+Thank you, George.
+
+There are no more questions at this time. I would now like to turn the conference back over to Mr. Tom Schmutz for closing remarks.
+
+Well, I have nothing further. I want to thank everybody very much for turning in to our first quarter 2020 conference call. As I mentioned earlier, it will be published on our website and I hope that everyone remains healthy, safe, and we look forward to talking to you on our next call. Have a great day.
+
+Thank you. This concludes today's conference call. You may disconnect your lines. Thank you for participating and have a pleasant day.

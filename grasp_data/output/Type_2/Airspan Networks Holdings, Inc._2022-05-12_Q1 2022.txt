@@ -1,0 +1,239 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+David E. Brant — Senior Vice President & Chief Financial Officer, Airspan Networks Holdings, Inc.
+Eric D. Stonestrom — President, Chief Executive Officer & Director, Airspan Networks Holdings, Inc.
+Glenn Laxdal — President & Chief Operating Officer, Airspan Networks Holdings, Inc.
+Rolf Bulk — Analyst, New Street Research LLP
+George C. Notter — Analyst, Jefferies LLC
+Tim Savageaux — Analyst, Northland Securities, Inc.
+Chris Howe — Analyst, Barrington Research Associates, Inc.
+Franco Granda — Analyst, D.A. Davidson & Co.
+
+Management Discussion Section
+
+Question And Answer Section
+
+Greetings. Welcome to Airspan Networks Holdings First Quarter 2022 Earnings Call. At this time, all participants are in listen-only mode. A question-and-answer session will follow the formal presentation. [Operator Instructions] Please note this conference is being recorded.
+
+At this time, I'll turn the conference over to Mr. David Brant, CFO. Mr. Brant, you may now begin.
+
+Thank you very much. The following discussion will include forward-looking statements. Comments that are not statement of fact, including projections of future financial results and other items, are considered forward-looking and involve risks and uncertainties. The risks and uncertainties that could cause our actual financial and operating results to differ significantly from our forward-looking statements are detailed in our SEC filings available on our Investor Relations website at ir.airspan.com. We encourage you to review our earnings release and our quarterly report on Form 10-Q for the quarterly period ended March 31, 2022, which are also available on our website.
+
+On this call, we will discuss certain non-GAAP financial measures. For the identification of non-GAAP financial measures, the most directly comparable financial measure and a reconciliation between the two, see our earnings release and our quarterly report on Form 10-Q. The Q1 2022 investor presentation is available for reference on our website and will be referred to at points during this call.
+
+I will now turn the call over to Airspan's Chairman and CEO, Eric Stonestrom.
+
+Thank you, David. Good morning and thank you for joining us for Airspan's first quarter earnings call. Before we begin, I'd like to extend a warm welcome to our shareholders joining us today. I would also like to thank the analysts on the call for following the progress in our business. Our plan for today is to update you on the general market trends we see in front of us and explain what makes Airspan unique in our ability to monetize these prospects. We will also provide an update on the supply chain environment, which remains turbulent. Finally, we will take your questions in a Q&A session.
+
+I will start with some general comments on the 5G worldwide rollout cycle. 5G infrastructure rollouts by the various market participants continue to gain momentum. The initial macro overlay of 5G, which focuses on enabling 5G handsets in a traditional mobile phone user scenario is several years into the cycle. The expansion phase increasing the number of connected devices is launching along with a mass densification phase to deal with general capacity and coverage improvement.
+
+Our product line has been engineered for this phase of the rollout cycle, which is creating lots of demand. We specialize in building the wireless technology to connect users, both people and machines to the cloud and there has never been more demand for innovative solutions. Hence, our core business is strong and we are adding additional customers rapidly.
+
+How big is this market? To gain a sense of market sizing for us, our solutions address the approximately $30 billion annual 5G and 4G LTE RAN market, critical components of the approximately $200 billion spent on network infrastructure buildouts each year. There is third-party market dimensioning included in the investor presentation for more information.
+
+Why is Airspan capturing a larger position? The RAN infrastructure world and spending patterns up until recently were largely static, with a handful of MNO operators buying closed systems from a handful of large equipment manufacturers and placing the equipment on towers rented to the carriers by third-party power REITs. These legacy participants can only partially transition to the architectures required now and in the future for the various use cases and network operator models, which means a massive opportunity for Airspan's products and solutions.
+
+Our products are open, meaning multiple ecosystem participants; cloud-native and virtualized, meaning optimized processing power where it is needed; and most importantly, software-defined to enable the cost effective management of millions of network elements and endpoints.
+
+Technology innovation is a core part of our story, with hundreds of patents granted or pending, particularly focused on the new paradigm for network design. Our nearly 500 R&D and engineering employees around the world have created a strong product portfolio for the disruptive network operators, the legacy providers and their densification efforts, and the large number of new entrants coming into the space: hyperscalers, systems integrators, application service providers and defense companies. These participants urgently need the lower cost Airspan-designed radios and software.
+
+Protected by the improved security of 5G as the standard and operationally easy to deploy due to our years of software development, these networks benefit from massive rollout simplification. Today, our technologies are key components of some of the largest and most innovative networks in the world, and our portfolio is recognized for its unique attributes and innovation. Timing is critical in the technology cycle, and Airspan is very well prepared for this exciting chapter.
+
+The addressable market is expanding. The demand for connectivity is growing exponentially. This voracious data appetite has driven the need for significantly upgraded telecom infrastructure. As incumbent, challenger and novel use cases are built out, we are in the midst of the largest telecom CapEx cycle in decades and an unprecedented broadening of the potential customer base for Airspan to pursue.
+
+Airspan is proud to supply many of the top telecom service providers around the world. Whether by interacting with a global carrier, private network or public sector customer, we leverage our substantial experience in building a new paradigm, including a series of top five Tier 1 customers actively deploying our products. As an example, we had expansion purchase orders from our four largest 2021 customers in the first quarter as those rollouts continue.
+
+While most of our sales are direct, we have also had tremendous and growing expansion in private networks, along with a new class of go-to-market partners, some of whom were not part of the previous generations of telecom radio access network spend. These partners already include household names such as Cisco, Dell, HP Enterprise, IBM and Microsoft, and the list continues to expand. This is an enormous growth opportunity for Airspan.
+
+In addition to connecting more types of users, our customers require an order of magnitude greater volume of software features, services and radios, requiring more processing power at the edge of the network. Those attributes line up perfectly with our domain expertise and product set, which is part of what gives us confidence in the opportunities ahead for Airspan.
+
+To give a sense of scale, over the last few years, global 5G subscribers increased from 15 million to 400 million. By 2025, that number is expected to reach 3.4 billion, making this a very deep market. In this growing 5G market, ultimately, our contribution to the economics of our customers is the most important parameter that defines our value added and valuation. We have a fertile landscape of opportunity, right when CapEx budget become focused on building the new rather than continuing the old way.
+
+What is this new? Densification is a major theme. To put this changing dynamic in context, there are approximately 120,000 towers in the US and they represent the bulk of the total infrastructure for Airspan. We estimate in the move to 5G that the number of required cells will exceed 1 million in the US alone. We contribute significant amounts of low-cost distributed processing through a densification offer which bundles award-winning products for mobile and fixed wireless access, inexpensive power-efficient interconnect capabilities, and many designs which eliminate the tower rental part of contemplated expansions.
+
+We have experience in this firsthand, and the network design we have pioneered for cable operators in the 4G cycle which is featured in our investment presentation is now the architectural basis for cable MSOs as they look to expand their network and wean dependence on MVNO reseller relationships. The design improvement doesn't stop at outdoor pole, rooftop and cable strand designs.
+
+Our indoor 5G portfolio is significant in both mid-band and millimeter wave frequencies, leveraging the capacity and coverage improvements we have designed for the outdoor component of the network into the increasingly challenged indoor coverage problem space. Often these expansions are funded through non-carrier sources and sometimes operate independently of the basic MNO networks. This is a nascent private network segment.
+
+So between carrier and private use cases, you have exponential growth in the number of 5G networks but given the characteristics of 5G networks you also have enormous growth in the number of radios per network. Automation and optimization through software are key differentiators and we have strong capabilities, proven at scale in live deployments of hundreds of thousands of cells in several major networks. These dynamics are what gave us tremendous confidence in our opportunity going forward and have already paid meaningful dividends in our work with our existing large customers.
+
+Let me turn the call over to Glenn Laxdal, our President and COO, to drill deeper.
+
+Thanks, Eric. Airspan operates in three related business areas: global mobile networks, private networks and fixed wireless. These markets have a common technology foundation based on wireless broadband, 5G mobility, low-power small cells and automation. This common technology foundation allows us to build a single hardware/software and automation platform to address all three. The mobile networks market is the largest at over $30 billion today, growing to $38 billion by 2025. This growth is driven by the transition from 4G to 5G.
+
+Today, 5G drives about 50% of the CapEx, but this will grow 5% over the next four years. The 5G deployments going on now are focused on coverage and are in the lower spectrum bands using high-power macro cells. Going forward, the deployment will shift to capacity and densification using the mid-band and millimeter wave spectrum. The buildout will shift from macro to small cells for both outdoor and indoor coverage.
+
+Indeed, the fastest growing segment in the 5G market is low-power cells and the related software and automation framework. And here, we are well-positioned and [indiscernible] (00:12:51) entering the field trial phase with a large US cable operator for a 5G deployment in CBRS. We are also seeing growth in the millimeter wave deployments for both indoor and outdoor solutions in Asia. We see the small cell deployments in the CBRS mid-band and millimeter wave picking up in the second half of the year.
+
+The second market we focus on is enterprise private networks. The private networks market is nascent today and we expect will grow to $3 billion market for RAN infrastructure by 2025. There are a number of positive global trends in the spectrum market giving rise to private networks, including the CBRS band in North America and newly liberalized spectrum in Germany, Japan and France. We're seeing growing traction with multiple 5G private networks trials and deployments going on across North America, Europe and Asia for both our all-in-one solutions as well as our O-RAN distributed solutions.
+
+We have developed a 5G private network starter kit, a network in a box, to enable our partners and enterprises to stand up 5G networks quickly. To date, we've deployed over 50 starter kits globally, and this starter kit in combination with the top tier webscale partners that we have, is creating a viral interest in 5G trials and deployments and we have momentum across all industry verticals, including transportation, retail, manufacturing and defense.
+
+One private network that we are in deployment on today is the 5G air-to-ground network for Gogo. We supply the radio hardware/software, air interfaces for both the EVs and the ground stations. We believe this will be the largest private network in the world. Last week, Gogo announced that they had completed their buildout of 35 sites out of 150 tower network expected to be completed later this year as the foundation of the deployment for their nationwide 5G network. Stay tuned for more on this important relationship.
+
+The third market we focus on is fixed wireless access. The fixed wireless market is a $2 billion market today and is poised for growth, driven by spectrum, technology and funding. In March, we entered testing of our next-generation A6/C6 solution with the FCC and expect to complete testing in June. We are trialing the solution today with three Tier 1 operators and expect to begin deployments toward the end of Q2. This solution is the first to market to address both the 5 gigahertz and 6 gigahertz bands in a single product.
+
+From a bandwidth perspective, we're achieving 4.5 gigabits per second in the downlink in the field with multiuser MIMO. This throughput allows us to partner with operators to use the product for the RDOF gigabit funding pool. RDOF is the $20 billion US fund available for rural operators to provide gigabit broadband services to the over 30 million homes that are currently underserved.
+
+While the demand is strong in each of these three growth markets, supply chain remains a significant challenge. We're facing lead times on critical semiconductor components of 40 to 52 weeks, and in Q1, we faced the additional challenge of rolling COVID lockdowns and port congestions in China. In Q1, we completed seven board spins to design around the part shortages, which pushed the majority of our shipments to the last month of the quarter. While we see a continued requirement for R&D work to design around component supply, we expect to get much more linear in our shipments for the rest of the year, and we're seeing good progress on this already in Q2.
+
+Now let me turn it over to David to walk through the financial results.
+
+Thanks, Glenn. Turning to slide 14 in the investor presentation, we saw revenue for the first quarter of $37.6 million, down 25% sequentially from the fourth quarter, and down 18% from the same period last year. While supply chain congestion has had a meaningful impact on our business, we're encouraged by strong revenue from our existing customers.
+
+Gross profit of $12.1 million was down 42% compared to last quarter, and down 42% over the last year's first quarter. First quarter net loss was $29.7 million compared to a net loss of $19.6 million last quarter and a net loss of $13.5 million in the first quarter of 2021. Adjusted EBIDTA was a loss of $18 million compared to a loss of $8 million last quarter and a loss of $5.4 million in the year-ago period. Gross margin was 32.1%, down from 41.1% last quarter and 45.6% in last year's first quarter, with the majority of the variance due to supply chain pressures.
+
+Given the difficulty of certain components availability, our engineering teams completed the redesign of a number of printed circuit boards in the period. While these products were able to ship during the quarter, the majority were shipped and built in the last few weeks of March, requiring a level of expedited shipping costs Airspan has not experienced before to meet customer delivery times. For a sense of magnitude, a single customer's increased shipping expenses drove approximately 1.5 percentage points of gross margin reduction alone. Given an improved distribution cadence in the second quarter, we have been able to schedule shipments more cost effectively.
+
+Demand for our products is strong. Though supply chain challenges are still dominated by increasingly long lead times, we continue to work hard to mitigate these challenges, finding alternative components, instituting multiple technological design changes, and working closely with our partners. In this environment, supply chain pressures continue to center around component availability, higher purchase prices for hardware components, and increased shipping costs and transit times. While we have begun to pass some of these expenses on to customers through price increases, there is a lag before you'll see the benefits. We anticipate such supply chain challenges to extend through 2022.
+
+Given the supply chain environment, we expect Q2 2022 revenue of approximately $44 million to $48 million, with a gross margin of 38% to 40%. For the full year 2022, we continue to anticipate top line growth of between 10% and 15%. This view may be impacted by, among other things, component availability related expenses and challenges from COVID-19 restrictions in Asia. Airspan ended the quarter with $46 million of cash. First quarter cash use was $17 million, primarily due to the loss in the quarter. We anticipate lower cash consumption in the following quarters of 2022.
+
+With that, Eric, Glenn and I will open it up to questions. Operator, please prompt for questions.
+
+Thank you. At this time, we'll be conducting the question-and-answer session. [Operator Instructions]
+
+Thank you. Our first question is from the line of Rolf Bulk with New Street Research. Please proceed with your questions.
+
+Yes. Thank you for taking my question. You mentioned that the component shortages may persist for the rest of the year. But once you do get into a better supply situation, could you maybe share with us how you think about your own inventory levels in the future? Will you hold more strategic inventory on reserve or will you change the way that you work with Qualcomm and others to secure supply?
+
+Yeah. Hi, Rolf. Glenn, do you want to take that question?
+
+Yeah, I will. So I think that we see this, as you have pointed out in your question, we see the supply chain challenges lasting through the end of the year, some indications of opening up toward the end of the year into the 2023 timeframe. I don't think we expect that the increasing inventory levels from where we are today, but what we are doing right now, just in terms of getting ahead of it is, we're instituting a longer forecasting period, 12 to 15 months forecasting. We're increasing our purchase of some long lead time items to hold a safety stock across those long lead time items so that we enter the back half of the year prepared to deal with the tight environment.
+
+We're driving, as we discussed in our comments, improved linearity. So we were pretty backend loaded in Q1. We're driving much improved linearity now already in Q2. And due to improved forecasting for the back half of the year, we're negotiating better terms with our customers to help us through this supply chain challenge. And then we all think – we think that all of those measures are going to leave us in a much better operational position when we enter 2023 and anticipating an opening of the supply chain environment.
+
+Thank you. That's very helpful. And as an unrelated follow-up, in your press release, you mentioned the FCC's RDOF initiative as something you benefit from. Could you maybe give us an update on other stimulus programs where you are currently engaging with on a local level with local governments and then which one do you stand to benefit the most from? Thank you.
+
+Yeah, I'll take that. So indeed the RDOF is significant and Airspan's significant as a wireless participant there because we've managed to crack the 1-gigabit threshold which the fiber industry had sort of ring-fenced as a way of ensuring most of that spend was going to be on fiber. So we made great progress there. We're very active in a number of initial – of additional initiatives the historically black colleges initiatives with about $2 billion funding are in play. And we have a number of proposals in – a substantial number of proposals in a number of universities and colleges.
+
+We also are working very, very hard on the Native American tribe funding aspects, and we got purchase orders last quarter that were substantial in that regard. The tribes have an opportunity to get over $1 billion to build their own infrastructure. Interestingly, a substantial number of tribes are actually holding Band 41 spectrum. And Band 41, as you may know, is the mid-band spectrum that Airspan is an industry leader in. And we really have differentiated experience there through 300,000 plus units we've deployed with Sprint, now T-Mobile, in that band.
+
+In addition, there are CBRS rollouts in unlicensed 5 gigahertz, 6 gigahertz spectrum license plan and we have a number of bids in and money is starting to flow there. And that we see as a multiyear journey, like the historically black colleges, and the first green shoots are there now with some funding actually flowing through, some purchase orders coming to us.
+
+In addition, at the state level, a substantial amount of money was allocated in the fiscal budget that was approved last spring, and that money is now flowing through. We have bids in seven states and we have victory already in some percentage of those. And the bidding process is fast and furious as we speak. And those states are not a winner take all. It's a continuum of readiness. Some of the states that are further ahead, for instance, Texas, where we announced a deal recently, has actually granted money and had a firm closure of deals and awards.
+
+Other states, West Virginia is one where we're working with the economic development office is contemplating their plan. So you have a continuum from states issuing money today to states thinking through the strategy. And we're active across that spectrum, and we're very confident we'll see a substantial number of projects there. So those are just a few snapshots of existing programs where there's real money starting to flow into the system and Airspan has a great product portfolio.
+
+Thank you. That's great. Thanks for the color.
+
+The next question is from the line of George Notter with Jefferies. Please proceed with your questions.
+
+Hi, guys. Thanks a lot. I guess, I wanted to ask about supply chain shortages. I think last – coming out of the Q4 [ph] point (00:26:46), you guys talked about $10 million in shipments from Q1 that you thought would be pushed to Q2 because of supply chain. Is that still the right number in terms of how you think about Q2? And then how do you think about shortages and how they're affecting the full year? And then I've got a follow-up.
+
+Okay. Yeah. Hi, George. Yeah, the shippable backlog is obviously considerably larger than the target for the quarter, and $10 million is a reasonable number from the 1Q pushed into 2Q. We have an additional series of things that we won't be shipping in 2Q. We've taken that into account in our guidance, of course. So the push forward continues quarter-by-quarter. I think that's – what's important is that we're very focused on the mission-critical deliveries to our customers, particularly where they have rollout schedules that have to be met. The expansion in freight and PPV that David referred to on 1Q was a direct consequence of that.
+
+We do spend money on PPV and spot purchases. We are sharing that with our customers increasingly. So we're confident in our margin outlook here improving, keeping up with what the key customers really need, and at the same time, continuing to build backlog because of the demand that we face. So we are, as Glenn said, much more linear in the second quarter. And that's a good thing because our visibility has improved through the quarter. There's still – if we could ship more, we'd be shipping an awful lot more in the quarter. We just unfortunately can't with the various constraints that are out there.
+
+Okay. And then you mentioned pricing increases. Any sense for how big those price increases are? How broadly across your customer base you're passing those on? Timing, when that might come into the model? What can you say there? Thanks.
+
+Yeah. So a few general points and then a specific. We did institute an across-the-board price increase in April across our products, and that will phase itself in at different paces. For our smaller customers and spot buy customers, that takes effect immediately. That's not the substantial part of our revenue.
+
+For the longer term customers, it takes time to phase in. We did achieve with one specific customer, a big customer, an increase, effectively moved a pricing model up twice in the first quarter. We had a certain price in place from a backlog purchase order that was two orders ago with about a 30% product margin. That's moving to 46% in the second quarter for the same product because we're phasing in now delivery of the orders that we got with higher price. And then, we see that going to 62% in the third and fourth quarter. So that's an example of specific things we did months ago in increasing the price to that customer every time they ordered. And that's flowing through.
+
+We did get on some of the projects this year that are substantial price increase on the new piece of the purchase orders and that will phase in towards the fourth quarter as well, [ph] up (00:30:12) 7% in this particular case. So it is phasing in. And I think that market willingness to absorb is there. We're not losing any deals on price. The fact is that we have a unique product set and that gives us leverage there. However, we have – with over $100 million of shippable backlog, we have some time we need to burn through the old prices. We can't unilaterally change prices on existing projects, obviously, or existing orders in hand.
+
+Got it. Okay. That makes sense. And then, last one from me. In your dialogue at the start of the call, you mentioned webscale partners on the private network side of the business. We know that the webscalers have been kind of snooping around that business. But what more can you tell us about relationships you have there and what they're doing for you? Thanks a lot.
+
+Again, there's some nondisclosures in place. But our name is well-referenced, and just in meeting the hyperscalers, their ambitions are strong. So I'm very enthusiastic that it's introducing for us a whole new set of partnerships. Airspan really is differentiated. I will say that the big stalwarts in the industry, Nokia and Erickson, have some channel conflict I think with some of those partners and Airspan's an ideally sized partner to work with them because where our ambitions are not the same, it's a win-win. We provide the equipment, the infrastructure, the software. They provide the requisite services, and that's a good combination, I think, for a lot of growth for us.
+
+Great. Thank you very much.
+
+Maybe just one additional comment there. I think that it's clear the webscale partners are very interested in this private network space. And we plug a hole for them, that is a unique hole. We're really focused on the radio access infrastructure and related software, while they're focusing on edge compute and the core compute capabilities that are required at the edge. So we make a really good partner for the webscale partners, and I think that's why we're attracting a lot of interest.
+
+Great. Thank you.
+
+The next question is from the line of Tim Savageaux with Northland Capital. Please proceed with your questions.
+
+Hi. Good morning. I have a couple of questions. First, I think on the comment you just made, Eric, I think you mentioned $100 million in shippable backlog. Do you know for what time period that's for, maybe over 12 months? But I guess my question would be, what was that at year-end or how did that change during the quarter? And as part of that, if you look at your kind of reiterated 10% to 15% growth guidance, ex these supply issues, what do you think that has had the potential to be in a normalized supply environment? And I have a follow-up.
+
+Yeah. Thanks. And we're not disclosing every quarter the particulars of that. But it's an upward trend. It was an upward trend versus the end of the year, and that gives us confidence. The demand is not the problem here. This is a supply-constrained environment.
+
+Okay. And to follow up and also feel free to answer that supply question about where would 10% to 15% go? But the follow-up is, you mentioned earlier in the call rapidly adding new customers. And I was looking for some potential quantification of that, either in kind of total customer accounts or customer additions relative to previous periods, any commentary there. Thanks.
+
+Yeah. The number is up. I don't have the actual specifics. But as Glenn mentioned, we have 50 starter kits deployed. We have a list of 5G customers, including the big names that we talked about earlier that are all concluding – not all, but are actively concluding master purchase agreements with us. So the number of substantial frame agreement, master purchase agreements that we have in place with Fortune 50 companies is increasing apace with one to two of those added every couple of months. So there's a great expansion happening there in terms of setting the table for, now the unleashing of the sales forces and the strength in marketing teams that those larger partners have.
+
+So – at the same time, in markets like Germany, just to give you an example, in Germany, we had two customers a year ago. We now have seven active customers. That's a market where spectrum has been liberalized. So spectrum has been good into the hands of private and industrial groups as opposed to just the three MNOs, and we're very pleased with the progress we're making there. Very pleased in Japan as well. I don't have the exact numbers to hand, but it's a similar expansion. France has just opened up. We got our first purchase orders from there.
+
+So these markets are showing a pattern. When government liberalizes spectrum, as they've done in the US with CBRS and Germany, Japan, France – and when I say liberalize, I mean more people can get the spectrum than just the traditional carriers, we're seeing substantial force multipliers in the number of customers we're interacting with and selling to.
+
+Okay. Thanks very much.
+
+The next question is from the line of Chris Howe with Barrington. Please proceed with your questions.
+
+Good morning, everyone. And thanks for taking my questions.
+
+Hi, Chris.
+
+I wanted to follow up on the full-year guide of 10% to 15%. If we think about that full-year guide while also considering your outlook for the second quarter of $44 million to $48 million, so a widening at the lower end of the range, how should we think about your level of conservatism as it applies to the full-year outlook? Do you think – are you still feeling relatively confident you can achieve the midpoint of that guidance for revenue?
+
+Chris, this is David. So from a demand side, yes, it's the challenges that we've been referring to is definitely on the supply side. And then the widening of that guidance of the $44 million to $48 million is again not demand-driven. It's managing through the vagaries of the supply chain.
+
+Okay. Okay. And gross margin still stayed the same. I would anticipate gross margin may have some pressure from the environment but it should continue as expected. Is that fair?
+
+Yeah. And we're getting some price increases we talked about earlier here in the Q&A. We've got a stabilizing freight situation. Glenn referred to the linearity, and that's very important in the world of freight in terms of scheduling. And while some of our customers pay for their own freight, we also pay and sometimes bill but sometimes having the basic pricing of that freight variable.
+
+So again, I think, we are confident in the outlook or we wouldn't have given it. And the ups and downs of supply chain, we are pretty good at negotiating. It's not an easy ocean to sail in. But we're fighting it every day and continuing to hold on to customers and loyalty and wins. So that's about the clarity we can give you.
+
+Okay. And then just the last question about the rolling COVID lockdown that you and some of your peers experienced in the quarter and just the unpredictability of that region. How are you balancing the optimism of improved linearity with the unpredictable nature of that region?
+
+Yeah. I mean I can take that one on. It's a good question because it is unpredictable. We're starting to see some opening up, for example, in Shanghai which is still in lockdown. But we have, for example, some of our mechanical chassis and antennas being produced just as an example, just outside of Shanghai. The production is ongoing. The challenge is actually getting it out of the Shanghai port, which is just suffering a general port congestion.
+
+So with these rolling COVID lockdowns and shutdowns happen across China, it's not that we're not able to get product out. It's that it's squeezed and we're – so the only way around that is to improve our forecasting and extend our forecasting out so that we can get better flow-through. And we were really challenged on that in Q1, getting a flow of mechanicals and antennas as just as an example out of China, but that's already improved. We're starting to see the window opening in China in the Q2 timeframe. And we expect that it'll continue to open over the balance of the year. But that is a dynamic challenge that we're working through every day.
+
+Okay. Perfect. Thanks for taking my questions. I'll hop back in the queue.
+
+Thank you. [Operator Instructions]
+
+The next question is from the line of Franco Granda with D.A. Davidson. Please proceed with your questions.
+
+Yeah. Good morning, everyone. Thanks for letting me ask you a few questions here. I was wondering how should we think about the ASP difference between your 5G-in-a-box and your previous 4G Magic Box offering?
+
+Yeah, I'll take that. It's a good question. And clearly, 5G is a more expensive architecture because it brings a lot of value. Our price points, as you know, in 4G were driven sometimes by very influential customers such as SoftBank and Reliance Jio. We're seeing a less price-constrained environment in 5G. I think as a rule of thumb, and it depends on whether it's a virtualized or an all-in-one architecture, but it's about a 4:1 difference in unit price, 4G to 5G, with 5G being four times the price of 4G.
+
+All right. Awesome. That's excellent color. Thank you. And then, as you pass on some of the cost increases, that you've talked about on a few questions here, over to your customers, how should we think about the margin ramp for the rest of the year barring any further constraints?
+
+So again, I think, we've got a good visibility to current costs. We are buying products on spot markets. As an example of DC-to-DC converter that might cost $2. Originally, we can pay up to 50 times as much and judiciously do that where it makes sense. The price increase will be what's helping the second half margins. We're not getting any less expensive on components. We're not getting any less expensive on the value adds that are subcontractors' charges. So really, what we're seeing is better mix and higher prices on existing products. And some of that ASP factor you asked about earlier is factoring in as well.
+
+Okay. I think the other part...
+
+No. That's helpful. Thank you.
+
+...sorry, the other part of that is, with higher volumes, we will – we have a higher revenue share to amortize our fixed costs which also improves our gross margins.
+
+Yeah. Very good point because our fixed costs are about – between $4 million and $5 million, so if you're amortizing that over a $60 million quarter versus a $37 million quarter, that helps as well.
+
+Awesome. And then have you – I guess, if you look at your competitive market at the moment, have you seen any meaningful changes since the start of this year? And perhaps if you could name a few of the folks that you're coming up against the most nowadays?
+
+So competitive market is exactly that, it's competitive. I do think there are fewer new disruptors coming in, startups that – or companies that have tried for a while that have become tired are actually withdrawing. So I think it's a simpler marketplace in terms of who we face. And that's a really good thing.
+
+I think the names that we face all the time, Nokia, Ericsson. And in the private space, people like Corning and CommScope continue to be the main names. One thing that's interesting, the new paradigm for building networks requires a whole new way of thinking and designing. And all four of those companies I just mentioned are hamstrung by the legacy that they have, the amount of energy they've spent preserving old architectures [ph] with the public (00:44:37) embracing new ones. And that gives us a real leg up.
+
+I will mention one final name. Samsung has become more active. We compete against them and – or complement them, I should say, in Reliance Jio in India. So we know them very well. They're the biggest macro supplier or the biggest smaller cell provider. And obviously, that's a market entrant that's stronger at the big accounts. Now the flipside of that, of course, is Huawei has receded even more since the beginning of the year.
+
+All right. No, thanks for all that color. It's helpful. And then perhaps one last, more of a big picture question. If we compared the ramp in CapEx towards the 4G migration and what you're seeing in 5G today, have you seen the mix between 3G and 4G being a lot different than what were you seeing between 4G and 5G now to some extent?
+
+Yeah. Glenn?
+
+Yeah. Well, yes, the difference is actually driven primarily by spectrum. 3G was built out almost entirely down-spectrum. 4G was built out primarily in and around the 2 gigahertz band with AWS here in the US built out primarily in the 2 gigahertz band. 5G is going to be built out – once we're through this coverage builds which most of the major operators are nearing completion of right now, we're going to be entering into the densification build which is going to be entirely in the 3 gigahertz to 6 gigahertz spectrum band, so the 3.5 gigahertz spectrum band.
+
+And then, we're about to enter into a broader deployment in the millimeter wave, which we already see going on right now in Asia. We'll see a more broad-based deployment in the millimeter wave, again, to get access to those wider channels that are going to be required as we enter the densification phase. And all of that is going to be delivered increasingly with small cells. And so, whereas 3G and 4G was built down-spectrum with macro cells primarily, 5G is going to be increasingly built up-spectrum with small cells.
+
+Yeah. I'll just add to something Glenn said, and this is probably – Qualcomm announced, earlier this week, the availability of a millimeter wave standalone chipset for devices. And as you may know, we have the biggest millimeter wave deployment in the world with our Japanese customer, both outdoor; and in the first quarter, we shipped over $3 million of indoor product to them. And that's something that we've been able to do very successfully in Japan in what's called the non-standalone mode where you actually rely on 4G as an anchor.
+
+What's really breakthrough here and what's so exciting is standalone devices will enable thousands, if not tens of thousands of customers to deploy millimeter wave 5G without having to have a tie up with the carrier. And that's so important because that suddenly opens a floodgate of densification that even goes beyond what 5G brings to the mid-band spectrum. And I think I'd point you to the Qualcomm public statements on that earlier in the week just to give you a little steer towards where to learn more about millimeter wave. But we have a great portfolio there today. We've just been waiting for this moment where standalone chipsets are available, so we can start to sell that to a lot more people.
+
+All right. Thank you so much. And keep up the good work.
+
+Thank you.
+
+Thank you. At this time, we've reached the end of our question-and-answer session, and I'll hand the call over to Eric Stonestrom for closing remarks.
+
+Okay. Thank you. As we wrap up, we would reiterate the huge demand we're all witnessing for connectivity in every aspect of life. The tremendous appetite for data-hungry applications drives all serious network operators to invest significantly in infrastructure. We allow them to approach the expansion differently, providing critical economic advantage through a lower network cost. And the result is a chance for Airspan to up its participation in this large 5G CapEx cycle, while differentiating our award-winning customers in the marketplace through sustainable technological advantage.
+
+The recent industry trends and strong commercial pipeline and innovator wins, assures me that despite the supply chain constraint environment we face, we have the right product set and human capital to take full advantage of these tailwinds for years to come.
+
+One last note. We will be participating in broker conferences and one-on-one meetings in the coming months, including upcoming conferences with Jefferies and Barrington Financial. We look forward to engaging with investors at these events. Thanks again, for your interest and support. This concludes our 1Q earnings call.
+
+You may now disconnect your lines at this time. Thank you for your participation.

@@ -1,0 +1,278 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+Paul C. Campbell — Chief Financial Officer, eMagin Corp.
+Andrew G. Sculley — President, Chief Executive Officer & Director, eMagin Corp.
+Steve J. Shaw — Analyst, Sidoti & Co. LLC
+
+Management Discussion Section
+
+Question And Answer Section
+
+Good afternoon and welcome to the Fourth Quarter and Full Year 2013 eMagin Corporation Earnings Conference Call. All participants will be in listen-only mode. [Operator Instructions] Please note this event is being recorded.
+
+I would now like to turn the conference over to Paul Campbell, Chief Financial Officer. Please go ahead.
+
+Thanks very much, Laura. Welcome, everyone, and thanks for joining us today for our fourth quarter and year-end 2013 earnings conference call. Andrew and I are speaking today from our facility in Hopewell Junction, New York where we make and manufacture all of our microdisplays.
+
+As always, before we begin, I must explain that we will be referring to numbers that are part of our Annual Report on Form 10-K for the fiscal year ended December 31, 2013.
+
+During today's call, we may make forward-looking statements as defined in the Private Securities Litigation Reform Act of 1995. These forward-looking statements are based on the company's current expectations, projections, beliefs, and estimates which are subject to a number of risks and uncertainties. Such statements include references to projections of future revenues, plans for product development and production, the company's ability to ramp up production at its manufacturing facilities, future contracts and commercial arrangements, future products benefit, future operations, liquidity and capital resources as well as statements containing words such like believe, expect, estimate, plan, target, will, intend, could, and other similar expressions.
+
+Our risk factors are included in the company's Form 10-K for 2012 filed last year and for 2013 which is scheduled to be filed with the Securities and Exchange Commission tomorrow. Except where required by federal securities laws, we undertake no obligation to publicly update or revise any forward-looking statements, whether as a result of new information, future events, and changes in circumstances or any other reasons.
+
+Okay. With that, I'd like to turn the call over to Andrew Sculley, our President and CEO.
+
+Thank you, Paul, and thank you, everyone, for joining us this afternoon. I will begin with some corporate highlights and then Paul will discuss our financial results. After that, I'll update you with some specific programs, and we will open up the call to your questions.
+
+But first, I would like to cover the wire bond issue that resulted in stop shipment for three of our customers. Early this month, we received a notification to stop shipments for a customer pending review of possible wire bonding problems in a microdisplay. Just like to assure everyone that that's not an OLED issue or an OLED seal or something like that. It's just where the circuit board connects to the silicon to plug in to the device of the customer.
+
+We had similar notices from two other customers that have been received by us. The customers who supply the systems to the government programs, they include our displays, of course, and they've indicated that they can't accept our shipments until we've resolved this issue. We're working hard on this issue with the joint teams of the customers and looking at all the items that we need to with the display, the use, the testing, et cetera.
+
+However, we don't know exactly when we're going to solve this. Each of the customers and we are working very hard on it. So it will result in a delay of shipments, of course, during this quarter, so it's going impact the March 31, 2014, quarter. The company believes that when we complete the review and with the concurrence of the customers, again, we're working with each of them and the end customer as well we're working with, with the government, that we anticipate shipments will continue with these displays.
+
+Now, I would like to update you on production. During 2013, we made significant progress optimizing the new SNU OLED deposition machine. The additional work that we and SNU Precision, the original manufacturer, did on the tool has improved the yield and uptime significantly. The yield team that we have in the company continues to advance yield for manufacturing line including that OLED deposition but also remember the seal system, the packaging area, the additional resources and efforts of the team has done a great job progressing and we see that progress today. As a result, yield has also been increasing during the first couple months of this year and the uptime is very good.
+
+We feel much more comfortable counting on the output of the tool today. The output far exceeds that of the Satella, and the Satella is the original tool that we've had for OLED deposition. And this is without pushing the SNU tool 24 hours a day, seven days a week. We expect further improvements in both yield and output and uptime as we continue to optimize the SNU. The other benefit of this work is that the additional time on the Satella now is available for R&D and that's important for us because we are a high technology company.
+
+We have staffed our backend or packaging line for additional output needed by our customers. Our new manufacturing VP has led this effort. He's added controls to improve our processes, both manufacturing and administrative. Finally, we've added new equipment that will improve the quality of our processes in the backend. So that's something that we're very grateful to have his help here.
+
+In addition to improving our manufacturing processes, we strengthened our position as the technology leader in OLED microdisplays by advancing our technology and product development programs as planned, including our work on ultra-high brightness full color OLED microdisplay technology. And we'll talk more about that later.
+
+For the year ending December 31, 2013, total revenues were about $28 million versus $31 million for 2012. While we are disappointed by the decline in revenues, I have to point out that despite our manufacturing challenges, product revenues were actually higher in 2013 by about 1% year-over-year. So the decrease in total revenue was mainly attributed to the lower government-related contract revenue, primarily due to lower spending as a result of sequestration. We anticipate, however, both product and contract revenue growth in 2014 over 2013.
+
+Our OLED displays are ideally suited for very demanding applications in the military, industrial, and consumer markets. While planned reductions in the size of the U.S. Military may reduce the number of troops, soldiers, soldier modernization and technologically advanced equipment will remain a very high priority and will continue to drive demand for our continuously improving technology and our microdisplays. And this feedback we of course get from our government customers directly.
+
+And now, I'll turn the call over to Paul to take you through our financial results.
+
+Okay. Thanks, Andrew. Andrew mentioned our total revenues for the year were $28 million and we did $30.6 million in 2012. Although the revenues were lower, product revenue did increase 1%, as Andrew mentioned. R&D contract revenue declined 62% and this was really the revenue issue that we had last year. Most of our contract revenues are comprised of U.S. government-related spending. That spending was impacted significantly by budget issues and sequestration.
+
+As Andrew also mentioned, we do anticipate revenue growth in 2014 in both the display sales side and the R&D contract revenue side. The stop ship orders that we received from the three customers will delay some revenues beyond first quarter, but this will free up capacity that we have to allow us to ship more product to other customers in the first quarter. And should the delay last longer than that that would be true of the second quarter as well.
+
+Gross margin for 2013 was 30% compared to gross margin of 49% for 2012. This was due to lower yields, lower average selling price, and higher production, labor and materials cost.
+
+Operating expenses are comprised of internal, non-funded R&D expenses and selling, general and administrative expenses. The R&D expense for 2013 increased $300,000 to $5 million or 18% of revenue versus $4.7 million or 16% of revenue in 2012. This increase occurred as a result of increases in some personnel-related cost and some other expenses to support our R&D activities such as the ultra-high brightness project that Andrew mentioned. Also, we had fewer R&D contracts, so we were not able to utilize as much of our internal R&D resources against these contracts.
+
+SG&A expenses for 2013 were $8.6 million, about the same as last year. We had a decrease in non-cash compensation. In this case, that stock option expense. Professional fees also decreased. This was offset by an increase in some personnel-related cost and a $0.5 million accrued expense for expected litigation expenses.
+
+So once again, we've been effective in keeping operating expenses under control with no increase in 2013 over 2012.
+
+The operating loss for 2013 was $5.2 million versus an operating income of $1.6 million for 2012. The company booked a non-cash charge to the provision of income tax totaling $8.9 million for the year. This establishes a full valuation allowance against our deferred tax asset. We actually made two – booked two entries, one in third quarter and another one in fourth quarter. This caused our net loss aftertax for 2013 to increase to $14.1 million or $0.60 per diluted share versus net income of $2.1 million or $0.06 per share in 2012.
+
+Adjusted EBITDA for 2013 was a loss of $1.7 million compared to earnings of $4.5 million in 2012. Our earnings performance last quarter impacted our ability to carry a partial valuation allowance for our deferred tax asset. So we were compelled to increase our valuation allowance to a full valuation allowance and therefore that's the cause of the entry in Q4. Future profitability will determine the utilization of our net operating loss carry forwards in the future.
+
+At December 31, 2013, we had cash, cash equivalents, CDs and corporate bonds, these are all liquid investments, totaling $11 million compared to $13.4 million at the end of 2012. But during 2013, we invested $1.9 million in additional equipment, nearly all of it for manufacturing equipment. We continue to have no debt and we've been self funding for more than five years. We haven't done any equity raises or had any significant dilutive transactions in the last five years. Our financial position remained solid despite our loss in Q4. Our balance sheet remains strong and we are well positioned for future growth.
+
+While we do expect revenue growth this year, we continue to see strong demand for our advanced OLED technology. We are going to postpone our revenue guidance for 2013 until we can better determine the impact if any of the stopped ship orders on the 2014 revenue.
+
+With that I'll turn it back over to Andrew for some further comments on our technology.
+
+Thanks again, Paul. Now, I will talk to you about our technology update. As you all know, we're working on ultra-high brightness OLED display technology. As a reminder, we've accomplished this from monochrome displays. Our monochrome green display we believe will be the next display dominant for avionics and again, we've updated you on that before.
+
+Our next step was the demonstration of ultra-high brightness full color in a VGA resolution. We're on track for this demonstration. We have patterned multiple OLED chemistry directly pixelated on a silicon wafer. We've done that already with small pixel pitches and this tells us that the technology that we've invented will work. We still have to finish the equipment to reduce the size of the sub pixels. At this step, however, we will next actually produce a VGA resolution ultra-high brightness color display with under 10 micron sub-pixel size. So, smaller than anybody else can do, anybody at all, but still large for us. So, we have some work to do at this step after that. Our plan is to complete this display next month and show it to everybody who need something like that.
+
+Next, we will produce a prototype ultra-high brightness full color display with a 9.6 micron pixel pitch. This will have a 2.45 micron sub-pixel size, so that's where we have to go from under 10 to 2.45. This display will be capable of augmented reality applications.
+
+The next long-term plan is to continue to increase the luminance beyond 10,000 nits for full color displays. Now these first displays that I spoke of will actually have a brightness of about 5,000 nits and that's candelas per meter square and just to ground some of you who may be listening for the first time, your television is about 350 candelas per meter square. Maybe if you have a really bright one it's 450 and so 5,000 candelas per meter square is very, very bright and 10,000 of course is even brighter. As we discussed in the past, our strategy is to finish the development, gain the share in the avionics, military market with this new technology and do it that at the same time we are working on other markets.
+
+In this case, the ultra-high brightness OLED display would be good for any augmented reality use. Even at the first level of brightness at 5,000 candelas per meter square I spoke of, this display will work for a doctor in an operating room, a fork truck driver in a warehouse or for one of us trying to navigate a large city's train system and the one I am familiar with there is Tokyo, Japan with an augmented reality headset. When you came out of a sub-way station, you wanted to look for a specific building with an augmented reality. This would be perfect even in on a sunny day.
+
+Next, I would like to turn it over to – on the business side, we have a DSVGA display we are talking about, which is our new digital SVGA display. It's in qualification testing and is expected to be released for production in the beginning of the second quarter. This product will provide the company's customers with all of the advantages of the latest technology in a digital display and those things are automatic luminance control, over temperature automatic control, of dynamic range over different luminances of virtually no motion artifacts. All those things we built into our newer displays will be in this product. So it will be an SVGA display that is a digital drive with all of the great qualities and better power, I shouldn't forget that, than our current large running SVGA. We have numerous customers interested in this new display and the company is planning to integrate it into new products that will be announced.
+
+The digital SVGA is an updated version as I said of the SVGA Plus and we're looking forward to hitting the plan of the second quarter.
+
+We have a new SXGA, we call it SXGA096, and that's 9.6 micron pixel pitch. It's smaller size obviously than the SXGA display we have today. It's expected to be qualified by the start of the third quarter. The wafers of the first design run or actually it's second design run have been received and scheduled for the run. The eMagin's – our objective is to ship the sample displays at the start of the second quarter. This product will provide eMagin's customers with the high resolution of an SXGA but with a smaller form factor and, therefore, lower cost than the larger SXGA.
+
+In fact, the SXGA096 will be the same size as our current SVGA product. We actually delayed that SXGA096 to accommodate a customer-funded project. This new microdisplay for a particular customer whom I can't name, I apologize, is aimed at a new ultra-high brightness display. The customer development work was completed on schedule. We delivered prototypes in December of 2013 and we're working out additional contract detail to conduct the formal qualification of the product.
+
+eMagin's Color OLED-XLS technology provides the highest brightness full-color OLED microdisplay available anywhere today. It provides up to 1,000 nits or candelas per meter squared in full color and is capable of a contrast ratio of 100,000:1 at that high luminance. This allows our customers to use our display and see through augmented reality applications for military training and simulation gaming, et cetera. The full qualification of these displays as products is on track for completion by the third quarter of this year. We are seeing great interest from customers for this technology and it's worth to remind you that this OLED stack technology is applicable to all of our resolutions. That's from VGA on up to WUXGA, so all our product lines.
+
+We continue to ship displays for the FELIN program, that's Soldier Modernization Program in France; to BAE/Oasys; to FLIR Sweden for three industrial thermal camera EVFs; and to BCF Technology in Sweden for the Binocular Ultrasound Goggles, that's for veterinarians, among others.
+
+In January, we presented our company story to institutional investors at Sidoti's Semi-Annual Micro-cap Conference and the Needham Growth Conference. We continue to see strong and growing demand in our key market segments and the outlook for OLED microdisplays over the next several years remains positive for us. We look forward to a stronger year in 2014 and with continued improvements in manufacturing productivity. As we discussed above, during 2013, we invested a significant amount of resources to strengthen our manufacturing capability. We enhanced the yield team, improved the SNU uptime and that was critical, changed manufacturing leadership and added new equipment.
+
+The yield improvement team and indeed everyone in manufacturing at eMagin has worked extremely hard to improve our processes and yield and we appreciate that. And we'll continue to invest in our manufacturing processes going forward. We have a number of customers who want both those new displays I mentioned, the digital SVGA and the SXGA096. And as I mentioned earlier, the new SXGA fits in the space the SVGA+ fit in.
+
+And you have to recall one other thing, an advantage of a smaller display is it has a lower cost. So now we have an SXGA. It's a much higher resolution than our SVGA+ product, but it's got a similar cost, because the front-end, the same number of them fit on a wafer. The new display takes advantage of all the electronic improvements since the 2009 introduction of our first digital microdisplay and it is an outstanding product. We can't wait to get it on the market.
+
+So this completes our formal remarks. And now, we'll open up the call to your questions. So, I'll turn it back over to the operator.
+
+Thank you. [Operator Instructions] And our first question will come from Steve Shaw of Sidoti & Co.
+
+Hey, guys. How are you doing?
+
+Hi, Steve.
+
+Hi, Steve.
+
+The preliminary revenue release mentioned equipment downtime, was that related to the wire bonding issue or was that a separate issue with the OLED machine?
+
+No, the equipment downtime was an OLED machine not the wire bonding. And OLED machine was what I said that we worked very hard on all of last year, and you will remember I'm sure, as everyone on the phone call will be, how many times we took the tool down starting from quite a ways back to the original design floor that we actually – we fixed and then SNU helped us put in, and downtime for that tool has been a great problem for us for quite some time.
+
+I look forward to the day where I could have a sigh of relief on that and then I want to just – I met that point where it feels much, much better now. In fact, the new manufacturing manager, Robert feels good about machine as well as we do. I think he has a non-biased opinion coming in here since last October.
+
+Okay. In the last few quarters it seems like there has been a shift towards some of the lower price displays, can we expect that continue into 2014 and I guess why is that primarily happening?
+
+Well, yes, average prices was lower in 2013 and in 2012. It's driven our mix the shift quite a bit. It goes up and down, the average price goes up and down. It's a function of the customers we are selling to in what volumes in that particular quarter. We just happened to have significant volumes and some of the lower priced displays in 2013.
+
+We actually haven't changed prices or price structures, so as the mix shifts, we could see an uptick in the average price or it just depends on what we are selling. If we sell more in the higher resolutions like Andrew was mentioning the SXGA product just a second ago. If we sell more SXGAs and more WUXGAs, these are significantly higher price than say, the lower resolution like the VGA, so improving that product will help and some of the applications that we have do use the higher resolutions, so it just depends on when we get those orders and how it sort of averages out during the quarter.
+
+Okay. And then, Paul do you have for the full year dollar amount that went into military applications, military-related applications?
+
+Yes, that number is between 70%, 75% on the display side for 2013.
+
+Okay. Thanks, guys.
+
+Thank you.
+
+And our next question comes from [ph] Dennis Van Zelfden of Brazos Research (28:00).
+
+Good afternoon, gentlemen.
+
+Hi, [ph] Dennis (28:03).
+
+On February 5, you guys announced that the fourth quarter would be about $6.1 million in revenue to several things, one of which was you talked about how one of your customers tightened the specs on some products. Can you give us an update regarding whether those spec issues have been resolved and how much did it cost you in the fourth quarter with respect to revenue?
+
+We do have customers that oftentimes will tighten up specs, and I'll give you some examples of that. For example, our customers may say, we'd like you to have a white point that has less variability or we'd like to have a particular color coordinate in fact. That's one that we're talking about. Certainly that hurts yield, but it doesn't hurt revenue really, unless for some reason we can't deliver it because of the yield. Now, in the fourth quarter, we already mentioned that we had more downtime than we expected and we had – because we're trying to get the product out our yield was not as good as we expected, but we are hitting the color coordinate for that particular customer and really it was downtime in the yield that hurt that particular the fourth quarter.
+
+Okay. So it wasn't like you produced a bunch of project. They said, no, it wasn't good enough and shipped it back to you. You had to throw it away.
+
+Yeah, if indeed – if we made a product that wasn't good, we couldn't ship it to that customer. So there's two potential things that happened when the customer tightens his spec. One is, we have a right to say, no. The other is, we have right and you, I think what advises the second one. It is that we'll be happy to help you out, but the price is going to go up. That's the one I like. Usually we look at the product when we make it and try and tune the tool to hit it. But if the tool doesn't hit it for this particular customer, we have customers that didn't tighten the spec and that's another way to handle it.
+
+Okay. Okay. Here in the first quarter regarding this wire bonding issue, can you quantify how much of a hit to sales that it may be?
+
+Yeah we probably can't do that at the moment, because we just know that at least there's a delay. But again, let me assure you that we're working with the three customers and the end customer and to us the end customers is extremely important to get the tools to the end customer is something that we feel very strongly about. We've looked it – we're looking at the processes and this is really a team effort, actually all three customers and us are doing a team effort and that's very unusual. I should say the end customer is also working with us on a team effort.
+
+That's one of the reasons we had to move the conference call, because I was at one of those team meetings. And I'm very happy with the way that's going. We're looking at all the items and maybe it's good to remind everyone that the process that this wire bonding entails we put in actually few months before I joined the company in April of 2008, we haven't change that process. So, we're working very hard to understand the display needs of the customer, the use, the testing et cetera and if there's anything we could have done to make an issue. But this is a process that is not rocket science, so I think we can solve it.
+
+The good news as well as the leadership that we have in manufacturing now has actually done packaging in many of his past jobs when he lead manufacturing. So this is an area he is very familiar with and is helping us greatly in getting over this. And again these are teams with the customer with us and with the end customer. So although we can't tell you how much revenue we're talking about, I think that we're going to work like mad to make it as minimal of an impact to our end customer and each of our customers.
+
+And the customers are obviously working with the same importance as we are.
+
+Right. [ph] Dennis (32:37), what's going on with that we're a few weeks here now from the end of the first quarter, so it's not quite over but most of it's over, we had expected that we would ship more product to these three customers than we're going to be able to. But on the flipside, what offsets that is we do have a few weeks now to build and ship product. The other customers that we couldn't have because we were supplying the other three. So the reason we can't estimate what first quarter is going to be is we really don't know how that's going to settle out. What other customers can we supply with which displays and if we can get them manufactured and out the door in the next few weeks before March 31st.
+
+So, because we don't know we said that, we felt there would be some impact in the first quarter that we couldn't determine. So it will be less than what we thought. But going forward the delay doesn't necessarily mean that the 2014 total revenue will be impacted because of delay in shipments, may only mean moving some from quarter one to quarter two. We don't know yet on that.
+
+Okay, thanks for that. Last question Andrew, I understand that you have purchased at least a wafer probe machine and maybe some other types of machines in an effort to get yields up. Can you tell us what the status of those machines are right now? I mean are they in, are they up and running? Is it going to take long to get some benefits out of them and things like that?
+
+Yeah. I'll give you two examples that are easy to do. One of them is a die-attach machine. Now we've been very stingy from our past and you like it that way, but in this case today we attach the die, which is the silicon with the OLED on it to the circuit board, which again as you plug into your customer's device we attach that by hand, dispense material and attach by hand and do a good job, but it's faster and better to do it automated. So that equipment is in and we produce products on it. Now we have to qualify it so that our customers some of whom are very picky with anything like that, so that our customers accept from that die-attach machine and I don't expect any problems at all to be honest with you.
+
+But the other one, another example is the wafer probe. Here what we're trying to do is after the OLED deposition and the seal, we'd like the wafer probe to look at a full wafer so that we don't package in some of the parts, if they are not going to pass final inspection because there are too many particles on it. So we're trying to do that automatically. We're running both tools now, the regular wafer probe that doesn't do that very high resolution detail and the other one.
+
+I'm a stickler for details in this case. So I am challenging them, as how do I know that that new wafer probe isn't throwing away parts that are on that group. So that's what they are proving to me today. They have to prove that or I'm not going to do it. So that one's in and running in parallel, but please, we have to approve that, otherwise you're going to be throwing away parts that are good and the die-attach machine is in, we're working and we're going to qualify it, so shortly.
+
+Once they are both up and running for a while and working correctly, are they expected to make material increases in yield or just small incremental?
+
+Well, I think what you'll see with the wafer probe is the overall yield will not change because of it, but what will happen is we'll take bad parts out initially. So we won't put a circuit board on them and we won't put a – have the labor associated with finishing the packaging. So those are – that one is going to take cost out, but not yield. The die-attach is actually going to yield better, but it's way at the end of the line, so it's not going to be tremendous.
+
+The other one that Paul reminds me of is we do have a new seal system that we put together that has a significant impact on yield, and that we expect to be qualified. The only difficulty with that tool is we have to take it down in order to put a new system on it, so that it's high throughput production worthy. So that's – we're just wrestling with when do we take it down. That one would be a significant impact on yield. That's one of the yield team's things that they're pushing. Now we can run that today, but the throughput will be slower, the new seal system I'm talking about.
+
+Okay, thanks gentlemen. Appreciate it.
+
+Okay. Well we appreciate your question, [ph] Dennis (37:41), thank you. [Operator Instructions]
+
+And our next question will come from [ph] Eugene Conroy (37:52). Please go ahead.
+
+Hi.
+
+Hi [ph] Eugene (37:55).
+
+I had questions in two areas. One on the EVF, a while back there was a customer that wanted an external and an internal and eMagin had to reject the external. But it sounded like you were still working on the internal. Did that customer go away or do you have a firm contract now or are you still working on it? Whatever happened to that customer?
+
+The EVF, the particular customer for an internal EVF, we still have one that's potential. I'm worried a little bit that the EVF market is not as robust as it used to be. And so the customer didn't go away. They're still there, but we're waiting for them to decide whether they want to produce another camera with an electronic viewfinder instead of an optical one. The optical viewfinder is – they already know how to do that and we're still working with them. We said the last time we talked about this that it would more likely be at the end of 2013 for production.
+
+Okay. So your backlog numbers don't include any EVF contracts?
+
+That's correct.
+
+Okay. Your release, the earnings release, referred to a microdisplay, singular. Was this just one chip and the other two companies are worried that they might have them or was there more than one chip that failed?
+
+No, there – the three companies use, there are some differences in the three of them. It's the same process, though, for the wire bonding and, et cetera, same process, and it's the same process, as I mentioned earlier, since 2008. So it is – the companies have different uses and different testing mechanisms, et cetera. So we're looking at all of that.
+
+But when you said a microdisplay, singular, did you mean one chip or just one product, one class of chip?
+
+I think he just meant microdisplay as a general product.
+
+Okay.
+
+Because I think it said certain displays to three customers to address a possible wire bonding problem. So I think it was...
+
+So you didn't really mean it literally is a single chip?
+
+Correct.
+
+And you remind me, [ph] Eugene (40:32), just one other thing I could mention is you might ask, what about the displays we sold to everybody else in 2013 and first quarter 2014, are you getting a huge number of displays back? And we sell many, many, many tens of thousands at least, many tens of thousands. So the answer to the question is except for these three customers, we don't have an issue. And I think that's important.
+
+That's good.
+
+I agree with you.
+
+Okay. Final question. You mentioned that one good thing, if you can call anything a good thing, about this inability to ship is that it frees up yourself to provide chips for other customers that you would – orders would not have been able to fill if you still had to ship to these three customers.
+
+Correct.
+
+So I'm trying to reconcile that with when you were talking about the SNUP, you said the SNUP output already far exceeds the Satella without even pushing it. So your first comment implies that your customer demand is greater than your manufacturing capacity. That is, if you were still shipping to those three customers, there would have been orders you couldn't fill and yet the SNUP now is supposedly you're not even pushing it hard.
+
+I understand your point. Remember we had a large backlog from the fourth quarter of 2013, a large amount of revenue that we couldn't ship.
+
+Yes.
+
+That actually we had to play catch-up in the first quarter. So the fact that we can't play catch-up with these three customers means that we can satisfy some other demand.
+
+Okay. So it's a temporary thing, not a permanent situation?
+
+Yes. It did not mean to imply that we're out of capacity.
+
+Okay.
+
+In fact, if we were, we'd be saying something else about new equipment. So we're not...
+
+Yeah. And then at least you'd be pushing the SNUP as hard as you could?
+
+Yes.
+
+Okay. Well, thank you for taking my question.
+
+You're welcome, [ph] Eugene (42:51). And thanks for calling and listening.
+
+And our next question will come from [ph] Tom McGuire (43:00).
+
+Good afternoon, Andrew and Paul.
+
+Hi.
+
+Hi. It's been a long road for some of us shareholders and the stock's way off and I'm trying to put everything into perspective. So I've written it down, kind of like you've had three major setbacks over the past few years. One was the operational issues with the SNU and more recently we've had the higher specs required by a customer that were hard to hit and required throwing away a lot of displays. And then now even more recently, the wire bonding issue, which has stopped the deliveries to three customers. But what I'm hearing you say is, Andrew, that the SNU's operational issues are vastly improved, it's running well. You and the manufacturing guy are very pleased. So that's ending or getting near an end. And you've learned from the increased specs required by this one customer and you're going to charge for it in the future, if someone's requiring higher specs. And then third, with the wire bonding issue, it's a problem with one display and it's not rocket science to get it fixed and you are working really, really hard. So what I am hearing is things – if you disregard the numbers in the press release, things are really moving forward, especially with the technology advancements that you've outlined in the press release. Is that what I am hearing?
+
+Yes. It isn't necessary one display, just like we mentioned, there could be a few different – well, let me see how do I say it. Well, it could be a few displays instead of just one. But you're right on the harder specs and I have to keep reminding our business development, any different spec means a different price. That's our standard now. Operation, that's sigh of relief that I mentioned earlier. I'm feeling much better with the new equipment and, again, the wire bonding isn't rocket science. Actually the direct patterning of OLED has a 2.45 square pixel. That's rocket science and that's something we are very good at solving those problems. So I think I agree we have to solve the wire bond issue with our customers, work with the teams to get this behind us. But I am optimistic that we'll work like mad and come to some resolution.
+
+Okay, great. And then one other question. Regarding yield optimization, the process with the SNU. I know it involves both frontend and backend processes. Is that basically blocking and tackling or does that involve a little bit of rocket science to get to where you want to be?
+
+Well, there's a lot of it that's blocking and tackling, but a lot of it – maybe I can give you a specific example. Before we took the machine down in the last quarter and made our final adjustments – I hope – to alignment, we noticed that a yield issue that looked very strange. And when we took it down and had the alignment issue fixed, the yield issue went away. So that's blocking and tackling.
+
+But if we want to go well beyond where we were before, maybe we need a little – some great ideas. And the great ideas, I'll give you an example, it's not only at deposition, it's the new seal system. And then the new seal system has – we've tested that through many, many, many cycles of very high humidity and high temperature and it holds up amazingly well. So not only is it good for better yield in our factory and I will let you decide which is more important. But it also in the end our customers are going to see a much, much more reliable product. Now it's very reliable with respect to seal today, but it will be much better. So some people afraid to use OLED today because of that will no longer be afraid to use OLED.
+
+So I think the answer is there's some stuff that we will invent that is good like the new seal system, I hope there's more of that in our thinking and there're certainly more on the plate for us in the longer term, but there's a lot of it in the near term, every project in the near term is really more of blocking and tackling.
+
+Okay. It's a bit disheartening the blips, but it's really important I think to keep well ahead of the competition in terms of technology. So I'm very glad to see that. Thanks a lot.
+
+Thank you. Well, we are a high technology company and I think we're well ahead of our competition and also well ahead of anyone who can direct pattern today.
+
+And this...
+
+Operator?
+
+Yes.
+
+Is there another question?
+
+No. We have no further questions, so I'll turn it back to Mr. Sculley for closing remarks.
+
+Thank you. I just wanted to thank all of you for being on the call and giving us that extra day grace period so I could attend all afternoon meeting. So that was very helpful. I thank you and I apologize for the inconvenience. I also wanted to thank people in the company, the team during the direct patterning, Amal Ghosh and team. Evan Donoghue deserves a lot of credit for this and the rest of the team. I think that the – that's gone very well. The manufacturing groups under Robert Kaizerman has done an outstanding job and in blocking and tackling, but the product development including our Santa Clara group has done very well getting the new products in. They took some time to run things in parallel so that this delay caused by one of our customers wanting something and us saying okay, we'll do it, was actually minimized. It's very good to have that team. So that's Harrison and company, Olivier Prache also for the operations.
+
+The quality group has done an outstanding job for us now because of digging in with this new problem on the wire bonding. They deserve some outstanding credit. Paul's financial team has turned this stuff out. Now he also does a nice job because it's a very small team. So it's an impressive team that works very hard. The marketing guys are drumming up a lot of business for us with new programs. They were in Europe just earlier this week seeing about a new development program, so my hats are off to them. We're doing a nice job with training and simulation project and that's due to Jerry Carollo, his experience in going up the food chain.
+
+So I think the company's people have done an outstanding job getting us to where we are today. We've had some false steps because that tool was difficult to get up and run, but pat on the back to everyone who actually made it happen. And wire bond is a blip that we're planning on doing away with as soon as possible.
+
+So, again, I think everybody at eMagin deserves a thank you for putting in the time and the effort to get this stuff done. Again, I thank you all for being our shareholders. I know you're the owners, so I wish we could sit down with you in a room and talk to you about all the detail and show you the stuff, but being a public company makes that tough. So we're looking forward to the Annual Meeting and not so long if you can make that, please do. Thank you very much. Looking forward to talking to you again. Thanks. Bye.
+
+The conference is now concluded. Thank you for attending today's presentation. You may now disconnect.

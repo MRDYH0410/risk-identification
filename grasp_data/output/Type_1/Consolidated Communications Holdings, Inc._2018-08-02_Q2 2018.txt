@@ -1,0 +1,172 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+Lisa Hood — Vice President & Treasurer, Consolidated Communications Holdings, Inc.
+C. Robert Udell — President, Chief Executive Officer & Director, Consolidated Communications Holdings, Inc.
+Steven L. Childers — Chief Financial Officer, Consolidated Communications Holdings, Inc.
+Frank Garreth Louthan — Analyst, Raymond James & Associates, Inc.
+Scott Goldman — Analyst, Jefferies LLC
+Mike McCormack — Analyst, Guggenheim Securities LLC
+Jonathan Charbonneau — Analyst, Cowen and Company LLC
+
+Management Discussion Section
+
+Question And Answer Section
+
+Good day, ladies and gentlemen, and welcome to the Consolidated Communications Holdings Second Quarter 2018 Results Conference Call. At this time, all participants are in a listen-only mode. Later, we will conduct a question-and-answer session and instructions will be given at that time. [Operator Instructions] As a reminder, this conference is being recorded.
+
+I would now like to introduce your host for today's conference, Lisa Hood, Treasurer, Vice President of Investor Relations. Please begin.
+
+Thank you and good morning, everyone. We appreciate you joining us today for Consolidated Communications' second quarter earnings call. On the call with me today are Bob Udell, President and Chief Executive Officer; and Steve Childers, Chief Financial Officer. After our prepared remarks, we will open the call up for questions. Please review the Safe Harbor provisions in our press release and in our SEC filings.
+
+Today's discussions include statements about expected future events and financial results that are forward-looking and subject to risk and uncertainties. A discussion of factors that may affect future results is contained in Consolidated's filings with the SEC, which are available on our website.
+
+Today's discussion will include certain non-GAAP financial measures. Our earnings release has been posted on the Investor Relations section of our website at consolidated.com. It includes reconciliations of these measures to their nearest GAAP equivalent.
+
+With that, I will turn the call over to Bob Udell.
+
+Thank you, Lisa, and good morning, everyone, and thank you for joining Consolidated Communications' second quarter call. In July, we reached the one year milestone following our FairPoint acquisition. This was a key strategic transaction and meaningfully expanded our fiber network and overall scale. We are recognizing the financial, operational and capital structure benefits of the acquisition and are on track with our synergy plan. We have accomplished a tremendous amount in our first year.
+
+I am proud of how the two organizations have come together as one, unifying and aligning around not only our integration plans, but our vision for expanding broadband and providing the best possible service across our three customer groups. As a combined company with increased scale, we've expanded our network in additional 975 route miles, sold 260 new wireless fiber connections, expanded our lift buildings by 1,100, and launched 5 new data and cloud products.
+
+Since we've introduced our Consolidated Communications brand into legacy FairPoint markets, we have successfully implemented our commercial sales strategy and combined our carrier teams. We've increased broadband speeds available to over 200,000 addresses for consumer and small businesses and we'll complete at least 0.5 million upgrades by year end.
+
+These investments in the network will allow residents and small businesses to get speeds two to three times faster than what is currently available. Higher speed availability will drive higher adoption of over-the-top video services and increased consumer average revenue per unit. These are just a few of the accomplishments and we recognize there are more opportunities in all of our markets.
+
+So now, let's turn to the second quarter highlights. First, within our commercial and carrier channels, we have grown data and transport revenues 3% year-over-year. On a sequential quarter basis, data and transport revenue are up almost 2%, with growth being realized in both legacy consolidated and FairPoint markets. As I mentioned on the first quarter call, we are demonstrating continued success in our legacy markets and are excited by the opportunity we see within the Northern New England region as we execute our proven playbook of investment and growth in data and transport revenues.
+
+Our Northern New England commercial sales team exceeded their second quarter goals. In doing so, they closed a number of strategic sales, including winning two new contracts for data center services against a regional fiber provider. These sales represent sizable monthly recurring revenues contributing to the growth we are beginning to realize. Our commercial sales results are validating the effectiveness of our overall consultative value-based sales approach and we are excited about the ongoing sales momentum and growth.
+
+In our Northern New England markets, we have recently launched a robust MPLS offering and added SD-WAN, providing more connectivity options for businesses with multiple sites, while cost effectively enhancing network performance.
+
+We continue to expand our commercial product and service offerings. We announced the launch of Cloud Peer Connect, a connectivity solution that provides our business customers direct private access to major cloud providers. Across all of our markets, increases of 9% in Ethernet and 20% in cloud voice revenues contributed to the year-over-year growth in commercial and carrier data and transport revenues.
+
+In alignment with our fiber strategy, we've recently completed a fiber expansion project in Kansas City. This project expands our network to the North Kansas City, Missouri area and allows us to bring our advanced communications solutions to more than 700 businesses that we have prequalified their network. This is yet another example of us organically expanding our secure fiber network to deliver gigabit speeds to commercial customers. Our carrier team also contributed to our year-over-year data and transport revenue growth this quarter by continuing their focus on selling new and upgrading existing fiber connections to wireless carriers.
+
+Turning to our consumer channel, our legacy broadband revenues were largely flat as compared to the second quarter a year ago. However, broadband revenue in our FairPoint markets declined $1.1 million over the same period. We have upgraded the speed for customers in Northern New England who were previously on bundles with non-competitive pricing. While we experienced a slight ARPU write-down, we are renewing customers to a new term agreement and securing a longer term revenue stream.
+
+As we continue to upgrade speed availability, we are experiencing steady order volumes and a strong demand for our broadband products. We anticipate the ARPU increase associated with higher speeds, coupled with expanded marketing efforts, will impact broadband revenues in future quarters.
+
+As we upgrade our network, we continue to focus on our premier over-the-top content offerings. We signed two new agreements during the second quarter with Sony PlayStation Vue and Philo. We're excited to be the first partner with Philo a new streaming television platform delivering entertainment-focused content. These streaming content options are all about the retention of the broadband customers who choose broadband services only for their entertainment content delivery.
+
+We will continue to be focused on our consumer strategy to secure the data connection into the home, provide competitive speeds, and introduce over-the-top content and other services that increase stickiness and ARPU.
+
+Turning to synergies, we're improving the customer experience gaining operational efficiencies as we remain focused on achieving our synergy target of $55 million within two years of closing. As of the end of second quarter, we have recognized over $42 million in cumulative run rate synergies, which is ahead of our original plan. We continue with our disciplined and proven approach to integration.
+
+Some of you have asked about our labor negotiations in Northern New England. Since April, we have been negotiating in good faith with union representatives to secure new labor agreements. Let me be clear. We have great employees, and it's our goal in these negotiations to secure agreements that provide more flexibility in order to effectively and efficiently meet our customers' needs, and also effectively manage cost and create a sustainable business. We are optimistic we'll obtain fair agreements.
+
+As I close and turn the call over to Steve, I'm proud to announce we declared our fifty-third consecutive quarterly dividend this week. Our year-to-date payout ratio of 66% is right on plan, given the increased construction activities during the second quarter for broadband upgrades, commercial fiber builds and our focus on turning up new wireless tower connections. Steve?
+
+Thanks Bob, and good morning to everyone. Today, I will review our second quarter financial results compared to the pro forma results for the same quarter last year. I'll also provide an update on our 2018 guidance.
+
+Operating revenues for the second quarter with $350.2 million, down 5% from $369.1 million last year. As expected, the vast majority of the year-over-year decline, almost 90%, continues to come from the pressure on voice and access revenues.
+
+Now, let's look at each one of our customer channels. In the second quarter, commercial and carrier revenue decreased $1.8 million or 1%. The primary driver of the decline were voice service revenues being down 8.6%, with two-thirds coming from the acquired FairPoint markets. We are reporting net year-over-year growth in data and transport as these strategic revenues increased $2.4 million or 2.8%.
+
+Legacy data and transport services grew 5% or $2.6 million, while our FairPoint markets, which are showing strong momentum, decreased less than 1%. As price compression continues to abate and we continue to invest in our fiber network and introduce new business-centric products, we do expect the commercial and carrier data revenue to continue to stabilize and grow. Other commercial revenue increased $674,000 due to revenue recognition for equipment sales and special projects.
+
+Consumer revenue was down $8.6 million for the quarter. Voice revenues were down $5.8 million, with the majority of the decline coming from FairPoint markets. Consumer broadband decreased $1 million or 1.6% during the quarter. As Bob previously explained, we have triggered some consumer ARPU declines as we expected customers – as we move customers to faster speeds and more competitive bundles.
+
+Video revenues for the quarter declined $1.8 million as compared to the same quarter in 2017. We expect this trend to continue, as our customers transition from linear video products to over-the-top streaming content, which complement our broadband strategy. And as a reminder, since video is such a low margin product, this change in the revenue mix is accretive to margins and to free cash flow.
+
+Finally, with respect to revenue, subsidy revenue is down $1.9 million due to the 2017 step-down of CAF II support. As a reminder, the final step-down of CAF II support will occur in the third quarter on August 1.
+
+Operating expenses, exclusive of depreciation and amortization, were $233.4 million compared to $244.6 million for the second quarter last year. The $11.2 million improvement in expenses is primarily the result of synergy realization from corporate, network and operational efficiencies associated with the FairPoint merger. Offsetting these declines were increased equipment costs due to the higher equipment sales for the quarter.
+
+Net interest expense for the quarter was $32.8 million compared to $30.9 million in pro forma interest expense for the second quarter last year. Interest expense increased primarily due to increases in LIBOR and the interest costs associated with the additional interest rate hedges we've put in place during the first quarter of 2018. Given effect to our swap portfolio as of the end of the second quarter, approximately 75% of our debt is fixed rate.
+
+Other income net increased $5 million to $13.2 million primarily due to our pro-rata share of increased earnings from our ownership interest in the five Verizon Wireless partnerships.
+
+In the quarter, we received cash distributions from these partnerships of $11.2 million as compared to $7.7 million a year ago. As with the first quarter, the second quarter also included the prior year true-up of just under $3 million associated with Verizon's accounting for prepaid data roaming. We understand the prior year true-ups are now completed.
+
+Adjusted EBITDA was down less than 1% and totaled $136.2 million in the second quarter. The year-over-year change is primarily due to revenue declines, offset by synergy realization and the increases in cash wireless distributions.
+
+In the second quarter, CapEx was $64 million or 18% of revenue. The second quarter CapEx spend was elevated due to work in the broadband upgrades and fiber spend associated with turning up new wireless fiber connections that we've sold during 2018.
+
+From a liquidity standpoint, we ended the quarter with approximately $10.6 million in cash on hand and $94 million available under our revolver.
+
+For the second quarter, our total net leverage ratio on a pro forma basis was 4.3 times. We do have an attractive capital structure, a low cost of debt and no maturities until 2022.
+
+I am pleased to announce the [ph] closure of (00:14:05) the divestiture of our Virginia properties on July 31 and realized an expected $21 million in cash proceeds.
+
+Cash available to pay dividends was $39.3 million, resulting in a dividend payout ratio of 70% for the quarter as compared to 78% a year ago. We still expect our dividend payout ratio to be in the mid-60s for the full year.
+
+We are making slight modification to our 2018 guidance. We are tightening the range for capital expenditures, while guidance for cash interest and cash taxes remain unchanged. Capital expenditures are now expected to be in the range of $235 million to $240 million, a reduction of $5 million [ph] top (00:14:49) in our prior year guidance of $245 million.
+
+We confirm cash interest costs are still expected to be in the range $123 million to $128 million, and we still expect cash income taxes to be less than $3 million. As a reminder, based in our NOL position and the recently [ph] act of (00:15:07) tax reform legislation, we don't expect to be a federal cash income tax payer until 2022.
+
+With that, I'll now the call back over to Bob for closing remarks.
+
+Thanks, Steve. In summary, we are recognizing the financial, operational and capital structure benefits of the merger, and we remain confident in our planned strategy to invest in our network, deliver results and return value to our shareholders.
+
+Thanks for taking the time to join our call today. We'll now take questions. Norma?
+
+Thank you. [Operator Instructions] Our first question comes from Frank Louthan of Raymond James. Your line is open.
+
+Great. Talk just a little bit about what Philo gives in the margin profile and why that service maybe over some others. And then, can you give us a little bit of the outlook on the wireless partnerships, and in particular, with the Verizon 5G build in Houston impact the financials from your partnership? How much overlap would expect to have with that? Thanks.
+
+Yeah. Good morning, Frank. Starting first with the Philo, it gives us 40 channels of really the non-sports, Discovery, MTV, Country Music Channel, some of the History, A&E-type stuff, and it really gives us that expanded base that, the content owner has been more aggressive in making available over-the-top. And so, we're the first carrier to facilitate that for our customers. And just remind folks that the over-the-top is about stickiness. We haven't invested millions of dollars to build our over-the-top operation or content distribution tool. It's an add to our portal and improves the value and stickiness of our Internet product.
+
+So switching then to the question around 5G in Houston and the impact on our wireless partnerships, the way those partnerships evolved through history, they tracked with the boundaries of historical [ph] Rbox (00:17:36) and the independent telcos. So the way it works out, the 5G investments at Verizon's making will be downtown city proper of Houston and our partnership applies to the more suburban areas. So, we feel like we're really in the sweet spot of getting the benefit of that build-out, the spillover in marketing that'll occur for our wireless partnership, and we'll reap the benefits still of the investments that were made for the Super Bowl a few years back.
+
+Okay. Great. Thank you.
+
+Thank you. Our next question comes from Scott Goldman of Jefferies. Your line is open.
+
+Hey, good morning. Bob, maybe you could spend a little bit more time talking about broadband in the Northern New England. I think some of your comments are very helpful. I just wonder if you could expand. It sounds like you're doing some adjustments on the bundles, which is pressuring ARPU. Wondering how far along you are through that process and how much longer that has to go. And then, as far as the speed upgrade side of the equation, how far along are you there? Have you really been marketing that aggressively or are waiting for further builds to come on that front?
+
+And then, secondly, maybe just talk a bit about some of the new services where you see the greatest opportunity. You mentioned the Cloud Peer Connect, but SD-WAN is, obviously, I think, growing quite a bit in popularity, and you have some new products targeting just small and medium-sized business. So, what kind of traction you're seeing there and where do you see the biggest opportunity? Thanks.
+
+Yeah. Let me combine the first two around the broadband. We have a long history of staying in front of bandwidth demands of our customers. And as I said before, all broadband isn't created equal. Our architecture is dedicated for – architecture and the quality of the broadband for our customers competes very well in every market with our cable competitors.
+
+That's no different in Northern New England. We're seeing the demand. And what we're doing is working through the natural distribution of the upgrades. We're finding some pricing situations in some of the markets that we're having to overcome and that's putting some pressure on ARPU, as you heard in my prepared remarks. And I think we're probably a third through that effort in Northern New England and we've only got 200,000 upgrades done, which is sizable, but we're going to upgrade another 300,000 through the end of the year.
+
+So, it's just a process of working through the base and we're quite optimistic about the initial upgraded areas and our ability to get through that quickly, and again, seeing an ARPU lift, especially for those taking the 25 meg or higher product. So, it's going to be a progressive effort through the end of the year.
+
+On the commercial products side, these are all complementary products that add value to our Metro Ethernet foundation that we lead with in every opportunity, both commercial and carrier, for that matter. So across the sales team, we're adding things that make our Metro Ethernet products sticky. SD-WAN expands our reach to other areas where we otherwise wouldn't be able to offer a extended WAN-type product for our customers. It allows us to play larger than we are and secure some of those national contracts where the headquarters are in our markets or service territories.
+
+And so, filling out the product sets so that we have a similar product set across our markets has been our priority, and FairPoint really didn't have an established productized MPLS product. And so, that's why there was a little bit catch-up work there to do. And now, we have a full complement in all markets and we're seeing great production out of our sales teams in legacy and a little bit better production than we expected out of Northern New England and the FairPoint legacy markets. So, we feel we're in a good position on continuing some overachievement in the commercial and carrier space.
+
+Great. Thank you.
+
+Thank you. Our next question comes from Mark (sic) [Mike] (00:22:24) McCormack with Guggenheim Partners. Your line is open.
+
+Hey, guys. Thanks. Maybe just a comment on some of the stuff we're hearing from the cable companies getting more aggressive in rolling out faster speeds [indiscernible] (00:22:37) talking about gigabit service across the footprint by year end. What you're seeing as far as the threat there? And then, I guess alongside that, any thoughts regarding the 5G threat as you think about more competition coming into the broadband space? Thanks.
+
+Yeah. Thanks. For us, both of those are an opportunity based on the markets we serve and are focused on building in as we've done acquisitions, buying solid fiber assets that are good foundation for broadband expansion.
+
+Let me start with the cable companies. The cable companies have been overselling customers onto broadband because of their architecture. They have to manage their capacity for the busiest time period. And we're able to manage capacity at a node and at a drain level to the Internet. And what that means is this. We have a very high quality product that meets customers' needs and the majority of customers' needs are met at a 20 meg level based on average utilization even at peak hours. That doesn't work as well in a architecture like cable TV companies have, and as a result, they have to manage at a higher level of bandwidth than what the customers actually utilize.
+
+So, we compete very well on every market, and our penetrations prove that, and we're seeing excellent demand in Northern New England where we've opened up speed increases for our products, especially 20 meg and above. But what's interesting is our strategy has been for three years now to deemphasize broadcast video or linear video products and move to over-the-top as a way to drive customers to focus on our broadband product. And now, the cable companies are starting to move that direction and deemphasize the linear broadcast video channel lineup, and we think that just validates our strategy.
+
+Regarding the 5G, I see that also as an opportunity. Our markets aren't going to be the first markets that get build out for 5G. As a result, as we continue to look for ways to make it easier for the wireless carriers to build out, we're going to find, I think, more opportunities to maybe expedite their activity by coming up with turnkey solutions, and we're constantly investigating how we can become easier to do business with for them so that we can secure more of those opportunities. And at this scale, we have a better position at that table for offering solutions.
+
+With respect to how it might compete with our broadband product, we see it as a solution, in some cases, and have trials going on the fixed wireless front to help address some of our CAF obligations. So, I see it as opportunity on both fronts.
+
+Can you also talk maybe just a little bit about the seasonal impact that you saw in the quarter? And looking at the consumer counts, declines are getting better. Is that a trajectory we should expect to continue?
+
+Hey, this is Steve. I'll take a shot on that and Bob can pile on. But yeah, so we – for two quarters, fourth quarter and first quarter, particularly, we talked about the seasonal impact at our Northern New England markets. And so, for second quarter, we are seeing a slight improvement in the seasonal returns, if you want to call them snowbirds or people moving back in to the area. They're just doing it late – it felt like they're doing it later in the quarter than maybe they traditionally have done and maybe not coming back at the same rate as prior years, but we are seeing some impact, and hopefully, that'll continue to improve going into Q3.
+
+Okay. And just on the consumer customer accounts, can that continue the same sort of trajectory we saw here?
+
+I think so. I do think, as we work through the upgrades in Northern New England, we'll continue to see an improvement on the decline rate and turn eventually the net adds, but we're also continuing our marketing activity in other markets, and have across the portfolio in the legacy markets some great uptick as we've positioned our over-the-top and new speed packages in those markets as well.
+
+Great. Thanks, guys.
+
+Thank you. [Operator Instructions] Our next question comes from Jon Charbonneau of Cowen and Company. Your line is open.
+
+Great. Thanks for taking the questions. A nice acceleration in data and transport growth quarter-over-quarter. How do you recommend we think about the sequential growth in second half of 2018? And can you also just give us an update on how we should be thinking about the remaining FairPoint synergies being realized over the next few quarters? Thank you.
+
+Hey, Jon, this is Steve. Yeah. Thanks for the compliment on data and transport. We're pretty – very pleased with that number and expect that to continue. I mean, I think the – as Bob said, we are seeing consistent performance out of legacy [ph] Consolidated (00:28:09) markets and seeing some really nice momentum out of the FairPoint markets while they're jumping in to our [ph] ICB (00:28:17) ready to builds or customer build-out type process. We are kind of working our way through similar to what Bob's comments were on the consumer side. We're renegotiating some contracts both on the commercial and carrier side. I would expect that data and transport line to continue to grow 2% or so in third and fourth quarter. If not, hopefully – obviously, we're hoping for a little bit of an uptick, but I think 2% would be conservative for your model.
+
+And then, in terms of FairPoint synergies over the next couple of quarters?
+
+I think you can assume that we're going to exceed, but we're not telling you how much yet. We want to see one more quarter and how much marketing investment we want to make, and then, I think we'll have a better position to update.
+
+Great. Thank you.
+
+Thank you. I'd like to turn the call over to Bob Udell for closing remarks.
+
+Well, we thank you for taking the time to join our call today. And we remain confident about the opportunity that we're providing to shareholders and we look forward to updating you on our third quarter financial results later this year.
+
+Ladies and gentlemen, thank you for your participation in today's conference. You may disconnect. Have a wonderful day.

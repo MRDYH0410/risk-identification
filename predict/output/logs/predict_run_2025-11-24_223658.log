@@ -1,0 +1,83 @@
+nohup: ignoring input
+[Paths]
+  IN_DIR : /home/ubuntu/project/identification/output
+  OUT_DIR: /home/ubuntu/project/predict/output
+  LOG_DIR: /home/ubuntu/project/predict/output/logs
+  VERIF  : /home/ubuntu/project/predict/output/verification
+  A_MIJ  : /home/ubuntu/project/identification/output/a_mij__sentence_ctx.csv
+  SENT   : /home/ubuntu/project/identification/output/sentences_scored_llm_ctx.csv
+[JSON]  /home/ubuntu/project/predict/output/logs/selfcheck_inputs.json
+[SELF-CHECK][inputs] {'a_mij_company_count': 192, 'sentences_company_count_total': 192, 'sentences_company_count_by_z': {1: 81, 2: 95, 3: 16}, 'companies_intersection': 192, 'companies_union': 192}
+[WRITE] /home/ubuntu/project/predict/output/logs/a_mij_clean.csv rows=3528
+[WRITE] /home/ubuntu/project/predict/output/a_mij_clean.csv rows=3528
+[WRITE] /home/ubuntu/project/predict/output/logs/s_ijz_pool.csv rows=144
+[WRITE] /home/ubuntu/project/predict/output/logs/s_m_ijz_agg.csv rows=34300
+[WRITE] /home/ubuntu/project/predict/output/logs/labels_y.csv rows=192
+[WRITE] /home/ubuntu/project/predict/output/logs/fijz_logratio.csv rows=144
+[WRITE] /home/ubuntu/project/predict/output/fijz_logratio.csv rows=144
+[WRITE] /home/ubuntu/project/predict/output/logs/features_X_base.csv rows=192
+[WRITE] /home/ubuntu/project/predict/output/logs/features_prior.csv rows=192
+[WRITE] /home/ubuntu/project/predict/output/logs/features_full.csv rows=192
+[WRITE] /home/ubuntu/project/predict/output/features_X_base.csv rows=192
+[JSON]  /home/ubuntu/project/predict/output/logs/split_meta.json
+[SPLIT] train=154 companies, val=38 companies
+[WRITE] /home/ubuntu/project/predict/output/verification/preds_train_lgbm.csv rows=154
+[WRITE] /home/ubuntu/project/predict/output/verification/preds_val_lgbm.csv rows=38
+[JSON]  /home/ubuntu/project/predict/output/verification/best_thresholds_lgbm.json
+[WRITE] /home/ubuntu/project/predict/output/verification/confusion_matrix_val_lgbm.csv rows=3
+[PLOT]  /home/ubuntu/project/predict/output/confusion_matrix_val_lgbm.png
+[PLOT]  /home/ubuntu/project/predict/output/roc_ovr_val_lgbm.png
+[PLOT]  /home/ubuntu/project/predict/output/pr_ovr_val_lgbm.png
+[PLOT]  /home/ubuntu/project/predict/output/calibration_z1_val_lgbm.png
+[PLOT]  /home/ubuntu/project/predict/output/calibration_z2_val_lgbm.png
+[PLOT]  /home/ubuntu/project/predict/output/calibration_z3_val_lgbm.png
+[PLOT]  /home/ubuntu/project/predict/output/p_true_hist_val_lgbm.png
+[PLOT]  /home/ubuntu/project/predict/output/p_true_violin_by_class_val_lgbm.png
+[COPY] confusion_matrix_val_lgbm.png -> confusion_matrix_val.png
+[COPY] roc_ovr_val_lgbm.png -> roc_ovr_val.png
+[COPY] pr_ovr_val_lgbm.png -> pr_ovr_val.png
+[COPY] p_true_hist_val_lgbm.png -> p_true_hist_val.png
+[COPY] p_true_violin_by_class_val_lgbm.png -> p_true_violin_by_class_val.png
+[JSON]  /home/ubuntu/project/predict/output/verification/metrics_lgbm.json
+[WRITE] /home/ubuntu/project/predict/output/verification/preds_train_xgb.csv rows=154
+[WRITE] /home/ubuntu/project/predict/output/verification/preds_val_xgb.csv rows=38
+[JSON]  /home/ubuntu/project/predict/output/verification/best_thresholds_xgb.json
+[WRITE] /home/ubuntu/project/predict/output/verification/confusion_matrix_val_xgb.csv rows=3
+[PLOT]  /home/ubuntu/project/predict/output/confusion_matrix_val_xgb.png
+[PLOT]  /home/ubuntu/project/predict/output/roc_ovr_val_xgb.png
+[PLOT]  /home/ubuntu/project/predict/output/pr_ovr_val_xgb.png
+[PLOT]  /home/ubuntu/project/predict/output/calibration_z1_val_xgb.png
+[PLOT]  /home/ubuntu/project/predict/output/calibration_z2_val_xgb.png
+[PLOT]  /home/ubuntu/project/predict/output/calibration_z3_val_xgb.png
+[PLOT]  /home/ubuntu/project/predict/output/p_true_hist_val_xgb.png
+[PLOT]  /home/ubuntu/project/predict/output/p_true_violin_by_class_val_xgb.png
+[JSON]  /home/ubuntu/project/predict/output/verification/metrics_xgb.json
+[WRITE] /home/ubuntu/project/predict/output/verification/ensemble_tuning_trend.csv rows=12
+[PLOT]  /home/ubuntu/project/predict/output/ensemble_tuning_trend.png
+[JSON]  /home/ubuntu/project/predict/output/verification/metrics_ens.json
+[WRITE] /home/ubuntu/project/predict/output/verification/preds_val_ens.csv rows=38
+[WRITE] /home/ubuntu/project/predict/output/verification/confusion_matrix_val_ens.csv rows=3
+[PLOT]  /home/ubuntu/project/predict/output/confusion_matrix_val_ens.png
+[PLOT]  /home/ubuntu/project/predict/output/roc_ovr_val_ens.png
+[PLOT]  /home/ubuntu/project/predict/output/pr_ovr_val_ens.png
+[PLOT]  /home/ubuntu/project/predict/output/calibration_z1_val_ens.png
+[PLOT]  /home/ubuntu/project/predict/output/calibration_z2_val_ens.png
+[PLOT]  /home/ubuntu/project/predict/output/calibration_z3_val_ens.png
+[PLOT]  /home/ubuntu/project/predict/output/p_true_hist_val_ens.png
+[PLOT]  /home/ubuntu/project/predict/output/p_true_violin_by_class_val_ens.png
+[WRITE] /home/ubuntu/project/predict/output/coef_multinomial_long.csv rows=177
+[WRITE] /home/ubuntu/project/predict/output/preds_multinomial.csv rows=192
+[JSON]  /home/ubuntu/project/predict/output/verification/metrics_logit_surrogate.json
+[JSON]  /home/ubuntu/project/predict/output/logs/selfcheck_inputs_vs_preds.json
+[SELF-CHECK][inputs vs preds] {'preds_company_count': 192, 'preds_by_z_star': {1: 85, 2: 92, 3: 15}, 'input_sentences_company_total': 192, 'input_a_mij_company_total': 192}
+[PLOT]  /home/ubuntu/project/predict/output/model_perf_compare.png
+[WRITE] /home/ubuntu/project/predict/output/verification/model_perf_compare_enhanced_raw.csv rows=3
+[WRITE] /home/ubuntu/project/predict/output/verification/model_perf_compare_enhanced.csv rows=3
+[PLOT]  /home/ubuntu/project/predict/output/model_perf_compare_enhanced.png
+[JSON]  /home/ubuntu/project/predict/output/verification/metrics_summary.json
+
+[Done] ✓ logs→output/logs, verification→output/verification, figures→output/
+         preds_multinomial.csv → output/  (默认使用 Ensemble→Surrogate 概率)
+         coef_multinomial_long.csv → output/ (Ensemble surrogate LR 系数)
+         model_perf_compare_enhanced.png → output/
+         model_perf_compare.png → output/  (简版对照)

@@ -1,0 +1,180 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+Thomas R. Schmutz — Chief Executive Officer, FLYHT Aerospace Solutions Ltd.
+Paul William Arthur Takalo — Interim Chief Financial Officer & Director, FLYHT Aerospace Solutions Ltd.
+Bruce Krugel — Laurentian Bank Securities, FLYHT Aerospace Solutions Ltd.
+
+Management Discussion Section
+
+Question And Answer Section
+
+Thank you for standing by, this is the conference operator. Welcome to the FLYHT Aerospace Solutions Third Quarter 2017 Earnings Conference Call. As a reminder, all participants are in listen-only mode, and the conference is being recorded. After the presentation, there will be an opportunity to ask questions. [Operator Instructions] Due to the volume of questions expected on today's call, we ask that you please limit your questions to three to allow time for others in the queue. If there are any outstanding questions at the end of the call, the company will be happy to take them by e-mail at investors@flyht.com.
+
+I would now like to turn the conference over to Tim (sic) [Tom] 00:00:46 Schmutz, Chief Executive Officer of FLYHT. Please go ahead, Mr. Schmutz.
+
+Thanks, Ariel. I appreciate your introduction. So the format of this call is going to follow the one that we've done in the past, where I'll give an overview. Paul Takalo, our interim CFO, will then give a more detailed financial result for the quarter and then – and where we are at this point of the year. And then I'll discuss some of our goals and close the call out. We'll answer e-mail questions first, and then we'll go over whatever calls are called in.
+
+So as I stated in our – the CEO letter as part of the quarterly results, our revenue performance was not as strong as we expected it to be. Our total revenue for the quarter was CAD 3.3 million, which was about 18% lower than the third quarter of last year. And our total revenue was essentially the same as the second quarter of this year, but it was actually opposite from that quarter in both its strengths and its weaknesses.
+
+So, as I said in the letter to shareholders, the revenue shortfall relative to last year was in the Parts category and the Voice & Data Services revenue components. The Parts category was down 45% from the same quarter last year. As several of you know or many of you know, the Parts category includes our Iridium modem and licensing for the A320, A330 program. So, why this category is down so sharply is being investigated. It's always been a lumpy category, and we get orders and we ship product. But we understand our product is still the only available SATCOM option on these aircraft. So, we have understood from early on that the forecast is down for the rest of this year in the Parts category, and it's also down next year relative to what we have originally budgeted.
+
+So, we're continuing to investigate and try to understand why this is the case. It's not immediately clear to us. But we feel very confident that we have a strong position there and that over time, it will be more resilient. Ultimately, of course, that position will diminish. I mean, we know that there's other SATCOM solutions that will ultimately become available. Higher bandwidth requirements will drive the customer towards these, but we expect that be measured in years, certainly not in quarters. So, we are going to investigate that and try to understand that a little bit further.
+
+The Voice & Data Services revenue was down relative to third quarter by 11%. As I stated in the CEO letter to shareholders, we are behind in the new Voice & Data contract sales this year relative to budget. And we announced the temporary – it's hopefully a temporary loss of one of our larger clients last June due to the prime contractor having to renegotiate the contract. We understand that negotiation is still ongoing. We're hopeful that it gets resolved. Of course, we're not sitting around and waiting for that contract. We're out trying to establish more and new ones. And so, we will keep you apprised of where we stand on that particular opportunity.
+
+The AFIRS hardware shipments in the quarter were quite strong, they were up 3% in value over the same quarter of last year. We recognized 22 units this quarter compared to 25 units a year ago. The average sell price was higher, so we basically created more value in this revenue category this quarter.
+
+If we compare the second and third quarters of this year, they were opposite relative to the last year's quarters. So, in the second quarter, AFIRS sales were down, while Parts and Voice & Data Services were up. While in this quarter which we just announced, this past quarter, the AFIRS sales were up, while Parts and Voice & Data Services were down.
+
+So, it's a little bit maddening to us, we obviously want everything to be monotonically increasing, and the business is just not that way. We're managing each and every element of it to the best of our ability. And right now, it's a little bit lumpy. So, we're working on that the best we can. We're continuing to build this very strong backlog, and so that's, I think, ultimately what will smooth things out in the future.
+
+Things do look a little bit better from a year-to-date perspective. So, this year, overall, the revenues to-date are 2% better than they were this time last year. All three of the major components of revenue, which includes the AFIRS hardware, the Parts, and the Voice & Data Service, all those elements are up relative to the last year. And all of those were up despite the challenges that I discussed earlier in this letter, so that's positive. Obviously, they're not of the size we want them to be. But the year is not over, and we're continuing to work all of these elements.
+
+As I mentioned in the sales releases that we do after each quarter, they have been progressing in the quarter and in the year-to-date. So, during the third quarter, we received sales orders and new contracts or purchase orders for nearly CAD 3.1 million for parts, AFIRS hardware, and Voice & Data contracts. And these included named customers such as Bahamasair, our first operator out of Korea, and our second aircraft lessor, which is an area that we're really focusing on.
+
+This brings us to over CAD 16 million in new sales and orders for the year-to-date when we include Azur, which is a contract that we announced in October. This sales activity has been growing our sales order backlog, which I reported in the letter, now to exceed CAD 27 million. And again, this creates significant optimism for our company because it basically creates the ability to achieve future revenue goals.
+
+This CAD 27 million figure that I've quoted only includes the undelivered AFIRS hardware and Voice & Data Services. It does not include the Parts OEM orders, so that is direct sales that are yet – as of yet undelivered. So, that's a very, very positive figure, it continues to grow, and this is the figure that – we established our budget and our goals and shipments based on both this backlog number, as well as what we call book and ship or go-gets during the year. So, we also established a figure – a certain amount of revenue that we're going to book and ship during the year.
+
+Other points of optimism include our cash position, our business position in China, our progress, capturings supplemental type certificates or STCs, and our securing of trial positions with both Boeing and Inmarsat, along with others that we have not press release. And all of these demonstrate our ability to satisfy regulatory requirements that are coming in the future with our products and our intellectual property.
+
+FLYHT began the year, this year, 2017, with slightly more than CAD 700,000 in cash after we paid the mature debentures in 2016. We finished the third quarter with over CAD 2.6 million in cash in the bank. This cash was generated from normal operations during the year and from financing and investing opportunities. We have an undrawn line of credit for CAD 1.5 million from a major Canadian bank. We've been drawing from our CAD 2.4 million Western Economic Canada WINN contribution according to our plan. So, today, we've drawn approximately CAD 800,000 from WINN. We've been – we have a working capital objective as part of our goals, and we are confident that we will meet that goal for working capital.
+
+I mentioned in the CEO letter to shareholders that we now have approximately 50 aircraft using our subscription-based services, Voice & Data Services in China, and that we are on track to launch a dedicated Amazon Web Services client there by the end of the year. That's going to improve our network performance in that area, and it's going to improve the quality for our customers there. We signed 23 of 57 Chinese operators to use AFIRS. We have several more operators in the sales funnel. We're very bullish about our ability to turn subscription on for Voice & Data Services for operators there.
+
+We've achieved the Canadian and corresponding Chinese STC for the E190, which has allowed us to ship kits to a client in that region. We are continuing to pursue the FAA STC and the corresponding Chinese STC to the E190 there as well. That was a customer requirement.
+
+So, we expect that these certifications will be achieved in this quarter, and that will permit a significant component of the backlog to start shipping according to that customer's order profile, which will be over a couple years. We have a plan to utilize a specific STC which was awarded the company in August to enable Voice & Data Services of a specific aircraft that are not currently contributing to our Voice & Data Services revenue component.
+
+So, in summary, we've been doing the necessary certification this year, and we feel that there's an opportunity to monetize that work in 2018.
+
+Operationally, we have a wonderful opportunity having signed the trial agreements for autonomous distress tracking and timely access to flight data with two customers. So, this will potentially satisfy the requirements levied by the ICAO, the International Civil Aviation Organization, for new aircraft replacement service up to 2021.
+
+We announced the U.S. patent for FLYHTStream capability, which has also been issued in China and is pending in other countries, including Canada. One trial is being conducted by FLYHT and Boeing on a FedEx 777. It's Boeing's intent to take the data collected from this trial, which will feature FLYHTStream, implemented through both Iridium and Inmarsat constellations to Industry Committee to support the validation of rules and standards for a streaming solution to meet these new regulations.
+
+FLYHT is excited to have been chosen as the technology partner of Boeing for this activity, and we feel that this selection was precipitated by our technological maturity and intellectual property in this area. The Inmarsat trial is a joint effort to validate their approach to the Global Aeronautical Distress Safety System, GADSS, using SwiftBroadband-Safety satellite communications platform to implement their black box in the cloud.
+
+As I stated in the CEO letter to shareholders, to better understand the possible relationship that can emerge from this trial, in Section 3.5 of their black box in the cloud white paper, it states that Inmarsat will partner with an experienced application manufacturer to implement an interface device between the SB-S satellite data unit on the aircraft and a relevant digital and analog aircraft data sources and systems as specified by the airframe manufacturers that formats the information and provides it to sources such as flight data recorders.
+
+So, FLYHT has modified our AFIRS equipment to deliver aircraft data for streaming via an Ethernet link, and therefore, we believe our equipment is a perfect answer and FLYHT is a perfect partner for Inmarsat according to their established goals on the black box and the cloud. The logistics and the planning phases for both of these trials continue, and we expect to conduct flight tests for both of these trials no later than the first quarter of 2018.
+
+We are developing new capabilities to demonstrate during these trials, and our technical teams are very engaged creating what we think will be compelling capabilities. Now, obviously, when I talk about these two trials, we have confidentiality agreements with both of these very large industry players. So I'm limited to what I can say. So I apologize if in this part of the talk, I've kind of regurgitated what's in the letter. But obviously, there's sensitivity issues there. I can't tell you how excited we are about these opportunities for FLYHT.
+
+So, at this point, I'm going to turn it over to Paul Takalo, who's been our Interim CFO. He's going to give you additional financial details for the quarter and the year-to-date. Paul?
+
+Thank you, Tom. We welcome all the participants on this cold, snowy Calgary morning. As Tom said, my name is Paul Takalo, and I've been Interim CFO for the past several months. It's my pleasure this morning to present a review of the financial results for the third quarter as of September end or three and nine months that ended.
+
+Management was optimistic of a good third quarter that fell slightly short. As Tom said, sales were at CAD 3.3 million that were comprised of CAD 1 million of Voice & Data Services, CAD 1.4 million of AFIRS sales, CAD 863,000 of parts sales and CAD 68,000 of technical services. After two strong quarters, our Parts sales have slowed, down 45% compared to the third quarter of 2016. And this decline plus the lower Voice & Data Services is the primary reason for the difference between the third quarter of this year and the third quarter of last year, and Tom mentioned a little bit more detail about the Parts sales and the Voice & Data Services.
+
+We still think it's positive that our sales year-to-date, total sales, are 2% higher than last year going to CAD 10.2 million to CAD 10.4 million. Gross margin for the quarter was 55% compared to 66% for the third quarter of 2016.
+
+When there's a change of the products, there's different gross margins depending on which product mix, and the AFIRS units have a lower gross margin than the Voice & Data Services and the Parts sales. And given the strong sales for AFIRS units in the third quarter, that would have a bit of a grind on the gross margin. But on a positive note, the gross margin year-to-date is 64% compared to 66% in 2016. So, we've experienced a little bit of a decline, but not significant.
+
+While FLYHT continues to make strides in the sales efforts, one could argue that it was time to invest in spending. The company's approach on that is to try to hold the line on their expenses while pushing to increase our top line. When you take into consideration all expenses, the distribution, admin and R&D, our people costs, the salary and contract labor, from – all those categories make up 75%, or for the third quarter of 2017, CAD 1.75 million of all our total expenses compared to 77% last year. So, our actual labor costs for this quarter have actually reduced.
+
+Year-to-date, our total labor costs are up slightly from 67% to 71%, but representing an increase of CAD 238,000 from last year. This has been offset by, as Tom mentioned, the advances from the WINN program. Most of the recoveries that we're receiving are recovery of labor on projects that we're currently working on.
+
+And as far as the income statement goes, in the third quarter, we've applied CAD 175,000 to the income statement from WINN recoveries, and a total for the year of CAD 442,000. Even though the total recoveries, as Tom mentioned, was CAD 800,000, part of that gets supplied to the income statement and part of it goes into the loan payable back to the government at some distant time.
+
+Total expenses for the quarter, again, taking into consideration the distribution and [indiscernible] 00:18:45 and R&D expenses were CAD 2.31 million compared to CAD 2.28 compared to the last quarter of 2016, representing only an increase of CAD 31,000. Year-to-date expenses are CAD 7.6 million versus CAD 7.3 million in 2016, a decrease of CAD 113,000. So, we continue to really monitor our costs. There's been areas where we've cut back knowing that there are some constraints on some of the programs that we're working on.
+
+For the quarter, the reported loss was CAD 624,000 compared to a profit of CAD 303,000 in – the same quarter, 2016, the loss is a little bit disappointing, but the net loss for the year is CAD 1.235 million compared to – if you exclude the onetime license fee in 2016, our actual loss from normal operations was just under CAD 1.6 million. So, we've been able to reduce that loss from 2016 to 2017 by CAD 354,000. And while the loss is a bit disappointing, given the sales and our costs, it's fairly close to what we would have expected in the budget.
+
+As Tom mentioned, our balance sheet continues to be strong. Cash on hand at September was just under CAD 2.6 million, up from CAD 710,000 at the end of December. Working capital continues to be positive, CAD 2.25 million versus CAD 1.725 million at December 31. The increase for the year is due to cash flow generated from operations of CAD 675,000. The release of the restricted cash, which the company had pledged a security on the previous line of credit before we were able to renegotiate it and release that CAD 250,000, which the company had locked up in a short-term GIC, that's now been released for use if we need it.
+
+As previously stated, the WINN advances of CAD 800,000 contributed to our working capital, as well as CAD 0.5 million of equity advances from the exercise of options and warrants. And, of course, on an outflow basis, it was roughly about CAD 190,000 of loan repayments for finance contracts and the SADI loan.
+
+As with regular expenses, again, the company has held the line on capital spending, only spending CAD 145,000 on necessary replacement of equipment, and that's quite comparable with 2016. While the payables on the balance sheet appear high, it includes customer deposits of CAD 1.1 million that will become revenue when there's ability to recognize units related to the deposits. These represent units that have not yet been shipped to the customer. That deposit amount was only CAD 317,000 at the end of December 2016.
+
+So during the year, there have been additional deposits made on units that hopefully we'll be able to deliver on in the near future. Again, from a strength perspective, modified working capital, which we measure as regular working capital with the add back of customer deposits and unearned revenue, at the end of September was just under CAD 4 million and compared to about CAD 2.9 million at December 31.
+
+That's my summary. Tom and I will be glad to field any questions on those numbers, and I'll turn it back to Tom.
+
+Thank you very much, Paul. I'd like to take this time to thank you, Paul, for stepping in from your auditor position on the FLYHT Board of Directors to serve as CFO these past few months. It made for a really smooth transition and it helped FLYHT to identify a fantastic new CFO whose name is Derek Payne. Derek is going to formally assume that position on Monday. Derek was previously Chief Financial Officer at a Calgary-based company called DIRTT, Doing It Right This Time, Environmental Solutions; Chief Financial Officer at FilterBoxx Water and Environmental; and Treasurer and Vice President of Finance at WestJet Airlines Limited, where he was also – held a term position as the Co-acting CFO.
+
+Derek is unfortunately not able to be on the call today because of a previously scheduled activity that he needed to be at. He's been serving – Derek has been serving as a financial adviser at the company for the past month, learning from Paul and the staff, and helping to prepare next year's budget, which we discussed with the Board of Directors this week.
+
+Derek has outstanding capital markets experience, and in parallel, we have changed our investor relations effort to an internal resource, a very experienced investor relations professional named Ivan Peill who has previously worked for The New York Stock Exchange in Investor Relations and with JPMorgan for about 9 or 10 years as an Executive Director in their Investor Relations advisory group, among other investor relations related positions throughout his career.
+
+Ivan will report to Derek and has been brought on initially with a temporary contract to allow these two new employees to create a future look and strategy to improve FLYTH's position in the capital markets, both in Canada and the United States.
+
+In terms of goals, we announced the signing of Azur Airlines which operates out of the Middle East. So, that was one of our targeted expansion locations, along with Europe and Southeast Asia. We have proposals out in these other areas, and we hope that we can create businesses there as well.
+
+The same is true of a new OEM position. There are several opportunities that we are developing that we hope will be closed within the year or early next year. We are aggressively pursuing new Voice & Data Service deals in China and elsewhere, and we do still anticipate closing a significant deal this year in China.
+
+Our goal is to increase overall monthly recurring revenues by 25%. That's going to be difficult at this point to achieve given where we are at. As I announced earlier, we currently stand at about a 2% increase on our overall revenues for the year, and the recurring revenue component is up about 3% for that same period. But we will measure the success of this recurring revenue services component by looking at December 2017 versus December 2016.
+
+We're actively marketing a new overnight FCC upgrade for a certain class of our deployed units, which specifically targets this revenue class of Voice & Data Services. We're evaluating several customers for launch and follow-on, and we're quite excited with the revenue potential from this activity, particularly in 2018. More objectives are being monitored, and I'll report on those future successes.
+
+So, at this point, we're going to transition to answer questions that have come from e-mail, and then after that, we will take any calls that people may have.
+
+So, the first...
+
+Before we do that, Tom, can I say one thing?
+
+Absolutely.
+
+As Tom has mentioned earlier, today is my last official day as Interim CFO. I want to thank Tom and the board who, without hesitation, recommended that I come on, on an interim basis. As a director of the company, the management team gave us a good amount of detail and good information about what's going on in the company. But what I've learned is, and Tom mentioned a little bit about this in the second quarter, was I got a new appreciation for the talent pool that are here, how hard they work, and I'm really proud to be a part of the company just – even I'm going back as a director. But this people, again, very talented individuals, work very, very hard for the shareholders. And I've got really good – really much improved appreciation at that, and just wanted to feel – let the participants know that everybody's working very hard for the shareholders.
+
+Thanks, Paul. I appreciate that. So, the first question says, I'm a long time investor, stating a gross profit of 60% gives customers a reason to want a lower price. When is FLYHT like going to raise your prices in order to show a good profit after 10 years and increasing shipments? Is it time that this unique product should obtain a premium price?
+
+So, this is a challenging question for me to answer because, I mean, we report our gross margins according to standard accounting practices, so it's not really possible to demonstrate anything other than what we're achieving. I think that we're receiving fantastic margins on our hardware still, it's close to 50%, which, if you look at any business, that's fantastic margins on hardware.
+
+We receive fantastic margins on our software-as-a-service product, our Voice & Data Services, depending upon the particular deals, between 70% and 85%. And, of course, what really drives the top line margin is the OEM deal that we have on the A320 and A330 because that is largely a licensing fee that we receive. So, there's very small cost of sales inside of that revenue category. That particularly category is down this quarter. That's really what was driving the results to be less than what we all wanted them to be. And the rich margin in that Parts category is really what is helping us to grow the business. So I'm confident that, that will continue. But we have received indication that our OEM thinks it's going to slow down somewhat. That's fine. We would love it to remain strong forever, but we have built a significant backlog, as I've mentioned earlier, of CAD 27 million of undelivered AFIRS units and Voice & Data Services, and it's really that component that is going to help us grow as we roll that out.
+
+The next question says, while Inmarsat's SwiftBroadband has been described as an Internet connection, is it not still, at its core, a satellite communications system? And is it not, therefore, still limited by coverage of Inmarsat satellites? Is the Inmarsat SwiftBroadband-Safety test effectively a test of data transmission for speed, robustness and range?
+
+So, it's a great question. I'll provide an answer to this question. I do encourage those of you that are interested in understanding more about what solution we're providing via our partnership with Inmarsat is to read the black box and the cloud white paper, which I've got a link to inside of the digital version of the letter that I included in the third quarter results.
+
+But as many of you are aware, our product contains within its modems that use the Iridium satellite constellations, the low-Earth orbit constellation of satellites that have coverage around the globe, including the poles, Inmarsat uses geosynchronous satellite constellation, which is not lower at orbit, it's geosynchronous, which is much higher. So it's a fundamentally different satellite technology. You actually have to point your antenna at the satellite. So it's versus Iridium, which uses a passive antenna, because at any given look angle, it can see several low-Earth orbit satellites. So, the two are really very different solutions.
+
+What we have done is we have taken our intellectual property position, which is where we have patents on data streaming, and we have modified the software inside of our box so that we can either send the data over our Iridium connection, which is native to our box, or we can send it via an Ethernet connection to another modem inside of the aircraft that uses the Inmarsat solution. So, hopefully, that clarifies what we're doing.
+
+For Boeing, they're going to evaluate straining through both of these satellite constellations, both Iridium and Inmarsat. For Inmarsat, of course, they're interested in validating their own satellite constellation. But in both cases, we'll be streaming using our patented technology and then leveraging the results of these trials to produce industry standards in the Boeing case, hopefully, and then in the Inmarsat case using the results to ultimately [ph] joining market 00:33:30 solution according to the white paper that they have published.
+
+The next question says if SwiftBroadband test is successful, could the Inmarsat Broadband Ethernet Link ultimately supplant the need for installing an Iridium antenna in some cases, thereby reducing the overall cost of installing an AFIRS? I'll shortly answer that question with yes.
+
+Will the option of using an Ethernet connection, would Inmarsat's SwitfBroadband require reapplying for STCs or will Inmarsat's certification of its product suffice? So, in that scenario, we would produce a minor modification to our STC for wiring. So that would – we would piggyback whatever STCs include the Inmarsat certification.
+
+Will FLYTH be further developing its SATCOM solution to work as VOIP? So, that is a question that discusses a future product, and I'm not going to discuss that future product at this time, but we are looking at launching a next-gen product. And so it's best that I don't discuss that on this call.
+
+So, the – it says if Inmarsat was to utilize an AFIRS unit for its purposes, would installing a second AFIRS unit on the same plane be feasible for a client's own later purposes? It's unlikely that – we think it's unlikely that customers would install multiple AFIRS units on an aircraft. But we do think it's likely that our unit could be installed alongside an Inmarsat unit. Our unit would provide the aircraft interface function, it will provide the patented streaming capabilities. It will provide the real-time decision-making component, and that, that would use the Inmarsat unit as communications channel. And that's actually what we're doing on the trials.
+
+What is the status of becoming an OEM option on the Boeing production line? I mean, that's obviously a huge goal for us. We've got a great working relationship with Boeing. We were doing everything that we can to make the ecoDemonstrator trial successful. And by that means we hope to be become an option there.
+
+Can you provide an update on COMAC's ARJ21 and C919 programs, and an opportunity for OEM installations there? So, the – as I've stated a couple times in the past, the ARJ21 and C919, both of those programs – the ARJ21 is moving forward. They have finished that aircraft. I don't know how many that they're going to produce. I really don't have great visibility into that program.
+
+I think that generally, people in the industry would say that was – that program was an opportunity for that industry and that country to learn about building an aircraft. The C919 is a program where they've got a lot of very large industry help from major OEMs across the United States that are working with the government in that country to build that aircraft. That's a pretty crowded room with pretty big players. My position is that I believe that FLYHT is establishing a fantastic position in China on the Airbus and Boeing aircraft. Our customers are – when they receive these aircraft, they're going to want a common solution for the Airbus and Boeing or for all of their mixed fleet. And so, we think that our opportunity in this aircraft, particularly in C919, will come as those aircraft are delivered and our customers want a common solution. We believe that, that will create opportunity for FLYHT.
+
+Has further progress been made in regards to other OEM opportunities? Absolutely. I can't discuss those now, but we've got some really exciting opportunities that we think we'll resolve in the next few months.
+
+I talked about the decline in royalty sales through our OEM, and we're going to try to understand that more thoroughly. And I think that covers most of the questions that we received by e-mail, either directly or through my conversation. So at this point, Ariel, if you would like to turn it over to whatever questions that we have online.
+
+Certainly. We will now begin the question and answer session. [Operator Instructions] The first question comes from Bruce Krugel of Laurentian Bank Securities.
+
+Hey, Tom.
+
+Hi, Bruce.
+
+So, when you started off Q2, if I remember correctly, July was an outstanding month for AFIRS sales. I can only infer from – when you reported your Q2 rather. And when – I just want to understand what happened in the subsequent two months, and then a follow-on question from that. Now that you have your STCs, are you expecting an acceleration of installs? In other words, will you potentially exceed your 22 units in Q4 that you installed in Q3?
+
+Great question. So, what you're referring to is on the second quarter conference call, it was made in July, and we talked about the rapid pace of shipments. That quarter or that month of July is still our high watermark for values of units shipped, so it was a fantastic month. What we failed to realize in the subsequent months was opportunities to shift product because we were working on, in particular, the E190 STC.
+
+We had originally arranged the test flight in April to support the – we've got multiple customers that are using the E190, and the first original customer needed the STC as per usual. But subsequent customers wanted an FAA STC, which was not necessary because the Transport Canada, through reciprocity, is effective. But for whatever reason, there was a desire to have an FAA STC. So as part of our negotiation, we complied and basically agreed to do both types. And the test flight that we had arranged with another client got pushed from April to September, and that put a kink in our ability to ship those units. So, that's really what happened. It's unfortunate, but it's part of the business.
+
+We completed the test flight. We've got the Canadian STC and the E190 completed, along with the VSTC from China. We've got the scheduled conformity inspection for the FAA coming up in the very near term that will result in our ability to submit final paperwork on FAA. And we expect to collect all of those certifications by the end of the year, and that will then open up the gate for us to do the shipments that we expected to be doing by this time.
+
+Okay. And with regards just AFIRS sales momentum into Q4, what – can you give us any color on that?
+
+Well, I cannot give guidance. As you know, as a venture company, we're not allowed to give guidance. But we do have quite a few opportunities to ship product. We're excited. We've actually just expanded our production area inside of the company. So, we – our capacity, our internal capacity, we've grown it significantly. Our ability to both receive and to ship product from this facility has dramatically increased. And so, we're doing that for a reason because I believe that this backlog that we cultivated will ultimately result in significant revenues that we ship from the building.
+
+Okay that's great. Thanks.
+
+Thank you, Bruce. [Operator Instructions]
+
+We have no callers in the queue at this time. This concludes the question-and-answer session. I would like to turn the conference back over to Tom Schmutz for closing remarks.
+
+Okay, great. Why, I thank you very much for listening to the call. The call will actually also be recorded, so that if there's people that wanted to listen to it that weren't able to, it will be posted on our website in the Investor Relations Presentations and Webcast section. I thank everybody for listening and following the company. I'll echo Paul's comments that the team here is working extremely hard to continue to make this company a success. I'm very proud to be a member, and I thank you very much for listening. Thank you. Have a good day.
+
+This concludes today's conference call. You may disconnect your lines. Thank you for participating and have a pleasant day.

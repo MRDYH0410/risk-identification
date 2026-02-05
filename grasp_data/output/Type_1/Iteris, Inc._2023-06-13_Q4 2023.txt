@@ -1,0 +1,292 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+Todd Kehrli — President, MKR Investor Relations, Inc.
+Joe Bergera — President, Chief Executive Officer & Director, Iteris, Inc.
+Kerry A. Shiba — Chief Financial Officer & Senior Vice President, Iteris, Inc.
+Richard Magnusen — Research Associate, B. Riley Securities, Inc.
+Michael Latimore — Analyst, Northland Securities, Inc.
+Tim Moore — Analyst, EF Hutton Group
+Ryan Sigdahl — Analyst, Craig-Hallum Capital Group LLC
+
+Management Discussion Section
+
+Question And Answer Section
+
+Good day and welcome to the Iteris Fiscal 2023 Fourth Quarter and Full-Year Financial Results Conference Call. At this time, all participants are in listen-only mode. A question-and-answer session will follow the formal presentation. [Operator Instructions] Please note this conference is being recorded.
+
+I would now like to turn the conference over to Todd Kehrli of MKR Investor Relations. Please go ahead.
+
+Thank you, operator. Good afternoon, everyone, and thank you for participating in today's conference call to discuss Iteris' financial results for its fiscal 2023 fourth quarter and full year ended March 31, 2023. Joining me today are Iteris' President and CEO, Mr. Joe Bergera; and the company's CFO, Mr. Kerry Shiba.
+
+Following their remarks, we'll open the call for questions from the company's covering sell side analysts. Before we continue, we'd like to remind all participants that during this call, we may make forward-looking statements regarding future events or the future performance of the company, which statements are based on current information are subject to change and are not guarantees of future performance. Iteris is not undertaking an obligation to provide updates to these forward-looking statements in the future.
+
+Actual results may differ substantially from what is discussed today, and no one should assume that at a later date, the company's comments from today will still be valid. Iteris refers you to the documents the company files from time to time with the SEC, specifically the company's most recent Forms 10-K, 10-Q, and 8-K which contain and identify important risk factors that could cause actual results to differ materially from those that are contained in any of the forward-looking statements.
+
+As always, you'll find a webcast replay of today's call on the Investors section of the company's website at www.iteris.com.
+
+Now I'd like to turn the call over to Iteris' President and CEO, Mr. Joe Bergera. Joe, please proceed?
+
+Mr. Joe Bergera. Joe, please proceed.
+
+All right. Thank you, Todd, and a good afternoon to everyone. I appreciate all of you joining us today. Before we begin our regular earnings commentary, I want to apologize for changing the date of our earnings announcement. During these remarks, Kerry will explain the reason for some additional closing procedures that led to this delay. In the meantime, I want to confirm that these additional procedures have resulted in no impact to the company's income statement for fiscal 2023 or our fiscal 2022 comparisons. So, let's turn to those results.
+
+Iteris reported record fiscal 2023 fourth quarter total revenue of $42.4 million and record fiscal 2023 full-year total revenue of $156.1 million, representing significant growth rates of 24% and 17% year-over-year, respectively. We attribute this significant growth to a strong demand for our products and services, as well as the progress of our supply chain improvement plan, which mitigated the shipment constraints we experienced in the first half of fiscal 2023 and continues to normalize the economics of our Vantage sensor product lines.
+
+Our fiscal 2023 three fourth quarter product gross margins improved 172 basis points on a sequential basis as we began to ship Vantage sensors with the alternative circuit boards that we released to production in our fiscal 2023 third quarter. The product gross margin improvement would have been even greater. However, we shipped more units with high purchase price variances to address customer requirements in the period. While this constrained gross margin improvement in the fourth quarter, it helped us flush more purchase price variance to our income statement, which improves our position as we enter fiscal 2024.
+
+As a reminder, the improvement in our fourth quarter follows a sequential improvement in product gross margins in our fiscal 2023 third quarter of 2,640 basis points. In a few minutes, I'll provide some more color on the status for our supply chain improvement plan. And, of course, Kerry will address our service and product gross margin dynamics in more detail in his comments.
+
+Despite concerns about a possible economic slowdown, customer adoption of the ClearMobility platform remains very strong based on key metrics, including net bookings, competitive win rates and instances of customers specifying the use of our solutions. For example, we reported record fiscal 2023 total net bookings of $44.4 million, as well as record fiscal 2023 full year total net bookings of $170.3 million.
+
+Additionally, in fiscal 2023, our win rate and competitive procurements for our service offerings which include consulting, managed services and Software-as-a-Service hit a new record high of 82%, and our solutions were increasingly specified as requirements by various customers.
+
+While there are many examples of customers specifying Iteris technology, we're particularly pleased to report that Iteris have specified by 5 of 37 agencies who are awarded the first wave of Safe Streets for all implementation grants. These grants are funded through the Infrastructure Investment and Jobs Act, or IIJA. The total combined value of these grants is $94 million or 16% of the total $600 million in initial implementation grants.
+
+It's unclear at this time how much of this funding Iteris will receive, but this result clearly demonstrates a high level of customer preference for Iteris solutions. Due to strong customer demand, we ended the March 31, 2023 period with a record total ending backlog of $114.2 million representing a 14% increase year-over-year.
+
+As always, our ending backlog figures and net bookings reflect firm customer orders rather than total contract value. The total value of customer contracts which varies from quarter-to-quarter averages on a historical basis about 200% of our total ending backlog.
+
+Also, keep in mind that our backlog excludes a portion which varies from period-to-period of our sensor bookings since these orders often convert to shipments within a single quarter. Speaking of our sensors, I'd like to share some detail about the performance of our product portfolio.
+
+For our sensors and third party hardware that we refer to collectively as products, we reported fiscal 2023, fourth quarter revenue of $25.1 million and fiscal 2023 full year revenue of $85.1 million, representing a 47% and 24% increase year-over-year respectively. The performance of our sensor portfolio, which represents the majority of our product revenue, demonstrates significant share gains in market categories that we estimate grew at about a weighted average in the range of 6% to 8% over the past 12 months.
+
+This implies a revenue for our sensors grew more than three times the market growth rate. We believe our sensors continue to take market share at a significant rate due to both excellent sales execution and superior product performance. And in the fourth quarter, we continue to extend our superior performance with improvements to various detection algorithms such as red light running, queue length and delay algorithms, enhancements to the setup and ease of use of our video and radar sensors, and optimizations to our connected vehicle sensors process and published connected vehicle data packets at massive scale to ClearMobility cloud, as well as directly to ecosystem participants. Due to the strong performance advantages of our sensors, we continue to win virtually every large competitively sourced detection, fixed travel time, and Cellular Vehicle-to-Everything or C-V2X, sensor initiatives across the country.
+
+In the fourth quarter, our sensors were selected for the following representative smart mobility initiatives. An expanded deployment of C-V2X sensors on the I-4 of between Tampa and Orlando as part of the Florida Regional Advanced Mobility Elements or FRAME Program. You may recall that on previous earnings calls, we discussed similar purchases of our Spectra direct connected vehicle sensors for this large scale multi-year initiative.
+
+Another initiative was a quarter-wide deployment in Richardson, Texas, of high definition AI-based detection sensors. This is the first large scale deployment of our Vantage Apex sensor. Our corridor deployment in Sunnyvale, California of our hybrid intersection detection sensors, in other words, our Vantage Vector sensor using both our video and radar technology that was bundled with our ClearGuide Signal and Vantage [ph] live (00:09:20) cloud software. The corridor deployment in Nashville, Tennessee of our travel time and Cellular-V2X sensors attached to our cloud-based BlueARGUS software. Our corridor deployment in Fredericksburg, Virginia of our Vantage Vector sensors that are connected by our ClearMobility cloud to the Virginia Department of Transportation's Central Signal System and a deployment across a segment at the Rio Grande Valley in Texas of our radar sensors, which we brand as Vantage Radius.
+
+These representative fourth quarter orders demonstrate our progress against the following three strategic priorities that we've talked about previously. First, it demonstrates our ability to win a disproportionate share of large scale modernization initiatives. Second, to attach annual recurring revenue at the point of sale to our quarter-wide sensor deployments. And third, to leverage our leadership in intersection detection to penetrate adjacent categories, including the emerging C-V2X category.
+
+For reference, at this time, we have more than 3,100 intersections and 2,100 travel time in C-V2X sensors that are connected or in the process of being connected to our ClearMobility cloud. As mentioned earlier, we continued in the fourth quarter to make excellent progress on our supply chain improvement plan. And recently, we released to production two additional alternative circuit boards, meaning we've now released a total of eight alternative circuit boards to production. With this achievement, we've now met all the primary goals of our supply chain improvement plan as outlined on our June 1, 2022 earnings call.
+
+Besides mitigating supply chain constraints, the alternative circuit boards will improve our ability to source electronics components, optimize the costs of our electronics components, and enhance our ability to level load our manufacturing capacity. Due to the success of our supply chain improvement plan, we have discontinued the use of external resources to help develop alternative circuit boards, and we started to redeploy internal engineering resources to new product development and sustaining engineering activities.
+
+Now let's review the performance of our services portfolio. We reported record fiscal 2023, fourth quarter service revenue of $17.4 million and record fiscal 2023 full year service revenue of $71 million, representing a 1% and 9% increase year-over-year respectively.
+
+As a reminder, about 45% of our service revenue line is comprised of project based, in other words, consulting revenue, and 55% is now comprised of annual recurring revenue associated with our Software-as-a-Service, Data-as-a-Service, and managed services offers. In fiscal 2023, our annual recurring revenue increased 17% year-over-year.
+
+During fiscal 2023, labor capacity constraints hampered the growth of our consulting revenue and in some instances required us to subcontract activity due to a shortage of internal resources. Additionally, we experienced more moderate growth in the fourth quarter due to customer delays, which affected our ability to meet critical project milestones, pushing some service revenue recognition to the right.
+
+Despite the delivery delays, the level of demand for our service offerings is historic. In our fiscal 2023 fourth quarter, we reported net service bookings of $25.5 million, representing a 26% increase relative to the same prior-year period. We estimate that roughly $16 million or 62% of our fourth quarter net service bookings will be recognized in the future as annual recurring revenue.
+
+In the fourth quarter, our more notable service bookings included: a $6.6 million task order from the Virginia Department of Transportation to extend and expand the scope of activities related to our management of traffic operation centers across the Commonwealth; a $3 million task order from the Virginia Department of Transportation for Iteris to manage critical activities for the agency's network operations center; a $1.3 million task order to complete a quarter-wide traffic signal synchronization project for La Habra, California; a $1.2 million task order from Orange County Transportation Authority to develop a plan, specifications and estimates to modernize traffic corridors in three cities in Orange County; a $1 million task order with the Florida Department of Transportation for integrated quarter management service for key I-94 and I-4 corridors; and an almost $1 million cloud-enabled managed service or process virtualization task order to support the design and construction of the I-494 improvement project in Minnesota.
+
+As demonstrated by the Minnesota project, we continue to increase the attach rate of annual recurring revenue to our consulting projects, which is accelerating the mix of service bookings to be recognized as annual recurring revenue going forward.
+
+To sustain strong customer adoption of our ClearMobility platform, we continued in the fourth quarter to enhance our Software-as-a-Service, Data-as-a-Service, and cloud-enabled managed services solutions. For example, we released a new ClearMobility cloud standard component library to improve the ability of our software applications to operate together in a seamless manner and also enable various software development efficiencies.
+
+We began to roll out an enhanced security framework, which will create additional competitive differentiation for our cloud solutions. We continue to enhance our clear data, data feed and integrated enhanced feed with our clear guide software to address new use cases. We released an innovative new feature and clear asset that uses artificial intelligence to predict the obsolescence of transportation assets. And we introduced a new application programming interface or API to publish travel time and connected vehicle data.
+
+So in summary, we are very pleased with our record fiscal 2023 fourth quarter and full year revenue as well as our record total ending backlog, particularly during a difficult and complicated operating environment. Also, we're pleased with our ability to deliver against an aggressive solutions roadmap while meeting the critical goals of our supply chain improvement plan.
+
+As a result, we successfully unlocked our product backlog. We continued to service our customers and we managed to approach a full normalization of our product gross margins. With these financial metrics continue to trend in a favorable direction, we further demonstrated that Iteris has achieved an important financial inflection point.
+
+So, on that note, I'd like to turn the call over to Kerry to provide some more color on our fourth quarter and also our full year financial results, after which I'll come back and I'll talk further about our fiscal 2024 expectations
+
+Thank you, Joe, and good afternoon or evening, everyone. Before I address our fourth quarter and full year results, I want to say that I'm very excited to have joined Iteris. We participate in a business environment that is growing and developing technologically to meet evolving needs in the intelligent transportation space. When coupled with our solid market position and breadth of value propositions, it's great to join an enterprise that has both a firm foundation and a significant opportunity to help shape the marketplace in the future.
+
+Working closely with Joe, our board of directors, and the rest of the Iteris team has been my pleasure and I look forward to getting better know our shareholders and the analysts that cover Iteris. I next would like to speak to what is happening with respect to our year-end reporting cycle. As we just described in a Form 8-K, we filed before convening this call, our fiscal year-end closing process has been extended. We are in the process of evaluating previously recorded amounts in the balance sheet from activity that predates current periods as well as any possible adjustments that may result from this evaluation.
+
+This matter was identified recently and the evaluation is not yet complete, but we are focusing on transactions that occurred or may be affected by a data conversion process that began in fiscal year 2018, before the company migrated to our new cloud-based ERP systems at the start of fiscal year 2019. We intend to complete the evaluation and file our annual report on Form 10-K on or before June 29, which would be in compliance with the filing grace period under Rule 12b-25 under the Exchange Act. We intend to file a Form 12b-25 with the SEC later today or tomorrow.
+
+I want to stress again that our evaluation is focused on amounts in the balance sheet related to activity that predates current results and do not affect our cash balance or financial health of the business should we need to make any adjustments.
+
+Okay. Let's move now on to address some of the underlying details regarding our financial results for the fiscal 2023 fourth quarter and full year. As Joe noted, we made significant commercial progress in fiscal 2023. While I don't want to repeat the various accomplishments that Joe highlighted, I do want to underscore that our strength in the market is reflected both in the rate of growth and the nominal value of our revenue backlog and bookings.
+
+Moving down the income statement to the gross profit line, I would like to expand some on the commentary Joe provided, particularly related to the impact of supply chain dynamics on our gross profit performance. In fiscal 2023, we incurred almost $16 million in negative purchase price variance from aftermarket purchases of semiconductors and other electronic components. This amount was on top of negative purchase price variances that we began to incur on purchases made in the back half of fiscal 2022. After initially flowing through the balance sheet, what hit the income statement in fiscal 2023 as we sold product incorporating those components also approximated $16 million.
+
+Due to the success of our supply chain improvement plan, we were able to progressively and significantly reduce our aftermarket purchases as the year progressed. Due to our introduction of alternative circuit boards, as Joe described. From a high of almost $5 million per quarter over the first six months, negative purchase price variance incurred for new purchases fell to just over $600,000 in Q4 of fiscal 2023.
+
+Given the rapid and dramatic impact of these dynamics, I think it's important to look at our gross margins on both a year-over-year and a sequential basis. From a year-over-year perspective, fiscal 2023 fourth quarter consolidated gross profit increased $2.4 million or 22% due largely to the increase in fourth quarter product revenue.
+
+However, our consolidated fiscal 2023 fourth quarter gross profit margin of 31.8% did decline 60 basis points year-over-year due to a specific shift in mix between direct labor and subcontractor contact content that impacted our service gross margins and to a lesser extent, higher costs for purchase data.
+
+We do not believe the labor mix shift is systemic in the long run, but it may persist for two to three quarters until we start to realize the benefit of talent acquisition and talent development initiatives that Joe will touch on in more detail in a few minutes.
+
+Likewise, we expect to demonstrate progressive leverage on our data acquisition agreements as our Software-as-a-Service and Data-as-a-Service revenue continues to grow. The sequential gross margin trend also was important to understand. Aggregate gross margin for the fourth quarter of fiscal 2023 of 31.8%, improved 270 basis points over the 29.1% for the prior quarter. The improvement reflects a $2 million decline in the amount of negative purchase price variance hitting the income statement, which also was reflected in the sequential gross margin improvement for the products portfolio.
+
+Partially offsetting this improvement was the 610 basis point decline in gross margins for the services portfolio, which while more pronounced than for the year-to-year comparison resulted primarily from the same factors that I just noted. As Joe mentioned, the amount of negative purchase price variance hitting the income statement in the fourth quarter of fiscal 2023 was higher than originally expected, as the mix of sensor products sold shifted some as we pivoted to meet very strong market demand.
+
+However, the offsetting good news is that negative price variance remaining on the balance sheet was therefore reduced and now approximates only $600,000. Just to reiterate a comment I made previously, equally important is that the rate of incoming variance on new purchases has abated significantly from prior quarters and currently is expected to remain at levels that range between $200,000 to $300,000 per quarter based on current market conditions.
+
+As we look at all the factors involve, we expect our aggregate gross margins to improve progressively as we proceed through fiscal 2024. But the fundamental minimization of negative purchase price variance, better leverage on data cost, as software and other related revenues grow, and the better labor mix on consulting projects, we currently expect that our overall gross margins should return to levels approximating or slightly exceeding 40% in the latter half of the year.
+
+Operating expenses in aggregate were 1% lower in the current year fourth quarter when compared to the prior year and as a percent of sales, declined 820 basis points, reflecting significantly improved leverage on the large revenue increase. The aggregate decline reflects lower G&A expense as spending controls implemented earlier in the fiscal year continued in the fourth quarter. The G&A reduction again, was largely offset by higher sales and marketing costs, primarily due to higher sales commissions on a significant increase in sales for the products portfolio.
+
+R&D costs incurred were relatively flat nominally, with a small increase reflecting some continuing expenses to reengineer products circuit boards, albeit at a lower rate than incurred in the third quarter, as well as continuing development of various ongoing product enhancements. The factors just discussed related to revenue, gross profit, and operating expense fundamentally explained the major comparisons in operating income, net income, and adjusted EBITDA.
+
+For adjusted EBITDA, we delivered $1.4 million in the fourth quarter of this year, which represents a $1.8 million sequential and a $2.5 million year-over-year improvement. The sequential improvement further underscores that Iteris is poised for adjusted EBITDA and related margin improvement going forward.
+
+Total unrestricted cash at the end of 4Q 2023 was $16.6 million, which was $6.4 million higher sequentially and $7.1 million lower compared to last year. While the year-to-year decline reflects the negative impact of the difficult supply chain conditions encountered during fiscal 2023, the sequential improvement is a result of a combination of higher income and strong balance sheet management.
+
+Effective accounts receivable collection and reduced inventory investment were key contributors to the improved cash position. While cash trajectory can be affected in the short term around balance sheet cutoffs, future earnings improvement and good balance sheet management provide the foundation for continued liquidity improvement going forward.
+
+I'll now turn the call back over to Joe who will discuss our fiscal 2024 guidance and provide some closing comments. Joe?
+
+Great. Thank you, Kerry. So the smart mobility infrastructure management market, in our opinion, represents significant long-term opportunities through both to favorable secular trends and also the historic IIJA funding that has been committed by Congress through 2026. In our opinion, the transportation infrastructure sector is largely insulated from current political machinations though we do expect some temporary market confusion to occur this summer when Congress negotiates how to apply the budget targets established by the recent debt ceiling agreement.
+
+As a result, we remain very optimistic about the long-term growth prospects in front of Iteris, and we're very excited with our supply chain challenges largely behind us to be redirecting management attention and engineering resources back to strategic initiatives. To that end, Iteris plans to deliver an aggressive fiscal 2024 solutions roadmap that includes the following major releases. First, and next generation travel time and connected vehicle data collection and data presentation system powered by ClearMobility Cloud APIs. Second, a suite of connected vehicle software applications that will leverage our enhanced connected vehicle data collection and presentation capabilities. Third, a state of the industry cloud-based international registration planning and international fuel tax administration system for commercial vehicles, which, among other benefits, will capture valuable new data sets for ClearMobility Cloud.
+
+Fourth, a new form factor for Vantage Apex to secure additional technical specifications and expand the addressable market for Apex. And fifth, various releases to enhance our video and radar fusion algorithms. We believe our fiscal 2024 release plan will accelerate the adoption of the ClearMobility platform, increase the cross-sell of ClearMobility offerings, and improve the monetization of our expanding mobility data sets.
+
+To capitalize on our release plan, we'll continue to improve the productivity of our various sales channels. For example, we'll further optimize the distribution network for our sensor portfolio, create a small, dedicated enterprise sales team focused on private sector segments, and expand our customer success function to maintain a greater than 95% retention rate and drive more upsell revenue.
+
+In addition to sales channel improvement, in fiscal 2024, we'll implement various talent acquisition and talent development initiatives to improve the labor capacity of our consulting teams. We'll focus on the supply of civil and traffic engineering talent, which remains very tight, even though we've seen some improvement in the software – supply of software engineering and data science talent.
+
+Our tactics will include enhancing our employer brand presence on select campuses, expanding our existing internship programs, improving our capabilities to source international job candidates, increasing the number of generalists we hire, and increasing the level of technical and professional training that we provide all employees.
+
+These initiatives, of course, are going to require some short-term investment, but they should accelerate the pace of conversion of our historic consulting backlog and perhaps, more importantly, create operational efficiencies and certain competitive advantages for us going forward.
+
+Given these dynamics, we expect fiscal 2024 revenue to be in the range of $168 million to $175 million, representing organic growth of 10% year-over-year at the midpoint. And with the increase in revenue and the normalization of our supply chain, we expect a significant improvement in adjusted EBITDA dollars, even after some investments in talent acquisition and talent development.
+
+As a result, we forecast an adjusted EBITDA margin in the range of 7% to 9% of fiscal 2024 revenue and we anticipate a continued improvement in liquidity with fiscal 2024 net cash flow in the range of $12 million to $16 million.
+
+Looking beyond fiscal 2024, we believe Iteris remains on track to achieve our Vision 2027 targets. In other words, we continue to estimate fiscal 2027 revenue in the range of $245 million to $265 million before any additional acquisitions, representing a five-year organic revenue growth rate of 14% at the midpoint. With this substantial increase in annual revenue, we also anticipate progressive benefits from scale to result in fiscal 2027 adjusted EBITDA margins in the range of 17% to 19%. Additionally, we anticipate improvements in our liquidity to enable Iteris to resume our acquisition program, which would, of course, be additive to our organic Vision 2027 targets.
+
+So, in closing, fiscal 2023 was a difficult period due to COVID and then the subsequent global supply chain constraints. Still, we demonstrated significant agility in the face of those challenges, achieving the objectives of our supply chain improvement plan and continuing to develop our platform-centric business model at the same time. As a result, we now enter fiscal 2024 positioned to extend our leadership in the smart mobility infrastructure management market. And we are poised to create significant shareholder value through achievement of our Vision 2027 operating targets.
+
+So with that, we'd be delighted to respond to any questions and comments. And so, operator, I'd like to open up the line to see if you have any questions for us.
+
+Absolutely. Thank you. At this time, we will be conducting a question-and-answer session. [Operator Instructions] The first question is from Jeff van Sinderen with B. Riley. Jeff, please proceed.
+
+Hello. This is Richard Magnusen in for Jeff van Sinderen. Thank you for taking our call. You gave us some color I believe on gross margin percent. But what other additional color can you give us on expectations around OpEx, quarterly revenue progression? Any lumpiness of converting backlog to revenue as we progress through the fiscal year?
+
+Sure. Well, maybe I can talk about, of course, our quarterly revenue progression and sort of lumpiness, it's your term, Richard. And then I'll turn it over, Kerry to you, to talk about the gross margin percent and operating expense if that's okay.
+
+So, in terms of quarterly revenue, as I said, we're providing guidance for the full year of 10% growth at the midpoint. We would expect that to look fairly consistent over the fiscal year from quarter-to-quarter. That being said, we are anticipating the possibility of some initial confusion. Modest, but potentially some confusion in the first half of the fiscal year due to that debate that we expect to occur between Congress and administration, which has – can create some confusion at the state and local level.
+
+Additionally, for our first and second quarter, we expect to have some modest, not significant, but some modest impact from limitations in terms of our labor capacity. So, aside from that, we expect that year-over-year growth in each quarter should be approximately similar as we progress through the year and, again, we're guiding to 10% growth for the fiscal year at the midpoint of our range.
+
+In terms of bookings, which I think perhaps was the point about lumpiness, we do from time-to-time have like some difficult comparisons. So for example, in the fourth quarter for which we're currently reporting. As a reminder, prior fourth quarter of fiscal 2022, we had almost a $10 million order for our detection product from Miami-Dade. So that represented a challenge for us in terms of product booking in the fourth quarter of fiscal 2023. And of course, there'll be certain difficult comparisons going forward that could result in some – in terms of year-over-year comparisons, some fluctuations in terms of the rate of bookings growth.
+
+But overall, at this point, we've been standardly reporting bookings in the sort of mid-$40 million range. We would expect that to continue to increase as we progress on a nominal basis to have substantial bookings – able to report substantial bookings growth in each quarter as we progress through fiscal 2024. And, Kerry, do you want to talk about gross margins and operating expense?
+
+Yeah. I think, directionally, Richard, of course, you know, we're not releasing quarterly guidance specifically. However, as far as the trajectory, we would expect some steady progress, particularly in the second half of this year when you look at margin projections. And I think as I had discussed, some of that's going to clearly be evident with regard to increasing leverage on our software business as the revenues continue to grow. So that should start to show through also as we progress.
+
+Operating expenses, I think that, we will show a little bit of inflation as the year goes on, but it should be somewhat steady in that anything unusual standing out quarter-by-quarter or in the trajectory as we go forward. But again, I think the margin is going to reflect continued sequential progression, particularly in the back half of the year. The year-over-year comparisons, of course, are going to be clouded by what came through the cost of sales with regard to all of the purchase price variance that hit us as the year went on.
+
+All right. Thank you.
+
+Any additional questions, Richard?
+
+No. That's it for now. Thank you.
+
+Great. Thank you.
+
+Okay. The next question is from Mike Latimore with Northland Capital Markets. Please proceed.
+
+Great. Yeah. Thanks very much. On the services business, Joe, I think you said some revenue has moved to the right there. So, can you quantify that a little bit and was it this dynamic or you incurred the costs in the quarter but didn't recognize the revenue in the quarter in that project or projects?
+
+Yeah. Correct. I don't have the precise number in front of me but I think it's probably around $1 million, maybe between $1 million and $1.4 million in revenue. And yes, it was a situation where we did incurred expense but we weren't able to take the associated revenue.
+
+Got it. Okay.
+
+And by the way, I think that translated to about a 200 or 300 basis point impact on our EBITDA.
+
+Got it. Okay. And is the fact that the service gross margin would improve in the first quarter here and then sort of improve every quarter after that?
+
+Yeah. That's generally true. What I was trying to say previously is that I think we'll do a better job of unlocking our services backlog as we're able to overcome some of the labor capacity constraints. But the gross margin underperformance, if you will, in the fourth quarter we think is largely isolated. It's really driven more by the timing of some specific projects. And, yes, that revenue did just slip to the right and we expect to recover both the revenue and then we'll also see a benefit from a gross margin and EBITDA perspective.
+
+Mike, as our labor mix improves and we begin to step up, it will not only help to unlock revenue, but also the mix between contract and our own labor will improve the margin also.
+
+Yeah. That's really a great point. Thanks for pointing that out, Kerry. Because, Mike, in some instances, in order to deal with our own labor capacity constraints, we use subcontractors to perform some of the work. And we don't realize the same kind of margin on that revenue that we do our direct labor.
+
+Yeah. Got it. Okay. And then just on the 10-K analysis, so can you provide a little more clearly there, which balance sheet items are you thinking about and then which years?
+
+Yeah. So I clearly expect, Mike, that we're going to have some balance sheet adjustments that are going to get to flow through. You may have noticed we didn't include a balance sheet, for example, when we put the earnings release out, because those are going to be subject to change.
+
+The focus is really around deferred items that relate to our contracts, and the services part of our business really has nothing to do with our hardware business, which is much more straightforward. So, we're poking at the deferrals. I guess I'll reiterate that this is a balance sheet analysis that does go back years into the past, and I wish I had the evaluation complete, but we're going back in time and there's a lot of contracts to look at and there's a lot of detail to sift through. So, but primarily rather deferred items on the balance sheet.
+
+Yeah. Got it, Kerry. And then Joe, you mentioned that Iteris is kind of "specified" in several I think proposals from the Safe Cities Act, I believe. Have you seen that before? I mean, it sounds like they're basically not doing an RFP say this is what we want to spend money on. Can you just clarify that a little bit more?
+
+Yeah. Well, specification happens at multiple levels. So, for example, we work with a lot of states to help them set the specifications for detection devices that are sold and deployed in their jurisdictions. And to the extent that we're able to influence that that can obviously be beneficial for Iteris. So, that's one thing that happens. To the extent that we're able in certain competitor procurements to influence the specifications of the request for proposals or the technical evaluation criteria, that's obviously beneficial to us.
+
+And so, as appropriate, we'll attempt to influence those specifications. But in this particular instance, we are talking about something different. These are instances where several agencies submitted and received grants from the US Department of Transportation for initiatives that are going to be funded through the IIJA funding. And in those particular instances, the way that the grant proposals were written, the agencies specified Iteris technology software or services. In some instances, that could be because they're required to use us because the state has already stipulated that we must be used because we've managed to influence the state's specifications. But in other instances, the states just felt that we were the appropriate technical solution for the project that was envisioned when they submitted a grant.
+
+But in any events, through either one of those mechanisms, we are the specified solutions. And then they subsequently received that funding from the US DOT when their grants were selected.
+
+Okay. Great. Makes sense.
+
+Now, just to be clear, though...
+
+I'm sorry.
+
+...that does not mean necessarily that we represent 100% of all the activity that's been funded. We're now working with the agencies to get clarification as to what our scope is going to be in those projects. But again, there's some total of all that activity that was funded through those grants represents about $94 million, which is almost 20% of all the – I think it's like 15% to 17% of all of the Safe Streets for our grants that were awarded in the most recent cycle.
+
+Yeah, should help keep the win rate high as well.
+
+Absolutely. And we're obviously super focused on that. And as I mentioned, we're really excited that our competitive win rate – this is for our services business. I'm setting aside the hardware with 82% in the fourth quarter.
+
+Great. Thank you.
+
+The next question is from Tim Moore with EF Hutton. Please proceed.
+
+Thanks and congratulations on a strong sales growth for the year. It's also nice to see the addition of Kerry's expertise on supply chain ops and service-based business models. It was good to talk to him last month at our conference. So, just starting off with my first question about services. I'm just wondering to reach more of an inflection point of incremental gross margin acceleration and step up there, specifically for your cloud-based solution, the direct licensing subscriptions or with process virtualization. Do you estimate you need about $10 million more in revenue from those combined businesses to really move the needle more to get the gross margin up significantly more?
+
+Yeah. Tim, I think you're right. I do think that we reach a critical inflection point when we add an incremental $10 million in recurring revenue. So you're absolutely right. But I don't want people to think that we're not going to see any incremental improvement. I mean, we definitely will. We would expect to see – I mean, it may not be obvious when we report our enterprise results yet, but we do feel like we're seeing some improvement every quarter. And we would expect to continue to see that as we progress through fiscal 2024. And as Kerry mentioned, I mean, that is driving some of the expected gross margin and EBITDA margin improvement in the second half of the current fiscal year. It is absolutely coming from the growth in our services revenue lines.
+
+Great. Now that makes sense. We'll expect, obviously, gross margin to improve and then just get that extra super boost when you get to maybe that $10 million extra revenue.
+
+And Tim, also just to provide a little bit more clarification, people are wondering like, well, what does that inflection point look like? So in terms of our SaaS product lines, as we've said previously, we believe that at scale, we should be able to realize 70-plus-percent gross margins on our SaaS product lines. When I was saying when you probably an additional $10 million in revenue, I was meaning like more specifically as relates to those SaaS products. That's where you're going to see like a big step up from like gross margins in the mid-40% to mid-50% moving to 70-plus-percent. But we will have incremental improvement as we move towards that incremental $10 million in revenue.
+
+That's great. No, thanks for that color and that elaboration. Maybe just switching gears, you had positive adjusted EBITDA in the quarter and pretty much nearly breakeven operating income if we ignore that one-off expense. I was just trying to wrap my head around maybe SG&A expense timing. It sounded like there's going to be some labor hiring. And the training investments, you want to get away from that higher cost labor for subcontractors.
+
+So, if you just take it to another level, I know we talked about incremental gross margin sequentially as the quarters unfold this year. How do you think about achieving positive adjusted EBITDA and maybe the magnitude of that? Do you think the September quarter will still be a positive EBITDA or will it be a drag from that that labor hiring and training and those things?
+
+And so I'll just kind of provide some context and let Kerry talk about a little bit. Absolutely, we expect positive adjusted EBITDA in our fiscal first quarter and second quarter. And also just to make sure that everybody understands the mix of product that we shipped in the fourth quarter was different than what we had expected because we were responding to customer requirements, which are fluid and that resulted in about a 300 basis point negative impact, if you will, against what the original expectation was in terms of our EBITDA margins. And then the service revenue which was a function of two things. Some delays and then, also, the labor capacity constraint resulted in another approximate 300 basis point impact.
+
+So I just want to make sure you guys understood both of things. Those are both temporary issues that we put behind us. So, we do not expect to see that kind of impact going forward. But, anyway, with that, Kerry, do you want to talk more specifically about what expectations should be?
+
+Well, I think, and Tim, you touched on this but the investments Joe mentioned in labor-related initiatives for training and recruiting are really focused on improving our ability to access people skills related to our services business.
+
+So, you have to think about the fact that these are really customer-facing and revenue producing positions. So, while there'll be a little bit of cost increase, and we'll probably proceed converting these resources into producing revenue and margin. By and large, you should think of it from that perspective.
+
+With regard to other types of costs that are more fixed in nature, we would hope to continue to improve our leverage on those aspects of operating expenses as the revenue continues to grow at a double-digit pace.
+
+Great. No, thanks for quantifying those two sets of a 300-basis-point drag each in the March quarter. That's very helpful. It seems like the bottom there – usually the bottom. But, maybe just switching gears, can you elaborate maybe on how some of the [ph] DOT (00:51:05) agencies are migrating to letting you handle your – the service remotely from your office. And how new customers are really seeing the overlaying benefit from the centers of excellence that you have in California, rather than having people in their office with the agencies, just kind of this remote migration.
+
+Yeah. So, every customer account is different. But in general, we're seeing a really high receptivity. This is a model that we're actually evangelizing. I'd say that we're probably on the bleeding edge. And, when we embarked on this, we were uncertain how quickly it would begin to resonate with agencies that we believe it's actually beginning to resonate at a meaningful level and actually kind of ahead of our original expectations.
+
+So, I think that we're tapping into sort of this latent demand, which is fantastic. The thing that we need to work through, however, is working with agencies to get from a position where they're interested in procuring the services on that basis as we've been trying to outline for them and figure out how that can fit into their procurement practices and work within their budget frameworks.
+
+And so, there's still some more work to be done there. But what we're finding is that those sort of more progressive agencies are very eager to work with us to get through those kind of that next level of hurdles. And as we get more and more success with that, then we'll be able to take those best practices and migrate them to other agencies who are perhaps less forward thinking.
+
+But that being said, in terms of like tapping into like the basic underlying demand, I think that we feel very confident that we've identified a gold vein here. And we're increasingly tapping into that market interest and in capitalizing on this alternative delivery form.
+
+And I think, Tim, to some degree, you kind of hit on maybe one of the primary reasons why that's the case. As a result of COVID-19, as everybody knows, there was like a huge loss in, like labor, right? It kind of evaporated. And a lot of that labor that was lost happened to be boomers. And as you may or may not know, there's – if you look at the public sector labor force, they had a particularly high exposure to employees that are – that generation, the baby boomer generation, meaning that there's been a tremendous drain on labor capacity among these agencies. And so, they're desperate to try to figure out how do we plug that gap and our ability to offer cloud enabled managed services and process virtualization and just generally automation is a great answer for them. And I think that's why we're seeing such a high level of interest.
+
+And again, the only issue for us now, not to the only issue, but the primary issue for us now is help agencies get from like that level of interest to a point where it's easier for them to now procure these services. And we're starting to work through that with agencies, frankly, across the country, although we are seeing probably more interest in this model in some of the bigger states, which would include California, Texas and Florida.
+
+I think when you think about flexibility, scalability and time to ramp up our model, I think enhances outcome in all those cases. It's a great return on investment also because you're now looking at supporting fixed cost operations underneath all of that, too.
+
+Well, great. Thanks for sharing out. That's very helpful color. And that's it for my questions. Thanks.
+
+Okay. Thanks, Tim.
+
+The next question is from Ryan Sigdahl with Craig-Hallum. Please proceed.
+
+Hey, guys. All my operational questions have been answered, but just two clarifications. One, what was cash as of the end of the quarter, if you're willing to give that one balance sheet metric? And then, two, any internal control deficiencies or material weaknesses related to the potential restatements?
+
+Yeah. Ryan, both points on the unrestricted cash and the restricted cash is very, very nominal, as you've seen really from period to period. But we were at $16.6 million is where we ended up the quarter. So that was a very nice improvement sequentially. The year-over-year cash comparison is, again, as I know you realize, was affected by the excess costs we had to incur due to the supply chain issues during the span of most of fiscal 2023, especially in the first six months, but a nice turn from the end of Q3 to Q4. And, we will expect again to continue to enhance our cash position as the year comes to a close in 2024.
+
+On the material or the controls assessment, we're still going through that right now. Ryan, I think, first part of the evaluation is to get the numbers correct, quite honestly. The fact that the activity we're focusing on and it goes years into the past, I can tell you that certainly, since I've been here and as I've looked back kind of sequential year-by-year, I'm very comfortable with the controls that have been looking at and measuring activities for really the last three fiscal years certainly. The issue that arose again goes back to a time when the culprit that we're looking for is really related to the ERP conversion.
+
+I would like to say that, we could be immunized from that. But I have seen a lot of companies that have had struggles in maybe different ways that is manifested but related to large scale conversions like that. So, I'm not worried about current controls at all. And the controls assessment that goes back a few years in the past is something that we really haven't come to a conclusion on yet.
+
+Great. Thanks, guys. Good luck.
+
+Thanks.
+
+Is there any additional questions?
+
+We have no further questions in queue. We have reached the end of the question-and-answer session and I will now turn the call back over to Joe Bergera for closing remarks.
+
+All right. Great. Well, thank you, operator. So, as always, I really appreciate everybody's support and your thoughtful questions. On the Investor Relations front, I want to let everybody know that we plan in our fiscal 2024 second quarter to provide an update and IIJA update. You may recall that we had talked about that in the past and plan to organize a virtual event to present this information. But just in full transparency, we continue to run into schedule conflicts and that's become increasingly difficult to pull that off.
+
+Therefore, we've decided instead to publish a white paper that will describe various aspects of the IIJA, such as a breakdown of the budget line items and the status of the programs will be created due to the legislation and we'll map that to our lines of business. We have an understanding of the points of intersection. Additionally, we will conduct various investor outreach activities and as always, we are available to speak with investors should you guys have any follow up questions.
+
+In the meantime, we look forward to updating you again on our continued progress when we report on our fiscal 2024 first quarter results. And with that, we're going to go ahead and conclude today's call. Thank you, everyone.
+
+This concludes today's conference and you may disconnect your lines at this time. Thank you for your participation.

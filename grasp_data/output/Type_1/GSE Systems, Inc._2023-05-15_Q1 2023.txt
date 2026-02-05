@@ -1,0 +1,186 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+Adam P Lowensteiner — Vice President, Lytham Partners LLC
+Kyle Justin Loudermilk — President, Chief Executive Officer & Director, GSE Systems, Inc.
+Emmett A. Pepe — Chief Financial Officer, GSE Systems, Inc.
+Graham Mattison — Analyst, Water Tower Research LLC
+Sameer Joshi — Analyst, H. C. Wainwright & Co. LLC
+
+Management Discussion Section
+
+Question And Answer Section
+
+Good afternoon. Welcome to GSE Systems, Inc. Reports First Quarter Fiscal Year 2023 Financial Results Conference Call. All participants will be in listen-only mode. [Operator Instructions] After today's presentation, there will be an opportunity to ask questions. [Operator Instructions] Please note this event is being recorded.
+
+I would now like to turn the conference over to Adam Lowensteiner with Lytham Partners. Please go ahead.
+
+Thank you, Debbie, and good afternoon, everyone. And thank you all for joining us today to review the financial results for GSE Systems for the first quarter fiscal 2023 ended March 31, 2023. With us on the call representing the company today are Kyle Loudermilk, President and CEO of GSE Systems; and Emmett Pepe, Chief Financial Officer of GSE Systems.
+
+Before we begin, I would like to remind everyone that statements made during the course of this call may be considered forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Act of 1934. These statements reflect current expectations concerning future events and results. Words such as expect, intend, believe, may, will, should, could, anticipate, and similar expressions are words that are used to identify forward-looking statements, but their absence does not mean a statement is not forward-looking.
+
+These statements are not guarantees of future performance, and are subject to risks and uncertainties and other important factors that could cause actual performance or achievements to be materially different from those projected. For a full discussion of these risks, uncertainties and factors, you are encouraged to read GSE's documents on file with the Securities and Exchange Commission, including those set forth in periodic reports filed under the forward-looking statements and Risk Factors section. GSE does not intend to update or revise any forward-looking statements, whether as a result of new information, future events or otherwise.
+
+On this call, management may refer to EBITDA, adjusted EBITDA, adjusted net income and adjusted EPS, which are not measures of financial performance under Generally Accepted Accounting Principles, or GAAP. Management believes that these non-GAAP figures, in addition to other GAAP measures, provide meaningful supplemental information regarding the company's operational performance. Investors should recognize that these non-GAAP figures might not be comparable to similarly titled measures of other companies. These measures should be considered in addition to, and not as a substitute for, or superior to any measure of performance prepared in accordance with GAAP. A reconciliation of non-GAAP measures to the most directly comparable GAAP measures, in accordance with SEC Regulation G, can be found in the company's earnings release.
+
+With that, I'd like to now turn the call over to Mr. Kyle Loudermilk, President and Chief Executive Officer of GSE Systems. Kyle, please proceed.
+
+Thank you, Adam. And I'd like to welcome everyone to GSE's first quarter fiscal 2023 financial results conference call. Earlier today, we issued a press release detailing our financial results. Hopefully, you've had a chance to review this news release, but if not, a copy can be found on our website at www.gses.com under the News section.
+
+To lay out the agenda for today's call, I'll start with a very brief update on the industry and the quarterly results, as it's only been a few weeks since our last conference call. Emmett will review the financial results and we'll conclude with a Q&A session.
+
+First, a brief update on the industry. Demand for electricity on a global basis continues to grow, and as a result, governments are seeking to make sure there's an ample supply to meet this demand. In addition, many countries are looking towards something that produces clean energy to keep their carbon profile to a minimum. These trends are driving a new renaissance towards the consumption of nuclear power.
+
+As a result, in the near term, we continue to see more facilities looking for license extensions to operate and investigate capital investments to produce more power in what is called an upgrade. We believe there is a shift occurring within the industry from decommissioning to filing for extensions to keep operating for the foreseeable future.
+
+Recently, I met with the CEO of a major utility operator, and he told me, "five years ago, I was planning to shut down a number of plants. Today, I'm not only looking to extend our lifetimes, but to invest significant amounts of money over the future to produce more power from them." This gentleman said that he's not seen a more optimistic outlook for the industry since the 1980s when he began his career.
+
+Last conference call, I highlighted Xcel Energy's North States Power in Minnesota as an example, which recently applied for a 20-year operating license extension for its Monticello reactor, which currently runs through September 2030. This would be the facility's second 20-year extension and, if granted, we keep the facility open through 2050.
+
+In recent weeks, there has been discussion in Michigan to restart the 800-megawatt Palisades nuclear power plant, which is currently being decommissioned. This would be possible with the help of federal dollars from the infrastructure bill signed into law in November 2021. In addition to potential federal dollars, the state of Michigan has announced it would provide up to $300 million to assist in reopening the plant in order to meet key climate goals. This news demonstrates the value nuclear power is bringing to the industry, clean and consistent power.
+
+Also to reiterate, during the first quarter, the Vogtle 3 nuclear reactor in Georgia is the first nuclear reactor to go critical in seven years in the US and the first new-build in 30 years. Unit 3 is now coming into full service and Vogtle Unit 4 is nearing completion and expected to start up early next year. This is a great achievement for Southern Company, the industry and GSE.
+
+Also, if you go into these control rooms and look at these new reactors and the control systems, it's complete digital control room, nothing like the prior generations of nuclear power plants. As older nuclear power plants obtain operating extensions, we believe we are going to go through a transition where those old control systems that are analog are going to transition to digital control systems. These upgrades would require investments in the hundreds of millions of dollars per reactor. This is exciting for industry as the digital control systems allow the operator to produce more power reliably, efficiently and safely.
+
+This is a good news for GSE as this creates significant opportunity to sell our solutions across the board from simulation to engineering, design and analysis, and programs and performance. This is a long-term trend that is only now emerging and in the planning stages, and we are eager for industry to broadly move forward.
+
+In the longer run, there's continued momentum around the development of small modular reactors, which would be inherently safe to operate, while requiring a smaller footprint than traditional nuclear power plants. It is no doubt that SMRs will be the way to the future. On this front, recently, Westinghouse has announced plans to enter the SMR marketplace with plans to create its own SMR called the AP3000. The company is leveraging its know-how and this action acknowledges the significant market opportunity for SMRs at the 300-megawatt scale. This is great news for the industry and shows the next wave of plants built for the nuclear industry will involve significant SMR opportunities.
+
+The macro outlook for nuclear energy continues to remain positive. Global awareness of the importance of nuclear power for energy security, environmental equity and grid reliability is driving further action to sustain existing nuclear power fleets, produce more power from those assets and accelerate the path towards adoption of next-generation nuclear power technology. While it takes significant time for industry to move through the planning process to project execution and spending, we feel that the industry is entering a major cycle of long-term investment for growth barring any major disruption.
+
+Now for some perspective on GSE's business in Q1 of the fiscal year 2023. The highlight of the first quarter were the new orders awarded, which was $19.1 million, the highest in nearly three years. As a result of these new orders, we have refilled the company's backlog to nearly $41 million, the highest level in over a year, which is very helpful to our organization for the remainder of 2023.
+
+While we hope to win some of these orders sooner, we're pleased to have won this business in Q1 and expect these orders to be converted into revenue during the coming quarters. As a result of revenue lagging orders, operationally the first quarter was similar to that with Q4. While the company's performance needs to improve, we believe we have a good opportunity to deliver better results with the new orders received in the first quarter.
+
+Focusing a bit more on the highlights of the first fiscal quarter, the company's Performance Engineering division continued to show contributions, especially including software and support sales of $1.2 million, up from roughly $400,000 in the first quarter of 2022. Many of the new orders received in the first quarter are for Performance Engineering services. New orders for Performance Engineering during the first quarter were $14.7 million, an increase of 130% when compared to $6.4 million in the first quarter of 2022. This is good news. We're pleased with this trend. We feel this reflects what we're seeing in the industry, tentative initial investment in engineering services as broader investments will play out over the years to come.
+
+A major deal that closed in early Q1 is a renewal contract that includes a meaningful expansion of services with two US government engineering laboratories dedicating to supporting the US Navy. This is a five-year contract that has options to make it worth up to $28 million over that time. GSE has been under a series of service contracts with these laboratories for over 20 years, and this renewal is a testament to the strong relationship we have created with these laboratories and the essential value these services delivered over that time. We're proud to serve the mission of these important national assets.
+
+Another significant win is the recent announcement of the upgrade of the training simulators at the Olkiluoto Nuclear Power Plant in Finland. This contract, which is worth nearly $900,000, is expected to deliver key new capabilities for TVO once completed over the next two years.
+
+Moving to our Workforce Solutions business, which has had its challenges during 2022, is continuing to slowly improve. Revenue was $3.9 million in the first quarter, which is still lower than a year-ago level, but improved sequentially from the fourth quarter, which was $3.3 million. As I've expressed in the past, we spent the majority of 2022 retooling the division by rebuilding the sales and recruiting teams for this business. We're still in the midst of turning around the division and more needs to be done to continue the momentum here.
+
+Now I'd like to discuss our focus on sales and revenue recognition. While revenues in the quarter weren't at our historic levels, new orders were, and we believe that demonstrates that customers have work to conduct and are making their way back to spending. While this doesn't mean we're out of the woods as nuclear isn't going away, and our discussions with our customers and new prospects continue as they are still in the planning stages for future capital spending on their facilities. As a result, we're eager for spending to recover to higher levels and we're in front of these companies to align their needs and our capabilities and promote the value that we can provide.
+
+Continued strong license revenue accompanied by recent improved orders and bookings are a result of being out in front of customers and being aggressive to win the business that is available. By being in front of customers, we feel we're setting the stage to capture more business as industry spend recovers.
+
+To summarize, while we wish the momentum was building faster, we do continue to make further progress to reaching our goals of increasing orders, backlog and a tick-up on revenue. The new orders received in the first quarter are a step in the right direction and places the company in a solid position for improved performance.
+
+I'll now turn the call over to Emmett Pepe, GSE's CFO, who will review the first quarter financial results. Emmett, please proceed.
+
+Thank you, Kyle. With the numbers highlighted in detail in the press release, let me focus my comments on a few areas and provide added color where I can. We are pleased with the progress that we are seeing in our order flow for the first quarter, which, as Kyle has indicated, is the highest for the company in three years.
+
+New orders in the quarter were $19.1 million or a 72% increase from Q1 of fiscal 2022. We are starting to see the early signs of the investments that were made into the business development functions of each segment. Revenue during the first quarter of 2023 was $10.9 million, a decrease of 11% compared to the $12.3 million in Q1 of 2022, but slightly higher when compared to the $10.8 million in the fourth quarter of 2022.
+
+Our Performance Engineering division continues to perform well for the company with revenues of $6.9 million for the first quarter of 2023. This compared to $7.5 million in the fourth quarter of 2022 and compared to $6.4 million in the first quarter of 2022. Orders for Engineering Performance (sic) [Performance Engineering] (13:10) increased 129% to $14.7 million in Q1 of 2023, compared to $6.4 million in Q1 of 2022.
+
+Workforce Solutions division revenue in the quarter was $3.9 million, compared to $3.3 million in the fourth quarter of 2022 and compared to $5.9 million in the first quarter of 2022. Orders were $4.4 million for Q1 of 2023, compared to $4.7 million for the same period in 2022. While this is a slower ramp than anticipated, we're closely monitoring this business and we're excited about the upcoming opportunities.
+
+Gross profit in the first quarter of 2023 was $2.4 million or 22% of revenue. This compared to a gross profit of $2.4 million or 19.8% of revenue in the first quarter of 2022. Gross profit margin improved over last year due to project mix, including the benefit of our software sales and more revenue coming through the Performance Engineering division, which carries higher margins.
+
+While revenues were lower at the Workforce Solutions, margins were 13.1% in the first quarter, up from 10.4% in the same period a year ago, showing that investments made in the division are working and having higher quality of orders coming through, as well as significantly more direct higher placements than previous periods.
+
+Operating expenses in the first quarter of 2023 were $5.2 million, compared to $5 million in the first quarter of 2022. The increase in Q1 was due to additional corporate expenditures, primarily related to the build-out of our business development team. That said, we continue to take a critical look at our expenses and believe we have identified additional cost containment measures.
+
+As we have mentioned on previous calls, three facility leases are ending this quarter in Q2 and should provide an opportunity to decrease our physical footprint and our fixed costs related to this year. We are also more generally assessing our vendor spend with an eye on improving our cash flow.
+
+Net loss in the first quarter of 2023 was $3 million or a loss of $0.13 per share, compared with a loss of $3.4 million in the first quarter of 2022 or $0.16 per share. Adjusted net loss was a loss of $2.6 million or $0.11 per share in the first quarter of 2023, compared to an adjusted net loss of $2.2 million or $0.10 per share in the first quarter of 2022. Adjusted EBITDA was a loss of $2.2 million in the first quarter of 2023, compared to a loss of $1.7 million in Q1 of 2022.
+
+The company's backlog greatly improved during the first quarter of 2023 as seven new orders were received. Backlog at the end of the first quarter was $40.9 million, compared to $32.9 million at the end of the fourth quarter and up when compared to the $40.1 million at the end of the first quarter of 2022.
+
+Performance Engineering segment backlog was $31.4 million at the end of the first quarter and Workforce Solutions division's was $9.5 million. This compares to $23.8 million and $9.1 million, respectively, at the end of the fourth quarter. Compared to a year ago, the backlog for Performance Engineering was $31.9 million and $8.2 million for Workforce Solutions at that same time period. We will look to leverage these new orders and our strong backlog to generate future revenue, while we continue to pursue cost containment measures and expect to start seeing the benefits of these initiatives in Q2 of 2023.
+
+Moving our discussion to the company's balance sheet. We exited the first quarter with $1.3 million in cash, as that compares to $2.8 million at the end of 2022. The 2022 cash levels do not include restricted cash of $1.6 million, which is to secure letters of credit with various customers totaling $1.1 million and $0.5 million to secure our corporate credit card program.
+
+Our overall receivables increased in the quarter, with a significant portion expected to be collected in the next 30 days. We continue to make payments on our convertible debt, which was secured in February of 2022. On a monthly basis, we'll make a determination based on our cash balance and cash forecast on whether to repay cash, stock, or a combination of both. Payments on the convertible debt will be completed by February 2024.
+
+Lastly, the company was able to receive an extension from Nasdaq to regain compliance with the minimum bid price requirement and we will have until October 30th of 2023 to regain compliance. We are working in a challenging environment and, as a result, we're examining every expenditure and cutting costs where we can to limit cash burn. We're hopeful that the orders booked in Q1 will start to hit the income statement in the coming quarters, which should yield improved results than those reported in the first quarter.
+
+We do have additional efficiencies that we can put in place and are currently examining our options to lower the company's costs. We also want to remind investors that in addition to the leases that run off in 2023, we anticipate that there'll be further cost containment capabilities and we will report on those when appropriate.
+
+I will now turn the conversation back to Kyle.
+
+Okay. Thank you, Emmett. To summarize, the first quarter had some key positives, including a sizable amount of new orders, which has replenished the company's backlog. We believe that the remainder of the year should show improved results as we start to fulfill these new orders and lower our cost structure where we can. We continue to work with our customers. With current challenges of high inflations and economic uncertainty, we're performing and executing on what is in our control by making sure we are positioned well for future opportunities.
+
+Three key catalysts are at the forefront for driving growth in the nuclear industry, need for a stable grid, drive towards energy, security and independence, and the decarbonization of the power sector. It is these catalysts that give us confidence that the nuclear industry will be increasingly in demand for the foreseeable future. Given our very unique situation as a heavily tech-enabled provider of essential services to the decarbonization of the power sector and nuclear industry, we remain confident in our opportunity to create substantial long-term value.
+
+With that said, Adam, please proceed with the question-and-answer session.
+
+We will now begin the question-and-answer session. [Operator Instructions] The first question is from Graham Mattison with Water Tower Research. Please go ahead.
+
+Hi. Good afternoon, everyone. Just wanted to follow-up a question on the new orders. Sounds like you guys are pretty encouraged in terms of what you're seeing out there from some of your customers. Can you comment on what you're seeing in the margin potential in those orders versus the ones you've been booking, say, this quarter or the ones in 2022?
+
+Emmett, do you want to take that?
+
+Yeah, I can. I mean, most of those orders are, as we've indicated, are driven in the Performance Engineering segment, which carry higher margins. So I think those orders that came in in Q1 would typically drive a bit higher margin than we had in previous quarter.
+
+Great. And then on the Workforce Solutions, I know you're still doing some retooling there. Can you give a little bit more color in terms of what steps are needed or I guess maybe the timing on that? Is that something you might be able to put into place in the next quarter, or is that something we should be looking for over the course of 2023?
+
+Well, we've spent – I'll take that, Emmett, if that's okay. And you can follow-up with more color.
+
+Yeah.
+
+But we've really spent most of 2022, when you look at 2022, where we were at that time is really at a very bare bone staff, coming out of the tail end of the pandemic and a lot of employee turnover and culling of unproductive sales and recruiters. We really took an effort to rebuild. So we feel like we're in a position where we've rebuilt now and we should see results of that flow through the rest of the year. It's not going to be an immediate next quarter impact, but we do expect that to flow in the year. And we'll be monitoring that closely.
+
+Emmett, anything else you want to add there?
+
+No, I'm just – it's really just echoing that a lot of that came to fruition toward the end of 2022 or mid-year to the end of 2022. So there's a bit of a ramp-up that is occurring. So we're still hoping to see the benefit of where we positioned ourselves coming into 2023.
+
+All right. Great. Yeah. It sounds like that's going to be exciting rest of the year, so look forward to it. I'll jump back in queue. Thanks so much.
+
+All right. Thank you, Graham.
+
+Thank you.
+
+The next question is from [ph] Jeremy Levine with Labrador Schwartz Funds (22:42). Please go ahead.
+
+Just wondering, what do you believe is your main obstacle to making profits at this point.
+
+Yeah. I'll start from my perspective and, Emmett, you can follow up. I mean, look, what we need to do is make sure we're super lean on our cost structure and we're taking action there without cutting too far as to hurt our ability to execute on the business. So, that's one dimension.
+
+The other is to execute on the business. So we saw that nice flow of orders, significant orders, largest in three years come in Q1. We are going to strive our best to keep that momentum up. Now, you don't expect orders at that level, so you won't want to run rate that. But that's really what we need to do. Customers have these opportunities in the planning stages. They're discussing them with us. They're in our forecast and pipeline. But what needs to happen is they need to start to flow into booked orders and then start to flow into executed projects which flow to revenue. So, Emmett?
+
+Yeah. It's just echoing that it's really orders. Orders will generate the revenue and it will generate cash. So if we can keep any reasonable momentum off the Q1 order base and then at the same time, taking some costs out, will further enhance that profitability or drive to profitability.
+
+Thanks.
+
+The next question is from Sameer Joshi with H. C. Wainwright. Please go ahead.
+
+Hey, Kyle. Hey, Emmett. Thanks for taking my question. Just digging a little bit on the workforce opportunities that you see in front of you and also the more recent orders. Are these more recent contracts from newer customers or are those old customers coming back? And then the opportunities that you spoke about for the future, what do they look like? Are those also from newer customers or like old customers coming back?
+
+Right. I'll take that. I would say, in general, most of the orders we get are from customers that we've already had in some form or fashion. It's very rare that new nuclear entity pops up out of the blue and then conducts business with us. Although, I will say, what's been an interesting development over the last two quarters from a business development perspective, there are nuclear adjacent entities which are quite significant that we're engaging with now that have very significant opportunities that we're bidding on. So I can't give you an exact ratio there, is it 6:1, 7:1 existing to new, but roughly speaking, Sameer, that's kind of where our business is.
+
+Okay. Got it. Yeah. No, I do understand there are not many new nuclear plants coming up. But I guess we can see – expect some change there. There is a documentary by Oliver Stone that is making the rounds. So, let's see what happens, what comes from that. In terms of your backlog conversion cadence from $40 million – 40-plus million backlog, how should we see it play out over the next few quarters and maybe 6 to 18 months?
+
+Yeah. I can jump in and start with this one, Kyle. It's going to be a mix. Like sort of the components of our backlog that are time and material contracts, we'll start to see that revenue immediately, right? We probably started to see a bit of that toward the end of Q1. The longer projects, the POC projects, that is – those could take 6, 9 and even beyond 12 months. Each project's going to be unique. We're working with the teams to burn through the backlog, particularly as the new orders come in. So I'd like to think you'd see that $40 million somewhere over the next 12 to 15 months in different bucket.
+
+Okay. Yeah, yeah. And just a sort of a corollary question, and I think it is in response to one of the comments made that the rest of the quarters of 2023 are likely to be better than 1Q. Should we see a sequential increase quarter-over-quarter over the next few quarters?
+
+Well, we're not giving guidance, but I think what we're trying to say is having the good orders by in and of itself with the backlog would drive improved revenue, right, because one of the issues is revenue being flat quarter-to-quarter. So now to have that continue the rest of the year, then orders need to continue. Our pipeline is there. We have to close the deals. So to the extent we continue with the orders at a cadence that is a positive, then the revenue will follow. But yes, the comment was really made that we should start generating more revenue because we have higher backlog and the increased orders in Q1.
+
+Makes sense. Just a couple more from me. On the OpEx front, did the SG&A line have any like onetime items that are unlikely to repeat over the next few quarters? Or at least while you make these or execute on these cost containment efforts, we should expect similar levels for the next couple quarters.
+
+Yeah. I wouldn't say one – there's some one-off, there's some ramp up. We had a lot of recruiting fees from the recruiting personnel that should no longer be there in the out-quarters as we've built out hiring engineers and some of the biz dev teams. Q1 is always our highest – usually our higher quarters. We have audit fees that are heavily based in Q1 and supporting fees related to that. So I think you'll see – you should see a decline. And also, as we've mentioned, in the Q1 results, the normal OpEx costs that we know are going to reduce related to leases and other things in the future quarters.
+
+Yes. Yes. That was – yeah, that was clear. Last one for me. Maybe a clarification on the accounts receivables. Did I hear that you would be getting – I mean, receiving cash in the next 30 days? And I did not catch how much you are expecting over the next 30 days just in terms of working capital.
+
+I didn't give a number. I think I was just trying to highlight that we do have – the nature of our business is, a lot of cases, we have milestone billings. So we'll burn through labor costs, working on projects, until we can achieve the milestone and then build the milestone and collect. So there's a bit of low point in cash until we can bill and collect those. And there is a significant portion of our AR balance that I expect to come in, in the next 30 days, which should help in at least the short term to improve our cash position. Now, we have to maintain it and sustain the business to maintain it. But that was my message. There's really more of that. There is AR that is – a lot of it's in the current situation, current bucket.
+
+Got it. And sorry, just one more, if I may. The restricted cash is against two bucket items, I think two buckets, the letter of credit and the corporate credit card. Is there any chance that it can come out from the first bucket and you may have some respite on that front or no?
+
+I'm sorry, repeat that again on the question.
+
+The restricted – maybe simpler question is do we expect any restricted cash to become unrestricted in the next few months?
+
+We do. We have about $118,000. One of the letters of credit should expire and probably sometime early Q3, mid-Q3, we'll be able to release that. And then there is a schedule that over the course of the next 12 to 15 months, depending on the project, that we should see some additional restricted cash release.
+
+Got it. Got it. Thanks. Thanks once again for taking my questions. Good luck.
+
+Yeah. Thanks, Sameer.
+
+This concludes the question-and-answer session. I would now like to turn the conference back over to Kyle Loudermilk for any closing remarks.
+
+Well, look, I'd like to thank everybody for your time today and your interest in GSE. If you have any questions, please reach out to Adam Lowensteiner from Lytham Partners and we'd be happy to schedule a follow-up. We'll be attending the Lytham Conference this Thursday. We'd encourage folks who are there to also plan to meet with us. But, again, thanks everyone and have a great day.
+
+Conference has now concluded. Thank you for attending today's presentation. You may now disconnect.

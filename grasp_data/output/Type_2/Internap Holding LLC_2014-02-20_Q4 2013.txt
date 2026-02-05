@@ -1,0 +1,213 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+Michael Nelson — Senior Director-Investor Relations, Internap Network Services Corp.
+James Eric Cooney — President, Chief Executive Officer & Director, Internap Network Services Corp.
+Kevin M. Dotts — Chief Financial Officer & Senior Vice President, Internap Network Services Corp.
+Gray W. Powell — Analyst, Wells Fargo Securities LLC
+Frank G. Louthan — Analyst, Raymond James & Associates, Inc.
+Mark D. Kelleher — Analyst, D.A. Davidson & Co.
+Jason M. Kreyer — Analyst, Craig-Hallum Capital Group LLC
+John R Blackledge — Analyst, Cowen & Co. LLC
+
+Management Discussion Section
+
+Question And Answer Section
+
+Good day, ladies and gentlemen, and welcome to the Internap Fourth Quarter 2013 Earnings Conference Call. [Operator Instructions] As a reminder, today's call is being recorded. I would now like to introduce your host for today's conference, Mr. Michael Nelson, Senior Director of Investor Relations. Mr. Nelson, please begin.
+
+Good afternoon and thank you for joining us today. I'm joined by Eric Cooney, our Chief Executive Officer, and Kevin Dotts, our Chief Financial Officer. Following prepared remarks, we'll open up the call for your questions. The slides we reference in the call are available on our website in the Presentations section on the Investor Relations page. Non-GAAP reconciliations and our supplemental data sheet, which includes additional operational and financial metrics, are available under the financial information quarterly results section of our Investor Relations page.
+
+Today's call contains forward-looking statements, including expectations regarding future financial and operational performance and the drivers for long-term profitable growth; belief in our business strategy, including the benefits from investing in company-controlled co-location, hosting and cloud services; timing for new product launches; expectations regarding margins, cash, return on capital and capital expenditures; expectations regarding the impact of the iWeb acquisition and its growth prospects.
+
+Because these statements are not guarantees of future performance and involve risks and uncertainties, there are important factors that could cause our actual results to differ materially from those in the forward-looking statements. We discuss these factors in our filings with the Securities and Exchange Commission. We undertake no obligation to amend, update or clarify these statements. In addition to reviewing the fourth quarter and 2013 year-end results, we'll also discuss recent developments.
+
+Now let me turn the call over to Eric Cooney.
+
+Thank you, Michael, and good afternoon, everyone. We are pleased you could join us for our fourth quarter and full-year 2013 earnings presentation. I will start the discussion with a summary of our results and then turn the call over to Kevin Dotts, our Chief Financial Officer, to take you through our detailed financial results. From there, I will briefly wrap up our prepared remarks before we open up the call to take your questions.
+
+Beginning on slide three, you will see we delivered record total revenue in the fourth quarter of 2013 of $74.1 million, representing an increase of 6% year-over-year and 6% over the third quarter of 2013. The execution of our strategic plan to generate growth from our core data center services business, including company-controlled co-location, hosting and cloud services, is underpinning this top line growth.
+
+Segment profit of $40.4 million in the quarter increased 12% year-over-year and 10% sequentially and represented the highest level since Internap's founding in 1996. Segment margin was 54.5%, an expansion of 270 basis points year-over-year and 160 basis points quarter-over-quarter.
+
+On slide four, we identified the sources of the change in revenue from the third quarter to the fourth quarter of 2013. Our core data center services remain the engine for top line company growth accounting for the large majority of the total sequential revenue increase. Our core data center revenue represented over 75% of total data center revenue for the quarter. Total data center services contributed $4.2 million of incremental revenue while IP services provided an incremental $0.3 million of revenue in the fourth quarter.
+
+On slide five, I'll cover segment results. Data center services revenue totaled $49.7 million in the quarter, an increase of $6 million year-over-year and $4.2 million sequentially. Data center services revenue increased by 14% year-over-year and 9% quarter-over-quarter. The revenue mix shift associated with the move from partner to company-controlled data centers as well as hosting and cloud services revenue helped deliver strong profitability growth. Data center segment profit increased 26% year-over-year and 15% quarter-over-quarter. Data center segment margin expanded 510 basis points year-over-year and 240 basis points sequentially to 51.5%.
+
+In our IP services segment, revenue totaled $24.4 million, down from $26 million a year ago and up from $24.1 million in the prior quarter. The year-over-year decrease was driven by a decline in IP pricing while the sequential increase was a result of higher IP traffic and certain non-recurring events such as IP bursting revenue.
+
+IP segment margin decreased 30 basis points year-over-year and increased 70 basis points sequentially to 60.7%. The IP services segment continues to deliver meaningful segment profitability and cash flow, which we leverage to invest in the more capital-intensive data center services segment. The IP business also provides a key element of competitive differentiation for our data center services business as it delivers our value proposition of high performance and low latency across our entire product portfolio.
+
+In the fourth quarter, churn in our data center segment increased 110 basis points year-over-year and 60 basis points sequentially to 2.1%. Churn in our IP segment decreased 70 basis points year-over-year and 20 basis points sequentially to 1.6%. Total company churn increased 40 basis points year-over-year and 30 basis points sequentially to 1.9%. The increased churn was largely driven by business consolidation, as several of our customers rationalized their data center footprint due to internal consolidation.
+
+Moving on to slide six, you can see we delivered a strong quarter of adjusted EBITDA and adjusted EBITDA margin. Fourth quarter adjusted EBITDA was $15.7 million, an increase of 5% year-over-year and 10% quarter-over-quarter. Adjusted EBITDA margins decreased 40 basis points over the fourth quarter of 2012 and increased 70 basis points sequentially to 21.1%. The improvement in adjusted EBITDA was predominantly the result of favorable product mix shift towards core data center services, including the acquisition of iWeb, which we acquired on November 26, 2013.
+
+On slide seven, we are providing a recap of our full-year 2013 revenue and profitability. We are pleased with the solid execution from the Internap team throughout the year, which led to record levels of annual revenue, segment profit and adjusted EBITDA. We are making steady progress in our mission to power the world's most innovative and high performance Internet applications.
+
+During 2013, revenue increased 4% to $283.3 million, driven by both organic growth and the acquisition of iWeb. Segment profit increased 6% in 2013 to $151.3 million while segment profit margin expanded 130 basis points to 53.4%. The strategic shift the company has made towards higher margin company-controlled data centers, hosting and cloud services is delivering results and -remains a key driver for our long term profitable growth.
+
+Importantly, while we have made solid progress on driving revenue and segment profit growth, we have also been disciplined in managing our cash operating expenses in maintaining our focus on operational excellence. As a result, in 2013, adjusted EBITDA increased 12% to $58 million and adjusted EBITDA margin expanded 150 basis points to 20.5%.
+
+On slide eight, we are showing the positive trends we are experiencing in the data center services segment, which we expect to remain Internap's primary growth driver moving forward. Our core data center services, which we define as company-controlled co-location, hosting and cloud services revenue, remain the engine for long-term growth in revenue and profitability. Revenue from these core data center services has increased at a 28% three-year compound annual growth rate through the fourth quarter of 2013.
+
+Core data center service now represents over 50% of consolidated revenue as compared to less than 30% in the fourth quarter of 2010. Importantly, the favorable mix shift to core data center services has been a primary driver in our strong adjusted EBITDA growth and adjusted EBITDA margin expansion. Adjusted EBITDA has increased at a 15% three-year compound annual growth rate and adjusted EBITDA margin has expanded 400 basis points over the same timeframe.
+
+Turning to slide nine, we provide an update on the integration of iWeb, which is on track to deliver the results we anticipated when we agreed to acquire the company. To recap the strategic rationale for the transaction, iWeb significantly expands Internap's addressable market with the addition of the SMB target customer base. The strategic opportunity is clear in that Internap will be able to capture a customer at a very early stage in their life cycle and support them as their Internet infrastructure requirements expand, often from a single dedicated server up through and including large scale hybrid deployments.
+
+The second key strategic rationale for the acquisition is that iWeb provides Internap with a powerful new route-to-market capability with a proven e-commerce sales channel. This route-to-market capability includes extensive inbound digital marketing as well as multilingual sales, campaign management and customer support skill sets. Certainly, this e-commerce capability is required to reach iWeb's current SMB customers. However, this same route-to-market capability is also an increasingly relevant means to reach Internap's current, more traditional enterprise customer base. Taken together, the SMB market and the e-commerce route-to-market capability combine to afford Internap some exciting potential for one-plus-one-equals-three type of revenue synergies.
+
+From an integration perspective, we have already expanded iWeb hosting offering to leverage Internap's broader geographic footprint, expanding from one to five global locations, now including Dallas, Silicon Valley, Amsterdam and Singapore in addition to Montreal. The transaction has approximately doubled the size of our cloud/hosting engineering development team, which we expect will result in an increased product development velocity, allowing Internap to bring new cloud and hosting features to market faster.
+
+In 2014, we continue to expect the iWeb assets to grow revenue at approximately 10% and adjusted EBITDA at approximately 25% year-over-year as compared to approximately $45 million in revenue and approximately $11.5 million in adjusted EBITDA generated in 2013. We clearly see the potential for iWeb as a catalyst to Internap's next phase of profitable growth and are pleased with the progress made thus far.
+
+On slide 10, we thought our investors would be interested in the recent beta launch of our next generation public cloud, which is 100% OpenStack under the hood and build on high performance cloud infrastructure. With both virtualized and bare metal instance options, our next generation AgileCLOUD provides a highly scalable and flexible architecture designed for superior performance and large-scale use cases. The platform is built on Ubersmith, Internap's back office data center management platform, and is expected to reach general availability in the second quarter of 2014.
+
+Moving to slide 11, we include an example of how Internap is providing our full range of hybrid infrastructure to boinc, a social music service. boinc provides its subscribers unlimited, on-demand access to millions of songs. Given its large digital music library and global customer base, it's easy to appreciate why boinc required a low latency, scalable and secure infrastructure. boinc has selected Internap as its Internet infrastructure partner to provide a full range of hybrid services for service management and delivery, as well as disaster recovery. boinc is using Internap's scale-out, virtual and bare-metal cloud, hosting and co-location services, and is able to monitor and manage these services through a single-pane-of-glass customer portal.
+
+Before I turn the call over to Kevin Dotts, our Chief Financial Officer, I wanted to inform you that our current SVP of Global Sales, Steve Callahan, is leaving Internap to pursue a business opportunity with a former colleague. We are currently recruiting for the new SVP of Sales, and in the interim, the regional vice presidents of sales remain in place and continue their focus on sales growth without interruption.
+
+Now, I'd like to hand the call over to Kevin for a more detailed review of our financial results. Kevin?
+
+Thank you, Eric. I'll start my comments on slide 12 and take everyone through our full year and fourth quarter income statement comparisons. For the year ended December 31, 2013, revenue totaled $283.3 million, an increase of 4% from 2012. Annual segment profit increased 6% in 2013 to $151.3 million, while total segment margin for the year increased 130 basis points to 53.4%.
+
+In the fourth quarter of 2013, revenue totaled $74.1 million, a $4.3 million increase compared to the same period last year, representing 6% year-over-year growth. Compared to the third quarter of 2013, total revenue increased by $4.5 million or 6%. Both the year-over-year and sequential increase were the result of higher core data center services revenue and the acquisition of iWeb. Total quarterly segment profit increased 12% year-over-year and 10% sequentially to $40.4 million. A total segment margin for the quarter expanded 270 basis points year-over-year and 160 basis points sequentially to 54.5%.
+
+Total segment profit and segment margin were positively affected by the solid growth in data center services revenue and a larger mix of higher margin, company-controlled co-location, hosting and cloud services. Total cash operating expense, excluding acquisition costs, for the full year increased 3% to $93.3 million, primarily driven by an increase in head count at a modest increase of sales and marketing expense, while cash OpEx to revenue declined 30 basis points to 32.9%.
+
+In the fourth quarter of 2013, cash OpEx, excluding acquisition costs, was $24.7 million, representing an increase of 17% year-over-year and 9% sequentially, while cash OpEx to revenue increased 300 basis points year-over-year and 90 basis points sequentially to 33.4%. The year-over-year increase was largely the result of iWeb and the timing of a Georgia headquarters tax credit that we recognized in the fourth quarter of 2012. We also experienced higher severance cost in the fourth quarter of 2013.
+
+Annual adjusted EBITDA increased 12% compared to 2012 to $58 million, while adjusted EBITDA margin expanded 150 basis points to 20.5%. Fourth quarter adjusted EBITDA increased 5% year-over-year and 10% sequentially to $15.7 million. Adjusted EBITDA margin in the quarter was 21.1%, a decline of 40 basis points year-over-year, an expansion of 70 basis points sequentially. The solid EBITDA and adjusted EBITDA margin performance is indicative of the favorable operating leverage we are building into the business. In 2013, we added $9.8 million in revenue, an increase of 4%, while we increased adjusted EBITDA by $6.2 million or 12%. As we continue to grow revenues, we believe we'll have an opportunity to drive margins up and to the right as we execute on our strategy to sell a greater proportion of higher-margin core data center services.
+
+GAAP net loss in 2013 was $19.8 million or $0.39 per share compared with a net loss of $4.3 million or $0.09 per share in 2012. In the fourth quarter, GAAP net loss was $10.4 million or $0.21 per share. The larger loss was primarily related to transactional cost associated with our acquisition of iWeb, increased interest and depreciation expense.
+
+Normalized net loss, which excludes the impact of stock-based compensation, acquisition cost and certain items management considers non-recurring, totaled $7.5 million or $0.15 per share in 2013 compared with net income of $3 million or $0.06 per share in 2012. In the fourth quarter, normalized net loss was $4.4 million or $0.09 per share compared to a $2.1 million normalized net loss or $0.04 per share sequentially and a $2.1 million normalized net income or $0.04 per share in the prior year.
+
+A cash flow and a balance sheet summary are shown on slide 13. In 2013, capital expenditures totaled $63.6 million compared to $74.9 million in 2012. CapEx plus capital lease payments outpaced adjusted EBITDA by $10.3 million in 2013 compared to $26.3 million in 2012. The majority of the capital deployed in 2013 went towards expanding our company-controlled data center footprint and the development and expansion of our hosting and cloud services. We believe these investments should generate substantial returns on invested capital in the coming years.
+
+At year-end, cash and cash equivalents totaled $35 million. Our ending balance excludes $6.5 million cash collateralized letters of credits we expect to recover in 2014. Funded debt totaled $290.6 million, and capital leases were $55.3 million. With net debt of $310.9 million, our net debt to last quarter annualized pro forma adjusted EBITDA was 4.4 times. We are comfortably below our financial covenants in our credit agreement.
+
+On slide 14, we have detailed our forecasted capital expenditure plan. In 2014, we expect to spend between $70 million to $80 million of CapEx, which includes roughly $10 million associated with iWeb. Our 2014 CapEx guidance, which includes $55 million to $60 million that we intend to invest success-based capital in hardware to meet growing demand for our hosting and cloud services. We also intended to deploy capital to expand our data center capacity in existing markets, including the New York Metro market, Santa Clara, and Atlanta.
+
+Data center expansions are conducted in multiple phases, limiting excess capacity and driving consistent utilization rates. Over the past several years, the majority of our non-maintenance CapEx has been geared towards expansion CapEx to build new company-controlled data centers. Going forward, we expect the mix to shift more towards success-based CapEx to buy servers to support the growth in our hosting and cloud businesses.
+
+Roughly 75% of our 2014 plan is either success-based capital tied to customer installation requests or capital deployed for future growth. This provides us with substantial flexibility to adapt to potential changes in macro and industry trends. We have a very disciplined approach to capital allocation and believe we have significant opportunity to invest in the business and generate returns well in excess of our cost of capital.
+
+Now let me turn the call back to Eric for his closing remarks before we take your questions.
+
+Thanks, Kevin. Now I'll briefly summarize on slide 15. We believe our fourth quarter and full-year 2013 results affirm both the strategic direction we have chosen for the company as well as demonstrate focused execution across the business. For 2013, the company achieved several significant milestones, including the highest levels of revenue, segment profit and adjusted EBITDA in the history of the company. We executed on our strategy to deliver profitable growth by leveraging our investments in co-location, hosting and cloud services. We completed a key hosting acquisition of iWeb, which accelerates our transition to core data center services, and is immediately accretive to revenue growth and adjusted EBITDA.
+
+Operationally, we further expanded our company-controlled data center footprint across each of the New York Metro, Santa Clara and Boston markets. As we look into 2014, our focus is simple: Accelerate profitable growth. We remain confident that the market requirements fit well with our high-performance hybridized Internet infrastructure service offerings.
+
+One of the top priorities for 2014 is to successfully integrate and execute on the strategic vision that we had in mind when we acquired iWeb. Beyond integration and execution of the iWeb transaction, product launches is also one of the top areas of focus for Internap to maintain our long-term basis for competitive differentiation. We are also focused on increasing the utilization of our company-controlled data center footprint and delivering long-term profitable growth for our stakeholders.
+
+Now we'd like to open up the call for your questions. Operator?
+
+Thank you. [Operator Instructions] Our first question comes from Gray Powell of Wells Fargo. Please go ahead.
+
+Hi, thanks for taking the questions. Just had a few here.
+
+Sure.
+
+So, now that third-party co-location is less than 25% of the data center revenue line, how should we think about the growth in the data center segment going forward and do you have any updated thoughts with regards to the market growth rates between co-location, managed servicing and cloud?
+
+So, on a go-forward basis, certainly with the addition of iWeb to our data center services segment and, as you point out, the shrinking proportion of partner data center services, it's reasonable to expect that we would see an acceleration of data center services growth rate relative to what we've seen in the past.
+
+In terms of your question about the market growth rates for co-location, hosting and cloud, at least relative to what I think we talked about last quarter, I would not say we've seen any change in market growth rates. We still see the co-location market typically growing in the 10% to 15% range, hosting is closer to about a 20% market growth rate, and cloud services 30%-plus growth rate.
+
+Okay. Great. And then one more if I may.
+
+Sure.
+
+So, obviously a big concern in the data center space this year has just been the potential for the wholesale companies to move down market. What is your typical deal size and how many locations is it spread across? And then just in contrast, what's the smallest deal that you potentially see wholesale guys dipping into or just what kind of competition do you see from the wholesale side?
+
+So, first of all, we don't typically compete with wholesale data center providers. They are not my typical competitor. Deal sizes for Internap from a co-location perspective, we're typically competing for business in power terms less than, call it, 300 kilowatts on an individual order size. In fact, on average, it's going to be significantly lower than that, probably average deal less than 100 kW for retail co-location.
+
+Increasingly, Internap's typical customer though is a customer who's interested in hybrid internet infrastructure services. So, most of our opportunities have some amount of discussion of not only co-location services but cloud and/or hosting services, and in some cases, all three, as evidenced by the customer example we discussed in the prepared remarks.
+
+Got it. Okay. That's helpful. Thanks.
+
+Sure. Thanks, Gray.
+
+The next questioner is Frank Louthan of Raymond James. Please go ahead.
+
+Great. Thank you. Talk to us a little bit more about the iWeb progress, sort of the customer reaction, and what's sort of been your ability to selling into some of the Internap data centers and the Internap customer base? And then could you give us a little update on sort of the pricing trends just in general on a broader basis? What are you seeing there in the market for new deals? Thanks.
+
+Sure. So, in terms of customer reaction, candidly, the iWeb acquisition hasn't been particularly noticed by either company's customer base. That's probably not surprising in the sense that Internap's customer base, a more traditional enterprise customer; iWeb's customer base, a more traditional SMB customer. They're just different target markets. And the fact that those two companies that come together for either customer base isn't at least immediately impactful or notable.
+
+That said, you also asked about if I can paraphrase some of the cross-selling opportunities between iWeb and Internap. And the lowest hanging fruit in terms of cross-selling is iWeb's sale through their e-commerce channel of Internap hosting services. So, specifically we remarked on that in the presentation. iWeb before the transaction had one hosting location in Montreal. The first thing we did from an integration perspective was add four Internap hosting locations to iWeb's portfolio and enable those by the iWeb e-commerce channel, and iWeb has successfully commenced cross-selling Internap hosting locations as of about a month ago. So, so far, so good. We're actually slightly ahead of our schedule or anticipated cross-selling opportunity from an iWeb cross-selling Internap standpoint.
+
+And I'm sorry, what was your third question?
+
+The comment on the pricing environment, what are you seeing on pricing for new contracts, renewals and so forth currently?
+
+Really no change from a pricing environment perspective. Co-location tends to steadily trend upward on a year-over-year basis as contracts come up for renewal. Hosting and cloud services are flat to slightly declining, really a reflection of the underlying capital equipment costs and in many cases, Moore's law.
+
+Okay. Thank you.
+
+The next question is from Mark Kelleher of D.A. Davidson. Please go ahead.
+
+Great. Thanks for taking the questions. Just a couple of numbers questions to start. I saw you broke out iWeb's revenue. Can you give us iWeb's EBITDA contribution in the quarter?
+
+Yeah. I think the – it's just around just slightly over $800,000.
+
+Okay. And is it possible to break out – I don't know if you want to do this, but the cloud revenue in the quarter, the iWeb plus the bare-metal cloud products?
+
+I don't think we're prepared to provide that level of granularity at least at this stage.
+
+All right. Let me try it slightly different. Can you break out the percent of co-lo that's coming from company-controlled data centers?
+
+So, the question was the percent of company-controlled co-lo of total -
+
+Right, versus partner. Right.
+
+– data center?
+
+Right. Company-controlled versus the partner data center co-lo, what's the percent breakout? Is it 50/50, is it 75/25?
+
+Round figures, call it 70/30, yes, company-controlled versus partner revenue. So, co-location revenue – 70% of co-location revenue approximately is company controlled, call it 30% is partner revenue.
+
+Great. And last question. I know you're in conversations with your Manhattan customers on moving to Secaucus. We've talked about that when we were all down there for the data center tour. Any further feel for that? I know you've been talking to them. We've moved along a little bit. Or is it still too early to get a feel for how many are moving over?
+
+Most of the customers and the revenue are still working on their internal move migration plans. So I think it's, let's say, a little bit early. Our position remains the same that we're still cautiously optimistic that we're going to be able to move the majority of those customers and the associated revenue with us from Manhattan over to Secaucus.
+
+We have seen a very small number, low-single digit numbers of customers that are unable to move for their own, we'll call it, business reasons, unable to move from New York to New Jersey. But that's been far and away the exception rather than the rule. Many of our customers seem to be quite comfortable and pleased with our Secaucus data center, which we hosted a very successful open-house event for early in January of this year. And we're also engaging a number of those customers in potentially migrating from a co-location footprint in New York, 111 Eighth, to a hosting or cloud footprint or potentially even a hybrid co-lo hosting, cloud footprint in the Secaucus facility.
+
+Okay. Great. Thanks. That's all I've got.
+
+Sure.
+
+The next questioner is George Sutton of Craig-Hallum. Please go ahead.
+
+Hey, good afternoon, guys. It's Jason on for George. Just wanted to dig into the four additional INAP locations that you added to the iWeb solution. And just kind of wondering if you could talk about why you chose those four locations. I know some of your data centers have higher utilization, some of them are lower utilization, and I'm just wondering if this is a way where you can target specific data centers and try to increase utilization in some data centers rather than others?
+
+Sure. The Internap – the first thing to point out is Internap's hosting footprint exclusive of iWeb exists in five data centers today, specifically, Amsterdam, New York, Dallas, Santa Clara and Singapore. With the iWeb integration, we exposed four of those five Internap data centers to iWeb's e-commerce platform, and as I mentioned, iWeb is actively selling Internap's hosting in those incremental five locations. But one location that we haven't, at least yet, added to iWeb's portfolio is our New York data center, and the reason for that no more or less complicated than iWeb already has Montreal and we just weren't prioritizing New York as it's relatively geographically proximal to Montreal. So we just weren't sure the near-term benefits of doing that.
+
+Okay. And then I guess to ask the question differently then, what can you do to leverage the iWeb acquisition to increase utilization on those data centers that have lower utilization rates than some of the other ones?
+
+iWeb certainly has visibility to all of Internap's data centers and all of our footprint. So, to the extent customer traffic coming to the iWeb website is interrupted in, for example, co-location racks in Los Angeles, California, of course, we are enabling iWeb to sell and deliver those products as well to their customers, although recognize iWeb's primary business is as a hosting and cloud provider and the vast majority of the traffic driven to their website is hosting and cloud-related. They do, do some amount of co-location business, but the majority of their business has been hosting cloud-related.
+
+Okay. Thank you. And then just a last one for me, the new distribution channel kind of selling these solutions through an e-commerce platform, is that something you're going to pursue where you'll leverage the Internap brand and sell those solutions online through Internap or will it be separated as far as iWeb being an e-commerce platform and Internap kind of being a direct sales model?
+
+That's an excellent question and I'll tell you a very active internal conversation. For today, far and away, the predominant brand associated with the combined companies' e-commerce route-to-market is of course the iWeb brand. That is, again, predominantly the e-commerce route-to-market brand. And of course, the Internap brand is predominantly the direct sales, channel sales brand. We are actively discussing how and/or whether to consolidate those brands or continue to maintain a separate quote unquote, "e-commerce brand" for the iWeb platform, but certainly no final decisions made. And candidly, it's not one of our, let's say, top priorities. At this stage, we're much more focused on the product development and accelerating growth through the existing routes to market with the existing brands, but an active discussion for planning purpose is here later in 2014.
+
+Okay. Perfect. Thank you for your time.
+
+Sure.
+
+The next questioner is Colby Synesael of Cowen & Company. Please go ahead. You may want to check your mute button.
+
+Hi. Can you hear me now? This is John on for Colby, actually.
+
+Yes, we've got you, John.
+
+All right. Perfect. You obviously saw solid margin expansion in the data center segment in the quarter. Given the iWeb acquisition, how should we be thinking about additional margin expansion going forward? Thanks.
+
+Sure. In terms of segment margin expansion, the iWeb business has significantly higher segment gross margin than the Internap business, specifically north of 70% segment margins on the iWeb business. So you should expect as iWeb is added to the consolidated company financials and we successfully grow that business that we'll continue to see upward pressure on the segment margins.
+
+Perfect. Thank you. [Operator Instructions]
+
+I would now like to turn the conference back to Mr. Michael Nelson for any further remarks. Thank you.
+
+Thank you. That concludes our fourth quarter 2013 earnings call. You may now disconnect.
+
+Ladies and gentlemen, thank you for participating in today's conference call. This does conclude the program and you may all disconnect. Everyone have a great day.

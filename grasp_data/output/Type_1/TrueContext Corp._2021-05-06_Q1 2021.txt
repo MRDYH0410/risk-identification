@@ -1,0 +1,81 @@
+Management Discussion Section
+
+Question & Answer Section
+
+Good morning, ladies and gentlemen, and welcome to the ProntoForms Corporation First Quarter 2021 Results Conference Call. At this time, all lines are in listen-only mode. Following the presentation, we will conduct a question-and-answer session. [Operator Instructions] This call is being recorded on Thursday, May 6, 2021.
+
+I'd now like to turn the conference over to Babak Pedram, Director of Investor Relations. Please go ahead.
+
+Thanks very much, Pam. Good morning, everyone. Thanks for joining us this morning. Before we begin, I will read our cautionary note regarding forward-looking information. Certain information to be discussed during this call contains forward-looking statements within the meaning of applicable security laws, including among others statements concerning the company's 2021 objectives, the company's strategy to achieve those objectives, as well as statements with respect to management's beliefs, plans, estimates and intentions, and similar statements concerning anticipated future events, results, circumstances, performance or expectations that are not historical facts.
+
+Such forward-looking statements reflect management's current beliefs and are based on information currently available to management and is subject to a number of significant risks and uncertainties that could cause actual results to differ materially from those anticipated.
+
+Also, our commentary today will include adjusted financial measures, which are non-GAAP measures. These should be considered as a supplement to and not as a substitute for GAAP financial measures.
+
+Reconciliations between the two can be found in our management discussion and analysis, which is available on SEDAR and our website.
+
+And finally, note that because we report in US dollars, all amounts discussed today are in US dollars unless otherwise indicated.
+
+With that, I will hand over the call to our CEO Mr. Alvaro Pombo to go over operational highlights for the quarter.
+
+Thank you Babak. And thank you, Pom00:02:09. Good morning, everybody, and welcome to our Company's conference call. Before I turn the call over to our CFO, David Croucher to discuss this quarter financials, I would like to take some time to discuss the ProntoForms' business. Q1 2021 was a good quarter for us. Our, ARR base increased by 4.7%, but to a level that we're accustomed to. As we've discussed last quarter, we ended our relationship with AT&T, which resulted in a strong direct customer base with multi-year contracts, but it did result churn and lowered net bookings in Q4.
+
+Even though COVID still affecting some of our customers, we are pleased to return to our solid growth trajectory in Q1 we started to see results from our clarity in our go to market strategy our efforts in our four target verticals have resulted in positive progress in new logo acquisition and in existing customer expansion motion's execution in both has improved with this customer focus. Our pipeline generation motions are also more precise, and our passionate focus on the first line of frontline worker are starting to create a stronger solution differentiation in the market.
+
+So the customer highlights on this quarter include a global oil and gas enterprise expanded where ProntoForms deployment for a three year agreement with 400 subscriptions. The deployment of ProntoForms improved their safety and compliance workflows. And a global medical manufacturing organization expanded their deployment of ProntoForms to over 1,300 additional subscriptions on a three year agreement, they integrate ProntoForms with a leading field service.
+
+management system. A global enterprise customer deployed ProntoForms to over 100 technicians to remove paper from a field and to reduce risk in data collection during the property inspections. Their technicians can now perform more efficient inspections and make informed decisions on site. Last, a global medical brand that manufactures sophisticated healthcare equipment deployed ProntoForms in a staged rollout to over 800 field technicians. The organization uses ProntoForms for multiple use cases, including administering preventive maintenance, mandating FDA compliance and completing inspections. These are simply a few examples that I wanted to highlight as they reinforce our progress in go to market strategy in our core target verticals. Our start leaders in this space we have ongoing programs to communicate our vision to our target markets. Together with the Service Council, we hosted digital transformation zoom events for field service leaders featuring moderated panel discussions with field operation executives from mobile devices and heavy manufacturing organizations. These advocacy programs help us form deeper connections with our customers, prospects and partners. By the way, next Wednesday at 2 PM EST there is one entitle a Technician and Executive sit down fostering technician loyalty, retention and satisfaction and this is hold with a panel with a panel that brings together executives and technicians on the call. The participants are from Schneider Electric, Trane Technologies, and Cummins, and they'll be talking on how to improve satisfaction across the board. I will invite you and I will welcome you if you can join us. Now let's talk about our product. Our teamwork feature has received further improvements, increasing more use case of field technician collaboration. Also, we have been improving our Salesforce integration as well as the way we enable Salesforce as a means to experience our product while discovery phase via the app exchange. Finally, after learning details regarding the US government infrastructure plan, we believe there is a great opportunity that – there are great opportunities for ProntoForms to empower the front line workers who will be key in these large scale projects. In summary as CEO, I'm very proud to say that our customers truly appreciate our product. Evidence of this is how they expand multiple new use cases and subscribers. We have a good team with a strong conviction and focus, and we have the financial resources to scale our growth. Last but not least, we also had a very important ProntoForm's board addition, Scott Berg, former CEO of ServiceMax and current Managing Director at 10X CEO, has joined. Scott adds invaluable field automation go-to-market knowledge and it strengthens our overall board. I will now defer to Dave to discuss our financial results for the quarter. Dave?
+
+Thank you Alvaro. Good morning and nice to have everyone on the call. I'll go through the financial highlights, but I refer to the MD&A on Sedar.com for more detail.
+
+Total revenue in Q1 2021 was $4.6 million, a 2% decrease from Q4 2020 and a 9% increase compared to Q1 2020. Recurring revenue in Q1 2021 was $4.3 million, which was flat sequentially and a 9% increase from Q1 2020. Recurring revenue in Q1 was flat as it generally follows the previous quarter and a 9% increase from 2020. Recurring revenue in Q1 was flat as a generally follows the previous quarter of bookings, which was roughly flat due to the churn from the sunsetting of the AT&T relationship that Alvaro mentioned earlier. I recall that we saw reduced bookings growth in early 2020 at the time of the original shutdowns and then in Q4 due to the churn from the discontinuation of the AT&T relationship.
+
+Our Annualized Recurring Revenue base or ARR as at March 31, 2021 was $17.9 million, representing an increase of 4.7% sequentially and an increase of 13.9% from March 31, 2020. The net bookings growth in Q1 2021 was primarily on the back of enterprise growth in our key verticals. Customers with greater than $100,000 ARR increased to 40% of our base, compared to 39% in Q4, 2020, an increase from 37% a year ago.
+
+Revenue from professional services was $307,000 in Q1 2021, a decrease of 24% sequentially and an increase of 2% from Q1 2020. Recall that in Q3 and Q4 of 2020, we saw higher PS related revenue sorry revenue related to a large feature billed project for one of our large customers.
+
+Gross margin on total revenue for the first quarter was 85%, which is consistent with both sequentially and year-over-year. Gross margin on recurring revenue in Q1 2021 was 91% flat from Q4 of 2020 and marginally down from 92% in Q1, 2020. Operating expenses in Q1, 2021 were $5.0 million, an increase of 9% sequentially and up 30% from Q1, 2020. The increase in bookings in our key verticals is reinforcing our resolve to invest more in product management and go-to-market activities around these key enterprise verticals.
+
+Loss from operations in Q1 2021 was CAD 1.1 million versus loss from operations of CAD 574,000 in the fourth quarter of 2020 and a loss of CAD 238,000 in Q1 2020. Net loss for Q1 was CAD 1.1 million compared to a net loss of CAD 915,000 in the fourth quarter of 2020 and a net loss of CAD 168,000 in Q1 2020.
+
+Non-GAAP loss from operations for Q1 was CAD 904,000, up from CAD 341,000 in Q4 2020 and up from a CAD 90,000 loss in Q1 2020. Our cash balance at March 31, 2021 was CAD 8.2 million compared to the lower growth and the lower EBITDA losses we saw in 2020. We are fortunate in our SaaS business that we can toggle the rate of spend faster or slower to match our growth. We're encouraged by the uptick in net bookings and by the progress we are making in our key verticals. Accordingly, we are investing more to push our go to market activities to take advantage as more people get back into the field. We want to get back to the compounding nature of growth and reinvestment in sales and marketing to get even more growth. We continue to get the benefit of mitigating our losses with cash flow from prepaid enterprise contracts. And in Q1, despite the non-GAAP operating losses, we still saw positive cash flow from operations. We finished Q1 with a strong cash position and we feel that we have the resources to push for more growth.
+
+That concludes the financial highlights. With that, I'll ask the moderator to open up the line for questions. Thanks.
+
+Thank you. Ladies and gentlemen, we will now begin the question-and-answer session. [Operator Instructions] [Operator Instructions] one moment for your first question. Your first question comes from Gabriel Leung with Beacon Securities. Please go ahead.
+
+Good morning. Thanks for taking my questions. A couple of things. So, first Alvaro, you know, you mentioned that, you know, COVID is still having some sort of an impact on the demand environment for you guys. I'm curious, have you seen a greater appetite amongst new customers within your key focus verticals to, you know, deploy whether on a pilot basis or on a larger basis? I'm talking about new customers in particular.
+
+Yeah. Thanks, Gabriel, for joining us for the question. The answer is yes. I mean, the vertical my commentary goes that we sell to quite a few verticals and some of them still suffer from the – from COVID. Our main verticals have actually been very resilient and we've seen more logos and new logos, particularly in those four verticals, which we're very pleased with that.
+
+I'm curious in terms of the year-over-year growth, I know you guys are impacted by the AT&T discontinuation in Q4. Other of our [ph] days, did you have a year-over-year recurring revenue growth if you sort of factor out the AT&T business, what it would have been?
+
+Well, that's a difficult one because there was a fair bit that went on there. We had a turn was comprised of a few different buckets. We had some customers that were in there that were simply not using And a large number of customers but a small amount of MRR. And then we had another one that was a large customer that just reduced the amount of users because they have, you know, two, two user groups and one is more seasonal than the other. And it happened to be the time of year where it wasn't the season where they were using, so they scaled back. But, you know, we think that may come back. So it's, it's, I think Gabriel, it's not really measurable in terms of what would have happened if we didn't get that. I think it was...
+
+[indiscernible]
+
+...in, you know, when you go from a channel where it's month to month, it's easy for that customer to sign up. But when you switch them to direct and you have to go through the whole supplier process so that probably triggered some events. But it's hard to say what that would have been 00:14:41.
+
+Yeah. Gabriel, if I provide you with some color is we've been seeing the business steadily going for many quarters already. Okay, so it keeps going and that's sure we had some of these effects of the COVID at the beginning of the couple of quarters. And some industries were gone and the AT&T effect. But the underlying strength has been there.
+
+Got you. And so with the investments you've put in place, R&D and sales and marketing wise, are you comfortable talking about, you know, sort of a normalized rate of growth that you would hope to achieve on the recurring revenue side, you know, assuming more normalized, a more normalized environments or those, are the targets or goalpost that we should be watching out for?
+
+Yeah.
+
+[indiscernible]
+
+...very careful. We don't provide guidance, so we're kind of getting into that territory. But I think, if you think about it, it's more of a, you know, we feel like it's more like 2019 and 2020 in terms of the pattern that we had where we were investing in go to market and getting more steady growth each quarter. Right.
+
+Got you. Maybe one last thing for David. So we saw the sequential lift on the operating expenses as as expected, I guess, do we should we expect another modest increase in Q2 from the levels that we saw in Q1?
+
+Yeah. So yeah, that that's the pattern I guess is as we get growth, then we reinvest that growth. And you're right, we got ahead of it in Q1 and we just felt it was the right time. We had a good vertical plan and we we saw the momentum there. So, you know, for us to get the growth here, you have to lead with that investments to drive the growth. So, you know, it's it's a situation where we came out of, you know, lower spending in 2020 and we took advantage of some government funding as well. That helped us through that and now we feel more positive. So we wanted to, you know, get ahead of it. And but, you know, we always kind of toggle that back and forth. So as we invest now, you know, we'll let that kind of run its course as well and have the, you know, bring bring the net down over time, you know what I mean?
+
+That's it. Appreciate it. Thanks for the feedback.
+
+Thanks, Daivd. Great.
+
+[Operator Instructions] There are no further questions at this time.
+
+Okay. So thanks, everybody. And just as a closing remark, we we plan to continue investing in our product and go to market as which I've said especially, and specifically in the enterprise. We're excited about what lies ahead for the field service management market and how our strategic fit in this market. We continue to see the next phase of growth of our customers and our company. And as always, I want to thank you personally for spending your time with us this morning. And as always, we would like to thank you for your continued support investing in ProntoForms. Have a wonderful day.
+
+Ladies and gentlemen, this concludes your conference call for today. We thank you for participating and ask that you please disconnect your lines. Have a great day.

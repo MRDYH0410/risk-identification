@@ -1,0 +1,106 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+Kevin McGowan — Chief Financial Officer & Vice President, PCTEL, Inc.
+David A. Neumann — Chief Executive Officer, PCTEL, Inc.
+Jaeson Allen Min Schmidt — Analyst, Lake Street Capital Markets LLC
+
+Management Discussion Section
+
+Question And Answer Section
+
+Welcome to the PCTEL Second Quarter 2021 Earnings Release Conference Call. At this time, all participants are in a listen-only mode. At the conclusion of our prepared remarks, we will conduct a question-and-answer session. As a reminder, this conference is being recorded.
+
+I will now turn the call over to Kevin McGowan, the Company's CFO.
+
+Thank you for joining us on today's conference call to discuss PCTEL's second quarter 2021 financial results. With me today is David Neumann, the company's CEO.
+
+Before we begin, let me remind you that this call may contain forward-looking statements and projections based upon current circumstances. While these forward-looking statements and projections reflect PCTEL's best current judgment, they are subject to risks and uncertainties, particularly related to the COVID-19 pandemic and the impact of our acquisition of Smarteq Wireless AB that could cause actual results to differ materially from these forward-looking statements and projections. Risk factors that could cause PCTEL's actual results to materially differ from its projections are discussed in the earnings press release which was issued today and the company's annual report on Form 10-K. The company assumes no obligation to update forward-looking statements or information, which speak as of their respective dates.
+
+Additionally, our commentary will include reference to the following non-GAAP measures, non-GAAP earnings per share and adjusted EBITDA. We believe these non-GAAP measures facilitate comparability of results over different periods. A full reconciliation of these GAAP measures to our non-GAAP measures is included in our quarterly earnings press release that was issued earlier today.
+
+I'm now pleased to turn the call over to David Neumann.
+
+Thank you, Kevin. Welcome and thank you for joining us this afternoon. In our earnings call today, I will review our Q2 results, provide an update on the integration of Smarteq, discuss design wins in our target markets and share our thoughts on the remainder of the year.
+
+As you may have seen in our press release issued after the market close, the second quarter results were at the high end of our revenue and earnings estimates, despite ongoing supply chain challenges and transportation delays. Our team has done an excellent job working closely with our suppliers and customers to limit the impact of these issues.
+
+In Q2, we achieved $21.7 million in revenue, $2.2 million in adjusted EBITDA, and $0.07 in earnings per share. Earnings grew sequentially and revenue grew both sequentially and year-over-year. With Smarteq included, revenues were 9.3% higher quarter-over-quarter and EBITDA was higher by $1.4 million compared to the first quarter. We achieved non-GAAP gross margins of 47.5% for the quarter, slightly lower than the second quarter last year, driven by antenna revenue growth and shift in mix.
+
+I'm pleased to report that the integration of Smarteq is progressing smoothly and the teams are working well together. We acquired Smarteq to expand PCTEL's presence in Europe, add product lines in our key vertical markets, increase our global R&D capabilities and provide support to launch our IoT devices in Europe. Smarteq has met these goals and exceeded our initial revenue and earnings expectations. We are especially pleased with our combined ability to generate backlog and the long-term opportunities to cross-sell PCTEL and Smarteq-branded products in Europe and in the US, respectively. Going forward, we will include Smarteq design wins, product launches and opportunities in our IoT device and antenna updates.
+
+Our IoT device and antenna business is normally driven by larger orders that are delivered over months or quarters versus our test and measurement business, which tends to be more transactional within a quarter. For this reason, we monitor antenna incoming orders as a leading indicator of expected revenue in future quarters. We're pleased to report that our incoming order rate for the second quarter exceeded our expectations and was at its highest level since second quarter of 2019. This is another factor supporting our belief that antenna quarterly revenue and earnings will be stronger in the second half of the year and continue to increase over the remaining quarters.
+
+In our enterprise wireless market segment, our sales to OEMs have increased, driven by wireless infrastructure deployments in manufacturing, retail, and other enterprise markets as they recover from the pandemic-induced recession. In our intelligent transportation market segment, we see continued strength in agriculture markets and believe there will be further improvement in the second half of the year and into 2022.
+
+We expect the bipartisan infrastructure investment bill will create additional longer term opportunities for our products to support Industrial IoT and wireless applications in public transit, rail, broadband, environmental, power infrastructure and electric vehicle or EV infrastructure. Smarteq is the leading antenna manufacturer for EV charging stations in the Nordic countries and we expect charging station manufacturers in the US will want a proven product like Smarteq's puck antennas. It is also notable that we won the antenna business for a significant mass transit project in APAC, resulting from our efforts to capture more business outside of China in the region.
+
+You may have seen the press release in June announcing FCC certification for our ruggedized Wi-Fi access point. European approval was granted in the first quarter of 2021. FCC certification is a major step and will allow commercial deliveries to our OEM customers who have integrated the access point into their systems. These access points provide reliable Wi-Fi connectivity in harsh environments for industrial equipment, heavy machinery, and construction equipment, and accordingly have significantly higher average selling prices than antennas. We were awarded two design wins and have accepted our first production order.
+
+We continue to add strategic distributors that are interested in PCTEL's broad product portfolio, including our Industrial IoT solutions. Enhanced channel distribution supports our strategy to leverage sales and distribution reach across many market segments, reducing the need to field experts in each IoT application. We believe the growth in the US economy, the previously mentioned infrastructure funding, and the rollout of Industrial IoT applications will drive PCTEL's Industrial IoT, intelligent transportation and enterprise wireless business and contribute meaningfully to our long-term revenue growth.
+
+Our test and measurement business produced another solid quarter after setting records in the fourth quarter of 2020 and first quarter of 2021, driven by 5G deployments and our strength in the public safety markets. Although we expect scanning receiver revenue for commercial networks to be consistent through the remainder of the year, there has been a temporary slowdown in 5G spectrum auctions and deployments, particularly in Europe and parts of Asia, primarily related to the pandemic. It is important to note that 5G deployments are still in the early years.
+
+As reference, GSMA, a wireless industry organization that represents the interests of wireless operators, estimates 5G will have about 20% global penetration by 2025 and 5G will account for 80% of total capital expenditures over the next five years. As the pandemic situation improves and broadband applications grow, there will be pent-up demand for 5G service, thus driving deployments and the need for our test and measurement products.
+
+Public safety is an important market for PCTEL. We are a leader in both public safety testing solutions and antennas for first responders. PCTEL's first data collection and analysis product for public safety is now used by more than 100 engineering services companies in the US. We recently announced our cloud-based SeeHawk Central application that will improve testing efficiency further by centrally collecting data from the field, automating the processing, and providing secure access to reports across entities responsible for ensuring reliable communications for first responders.
+
+SeeHawk Central provides a platform for workflow automation, data analysis, storage and secure distribution of reports and is sold on a subscription basis. Sales of our public safety antennas remain strong with recent wins from new customers and increased incoming orders from some of our largest existing customers.
+
+Our antenna and device businesses are building momentum and our test and measurement business is well-positioned to support growth in public safety testing and to grow to test 5G deployments as global economic conditions improve.
+
+With that, I'll now turn the call over to Kevin for a closer look at our second quarter and a discussion of our financials. Kevin?
+
+Thank you, David. I will review the financial results for the second quarter ended June 30, 2021, and I will provide third quarter 2021 guidance. We are pleased to report sequential financial improvement. And as David mentioned, our second quarter results were within our guidance for revenues and earnings despite the supply chain challenges.
+
+Revenues of $21.7 million, or 9.3% higher in the second quarter of 2021 compared to the second quarter of 2020. Revenues for antennas and Industrial IoT devices were $15.6 million, an increase of $1.7 million compared to the second quarter 2020. This increase for the second quarter 2021 is primarily due to revenue recognized from Smarteq, which was acquired on April 30, 2021.
+
+Test and measurement revenues were $6.4 million for the second quarter 2021, an increase of $0.3 million compared to the second quarter 2020. The second quarter 2021 revenues for test and measurement products were approximately 5% higher than last year, as revenues for US public safety applications offset lower US revenues for 5G technologies compared to the second quarter 2020.
+
+The second quarter 2021 gross profit margin on a non-GAAP basis was 47.5%, which was 0.9% lower than the second quarter 2020. The decrease in the gross margin percentage was primarily due to a higher mix of antennas and Industrial IoT devices, but also due to a lower gross profit percentage for antennas and Industrial IoT devices due to higher freight costs. The non-GAAP gross profit margin percentage for test and measurement products was approximately the same in the second quarter 2021 compared to the prior year.
+
+Operating expenses on a non-GAAP basis were $8.9 million in the second quarter 2021, an increase of $1.4 million compared to the second quarter 2020. The increase results from inclusion of two months of Smarteq's operating expenses and employee-related costs, including salaries and incentive compensation expenses. Operating expenses for the second quarter 2020 were lower due in part to measures the company took at the beginning of the pandemic to control costs, including temporary reductions in salaries, travel, and other discretionary spending. Due to foreign exchange losses and low interest income, net other income and expense was expense of $45,000 in the second quarter 2021 compared to income of $102,000 in the second quarter 2020.
+
+Adjusted EBITDA was $2.2 million in the second quarter 2021 compared to $2.9 million in the second quarter 2020, but improved sequentially by $1.4 million. EBITDA as a percentage of revenue was approximately 10% in the second quarter 2021 compared to 14% in the second quarter 2020. And non-GAAP diluted earnings per share was $0.07 in the second quarter 2021 compared to $0.11 in the second quarter 2020.
+
+Cash and investments were $33.4 million at June 30, 2021. Cash and investments declined by approximately $7.1 million during the second quarter, primarily due to cash used for the acquisition of Smarteq. We generated free cash flow $0.5 million, paid our quarterly dividend, and spent approximately $700,000 for the purchase of about 108,000 shares during the second quarter 2021 under our share repurchase program. As of June 30, 2021, we had up to $2.5 million of our common stock that could be purchased through the end of 2021 under the existing share repurchase program. And we also purchased shares valued at more than $1.5 million during the third quarter to date under the repurchase program.
+
+We continue to be subject to uncertainties with the global recovery, but the momentum that David discussed related to our antenna and Industrial IoT device business will drive sequential revenue growth in the third quarter. Driven by the sequential growth in antennas and Industrial IoT devices, we expect revenues between $23 million and $24 million in the third quarter. We project our non-GAAP gross profit margin percentage to be in the range of 45% to 46% and the non-GAAP earnings per share to be in the range of $0.06 to $0.09.
+
+With that guidance, I will now turn the call back to David.
+
+Thank you all for joining us. Before we take questions, I would like to share a few closing remarks. We're pleased with Smarteq's contributions to revenue, market access and talent. Our strong balance sheet will allow us to pursue additional inorganic opportunities to drive growth and meet our capital allocation goals. We're excited to see early success with our access point, new distributors, and public safety initiatives. We believe product diversification with expanded distribution channels will create meaningful sales leverage and long-term growth.
+
+Kevin and I will be attending the Midwest IDEAS Investor Conference virtually on August 25. We look forward to meeting with investors [ph] at the events (00:14:47) and eventually in person as conditions improve.
+
+With that, Kevin and I are available to take questions. Operator?
+
+Thank you. Ladies and gentlemen, the floor is now open for questions. [Operator Instructions] Your first question is coming from Jaeson Schmidt with Lake Street. Your line is live.
+
+Hey, guys. Thanks for taking my questions. Sorry if I missed it, but just curious what the supply chain challenges? Have they created any headwinds in Q2? And what you're baking in for some of the impact from these constraints in Q3?
+
+Yeah. Jaeson, the supply chain increase the time for our shipments out of China on the ocean. So it did delay some shipments from the second quarter that will be shipped in the third quarter. And we did bake that into the third quarter forecast. It's something we'll continue to work with our suppliers, work with our customers, try to get forecasts. And so we've mitigated any significant impact. But there is some impact to that that we're still working through. And there's still a long lead times with the shipping companies and getting product in from China particularly.
+
+Okay. That makes sense. And I guess, related to labor and understand the constraints out there, are you at all concerned that customers are double ordering here, or what's your thoughts on overall inventory in the channel?
+
+Hey. Jaeson, sorry, my call dropped right when you asked about supply chain. So I'm not sure what Kevin answered, but I can jump in as well. [ph]
+
+I think, Jaeson, can you (00:16:59) ask the second question.
+
+Yeah. I was just curious if you're at all concerned about double ordering by customers just given the well-known challenges out there, or if you do think the channel inventory remains fairly lean?
+
+I don't – I'm not too concerned about double orders, because our customers are facing the same challenges as we are in terms of supply chains and the logistics challenges with shipping. So if anything this is helped PCTEL, because we're getting a little bit more visibility in the long term, because we know for some of these components, lead time is quite a bit longer. Of course, we're working very closely with our customers, talking almost on a daily basis to make sure that their lines don't go down. And we're getting a little bit more advanced notice on what the needs are and what the forecast is. So it's helping us to plan better. But I don't sense at all that customers are ordering more than they need, because everything's pretty tight.
+
+Okay. And just last one for me and I'll jump back in the queue. Just curious if you could update us on what you're seeing in the enterprise Wi-Fi market?
+
+Enterprise Wi-Fi has a similar technology upgrade path, similar to cellular, [ph] sort of 4G to 5G, with (00:18:37) Wi-Fi going to Wi-Fi 6. So we're getting a fair number of bid requests for new antennas. So it may not get as much exposure in the news as 5G and some of the applications around IoT. But Wi-Fi is still going to be very important for Industrial IoT, especially for front license bands. And we still see a solid business funnel and bid funnel for Wi-Fi.
+
+All right. Thanks a lot, guys.
+
+Sure, Jaeson. Thanks. [Operator Instructions]
+
+We have no further questions on the lines at this time. This concludes our question-and-answer session. I would now like to turn the floor back to David Neumann for closing remarks.
+
+Thank you. And thank you all for it for joining us this afternoon. Of course, I'd like to thank our employees, customers, distribution partners for their contributions, especially in these challenging times. As I've said before and we're still in the middle of the pandemic, we'll still see some challenges, I would say, for the remainder of the year and going into 2022. But I believe that the company will continue to recover in the second half as we said before we're seeing incremental improvement now. And that'll help build a momentum for the following years. So we've a lot of confidence at PCTEL and like to wish everyone a good afternoon and stay safe and, again, thank you for joining. Operator?
+
+Thank you for joining today's PCTEL's second quarter 2021 earnings call. You may now disconnect your lines.

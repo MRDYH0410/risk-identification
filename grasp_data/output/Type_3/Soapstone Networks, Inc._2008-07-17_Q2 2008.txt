@@ -1,0 +1,329 @@
+corrected transcript
+
+
+Soapstone Networks, Inc.
+ 
+SOAP
+ 
+Q2 2008 Earnings Call
+ 
+Jul. 17, 2008
+
+
+Company
+▲
+ 
+Ticker
+▲
+ 
+Event Type
+▲
+ 
+Date
+▲
+
+
+www .Ca ll St r eet . com
+ 
+•
+ 
+21 2- 84 9- 40 7 0 •
+ 
+C op yr i g ht © 20 0 1-2 00 8 C a ll S tr ee t
+ 
+1
+
+
+MANAGEMENT DISCUSSION SECTION
+
+
+Operator: Ladies and gentlemen, thank you for standing by and welcome to the Second Quarter
+
+
+Earnings Conference Call. [Operator Instructions] As a reminder, this conference is being
+
+
+recorded.
+
+
+I would now like to turn the conference over to our host, Inna Vyadro, Director of Investor Relations.
+
+
+Please go ahead.
+
+
+Inna Vyadro, Director of Investor Relations
+
+
+Thank you and good morning. Joining me today are Bill Leighton, Soapstone’s CEO; Bill Stuart,
+
+
+our CFO; and T S Ramesh, our Vice President of Finance. This morning Soapstone issued a press
+
+
+release that was distributed by Marketwire and First Call. A copy of the announcement and the
+
+
+conference call are available on our website at www.soapstonenetworks.com.
+
+
+I would like to remind you that during this call we may be making forward-looking statements,
+
+
+including our plans and objectives for future operations, as well as our expectations for product
+
+
+delivery, customer activity and financial performance. These forward-looking statements are neither
+
+
+promises nor guarantees but are subject to risks and uncertainties that could cause actual results
+
+
+to differ materially from those contained in the forward-looking statements. Those risks and
+
+
+uncertainties are further described in our press release and presented in detail in our Form 10-K
+
+
+and 10-Q as filed with the SEC.
+
+
+Additionally, during the call we will also discuss various non-GAAP financial measures. A
+
+
+reconciliation of non-GAAP financial measures is provided, along with the financial tables in our
+
+
+earnings press release, which as previously mentioned is available on our website. Our press
+
+
+release was also furnished to the SEC on Form 8-K this morning.
+
+
+At this point I would like to turn the call over to Bill Leighton.
+
+
+William Leighton, President and Chief Executive Officer
+
+
+Thanks, Inna. Good morning, everyone, and thank you for joining us.
+
+
+This morning we reported second quarter revenue of $3.9 million which was all related to our
+
+
+previous router business. We reported a GAAP net loss of $4.3 million, or $0.29 per share for the
+
+
+second quarter ended June 30, 2008. We ended the quarter with $105.4 million in cash and cash
+
+
+equivalents, up from 104.5 million as of March 31, 2008.
+
+
+In the second quarter, our main focus was continued execution of the product road map to bring our
+
+
+provider network controller, or PNC, to general availability, building a healthy funnel of opportunities
+
+
+through our partners and creating pull for our product with carriers. I’m pleased to report that we
+
+
+are succeeding on all three objectives. We are on track to meet the target for GA in Q3, and we
+
+
+expect that the PNC will be deployed running live customer traffic in the second half of the year.
+
+
+Our sales funnel is very healthy, and we are actively engaged with a variety of prospects, including
+
+
+tier 1 and tier 2 carriers, large enterprises and utility companies. We are responding to an
+
+
+increasing number of RF I/RFP opportunities. The role of a resource and service control plane
+
+
+such as a PNC is well understood by customers as a required component of a complete Carrier
+
+
+Ethernet solution.
+
+
+Current market trends continue to validate the need for the Soapstone solution. Carriers have
+
+
+recognized that the key to providing differentiated services is to make service offerings work better
+corrected transcript
+
+
+Soapstone Networks, Inc.
+ 
+SOAP
+ 
+Q2 2008 Earnings Call
+ 
+Jul. 17, 2008
+
+
+Company
+▲
+ 
+Ticker
+▲
+ 
+Event Type
+▲
+ 
+Date
+▲
+
+
+www .Ca ll St r eet . com
+ 
+•
+ 
+21 2- 84 9- 40 7 0 •
+ 
+C op yr i g ht © 20 0 1-2 00 8 C a ll S tr ee t
+ 
+2
+
+
+by delivering a consistent quality of experience to their end customers while improving the ease of
+
+
+doing business with a carrier. These factors are important to end customers as well as for doing
+
+
+business with other carrier partners as part of a global service offering. Service quality needs to be
+
+
+managed on internally supplied resources and also across resources owned by these other
+
+
+providers.
+
+
+The variability of the customer experience can only be reduced by precise control over resource
+
+
+and services, which in turn requires predictable circuit-like connections, instrumentation to measure
+
+
+quality, and a service control system such as the PNC to actively respond to deviations in
+
+
+performance. Carriers have embraced Carrier Ethernet as a technology foundation to support long-
+
+
+term cost reduction, circuit-like behavior, as well as rich OA&M, to support service party objectives
+
+
+and the PNC provides the control system to enable all this.
+
+
+These past few months, we have seen a number of vendors and carriers announce support for
+
+
+either PBB or PBB-TE or both. This has included carriers and vendors whose endorsement of a
+
+
+Carrier Ethernet technology represents a visible departure from their previous focus on MPLS. We
+
+
+are excited about the new opportunities created for Soapstone through the continued adoption of
+
+
+Carrier Ethernet.
+
+
+The PNC’s ability to provide real-time provisioning and assurance functions for managing services
+
+
+across heterogeneous networks is unique in the industry. For PBT, the PNC provides restoration
+
+
+while solving the need for external path computation. For PBB, the PNC addresses weak
+
+
+deterministic performance and provides service admission control functions that are higher order
+
+
+functions tied to the services layer. The role of the PNC in PBT or PBB is to make Carrier Ethernet
+
+
+service-ready.
+
+
+Service providers depend on the full lifecycle process, and they want to integrate the service-ready
+
+
+resources provided by the PNC into that lifecycle process. To this end we also focused this quarter
+
+
+on demonstrate a pre-integrated solution from the OSS to a PNC controlled multi-vendor transport
+
+
+network.
+
+
+At Tele-Management World Nice in May we demonstrated the use of standards to facilitate the
+
+
+connection from the OSS to a multi-vendor transport network with the PNC providing management
+
+
+of the transport resources. Most recently at Nexcom, Soapstone continued the work we started at
+
+
+TMW and demonstrated standards-based integration from OSS to network equipment. We aim to
+
+
+solve the very real practical challenges faced by carriers, namely the need to rapidly introduce new
+
+
+equipment into their networks that allows them to tap into the functionality and price points of
+
+
+Carrier Ethernet platforms which requires integrating these solutions with their OSS back office
+
+
+systems. This demonstration was the largest multi-vendor showcase at Nexcom and included
+
+
+Amdocs Cramer OSS, Soapstone PNC, and a multi-vendor network comprised of Endo Networks,
+
+
+Cisco, Extreme Networks, Hammerhead Systems, Nortel and Telco Systems.
+
+
+The response from customers and partners to the showcase was very enthusiastic and validated
+
+
+the need for pre-integrated off the shelf solutions to accelerate time to revenue for services. It also
+
+
+confirmed the key role that Soapstone PNC plays in provisioning and monitoring transport
+
+
+resources in adjusting the network in real-time to close the gap between the intended behavior of a
+
+
+service and the actual behavior, enabling carriers to provide a consistent quality of experience to
+
+
+end customers.
+
+
+In summary, I am very excited about the opportunities that lay ahead for Soapstone and our
+
+
+products, the acceptance of the PNC by partners and customers and our continued leadership in
+
+
+this new market for a next-generation resource and service control framework.
+
+
+I will now turn the call over to Bill Stuart.

@@ -1,0 +1,150 @@
+Participants
+CORPORATE PARTICIPANTS
+Michael Kandell — Chief Financial Officer & Secretary, Wireless Telecom Group, Inc.
+Timothy Whelan — Chief Executive Officer & Director, Wireless Telecom Group, Inc.
+
+Management Discussion Section
+
+Question And Answer Section
+
+Good morning, ladies and gentlemen, and welcome to the Q2 earnings conference call. At this time, all participants have been placed on a listen-only mode, and we will open the floor for your questions and comments after the presentation.
+
+It is now my pleasure to turn the floor over to your host, Mike Kandell. Sir, the floor is yours.
+
+Thanks, Paul. Good morning, everyone, and thank you for joining us for our second quarter 2019 earnings call.
+
+Before we begin, I would like to remind everyone on the call that our remarks today could include forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. These statements can be identified by the fact that they do not relate strictly to historical or current facts. The company's forward-looking statements are based on management's current expectations and assumptions regarding the company's business and performance, the economy and other future conditions and forecasts of future events, circumstances and results.
+
+Forward-looking statements are not guarantees of future performance and involve a number of risks and uncertainties that could materially affect actual results. Important factors that could cause the company's actual results to differ materially from those in its forward-looking statements include those risk factors set forth in the company's annual report on Form 10-K filed with the SEC. The company does not undertake any obligation to update or revise any forward-looking information to reflect changes and assumptions, the occurrence of unanticipated events or otherwise.
+
+Also we want to point out that in addition to GAAP information, we will provide information relating to certain non-GAAP measures. We believe that presenting these non-GAAP or adjusted measures provides additional meaningful information to investors, which reflect how management views the business. Detailed reconciliations of non-GAAP measures to GAAP measures are set forth in a reconciliation table in our press release issued earlier this morning and furnished with the Form 8-K filed this morning with the SEC.
+
+I will now turn the call over to Tim Whelan, our Chief Executive Officer.
+
+Thank you, Mike. Good morning, everyone, and thank you for joining us.
+
+Our Q2 results were as expected and a slight improvement on the same quarter of 2018 driven by our Embedded Solutions business, where we continue to see high volumes of hardware cards. We are pleased with our first half results, which reflect higher revenues in Network Solutions and Embedded Solutions, offset by lower revenue in Test and Measurement. We expect to see improvements in Test and Measurement revenue in the second half.
+
+Our results are also very consistent with our budget plan coming into the year and consistent with our expectation that 2019 will see more revenue growth opportunity in the second half of the year. Mike will provide further color on the financials in just a bit.
+
+On a strategic and operational level, we are exceptionally pleased with our R&D and product accomplishments in the first half, which we view as drivers to future longer-term growth opportunities, and you will note our increases in R&D of approximately 30% for the first half of the year as compared to last year.
+
+These R&D investments are focused on three areas: one, accelerated strategic investments in our LTE software stack to meet the 5G standards laid out by the 3GPP standards body; two, to bring to market new, innovative in-building network integration solutions to address network requirements for 4G densification in preparation for 5G and for anticipated public safety requirements; and three, to address emerging 5G and millimeter wave systems test requirements, which are emerging just beyond the chipset companies and where we see growth opportunities with infrastructure and device companies.
+
+Now in the first half of 2019, we realized a number of successful milestones as it relates to our R&D and product investments. We've significantly advanced our LTE software stack towards 3GPP's full set of defined 5G standards. And we have released a new CommAgility reference platform to allow our customers to accelerate their own development of mobile devices and base stations for 4G, 5G and private LTE networks using our software and processing.
+
+We've expanded our modular point-of-interface solutions or MCC products from multi-carrier multi-band solutions for outdoor small cell and D-RAN deployments, which future-proof expected in-building upgrades and reconfigurations as capacity and bandwidth requirements evolve during 4G densification and 5G build-outs. We've announced new waveguide noise sources for millimeter wave in 5G system test requirements, which will ensure accurate lab and production test results for next-generation communication systems as communication rates and operating frequencies increase for 5G applications. And we introduced our smart passive systems for real-time monitoring of in-building DAS systems as we expect public safety requirements over the longer term to increase in enterprise build-outs.
+
+And with regard to market traction, we are excited that in the first half, our customers and other participants are increasingly endorsing and embracing our solutions. Some examples include being chosen by Aricent as a partner to develop LTE eNodeB solutions for network equipment providers or NEPs, which will significantly reduce the development costs and mitigate risks for the NEPs to launch LTE base station products to market.
+
+We announced the preferred OEM partnership with Ranplan Wireless for inclusion of our products and their network design software, which provides accurate design specifications for network coverage, interference and throughput, which are needed as dense 4G networks evolve to ultra-dense 5G networks.
+
+And we announced we are supporting VIAVI Solutions in their upgraded 5G TM500 network tester, extending our decade-long relationship providing signal processing performance and expert support. The VIAVI TM500 is a scalable test system, validating the performance of cellular networks, including 4G and 5G, across multiple cells and different radio access technologies. As the global leading supplier nearly all 4G and 5G base stations have been validated using the VIAVI TM500.
+
+Turning to our order flow and our funnel of opportunities, we are pleased with our first half bookings of nearly $26 million, and we expect to see improvements on that in the second half of the year. Our funnel of opportunities not only supports an improved second half of bookings and revenue, but we are seeing some strong quoting in customer bids for larger projects, which extend beyond 2019 in all three segments, which cause us to be cautiously optimistic about future revenue growth.
+
+So netting it out, the first half revenue was similar to last year's first half, and we continue to remain optimistic in our expectations for improvements to revenue growth and profitability in the second half across all three segments to the year. While we cannot guarantee the outcome on any of these items, we are encouraged by R&D and product line progress, and we have confidence in our operational execution and our history of lean and go-to-market improvements over the last two years, which have been a winning formula for long-term growth and profitability expansion.
+
+I'll turn the call back over to Mike to walk through the financials.
+
+Thank you, Tim. Good morning, again, everyone.
+
+Overall, our Q2 2019 results were in line with our expectations and the guidance that we published with our first quarter earnings release in May. Consolidated revenues for the second quarter 2019 were $13.5 million, which was an increase of approximately 1% from the year ago period.
+
+Embedded Solutions revenue increased 11.7% on increased shipments of our digital signal processing hardware. Network Solutions revenue was nearly flat with the year ago period, decreasing $61,000 or 1.1%. Test and Measurement revenue decreased 9.7% on lower government shipments. This was primarily due to project timing and accordingly, we expect government shipments to increase in the second half of the year.
+
+Our consolidated gross profit for the second quarter was $6.1 million or 45% of revenue as compared to $6.2 million or 46% of revenue for the same period last year. Breaking this down by segment, Embedded Solutions gross profit decreased as compared to Q2 of 2018 from 45% to 41%, as Q2 2018 included higher margin software and services revenues, whereas in Q2 2019 the mix was primarily hardware. In Q2 2018, software and services revenue was approximately 16% of the Embedded Solutions total revenue, while in Q2 2019, software and services revenue made up approximately 3% of the Embedded Solutions total revenue.
+
+This segment's gross profit is heavily influenced by the mix of hardware to software and services revenue. Furthermore, recognition of software and services arrangements tend to be lumpy as compared to hardware revenue and closing of these larger dollar software and services contracts tends to be longer.
+
+Network Solutions gross profit was nearly flat, decreasing from 43.8% in Q2 2018 to 43.1% in the current year period. And finally, Test and Measurement segment gross profit dollars decreased $40,000 from Q2 2018 on lower volumes, but the gross profit margin increased from 51% in the year ago period to 56% in Q2 2019 on a favorable product mix in the quarter, as well as various cost reduction initiatives related to overhead. As I've mentioned, we expect government shipments in this segment to increase in the second half of the year.
+
+On a regional basis, the Americas, which we define as Canada, the U.S. and South America, accounted for 54% of our consolidated revenue, while EMEA and APAC accounted for 43% and 3% of consolidated revenues, respectively. This compares to approximately 60%, 33% and 7% of consolidated revenues for the Americas, EMEA and APAC, respectively, in the prior year period. The increase in EMEA revenue reflects the higher Embedded Solutions hardware sales in the UK.
+
+Our consolidated operating expenses decreased approximately $100,000 from $6.1 million in Q2 2018 to $6 million in Q2 2019. The decrease was driven by the contingent consideration charge of $200,000 recorded in Q2 2018, as well as reduced G&A expenses and lower bonus expense and favorable foreign exchange impact related to the British pound. This was offset by increased sales and marketing expense and increased R&D expenses primarily related to 5G roadmap development.
+
+Other income increased $100,000 from the prior year period on foreign exchange gains. Interest expense decreased $68,000 from the prior year period due to accretion expense recorded in 2018 on the CommAgility contingent consideration liability that was paid on March 31 of this year.
+
+Overall, we recorded $208,000 of income before taxes as compared to a net loss before taxes of $75,000 in the year ago period. The increase was the result of the lower operating expenses, interest expense and higher other income.
+
+Turning to the balance sheet, consolidated cash decreased $600,000, while debt increased $900,000 on revolver borrowings from year end December 31, 2018. This was due to working capital investments as well as the final purchase price payments for CommAgility and the amount of approximately $2 million.
+
+As disclosed in footnote 13 to the financial statements filed on Form 10-Q this morning, we received a request for arbitration from Harris Corporation on June 5, claiming that CommAgility breached an agreement entered into in 2014. As we stated in the 10-Q, we believe this claim has no merit and intend to defend ourselves against all claims. We incurred approximately $124,000 in legal fees related to this matter in the quarter, and I have excluded that amount from our calculation of non-GAAP adjusted EBITDA as a nonrecurring special item. We do expect a portion of the legal costs and monetary damages, if any, to be covered by our insurance.
+
+At this time, I would like to turn it over back to Tim for some closing remarks.
+
+Thank you, Mike.
+
+With respect to 2019, we are reaffirming our guidance, which includes full-year 2019 revenue growth in the low- to mid-single digits, comparable gross margins to 2018 and improved operating profitability. Also, in addition to our 2019 guidance, we are also reaffirming our long-term operating targets, which include $100 million of revenue by 2023, inclusive of acquisitions and based on 10% to 12% annual organic growth driven by new product introductions, channel expansion and operational excellence.
+
+We expect gross margin improving to 47% to 49% based on product and segment revenue mix, lean initiatives and higher margin product offerings, and we expect to see improving adjusted EBITDA margins of approximately 15%.
+
+Last, our strategy will continue to remain focused on market trends of growth, including network densification and 5G deployment, private LTE network expansion and increased military and defense sector spend. We are committed to the execution of the strategic and operational plans now in place, and we believe we are well positioned for successful achievement of our targets.
+
+Thank you. And Paul, could you please open the lines now for questions.
+
+Certainly. Ladies and gentlemen, the floor is now open for questions. [Operator Instructions] Please hold while we poll for questions. And the first question is coming from [ph] Bryce Thomas. Bryce (00:14:35), your line is live. Please announce your affiliation and pose your question.
+
+Yes, [ph] Bryce Thomas with North Grove (00:14:40). Just, if you could provide some color or your opinion on where we stand in the 5G upgrade of that cycle? And how you're best positioned to benefit from it?
+
+Sure. Thank you, [ph] Bryce (00:14:58). We believe the 5G is in the earliest of stages right now. The previous cycles of 3G and 4G each last over 7 to 10 periods, so we think we're just at the front-end of 10-year investment curve. Each of the segments will benefit, although benefit somewhat differently. CommAgility is currently seeing opportunities for software used in research and reference platforms. Longer term, we see that the combination of our hardware and software and our ability to customize plays right into the private LTE network deployment.
+
+Within Network Solutions, right now we're currently benefiting from the network densification, which we expect to continue ahead of 5G deployment and then 5G deployment will include different use and application cases that, again, will extend that investment cycle. And then, finally, in Test and Measurement, it's the new emerging standards, which require very specific noise sources for Noisecom, and we're also seeing a touch on increasing military and defense spend, so higher millimeter wave testing requirements. So across all three segments, we think there's both an immediate benefit as well as a longer-term benefit and then that this cycle should last over 7 to 10-year period.
+
+Thank you. That's helpful.
+
+Thank you. And the next question is coming from [ph] Barry Sine. Barry (00:16:24), your line is live. Please announce your affiliation and pose your question.
+
+Good morning, gentlemen. First of all, you talked about the Harris request for arbitration. On that, have they asked for a dollar amount? And then, secondly, I'm not sure what the venue is, but is there any timeline associated with that arbitration process that we can expect?
+
+Good morning, [ph] Barry (00:16:50). Yes. So the claim itself didn't have a specific dollar amount, although it did indicate that they expect the damages to be less than $250,000. In terms of the timeline and the venue, we're still in the early stages of working all that out. So we don't have a definitive timeline or jurisdiction for where it's going to be arbitrated.
+
+Is that the American Arbitration Association or is it not specified?
+
+It is not specified at this time.
+
+Okay. And then, on the earnings release, I guess, it's the third paragraph, you talk about specific projects in the sales funnel. Could you call out some of those projects, just describe what they might be and the rough sizes of some of the projects that are in the sales funnel that you're looking at bidding on?
+
+Yeah, we don't get into too much. Thank you, [ph] Barry (00:17:46). We don't get into too much details in the funnel in terms of specifics. We're excited because the projects which are tracked more carefully in the funnel than the runway, we are seeing multiple venue type projects in terms of the build-out of the wireless in-building infrastructure even that may be an outdoor venue. So we're seeing both the number of projects and the size of those projects increased over what we saw two years ago and that specific to Network Solutions.
+
+Within the Test and Measurement segment, we're seeing some very exciting opportunities for the military, which are current customers. But we're seeing different branches of the military that are repeat customers, so not recurring revenues, but they repeat every other year or every third year, and we're seeing a nice cluster of those.
+
+And then within the Embedded Solutions or the CommAgility, we're seeing some good traction in North America as we bring those solutions to market, specifically into the Test and Measurement sales channel as it relates to mil, defense and some research. And so we're seeing some good traction in terms of the kinds of quality conversations, the in-depth design qualifications and the funded projects that we can go after. We're hopeful we can discuss more of this within the current calendar year, as we hope we can bring some of these to conclusion within the current calendar year. So I think that helps.
+
+So let me – yeah. Let me take one more stab so you can answer this way. Are these projects that would be in the tens of thousands of dollars or hundreds of thousands of dollars or the millions of dollars, if you win some of these projects?
+
+Yeah. So we think of projects as above $100,000 of size, and we think of mega projects over $500,000 of size. And so as we think about the projects in the funnel, these are over that mega category, there's the $500,000-plus and even some which are multimillion.
+
+Oh, very enthusiastic. Great. Thank you.
+
+And [ph] Barry (00:19:59), this this is Mike, again, I just want to clarify my answer. The arbitration is going to be before the American Arbitration Association, what hasn't been worked out yet is the jurisdiction.
+
+Great. Thank you.
+
+Thank you. And the next question is coming from [ph] Robert Marcin. Robert (00:20:17), your line is live. Please announce your affiliation and pose your question. [ph]
+
+Robert Marcin, Penn Capital (00:20:23). Thank you for taking my call. Hey guys, are you seeing any kind of traction with the international business or any sales synergies with CommAgility? And what was before the acquisition of core company?
+
+Yeah. The answer is yes. And we've had specific opportunities overseas that the actual application and deployment is overseas, but it's come through a U.S. defense contractor, but our ability to extend our channels, our relationships, our presence overseas being an international company is certainly helpful to us in that regard.
+
+And when the 5G global build-out really gets cooking, is there any opportunity for the company's 5G related business to ramp in more than just in the United States or is there opportunities for South America or other parts of North America or Europe? I assume we're not going to be selling into China or much or Japan at all because of the nature of those markets. But I'm just trying to figure out if there's an opportunity to take the value added products now that we're creating with that nice R&D budget the innovative products and ship them aboard into the foreign telecom companies as well.
+
+Sure. So the answer is unequivocally, yes. Our funnel of opportunities represent international names and international opportunities. 5G will have an international impact that will impact different geographies at different levels in terms of how much they invest. It's our belief that Europe is generally behind on 4G densification. They need to do more of that in order to catch up to where the current 4G LTE structure is in the U.S. as we think about telecom. But we're seeing some very interesting use cases as we think about that industrial IoT or private LTE networks and how large corporations can use that utility space in mining, in factory, in production, in any environment where you have thousands of connected wireless users and that's where we think we'll compete very well.
+
+When you have an end count of millions of devices, you'll typically see the larger chipset companies go after it, but they may not be so interested in that customization requirement for unique industrial type of deployment where there are thousands of wireless devices that need to be connected and have specific requirements. And so that is a market that we believe as the 5G infrastructure takes off will be more and more use cases and application cases that emerge from that 5G infrastructure.
+
+We see and it's generally public knowledge that there is an emphasis in U.S. to continue to push for 5G leadership. We believe that the markets are favorably inclined to the Sprint, T-Mobile merger, which will result in more spectrum deployment and in acceleration of investment because of the commitments that T-Mobile made to Congress and others in order to get that transaction approved. So we're excited about that, and we're excited about what we see as a healthy investment period over 3 to 5 to 7 to 10 years.
+
+All right. Just in two or three years if this 5G build out ramps, do you foresee any mix in international business versus domestic as a percent of revenue? Or is it going to be in the early stages led by the U.S.?
+
+Yeah. That's hard to guess now what with that mix will be, but we do believe that the investment in the U.S. is most likely to ramp more quickly.
+
+All right. Thank you.
+
+Sure.
+
+Thank you. [Operator Instructions] And there were no other questions from the lines.
+
+Very good. Thank you, Paul. Thank you, everyone, for joining us today and have a great day, and we'll speak to you soon. Thank you.
+
+Thank you. Ladies and gentlemen, this does conclude today's conference call. You may disconnect your phone lines at this time, and have a wonderful day. Thank you for your participation.

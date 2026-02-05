@@ -1,0 +1,369 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+Alan Sheinwald — Founder, Capital Markets Group
+Steven van der Velden — Chairman & Chief Executive Officer, Elephant Talk Communications
+Paul Burmester — Chief Executive Officer, ValidSoft Ltd.
+Mark Nije — Chief Financial Officer, Elephant Talk Communications Corp
+Stan Berenshteyn — Analyst, Sidoti & Company
+John Nobile — Analyst, Taglich Brothers, Inc.
+Edward Woo — Analyst, Ascendiant Capital Markets LLC
+Steve Chizzik — Analyst, The Verrazano Group
+
+Management Discussion Section
+
+Question And Answer Section
+
+Good day and welcome to the Elephant Talk Communications Corp. Second Quarter 2014 Conference Call. Today's conference is being recorded. At this time, I'd like to turn the conference over to Alan Sheinwald, Alliance Advisors. (sic) [Capital Markets Group] (00:00:13). Please go ahead.
+
+That's Capital Markets Group. Thank you, operator. Thank you, everyone. Good morning to everyone in the United States and good afternoon to our European listeners and thank you for joining us for the Elephant Talk Communications shareholder update conference call. On our call today will be Steven van der Velden, CEO of Elephant Talk; Mark Nije, CFO of Elephant Talk; and Paul Burmester, CEO of ValidSoft. Following management's discussion, there will be a Q&A session open to all participants on the call as the operator has already mentioned.
+
+Now, before we get started, I'm going to review the company's Safe Harbor statement. Remarks made on this call may contain forward-looking statements within the meaning of Section 27A of the Securities Act of 1933 as amended in Section 21A of the Securities and Exchange Act of 1934 as amended.
+
+All forward-looking statements are inherently uncertain as they are based on current expectations and assumptions concerning future events, or future performance of the company. Listeners are cautioned not to place undue reliance on these forward-looking statements, which are only predictions and speak only of the date hereof. In evaluating such statements, prospective investors should review carefully various risks and uncertainties identified in the conference call in the matters stated in the company's SEC filings. These risks and uncertainties could cause the company's actual results to differ materially from those indicated in the forward-looking statements.
+
+With that now out of the way, I'd now like to turn the call over to Elephant Talk, Chairman and CEO, Mr. Steven van der Velden. Steven, the floor is yours.
+
+Thank you, Alan, and thanks to everyone for joining us today for our shareholder update call. The second quarter of 2014 once again saw strong sequential growth in our mobile and security services revenue which now marks our 12th straight quarter of growth.
+
+As we continuously migrate additional SIM cards to our platforms in Mexico, Spain and in the Middle East, we expect this trend to continue. The continued increase in our mobile and security revenue drove our margins to increase to a record level of 88%, contributing to a further improved adjusted EBITDA of approximately $553,000.
+
+As we just mentioned, we believe these numbers will continue to increase throughout the remainder of the year as we migrate all of the remaining SIMs from Iusacell start of a licensed MVNO partner on the [ph] Zain mobile network (00:02:54) which is managed on the ET mobile platform and further growth from Vodafone is expected throughout the remainder of the year. Sequentially, our mobile and security revenue increased 8%, compared to the first quarter of 2014.
+
+Outside of operating results, we are pleased to have recently announced our global sales collaboration agreement with Hewlett Packard. This partnership not only strengthens the capability and value of our ET software DNA 2.0 platform, but also expands our marketing and sales reach. To-date, we have already submitted a number of requests for qualification and proposals with HP. We look forward to capitalizing on the value of this important relationship to bring new mobile operators, as well as virtual operators onto our platform in a short period of time by allowing them to benefit from seamless subscriber mobility
+
+across heterogeneous networks when these mobile operators are looking to step away from their current legacy systems or are for example looking to monetize market opportunities to accommodate mobile virtual network operators.
+
+Next, to incorporating the HP Home Location Register, the so-called HLR for 2G and 3G networks, our ET Software DNA virtualized platform today also incorporates the HP Integrated Home Subscriber Server, the so-called HSS, which enables service providers to manage their subscriber identity across network technologies in high availability model.
+
+With HP/HSS, the subscriber identity is continually carried over no matter where the mobile consumer travels or which access method or radio access network technology is being used, all while supporting all major network types including GSM, CDMA and 4G/LTE networks.
+
+In combination with the Elephant Talks Software DNA 2.0 platform, the HP/HSS allows for the delivery of a unique undisrupted virtualized service experience. Based upon the platforms performance to-date, we believe this combined offering will allow mobile operators to realize up to 80% of their infrastructure cost cutting objectives, while at the same time, substantially, improving their operational flexibility as well as service levels capabilities.
+
+We believe this should propel our product offering to the forefront of the industry and increase the speed with which we further commercialize our platform. And we are, therefore, looking forward to making additional joint presentations to the market in collaboration with HP.
+
+In regards to our platform and our contract with Iusacell, we are now, literally as we speak, in the midst of the next major migration of over 0.5 million customers. Over the next few days, we should be able to communicate more details about this migration to all of you.
+
+We remain on track to complete the migration of the remaining SIMs over the course of the next few quarters. Most importantly, we continue to receive positive feedback from Iusacell regarding the performance of our system based upon utilization reports on the previously migrated client base.
+
+On top of this, this week, we are starting the first new MVNO in Mexico on the Iusacell network. In the first instance, with just friendly users and soon to evolve into a fully operational market offering.
+
+All these newly managed SIMs will continue to drive growth of revenue and margins, while generating further growth in our adjusted EBITDA. We expect the success of this business, combined with our new agreement with HP, to generate additional activations and migrations globally as we move forward.
+
+Our contract with Zain in Saudi Arabia is progressing. As we previously discussed, Zain launched a new brand called Matrix that is hosted on the Elephant Talk platform.
+
+Currently, Zain has a limited number of SIMs on the platform from this brand. But as they begin to further market the Matrix brand in the coming month, the number of SIMs being hosted on our platform should grow.
+
+Additionally, we are already implementing another new brand that we expect to launch later this year, running on the Zain mobile network as well as being hosted on our platform. We will, of course, provide more information on this new brand once it has been launched and plan to run on our platform. We are now confident that our business in Saudi Arabia will develop during the latter half of 2014 as originally envisioned.
+
+Our contract with Vodafone continues to strengthen and grow. We continually receive monthly payments from Vodafone for our increased scope of work. Additionally, we have been awarded the new test platform from Vodafone to make it easier to provide additional services to their clientele. This test platform is currently being installed and should lead us to managing additional SIM cards in the Spanish market.
+
+Through our continuing work with Vodafone, Zain, Iusacell and now also HP, we are fully confident that our platform possesses the key features from high-end distribution systems and back office sale systems to superior data management capabilities, which will lead us to new global markets.
+
+Over to our security business now, I therefore will now turn it over to Paul to discuss ValidSoft in further depth. Paul, the floor is yours.
+
+Thank you, Steven. As you know, we've spent much of the first half of this year focusing on simplifying our product portfolio and our go-to-market messaging. As a result of this successful program, we now have a more strategic business approach the multi-factor authentication to transaction security, and this is focused on Device Trust and user authentication. Device Trust utilizes data from the mobile network operators to validate the authenticity of the consumer's mobile device. This is critical to help identify SIM swap fraud and to enable international location correlation.
+
+To-date, we have been focusing our efforts on securing access to the data from all the UK mobile network operators, while also working closely with the GSM Association, which is the governing body from mobile network operators, advocating for an agreement, creating a global standard for access to the required data.
+
+As of today, we have relationships in place that give ValidSoft access to 90% of the targeted mobile data for the UK market. In parallel, we have an R&D project underway, but it's centered around finding the most efficient and reliable way of sourcing this data on a global basis, so that this capability can be rolled out to our customers and our channel partners more quickly not just in the UK, but on an international basis.
+
+One element within this R&D project is the development of our Zero Latency Correlation process that enables us to extract the Device Trust data directly from the mobile device rather than via the mobile network operator. As a part of the continued development of our intellectual property and the adherence to strict data protection policies we're very pleased to announce that Europris has just awarded ValidSoft a data privacy sale for our Zero Latency Correlation process. This means that ValidSoft now has four data privacy sales which is an unprecedented achievement within this industry.
+
+The second element of our multi-factor authentication solution is user authentication, which utilizes our proprietary voice biometric technology. During the second quarter of this year, we focused on development resources on the completion and productization of this technology. The end result is that we now have a product that can be used as a part of our multifactor authentication solution or as a standalone voice biometric engine offering both text-independent and text-dependent functionality.
+
+Text-independent voice biometrics are typically used passively in environments such as call centers in order to authenticate the caller or identify blacklisted fraudsters. Text-dependent voice biometrics require the use of a preset pass phrase and are often used in conjunction with mobile applications and interactive voice response systems. We believe that these capabilities built into a single solution will provide competitive value for us in the marketplace.
+
+Reaction to these advances has been significant and we now have a number of proof-of-concept trials underway both direct and in conjunction with channel partners across financial services and enterprise sectors.
+
+Finally, to support our more focused go-to-market approach and commercialization strategy for this technology, we're now working on the development of a robust partner channel and the pipeline building program for our voice biometric technology. I look forward to sharing these developments with you in the near future.
+
+I will now turn it over to Mark to discuss the financials. Mark, the floor is yours.
+
+Thanks, Paul. I will provide the financial highlights for the second quarter of 2014. We are pleased with the continued growth we have experienced over the last 12 quarters in our mobile and security services solutions. Our total revenue for the second quarter was over $6.9 million, an increase of 54% compared to the same period of 2013.
+
+Revenue for the mobile and security service solutions decreased as a percentage of our total revenue to 99% during the second quarter of 2014, as compared to 89% in the same period in 2013. Cost of service for the second quarter of 2014 was around $830,000, a decrease of 43%, compared to the same three-month period ending June 30, 2013. This decrease is primarily related to the decline in our legacy landline service solution.
+
+During the second quarter, we achieved margins of 88%. Our total margin was $6.1 million. For the six months, our margin was $11.6 million which is already 73% of the margins realized over the full year of 2013, or even though we're only halfway to current year. The increase on our margins were due to the increase number of SIMs migrated on to our platform throughout 2014.
+
+Selling, general and administrative expense for the three months ended June 30 of this year and 2013 were $7.4 million and $7.5 million respectively, a minor decrease of around $40,000. SG&A expenses remained relatively stable in the second quarter of this year, because of a lower share based compensation of $1.9 million compared to $2.9 million the year before.
+
+For the second quarter of 2014, our adjusted EBITDA increased to $550,000 compared to a loss of $950,000 in the second quarter of 2013. Compared to the first quarter of 2014, our adjusted EBITDA increased almost 90%, compared to the $292,000 previous quarter. When comparing the six-month period of 2014, with last year's adjusted EBITDA, that was an increase of around $3.2 million from a loss of $2.4 million in 2013 to a profit of $0.8 million in 2014. We expect the strength to continue as additional migrations they placed during the next few quarters.
+
+Our net loss, which by the way includes substantial amounts of non-cash items was $4.6 million for this quarter, a decrease of $3 million or 40% compared to the loss of $7.7 million for the same period in 2013. We continue to expect to decrease our losses going forward as we continue to increase our revenues from additional migrations from Iusacell, Vodafone, Zain and other clients that yield higher margins that we traditionally used to have.
+
+This concludes our financial summary. I would like now to turn the call back to Steven for his closing remarks. Steven, floor is yours.
+
+Thank you, Mark. Looking ahead to the remainder of calendar year 2014, we believe we are positioned for near-term growth and long-term financial success, based upon these current contracts with Iusacell, Vodafone, Zain, and of course also now the agreement we have in place with HP.
+
+We are working to accelerate the migration plans, and thus the growth rate of our revenue and adjusted EBITDA numbers.
+
+Our adjusted EBITDA number continue to grow substantially as we have now hit our critical mass number of SIMs on our various platforms. The increasing number of SIMs hosted on these platforms is placing us in a position to soon reach an overall cash flow positive operation, including the requirement investments for further growth, in combination with available vendor financing.
+
+After three years on our Board of Directors, Rijkman Groenink has decided not to stand for reelection based on the time commitments of other business and family obligations. His well experienced and financial knowledge created value for our entire organization. The board is pleased to nominate Mr. Jaime Bustillo and Dr. Francisco Ros as new board members.
+
+Mr. Bustillo has extensive technical knowledge of and business experience in the wireless telecommunications industry in Europe, particularly in the area of mobile virtual network operators, as well as mobile network operators. Mr. Bustillo has the knowledge base of how mobile operators should change customer experience requirements into flexible cost-effective specifications for mobile network and IT solutions.
+
+Currently, he is the CEO of AIRIS mobile, a Spanish mobile virtual network operator. From 2000 to 2012, Mr. Bustillo held a number of senior positions at Vodafone group. Mr. Bustillo was the Group Director of Networks Evolution for Vodafone and he served as Vodafone's Chief Technical Officer, Western Region, while serving as a member of Spain management board and a Vodafone Group Technology board.
+
+Mr. Bustillo was also the Chairman of the Board of Vizzavi España, a Vodafone group subsidiary a few years ago renamed Vodafone Enabler Espana, when Vodafone originally contracted the Spanish outsourcing platform with this Vodafone subsidiary.
+
+Dr. Francisco Ros is Executive President of First International Partners, S.L., a business consulting firm he founded. Dr. Ros is a member of the board of directors of Qualcomm Incorporated, a world-leading provider of wireless technology and services. He served as a Senior Director of Business Development at Qualcomm Europe and Managing Director of Qualcomm Spain.
+
+Dr. Ros is also chairman of Asurion Spain and honorary professor at the Universidad Politécnica de Madrid. Dr. Ros was Vice Minister of the Spanish Government responsible for telecommunications and the development of the Information Society. He held key positions within the Telefónica Group including General Manager for Telefónica International at the time of its vast expansion into Latin America. Dr. Ros holds two PhDs in telecommunications from the Universidad Politécnica de Madrid and in Electrical Engineering and Computer Science from the Massachusetts Institute of Technology, MIT.
+
+We believe their industry knowledge and extensive telecommunications relationships will provide us with the expertise in sales as well as the implementation of our platform among numerous large scale wireless providers.
+
+Based on our financial success and improving cash flows, management has been working with the New York Stock Exchange to regain compliance with listening standards. We are continuing to work towards obtaining financing which we expect will improve our balance sheet and provide us with more working capital to further grow the business.
+
+Management is committed to building value for our shareholders and customers and is excited by the growth we expect in our pipeline from later this year. We believe our strategic relationships and industry knowledge will continue to provide us with excellent global contract opportunities.
+
+This concludes management's update portion of the call. I would like now to open the floor up for any questions that you may have. Thank you.
+
+Thank you. [Operator Instructions] Our first question will come from Stan Berenshteyn with Sidoti & Company.
+
+Hi, Steven. Thank you for taking my call. First, I have to take a look at the HP partnership, get some clarity here. So the partnership mean that clients will now be buying from both Elephant Talk and HP as kind of a packaged deal?
+
+Yes. Correct. HP delivers a key element being the HLR-HSS as described before. And we believe that the joint proposition is a very strong proposition to help out mobile operators to better monetize for example virtual operator opportunities or to streamline their operations away from their legacy systems. And we believe that having the technical base of Elephant Talk combined with the huge market against sales power of HP tend together indeed bring us new revenues and new customers, especially from the current group of customers that is being serviced by HP.
+
+Okay. And so if a new customer purchases this package, what percentage of that package goes to Elephant Talk, what percentage goes to HP?
+
+That is not standard, because of course, it all really depends on the individual requirements for any specific installation. But normally, you could expect that the vast majority of such a contract would ultimately go to Elephant Talk as the HLR-HSS. Even though it's extremely important element, it's just one of the 30, 40, 50 elements that together form the Elephant Talk platform. So it's a relatively expensive important element, but it's definitely not, let's say, a large majority, not on the contrary. So, Elephant Talk would have the vast majority of those revenues.
+
+Okay. And can you maybe – I guess, maybe this is more subjective, but can you give us an idea of the level of commitment HP has in providing the sales backing and really pushing this product?
+
+Well, that's, of course, difficult to quantify. I think they are very seriously working with us, I think, together with HP, we have been visiting somewhere between 15 and 20 operators over the last 12 months around the world, doing in-depth presentations supported by HP's local presence in over 200 geographical markets. And I believe altogether, this has opened quite a few new doors. And we feel confident that this is a very good stepping stone for Elephant Talk to upgrade its act and to be more proper supplier to many large companies that may not necessarily want to work with a small company like Elephant Talk, but in combination with HP, we definitely like to consider us.
+
+And I think from that perspective and what I've seen so far, HP is very much positive and committed about this cooperation.
+
+Great. And just to clarify, in the press release you listed that you have 2.6 million SIMs. Presumably, half of that is – roughly half is Iusacell, half of that Vodafone, correct?
+
+Correct. Correct.
+
+Okay. And can you maybe touch more based on the organic growth under Iusacell and Vodafone? Iusacell, historically we're looking at 8 million; Vodafone 1.4 million SIMs that we're looking to have. Is that going to grow? And if so, what pace will Iusacell... [indiscernible]
+
+(00:27:19)
+
+Yes, well for sure. Well, Iusacell, as I just mentioned, we are currently migrating over 0.5 million customers. We hope to get back to you in the next few days when that is successfully closed. We are just now installing this new test platform in Spain, which basically is an element to make it easier to reproduce new services and new customers onto the platform. So, altogether, we feel comfortable that these developments underline the intention of our customers to rapidly increase the number of subscribers indeed.
+
+Right. Well, do you have a see-through as to the organic growth that Iusacell is having? So, they have 8 million subscribers right now. Is this going to grow 5%, 10% in 2015?
+
+Well, that is difficult to say, of course, because we are just the B2B supplier, so we are kind of dependent on the success of Iusacell in further marketing and sales of their subscriber base in Mexico. On the other hand, of course, we try to provide a very good tool to improve services, to improve SLAs. And we believe that altogether that we'll position Iusacell for further growth in the future. However, that may only really start once the full base of customers of Iusacell has been migrated, which we expect in the next few quarters, as stated before.
+
+Okay. And has there been any revenue growth under ValidSoft?
+
+Well, we have definitely seen some revenue growth, although still the base is very small. And we don't speed out revenues as such for ValidSoft, but we feel comfortable that under the leadership of Paul Burmester, where the whole productization has been improved, the clarity of the message towards the market has been improved, a lot of relationships have been built up. And ultimately, that will show fruit, and we feel comfortable that in the very near future, more and more successes of ValidSoft can be shared with the market.
+
+Okay. And last question, you mentioned that you're starting an MVNO, so is there a name associated with that MVNO that you can tell [indiscernible] (00:29:29)?
+
+No. I mean, well, of course there is a name, but it's not up to us to disclose that I mean, that's more for lusacell for discuss them itself. But, of course, there is a name behind that MVNO, and I think the market will be pleasantly surprised once they will be in the knowledge of that name.
+
+Okay. Thank you.
+
+Welcome.
+
+Thank you. We'll take our next question from [ph] Robert Scott (00:29:49), private investor.
+
+Hi, Steven.
+
+Hello.
+
+Thanks for the update, and I want to congratulate you on some growth. You stated that we're on track in the lusacell migration, which is great news. So, the first eight months, we've been to 1.2 million SIMs. In the next two days, we get to 1.7 million SIMs. Based on some previous announcements, we believe that 5 million are going to be in play somewhere between late August and late September. This requires a real rapid acceleration in the rate of migration. How do 3.3 million more SIMs happen between August 15th and October 1st?
+
+Yeah. Well, a very good question of course. I can assure you that it's all being planned to take place in the timeframe that you mentioned. There are certain reasons why servicing sometimes go a bit slower other things go a bit faster, which you can also imagine once you go through the learning curve of your cooperation with lusacell that the first 2 million SIMs is more of an issue than migrating the next 2 million SIMs and then the next 2 million SIMs and so on.
+
+So, we definitely expect some process in that matter and the timeframe you mentioned, as I said before, is still the one we are focusing about.
+
+So, 5 million SIMs by the end of September is still very up?
+
+All the around 5 million SIMs that are the prepaid GSM base of lusacell should be migrated by that time indeed.
+
+Okay. And I just have a very quick question for Paul on the ValidSoft side, in the UK, you said you have 90% of the targeted information you need for ValidSoft and Proximity Correlation Logic. Are there any major installations that are going strong rather than the Santander SIM Swap in stock and is there anything new with FICO now that the software is resident in their risk engine?
+
+Thank you for the question. Regarding deployment that are in the public domain, Santander is the only one that's disclosed they're using our technology today for SIM swap detection and Proximity – the International Proximity Correlation. FICO themselves are now starting to be more active. I think it's fair to say a part of that was simply us securing access to that data in the UK and say having access to 90% of that data which is the three major mobile network operators and all their MVMOs has been critical to giving them the confidence and ultimately their customers that it's reliable and usable data.
+
+So, it is safe to say that the ValidSoft revenues grew beyond whatever the Santander SIM swap business growth was in the last quarter?
+
+I think, as Steven said that, we don't separate out the revenues, but the revenues have shown some growth. Yes.
+
+Okay. Thank you.
+
+Thank you. We'll take our next question for John Nobile with Taglich Brothers.
+
+Hi. Good morning or good afternoon depending where you are. I'm relatively new to the story, but I'd like to know a few basic questions. The first one, the lusacell contract, is that for $1 a month per subscriber or is it different than that?
+
+Just to answer then your first question, we don't disclose what the individual price is scheduled for each contract are. As we stated in our investor presentation, we aim overall to get an average of $1 per subscriber. But of course as you can imagine that if you would have an 8 million subscriber contract with Iusacell that that will come on the different sliding skill and pricing, then maybe 2 million subscriber contract was Vodafone in Spain or another contract in another country.
+
+So each country has its own pricing, has its own cost structure, has its own sliding skill. And as from the company's perspective, we just communicated, we aim to achieve an average about $1 per month per subscriber. But of course if we would have then smaller contracts, that would be easier to meet than if you would have for example three larger contracts as we have today.
+
+So it's an aim, and I think that we will keep that aim up because ultimately, we may indeed get very close to that aim especially if we open up new contracts with smaller amounts of customers as those are in the earlier stages of a sliding skill.
+
+Okay. So, it's safe to say from idling purposes that I could possibly look at that as maybe not up to the full $1 per month – $1 a month per subscriber depending on the contract being large. It's a little bit less or I don't know if you could...
+
+Yeah, ultimately you can imagine, if you re-talk about huge amount of customers it's substantially less what you get for the last customer.
+
+Okay. Okay. And you alluded to at the end of Q3 with this contract of having about approximately 5 million SIMs from where you are now at the end of Q2. What was that about, 2.5...
+
+Well, we are currently, as we have reported around 1.2 million subscribers in Mexico, we expect to migrate some 500,000, 600,000 these days currently as we speak. And we expect the rest of the balance to come in over the next couple of weeks up to the end of September.
+
+Well, the rest of the balance being 8 million.
+
+Up to 5 million or around 5 million of the GSM prepaid base of Iusacell.
+
+Okay. By the end of Q3. I thought I – correct me, I'm learning here about this contract. But I thought it was for as many as 8 million SIMs, is that correct?
+
+Correct. Yes. Yes. So, there are a couple of phases. The first phase are all the GSM prepaid accounts which amounts to about 5 million, and then there are some 3 million others which are either GSM postpaid or CDMA accounts, and they will be migrated starting once the 5 million GSM prepaid have migrated. So, we will start at around in early Q4 or later in Q4, and we expect to have that finished by the end of the year, early next year.
+
+Okay. So...
+
+So, overall, it's 8 million, as you correctly stated. [indiscernible]
+
+(00:36:46). Okay. Okay.
+
+I'm sorry.
+
+And just one more question. I know you said that you weren't going to breakout the revenue from ValidSoft. But I was wondering, not necessarily the actual amount, but if you could talk about it in turn just to get an idea of how big or how small that might be right now. I imagine it's relatively small, but percentage wise of the overall mobile and security revenue, I mean, would you say it's like less than 5% of that?
+
+Again, we don't disclose the breakout, but it's relatively small.
+
+Okay. All right. Well, thank you for taking my questions.
+
+More than welcome.
+
+Thank you. Our next question will come from [ph] Ted Wolf (00:37:29), private investor.
+
+Thank you for taking my question. My question concerns compliance with stock exchange regulations. I'm wondering if there is an endpoint date that you have to meet to certain things to be in compliance. And do you see any reason as to why that compliance will not take place within the given timeframe?
+
+Yes. Thank you for the question. As we have published, there is an end date in November this year. So another four months out there. The main item is satisfying the compliance is having sufficient cash to make sure that we have a window of at least 12 months to operate. The good thing about improving our cash flows is that the amount of money that you will require in the next 12 months window would get lower and lower.
+
+On the other hand, we are extensively involved in trying to attract debt financing as we have announced earlier. So far we have not yet concluded any one offer, although we have a couple of offers that we are currently discussing. And at the end of the day, it will be our board that will decide whether the terms that are linked to those offers are attractive enough for us to take it or that we keep on looking for it. But we feel comfortable that in the next couple of months indeed some of that financing can be attracted, which should be very helpful than listing the compliance problems we have today.
+
+So you really don't see or you don't foresee major complications or something making that compliance, meeting that compliance state happen? Is that correct?
+
+No. We will. We believe that before that day will happen that we will be fully [indiscernible] (00:39:16) again.
+
+Okay. Very good.
+
+We are doing our utmost to reach that.
+
+Okay. Thank you.
+
+Welcome.
+
+Thank you. Our next question will come from Ed Woo, Ascendiant Capital.
+
+Yeah. Thank you for taking my question. In terms of the agreement with HP, does it reset the sales process for all your agreements? And is there any – can you talk about just how the pipeline is going in terms of just maybe for the next 6 to 12 months?
+
+Sorry. I missed the first part of your question. Could you please repeat that?
+
+Sure. The first part is, now that you have partnered up with HP, does it kind of reset and you have to restart the sales cycle with all the different partners? And previously, you mentioned that you guys were talking with a lot of possible customers in various stages. And now, that you're with HP, does this start it off – reset everything back to the beginning and you got to restart the sales process, or are you able to bring them in and turn the sales process that you're working right now?
+
+Yeah. Well, okay, very good question. Thank you, Ed. Well, let's put it this way. All the new contracts that we have through HP are indeed new contracts. So these are all new mobile operators that has been screened by HP of their needs, of their requirements, of their pain-gain levels. And it's kind of a selective group of usually current customers of HP or customers HP has already in their focus for quite some time to reach agreements with. And we are, of course, very much held by being able to now be part of HP sales effort to reach out to these customers.
+
+And, of course, coming in together with HP in such a process makes it easier to digest the fact that we are a small company, it's a new technology, because basically, HP puts shoulders under our technology and basically communicates with us towards these potential customers that our technology
+
+is sound, is mature, is being used by a couple of perfect reference partners and so forth. So it definitely helps, but it's I think too early to say whether ultimately the sale cycles together with HP will be significantly shorter than without HP. Therefore, the cooperation just not been too long so far. But hopefully in the next six to nine months, we will have a clearer picture about that. But definitely, it won't take any longer; let me put it that way.
+
+So it's a select group of customers, so there are some contracts that you are still working on by yourself, is that correct?
+
+Yes. Definitely, we have, of course, quite some leads already outstanding. We have a lot of RFQs on our own. And in some of those RFQs indeed still HP is a supplier to us, but they are not in the lead of sales and marketing like we are in some of the other prospects that HP has brought us to the table.
+
+Great. And I had a clarifying question. You mentioned one of your objects is to be cash flow from operation positive including investments, do you give a specific time period of when you expect that to happen?
+
+Well, not specific, but as I just mentioned, a little earlier that we expect with the growth of the SIMs on our platforms that even though we are now already for three quarters operational cash flow positive that we also expect in the not-too-distant future to be overall cash flow positive. Meaning that we can also take care internally of all the CapEx that is required, of course, taking into account a vendor financing that is available to us. And we feel that in the near future, that point can be reached indeed.
+
+Great. And my last question is Zain in Saudi Arabia, do you expect any significant ramp-up in that business or you still kind of wait and see?
+
+No. As I also explained a little earlier, we are very confident that we can now finally in the second half of this year get the whole project going up to a higher level. And we still expect Axiom to get its licensed MVNO position in the Saudi market and Axiom being the largest reseller of current top-ups and bundles of the three main operators in Saudi Arabia, we feel comfortable that they can come on with reasonable market share down the road.
+
+Next to that, the Matrix brand is growing as I said. And also new brands are being launched by Zain in the near future. And those SIMs will also run over our platform. So, altogether, we are kind of positive about developments in Saudi Arabia that can be expected over the next 6 to 12 months.
+
+Great. Well, thank you and good luck.
+
+Thank you, Ed.
+
+Thank you. [Operator Instructions] We'll take our next question from [ph] Mark Cliff (00:44:13), private investor.
+
+Thank you. Steve, thank you very much for taking my question. Congratulations on a great quarter. So I think you answered most of the question I was going to pose, but I would like to understand one thing about the HP partnership a little bit better. And that is regarding any specific strategy that Elephant Talk and Hewlett Packard are employing regarding how you're educating the sales teams, how you're communicating with them at HP to understand, how does HP engage specifically with Elephant Talk and what the value proposition is? Is that something that you can provide some clarity on?
+
+Very good question, [ph] Mark. (00:44:51) Thanks for that. Well, HP has a specific decision in telecommunications and – in which the HLR/HSS proposition from HP is the core product. And they are very well-educated in the whole core network aspects of a mobile operator. And also, actually, in the IP aspects, which is still probably a less over from the compact days when they were very much focused on the IT platforms and been actually the only provider of the NonStop platforms that made Compaq famous in those days.
+
+And so they have a dedicated sales and marketing force that of course can also piggyback on all of the organization of HP throughout the world. And we have been traveling with quite a few HP people around the world, supported by their local teams, and I think, in the meantime, quite a few HP sales and marking staff have now have direct experience and exposure to our presentations has picked up the story very, very well and we feel greatly supported by HP in their endeavors to reach out to customers, to potential mobile operators. And so we feel very comfortable that this whole cooperation will indeed have a very positive effect on us.
+
+That's great. So I got one other – one very quick follow-up question. Is there any particular region or geography where you're seeing, at this point in time, any more traction given the early stages of the partnership?
+
+No. I think it's too early to say that. I think we have had presentations with HP in four different continents so far. And I would not say already that we can draw any conclusion about certain regions being more attractive than others. Hopefully, in the next three, six, nine months, that will become more clear if we could communicate some of those successes to the market. But I think it's too early to say that today.
+
+I understand. Thank you very much and congratulations on a great quarter once again.
+
+Thanks, [ph] Mark (00:46:45).
+
+Thank you. Our next question will come from Steve Chizzik with The Verrazano Group.
+
+Hi, Steve. Nice job. Keep it going. I have a question for Mark regarding accounts receivable. Accounts receivable shows about 120 days of accounts receivable outstanding, and that's obviously primarily with our two major customers. What are their terms and what can we expect and how do we bring that down?
+
+Okay. Well, first of all, I cannot comment on the individual terms of the customers. But, in general, in telecommunications, it's not uncommon to have to deal with terms between 90 and 120 days as to payment terms. So in that respect, it's a – to some extent a one-sided business case.
+
+In our case, in general, we've been able to reduce it with one or two of the customers to a lower level. However, we have to realize it at the same time that there are sometimes very large timing aspects that have come to the floor because the number of customers that we have are still pretty limited which means that if a customer pays just after a quarter-end, then for our cash planning, that's not an issue. But if you report just one day before the payment has come in, then the actual outstanding is a disproportionately increase and shows a very high outstanding balance. So that's something that we need to understand.
+
+The other item relates to the fact that revenues have been increasing. So in that respect, you will see on an absolute level, the increase in AR outstanding. And lastly, one item that also is relevant for this amount outstanding relates to the project work that we do especially for the newer customers, but also to some extent for the existing customers and they have often different payment terms than the normal SIM-based recurring revenues.
+
+So that sometimes adds also to a temporary increase of the outstanding AR.
+
+So also from a cash balance, if you look at the bank balance now, you will see that it's pretty much higher than the reported balance at June 30, simply because just after cutoff date, the large payments came in.
+
+Appreciate that. Got to get them in before the reporting date.
+
+You tell us.
+
+All right. Thank you. Thank you, Mark.
+
+Thanks.
+
+Thank you. We'll take our next question from [indiscernible] (00:49:53), a private investor.
+
+Thank you. Very good quarter, guys. One question, Steven, how would you describe the pipeline with respect to new business from new customers or new business from existing customers for the next three to six months? Do you expect to see any newbuilds closed within that timeframe?
+
+Thank you, [ph] George. (00:50:19) I think it is not wise to put any hard date on new deals to close. We are working on a couple of deals very, very seriously. I believe that we are in the last phases of some of the negotiations. But it's always very difficult to say whether that may take another month or another four months, it's simply not possible. And actually, history has shown that it's kind of dangerous to pinpoint too much on a hard schedule.
+
+For existing customers, however, it's slightly easier, because, of course, there is a conflict, there is infrastructure, and of course, much more easy to add additional business on to an existing relationship and on to an existing platform. And that's why, we are looking forward of course to the migrations in Mexico where we hope to increase our installed base from around 1.2 million now to around 5 million by the end of the quarter and around 8 million at the end of the year, early next year. That's, of course, a very, very substantial increase. And you can imagine, quite a few of the resources are focused just on that, because that's much more low-hanging fruit than any new contract can bring us.
+
+Next to that, of course, we already discussed the progress we are expecting with Zain. So we are also putting a lot of efforts there to make sure that we will be in a position of operational excellence. Once these customers will come on board will be very happy and will be customers for a very, very long time.
+
+And then finally, even also with Vodafone, we are expecting growth. So from the current existing customers, we expect substantial growth that can bring us at least to the point of being overall cash flow positive, as indicated earlier.
+
+Thank you very much. Congratulations again. Very good quarter.
+
+Thank you, [ph] George. (00:52:05)
+
+Thank you. We'll go to [ph] Robert Cask (00:52:08), private investor.
+
+Hi, Steven. Just a quick follow-up. So we know that IBM has been in the business of managing the MNOs, with one of our current customers is also a customer of [indiscernible] (00:52:24). It seems like HP is also in the business, and both of them are in substantially. Is it safe to say that both HP and IBM have a very broad client base in this business?
+
+Yes, they both have a very broad client base. However, the service they are delivering is quite distinctive. I think IBM is much more the general computing platforms, as well as a lot of the services, whereas HP is much more focused on selling very specific solutions to the industry. So their angle is completely different. And I'm not too sure how they compete head on, but I don't think that we see them too often competing with each other because they are really addressing different segments within the mobile operator markets.
+
+But it seems like both of those companies in a lot of ways are very vigorous competitors against us where they have so many existing clients and we're going after all this new business. So we're going to run into HP and IBM frequently as we look for new business.
+
+Well, yes. But I mean, listen, this is a very competitive market. All mobile operators are functioning today. So it's not that any new operators hit the market, that's a very low number. So it's basically you have to replace someone else. So there is a lot of competition out there. And not only are we supplying completely new technology, which is kind of a threshold to overcome, but as well as we are a small company with only few proven references. So we are handicapped at the moment to go after those existing suppliers like IBM. But we feel confident that the solution is that much better than the current legacy solutions, that bit by bit mobile operators will change their mind, will look at the references we are building up. And at one moment the pain-gain factor will simply be so attractive to them that they will make the move.
+
+Then, of course, we will not be alone in that market. Four, five, six of this huge multibillion-dollar companies are currently heavily investing in the whole domain of software-defined networking and network function virtualization. Some two months ago, Ericsson, one of our main competitors announced that they will redeploy most of their software development efforts into exactly the areas of software-defined networking and network function virtualization, something Elephant Talk has been doing for the last five, six, seven years.
+
+And today, we have a carrier-grade, ready-to-market platform that is servicing millions of customers. And we have AAA customers that are willing to write checks of million dollars or more a month to be serviced by us. So I think we have a very good position, but we are still a small company in a huge market fighting against huge competition. And that will take time, but we ultimately believe that the quality of the platform, the simpleness of the solution and the flexibility it brings to the markets will ultimately prevail.
+
+And we will definitely be in that market next to other competitors; however, we have today a solution that is working with millions of customers with major mobile operators. And actually, I think we are the only one who can claim that today. So I think our position is very good, but we have to realize that there is enormous competition out there.
+
+Yeah. But the good thing is we have a couple year headstart in a very big marketplace.
+
+That's what we have been told by some of our customers indeed, yes.
+
+Okay. Thank you, Steven.
+
+Welcome.
+
+Thank you. And it appears at this time we have no further questions. I'll turn the conference back over to CEO, Steven van der Velden. Please go ahead.
+
+Thank you. Again, on behalf of everyone at Elephant Talk Communications and ValidSoft, I would like to thank everyone for joining us on today's call. And thank you to all of our long-term shareholders for the patience and commitment to the company.
+
+As stated earlier, we look forward to providing additional updates on future achievements in the very near future. Thank you, all, and have a great day.
+
+Thank you. Ladies and gentlemen, this does conclude today's presentation. You may now disconnect.

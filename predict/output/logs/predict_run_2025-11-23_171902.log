@@ -1,0 +1,16 @@
+nohup: ignoring input
+[Paths]
+  IN_DIR : /home/ubuntu/project/identification/output
+  OUT_DIR: /home/ubuntu/project/predict/output
+  LOG_DIR: /home/ubuntu/project/predict/output/logs
+  VERIF  : /home/ubuntu/project/predict/output/verification
+  A_MIJ  : /home/ubuntu/project/identification/output/a_mij__sentence_ctx.csv
+  SENT   : /home/ubuntu/project/identification/output/sentences_scored_llm_ctx.csv
+Traceback (most recent call last):
+  File "/home/ubuntu/project/predict/risk_predictor.py", line 835, in <module>
+    main()
+  File "/home/ubuntu/project/predict/risk_predictor.py", line 693, in main
+    input_report = self_check_inputs(A_MIJ_CSV, SENT_CSV)
+  File "/home/ubuntu/project/predict/risk_predictor.py", line 186, in self_check_inputs
+    save_json(report, "selfcheck_inputs.json", LOG_DIR)
+TypeError: save_json() takes 2 positional arguments but 3 were given

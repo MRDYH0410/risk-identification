@@ -1,0 +1,86 @@
+Participants
+CORPORATE PARTICIPANTS
+Jerry D. Chase — Director, President & Chief Executive Officer, BSQUARE Corp.
+Peter J. Biere — Chief Financial Officer, BSQUARE Corp.
+
+Management Discussion Section
+
+Question And Answer Section
+
+Good day and welcome to the Bsquare First Quarter 2017 Financial Results Conference Call. Today's conference is being recorded.
+
+At this time, I'd like to turn the conference over to Bsquare's Chief Executive Officer, Jerry Chase. Please go ahead, sir.
+
+Thank you and good afternoon, everyone. Before I begin, let me remind you that this call is being webcast and that a recording of the call and the text of our prepared remarks will be available on our website. During this call, we will be making forward-looking statements. These statements are based on current expectations and assumptions that are subject to risks and uncertainties that could cause actual results to differ materially.
+
+Please refer to the cautionary text regarding forward-looking statements contained in our earnings release issued today and in the posted version of these prepared remarks, both of which apply to the content of this call. All per share amounts discussed today are fully diluted numbers where applicable.
+
+During the first quarter of 2017, we continued to make progress towards building a sustainable high-margin proprietary software business around DataV, our Internet of Things offering. DataV continues to perform well and in line with customer expectations, which has led to additional opportunities with existing and new customers.
+
+Though the IoT market is accelerating in terms of development, it is still very much an early adopter market. Commensurate with this stage of development, we are focused on building a solid pipeline of pilots across the number of vertical markets.
+
+Since Q1 ended, we have signed a number of pilot deals with large, high-quality customers and expect to sign more during Q2. We anticipate continued traction throughout 2017 and plan on targeted investments in R&D, sales, marketing and customer solutions in order to capitalize on that traction.
+
+Early in the quarter, we announced six initial DataV applications. These applications are targeted at delivering positive business outcomes irrespective of underlying equipment and business processes. Our focus on applications and positive business outcomes has made it much easier for our sales team to communicate the value of DataV to our customers. Consequently, we are seeing increasing opportunities for DataV across multiple vertical sectors, including transportation, oil and gas, manufacturing and energy distribution. Though it is early, we are also seeing a shortening of the pilot pipeline with recent pilot wins taking only two to six months from initial discussions to signing.
+
+As I mentioned, we are pleased that DataV is performing well in initial production deployments, resulting not only in timely cash collections, but also in expansion opportunities. Given the size and global nature of many of our DataV customers, we believe there is substantial opportunity for incremental revenue after securing an initial win.
+
+Now, let me turn to our traditional revenue drivers. With regard to our embedded software resale business, in the first quarter, we experienced a decrease in third-party sales volume. This is partially due to a number of customers who bought additional Microsoft licenses in the fourth quarter of 2016 in anticipation of Microsoft pricing changes. We are also experiencing increased competitive pressure resulting from changes to Microsoft's distribution agreements. As you know, we have anticipated these changes for quite some time and have taken steps to address them. We will continue to operate this business leanly in order to maximize cash flow.
+
+Our professional engineering services business, thanks to structural changes implemented last year, is operating at very high utilization rates, resulting in a return to strong gross margin levels; 27% in Q1. We continue to have strong relationships with key customers, including Google, Coca-Cola, Mitsubishi Electric and Toyota. We are committed to running this business at high utilization rates going forward. As you would expect, we are also exploring DataV opportunities with our traditional business customers.
+
+Now, I would like to turn the call over to our CFO, Peter Biere, to address our financial performance in the first quarter.
+
+Thank you, Jerry, and good afternoon everyone. First, let's review our revenues for the first quarter. We reported that revenue during the quarter totaled $22.8 million, which notably included $3 million in DataV software and support revenues. In our last earnings call, we expected Q1 revenues to be in the $19 million to $21 million range, that's without DataV, given the unknowns of adopting ASC 606. So, our traditional business revenues of $19.8 million fell right in the middle of our expected range.
+
+Overall, revenues were down 10% from $25.4 million in the first quarter of 2016 and down 15% sequentially from $26.8 million. I'll break down the changes in revenue by grouping. Third-party software revenues totaled $16.8 million for the first quarter, in line with our expectations. This is 16% lower than the year-ago quarter and 29% lower from the sequential quarter.
+
+We experienced a decrease in third-party sales volume in the first quarter, partly explained by a number of customers who bought additional Microsoft licenses in the fourth quarter of 2016 in anticipation of changes following the end of Microsoft's volume purchase programs on December 31, 2016. We also saw an increase in competition for larger third-party software accounts during the quarter as these accounts were previously protected under our Microsoft agreements, though we have yet to see much change in overall gross margins.
+
+We expect the impacts from the changes in the volume purchase programs to continue to affect our third-party software revenues and margins in future quarters. However, we continue to fight for market share, but in ways to protect the profitability of this business.
+
+Professional engineering services revenue totaled $3.4 million this quarter, up 23% sequentially from Q4 and down 36% from the prior-year quarter. We completed a couple of DataV service deliveries in the quarter, explaining the sequential increase. And as we previously announced, the decline from the year-ago quarter relates to our strategic decision to realign our service capabilities towards DataV.
+
+Before we move on, I want to discuss the high points of changing revenue recognition rules. As you know, we adopted new contract accounting rules or ASC 606 effective January 1, 2017. The new rules, which I'll comment on shortly, essentially clarify how we measure our various contract performance obligations and then provide – or properly determine the periods in which to recognize the revenue.
+
+We chose to early adopt these rules while DataV is in its infancy and changing now was more advantageous for us. The switch to the new rules had little impact on our legacy software and services businesses, but did materially affect our DataV contracts, which contain differing license types and multiple performance obligations.
+
+As a result of adopting ASC 606, we were able to recognize an incremental $2.8 million of DataV revenue during the quarter, most of which came following PACCAR's acceptance of contract deliverables. Under the old rules, we would have had to spread the PACCAR revenues over the life of the contract.
+
+Next, I'll turn to our gross profit and margins. Gross profit totaled $6.3 million in the quarter or 27% of revenue, up from 17% of revenue in the prior year first quarter and up from 15% of revenue in the sequential quarter. We expected margins to be in the 13.5% to 15% range without the impact of DataV. Blended software and legacy services margins averaged about 18.5% or about 3.5% above our expectations. There are a lot of moving parts here. So, I'd like to address each category separately.
+
+Third-party software gross margins averaged 16.2% in the quarter compared to 14.4% and 14.8% in the prior-year and sequential quarters, respectively. Following the end of our Microsoft volume license purchase programs, we recorded adjustments to close out program accruals that effectively increased third-party margins by about 2% in the quarter. Without these adjustments, third-party margins would have been more in line with prior periods.
+
+Engineering services gross margins averaged 27% in the quarter. That's up from 24.5% in the year-ago quarter and up from 6.7% in the fourth quarter of 2016. The improvement over both comparative periods reflects better utilization once we completed our restructuring of this business.
+
+As discussed last quarter, services margins averaged 18% during Q4 before the impact of final restructuring costs. We believe that our services team is now right-sized to the level of ongoing legacy contractual commitments, allowing us to focus investment to support DataV services.
+
+Next, I'll speak to operating expenses and our bottom-line results. Total operating expenses were $6.2 million this quarter, up from $3.6 million in Q1 of 2016 and from $5.3 million in Q4 of 2016. The $900,000 sequential increase included about $400,000 previously dedicated to professional engineering services cost of revenue. These costs are not new to the business and in quarter were included in operating expenses. The balance of the change are incremental costs to support the growth of DataV.
+
+Comparing to the year-ago quarter, operating costs increased $2.5 million. In addition to the professional engineering services cost reassignment I just mentioned, the remaining increases are also attributable to incremental costs to support the growth of DataV.
+
+We recorded net income of $202,000 or $0.02 per share for the first quarter of 2017 compared to net income of $500,000 or $0.04 per share in the year-ago quarter. The sequential quarter showed a net loss of $1.3 million or $0.10 per share. In our last earnings call, we expected that Q1 results would reflect a net loss without DataV. The current results show or reflect how sensitive profitability is to even modest levels of DataV revenues.
+
+Cash and investments totaled $31 million as of March 31, 2017, a decrease of $2.2 million from $33.2 million as of the end of December of 2016. Accounts receivable totaled $15.7 million at March 31, approximately half of which is from Honeywell and continues to be in great shape.
+
+I'll next discuss several non-GAAP metrics we will be providing on a regular basis designed to help investors better understand our cash flows and DataV business.
+
+We use adjusted EBITDAS, defined as operating income before depreciation, amortization and stock-based compensation, to monitor our ability to generate cash from the operations of our business. We use bookings, backlog and unbilled deferred revenue as measures that we believe provide meaningful information related to our new DataV product sales, since revenue will often be recognized in different periods than those in which orders have been received or cash has been collected.
+
+Our adjusted EBITDAS was $593,000 this quarter, down $620,000 compared to $1.2 million in the year-ago quarter, this due to lower engineering services revenue and higher DataV expenses compared to last year and up $1.4 million compared to a negative $0.8 million in quarter four of 2016.
+
+Several measures we'll use to describe DataV include bookings, it's a non-GAAP measure defined as the value of new agreements that we signed with customers. We did not record any new DataV bookings during the quarter. We collected approximately $1.3 million in cash receipts from DataV contracts in the first quarter of 2017.
+
+Backlog is a non-GAAP measure defined as total bookings less revenue recognized to date and was approximately $3.2 million at March 31 of 2017 compared to $5.7 million at December 31, 2016. Of the March 31 balance, $1.5 million is unbilled deferred revenue and $1.6 million is reflected on the balance sheet as deferred revenue, all of which is classified as current.
+
+With that, I'll now turn the call back to Jerry to provide an outlook for the second quarter and closing remarks.
+
+Thank you, Peter. As noted in today's press release, we currently have the following expectations for Q2 2017. Revenue in the range of $18.5 million to $20 million, DataV revenue recognized in the quarter will not be significant. We have successfully closed a number of paid pilots with new and existing customers in the second quarter. Additional pilots are expected to close. Blended gross margin in the 16.5% to 18% range due to reduced third-party software margins, reflecting lower levels of rebates from Microsoft barring reseller programs and lower DataV revenue recognition and a net loss due to lower revenue and continued investments to grow DataV.
+
+Shannon, please open the call for questions.
+
+Yes, sir, thank you. [Operator Instructions] And, gentlemen, no one has queued, I'll turn the conference back over to you for any closing or additional remarks.
+
+Thank you. Before concluding the call, on behalf of the entire Bsquare team, I'd like to thank our investors and customers for your interest and for your business. We look forward to reporting back to you next quarter. Thank you for joining us.
+
+Ladies and gentlemen, that does conclude today's conference. We thank you for your participation. You may now disconnect.

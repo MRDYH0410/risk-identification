@@ -1,0 +1,191 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+Richard R. Ramlall — Vice President, Investor and Public Relations, Internap Corp.
+Peter D. Aquino — President, Chief Executive Officer & Board Member, Internap Corp.
+Robert M. Dennerlein — Chief Financial Officer, Internap Corp.
+Frank Garreth Louthan — Analyst, Raymond James & Associates, Inc.
+Dan L. Kurnos — Analyst, The Benchmark Co. LLC
+George Frederick Sutton — Analyst, Craig-Hallum Capital Group LLC
+
+Management Discussion Section
+
+Question And Answer Section
+
+Good day, ladies and gentlemen, and welcome to the Internap Corporation First Quarter 2018 Earnings Conference Call. At this time, all participants are in a listen-only mode. Later, we will conduct a question-and-answer session and instructions will follow at that time. [Operator Instructions] As a reminder, this conference call is being recorded.
+
+I would now like to introduce your host for today's conference, Richard Ramlall, Vice President of Investor Relations. Sir, you may begin.
+
+Good morning and thank you for joining us today. I'm joined by Pete Aquino, our Chief Executive Officer; and Robert Dennerlein, our Chief Financial Officer. Following prepared remarks, we will open up the call for your questions. The slides we reference in the call are available on our website in the Management Presentations section of our IR page.
+
+During this call, we will present both GAAP and non-GAAP financial measures. A reconciliation of non-GAAP measures to the most directly comparable GAAP measures is included in today's earnings press release.
+
+Management believes that our presentation of non-GAAP financial measures provides useful supplemental information to investors regarding our results of operations, and our non-GAAP financial measures should only be considered in addition to and not as a substitute for or superior to any measure of financial performance prepared in accordance with GAAP. The earnings press release is available under the Financial Information section of our Investor Relations page under the Quarterly Results link.
+
+Today's call contains forward-looking statements as described on page 2 of the slide presentation we reference in this call, which we urge you to read. These statements are not guarantees of future performance. Because these statements are based on certain assumptions and involve risks and uncertainties, there are important factors that could cause our actual results to differ materially from those in the forward-looking statements. We discuss these factors in our filings with the SEC, which are available from the SEC or on our IR website. We undertake no obligation to amend, update or clarify these statements made as of today, May 3, 2018.
+
+Now let me turn the call over to Peter Aquino. Pete?
+
+Well, thank you, Rich, and good morning, everyone. So let's start with slide 4 and go over our first quarter highlights.
+
+We had a very busy and successful first quarter, executing three main objectives to generate new products, top line and cash flow improvements. First, we are winning more business than in recent history and having a growing pipeline. The sales activity is very encouraging. Second, we closed our SingleHop deal at the end of February and well into product integration and capturing synergies. And third, we recently re-priced our total debt in April to gain significant interest savings. In today's report, we'll walk through these topics and fill in any gaps in Q&A.
+
+So the main objective for 2018 is to build top-line growth, both through organic and accretive business development. In that sense, we are graduating from reorganizing and primarily cost-cutting in 2017 to now being on offense to grow revenue. We are pushing on multiple fronts to outrun churn even further. Our new sales force are getting solid hits with some AEs already far exceeding their quota. This is driven by larger deals in Seattle, Phoenix and Santa Clara with other markets not far behind. As we book these deals, we expect future quarters to reflect new build revenue with many customer projects now in construction.
+
+We are confident that we're on the right track, and we continue to look for ways to accelerate deal flow worldwide. We reported $74 million in revenue in the first quarter with 35% EBITDA margin. SingleHop was absorbed at nearly the same rate day one. But we continue to see upside in margin expansion as we work through acquisitions synergies, network optimization and real estate savings.
+
+From a big picture perspective, we're digging in three areas to do sales in 2018. First, our US team is concentrating on selling both retail and wholesale [indiscernible] (04:35) in our available space. We are now in 21 major markets worldwide selling to multinationals. We are leveraging approximately 100 megawatts of utility power with over 1 million square feet of growth states primarily in the U.S.A. This fits to our [ph] Tier 3 (04:56) design and capability for high density reps. We're enjoying more potential customers for larger footprint than I've seen since I've been here. And this is a credit to our sales leaders as they are swinging for bigger deals with renewed interest in INAP.
+
+Second, I would like to highlight Canada as an opportunity for growth, in Montréal specifically, as having relatively low power costs. We're moving from what historically was a cloud-centric product set and adding new data center services in and around our three data centers that we currently operate. We are very bullish on data center services in Canada and overall upside potential in our international footprint.
+
+And the third key area is to sell SingleHop services across our platform. We now have the capability to sell more advanced and innovative managed services product. And we discussed the advantages we gained in innovation and talent, and we're very bullish on our new cloud product set. With the inclusion of SingleHop operations having both domestic and international customers, we decided to realign our segments in accordance with the way that we're managing business going forward.
+
+Throughout this report, you will notice that the US segment is more data center-centric, while the international group is currently more weighted towards cloud. Management is planning to expand all product capabilities in both geographies from this starting point. During the quarter, we also advanced another key initiative designed to strategically upgrade network services at INAP. You may recall that network optimization was always on our plate since I joined in 2016, and I'm very excited that we're now in this place of implementation.
+
+This initiative will accomplish three major objectives. First, we will lower our fixed costs. Second, we will improve the customer experience through network reliability and a lower churn. And best of all, we will productize the network beyond IT and soon offer advanced data transport services to customers already connected to our POPs.
+
+So let's turn to slide 5 for a network overview. As you can see from our global network map, our 57 data centers and 98 POPs are all connected with either dark fiber that we lit or wavelength leased from major carriers. INAP's global network services group working with leading telecom and technology vendors re-engineer our global network backbone. In addition, the team created an overlay express ring specifically for the U.S to. manage overflow data traffic. This new backbone enhances capacity and survivability to handle burst of increasing IP demand across our network.
+
+In addition, we're also investing in state-of-the-art Metro Ethernet technology. In the upcoming months, we will be lighting our existing dark fiber rings in six Metro markets, including New York Metro, Dallas, Phoenix, the Bay Area, Chicago and Boston, making on-net connectivity and low latency a big part of our customer pitch.
+
+Regarding our raised floor occupancy rate of 61% and our 21 major markets as shown in our press release, allow me to highlight a few updates this quarter. Beyond the quarter installations, we completed a much-needed expansion project in our Dallas flagship. We added another [indiscernible] (08:44) augment to provide inventory for our sales team. In addition, we also incorporated SingleHop's data center leases primarily in Chicago and Amsterdam. So in the near term, we will be reflecting the completed build-outs in Seattle, Phoenix and Montréal, with bookings turning to build revenue in the coming months.
+
+So at this point, let me hand it over to Bob Dennerlein, our CFO.
+
+Thank you, Pete, and good morning, everyone.
+
+We jumped out quickly in 2018 and have already executed on several significant milestones. We finalized the single hub acquisition, successfully re-priced our debt and completed the organizational realignment by geography. In addition, we are making great progress on our SingleHop integration with just two months of hands-on attention since we closed on February 28. We expect to capture about $2 million to $3 million of annualized savings over the upcoming quarters and as much as possible in years.
+
+On the financing front, we completed the debt re-pricing in the first quarter, reducing the interest rate on our debt to L+575 or $5.4 million annually. Please note as we mentioned in our last report that effective with this first quarter, we have realigned into geographical segments. We decided to make this change in conjunction with our SingleHop acquisition to better align and manage our global data center operations and assets. We believe that this new alignment will foster a more efficient sales process across INAP's global footprint. These new reporting segments and historical pro-forma comparisons are presented in our report today.
+
+Also, you will note that we have consolidated our extending AgileCloud, traditional INAP Managed Services, iWeb, new SingleHop managed services and hosting products into one category simply called Cloud. We made this move to reflect the expected cross-selling activity by our retail sales force, ranging from small and medium business opportunities up through the enterprise customer target market. We are excited about this new geographic realignment designed to help our general managers to be more efficient and focused on profitable growth in their markets.
+
+Now let's turn to the consolidated earnings summary. We had a very good first quarter with reported revenue of $74.2 million, up 5.9% sequentially and 2.9% up year-over-year. The activities from the back end of 2017, including the consolidation of INAP Japan, the strategic acquisition of the Coca-Cola facility in Atlanta, which allows us to exit another data center later this year, and lower churn, contributed to the increase. The reported revenue increase also includes one month of our SingleHop acquisition. However, when we normalize to the many incremental impacts to business as usual, organic growth was nearly breakeven in quarter one.
+
+GAAP net loss in the first quarter was $14.1 million, including $3.7 million of other expenses such as $900,000 of stock-based compensation and $2.6 million of acquisition expenses. On a normalized non-GAAP basis, first quarter 2018 net loss increased by $4.9 million from $5.5 million in the prior quarter, and $5.6 million versus $4.8 million in the prior year. The sequential increase was primarily due to higher depreciation and amortization, in addition to higher interest expense due primarily to the SingleHop acquisition and finance costs associated with it.
+
+Cash flow from operations was $3.5 million in the current quarter versus $13.8 million in the prior quarter and $7.3 million last year. The main drivers of the sequential decrease were working capital timing and higher onetime acquisition expenses primarily for legal and other professional fees associated with the SingleHop acquisition.
+
+Adjusted EBITDA in the first quarter was $25.7 million, an adjusted EBITDA margin of 34.6%. Adjusted EBITDA increased by $1.3 million versus prior quarter and $4.1 million year-over-year. EBITDA margin was relatively flat sequentially and grew 470 basis points compared to the first quarter of 2017. The positive EBITDA performance was driven by revenue growth and cost reductions.
+
+Capital expenditures in the first quarter were $6.4 million compared to $12.6 million last quarter and $6 million in the first quarter of 2017. The primary driver of the lower spend in the first quarter was the planned timing of some of our larger growth spend initiatives. Like our experience last year, we anticipate our second half CapEx investments to be somewhat higher than the first half of this year and full-year capital expenditures to pull within our guidance range. First quarter 2018 adjusted EBITDA less CapEx was $19.3 million, an increase of $7.6 million sequentially and $3.7 million versus first quarter 2017.
+
+Now let's turn to slide 7, our INAP US business unit. Overall INAP US revenue totaled $57.1 million in the first quarter of 2018, an increase of 7.3% from $53.2 million sequentially and an increase of 2.9% from $55.5 million year-over-year. The sequential revenue increase includes one month of SingleHop financials, which are included in the cloud category, as well as a full quarter's impact of our new Atlanta data center included within colocation. We also experienced a smaller sequential decline of 1.4% in network revenue which is a big improvement from previous three quarters.
+
+INAP US business unit's first quarter 2018 contribution was $26.5 million resulting in a 46.5 % contribution margin, which was 330 basis points higher sequentially and 43.2% in prior quarter and over 1,000 basis points higher than 36.1% from the prior year. The increase was primarily due to a combination of cost reductions, underperforming data center exits and operating the capital lease conversions. As we progress through the year, we will continue to look for opportunities to drive margin expansion in the INAP business unit, both by increasing revenues and by reducing costs through additional data center rationalization and network efficiencies.
+
+Now let's go to slide 8 to discuss our INAP INTL business unit. INAP INTL's first quarter revenue totaled $17.1 million, an increase of $300,000 or 2.9% sequentially and $400,000 or 2.7% year-over-year. The increases were primarily driven by the inclusion of SingleHop's financials from March 2018. The year-over-year increase in network was driven by the financial consolidation of our INAP Japan entity partially offset by a decrease in cloud revenue, primarily driven by two churn events in early 2017.
+
+INAP INTL contribution of $6 million decreased $300,000 sequentially and $1.7 million year-over-year. As a result, first quarter INAP INTL contribution margin of 35 % declined from 37.6 % sequentially and from 46% year-over-year. The modest sequential decrease was primarily driven by the re-pricing of certain cloud revenue, while the year-over-year decrease was largely due to the exclusion of INAP Japan last year and early 2017 revenue declines from the aforementioned 2017 churn.
+
+As we previously mentioned, we consolidated INAP Japan in the third quarter of 2017 in conjunction with our ability to improve our governance rights. INAP Japan in general has a low margin contribution at this point. We believe the International contribution margins in the first quarter have leveled off and represent a reasonable baseline to improve from here. The combination of optimizing our international assets, adding more products and driving better sales performance provides a path to upside for our International group.
+
+Now let's review our cash flow and balance sheet summary on slide 9. Free cash flow, defined as cash generated from operations less capital expenditures, was negative $2.8 million in the quarter, a decrease of $4 million from prior quarter and $4.1 million from prior year. The decreases primarily came from lower net cash flows from operating activities, driven by working capital timing and higher onetime acquisition expenses, and legal and professional fees associated with SingleHop.
+
+As I mentioned previously, capital expenditures was $6.4 million in the current quarter, comprised of $4.6 million of growth-related spend and $1.8 million of maintenance expenses. Cash interest was $13 million in the first quarter, bringing unlevered free cash flow to $10.1 million compared to $13 million in the previous quarter and $8.6 million last year.
+
+Cash and cash equivalents were $16.2 million at the end of the first quarter versus $14.6 million in the prior quarter. The increase of 1.6 million was driven by $2.7 million of cash from SingleHop and $11 million of revolver borrowings offset by $6 million of debt issuance costs, $3.1 million of debt principal payments and cash from operations less capital expenditures of $2.5 million.
+
+Total debt of $667.2 million includes $233.6 million of capital lease obligations. $158.7 million of our capital lease obligations are excluded from debt bank covenant purposes as they were operating leases at the time of refinancing. Our covenant-based leverage ratio was 5.1 in the quarter relative to 4.5 in Q4 and 4.1 for the same quarter last year.
+
+Turning to slide 10, we have very recently provided our guidance for 2018 in our fourth quarter 2017 call. We are reaffirming all areas of the guidance, which includes the SingleHop acquisition for 10 months. As discussed, we continue to execute on exiting non-core data center exits in Boston, Atlanta and Dallas while gaining momentum in organic growth.
+
+Our first quarter saw the implementation of several key initiatives, including the SingleHop acquisition integration, business unit reorganization and the debt re-pricing. We will continue to see progress with our rebuild sales force and channel in the quarters ahead, and we'll continue to drive down costs throughout the organization. We are in much better shape to capitalize on opportunities in the marketplace and continue our profitable growth and value creation.
+
+Now let me turn the call back to Pete.
+
+Thanks, Bob. Let's turn to slide 11.
+
+So, we are at the next level of our evolution as the new INAP, as we execute our plan this year and become even more attractive as a premier data center services operator as well as a key partner with our customers. For this part of this year, we will integrate and upgrade systems to be more effective and productive. And done well, we will capture savings and improve customer service. This must be a core competency of INAP. And with these improvements, we should realize new resonant opportunities from our existing base as well as new logos.
+
+We are seeing new opportunities for larger deals, especially in verticals including mobile apps, gaming, social media and ad tech, to name a few. And our ops teams and sales teams have been working with more and more prospects into our facilities and extend with us.
+
+By adding new capabilities in 2018, INAP is differentiated from the competition and will meet or exceed requirements for complex IT demand in our large addressable market. We [ph] look this team (22:26) by leveraging all of the assets in our colo, cloud and network services groups to gain share and drive positive free cash flow.
+
+So this concludes our prepared remarks. At this point, we'd like to take your questions. Operator? [Operator Instructions]
+
+And your first question comes from the line of Frank Louthan with Raymond James. Your line is open.
+
+Great, thank you. Can you walk us through the network redesign and exactly what you had to do to accomplish that? And then you mentioned Metro Ethernet. Are you pursuing any SD-WAN type architecture on the network and why or why not?
+
+Sure, good morning, Frank. First of all, our network was a big part of our fabric probably since the late 1990s when the company was born. And the engineers basically acquired facilities in between data centers and then ultimately start buying dark fiber to create rings in the Metro. And if you look at our network map and you have those facilities already in place, you're basically down to an electronics investment to light the ring for your own transport service.
+
+And in many models, especially in Europe, South America for sure, parts of the U.S., [indiscernible] (24:15) and others who have network and acquired data centers, the next obvious thing to do besides engineering your data centers to be on-net is to light it for Metro Ethernet. And what happens is your commercial customers that are in your POP, so we have 98 POPs worldwide, have a way on-ramp to go from one market to the other on your own network. And that's part of a solution that customers have been asking us for because almost – we almost provide everything else.
+
+So the incremental investment to basically buy electronic to light the rings is an enabler for commercial traffic to stay on-net and to bundle more with our customers. And the incremental capital investment was de minimis relative to the plan we had this year. A couple million bucks here and there just to add electronics was a no-brainer.
+
+The other thing the network group has done is looked at the architecture over years and, frankly, has been kind of stitched together by multiple teams over multiple years. We stepped back since I got here, re-architected the backbone and kind of moved to a more core design so that some of the traffic we were getting jammed up basically got off-ramped to a larger ring that have the capacity to handle those bottlenecks. And some of the churn that we saw, some of the complaints that we had since I've been here were really relative to an architecture that was, in my mind, easily fixed. So we brought in some talent probably six months ago along with the talent that we had here, and we basically put it together with some outside help and made the investment.
+
+Regarding going down the stream for other commercial data services, we're not trying to be a network company. We're trying to enable our network to add one more product for the apps that we're getting. So we're not trying to be a Level 3 or GTC or any of those companies. What we're trying to do is make our network better, stop the outages where we were getting kind of caught up and then, frankly, solve some problems that customers are already asking for. And it's one more thing we can do that adds revenue.
+
+So it's really part of our complete fabric, our total bundle. It's an obvious add and the network was there. So if you were in our shoes and you looked at the fiber all over our footprint, and if you look at that map, it's quite impressive. The tier 1 markets that we're in are basically the top 10 MSAs. So every asset in a market, three or four assets in Dallas, for example, to roll on a ring, any customers and any asset or POPs on that ring or colo is basically in our flagship because they're on a ring. It's the same environment. And we can take them from Dallas to Seattle on-net, and they pay us for everything. And that's better for the customer. We can monitor the whole thing and it's an obvious add. And I've been looking at this since I've gotten here – since I got here. And for incremental investment, it's just really great news for us.
+
+Historically, that business has declined. And under this new architecture and kind of new way to monetize a deal, would you expect that you could possibly grow that line of business?
+
+It's something we basically left on the table, to be honest with you. I mean, we are an IT-only company originally and we sold bandwidth services and wavelengths just to enable guys get from left to right. But when you offer a Metro ring environment and customers already know they need that anyway, they may actually be buying that from somebody else. So I see the logic in some of the ARPUs and network and IT pricing has been dropping over the year, it's probably quite stable low now. We could try to make it up in volume, but why not add to more capabilities to a network we already have and try to bend that line just through the volume that we're pushing? Because as the new customers come in, it's one more thing to offer. And it is quite obvious. So, I'm kind of excited to work for our sales team out of the bag and to basically keep that type of revenue that we've been given to somebody else.
+
+Got it. Okay, thank you very much.
+
+Thank you. Your next question comes from Dan Kurnos with Benchmark. Your line is open.
+
+Great, thanks. Good morning. Pete, I guess kind of just to follow up a little bit on that line of questioning. A lot of the things that you've been doing in sort of fixing the business in a way since you've come on board has been to pick up a lot of things that have either been left on the table or to address some of the asks that your existing customer base is coming to you with sort of holes in your product lineup. Can you talk to whether or not that's creating a little bit of a flywheel for inbound since you've advanced the portfolio, or if you are seeing kind of a – understand that SingleHop is just in now, but if you're starting to see a pickup in wallet share from your existing customer base to the level that you expected based on these investments and initiatives?
+
+Hey, Dan. I would say we're just at the beginning of layering on these product advancements. It's been kind of boring I would say in the last couple years where we're playing the same tune with the same product set. And we, the new team, basically saw some resistance to trying to sell the same old stuff, if you will. The advancements in managed services and private cloud have been great in other categories and other companies have been making a [ph] single fan class (30:51) work. What we had was not going to take us to the future.
+
+So the buy-or-build decision was made pretty easily. What we saw, speed to market being one of the limitations, and SingleHop basically solves that problem for us. And we're really excited to have them on the team, and they're jumping in right away on the network side as we discussed. Those products that exist and our customers are buying them from somebody else. The fact that we have them inside, I think, will be just another catalyst for the company to grow beyond churn because right now I would say we're stable. If you look at the top line, we got to the point where we're at the table stakes.
+
+But to get beyond churn and to grow this company, it really was a product upgrade issue and potentially a systems upgrade as well because in talking with our peer group and others in the industry, when you start integrating companies, for sure, systems is a big part of your fix. And SingleHop systems were better than ours in many cases.
+
+So, in some ways, we're really excited about integration in this case because we could use many of the platforms they're bringing to the table. Starting back since we've been here, we probably have multiple building systems and multiple operating systems and multiple [ph] NOCs (32:29) And once you take that collection together in what I would call a $300 million company that could be a double, we have to fix those systems now so that we can grow down the road, whether it's through acquisition or organically.
+
+So we're at a point what I would say this year is sort of an inflection point, where the low-hanging fruit and cost-cutting is done. We'll always find room for improvement on the cost side, but product development and systems development so we can expand and grow organically just where we're at. And I'm kind of happy we got here in a year because we had a lot of stuff to do last year. And you can see from the first quarter, we're doing three things at a time. We're growing the company. We're improving our interest rate and we're buying companies. So there's a lot of stuff going on at INAP but we all have an eye on the goal, which is to grow this company organically. And we're doing the right things, I think, in the foundation of the company to grow. And it's in the product and that's what we're working on.
+
+Got it, that's helpful. And so, in that vein, since you've done the restructuring here again to the new business segments, I think there's going to be a different focus I guess now on US versus International. I think the US playbook is pretty apparent, pretty clean, pretty obvious. I don't know if you're counting Canada as International or not, but since you talked about it, maybe then outside of Canada, if you are including Canada, just some more granularity or any color you can give on sort of the International playbook since I think that's going to be how you guys are going to be judged on a go-forward.
+
+Yeah, that's a good point. I mean, International, a lot of companies I've seen has typically been less profitable. I think for the most part because a U.S. sale to a multinational may drag some international properties as well.
+
+What we wanted to do is to turn it around a little bit because Canada is an excellent market. It is the anchor of our International footprint. We have a great leader up there in Andy Dey that's in Montréal with us with his team. And Canada is a great place for low power, so some of the activity up there, and we have three data centers there basically take us from an iWeb and a managed services cloud platform to what can we do in data center services, given the advantage in power cost. So we have plans to expand. If you look at our capacity chart, Montréal is basically full. And that basically speaks to the demand there. So we need to get some relief in inventory, so that the Canadian business unit can grow even further and contribute.
+
+The sprawl of the POPs in EMEA and the acquisition or consolidation, if you will, of Japan is an opportunity really to take a multinational footprint. And there's a lot of demand for Singapore, there's demand for Europe where multinationals again that are in our data centers in the U.S. also have other presence worldwide. We're talking to global companies. So having that in the bag is very helpful.
+
+And having a focus, whether it's originated through an international organization or U.S., there's going to be a lot of cross-selling to a customer that's global. And having a focus, both from a cost perspective, an P&L perspective, an opportunity perspective, is really the way we wanted to separate the turf. Corey Needles here in the U.S. is very busy because he's got probably two-thirds of the company under his watch. And he's got a great opportunity to grow the company in the U.S.A. And SingleHop's going to help with that, too, but you see the capacity availability in the data centers as just upside for us without a lot more CapEx put to work.
+
+So we think we have an ability to push product that we're missing or we're under penetrating in both of those segments. And the GMs are basically trying to fill up what the opportunity set is for them that they don't have. And the bottom line is the customers are going to determine where we're going, and so having two engines really is what we're focused on.
+
+Got it. Thanks for the color.
+
+Thank you. [Operator Instructions] Your next question comes from George Sutton with Craig-Hallum. Your line is open.
+
+Thank you. Pete, I wanted to better understand a couple of items related to the move to sell geographically. If I look at the perspective of a salesperson and I've been selling more vertically and now begin to sell geographically, there would logically be a transition period. Can you explain how you're kind of working around that first?
+
+Yeah. Our sales team really thinks globally in the first place. They're really well-integrated in a sense that deals that may originate in one place to the other that has demand in the opposite geography is just a team effort, George. We were very careful up front to make sure we got that right. When we started off two years ago, we caused a little conflict amongst ourselves by trying to stay in lanes and then we restricted guys from crossing over. And that didn't work great out of the gate.
+
+So when we kind of reinvented ourselves probably a year ago, the idea that a salesperson has everything in the bag, the sales opportunity is global. And to the extent that you could refer or a team with somebody who can speak to the customer locally, that's fine, but chances are the original idea came from one point or the other and the customer wants to go across boundaries.
+
+So the name of the game now is a global sale. I mean, the customers we see and coming into our data centers are not only U.S. based or European based. That also speaks to the types of customers we're attracting, which is probably a new thing as well because the multinationals are driving the bigger deals.
+
+And so, I believe we're structured right. I believe the sales teams are well-integrated now. They see the world as their sales territory. We're trying to stay on that for the most part and focus on the opportunities where if we have a choice of putting a customer in our flagship or someone else's property, guess what, it's going into the flagship. So that's a little bit more of a discipline and the general managers in both geographies are trying to run a business. So profitable growth, making smart decisions, selling on that, is part of our new culture.
+
+I wondered if you could just give us quick updates in terms of where you think you are relative to where you think you can get on a few things. On the third-party migrations, the wholesale opportunity and then the partnership focus that you've really begun, where you think you are on all those sets?
+
+Sure. And, yes, this I would say the three that are called out this year, they're in progress, customers notified, and we're saving as much revenue as we can. We have an expectation of being conservative on what we can save. And lately, the message has been we might do better. And frankly, if our data centers are a stone's throw away from where they are, the odds are good.
+
+So the closures will have some impact. They do affect churn. They do affect organic growth. We have to grow past that, but it's the right thing to do for cash flow. We just have to make that decision and do it. And I think it's getting less and less. Certainly when we started two years ago, we sold a whole list and we're quite shocked, but the top five that we wanted off the list are coming off the list by the end of this year. And some of the limitations, of course, are the contract constraints that we have in getting out as fast as we want. So it's a little bit of finance, but we're working that through.
+
+On the partnerships, it depends on what type of partnerships you're talking about, the channel partners, George?
+
+Well, I'll give you an example. I know real estate in various markets, you started to work with real estate partners as an example. And I know it's a newer effort. I'm just curious where you see it going from here, how far you are into that?
+
+Yeah, those are called channel partners in our vernacular here and that has been missing for a while. We rebooted it. We have a lead salesperson on it. We call it [ph] Project Jolt. (42:34) Mike Higgins called out to you and it has a lot of pressure on him. He has to bring in those bigger deals because we want to fill that empty space.
+
+But [ph] Project Jolt (42:45) is a combination of taking the empty space, going to a channel partner site, put this in your bag. We want to participate in those RFPs for wholesale deals that we haven't done before. And it was a decision the company made to try to sell more retail than wholesale, to get better revenue and better margins, but those empty seats are burning a hole in our pocket now. So [ph] Project Jolt (43:17) is how we're landing some of these bigger deals in Phoenix, in Seattle. We have a couple that I'd love to talk about that we're very hopeful on, but that's how we're going to really kick this thing into gear.
+
+And the channel partners have told us and it's sort of getting – it's getting a lot better, but they've told us you've disappeared from the market the last two years or three years. But this year is renewed confidence, and some of the deals we're getting are coming from them. And that's the engine that's missing or was missing when you think about organic, you can do it with your direct sales force, but the guys that are really stimulating the market are those channel partners and those real estate guys, and we're taking them to dinner. So the more of that you do, the more you're plugged in and the more you turn the table day one.
+
+All right. That's great for me. Thank you.
+
+Thank you. And I'm showing no further questions at this time. I'd like to turn the call back over to Mr. Aquino for closing remarks.
+
+Thank you, operator, and thank you all for your attention. Richard and I will be heading out to L.A. to the Jefferies conference next week. And we look forward to the next communication. Thank you very much.
+
+Ladies and gentlemen, thank you for participating in today's conference. This does conclude the program, and you all may disconnect. Everyone have a great day.

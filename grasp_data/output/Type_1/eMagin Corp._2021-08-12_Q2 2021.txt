@@ -1,0 +1,144 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+Mark A. Koch — Chief Financial Officer, eMagin Corp.
+Andrew George Sculley — Chief Executive Officer & Director, eMagin Corp.
+Kevin Dede — Analyst, H. C. Wainwright & Co. LLC
+
+Management Discussion Section
+
+Question And Answer Section
+
+Good morning and welcome to eMagin Corporation's Second Quarter 2021 Earnings Conference Call. Please note this event is being recorded. After management's prepared remarks, there will be a question-and-answer session.
+
+I will now turn the conference over to Mark Koch, eMagin's CFO. Please go ahead.
+
+Thank you and good morning, everyone. Welcome to eMagin's Second Quarter 2021 earnings conference call. Before we begin, I would like to remind you that in the following prepared remarks and in our Q&A session, we will make statements about expected future results that maybe forward-looking statements for the purposes of federal securities laws. These statements relate to our current expectations, estimates and projections and are not guarantees of future performance. They involve risks, uncertainties and assumptions that are difficult to predict and may not prove to be accurate especially in light of the effects of the current pandemic.
+
+Actual results may vary materially from those expressed or implied by these forward-looking statements and we undertake no obligation to update these disclosures. These forward-looking statements should be considered only in conjunction with the detailed information contained in our SEC filings including the risk factors described in our 2020 Annual Report on Form 10-K.
+
+During this call, we also refer to adjusted EBITDA and non-GAAP financial measure to provide additional information to investors. A reconciliation of adjusted EBITDA to net income which is the most directly comparable GAAP financial measure is provided in the press release that we issued this morning. Non-GAAP financial measures such as adjusted EBITDA are not meant to be considered in isolation or as a substitute for our GAAP financial measures and financial statements.
+
+With that, I will turn the call over to our CEO, Andrew Sculley.
+
+Thank you Mark, and hello everyone. Thank you for joining us today. We hope that you, your loved ones and work colleagues are continuing to stay safe. On today's call, I'll provide some key takeaways from our quarterly results and provide color regarding our end markets, technological advances, and equipment schedule. Mark will then discuss our consolidated results in greater detail.
+
+In the second quarter, we continued to make steady progress on developing our Direct Patterning Display or dPd technology and remain on schedule to produce disruptive and the industry-leading high brightness, high resolution and full color prototypes this year. We believe our improvements in the OLED architecture and dPd processes will meet the performance goals of our Tier 1 OEM customers using the high resolution backplanes we have developed for them.
+
+As we have said in earlier calls, we are on track this year to produce full color displays with peak luminance over 10,000 candela per meter squared or nits with great color. This is needed to eliminate motion artifacts and nausea. Our new backplane designs have many unique capabilities for AR/VR applications, including lower power consumption and lower cost. As a further testament to our technological leadership, a number of new patents for our dPd technology were issued and allowed in Q2, centering on improvements to the dPd process for improved yield and device performance.
+
+In addition to our improvements in dPd OLED architectures and processes, we have advanced the state-of-the-art with our XLE technology which utilizes a white OLED emitter with color filters. This technology provides customers with a substantial gain in luminance and/or power savings for their applications.
+
+We have already closed a major design win with a military customer to use these displays and are currently ramping production. We will enhance the technology over the next year to provide customers with even greater luminance improvement which is a critical need for the military, medical and commercial AR/VR solutions. Our strategy of disrupting the industry with direct patterning combined with improvements in the color filter roadmap will enable us to continue to lead the brightness roadmap with XLE manufacturer that needed volumes today and dPd with the capability to drive the AR/VR applications in the future.
+
+In the second quarter, we continued to see uptake of our technology into new applications including new head-mounted display programs, undersea connected diver products and new thermal weapons scopes. The thermal scope business overall continued to show a strong recovery in post-pandemic quarter growth.
+
+We believe that as XLE and dPd continued to mature, we will accelerate our growth of new technology insertions. In terms of revenue, our second quarter results were mixed. We continued display revenue growth in our ENVG-B program and increased shipments to medical, veterinary and hunting scope customers. However, our year-over-year decrease in total revenue was impacted by production issues and unexpected manufacturing tool downtime. As we continue to bring on new tooling as part of our $39.1 million IBAS and Title III program, we expect that these issues will be resolved.
+
+With that, I'll turn the call over to Mark, who will discuss our financials. As we announced in today's earnings release, our board of directors has formally appointed Mark as our CFO. I know I speak for the board when I say congratulations, Mark, and thank you for all your hard work.
+
+Thanks very much, Andrew, and hello, everyone. At the outset, I'd like to remind you about an accounting change in allocating overhead that we made in Q1 and which you can read about in our earnings release and 10-Q. With this change, overhead is now fully allocated to products resulting in an increase in standard costs and inventory values. In Q2, the impact of this change was a decrease of approximately $0.2 million in the carrying value of our work-in-process and finished goods inventory, with a corresponding decrease in product cost of goods sold.
+
+Turning to our Q2 numbers. Total revenue for the second quarter of 2021 were $6.3 million compared with $7.7 million reported in the prior year period. Total revenue consists of both product revenue and contract revenue. Product revenues for Q2 of 2021 were $5.7 million, a decrease of $0.5 million from product revenues of $6.3 million reported in the prior period. A year-over-year decrease in display revenue resulted mainly from downtime experience with manufacturing equipment, which delayed certain display shipments into the third quarter. The decline was partially offset by higher sales to medical and veterinary customers. Contract revenues were $0.5 million compared with $1.4 million reported in the prior year, primarily reflecting the timing of phases and milestones associated with the contract for a Tier I consumer company. We are continuing to work on a proof of concept for this customer and anticipate ongoing contract revenue under this program.
+
+Total gross margin for Q2 was 9% on gross profit of $0.6 million compared with a gross margin of 26% on gross profit of $2.0 million in the prior year period. The decrease in gross margin reflects decreased shipments of displays in the three months ended June 30, 2021 combined with the impact of lower manufacturing volumes and decreases in period costs capitalized into inventory due to equipment issues that occurred during the second quarter of 2021.
+
+Operating expenses for Q2 of 2021 including R&D expenses were $3.5 million compared with $3.3 million in the prior year period. Operating expenses as a percentage of sales were 55% in Q2 of 2021 compared with 43% in the prior year period. The year-over-year increase in R&D reflects materials and other overhead costs related to the development and qualification of the company's higher brightness XLE and dPd displays and a decrease in costs allocated to contracts reflecting lower contract revenues in the 2021 period.
+
+Operating loss for Q2 of 2021 was $2.9 million compared with an operating loss of $1.3 million in the prior year period, reflecting the decreased gross margin and increased investments in R&D in the current year. Net loss for Q2 of 2021 was $0.3 million or zero per share compared with a loss of $2.8 million or $0.05 per share in the prior year period. Net loss for the current period includes a $2.6 million non-cash profit related to the change in the fair value of warrant liability. Excluding the impact of the change in the fair value of the warrant liability in both periods, net loss for Q2 of 2021 was $2.9 million or $0.04 per share versus a net loss of $1.3 million or $0.02 per share in the prior year period. Adjusted EBITDA for Q2 was a negative $2.0 million compared with negative $0.8 million in the prior year period.
+
+Turning to the balance sheet. As of June 30, 2021, the company had cash and cash equivalents of $10.6 million and working capital of $9.0 million. During the second quarter, the company borrowed a net $0.2 million under its asset-based lending facility and realized proceeds from the exercise of stock options and warrants of $1 million. Borrowings and availability under the ADL facility was $0.4 million and $1.9 million respectively as of June 30 2021. During Q2, we took delivery on two additional production tools and continue to make down payments with vendors that are building equipment requested under our government funding awards.
+
+With that, we will open the call for questions. Operator, please go ahead.
+
+Thank you. [Operator Instructions] And our first question coming from the line of Kevin Dede with HCW. Your line is open.
+
+Good morning, gentlemen.
+
+Good morning.
+
+Congratulations, Mark. Great news.
+
+Thank you, Kevin. Good morning.
+
+Happy to hear it.
+
+Thank you.
+
+I guess, the first one is just, I apologize maybe too much wax in my ears this morning, but maybe you could go through the delay in product. I guess, it appears that – and I lost you on this that one particular program was pushed to the September quarter. I didn't quite hear you well enough there. Apologies.
+
+No, actually we said that there was a tool down that actually pushed things out to the right.
+
+Okay.
+
+And that was partially offset by the increase in the hunting scope and medical market.
+
+And I think we mentioned on the contract revenue, Kevin that that just varies compared to a year ago due to basically the timing, the phases of our work under that program.
+
+Yeah. That's right. And you will recall, Kevin that last year we were developing designing the wafer and that took a lot of time last year. We did a lot of work in the second quarter of this year. We are taking the wafers and putting the direct patterning on and that's going to happen for the rest of the year.
+
+Okay. All right. So, [indiscernible] (14:00) press release backlog looked like it went up $6 million in the July quarter, can we speak to that? Did I misunderstand that or misread it?
+
+No. We just got some large military orders in July which I think as we said before the orders tend to come in, in periodic fashion. So, I think within the range of normal lumpiness if you will in our order pattern.
+
+But it is clearly a statement that the military is wedded to our displays.
+
+Okay. That begs the question on the XLE. You mentioned, Andrew that you had some interesting second quarter sales on a product and I'm wondering if that's XLE that's shipping off the shelf or its initial low rate production. Can you give us a little more color on the deal that you spoke to and is that outside of the ENVG-B?
+
+Well, I can't mention anything specific about ENVG-B, [ph] because then (15:23) we're talking about one of the two primes and that's a little too close for them. We'd be happy to, but what we face there. So the XLE one, there is a program that actually picked that one as the product to use. And that's very good for us, because it confirms that that product is ready to go. And we are – we have been and are shipping it for that program.
+
+Okay. I guess, I'm just kind of wondering if you can offer a little more color on where you are in that product development? Is it just going right off the shelf to end use and is that product at full steam production?
+
+Well, the product is at – in production and going off the shelf. Yes, we're making it and selling it. The statement that we made is that we are continuing to bring it to full production. As you know, we have two OLED machines and we do the work for the products on a smaller machine before putting it on the big machine, so that's the next step.
+
+Okay. Can you give us some insight on where the F-35 helmet stands? I know you can't speak too much about what your customers' decision is going to be. But maybe you can just give us – I mean, we have thought that at this point, we hear a little bit more about that moving to LRIP and I'm just kind of curious where that stands?
+
+We can't talk very much about it, I apologize. But we are still supporting the customer for that. And we believe that OLED is a good way to go for aviation in general.
+
+Okay. The $5.7 million in product revenue. Can you talk about the mix between commercial, specifically this quarter specific of military? Did it swing very heavy to the commercial side just on account of, I don't know, order flow?
+
+Yeah. It's reasonably similar, but as we did say that some of the delay was due to a machine down. We did get additional volume from the medical, industrial and hunting scope...
+
+Hunting scope, yeah – which you know have been – which had been a post-pandemic recovery for us, Kevin, with some of those you know as we mentioned before with the – no discretionary surgery picking up and the hunting market picking up as well.
+
+And we are looking at new opportunities there and working with customers for that. So we're very happy with the way that's going.
+
+Okay. On the machine issues, Andrew, can you talk to the timeline you think they're resolved and where you are with the $39 million equipment subsidies that you received and where those machines are?
+
+Okay. The machine issue that we had, the one that caused our problem, that's fixed. No problem now. And it's fixed in the future too. So, IBAS and Title III, we have two pieces of equipment in and the third one is – as we speak soon, we have the schedule for the entire program, obviously, laid out a long time ago and that is going very well in terms of timing and design of the equipment, et cetera, a very, very good support by the US government.
+
+Okay. Last question for me – can you just give us a quick overview...
+
+I'm sorry, one other thing. Just to remind everyone that the one of the things – a big piece of that over half of the $39 million is for an OLED deposition tool that will be able to do production of direct patterning. You all remember now, it's an R&D effort for us, but this will do real production for direct patterning. And obviously, it'll make any other display that we want, but the good news for us as well as direct patterning. So, we're very happy with the government's support of this technology.
+
+Right. So – and that's a third machine that's en route, if I understand correctly?
+
+Yes. Yeah. It's designed. And we're proceeding with it.
+
+Can you give us insight on – I know you said, it's moving according to schedule, but if I understand correctly, that's mid-year 2022.
+
+We're looking at later in 2022. Yes.
+
+Okay.
+
+And because it's a big tool, so it takes a while and the design is unique to us, because of direct patterning and we're very happy with the vendor who is supporting this and again very happy with the US government who said, yes, we need this high brightness color.
+
+Okay.
+
+There's one other thing, I apologize, it's also when you talk to the AR/VR customers, when you talk to them, they say you need high brightness. And the way to get this is to remove the color filters and instead of white with color filters to put down a red, a green and a blue separate layer and there's nobody who can do that with a space between the sub pixels which is about one micron, this is the – we're the only ones who can direct pattern at that pixel pitch and that space between the pixels and that's very important to eliminate the screen door at the same time get the brightness that you need. And as you know, we've already talked that we can go well beyond the 10,000 that goal we have this year and we have a path to do that as well. But right now for the AR/VR, we're in the place that they need to go.
+
+And just to paraphrase your prepared remarks, you said you are on track to deliver that device this year?
+
+Yes. And here the key is that we're on the back planes that we have developed. That's important.
+
+Okay. Last question for me, Andrew. Thank you. I'm curious if you could just give us a quick overview of all the commercial projects that you have on AR/VR. I know that number goes up and down depending on where your partner customers are and I always ask, because I do know it's dynamic. So, can you fill us in on where we stand at this point?
+
+Well on the AR/VR side we have one customer that we're working on that we designed the new wafer for. That's a significant revenue. But we have still the other customer that we're going to do direct patterning on the other display as well. It's very important to satisfy both. And we're working on a number of other potentials.
+
+Thank you very much.
+
+Thank you, Kevin.
+
+Thank you, Kevin.
+
+And I'm showing no further questions at this time. Ladies and gentlemen, that does conclude our conference for today. Thank you for your participation. You may now disconnect. Everyone, have a great day.

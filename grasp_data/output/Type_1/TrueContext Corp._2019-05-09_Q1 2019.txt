@@ -1,0 +1,164 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+Babak Pedram — Investor Relations, Virtus Advisory Group, Inc.
+Alvaro Pombo — Founder, Chief Executive Officer & Director, ProntoForms Corp.
+David Croucher — Chief Financial Officer, ProntoForms Corp.
+David Kwan — Analyst, PI Financial Corp.
+Gabriel Leung — Analyst, Beacon Securities Ltd.
+
+Management Discussion Section
+
+Question And Answer Section
+
+Good morning. My name is Jessica and I will be your conference operator today. At this time, I would like to welcome everyone to the ProntoForms First Quarter 2019 Conference Call. All lines have been placed on mute to prevent any background noise. After the speakers' remarks, there will be a question-and-answer session. [Operator Instructions] Thank you.
+
+I would now like to turn the conference over to Babak Pedram, Director of Investor Relations. Please go ahead.
+
+Thanks, Jessica. Good morning, everyone. Before we begin, I will read our cautionary note regarding forward-looking information. Certain information to be discussed during this call contains forward-looking statements within the meaning of applicable securities laws, including, among others, statements concerning the company's 2019 objectives, the company's strategies to achieve those objectives, as well as statements with respect to management's beliefs, plans, estimates and intentions, and similar statements concerning anticipated future events, results, circumstances, performance or expectations that are not historical facts.
+
+Such forward-looking statements reflects management's current beliefs and are based on information currently available to management, and is subject to a number of significant risks and uncertainties that could cause the actual results to differ materially from those anticipated. Also, our commentary today will include adjusted financial measures, which are non-GAAP measures. These should be considered as a supplement to and not as a substitute for GAAP financial measures.
+
+Reconciliations between the two can be found in our Management Discussion and Analysis, which is available on sedar.com and our website. And finally, note that because we now report on U.S. dollars, all amounts discussed today are in U.S. dollars otherwise indicated.
+
+With that, I will hand over the call to our CEO, Mr. Alvaro Pombo. Please go ahead.
+
+Thank you, Babak, and thank you, Jessica. Good morning, everybody, and welcome to our company's conference call. Before I hand the call over to our CFO, Dave Croucher, to discuss this quarter's financials, I'd like to take some time to discuss the ProntoForms' business in terms of strategy, our 2019 execution, and what we see the business heading over the next 24 months.
+
+The engine of this company continues to be recurring revenue, and our main focus is to keep refining our business model to create more of it. Q1 was another good quarter for us as growth in recurring revenue increased by 7% over Q4 2018 to $3.16 million, and our ARR base continue at a 27% growth. That is now six consecutive quarters of over 5% growth.
+
+Adding to our growth story, we saw higher financial services revenue and margins from enterprise deployment and a steady progress in reducing our operating loss. Tax revenue growth, and particularly enterprise growth, is made of layers. And we're executing much better on many of them. An evidence of it is that customers with more than $100,000 of ARR each represents 28% of that base, up from 20% a year ago.
+
+Now that we have reached a good level of EBITDA, our objective is to continue growing our investment in sales and product. From a market perspective, two weeks ago, we were present at the Field Service USA in Palm Springs, the largest show for field service automation in the U.S., where I participated in a panel on data collection right after the plenary session on day two. The significance of this is that the industry now has awareness of the pain points we solve, and we're getting to be recognized as the top leaders in the space. I also chair a panel with two of our largest customers and the [ph] BPO (00:04:09) product from ServiceMax, where people got a sense of the simplicity of our platform and testimonials of the scale of deployments that it reached. All these from real customers sitting next to me.
+
+Another important element of our equation for getting closer to large customers is our product. Good progress has been made on the cadence of features. Amongst them were introducing an advanced control that enable our users to capture text from pictures, facilitating data ingestion of serial numbers, codes and any optional characters that could be recognized, making their ingestion a single click from the photograph.
+
+Also, we will be hosting our first customer conference called Empower 2019, where we're going to be having 15 important customers sharing experiences, learning more about our product, and developing a better community of users.
+
+To wrap up, the complexity of field workflows is growing every day; more sensors, more digital twinning, more machine learning, more data ingestion requirements. Some analysts forecast that by 2022, more than 50% of the enterprise-generated data will be created and processed outside the data center or cloud. This is all increasing the need to be more prescriptive and efficient on what people do in the field with their workers and how they optimize their work.
+
+Our field-centric local platform deals with complexities in a very elegant way. We see no end in sight to the problems we solve. More intelligent workflows are needed in the field, and the old way to dealing with them through building custom apps is not sustainable, particularly for enterprise operations.
+
+With that, I will hand over the call to Dave to discuss our financial performance for the quarter. Dave?
+
+Thank you, Alvaro. I'll go through the financial highlights, but I won't repeat all the detail included in our MD&A. Total revenue in the first quarter of 2019 was $3.52 million, representing a 7% increase over Q4 2018 and a 28% increase over the comparative Q1 2018. Of this total revenue, 90% was recurring. Recurring revenue in the first quarter was $3.16 million, representing a 7% increase over Q4 and a 27% increase over the comparative Q1 2018.
+
+In terms of revenue bookings, our ARR base as at March 31, 2019 was $13.1 million, representing a total increase of 26% year-over-year and a 5.1% increase over Q4 2018. We have now seen sequential ARR growth north of 5% for five consecutive quarters. As Alvaro mentioned, our ARR base is shifting to a higher proportion of larger customers. Customers with greater than $100,000 annual equivalent of recurring revenue has grown to 28% of revenue versus 20% in March 2018. Revenue from professional services was $358,000 for Q1 2019 compared to $350,000 in Q4 and $253,000 in Q1 2018.
+
+Gross margin on total revenue for the first quarter was 81%, down from 83%, Q4, and 82%, Q1 2018. This is a blended rate from both our professional services and recurring revenue components. Gross margin on recurring revenue isolated in Q1 was 89%, consistent with the 89% gross margins in Q4 and Q1 2018. Operating expenses for the first quarter were $3.3 million, up 1.7% over Q4. We are continuing investment in both product and sales, but the growth in expense was smaller than expected due to some delays in hiring and a little bit due to the relative strengthening of the U.S. dollar to Canadian dollar.
+
+Loss from operations for Q1 2019 was $398,000, down from $467,000 for the fourth quarter of 2018. Net loss for Q1 was $532,000, up from $409,000 in the fourth quarter of 2018, due mainly to foreign exchange. I should note that our functional currency changed from Canadian dollar to U.S. dollar in Q1. So, FX gains in Q4 were attributable to the net U.S. dollar assets converted to Canadian, while FX losses in Q1 were attributable to net Canadian liabilities converted to U.S. dollars. Non-GAAP op loss for Q1 was $286,000, down approximately $44,000 from the fourth quarter of 2018.
+
+Our cash balance at the end of March was $4.1 million compared to $3.3 million at December 31, 2018. The cash increased due to several factors. Number one, we saw increased billing and collection on prepaid enterprise contracts. That's roughly about $500,000 impact to cash in Q1. We also received about $65,000 from options and warrants exercised. We also received the customer overpayment that caused an increase of $250,000 to cash and accounts payable.
+
+Also of note, our working capital, being current assets minus current liabilities from our balance sheet, was negatively affected by the new accounting for leases. We're now required to show a lease liability including a current portion that reduced net working capital by $245,000 in Q1.
+
+In summary, we are pleased with the trends that we continue to [indiscernible] (00:10:03) 2018. We added a 7% sequential growth quarter and now have a string of six quarters with greater than 5% growth in recurring revenue. While growing recurring revenue, we have steadily reduced our losses for the last five quarters. Our enterprise base grew in proportion to our total base mostly through expansion of existing customers. Prepaid contracts from these customers contributed to our cash flow to mitigate our already reducing operating losses.
+
+In terms of go forward, we've been through a phase where we managed the business to steadily reduce our losses as revenues grew faster than our operating expenses. Now that the losses have reduced to a manageable size and are mitigated by cash inflow from prepaid contracts, we are changing our attack. We now plan to focus on investing in growing revenue while holding the non-GAAP op loss roughly constant going forward. This is subject to the usual caution that we may see quarterly fluctuations on our operating results as we grow our business.
+
+That concludes the financial highlights. With that, I will ask Jessica to open the line up for questions. [Operator Instructions]
+
+Your first question comes from David Kwan of PI Financial. Please go ahead.
+
+Hey, guys.
+
+Hi, David.
+
+Hey. Can you guys talk about some of the changes that you've seen, I guess, in the sales organization, and the kind of go-to-market strategy in the last, call it, six to eight months since Michael has joined?
+
+We can both comment on that. Thanks for the question, Dave. So, the evolution has been quite interesting. The evolution has been primarily around creating three sales motions that we have with our customers. I mean, we get leads that we sell. We also expand to customers that we have in our base, plus we always wanted to be more aggressive about outbounding and going to similar customers that the ones we hold.
+
+So, the change was primarily realigning the sales organization to do all those three motions not in separate groups, but empowering each of the individuals to be able to do that in a segmented way by customer size. It has been a transformation, no question about it. And it's a transformation that is coming along quite well. It creates a lot more accountability on the sales guys. It provides them with a little bit more of a territory-based approach where they're responsible for a patch, as everybody says, and they ultimately own the result on that. So, still going through a transformation, very positive signs of it, and continue to hire two more people that can handle that large base that we have.
+
+Can you maybe talk about, overall, the plans going forward as it relates to hiring on the sales side? And related to Dave's commentary about – looking you guys hold the losses at where you are right now, where do you see that incremental spend as it relates to the incremental growth that you guys will likely be generating here? Where you see that being spent more on the sales side or also maybe a bit on the R&D side?
+
+Primarily on the sales side. We're definitely building more product, and product, as you well know, I mean, it comes – there is a flow, there is a cadence to it. But there are times, like last year, I mean we had to put a lot of money into getting to that safety compliance that we achieve. So, it's a little bit – it has some bursts. So, it's very hard to sort of like have full linearity in the investment in the product.
+
+The good news is we're not behind the eight ball on anything on the product, we just want to fulfill more customer needs. So, we have a good influx of product features and we changed on the product side as well, some alignment there. So, that's a more steady growth. Right now, we want to push very hard on the enterprise sales side, increasing the sales force that handles those large accounts. We have plenty of room there.
+
+And, Dave, just to add to that, probably not a big change from what we were doing, but adding more depth, more bench strength, for sure. And probably a little more in terms of enterprise capabilities, maybe more U.S. guys, people closer to patches of business.
+
+Thanks, guys. Maybe on – as a related question there, like how are you guys seeing the market in terms of trying to attract some higher-quality sales reps?
+
+Yeah, that's a good question. I mean there are two different, call it, sales reps that you need. I mean there is an inside sales organization here in Ottawa, and that market comes with a lot of young guys that come from school and with a little bit of experience, that has a sourcing set of dynamics, okay. And the other one, I mean we're seeing some challenges, like everybody has, in finding good sales guys in Ottawa.
+
+However, as we started going into the enterprise side of things, the good news is that what we're doing is attractive to many people. The organization has, I mean, a good reputation and has a good leadership in sales, and we've been able to attract some good people. Now, it cost a little bit more, of course, and as we're trying to get into more, call it, field-based people, I mean, you pay more for those. But you also get some people that really hit the ground running a lot faster.
+
+So, resource constraints and finding right people everywhere, I think every company around the world or North America is experiencing that. But we haven't reached any peak or any major worrisome signs yet anyway.
+
+We just added two in the U.S., so that's a good start, more from contacts that we had and a Salesforce.com person and one from AT&T. And I think, David, we're just going to be more steadily at it, always have our lures in the water in that respect, so that we're – if a really good person comes available, we're there, we're ready, so...
+
+Yeah. But it's – I mean, it's always hard. I mean, I don't want to underestimate the size of the challenge of growing a sales organization. It is not a small task.
+
+Okay. Perfect. So, I guess, is the right way to look at it in terms of what you guys are looking at spending your sales and marketing dollars on, at least as a percentage of revenue, it looks like over the last few quarters here, it's kind of been in that low to closer to mid-40s percent range. Is that how we should look at it going forward here, kind of staying in that range?
+
+Yeah. Historically, we were in the 50% range, right. And you're right, it has come down a little bit. I would say that give or take, from quarter to quarter, because we will be adding in all areas as you need the infrastructure around it, but generally, where we're at now is kind of where we'll go forward. And maybe as we add a few sales people, the costs will go up in that area, but then kind of smooth out over time.
+
+So, for the year maybe, Dave, like in the 45-percentage range of sales?
+
+Yeah. So, where we are now, I think, is probably good.
+
+Yeah.
+
+Okay. Perfect. Just one last question here on the professional services side that had a nice uptick kind of over the last 9 to 12 months here. I know part of that was related to the contract of one of your channel partners. How sustainable, I guess, is the level that we're seeing right now? Obviously, you're getting a lot more business and that's going to drive professional services revenue. But can we expect to see that line in kind of the $30,000 to $400,000 a quarter range?
+
+Yeah. Great question. I think where it is now is sustainable. I think there is – as I always say, there's going to be a bit of fluctuation. But there really wasn't a lot of big SOW contract in there. That one that we had that affected last year very positively has run its course. It didn't affect Q1. So, most of what you saw in Q1 was really run rate, the normal deployment type activity.
+
+But what we're seeing is there's more deployments for enterprise customers, which is easier for us to make margins on because they're bigger projects, bigger contracts, where we can immerse ourselves and deliver efficiently on it. It's much harder to deliver on a whole bunch of smaller contracts with SMB because half the battle is just getting them to the table to be able to do the work, right? So, I think that is a good spot, where we were in Q1, and I think it's something – I won't guarantee it, but it's something that we can continue, I think, in that range.
+
+Great. Thanks, guys. Keep up the good work.
+
+Thank you, Dave.
+
+Thanks, David.
+
+Your next question comes from Gabriel Leung of Beacon. Please go ahead.
+
+Hey, good morning. Thanks for taking my questions.
+
+Good morning.
+
+Good morning. A couple things, first, just as it relates to, I guess, the continued crashing you're getting on the enterprise side. Can you talk a little bit about where is that crashing coming from? Is it from just getting deeper into existing departments that you're already in? Is it across department sales? Is it across geographies? Where are you getting the most crashing right now?
+
+Yeah. So I'll take a crack on – hey, Gabriel, how are you? So, – and then Dave. So the pattern that we're seeing, okay, it starts by, first of all, being an existing customer. Number two is they take it in the traditional way. There is a group that deploys it, and usually, IT gets behind in that region, whether primarily North America, but it has happened in other geographies. And then you start seeing that it starts growing globally through IT and parallel to that through some of the operations departments that want to use the product in a similar way. It's been positively surprising. The speed that it goes, I thought it was going to be – in some cases, it takes a long time to trigger it. But once it triggers, it goes quite well, which I think is the product has a level of simplicity and ease of adoption that is definitely playing on our favor.
+
+The next part of the question is how do you do that across multiple of the existing enterprises. And that's where we're focusing our efforts to try to replicate that faster, and that's where the resourcing is going into because that's not an automatic thing. I mean, you have to put some effort to get those customers to kind of go through that tipping point. So, that's the task. I mean, that's really where the numbers will come in the future, is in our ability to trigger the same behavior across multiple. But we've seen it in 10 of them. Okay. So, it's not a behavior that we do not know, but how can we cause that behavior on the next 20.
+
+Got you. Okay. [indiscernible]
+
+(00:22:53) When we talk about the 28%, those are customers with greater than $100,000 of ARR. That's under 20 customers that are contributing that. So, there is, as we add strength to the sales, there's a whole next set of customers that are good customers. But I think if we pay more attention to them, then we can build that next phase that can add to that enterprise group. So, that's the near-term target. And then beyond that, I think if you get a good patch where you have some good lighthouse, some representative clients, and then go find similar ones that – what Michael has in store for the follow-on in terms of the next phase of growth, so.
+
+Got you. [indiscernible] (00:23:37) within your existing customer portfolio, you mentioned you got 20 of that over $100,000 ARR per annum. Within the existing base, how many more do you have that could get to that sort of plateau as well?
+
+So, we have – I mean, the segmentation that we're doing is based on number of employees. So, we called number of employees, 2,500 is the target for us to call it an enterprise. And in that category, there is about 140 customers that current using ProntoForms that could be target to that motion. And again, I mean, that goes back to the challenge. We've done it with 10 or 20 of them. I mean, how can we do it for the next 40? And we're not stopping any of the other sales motions, okay? So, outbounding and inbound, keep on evolving and bringing customers in the same sweet spot. But the challenge of scaling right now is replicating what I described.
+
+Got you.
+
+There is enough to go at, plenty.
+
+Right. Okay. That's great update on what's happening, so, I guess, on the direct side. How about your indirect channels? What's the game plan there? I know historically, it's been trying to get [indiscernible] (00:24:59) with the operators and whatnot. But what – is there any change in terms of how you want to address the indirect sales channel?
+
+Yeah. So, I think the change is that we went through a phase where we look at everything and we explore many things. We're now going through a phase of now we know that many of those, they have different cycles of adoption. So we've been focusing on a few of them, okay, and gating more activity on a few. So, focus being ServiceMax. That's working and it keeps on working. Service – Salesforce, it is working and it's starting to actually gain more velocity, which is great. And then, there is couple of other partners in that category, which is in the same FSM space, where things are evolving quite well. So, then, the other ones we keep on doing, if you call it OEM-like deals, primarily on the fleet management side, and those are starting to yield some results. However, the focus being on the other four that I mentioned on the FSM side, field service management, are the ones that are yielding better results right now.
+
+Got you. And maybe one last question for me, and this probably will talk a bit more in terms of sort of R&D going forward. But if you look at the platform today in terms of what you guys [indiscernible] (00:26:39) obviously, mobile forms. But it sounds like – is there an opportunity to sort of increase the addressable market for the product via expansion of the platform, and I'll use the analogy of let's to go back to enterprise content management like 20, 25 years ago, it was all about document management and evolved to web content management, and now to AI and all that kind of stuff. I'm just wondering if you've thought about how you want to expand your current – if there is a way to increase that addressable market that you can go after.
+
+Yeah. Very good question. So, we have spent a little bit of money at the beginning of the year working with [ph] Gartner (00:27:21), and at the end of last year, trying to understand exactly what addressable market is that we have with the current features and the current capabilities. So, we land in this area that [ph] Gartner (00:27:34) called [ph] slow quote, no code. (00:27:35) That's the – call it the place of the universe where we belong. Within there, we have a very clear differentiation around field-centric, frontline worker-centric processes. Within that, the addressable market is very big. I mean, there are big numbers. We can take it offline. I'll – happy to share with you some of what the findings were. So now, within that, the issue is, okay, how can you get, I mean, more of it?
+
+We continue to work with [ph] Gartner (00:28:12) in four verticals, and we are coming out with more clear value propositions for those verticals, keeping the horizontal aspect of the platform because the reality is that it's quite wide and it's quite broad. But we're trying to gain traction, I mean replicating what we've done well.
+
+So, in terms of the platform, I would call it is more of a go-to market focus, will give us a broader – as contradicting as that might sound – will give us a broader numbers, okay, and better reach within that. From a platform perspective, the product perspective, it's definitely no – this is not forms anymore. We keep on calling it forms for the time being, but it's not forms. I mean, these are little apps. And these are little apps that all of it are not little. I mean, they're apps. And these apps are doing primarily data ingestion in a very sophisticated way.
+
+So, most likely in the second half of the year, I guess the positioning and the language will reflect that broader and more specific, at the same time, learnings that we've been – that have been incorporated already in the go-to market and product. So, I don't if that answers it, Gabriel.
+
+No, that's great feedback. I appreciate that. Well, that's it for me. Thanks a lot, guys.
+
+Thank you.
+
+Thanks, Gabriel. [Operator Instructions]
+
+We have no further questions at this time. Please proceed.
+
+Thank you, Jessica. So, thanks – thank you very much, everyone, for spending your time with us this morning. As always, I would like to thank you for your continued support. We've been working very hard to build momentum in this business and we're pleased with the progress that we have made so far, and we're very excited about what's ahead for our business. So any questions, anything else, feel free to contact us directly. And once again, thanks, everybody, for joining.
+
+Ladies and gentlemen, this concludes your conference call for today. We thank you for participating and I ask that you please disconnect your lines.

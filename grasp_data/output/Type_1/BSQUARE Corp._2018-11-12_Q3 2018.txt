@@ -1,0 +1,78 @@
+Participants
+CORPORATE PARTICIPANTS
+Leslie Phillips — Investor Relations Director, The Blueshirt Group
+Andrew Stanley Guy Harries — Executive Chairman, BSQUARE Corp.
+Kevin T. Walsh — Acting Chief Executive Officer, BSQUARE Corp.
+Peter J. Biere — Chief Financial Oficer, BSQUARE Corp.
+
+Management Discussion Section
+
+Question And Answer Section
+
+Good day, everyone, and welcome to the Bsquare Corporation Third Quarter 2018 Financial Results Call. Today's call is being recorded.
+
+At this time, I would like to turn the conference over to Leslie Phillips, Investor Relations. Please go ahead.
+
+Thank you, and good afternoon, everyone. Before we begin, we'd like to remind you that this call is being webcast, and that recording of the call and the text of our prepared remarks will also be available on Bsquare's website. During this call, we will be making forward-looking statements. These statements are based on current expectations and assumptions that are subject to risks and uncertainties that could cause our actual results to differ materially. Please refer to the cautionary text regarding forward-looking statements contained in Bsquare's earnings release issued today and in the posted version of these prepared remarks on our website at www.bsquare.com under Investors, both of which apply to the content of this call. All per-share amounts discussed today are fully diluted numbers where applicable.
+
+Now, I'd like to turn the call over to Andrew Harries, Bsquare Executive Chairman.
+
+Thank you, Leslie. Before Kevin reviews our strategy and results, I'd like to announce several actions the board is undertaking in order to help Bsquare deliver improved results as quickly as possible. First, as announced last week, we continue to renew our board of directors with the retirement of Kendra VanderMeulen and the appointment of Davin Cushman. We're grateful to Kendra for her many years of service and wish her the best in her future endeavors. We look forward to the addition of Davin who was engaged in a consulting capacity by the Strategic Review Committee this summer and has already made an impact on our overall strategy. Since the May earnings release, we have now replaced three of our seven board members.
+
+Next, I'd like to announce the disbandment of the Strategic Review Committee, which was formed by the board at the August board meeting. The Strategic Review Committee helped management develop a revised overall strategy for the company, which Kevin will discuss shortly and has fulfilled its objectives.
+
+Finally, in light of the fact that we now feel we have a viable go-forward strategy for the company, the board has commenced the search for a permanent CEO. I'd like to personally thank Kevin for his ongoing help in guiding the company through this challenging period.
+
+And with that, I'll turn the call over to Kevin.
+
+Thank you, Andrew, and good afternoon, everyone. Over the past six months, we have been conducting a strategic review of our business and believe that we have now identified a path forward that we renewed growth and help us return to profitability. One aspect of that path forward, which we have already undertaken, is to adjust our operating expense levels in order to drive efficiencies throughout the organization.
+
+Toward that end, over the past few quarters, we have moved approximately $6 million in annualized operating expenses from the business, which has contributed to significantly improved cash flow for the third quarter.
+
+A second and more important aspect is a reassessment of our overall product and services strategy. For roughly the past four years, Bsquare has been pursuing a strategic pivot toward a proprietary software offering for the industrial IoT market. While we were able to secure a number of large wins with DataV, the product line has not met its growth objectives. Part of the reason for this applies to the market in general. Large-scale digital transformation initiatives in the industrial sector are complex and adoption has been slow. A direct consequence of this complexity is that services play a crucial role in all large IoT implementations.
+
+Indeed, we have seen this with DataV. While market traction for DataV software has been slower than anticipated, professional services associated with DataV and IoT initiatives has been and continues to be a strong component of our business. These services include data science consulting, IoT cloud integration, systems integration and custom application development. The importance of professional services as well as what we see as a general industry shift toward cloud-anchored IoT infrastructure are key elements of our go-forward strategy.
+
+As we approach 2019, we see the following changes in our business. We are ramping up our catalog of professional service offerings in response to demand from our customers. Importantly, these services are different than our traditional engineering services business. They are focused entirely on more advanced practice areas relevant to industrial IoT and artificial intelligence. We have a skilled professional services team and an established delivery process that can be leveraged as we expand this business.
+
+We plan to continue carefully calibrated investments in DataV in order to drive this business to profitability as quickly as possible. These investments will be focused on customer deployments, for which we have clearer line of sight. We are implementing new programs in our third-party software distribution unit that will, we believe, allow us to grow this business while complementing our professional services business. Specifically, this means working closely with Microsoft both in Windows 10 IoT and Azure; and given a cloud-centric nature of virtually all IoT initiatives, we are expanding our collaboration with both AWS and Microsoft.
+
+Taken together, these changes will result in positioning Bsquare as a trusted IoT solutions provider. We believe these changes will yield growth and will help drive profitability in the second half of 2019.
+
+Turning to results for the third quarter, revenue came in slightly lower than our guidance range. The shortfall was attributable to unanticipated variability in our third-party software distribution business. Recall that the second quarter was significantly higher than expected. We do not believe that the third-party software business is weakening. In fact, we are taking steps to maintain and even grow that business.
+
+As mentioned earlier, net cash usage for the quarter was reduced to $590,000 due to a reduction in operating expenses and improved cash collections. We maintain the second half guidance for cash utilizations that we provided during our second quarter earnings call. Specifically, second half net cash usage would fall between $1 million and $2 million.
+
+Now, I would like to turn the call over to our CFO, Peter Biere, to address our financial performance for the third quarter.
+
+Thank you, Kevin. First, we'll review our revenue for the third quarter. Total revenue was $16.7 million, slightly below the lower end of the $17 million to $19 million guidance announced in our Q2 2018 earnings call. Compared to the prior year quarter, total revenue was down 15% from $19.7 million and down 13% sequentially from $19.2 million. Reviewing results by revenue grouping, third-party software revenue was $14.2 million, lower year-over-year and sequentially. The year-over-year decline was largely due to the previously announced loss of Honeywell's EMEA business.
+
+The sequential decline was in large part due to the timing of purchases. Q2 included stronger-than-expected demand for Microsoft Windows embedded products. And in Q3, we saw softer buying across the entire portfolio, which we attribute to the normal quarterly variability we've experienced over the past two years. Proprietary software revenue was $796,000, down $404,000 year-over-year and up $515,000 sequentially. Sales of non-DataV proprietary software tend to be seasonal purchases, which reflects in both comparative periods. Going forward, we expect revenue from both DataV and other proprietary software will continue to fluctuate in both timing and amount.
+
+Professional engineering services revenue which include our DataV and traditional services contracts totaled $1.7 million, down $556,000 year-over-year and $273,000 sequentially. Both year-over-year and sequential declines are explained by a number of traditional services contracts reaching their final delivery point.
+
+Going forward, as Kevin mentioned, we expect to grow our services revenue in 2019 as we seek to deliver more IoT-related services and solutions. Revenues for DataV, which include both proprietary software and professional engineering services, totaled $330,000 for Q3.
+
+Next, I'd like to discuss gross profit and margins in the quarter. Gross profit totaled $3.4 million or 20.1% of revenue, exceeding the upper end of the 16% to 18% guidance announced in our last earnings call. The year-over-year and sequential changes in gross profit are due to mix shifts between our three business units. Going forward, we expect gross margins on the new IoT services, which Kevin mentioned, to fall in line with or slightly exceed our current professional engineering services gross margin.
+
+Turning to operating expense and our bottom line results in the third quarter, total operating expenses for the third quarter were $5.5 million, an improvement of $1.4 million from the prior year quarter and $1.5 million sequentially. The majority of the cost reductions we've made over the past two quarters are reflected in quarter three results, and year-over-year and sequential improvements in operating expenses reflect those efforts.
+
+We recorded a net loss of approximately $2.1 million or $0.16 per share for the third quarter of 2018 compared to a net loss of $2.5 million or $0.20 per share in the year-ago quarter and a net loss of $3.7 million or $0.29 per share in the second quarter of 2018.
+
+Adjusted EBITDAS, a non-GAAP financial measure defined as operating income before depreciation, amortization, and stock-based compensation, was negative $1.7 million in the third quarter of 2018 compared to negative $1.8 million in the year ago quarter, primarily due to lower third-party software and proprietary software revenue and partially offset by lower operating expenses from the cost reductions we took in 2018. Please refer to the reconciliation of comparable GAAP financial measures in our earnings release issued today and posted on our website at bsquare.com under Investors.
+
+Moving to the balance sheet, cash and investments totaled $17.3 million as of September 30, 2018, that's down $590,000 from June 30 of 2018. The net cash change in quarter three included approximately $1.4 million in collections stemming from the loss of Honeywell's EMEA business. We expect cash usage will continue to moderate in Q4 as well as in 2019. We believe we have sufficient cash and profits from legacy businesses to execute our plans.
+
+Our accounts receivable balance totaled approximately $13.1 million as of September 30, 2018, and about $5.1 million of that is due from Honeywell. We extend 270-day terms to Honeywell, and we pay Microsoft for these products in 45 days. So, approximately $4.6 million of this receivable will convert to cash. Related to the loss of Honeywell's EMEA business, we expect approximately $2 million of cash conversion for the remainder of 2018.
+
+I'll now turn the call back to Kevin to provide an outlook for the fourth quarter and his closing remarks.
+
+Thank you, Peter. As noted in today's press release, we currently have the following expectations for Q4 2018. Revenue in the range of $15.8 million to $17.5 million. Blended gross margin will be in the 18% to 22% range. And we expect net cash usage of $500,000 to $1.5 million.
+
+Moderator, please open the call for questions. [Operator Instructions]
+
+We have no questions in the queue. At this time, I'll turn it back to Kevin Walsh for any closing remarks.
+
+Thank you. Before concluding the call, on behalf of the entire Bsquare team, I would like to thank our investors and our customers for your interest and for your business. We look forward to reporting back to you next quarter. Thank you for joining us.
+
+And that concludes our call for today. Thank you for your participation. You may now disconnect.

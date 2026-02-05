@@ -1,0 +1,184 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+David E. Brant — Senior Vice President & Chief Financial Officer, Airspan Networks Holdings, Inc.
+Eric D. Stonestrom — President, Chief Executive Officer & Director, Airspan Networks Holdings, Inc.
+Glenn Laxdal — President & Chief Operating Officer, Airspan Networks Holdings, Inc.
+George C. Notter — Analyst, Jefferies LLC
+Tim Savageaux — Analyst, Northland Capital Markets
+Christopher Huang Howe — Analyst, Barrington Research Associates, Inc.
+Scott W. Searle — Analyst, ROTH Capital Partners LLC
+
+Management Discussion Section
+
+Question And Answer Section
+
+Greetings and welcome to Airspan Networks Holdings, Inc. Second Quarter 2022 Earnings Conference. At this time, all participants are in a listen-only mode. A question-and-answer session will follow the formal presentation. [Operator Instructions] Please be aware that the slides for today's event are available for download through the webcast. As a reminder, this conference is being recorded.
+
+I will now turn the call over to Airspan's CFO, Mr. David Brant. Thank you, sir. Please go ahead.
+
+Thank you very much. The following discussion will include forward-looking statements. Comments that are not statement of fact including projections of future financial results and other items, are considered forward-looking and involve risks and uncertainties. The risks and uncertainties that could cause our actual financial and operating results to differ significantly from our forward-looking statements are detailed in our SEC filings available on our Investor Relations website at ir.airspan.com. We encourage you to review our earnings release and our quarterly reports on Form 10-Q for the quarter period ended June 30, 2022, which are available on our website.
+
+On this call, we will discuss certain non-GAAP financial measures. For the identified – identification of non-GAAP financial measures, the most directly comparable financial measure and the reconciliation between the two, see our earnings release and our quarterly reports on Form 10-Q. The Q2 2022 investor presentation is available for reference on our website and will be referred to at points during this call.
+
+I will now turn the call over to Airspan Chairman and CEO, Eric Stonestrom.
+
+Thank you, David. Good morning and thank you for joining us for Airspan's second quarter earnings call. Before we begin, I'd like to extend a warm welcome to our shareholders joining us today. I would also like to thank the analysts on the call for following the progress in our business. Our plan for today is to update you on the general market trends and explain what makes Airspan so well-positioned to monetize these trends and opportunities. I will start with a review of our progress in the last month and with some general comments on the 5G worldwide rollout cycle. Glenn Laxdal and David Brant will add color on market operations and financials. Then we will take your questions in a Q&A session.
+
+As you can see from our results issued yesterday, Airspan's progress in the second quarter reflected significant top line growth compared to 1Q 2022 and the year-ago second quarter, as well as significant gross margin growth compared with 1Q 2022. Revenue increased 25% versus 1Q and gross margin improved 8 percentage points to 40.2%. Cash usage decreased as the buy chain linearity in the quarter improved from 1Q, with less back-end loading in the quarter, improving the collection cycle and reducing extra charges for expediting. While operating conditions remain challenging, it was heartening to have improved quarterly revenue and smoother functioning on the supply chain.
+
+Customer momentum continued in 2Q with the receipt of additional purchase orders from our four largest customers and signing two substantial hyperscaler deals supporting our growth in private networks. We specialize in building the wireless technology that connects users to the cloud. New use cases like neutral host microcells to be used instead of a distributed antenna system, continue to expand our addressable market. Our largest in-building customer for neutral host microcells ordered a record volume of products in the quarter to more than double the number of buildings covered. Glenn will go into more detail on the progress of some of our other significant project and account.
+
+The RAN infrastructure market has been relatively flat to low growth [Technical Difficulty] (00:04:25-00:04:32) prior to the 5G deployments with MNO operators buying closed systems from a handful of large equipment manufacturers.
+
+The broad-based rollout of 5G is changing this model. Macrocell deployments for coverage are giving way to microcell or lower cost coverage, density, and capacity. Cost-effective coverage and capacity in the new hyperconnected 5G age are two challenges that our products are optimized to solve through innovative harnessing of differentiated product design, leveraging a breakthrough silicon and our substantial software code [ph] base (00:05:09). Our software-defined approach also enables the cost-effective management of millions of network elements and endpoint.
+
+Geopolitical concerns are also increasing the range of potential opportunities. The recently enacted CHIPS Act puts a substantial financial commitment of $1.5 billion into the network equipment industry, furthering the design of Open RAN product. Airspan, as a US-based company with a leading Open RAN track record, is well positioned to assist in this vital mission.
+
+In addition, the UK Government has hastened plans to release £250 million for a large-scale Open RAN deployment. Today our technologies are key components of some of the largest and most innovative Open RAN networks in the world, and our portfolio is recognized for its unique attributes and innovations by friendly government, looking to strengthen the national security aspects of communications infrastructure.
+
+Let me turn the call over to Glenn Laxdal, our President and Chief Operating Officer, to provide additional perspective on our progress.
+
+Thanks, Eric. I will cover some detail regarding our business in Q2 and in the first half. The second quarter results were encouraging in a challenging supply chain environment with revenue meeting guidance and gross margins coming in just above the high end of the range. Global demand across our lead customers remains strong and we're also seeing good progress in the developing private networks market. Airspan operates in three business areas: mobile networks, private networks, and fixed wireless.
+
+In mobile networks, we continue to drive good volume with Rakuten and Reliance Jio with significant new orders from both customers in Q2. We're also seeing good progress in the cable MSO market in both bookings and revenue with a large deployment in a Tier 1 operator in the US. Going forward, we expect to see continued momentum with our large customers, as well as adding new ones. As the market shifts from primarily macrocell to microcell deployment, we will be able to take advantage of our unique microcell and related automation capabilities. In particular, on the microcell front, we see growth in millimeter wave deployments in Asia and CBRS deployments in the US.
+
+The second market we focus on is enterprise private networks. We're seeing growing traction with the multiple 5G private networks trials and deployments going on across North America, Europe, and Asia. While this is a nascent market, we are seeing significant bookings momentum across a range of private networks customers. In the first half of the year, we added more than 120 private networks across 4G and 5G would bring – which brings our total to over 300 private networks deployments. Of those, approximately half are 5G private networks, evidence of the accelerating market uptake of 5G. One private network that we're in deployment on today is the 5G air-to-ground network for GoGo. We're currently deploying the 5G ground stations with GoGo, and we're also developing the related 5G aircards which go in the planes.
+
+In addition, we're shipping 4G aircards to GoGo in volume in 2022, and we will be shipping 5G aircards in 2023. As of the end of June, we've deployed about two-thirds of the 150 ground stations and will complete the deployment in Q3. The third market we focus on is fixed wireless access. We're in 5G or FCC testing for our next generation A6/C6 solution and we expect to be complete by the end of August. We're currently trialing the solution with three Tier 1 customers and we expect deployments toward the end of Q3. The solution is the first-to-market to address both 5 gigahertz and 6 gigahertz bands in a single product.
+
+From a bandwidth perspective, we're achieving 4.5 gigabits per second in the field with multi-user MIMO. This is a step function improvement in performance and the product is market leading. While the demand is strong in each of these three markets, the supply chain remains a challenge. We successfully delivered our Q2 results despite facing significant supply challenges, including continued component shortages, decommit and COVID-related shutdowns in China. Taken together, these factors contribute to higher component and logistics costs and impacted our gross margin. To offset some of this impact, we've been able to secure price increases with key customers. We expect to see continued impacts from the supply chain into the second half of 2022, with long lead times across the board.
+
+Now let me turn it over to David to walk through the financial results.
+
+Thanks, Glenn. Referring to slide 11 in the investor presentation, we saw revenue for the second quarter of $46.9 million, up 25% sequentially from the first quarter and up 12% from the same period last year. Gross profit of $18.8 million was up 56% compared to last quarter and down 2% over last year's second quarter. Second quarter net loss was $21 million compared to a net loss of $29.7 million last quarter and a net loss of $10.4 million in the second quarter of 2021.
+
+Adjusted EBITDA was a loss of $12.3 million compared to a loss of $18 million last quarter and a loss of $5.4 million in the year ago period. Gross margin was 40.1%, up from 32.1% last quarter and down from 45.7% in last year's second quarter. With the majority of the year-over-year variance due to higher costs in the current quarter related to components and freight together with product revenue mix with higher average margin nonrecurring engineering revenues in the year ago quarter.
+
+The sequential quarter gross margin improvement was due primarily to lower quarterly period costs amortized over higher quarterly revenue. Production and shipping during the quarter was more linear than that to the first quarter, which allowed us to improve the distribution cadence and schedule shipments more cost effectively. It is important to note the effect of depreciation of the Japanese yen on this quarter's results. Specifically, the depreciation of the yen from the rate at which related orders were booked and priced resulted in an approximate three percentage point decrease in this quarter's gross margin.
+
+Demand for our products is strong though supply chain challenges continue to be dominated by long lead times and higher transportation costs. We continue to work hard to mitigate these challenges finding alternative components, instituting technological design changes, and working closely with our partners. We anticipate such supply chain challenges to extend through 2022.
+
+In order to address the need to satisfy the company's continuing obligations and realize its long term strategy, we have taken steps to reduce cash operating expenses by approximately 10% by the fourth quarter from the 2Q level of approximately $29 million. We are evaluating additional actions to improve operating and financial results, including focusing the company's efforts to factor receivables and continuing to implement cost reduction initiatives to reduce nonstrategic costs in operations and expand the company's labor force in lower cost geography with head count reductions in higher cost geography.
+
+Given the supply chain environment, we expect Q3 2022 revenue of approximately $42 million to $48 million with a gross margin of between 38% and 40%. Through the combination of supply chain tightness and currency depreciation, for the full year 2022, we now anticipate top line growth of approximately 5%. These views may be impacted by, among other things, component availability, related expenses and challenges from COVID-19 restrictions in Asia. Airspan ended the quarter with $36 million of cash, second quarter cash use was $9.8 million, primarily due to the loss in the quarter.
+
+With that, Eric, Glenn and I will open the call to your questions.
+
+Operator, please prompt the question.
+
+Thank you. The floor is now open for questions. [Operator Instructions] The first question today is coming from George Notter of Jefferies. Please go ahead.
+
+Hi, guys. Thanks very much. I guess I took a look at the 10-Q filing and I noticed there's some language in there about potentially having to renegotiate covenants with Fortress and an increased likelihood of breaking through some of the covenants that were renegotiated I think a quarter or two ago. So can you kind of talk about the balance sheet and where you are relative to covenants and the likelihood of getting those renegotiated with Fortress?
+
+Sure.
+
+Yeah. Let me...
+
+Eric?
+
+Let me put a couple of overview comments and then David can go in more detail. We have a good relationship with Fortress. They're very active. We have obviously been through with a renegotiation and have a focus on this particular set of metrics. As David mentioned, we are focusing, for instance, on receivables factoring, which will take about $20 million forward in our cash flow projection. So there are measures we're taking together with operational cost expense to do the best job we can of not needing to negotiate very much. And clearly, if it does happen they're an active shareholder, an equity holder, as well as a lender in this equation. David?
+
+Yes. Thanks, Eric. Yes, I mean, factoring receivables – so the two that we are focused on is the EBITDA covenant and the cash covenant. We are seeing supplier terms tightened significantly with our major CEMs and that's putting pressure on our DPOs. So measures like factoring receivables and reducing OpEx helps improve our cash position. And we're in discussions with our – with Fortress as an active participant in this.
+
+Okay. Got it. And then there was an article, I think recently about the project with GoGo, talking about some delays in that project. I think I heard you mentioned that the line cards for 5G were going to be delivered in 2023 and it sounds like that's a bit of a delay. Is that indeed correct? And can you talk about what's driving that delay and how does that impact your kind of views of the business this year and cash generation as well?
+
+Yeah. I'll take that on. So you are correct. The four – we are shipping today the base station – the 5G base station. We've completed the base station or the site ground station, site deployment development. We're about two-thirds of the way through the deployment of the ground stations as at the end of Q2 and will complete that total 150 ground station deployment in Q3. In addition, we're shipping 4G aircards that go into the airplanes. And we are in development on the 5G aircards. We were expecting to get the chipset back on the – that populates the 5G aircards right about now. And that chipset has been delayed by about six months. So now we're taking the deployments that were expected on the 5G aircard in the last part of Q4, and those shift into the first half of 2023.
+
+Got it. Okay. Thank you very much. And then the other one I wanted to ask, you guys mentioned the CHIPS Act and then it sounds like also a program the UK Government has £250 million. Is that an opportunity for Airspan? I'm just sort of thinking about how that might operate. Is there an application process to participate in those funds? What's the likelihood of being involved there? [indiscernible] (00:19:03)...
+
+It was very focused on that, George. We have been working both Washington and London very, very consistently since the Huawei ban. We've had other benefits of that rip and replace money for instance starting to [indiscernible] (00:19:20) money you're familiar with.
+
+But this particular initiative, the language survived the process of quite a bit of pruning to come out as we wanted it. So there's a nice structural language for a funding program to develop Open RAN with a collection of US suppliers. And we're front center in that queue and working through now and working through now the next steps, which is how the funds get dispersed. We don't have anything in our short-term forecast, but it's something I think will become very significant by the second half of 2023. And obviously, with our experience at Rakuten and some of the open-ramp projects that we've done around the world, we're a perfect poster child for how to further this industry and bring back some supply chain security and resilience to the US.
+
+In the UK, it's going to play out as a major field trial sponsored by the DCMS, which is the ministry responsible for dispersing funds. And we were helpful in crafting also their ideas and the programs there. I think you'll see a large-scale urban rollout done, sponsored by the DCMS and done with one of the carriers here. It started well within 2023. There's a real sense of urgency in both governments. And yes, it is a candidate – we are a major candidate for some of those funds.
+
+Okay. Super. I'll pass it on. Thanks very much, guys.
+
+Okay. Thank you. [Operator Instructions]
+
+The next question is coming from Tim Savageaux of Northland Capital Markets. Please go ahead. Tim, please make sure your phone...
+
+Yeah. Hi. Good morning.
+
+Thank you. Please go ahead.
+
+Yeah. Sorry about that. I wanted to ask a question about, well, really what's your – given the supply chain issues, what you might be expecting or what you're seeing in terms of revenue growth where you're targeting 5% this year versus what you might be seeing on the bookings side? And what I'm trying to get to is kind of what sort of growth the business is seeing ex-supply issues? And that comment could be for the quarter or what you expect for the year? And then I have a follow up.
+
+Yeah. Our – good morning, Tim, our bookings outlook is very favorable. We've had continued traction with our bigger customers. We've got a very fast growing private network side and then we've got obviously fixed wireless, which is really being bolstered by our new product line. So we have an outlook on bookings that's considerably higher growth 20% plus versus what's happening on the revenue side.
+
+Great, appreciate that. And looking at the revised guidance that still implies a pretty decent uptick in revenues in Q4. I wonder if that's indicative of any easing on the supply side or to what you would attribute that to. And along with the planned OpEx reductions, it looks like you can be getting pretty close to at least EBITDA breakeven in Q4 in that scenario?
+
+Yeah.
+
+Just wanted to...
+
+And we do have a...
+
+...good ahead.
+
+...a strong outlook on the fourth quarter. We've had some more orders that came in recently that we couldn't convert in 90 days. So some of those orders will flow into the fourth quarter.
+
+But good visibility on the specifics of the supply chain on those initiatives we've got fixed wireless with the new products starting to ship here in the third quarter and a healthy backlog there and a tremendous demand as well as some pretty significant wins on the fixed wireless side with some – with a traditional carrier, so that's driving a good expectations for the fourth quarter. And I think the focus on improving the supply chain flows in advance. We've done more long lead time procurement and we've done a lot of work to make sure that we've got a production flow. It's a lot more linear, certainly where we were in the first quarter.
+
+So it is in fact the case. We're looking strong here in the second half. And your breakeven point, yes, we would really love to get to breakeven by the end of the year. And that adjusted EBITDA basis, it may be the first quarter, but that's – we're laser focused on that at the moment. And the hurdles have become less large as we look at the OpEx reductions that we've made and as well as we're getting additional pricing flowing through now on some of our deals. Whereas you know, we had to work off the backlog of pricing that was done pre – kind of pre-inflation. And pre-yen as well or pre-yen devaluation. Our new business in Japan is also being priced obviously at current rates of exchange.
+
+Got it. Thanks very much.
+
+Thank you. The next question is coming from Chris Howe of Barrington Research. Please go ahead.
+
+Good morning. Thanks for taking my questions. Just a follow up on some of Tim's questions there. You mentioned the last point, the additional pricing flowing through here in the fourth quarter, some better optics when you look at it sequentially versus the third quarter. Should we expect a continuation of those trends as we look into the first half and second half of 2023? Kind of how are you thinking about gross margin? You mentioned it in the context of the third quarter guidance and should we remain relatively conservative on that line as we look to kind of building a cadence with hopefully an improved environment?
+
+This is David. Hi, Chris. Yeah, I think we should that – the increase pricing should come into effect in fourth quarter and then into the first half of next year. I also think that the supply – now we're already seeing some easing of supply chain challenges in availability and costs of transportation for example. So as that eases, we should get a couple more percentage points through supply chain easing going into next year.
+
+Okay. Great. Thanks for taking my question. That's all I have for right now.
+
+Thanks, Chris. [Operator Instructions]
+
+The next question is coming from Scott Searle of ROTH. Please go ahead.
+
+Hey, good morning. Thanks for taking my questions. Hey, Eric, I'm not sure if I missed this upfront. But I was wondering if you guys provide any relative mix between the different end markets both in the 2Q reported results and kind of the outlook, especially as you're looking to 2023 in terms of private networks and fixed wireless access? And then I had a couple of follow-ups.
+
+Yeah, David. Do you want to...?
+
+Yeah, we split out by types of revenue through products licenses NRE, we don't split the markets, Scott.
+
+Okay. And Eric, just looking at the private networks opportunity, I'm wondering if you could help frame us in terms of the size of the individual deals.
+
+It sounds like you're up to 300 in terms of various pilots, but I'm wondering what the magnitude is per deployments, how you should be thinking about that? And then also, do you start to see a follow-on tail to those initial deployments where there's continued orders each quarter going forward?
+
+Yeah, I'll start with the second. The tail is super encouraging. As I mentioned in my comments, one of the bigger deployments we have is going into buildings where DAS systems would historically been purchased. We are estimated to be 34% of the cost of DAS, a very tech lean-forward company. And for instance, the blocks of orders we're getting there cover 15 to 20 buildings at a time. This most recent one expanded that. And so those are seven-figure deals. Today, we do have a whole lot of early stage adopters where the orders are considerably smaller. But in almost every one of those are – we don't waste time with ones that don't have a path to growth to get us to seven-figure types of opportunities.
+
+A good example would be a major airline carrier – manufacturer, excuse me, who's got – it's about $400,000 a location and they've got 52 locations, that kind of dimensions it. And I think there's a positive contagion here, when one group gets it right, for instance, we have an airport in Germany, I think it's been announced one of the significant airports there awarded us to Phase 1 a while back, they just awarded us Phase 2 for that airport and they've got a bunch more phases in the queue to expand the footprint.
+
+And then we won a sister airport on the strength of that. So we are extremely excited about what's happening in private networks and that conversion of spend of IT technology that was historically spent on Wi-Fi now being spent on 3GPP system or the 5G. And we're seeing nice trends on that. We've also set the stage with some very major distribution partners, household names in the Fang world who have signed supply agreements with us. And those supply agreements have taken some time to negotiate because the facets involved are those customers running the networks themselves as Network-as-a-Service through coupling their products with ours through straight distribution.
+
+And also a lot of the seeds that have been planted there have now been released out to the systems integrator partners that those partners of ours have, and that's a very substantial global network. So I would cautiously say there's 10 times more sales people talking about Airspan today than there were just six months ago due to the multiplier effect. We're getting on that. And I think it's going to lead to a very exciting next year. That's big.
+
+Yeah. Very good. That's very helpful. Thank you. And Eric, on the rip and replace front, we've had $1.9 billion approved by the FCC. And I think that there is in – before congress could take that figure up to $5.4 billion, one of your customers, GoGo, got a significant allocation at least to that initial tranche and could be up over $300 million. I'm wondering if you could provide some color. Are you well positioned as they transition their network and upgrade their network from ZTE infrastructure? How you are positioned on that front. And then others, within that framework of that potential $5 billion opportunity, are there other customers that you have in there that you would expect to translate to upside for you guys?
+
+So, yeah, on the first customer, as Glenn mentioned in the comments, we are selling 4G, the airplane side today into that mix. So I'm pretty confident on the infrastructure side and excited about the award and so therefore feels very well-positioned. On the other customers, we have as an example a customer who has 10 networks and applied for a substantial – about $300 million of money ended up getting a third of it.
+
+And that's actually helping us because their initial approach was let's just use Ericsson, one of the big OEMs because cost doesn't matter because we pass that back to the US government and to us as taxpayers, and we know that the job will get done eventually. And now, it's sharpened their focus on the products we make because we make products that can get the job done at a third the cost. So it's really exciting because that customer's adopting us right now and we're shipping them and starting to get our first revenue, in this case, in the fixed wireless side, but using licensed spectrum.
+
+We've just added also our Mimosa product set into the mix there because they're seeing that's a less expensive way for them to serve the 15,000 fixed wireless customers, they need to do rip and replace on than just putting up an expensive macro tower from one of the traditional OEM suppliers. So it is exciting and I'm heartened to see some focus by the recipients of the money. You mentioned the [ph] one-point-ex-billion going to $5.9 billion (00:32:23). I think the customers are becoming more price-sensitive and cost – I should say, architectural cost-sensitive and that's a super tailwind for Airspan. We'll get a lot of attention out of folks that a year ago would have said, we're a small operator, let's just go with the big two that sell to rural America today. And that's been helping us.
+
+Very, very helpful. Thank you so much. And lastly if I could kind of transition into the Mimosa front with the Wi-Fi 66 gigahertz solution coming out. I think there's a lot of interest around that. There have also been some, I'll call it, proprietary competing solutions out there, I think, that have been earlier to market. I wondering if you could kind of compare and contrast where you guys come in from an expected price point and kind of see – how you see that opportunity really ramping up in 2023? Thanks.
+
+Glenn, do you want to take that?
+
+Sure, I'll take that. So in the in the prepared comments, we talked about the next-generation A6/C6 product coming to market toward the end of Q3. It's the first product to hit the market with both 5 gigahertz and 6 gigahertz addressed in a single radio. The 6 gigahertz rollout is going to be significant in a significant amount of the demand that we have building for that product is based on the ability to go after that new fresh 1 gigahertz plus of spectrum. We're in trials right now on that product with three Tier 1 customers, one customer in particular – one Asian customer in particular is currently in active trials and seeing over 4 gigahertz per second in their field trial with that product, so it's leading to a – it's garnering a lot of interest and demand.
+
+From a cost perspective, we're extremely competitive on the cost front relative to at least one of those large competitors that you're talking about, extremely competitive on the cost front, on both the access point side and the UE side or the CPE side. So we feel really, really good about our position. And as we come to market with that solution at the end of Q3, we expect pretty solid volume and growth in the Mimosa business overall heading into Q4 and the first half of 2023. So there's a lot of interest building and we want to capitalize on that.
+
+Great. Thanks so much.
+
+Thank you, Scott.
+
+Thank you. At this time, I'd like to turn the floor back over to Airspan's Chairman and CEO, Mr. Eric Stonestrom, for closing comments.
+
+Okay. Thank you. Please turn to slide 12. Our business outlook remains encouraging. We have a product portfolio that is gaining wide acceptance across a wide range of major technology partners, end users, and market. 5G continues unabated with the economic headwinds facing the world economy. Governments remain committed to alternative domestic supply paths for critical network infrastructure and are willing to invest mature network equipment supply chain diversity.
+
+Lastly, our operational model improves as extraordinary supply chain and logistics challenge of ease, and we have been able to reduce operating costs through efficiency measures. One last note, we will be participating in broker conferences in one-on-one meetings in the coming months, including upcoming conferences with Jefferies and Rosenblatt Securities. We look forward to engaging with investors at this event. Thanks again for your interest and support. That ends our 2Q 2022 earnings update.
+
+Ladies and gentlemen, thank you for your participation. This concludes today's event. You may disconnect your lines or log off the webcast at this time. And enjoy the rest of your day.

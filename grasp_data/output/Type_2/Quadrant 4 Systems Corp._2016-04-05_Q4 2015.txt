@@ -1,0 +1,317 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+Dhru Desai — Executive Chairman, Quadrant 4 System Corporation
+Robert H. Steele — President-Quadrant 4 Health Division, Quadrant 4 System Corporation
+Shekhar Iyer — President-Quadrant 4 Education Division, Quadrant 4 System Corporation
+Nandu Thondavadi — Chief Executive Officer & Director, Quadrant 4 System Corporation
+John Nobile — Analyst, Taglich Brothers, Inc.
+Martin Cohen — Chief Executive Officer, Martin Cohen Financial Services
+
+Management Discussion Section
+
+Question And Answer Section
+
+Good day and welcome to the Quadrant 4 System Corporation's Full-Year 2015 Financial Results Conference Call. All participants will be in listen-only mode. [Operator Instructions] After today's presentation, there will be an opportunity to ask questions. [Operator Instructions] Please note this event is being recorded. A replay of the call will be available on the company's website.
+
+This presentation contains forward-looking statements that reflect Quadrant 4 System Corporation's plans and expectations. In this presentation and related comments by company management, words like expect, anticipate, estimate, forecast, objective, plan, goal, position, equate and similar expressions are used to identify forward-looking statements representing management's current judgment and expectations about possible future events.
+
+Management believes these forward-looking statements and the judgments upon which they are based to be reasonable but they are not guarantees of future performance and involve numerous known and unknown risks, uncertainties and other factors that may cause the company's actual results, performance, achievements or financial positions to be materially different from any future results, performance, achievements or financial position expressed or implied by these forward-looking statements.
+
+I would now like to turn the conference over to Mr. Dhru Desai, Executive Chairman. Please go ahead.
+
+Thank you very much and good morning. I want to thank you all for joining us today. With me, I have on this call, our senior team, Dr. Thondavadi, who is the CEO of the company; Robert Steele, who heads our healthcare initiatives; and Mr. Iyer, who is heading our education-related initiatives.
+
+We will follow the call approximately in this order. We will first talk about the 2015 general remarks and the achievements of the company, followed by a quantitative analysis of our financial performance for the past year. And then, we will then make some remarks on the direction in which that we, the company, its organization and technology is moving. And then, I will invite our education and healthcare unit heads to give market updates and so forth. And then, we will take some questions and answers.
+
+Our result just capped off another very strong year for Quadrant 4. We delivered a top line growth performance and improved upon other fundamentals, including gross margin improvements by double-digit.
+
+Quadrant 4, as you know, is continuing to make headway in our cloud-based technology, digital-exchange technology, as we call it, and a very sharp focus on healthcare and education sectors. Our vertical cloud software is continuing to gain a very positive market validation from multiple sources and key partnerships, and we are seeing a very positive momentum, as a result of that, for both our sales and business development efforts.
+
+Going forward, we are going to continue our attempts to transition the company more to the software and technology business from its legacy with the intention of software services business model. This will, of course, result into greater revenue streams that we will realize from the software licensing, software services, and obviously, a critical component of services revenue that will be more aligned to our platforms and proprietary technology suite.
+
+This transition and renewed focus on health and education is already showing a very positive effect on our gross margin and our ability to scale the business upwards in these strategic areas. In 2015, our healthcare unit added a number of very important customer relationships, starting a very large Texas-based third party administrator called HealthSmart.
+
+We also added to our list of clients Grady Enterprises that's based in Ohio, working on employee benefits agency, and HCare Systems Technology. Rob Steele will talk more about some of these relationships, as well as the pipeline generally described to you where the sales and business development efforts are gaining traction. As we continue to onboard these customers to our healthcare platforms, we'll experience a stronger per employee per month-type recurring revenue streams and we will expand this in 2016.
+
+Let me take a quick moment, give a perspective on how this business works relative to onboarding a new client onto our system. I know there are a lot of anxious minds, once we announce a client relationship and its technology selection relative to them agreeing to use QHIX platform, how long does it take for the entire book of business to migrate on our platform. Onboarding is a very, very nebulous process, as we have been experiencing. It requires a lot of coordination, with our client organization in planning, in executing the switch over to the new system from old platforms and processes.
+
+In some cases, they don't even have a lot of digital platforms. A lot of times, the data feeds coming from different disparate systems or even paper-based systems aren't coordinated. So, they need to be cleansed and normalized before it would implement any of the single system type of environment. It really requires a multitude of data feed integration, cleansing of this data and interworking of the key business systems at the client organization.
+
+In some cases, there are about six to eight different systems that needs to be looked upon and coordinated relative to their interworking before they can actually have an end-to-end working solution on the new system. And as you know, employee benefits and healthcare benefits isn't a minor thing So, everybody needs to be extremely careful and conservative on how the switchover and the cutover takes place before they move on to the new way of doing business. But the good news is we are succeeding and doing a fantastic job in most complicated cases and enabling our clients to implement this new digital ecosystem.
+
+In addition to continuing to work on the critical implementations of some of our larger wins we had last year, in 2015, our engineering team worked on something – Robert will explain one more time on this call, is Hybrid Exchange capability. It's a single platform that uniquely combines functionality required for the group exchange application as well as individual exchange application, which is a very unique feat in the industry.
+
+I'm sure I'm going to leave a lot of detail and more specific updates for Robert to give you in a minute, but I want to touch upon what our education initiatives are entailing these days. Our Education division announced its EmpowerED suite of applications on a digital exchange platform, which was leveraged from our health exchange technology stack.
+
+This past year, 2015 academic year, we launched our alpha and beta programs to validate our vision and applicability of our solutions in K-12 school districts. I'm happy to report that our team has won several beta trial arrangements. And Mr. Shekhar Iyer, who heads our education initiative, will go over some of the specifics of these trials and what problems we are solving for today's education environment in the K-12 market and where he sees this initiative going from here on out.
+
+Now, let me turn our attention and discussion to the specific quantitative performance that we delivered in 2015. For a full-year 2015, we reported a gross revenue just over $52 million which was up from $48.5 million last year in 2014. Our full-year EBITDA for 2015 was about $6.7 million versus $6.5 million in 2014. I want to note a point here, and it's not meant to be an excuse or anything else, but as you all know, we have a third party independent very large subcontracting relationships in India. It's a dedicated facility that manages our deliveries and the engineering tasks. I don't know how many of you remember that.
+
+Towards the end of the last year, we had a major flood situations in that part of India that sort of hampered our ability to deliver certain deliverables in the last quarter and that had a slight impact on our ability to post and realize a larger revenue number. And some of the deliveries are getting done in the first quarter in 2016, so not all is lost revenue but there was an effect, negative effect on our ability to have a better growth than what we reported.
+
+Now, looking at the gross margin, I mean, that's the picture. For the full-year 2015, our gross margin moved from 36% a year before to 40%, almost a double-digit 10% increase of 400 basis point. That's an indication of how our revenue mix is changing and how we are leveraging on our engineering programs so that the cost of goods sold is pushing down, and that's an indicative metric for how we are moving towards the pure software business.
+
+We are happy to note that 2015 closed a 24th straight quarter of being EBITDA positive for the company. Our investments in capitalized software grew from $5.2 million the year before to $6.5 million. Our depreciation and amortization expenses were down slightly to $5.6 million compared to $5.3 million the year before. And most of these expenses are contributed by intangibles that were accumulated in the previous acquisitions, things like value of the customer list and goodwill and so forth.
+
+The interest expense for the full year was about $1.8 million. So, I think the company is heading in the right direction relative to the fundamentals. We are so galvanized on making sure that our software initiatives are supported well. We are continuing to invest in our much needed R&D for new product development and continue to give company a differentiated position in the market.
+
+So, I also want to, at this point, take a couple of minutes just to go over some of the corporate governance and some of the corrective actions that we are undertaking in an attempt to manage our growth. And as you know, this company is growing at a reasonable clip and it's a sort of lean, mean machine. Almost I want to say that it grew much faster than its checks and balances and support staff and organization grew.
+
+So as you all know, last year in 2014, during the course of our 2014 audit process, we came upon an unfortunate event that it was a symptomatic failure of certain controls and governances. And we reported voluntarily in 2015 March, the failure in the 8-K that we filed. And subsequent to that, we changed our company's independent auditor. We switched over to Schulman Lobel in New York. This is a slightly larger firm than who we were relative to our predecessor auditors. With this 2015 audit completion, Schulman Lobel has now audited three years of company's books and records, 2013, 2014 financial full year, and now, 2015.
+
+In the process of these three years of audit over last nine months, I want to thank my support staff, my accounting staff, as well as our board of directors, audit committee, as well as the auditors, in systematically reviewing our controls and procedures and make some vital recommendations as to how we can improve upon it. And improvement is an ongoing process. Company and the management is taking full responsibility for the failure that we saw last year and we are committed to continue to improve or seek opportunities to give you more a reliable set of financials and improve the integrity of our financial reporting on an ongoing basis.
+
+We have implemented a series of recommendations and corrections that our CSO recommended. We are closely monitoring the effectiveness of working them and we have made a necessary disclosure and risk assessments and filed with our 10-K as such. So, I just want to take a moment in thanking everybody's confidence in believing us and giving us an opportunity to continue to improve the controls and the governances.
+
+Now, what I'd like to do is also take a minute in just giving you a color on how the organization and the technology of the company is shaping in what direction. In 2015, we continued to – I mean, we sort of reported that company has reached a critical mass and scale. If you all remember, our underpinnings were the technology services company and we developed a scale and size and certain modules of technology as a services company. And in 2015, we got a [ph] religion (17:55) to transition and pivot away from the services orientation to more of a software technology company. So, that transition we started in 2015, which we discussed in our last previous calls, is continuing and gaining momentum.
+
+Our personnel, our systems and our organizational structures necessary to continue this transition is shaping very well and it is giving the company a confidence there of being a vertical software – cloud-based software provider. Our engineering and software development are now aligned with our markets which, again, last year, we talked about, focusing on health and education. So, all our engineering development and engineering activities are aligned to these market opportunities that we are chasing.
+
+In our attempt to strengthen our marketing outreach and the post-deployment support, we did acquire a few minor assets in 2016, as we described in our press releases, namely, I would want to say that DialedIn Technology is acquired that provide digital marketing and B2C communications platform. This has got the two-pronged application for us. Not only Quadrant 4's outreach in marketing program will be supported through this infrastructure but we look to embed this technology into our exchange platforms that will allow our exchange operators, both in education as well as in healthcare, to engineer their outreach and better communications with their stakeholders and so forth.
+
+As we reported in our last call, our strategy calls for applying our media know-how and innovations to healthcare and education platforms. In other words, we're not considering pursuing publishing clients as a sort of market segment [ph] for (20:10). And instead, our know-how, interest and our capabilities dealing with a media-based technology stack is being leveraged into furthering the differentiations of our health and education exchanges. And that would continue to be the strategy as we move forward.
+
+We are quite excited about the company's upcoming engineering functionalities and new feature functionalities that we are going to roll off of the digital footprint that we are building. And we will be able to discuss these feature functionalities in more detail in upcoming quarters.
+
+I think that's what I had in a way of prepared remarks relative to the numbers, the directions and the organizational update. I would like to invite now Mr. Robert Steele to give us a color on how he sees the healthcare business proceeding. Robert?
+
+Dhru, thank you, and certainly appreciate the opportunity to give the update.
+
+So, QHIX, our benefits administration and private exchange product, has continued to receive solid acceptance within the healthcare marketplace. With the pressures of Medical Loss Ratios known as MLR and mandated by the Affordable Care Act, health plans can no longer operate multiple systems managing similar functions. In addition, those multiple systems also handle cross-function requirements which QHIX provides such as consolidated billing, reconciliation, broker management, commission trackings, remittance, and other things.
+
+This has been a significant feature function differential that health plans are interested in. And as we've been approaching new health plans in the last three months is the reason I'll address our pipeline in a moment. And as Dhru mentioned in his remarks, moving from two to three systems to one requires significant change management, which is not easy, and it is a not only from a decision standpoint but also from an implementation standpoint.
+
+So, it does take longer and it does require a very methodical presence, if you will, to manage, A, all the moving parts and, B, in a manner to anticipate what could go wrong. And we believe that when QHIX is installed and operational, there is significant cost to change, impact to operations and though that provides longer-term contracts for us.
+
+So, Dhru mentioned the Hybrid Exchange. When I mention multiple systems, QHIX does have the ability to manage both an employer's benefits business and business administration, as well as an individual's consumer shopping, marketplace and administration capability. And QHIX is designed to manage all stakeholders, all business rules, all business processes, and certainly more efficiently and at a lesser cost. Truly a win-win for these health plans as they're faced with the MLR requirements mandated by the ACA. And as Dhru mentioned, in the Hybrid Exchange, we have trademarked the name QHIX Hybrid Exchange and again, the unique feature, both from a health plan or TPA or a managing general agency perspective, you have the ability to manage an FTE for an employer using QHIX and a sophisticated benefits administration capability, as well as the consumer. So, that could be a part time, a seasonal, a contractor or a retiree or COBRA eligible. And all of that can be managed on one system and that is the differential – differentiator and a differential in the marketplace.
+
+So, as Dhru mentioned, HealthSmart was signed last year and has begun its deployment. So, we have recently deployed QHIX for the back office e-enroll and e-billing function for all of the Denver operation, represents about 3,200 employer accounts, more than 160,000 employees, and that is up and running as we speak. We are in the process of meeting almost on a daily basis to begin the implementation of the rest of their book of business.
+
+Dhru did mention Grady. Grady Enterprises, a TPA marketing general agency in Ohio is signed, and implementation should go live in the next 60 days, represents about 40,000 lives, employees employed by school districts throughout Ohio.
+
+And I mentioned on our last call, about being a finalist for a Blue Cross Blue Shield plan. Interestingly enough, the contract has not yet been awarded. There were 15 companies that got reviewed. We, along with one other competitor, was chosen to win the business and the decision has not yet been made. The current incumbent is been in business about seven years. So, again, these decisions are significant and they are long-term and impacting. So, it is something that we are waiting for. The decision now we think that they've asked us to go to negotiate final and best pricing, which both of the competitors have submitted. We believe we submitted a winnable number and look forward to a decision. Like all contracts, you don't know what you're going to win until the decision is made, but we believe confidently that we have submitted the appropriate bid.
+
+As I mentioned earlier, we have seen significant improvement in our sales activity. We have 12 new health plan prospects, representing approximately 2 million members in those health plans. And as I said earlier, health plans are fighting battles on a significant number of fronts. And so, we have seen a significant increase in our activity, both from the health plan standpoint, third party administrators, and marketing general agencies. And as Dhru mentioned earlier, we are working on a few new ideas that I hope to cover on next quarter's call.
+
+One more interesting note, one of our significant long-term clients, OneAmerica, one of the largest financial services companies in the country, is releasing their annual report, and our products are being mentioned in the annual report as far as the support we provide them for their benefits administration capability, so we're excited about that mention.
+
+We also mentioned the pipeline. We are continuing to find new opportunities to co-develop sales partnerships, marketing opportunities that would either expand our reach or extend the QHIX product to reach some of these new opportunities. And one of those, I firmly believe that the federal exchange – most of the states that opted to manage their business through the federal exchange are now reconsidering this decision. I believe, over the next three years, no matter what happens in this election, we will see states wanting to take or control over their local jurisdictions, if you will, and we are confident that QHIX can meet that need.
+
+In addition, we're seeing providers partnering with hospitals and other organizations to take risk in local communities, in creating community-sponsored health plans, and they need a system like QHIX as well, and we're seeing that opportunities begin to generate. We also have identified a handful of payroll companies and PEOs and HROs that are showing interest in this holistic product known as QHIX, and we're excited for that.
+
+So, in conclusion, Dhru, you and I have had this conversation. We don't believe that no matter how the political winds blow, the social winds blow, the financial winds blow, it is not going to impact our ability to create new opportunities and new sales. QHIX is the right product, built at the right time with all the right functionality to meet a diverse and changing marketplace. And the Q4 Health team is poised to meet the challenge.
+
+And with that, I'd like to turn it over to Shekhar Iyer and let him review the Q4 Education product.
+
+Thank you, Robert, and good morning everyone.
+
+As Mr. Desai, in his opening remarks, mentioned, we successfully launched the Education platform called EmpowerED Solutions in late November 2015 in a couple of school districts in Texas. Earlier this year, we were also successful in adding a few more districts into our pilot program. So far, we have the trial pilot program going through its implementation phases and is being well-received in all of the districts. A typical pilot district has an average population of about 7,500 kids and we will be covering about 3,500 heartbeats during the pilot phase.
+
+The pilot phase is scheduled to be completed by the end of the current school year, and our plan is for these districts who are in a pilot program to be our first licensed clients from the start of the school year in the fall of 2016, in a few months. As of today, we are also in discussions with a few more districts who have shown interest to be early paying adopters of our platform from the start of the new school year.
+
+Now, let me just spend a couple of minutes giving you a quick overview of what our education platform provides, our pilots, as well as the prospective clients. EmpowerED is a cloud-based scalable platform that runs on all devices and provides stakeholders at school districts with insightful information and warning signs under different metrics. It also provides a tool to instructors, be it principals or teachers, on using the relevant academic data to tailor effective instructions that is focused and personalized to help students achieve more. Finally, it helps students who are at risk with the research-based and proven intervention content in English, Math and Science that comes from a Brainchild acquisition that we did earlier last year and is aligned to the different state standards to help them do better.
+
+Finally, it also provides parents with a full understanding of their kid's academic performance including transcripts from any device. In short, our EmpowerED Solutions is designed to provide deep analytics and proven intervention and instruction for all stakeholders.
+
+Let me clarify what a platform does not do. It does not – we are not a content provider. It does not replace any of the current investments in school, in content that the school districts have already invested in, but rather provides a valuable bridge for partner products to connect to and provide relevant data from those system from a single interface.
+
+We are receiving very valuable feedback from a pilot as we go through the implementation phases, which helps us add new features and functionalities in future releases. One comment that has come across from many of the districts has been the ease of use of the product and it's capabilities to address the needs of many in a school district.
+
+Now, some of the challenges that we have run into during the implementation phase has been mostly a lack of dedicated resources at the school district end to focus on integration issues or data discrepancies as we discover them during the implementation phase. This also provides us an opportunity, with our expertise in these areas, to smooth the implementation challenges as they arrive.
+
+One of the key things that we're doing, in addition to the EmpowerED Solutions, is the integration of our Brainchild products like Achiever! and Mechanics into the EmpowerED platform. This is nearing completion and on track for release from the start of the new school year in July. As you may be aware, we have over 3,000 schools in about 400 districts who have been clients of Brainchild for the past many years. So, post the completion of the integration, we will be marketing to all these districts the benefit of migrating to the new feature-rich platform in a very phased manner.
+
+On the marketing side, we have just launched an early marketing campaign in selective states. It's a very focused approach, making the districts aware of the new federal act called ESSA or Every Student Succeeds Act and how our platform can help them address many of the new federal requirements as they become applicable in 2017 and beyond.
+
+On a licensing model, the way we are approaching this is EmpowerED is going to be a subscription model, license on a per-student basis on an annual recurring model. Our base license is going to start roughly at about $10 per kid per year. And as we add other modules such as operations, HR, finance, special ed, et cetera, the license price will increase accordingly.
+
+As you may be aware, the entire education market space has got about 15,000 school districts in the United States and the spend in education alone is $1.3 trillion, of which about $620 billion is spent in K-12. So, we feel the opportunity is right. We have a good established base from our Brainchild market campaign, and we know that this platform is going to be extremely valuable going forward in terms of its capabilities, functionalities, and what it provides to the different stakeholders.
+
+What I have right now to offer, and I'm open to anything else. So, I'll hand this over back to Mr. Desai.
+
+Yeah. In closing, let me make a few remarks, and then we will open the lines up for the question and answers. So, as you heard from both Robert as well as from Shekhar, I think our technologies and the platforms that Quadrant 4 is developing will play a very important role as healthcare and education segments embrace to a digital transformation. Our exchange platforms in the initial versions that are already rolled out in the marketplace. First and foremost, these platforms provide a very essential plumbing layer to create a digital ecosystem that brings the respective business stakeholders on a common backplane. And then, obviously, our advanced features that we offer actually allows them to roll out new business models that they must implement in order to successfully navigate the disruptions that they are recognizing in their respective market segments.
+
+So, what we think we're doing is very relevant and extremely valuable because both healthcare and education are the two most important things that everybody lives for and everybody needs to have a better quality as we move forward.
+
+The markets we are targeting are extremely large. The five, six years of our track record that this company has to show for has established us as people who can build industry strength, extremely scalable platforms that embeds new set of digital technologies around social media, mobility, analytics, and cloud computing. And that will be the secret sauce, if you will, to implement the new and innovative business models for everybody.
+
+So, we are – I think we are – our strategy is working. Our innovations are being valued by our partners and our industries that we are working in. And everybody believes, from various sets of data and the things, that we are in multibillion-dollar markets, and we just have to execute and we just have to stay a step ahead of the competition. And I think we are going to have a very rewarding years to come.
+
+So, in summary, I think we have delivered solid results for 2015. We are focused on our market segments and we are paying additional attention to our organizational and governance and controls to make sure that we stay on top of our execution.
+
+So, with that, what I'd like to do is I'd like to open the lines for Q&A.
+
+Thank you, sir. We will now begin the question-and-answer session. [Operator Instructions] Our first question comes from John Nobile with Taglich Brothers. Please go ahead.
+
+Hi. Good morning, guys, and thanks for taking my question. I just wanted to dig a little insight into the fourth quarter numbers. I know in the 10-K, you talked about it on an annual basis, but when I break out the fourth quarter, certain line items – well, to start with, the revenue, I know that was down. I believe, Dhru, you alluded to the fact that a flood in India basically – and that was in the fourth quarter – it impacted your revenues. I just wanted to get an idea of how much you feel that this flood had impacted revenues and is this something that continued into the first quarter or is this something that was really strictly in the fourth quarter.
+
+Nandu, would you like to answer this?
+
+Yeah. Sure. John, this is Nandu.
+
+Hi.
+
+To answer the question, I think the fourth quarter – the impact on the fourth quarter results were approximately to the tune of about $650,000. And most of the deliveries, I think Dhru did mention that, we probably are going to catch up, and deliver most of it in the first quarter of 2016.
+
+Okay. So, that issue was totally resolved. I mean, the floods have subsided and Q1 started off really with no impact from this flooding condition.
+
+That is correct.
+
+Okay. And if I can just talk a little bit more about the fourth quarter, certain line items like gross margins, I look at it and when I back out the numbers, I think gross margins, I see here, they were 38.7% in the fourth quarter this year. Last year, they were 41.4%. So, there was a little drop in the gross margin. I was hoping you can talk a little bit about that also.
+
+Right. I think the fourth quarter in 2014 was 41.4%, as you said, and gross margins were about $7.6 million compared to $7.748 million in the fourth quarter of 2015. The reason for that, again, the same results, we have consultants, we have people on the bench. The utilization of the billable numbers came down in the fourth quarter because of some of the environmental issues that we had.
+
+So, consultants were on the bench. Obviously, there's pay associated with that even though you're not able to use them.
+
+Correct. The utilization actually – our standard utilization of our billable resources typically run around somewhere between 88% to 90%. In the month of December, it dropped down to 84%, and that is actually reflected in the loss of a few basis point, 300 basis points in the gross margin, from 41% down to 38%.
+
+Okay. Otherwise, obviously with the utilization back to the 88%, 90% range, we could have been looking at the gross margins like they were on the previous two quarters of 41%, 40% – and close to 42%.
+
+You're right.
+
+And one other item in the fourth quarter breakout. It looks like when I backed out the numbers, interest expense was down significantly, it was about $391,000, the way I calculate it from a nine-month results. Last year, it was $887,000. So, it looks like interest expense was more than cut in half comparing this year's fourth quarter versus last year's. However, I think debt is higher. So, I'm just trying to get a handle on that.
+
+Right. So, the way it – actually what happened was, if you remember, in 2014, on October 1, we refinanced our receivables, we moved from a factoring company to another senior lender. We also took in $3 million worth of unsecured term loan. And in fourth quarter of last year, we took approximately $560,000 worth of break fee, which is a terminations fee we ended up paying to the previous lender for switching our relationship to the new senior lender. So, that $560,000, what accounts the difference between $389,000 in Q4 of 2015 to $887,000 in Q4 of 2014.
+
+Okay. Now, I understand that. I just was hoping to find out what happened with that there. That makes sense. Thank you for that. Now, I know in the K, it doesn't really break up Brainchild but, I mean, you had basically a whole year of Brainchild's contribution to your 2015 numbers. I believe that was in January. So, I'm just curious if you can, on this call, just give us a sense of what Brainchild contributed to 2015 revenues.
+
+Approximately about $1.5 million.
+
+Okay. I mean, that's significant. Now, obviously, hopefully this will be ramping up in the coming, if not, quarters, years, as it gets to a cloud-based product, but Brainchild was not really a cloud-based product. This was something where they basically, if I could say, had a disc and they would use that. It wasn't that they would have a SaaS model for the way you acquired Brainchild but, obviously, you're looking to transition into that model with this.
+
+That is correct. I think Shekhar probably can talk about he is transitioning. I think he did mention in his conversation that he is adding some of the Brainchild offerings through the Q4 – [ph] the Q (44:37) EmpowerED platform as well.
+
+Okay. And...
+
+...moving forward.
+
+Right. If I could just get a little more info, the updates on the health products, HealthSmart, Grady. I know HealthSmart, it says that the previous comments, you basically began the implementation of health with HealthSmart and I know that that came in, was it about February of last year, I think was the press release related to HealthSmart. I know it takes time to get systems going for that. I was just hoping to get an idea because how long do you think it would take to totally migrate? I think we were looking at 1.2 million lives under the HealthSmart name, and to get an idea of how long it's going to take to migrate. You're one year into it. How much longer do you think it would take to migrate a substantial amount of lives under the QHIX product? And what we could look for on a monthly basis, per life, per month, if I could say it that way, what are we looking for in revenue on that?
+
+Robert, you want to take this question?
+
+Sure. So, we did sign a contract and made the announcement last February. We actually began implementing some of those lives through the benefits administration side of the house, and began working on the back office components in the fall, and went live with the Denver operation literally two weeks ago.
+
+The goal today is to get the majority of those lives on the platform in the next 12 months. We have been given a directive by the leadership of HealthSmart to have the private exchange – the individual private exchange and the group exchange up and running for open enrollment this season, so that initiative is moving rapidly. Like a lot of relationships, it takes time, I kind of refer to it as, they have a day job and we are kind of giving them a night job, and it does take time to transition. But we are moving rapidly towards this end goal of having the majority of their lives on the platform by 07/01/2017.
+
+Okay.
+
+And Robert, if I may add one more observation. As we – as you all know that we announced in February, so that announcement necessarily was aimed towards taking the opportunity off the table. It was a technology platform selection that was decided upon. And looking back in 12 months, I mean, I think the strategy that HealthSmart is going for is all the new business essentially, the new critical accounts that they are closing on their book of business is coming on the QHIX. And then they are meticulously going through it because HealthSmart is a six companies within a company. So, they are sort of meticulously going through the risk, rewards of transitioning their book of businesses onto the new unified system.
+
+And so, one thing – good news is all the new business that they are booking is aimed from the get-go towards going onto the new digital platform. And I think they are working very closely with us in terms of prioritizing what business unit will be moving from the old way of doing business onto the new platform. And as we reported earlier on the earlier discussion, the Denver group, which is more and more strategic at least from the technology and process standpoint, that work has been completed. So, we'll now, one by one, we'll be looking at the different business units. So, that's how they are approaching this transition.
+
+Okay. I mean, within 12 months, the majorities were looking at at least half of these 1.2 million members you believe you would have under your platform. So, we're looking at 600,000 lives under the QHIX platform with HealthSmart by, say, next summer. Can you give us an idea of what you're looking to in a SaaS model with that to capturing revenue as far as per life, per month, a range, a $1, $2, whatever it may be?
+
+John, I mean, the 600,000 lives or whatever, we will continue to report as the different milestones are met in the upcoming quarters. The prices that we have extended, it's range is all the way from $1 a month to $2 a month. And, in some cases, as the volumes go up, even the $1 a month could even further be discounted. So, we're not in a position to give you a hard number at which we will end up on an aggregate basis for all of 1.2 million lives.
+
+Okay. But, obviously, it's going to be substantial even if it's discounted from even $1 a month with that kind of number. Now, Denver – two weeks ago, you went live in Denver. Could we have an idea of what to expect as far as how many lives are under QHIX in this two-week period?
+
+There's about 160,000 lives that are currently being managed for this operation and it's only – well, I'll say it's one significant client of HealthSmart and certainly a significant piece of their business and their revenue to the Denver operation. So, we do anticipate more lives coming from Denver as well. And...
+
+Well, 160,000, as we speak, in this two-week period, you have 160,000 lives under the QHIX program.
+
+That's correct. But it – again...
+
+Okay. So...
+
+...as you know, it took us from almost September to today to get it implemented.
+
+Okay. No. That's very significant. [indiscernible] (51:08).
+
+I'd like to respectfully stay on the discussion that pertains to Quadrant 4 as opposed to digging into the details of HealthSmart's life and how many lives and what have you because we are sort of borderline crossing over the confidential information that they may or may not want us to publicly debate and discuss.
+
+Okay. Fair enough. I just wanted two more questions. Actually, the education pilots, you mentioned they're going well. One thing I wanted to note was, I think in the annual report it says sales are unexpected until 2017. Now, the pilots are going to end at the end of the current year which is May or June, so I'm just curious why not expecting any SaaS model revenues from the education platform versus seeing that earlier, say, signing up for maybe the September. Should we see this in Q3 or Q4 or it's not going to happen until 2017? I'm trying to get an understanding of what's going to – what we can expect in education.
+
+Sure.
+
+We will have the modest revenue in 2016, but that will be truly SaaS based because it takes a lot of implementation revenues, will proceed the recurring pure SaaS, and obviously the Brainchild revenue stream would also change its nature once that is offered through the cloud.
+
+Okay. So, in other words, it will be strictly cloud. It won't be like hardware based – not a hardware but...
+
+I didn't say that because there are certain buying patterns, and they will prefer to continue to buy a standalone – standalone Brainchild units also.
+
+Right. And obviously, you wouldn't want to stop that revenue. And just one final question, in regard to, well, the media product, I know you're not really emphasizing that right now. However, you do have a very nice contract going back a year or two and that's a five-year contract for about $50 million. So if I can annualize it at about $10 million a year, I mean, that's still going as planned, in other words, that contract should run out for several more years at roughly $10 million per year. Is that correct? And that's a SaaS model, correct?
+
+That is not actually a SaaS model. It's a substantial portion of the services model. It was an existing media client and the media platform that we were building about two years ago that we launched had really no relationship to the services that we are delivering to this particular client, but the domain that we picked up by servicing this client, we launched this platform. And as of today, the significant content that we are building on to this platform will be deployed into our two other verticals, in the healthcare and in the education markets. And to respond, John, to your question, the contract that we signed continues to deliver and we continue to service that contract as we move on.
+
+Okay. How do you intend to leverage the innovations developed from media into your primary sectors of healthcare and education?
+
+Go ahead.
+
+Let me just address that. The qBLITZ platform was conceived for making the digital content creation, delivery and distribution efficient. And the first application of that innovation was aimed towards the challenges and the problems that the publishers, in general, were facing. So, we're trying to bring the efficiency and the outreach and the cost savings to the publishers who are struggling to transition from the print media to the digital media, right? So, that was our initial description of the opportunity and the problem we were solving.
+
+As we move forward, as I think it's painfully clear to everybody that a person with an iPhone, an iPad, and a digital device and a blogging capability, is a publisher today. So, the old definition of who is a publisher is changing. That leaves the market extremely fragmented and I don't think we could focus on the publishers of the market which is embraced on a large industry strength digital platform.
+
+So, what we have embraced internally as a strategy is all this technology that were developed has got the media as a technology stack as opposed to media as an industry, okay, because the media is essential to everything that we do today in the digital era, whether it's a wellness-related media content that you need to distribute through your exchange or a textbook that is now from the print to media digitally you want to distribute or anything else in between.
+
+So, what we are doing now is we are actually making our exchanges that are aimed towards healthcare and education more feature-rich and giving an additional capability to our end clients to integrate the media-related features in delivering more products and services to their end users. Does it make sense?
+
+Yes. Yes. No, that's good. Thank you very much. And I'm actually sorry to take up much of the call. I'll leave it open to anybody else who has questions. Thank you.
+
+The next question comes from [ph] Darryl Zaontz with Darryl Zaontz Company (57:15). Please go ahead.
+
+Well, that was a good attempt at my name, [ph] Darryl Zaontz (57:23), but thanks and hello, everybody. My question is more conceptual. I'm kind of interested in what lessons we learned in the marketing of QHIX during 2015, if we can go into some specifics. What are we keeping? What are we changing? And I'll be quiet when you answer.
+
+Let me start there and I will need some more help from Robert on this to give you a complete color on this one. I think what we learned in a year and a half, two years, is our vision is spot on, as a digital ecosystem and what we call the exchange is a sort of a infrastructure that all the trading partners and all of the stakeholders involved in healthcare and benefits, needs to come together and share the information to be much more efficient in carrying out a business, whether implementing a digital marketplace or managing the flow of the cash and improving the experience in customer satisfaction and everything in between, whether you are trying to distribute your health plan products digitally or direct to the consumer or redoing your supply chain. So, our vision of what is coming as a part of disruption is getting validated every single day.
+
+Other thing that we learned is the whole exercise and identifying the players who is the risk underwriters and what is the next generation of risk underwriters that is evolving. So at the core of our product modeling, I mean, we didn't model the product, keeping in mind a TPA or a health plan or an employer, anything like that. We just looked at the business processes involved in successfully underwriting and distributing the health products and the benefit products. So, I think we are pretty much insulated from those who [ph] were built (59:37) definition of who is our end client. So, we should be able to attract any new class of underwriters and so forth and so on.
+
+Now, on the tactical standpoint, I mean, from the early launch in late 2014, early 2015, we ran a extremely tight sales and marketing campaign with the minimal resources that we had and we had an early win. Now, we're building the implementation groups and so forth to just support the scaling of the deployment.
+
+And as to the sales and marketing, I mean, these are critical decisions, like Robert says. I mean, the cost of change is extremely high and it takes long to make a decision, and then, it takes some time to implement it. So, we are considering not only continuing our direct sales attempts that we are going on, but now with the maturity of the product and so forth, we have had a multitude of possibility of forging channel relationships with large companies that are distributing other side of the healthcare IT service and products, vis-à-vis, claims and other things, adjudication systems and so forth. So, there are a lot of excitement about our product to bundle it and forge channel relationships.
+
+So, some of the lessons that we learned is, A, it's a valid market, it's a big market. Our products are spot on and I think we helped earn respect and recognition both from the clients as well as from the other significant suppliers and players that want to extend a hand of partnership in this endeavor and open up new channels of distribution of our product. So I think in the upcoming quarters, you will probably see some of those coming to the [indiscernible] (01:01:54).
+
+I don't know, Robert, if you – if I missed anything or something specifically that you want to add as far as the lessons learned and how we take that lessons and implement our new go-to-market strategies.
+
+No. I think you covered it quite well. To your point, it's now maturing as a product and we need to work harder and look smarter, and we are doing both of those.
+
+Okay. Very good. Thank you very much, gentlemen.
+
+The next question comes from Martin Cohen with Martin Cohen Financial Services. Please go ahead.
+
+Yes. This is addressed to Robert Steele. Robert, I know this healthcare exchange market is exploding out and I noticed that Prudential is getting into it. Could you help me outline the services of QHIX versus what you seen out in the market that would give us a competitive advantage?
+
+Absolutely. So, you heard me refer to the Hybrid Exchange. The majority of our competitors fall into one of two buckets. They either are a group exchange or group administrator, and I could mention names I want, or they fall into the individual exchange or individual marketplace experience, but their products do not cross over.
+
+QHIX is truly the only product of its kind. It manages all stakeholders, group and individual, employer and consumer, all stakeholders that provide connected services, so agents and brokers, administration, commission tracking, remittance, reconciliation. It provides the full financial management capability. So, you're looking at multiple systems at a health plan that do all these different things, have to be integrated most of them, again are provided by different vendors. QHIX is the only product that can do all of these things. That is the differentiator and that is why we are receiving the attention that we are.
+
+Also, can there be other services linked into QHIX that would generate additional revenue that would basically complement QHIX, for example, companies that do prevention programs or other services that could complement the QHIX platform?
+
+Absolutely. So, we did build the application again to truly connect all the dots for all the stakeholders. And so, to your point, from a consumer engagement or member management, as a health plan refers to a consumer, having that ability to have a digital platform, if you will, for managing content and managing process and managing a care management, if you will, Being able to have a single footprint for managing all that is what the marketplace is looking for and QHIX was designed for that. Dhru referred to the education side of the house or the media side of the house. And so, one of the things I think that we have learned over the last couple of years is how do we take the strengths from our other businesses and deploy those for each of the other respective markets.
+
+One of those is what we call reach and teach, which is also a differentiator in the marketplace. Reach and teach means simply, we want to help our clients that health plans, TPAs and marketing organizations reach consumers kind of where they live and breathe on the devices they know and trust, with the information they need at the time they need it. That could be a health event, life event, a change of family status and in that, they need access to content, they need access to videos, they need access to materials to make – help them make right decisions. And therefore, that connectivity is powerful and data is going to be a significant portion of driving the content and driving revenue.
+
+Yeah. One final question, Robert, if Obamacare was eliminated and it was transitioned to that, I think they're talking about a system where insurance companies can compete across state lines for coverages. How would that impact your business? If you had sort of a [indiscernible] (01:06:34) compete nationally for healthcare services?
+
+Well, again, most of these health plans are competing actually. You have a difference because state insurance commissioners kind of like having revenue coming into their offices and they're going to probably open up, not necessarily barriers to entry but they're – I think that you'll see some change. But you heard me mention in my summary, we do not see any political wind blowing such that no matter who's in office, it's kind of like stretching a rubber band beyond breaking. Once that rubber band is stretched to the point of no return, it doesn't ever come back to its original form.
+
+Therefore, we are going to have some form of ACA just like social security was passed in the 1950s. We're going to see some form of ACA for the next 25, 30 years. And as such, the platform that we have built is designed. That's why we call it QHIX, the next-generation exchange. We don't care what happens politically. We are poised to serve the market.
+
+Okay, Robert. Thanks a lot and great commentary.
+
+The next question comes from [ph] Sachin Shah (01:07:50), a private investor. Please go ahead.
+
+Hey, Dhru and team. How are you? I just had a quick question for you, I think, Dhru, in terms of forecasting going forward, looks like you guys have a lot of momentum going forward with QHIX and as well as education. But if you had, if I asked you six to eight months from now or by the end of the year, ideally what the business mix and where the business stood, what would you sort of be able to tell me?
+
+Business mix as in product versus services, as in what? I mean, what are you trying to get a sense for?
+
+Just get a sense of where do you feel the business will be overall in terms of where the emphasis would be and where the...
+
+Well, first of all, I am not going to give any guidance relative to 2016 or 2017 or 2018, anything like that. So, let me just be very clear about that, to start with. As to qualitatively, as I said in my early discussion that we are very meticulously and carefully and responsibly transitioning the business from services to more of a pure software and technology business, right? And while we do that, we are committed to deliver the growth, top line growth as well as some of the fundamental improvements such as gross margin improvements and so forth. So, it is a very hard task to deliver both.
+
+Right.
+
+If I had all the freedom in the world and just say, you know what, I'm just going to get out of all of the legacy businesses that is not figuring into our company's go-forward strategy. And no matter what happens to my EBITDA or top line and gross margin, that is one way of executing it, right? But that's not who we are, that's not what we are signed up to do. So, we're going to continue to deliver top line growth at a responsible way and accelerate the transition as responsibly and as rapidly as we can deliver. So, given that, and first and foremost, I mean, without that, we don't have the operating strategy. So, now, we are making some significant investments in our products and the technology and giving this company a fine chance to work all these opportunities that are in front of us.
+
+So, if I have to give any quantitative numbers, I think I'd like to see a few distribution channel relative to our products opened up in a way that they can deliver more clients at the least cost to us. And as a result of that, we would like to see that today, we are about 80/20 rule of a 20% of our revenues coming from the sale of the technology and the platforms and so forth, and I'd like to grow from that and significantly quarter-on-quarter or year-over-year. And I'm thinking I'll get to a point where next year, we are sort of reporting on by sector, by product category, by all of these things, so that you guys can have a better sense for, which is the growth area for us.
+
+But currently, I mean, we are bullish about both our market opportunities, education and healthcare. And I think, we are well-positioned to just chain them, chain the equation, chain the mix as far as how much of our total contribution come from the products, as opposed to pure services.
+
+Okay. Great. Thanks.
+
+That's all the time we have for question-and-answer session today. So, I would like to turn the conference back over to Mr. Desai for any additional closing remarks.
+
+Yeah. Well, I want to thank you everybody on the call for your support and your interest and your confidence in us. I also want to support my team, Nandu, Robert, Shekhar, and our engineering team and sales team, as well as our software development partner offshore in India. And we're looking forward to continue to build this business and be in front of you again soon with our next update. Thank you again and have a wonderful day.
+
+The conference has now concluded. Thank you for attending today's presentation. You may now disconnect.

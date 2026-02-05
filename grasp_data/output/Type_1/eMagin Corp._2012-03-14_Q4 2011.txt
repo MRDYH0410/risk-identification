@@ -1,0 +1,321 @@
+Participants
+CORPORATE PARTICIPANTS
+OTHER PARTICIPANTS
+Paul C. Campbell — Chief Financial Officer, eMagin Corp.
+Andrew George Sculley — President & Chief Executive Officer, eMagin Corp.
+Steve Shaw — Analyst, Sidoti & Co. LLC
+Aram Fuchs — General Partner, Fertilemind Capital
+
+Management Discussion Section
+
+Question And Answer Section
+
+Good day ladies and gentlemen, and welcome to the Fourth Quarter 2011 eMagin Corporation Earnings Conference Call. My name is Stacey and I'll be your conference moderator for today. At this time, all participants are in a listen-only mode. We will conduct a question-and-answer session towards the end of the conference. [Operator Instructions] As a reminder, this conference call is being recorded for replay purposes.
+
+I would now like to turn the presentation over to your host for today to Mr. Paul Campbell, CFO. Please proceed.
+
+Thank you, Stacey and welcome everyone to eMagin Corporation's fourth quarter 2011 conference call. Andrew and I were just discussing that we've done 15 consecutive quarterly conference calls together with eMagin Corporation and this will be the 15th time I've read the forward-looking statement. But once again, I would like to remind you that we will be referring to numbers that are part of our 10-K for the fourth quarter of 2011 ended December 31, 2011. And during today's call, we may make forward-looking statements as they are defined in the Private Securities Litigation Reform Act of 1995.
+
+These forward-looking statements are based on the company's current expectations, projections, beliefs and estimates and are subject to a number of risks and uncertainties. Such statements include references to projections of future revenues, plans for product development and production, the company's ability to ramp up production at its manufacturing facilities, future contracts and commercial arrangements, future product benefits, future operations, liquidity and capital resources, as well as statements containing words like believes, expects, estimates, plan, target, will, intend, could and other similar expressions.
+
+Risk factors are included in the company's Form 10-K for 2010 and 2011 on file with the Securities and Exchange Commission. Except if it's directly required by federal securities laws, we undertake no obligation to publicly update or revise any forward-looking statements whether as a result of new information, future events, changes in circumstances or for any other reasons.
+
+Now, I'd like to turn the call over to Andrew Sculley, our President and CEO of eMagin.
+
+Thank you, Paul and thanks everyone for joining us. I'd like to begin by giving you a brief overview of our business, then Paul will discuss our financial results. Finally, we will open up the call for your questions.
+
+During the fourth quarter, our domestic and international-based business was strong and revenues exceeded a strong quarter in Q4 2010. Our R&D programs advanced and our net income increased. We met our expectations for revenue guidance for 2011. The gap between actual and planned production that we've previously reported improved. Our yield improved versus the prior quarters, and we've learned how to efficiently run the three shifts on the front end of our process and the expanded back-end production schedule.
+
+We were able to produce 36% more displays in the fourth quarter of 2011 versus the fourth quarter of 2010. Our improvement shows there is a better margin from the higher volume and yield. The new OLED deposition machine is undergoing testing. We expect the final acceptance testing this month. During the second quarter, we will ramp up the equipment and qualify the products.
+
+We've been extremely picky about a few areas that required some redesign of the equipment in the chambers by our vendor, SNU Precision, the equipment manufacturer. The extra effort will pay off in accuracy of the equipment when it's in production. The new seal tool will augment the existing seal process. We've mentioned the seal tool before. The system passed a critical test recently and is expected to come online in the second quarter.
+
+This additional process was conceived by eMagin to increase our advantage in seal technology. It will increase yield and capacity. The combination of this tool plus the new OLED deposition tool will greatly enhance our manufacturing capability. It's worth noting that we follow up our improvements in technology by regularly filing patents. In fact, we're encouraging our employees to file their inventions as patent applications to make our patent portfolio stronger.
+
+Now I'd like to update you on some specific projects. We finished an R&D contract for Phase I of the commercialization for our highest resolution display, the WUXGA, with resolution of 1920x1200 pixels, and again, that's higher resolution than your full HDTV.
+
+We signed a $1.1 million Small Business Innovation Research, or SBIR, contract with the United States Special Operations Command, known as USSOCOM, to optimize the eMagin's WUXGA OLED microdisplay for mass production. We expect to complete this in the third quarter of 2012.
+
+The challenge for this display was the small size of the pixels and sub-pixels. The red, green and blue sub-pixels were only 2.45 microns wide. We've now extended this work to pixels that are about 16% smaller.
+
+A number of our customers are looking at integrating our WUXGA into high-performance digital night vision applications for pilots and soldiers. Our OLED technology matches perfectly with the latest family of digital night vision sensors.
+
+Our team has also developed the high-brightness green OLED architecture for our displays. The Night Vision Lab was very impressed with our high-brightness green combined with the WUXGA display mentioned above. We're getting very positive feedback about the potential use of this combination for soldiers and in avionics.
+
+Use of OLED in avionic applications had previously been limited by brightness. We've now taken a large step to break through this barrier. In fact, one of the officials in the Night Vision Lab joked that our display high-brightness green on the WUXGA almost blinded him when we dialed it up.
+
+Current efforts for high-brightness are also for color display. Some non-military customers have asked us about this possibility as well as military customers. To make this a reality, we're working on a technique that has promised to directly pattern our microdisplays.
+
+Currently, we use light-emitting OLED and color filters to create a color display. Elimination of the color filters will increase the performance of our color displays by four to five times. That, plus higher-performing OLED architectures for all colors will give us a color display that is desirable for military and commercial applications. To meet commercial applications, we're also working on a better color gamut.
+
+Here we are working with the University of Rochester, specifically Ching Tang's group. Ching is the inventor of OLED. Both Ching Tang and Amal Ghosh, our head of R&D, are very creative. They've hit on an idea that for direct patterning that looks very promising to me and here I've seen a number of applications or methodologies that didn't work, this one really looks promising. There are many technological hurdles for manufacturing that our R&D team will have to overcome, but again, it looks promising.
+
+To put this in context, we use the white with color filters because patterning the small pixel size is not possible today. Companies who make cell phones or larger OLED displays use a fine metal mask, but the pixel sizes are too large for us. So, again, this looks like a promising path forward.
+
+We're providing displays or assemblies to three of the four prime contractors for the first program here in the Enhanced Night Vision Goggle program. This program is a modernization where both visible light and infrared light are fused into one image. Microdisplays needed to turn the infrared light into visible light.
+
+We expect by mid-2012, the government will select a couple of prime contractors from this group of four to supply large volume shipments during the second and third year of the program. For ITT Exelis, we're supplying modules that contain our display.
+
+Customers and potential customers for our digital VGA have given us very favorable feedback, a very high contrast, low power and compatible footprint is ideal for retrofit and upgrade in thermal weapon site applications. Some customers have integrated the digital VGA into new products and others are looking to upgrade products and take advantage of these improved characteristics. We expect to receive volume production orders for 2012 in the second quarter of this year.
+
+The headset we develop for TATRC, that's Telemedicine & Advanced Technical Research Center using our WUXGA display was very well received. We submitted a white paper to bring this product to a state of manufacturing readiness. TATRC asked us to submit a proposal in response to the white paper.
+
+We anticipate a favorable response to the proposal for this two-year program in quarter three of this year. An industrial manufacturer has expressed interest in this product, but we can't disclose the name of the party. The silicon wafer design team helped push the TATRC program forward by improving the WUXGA design. This group is now designing a new display for the electronic viewfinder market. It's been a very good thing to bring this group into eMagin.
+
+We're working on the Department of Energy's contract with Ching Tang of the University of Rochester. The program is to improve OLED's solid-state lighting technology. It's a three-year program and the contract is in its final stages of being signed. We had a very good kick-off meeting this past October and are developing a research plan. We're excited about this program as it has great commercial potential to improve OLED's solid-state lighting efficiency and allow us to make more efficient displays.
+
+We've received the sizable purchase order for high-performance OLED SXGA for high-end electronic viewfinder from an industrial customer and are currently making deliveries on that order. We're working on other electronic viewfinder applications, including supplying integrated products beyond just display. This work could be useful for a number of potential customers.
+
+The work with the Japanese industrial customer for high-end application is also progressing toward a decision for lunch by this customer. This particular display is the only one we're aware of in the industry that is capable of satisfying this particular customer's demanding application.
+
+L-3's Javelin program is proceeding in a manner that is consistent with government funding. Deliveries continued in the fourth quarter of 2011. This program you may recall from past earnings conferences is a manned portable anti-tank missile that uses our display for aiming.
+
+I'd now like to turn the call back over to Paul who will take you through our financial results.
+
+Thanks, Andrew. The Q4 numbers were strong and an improvement over Q4 last year. Revenues, gross margin, percentage of revenues, and operating profit, all increased. Q4 revenues were $8 million, an increase of $65,000 over Q4 last year due to product revenues increasing 20%. These are primarily display sales.
+
+R&D contract revenues were off from Q4 last year as we completed contracts during the quarter and we have some new contracts starting up here in first quarter. Gross margin increased to 65% of revenues on gross profit of $5.2 million compared to a gross margin of 62% in the same quarter last year.
+
+So, gross margin for Q4 was a 12 percentage point improvement over Q3. That gross margin was 53%. The increase is due primarily to an increase in production output as Andrew mentioned and a decrease in contract cost and expenses.
+
+Product gross margin was 63% and contract gross margin was 76%, and the high gross margin for the contracts was due to lower cost and the completion of contracts in Q4.
+
+For the fourth quarter, SG&A expenses were down from last year, but an increase in R&D expenses resulted in a slight overall increase in operating expenses. R&D expenses were up as we had less overall contract revenue absorbing less of our R&D expenses.
+
+Operating expenses, which are comprised of R&D expenses and SG&A expenses totaled $3.8 million versus $3.7 million in the same quarter of last year. Operating income for the fourth quarter increased 18% to $1.5 million, up from $1.3 million for the same quarter last year.
+
+Net income for Q4 was $1.2 million and earnings per share was $0.04 per diluted share. Adjusted EBITDA for Q4 was a positive $2.6 million, which equaled Q4 last year, and in that number we adjusted out the severance and legal settlement expenses from 2010.
+
+For the fourth quarter, our financial position remained strong due to positive cash generation from operations and no debt. At December 31, 2011, we had cash, cash equivalents and CDs totaling $14.3 million, compared to the same for $12.4 million a year ago. We achieved this increase in cash through operating cash flows.
+
+We invested $2.9 million in capital spending during 2011 and this also was funded from operating cash flows.
+
+We have no debt, and we've been self-funding for three years now with no equity raises since 2008.
+
+In Q3, we initiated a share buyback plan and we made some open market purchases of eMagin stock, ticker EMAN by the way, during an open trading window in Q4. And we bought a total of 25,000 shares in that window.
+
+We're looking forward to a good 2012. Andrew had mentioned some of the programs, contracts and business opportunities that we have. Based on our customers' projections and our expectations, current market conditions, and scheduled shipments and deliveries under existing POs and contracts, the company expects revenue for 2012 to fall within the range of $30 million to $34 million.
+
+With that, I would like to turn the call back over to Andrew.
+
+Thanks again Paul. I'd like to thank the eMagin team. We've become efficient on three-shift operation of OLED deposition, the packaging operation has extended to multiple shifts and weekends to keep the product flowing. The R&D team has made an outstanding progress on displays and with the TATRC headset to get very good recognition by the Night Vision Labs and TATRC.
+
+Business development has opened new markets with the electronic viewfinder. The silicon wafer design team is designing a new display for the electronic viewfinder market. The administrative functions have kept us running smoothly. I said it before, this is a winning team. I'm very happy and proud to be a part of this team.
+
+We're all excited about the improvements in the new equipment that – and those – what those improvements will allow us to make and again, I thank each and every one of the eMagin team for a very good 2011 effort and looking forward to another great year in 2012. I want to thank everybody on the phone as well for your time today and should you have – please, any questions you have, we'll open it up for questions.
+
+[Operator Instructions] Your first question comes from the line of Steve Shaw with Sidoti & Company. please proceed.
+
+Hi, guys. How are you doing?
+
+Good, Steve.
+
+Hi, Steve.
+
+You said the gross margin was up and R&D – I mean and the R&D expenses were up as well as a result of the low contract revenue. Would it be fair to say that would sort of balance out in 2012 a little bit as you guys bring more contract revenue back on with the gross margin maybe ticking down a little bit and R&D expenses ticking down as well?
+
+Yeah, we – when we give the guidance we don't split it into product and contract, maybe we will do that in the future. But generally Q4 was lower revenue for contracts, and we did have a very good high gross margin in the quarter, and that's probably not what we would expect for margin, for contract revenue in 2012.
+
+I think, we would expect something a little lower back more towards to our normal margin on contracts, which is around 50% or so, it could be higher, it could be lower depending on the contracts. But 76% margin is not what we would look for, although we're very happy to have it in Q4.
+
+Right. And then, Paul, when you were talking about the SG&A, it's down from the year-ago quarter, is that also tied to the contract revenue? I missed the SG&A tidbit.
+
+The SG&A was down a little bit. Total operating expenses were up a little bit. And that's primarily due to some large expenses we had last year, which included a severance payment and litigation expenses that were – those were booked into operating expenses. So for your models, Steve, you might want to adjust those out. And for the quarter the fourth quarter last year the settlement expenses were $650,000 and the severance expenses were $175,000.
+
+Okay. All right thanks, guys.
+
+Okay, thank you.
+
+You're welcome.
+
+Your next question comes from the line of [indiscernible] (21:31), a shareholder. Please proceed.
+
+Hello?
+
+Hi
+
+Hi, [ph] Eugene (21:35).
+
+I just want to say it sounds like you're making great progress on the technology and the business opportunities. I have three questions, the first one, at the 2010 shareholders' meeting, you said that eMagin had a big order from a big commercial customer whose name we would all recognize but that you weren't at liberty to announce that name. And at the 2011 ASM, you reconfirmed that, but said you still couldn't reveal the name. My question is what is the status of that order, if it's still on track, but you still can't reveal a name or has that relationship been scaled back or terminated?
+
+In terms of the – we talked about today two customers. One is longer standing. That's a Japanese industrial customer. Again this is a high-end application for a headset. And the other customer is high-end digital – well, a viewfinder for digital high-end industrial application.
+
+I guess it was the first one you were talking about before, so that's still on track?
+
+Yes, it is. And the company is extremely demanding. Again, it's a high-end application so they wanted it exactly right. And I'm assuming that we're not holding them up here because they're very happy with our display at this point.
+
+Okay. If I remember, the original schedule for the new machine – the deposition machine was that it was going to take a quarter to install and customize it. And then late last year the delay in delivery was explained as you have more work done in Korea to shorten that time. But now it looks like it's going to be four to seven months between delivery and production. How confident are you that this schedule is going to be met?
+
+Well, in the case of, at this point, I had said earlier that we have a few things within the chambers, to be precise, many shutters that we are trying to get the design better. We feel comfortable because of the improvements that SNU Precision has made, and the machine is here being tested. So we're feeling much more comfortable now. It did take longer than we expected originally, I admit that, both in Korea and here. I'm glad we've made the transfer between Korea and here when we did, because-
+
+But you're confident that things are good now?
+
+Yeah.
+
+Okay.
+
+I feel good, actually.
+
+And the other thing, [ph] Eugene (24:21), is we wanted to add some things to the machinery that wasn't on the original order-and that was some of the extra time in Korea-so that when we do have the machine we feel it will be the best machine. We'll have the best machine for what we do.
+
+Yeah.
+
+Okay. Well, that's the best thing for the long run.
+
+There were a couple of things that we added to the machine. Actually, one of them I had mentioned earlier. We had a unit that we're going to have done here but we thought it's much wiser to have the same company do it so that we weren't getting fingers pointed if it didn't work out so well. You have been there before maybe.
+
+Yeah
+
+I have.
+
+Okay. Well, my final question, I believe the original guidance for 2011 revenue was $30 million to $35 million. This was scaled back to $29 million to $33 million, which eMagin has met. But now the 2012 – now that eMagin has this 10 times deposition machine and the new sealing machine, which is what has eliminated all the production bottlenecks, the 2012 guidance is only $30 million to $34 million, which is less than the original guidance for 2011 when all you had was the Satella. So at first glance this implies the new machines make no difference. How can that be?
+
+Well, there is a couple of things, guidance, there is a lot that goes into the guidance, what we think, what orders we have in hand, some of the budget considerations weigh on our guidance. So there is a lot to it.
+
+What we do like is the fact that we'll have our machine in place and it will give us the opportunity for larger revenues. Once that's up and running and meets all the qualification testing and everything, we'll be ready to accept orders that we could not accept before because of our limited capabilities in output. So --
+
+So the 2012 guidance is really based then on customer demand?
+
+Well, in the end it's always based on customer demand.
+
+Well, if you can produce it, I gathered with the Satella you were having trouble even producing it?
+
+That's true. Each quarter last year we had orders that – in hand that we could not produce. And like I say the guidance is what we're putting out there for 2012 and hopefully we will exceed it. But, we gave a nice range there and like I said there is a lot that goes into that number and we'll keep you updated as we go through the year.
+
+Okay. Well, thanks a lot. And it sure sounds like you are making great progress in the technology and the business opportunities. Thank you.
+
+Thank you, sir. We are happy.
+
+Okay and bye.
+
+Bye.
+
+Your next question comes from the line of [indiscernible] (27:41), a private investor. Please proceed.
+
+Hello, Andrew and Paul. Congratulations on a good quarter.
+
+Thank you, [ph] John (27:50).
+
+Thanks.
+
+I guess I had a few questions. I'd like to talk a little bit more about the guidance of $30 million to $34 million and just – it sounds like that does not include the potential large orders at the new deposition machine could potentially handle, would that be a correct statement?
+
+Remember we said the new machine was 10 times the capacity, so I think it's rational even though, obviously, you have to take the price into account there too. And if you get large orders you might have lower price but yes the machine could produce more than that revenue range, yes.
+
+Would you say the guidance includes the night vision contracts that are yet to be awarded or does not include those?
+
+Well, remember how a government contract will go. We expected and we said this that mid-year the government will downsize from four to two and that then there will some production in the latter half of the year to build sample headsets, if you will, for the government testing and then volume orders will be out in the future.
+
+Okay. So the volume orders for the night vision contracts will be out – will that be this – I am sorry will that be in 2012 fiscal year or beyond?
+
+The volume orders will be beyond.
+
+The big orders, the big orders will be beyond 2012.
+
+Yes.
+
+Okay, okay, great.
+
+Again, if you look at government contracts that's not unusual.
+
+Okay. Thanks for explaining that. In the past you – I think I've asked in the past about the competition with Sony's displays and now like we see Zeiss had OLED consumer device with the Cinemizer in it, kind of an odd resolution. I guess, I am asking if you could talk a little bit about the competition, who might be supplying Zeiss, if you know. It certainly looks like it might not be you guys with that resolution, but it's hard for us investors to tell what's going on. I was wondering if you could give us a little bit of color on the competition and if that's impacting you guys as far as prices go and I guess I'll leave it at that?
+
+In terms of Zeiss the – it's a wide VGA, and we had mentioned before there are two, besides Sony, there are two other competitors in the OLED market. One is a very small company at the moment is MicroOLED in France and by the way they have a wide VGA product. So that's the one precise and the other one is a Chinese competitor who does not a have a wide VGA to our knowledge. So we feel very comfortable with the French company.
+
+Is it affecting our price, well customers will of course say there is other displays on the market, but there nobody is in mass production and fielded it at the moment and maybe you can argue Sony is. But Sony doesn't sell into our markets yet, they may in the future.
+
+The other positive, just to give you, on the other side with Sony, they've done two things, one is a headset and one is an electronic viewfinder for a camera. So I think in putting that on their cameras, it's made other companies think that maybe that's something they need to do as well. And so we may say and we've said this before, we may see that Sony actually spur some business in our direction as well.
+
+Okay. Thanks. Can I just ask one final question if you mind? Could you explain a little bit about, I think you mentioned the SOI substrate and what kind of advantages you see with that?
+
+Yeah, that's Silicon on Insulator. That – we'll allow – it's an exotic step forward. We're using a foundry in the U.S., that's another positive for the funder of that is in Night Vision Lab, and we intend to do a number of things with that. One is, Silicon on Insulator allows us to reduce the leakage significantly and it allows us if we want to also to use higher voltages. So, we have a lot of things that we can do with that.
+
+And I'll just mention – I'll give you an example that could be done, but as it stands now, we're taking a look through that in trying to arrange better what we do, so we may or may not do this.
+
+In OLED, you can have a tandem architecture and that means, one OLED stack on top of another. That was a patent that was originated in the eMagin, but if you put two stacks of OLED in a series, you have a higher voltage.
+
+So, you need to be able to use a higher voltage, but can't stand it to leak, any current leaking. So, that's something that Silicon on Insulator can do. And we hope to be able to update you with that program in the future to tell you what it is we're doing with the U.S Foundry, it's exciting.
+
+Great.
+
+Your next question comes from the line of Ian Clark with Fertilemind Capital. Please proceed.
+
+Yeah. It's actually Aram Fuchs from Fertilemind Capital.
+
+Yes. Hi, Aram. How are you doing?
+
+Good, good. I was wondering if you can go a little more detail about the budget constraints with the DoD. Specifically, are these – the various contracts that you have, are they funded year-to-year, or are they funded on a more permanent basis?
+
+Well, they are normally funded for the length of the contract, and depending on the contract, usually it's at least a year and it can go into several years. Just depends on which contract.
+
+Like the Telemedicine one? Let's use that as an example for instance.
+
+Yeah. In that case, we don't have it yet. We said – we thought we'd get it in the third quarter unless you're talking about the past one.
+
+No, no, no. So, what is...
+
+It is the Night Vision – Night Vision for example, or are you talking – I'm sorry, are you talking about Telemedicine in the future we're talking about?
+
+Yeah, I'm just wondering, obviously, they are going to – there is are – we're going to run up against the debt ceiling again at the end of 2012. So, this Telemedicine one for instance, will that be taken – will the rug be taken – what's the potential for the rug to be taken out of that program?
+
+It's a two-year program. Usually it's funded one year at a time, and we haven't seen the rug come out from under us and anything. It's $3.5 million. What more typically will happen is, you don't get funded, if indeed something like this happens, now they say that you're going to get it and you don't, we – I don't remember any time that we've had the rug pulled out from under us of something we had in hand.
+
+Now that said, we have to perform-
+
+Sure.
+
+... when doing these things otherwise if you don't perform and hit the schedule and it slips over into the next year, then you can lose part of it.
+
+All right, yeah. I was specifically talking about the U.S. budget risks, not your performance or anything like that.
+
+Okay.
+
+Yeah, the budget risk is obviously something that we're very cognizant of and we consider that – we had the question about guidance, we consider those kinds of things in the guidance and that's what makes it sort of difficult to explain.
+
+There's a lot of different parts to the government budget and they are funding a lot of different things, and fortunately, they in the past and up until now, they have funded us quite well. They like OLED, many of the agencies have funded us, and we've done a wonderful job on the contracts that we have done.
+
+So, hopefully that will continue and we'll be able to negotiate sort of tough budgeting times, and I think it will affect the companies differently. It depends on what your technology is, what your performance has been with prior contracts, and what the government agencies are interested in right now. I think those will have a better chance of the funding coming through.
+
+Okay, and then this – the Carl Zeiss product has attracted some buzz. I was just wondering if you could put that into context of what you're looking at in the consumer space, what you're seeing in the short term and long term?
+
+I think in the consumer space, Sony is likely to help us from – with respect to the electronic viewfinder. We're already in a very high-end application of that and our product is getting some good press by the customer because of it. So, perhaps the electronic viewfinder is a possibility. We do take requests from people about headsets as well, but those are a little further out than the viewfinder application.
+
+They are further out because of the cost still or something?
+
+Well, the headsets are tough as Carl Zeiss will probably tell you if that – let me use Sony as an example, Sony has been out with a headset for a number of times and this is another version of it. It's unclear whether it's going to take off or not.
+
+We had said when we put in the capacity for the new machine that our goal is to continue to gain share in the military, look for new applications in the industrial commercial, and be ready should there be a consumer application. We still stand by that, so that if there is a headset that is likely to take off, we're very happy to talk to a company like Carl Zeiss. I just – I don't know whether people are going to use them beyond gamers is a question that I have.
+
+Right. And then on the share buyback, I was wondering, usually companies buy back shares when they think they have excess working capital. Is there a number that you'd feel comfortable with having in working capital that you could share with us?
+
+Well, no, not really. It's kind of like the more cash you have, the better.
+
+Right.
+
+But I really don't want to comment too much on the share buyback because we reported what we did and that sort of stands alone. But we'd be happy to make more purchases in the future when the market conditions are such that we think it would be a good value and a good return for the shareholders. That's what we did and that's what we'll continue to do. And obviously, we enjoy adding to our cash balances as well, and we've done that consistently over the last three or four years out of operations. So, we'll just have to wait and see what we do on future buybacks.
+
+Okay, great. Thanks for your time.
+
+You're welcome.
+
+Thanks a lot, Aram.
+
+[Operator Instructions] Your next question comes from the line of [indiscernible] (41:12), a private investor. Please proceed.
+
+Hey, guys. I had a quick follow-up question on the share buyback. Specifically, the Series B preferred stock, it looks like you had the ability to redeem those shares which convert at $0.75 a share. Can you talk a little bit about your ability to redeem those shares as opposed to just buying shares in the open market at current prices?
+
+Yeah, we have the ability to redeem those shares and you're correct about the price. And that would be obviously a large investment and a big decision that we would make. So, obviously, we haven't done that to this point and it could be an option for the future.
+
+Thank you.
+
+And at this time, I'd like to turn the call back to Andrew Sculley for closing remarks.
+
+I want to thank everyone on the phone for listening and for the questions you asked. Thank you very much. I think that, just to recap, we've had a very tough year and a good year. Our team has performed very well to get the products out under a capacity limitation. Our R&D group has performed very well. We've gotten accolades from the people we've done the R&D work for, and I'm very happy with that.
+
+And we have new markets. During the conversation, we were asked about headsets. We do that Japanese customers for very high-end headsets, so we are involved in that. And we're making sure we're in the right end of the market so that it does well, and I think we're going in the right direction. We have a number of markets that the business development group is looking into. So, I think we have a good future.
+
+Again, I want to thank the eMagin team, the shareowners and everyone on the call. If you have any additional questions, don't hesitate to contact us and see if we can answer them for you. And if you have any suggestions, we'd happy to listen as well. Thank you very much.
+
+Thank you.
+
+We thank you for your participation in today's conference. This does conclude your presentation. You may now disconnect and have a great day.
